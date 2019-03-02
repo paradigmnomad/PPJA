@@ -1,0 +1,41 @@
+{
+  "Name": "Honey Cake",
+  "Description": "A sticky sweet!",
+  "Category": "Cooking",
+  "Edibility": 32,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 500,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+	"Hate": ["Maru", "Sebastian"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 340,
+        "Count": 2,
+      },
+{
+        "Object": 245,
+        "Count": 1,
+      },
+{
+        "Object": 246,
+        "Count": 1,
+      },
+{
+        "Object": -5,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2500,
+    "PurchaseRequirements": [
+      "z winter",]
+  }
+}

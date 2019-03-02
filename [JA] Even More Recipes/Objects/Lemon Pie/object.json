@@ -1,0 +1,36 @@
+{
+  "Name": "Lemon Pie",
+  "Description": "Lemon pie and picnics are the way to enjoy your summer.",
+  "Category": "Cooking",
+  "Edibility": 58,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 760,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Lemon",
+        "Count": 1,
+      },
+      {
+        "Object": "Graham Crackers",
+        "Count": 1,
+      },
+      {
+        "Object": -6,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2760,
+    "PurchaseRequirements": ["z spring fall winter",
+],
+  }
+}

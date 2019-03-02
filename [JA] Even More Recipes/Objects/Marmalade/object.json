@@ -1,0 +1,28 @@
+{
+  "Name": "Marmalade",
+  "Description": "A fruit preserve made from citrus peels and sugar.",
+  "Category": "Cooking",
+  "Edibility": 34,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 300,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus","Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+	"Hate": ["Jas", "Sebastian", "Vincent"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 635,
+        "Count": 1,
+      },
+{
+        "Object": 245,
+        "Count": 1,
+      }
+    ],
+    "IsDefault": true,
+  }
+}

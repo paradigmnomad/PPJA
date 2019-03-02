@@ -1,0 +1,43 @@
+{
+  "Name": "Iced Chocolate Donut",
+  "Description": "A simple, iced chocolate donut.",
+  "Category": "Cooking",
+  "Edibility": 98,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 1150,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Abigail", "Evelyn", "Jodi"],
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Elliott", "George", "Gus", "Haley", "Harvey", "Jas", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Leah", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Chocolate",
+        "Count": 2,
+      },
+      
+{
+        "Object": 246,
+        "Count": 1,
+      },
+{
+        "Object": 245,
+        "Count": 1,
+      },
+{
+        "Object": -5,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 3150,
+    "PurchaseRequirements": ["y 2",
+"f Vincent 750",
+],
+  }
+}

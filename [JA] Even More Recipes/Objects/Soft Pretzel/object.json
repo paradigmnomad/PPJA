@@ -1,0 +1,32 @@
+{
+  "Name": "Soft Pretzel",
+  "Description": "A classic snack.",
+  "Category": "Cooking",
+  "Edibility": 10,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 120,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	"Dislike": ["Harvey"],
+	"Hate": ["Leah"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 246,
+        "Count": 1,
+      },
+{
+        "Object": "Salt",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 650,
+    "PurchaseRequirements": null,
+  }
+}

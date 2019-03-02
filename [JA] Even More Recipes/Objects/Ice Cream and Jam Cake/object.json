@@ -1,0 +1,44 @@
+{
+  "Name": "Ice Cream and Jam Cake",
+  "Description": "Perfect for those who have a sweet tooth.",
+  "Category": "Cooking",
+  "Edibility": 78,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 350,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Demetrius"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Emily", "Krobus", "Leah", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 233,
+        "Count": 1,
+      },
+      {
+        "Object": 344,
+        "Count": 1,
+      },
+{
+        "Object": 246,
+        "Count": 1,
+      },
+{
+        "Object": 245,
+        "Count": 1,
+      },
+{
+        "Object": -5,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1125,
+    "PurchaseRequirements": null,
+  }
+}

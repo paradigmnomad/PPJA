@@ -1,0 +1,58 @@
+{
+  "Name": "Prismatic Popsicle",
+  "Description": "Said to contain the rarest fruit in the valley, it fills you with joy.",
+  "Category": "Cooking",
+  "Edibility": 62,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 3,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": 2,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 640,
+  },
+  "Price": 3325,
+  "IsColored": false,
+  "GiftTastes": {
+    "Love": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Like": ["Abigail", "Jas", "Vincent"],
+	"Hate": ["Haley"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 635,
+        "Count": 1,
+      },
+      {
+        "Object": 388,
+        "Count": 1,
+      },
+{
+        "Object": 417,
+        "Count": 1,
+      },
+{
+        "Object": 254,
+        "Count": 1,
+      },
+{
+        "Object": 268,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Sandy",
+    "PurchasePrice": 2500,
+    "PurchaseRequirements": ["s 417 1",
+],
+
+  }
+}

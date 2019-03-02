@@ -1,0 +1,22 @@
+{
+  "Name": "Peach Milk",
+  "Description": "Milk, but it tastes like a fresh peach!",
+  "Category": "Cooking",
+  "Edibility": 40,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": null,
+  "Price": 50,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Robin", ],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Shane", "Vincent", "Willy"],
+	"Neutral": ["Dwarf", "Elliott", "Haley", "Lewis", "Wizard"],
+	"Dislike": ["Kent", "Sebastian"],
+  },
+  "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 100,
+    "PurchaseRequirements": null,
+ 
+}

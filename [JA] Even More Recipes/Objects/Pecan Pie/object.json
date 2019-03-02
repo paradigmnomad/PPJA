@@ -1,0 +1,45 @@
+{
+  "Name": "Pecan Pie",
+  "Description": "A nutty pie with a glazed topping.",
+  "Category": "Cooking",
+  "Edibility": 100,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 1035,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Neutral": ["Maru"],
+	"Dislike": ["Krobus", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 724,
+        "Count": 1,
+      },
+      {
+        "Object": 246,
+        "Count": 1,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+      {
+        "Object": "Brown Sugar",
+        "Count": 1,
+      },
+{
+        "Object": "Pecan",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 3035,
+    "PurchaseRequirements": ["y 3",
+],
+  }
+}

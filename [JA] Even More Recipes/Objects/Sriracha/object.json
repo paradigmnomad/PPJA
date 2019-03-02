@@ -1,0 +1,41 @@
+{
+  "Name": "Sriracha",
+  "Description": "An even spicier sauce.",
+  "Category": "Cooking",
+  "Edibility": 38,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 180,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Lewis", "Shane"],
+    "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Willy", "Wizard"],
+	"Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 419,
+        "Count": 1,
+       },
+{
+        "Object": 245,
+        "Count": 1,
+       },
+{
+        "Object": 248,
+        "Count": 1,
+       },
+{
+        "Object": 260,
+        "Count": 2,
+       }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 860,
+    "PurchaseRequirements": null,
+
+  }
+}

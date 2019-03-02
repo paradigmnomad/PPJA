@@ -1,0 +1,35 @@
+{
+  "Name": "Ice Cream Brownie",
+  "Description": "A yummy, warm treat!",
+  "Category": "Cooking",
+  "Edibility": 132,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 1105,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Abigail", "Evelyn", "Jodi"],
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Haley", "Harvey", "Jas", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Emily", "Krobus", "Leah", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 233,
+        "Count": 1,
+       },
+{
+        "Object": "Brownie",
+        "Count": 1,
+       }
+    ],
+      "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 3105,
+    "PurchaseRequirements": [
+      "r 0.25",
+"y 2",
+]
+  }
+}

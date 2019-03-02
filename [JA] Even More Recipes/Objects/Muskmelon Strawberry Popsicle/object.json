@@ -1,0 +1,32 @@
+{
+  "Name": "Muskmelon Strawberry Popsicle",
+  "Description": "A fruity tasting, summer popsicle.",
+  "Category": "Cooking",
+  "Edibility": 24,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 650,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Muskmelon",
+        "Count": 1,
+      },
+      {
+        "Object": 400,
+        "Count": 1,
+      },
+      {
+        "Object": 388,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1000,
+    "PurchaseRequirements": null,
+
+  }
+}

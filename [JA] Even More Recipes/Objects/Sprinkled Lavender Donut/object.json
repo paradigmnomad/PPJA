@@ -1,0 +1,45 @@
+{
+  "Name": "Sprinkled Lavender Donut",
+  "Description": "A fun, lavender donut.",
+  "Category": "Cooking",
+  "Edibility": 50,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 330,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Herbal Lavender",
+        "Count": 1,
+      },
+      
+{
+        "Object": 246,
+        "Count": 1,
+      },
+{
+        "Object": 245,
+        "Count": 1,
+      },
+{
+        "Object": -5,
+        "Count": 1,
+      },
+{
+        "Object": "Sprinkles",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2330,
+    "PurchaseRequirements": ["y 2",
+],
+  }
+}

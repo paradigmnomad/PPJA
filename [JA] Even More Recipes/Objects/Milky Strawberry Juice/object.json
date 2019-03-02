@@ -1,0 +1,21 @@
+{
+  "Name": "Milky Strawberry Juice",
+  "Description": "100% Real Juice!",
+  "Category": "Cooking",
+  "Edibility": 44,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": null,
+  "Price": 50,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy"],
+	"Neutral": ["Jas", "Sebastian", "Vincent"],
+	"Dislike": ["Abigail", "Haley", "Kent", "Wizard"],
+  },
+  "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 100,
+    "PurchaseRequirements": null,
+
+}

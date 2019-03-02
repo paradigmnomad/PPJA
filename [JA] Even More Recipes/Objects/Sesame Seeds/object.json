@@ -1,0 +1,16 @@
+{
+  "Name": "Sesame Seeds",
+  "Description": "They don't have much flavor.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 50,
+  "IsColored": false,
+  "GiftTastes": {
+    "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+  "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 150,
+    "PurchaseRequirements": null,
+}

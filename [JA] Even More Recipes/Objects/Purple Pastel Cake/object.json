@@ -1,0 +1,35 @@
+{
+  "Name": "Purple Pastel Cake",
+  "Description": "Yummy!",
+  "Category": "Cooking",
+  "Edibility": 66,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 450,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": -5,
+        "Count": 2,
+      },
+      {
+        "Object": 246,
+        "Count": 1,
+      },
+	  {
+        "Object": 245,
+        "Count": 3,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2450,
+    "PurchaseRequirements": null,
+  }
+}

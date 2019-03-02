@@ -1,0 +1,41 @@
+{
+  "Name": "Plain Chocolate Donut",
+  "Description": "A plain chocolate donut.",
+  "Category": "Cooking",
+  "Edibility": 66,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 725,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Chocolate",
+        "Count": 1,
+      },
+      
+{
+        "Object": 246,
+        "Count": 1,
+      },
+{
+        "Object": 245,
+        "Count": 1,
+      },
+{
+        "Object": -5,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2725,
+    "PurchaseRequirements": ["y 2",
+],
+  }
+}

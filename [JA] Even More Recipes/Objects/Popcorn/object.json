@@ -1,0 +1,32 @@
+{
+  "Name": "Popcorn",
+  "Description": "Corn kernels fried until they popped.",
+  "Category": "Cooking",
+  "Edibility": 28,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 425,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Abigail", "Haley", "Sam", "Sebastian", "Vincent"],
+	"Hate": ["Kent", "Pierre", "Jas"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 487,
+        "Count": 3,
+      },
+      {
+        "Object": "Butter",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1425,
+    "PurchaseRequirements": null,
+  }
+}

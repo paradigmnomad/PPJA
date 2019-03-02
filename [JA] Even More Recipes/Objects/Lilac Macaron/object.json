@@ -1,0 +1,41 @@
+	{
+  "Name": "Lilac Macaron",
+  "Description": "The quintessential macaron, flavored like lilacs.",
+  "Category": "Cooking",
+  "Edibility": 110,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 1350,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+	"Dislike": ["George", "Krobus", "Vincent", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Almond",
+        "Count": 2,
+      },
+      {
+        "Object": -5,
+        "Count": 3,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+ {
+        "Object": "Fragrant Lilac",
+        "Count": 2,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 3350,
+    "PurchaseRequirements": ["z summer fall winter",
+"y 3",
+],
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Lady Fingers",
+  "Description": "A sweet, bready cookie.",
+  "Category": "Cooking",
+  "Edibility": 50,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 410,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+	"Neutral": ["Harvey"],
+	"Dislike": ["Krobus", "Leah", "Sebastian", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 246,
+        "Count": 1,
+      },
+ {
+        "Object": 245,
+        "Count": 1,
+      },
+      {
+        "Object": -5,
+        "Count": 1,
+      },
+      {
+        "Object": -6,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1410,
+    "PurchaseRequirements": null,
+  }
+}
