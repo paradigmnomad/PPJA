@@ -1,0 +1,9 @@
+{
+    "Name": "Lavender",
+    "Description": "An elegant plant that has a variety of culinary and medicinal uses.",
+    "Category": "Flower",
+    "Edibility": 10,
+	"Price": 220,
+	"IsColored": true,
+	"Recipe": null
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Bouquet of Longing",
+  "Description": "An arrangement of dark purple flowers, meant as a manifestation of lingering desire.",
+  "Category": "Crafting",
+  "Edibility": -300,
+  "Price": 1750,
+  "IsColored": false,
+  "Recipe": {
+	  "ResultCount": 1,
+	  "Ingredients": [
+		  {
+			  "Object": "Clematis",
+			  "Count": 1
+		  },
+		  {
+			  "Object": "Wisteria",
+			  "Count": 1
+		  },
+		  {
+			  "Object": "Iris",
+			  "Count": 1
+		  },
+		  {
+			  "Object": 418,
+			  "Count": 1
+		  }
+	  ],
+	  "CanPurchase": true,
+	  "PurchaseFrom": "Robin",
+	  "PurchasePrice": 1250,
+	  "PurchaseRequirements": null
+  },
+"GiftTastes":
+{
+"Love": ["Elliott", "Maru", "Shane", "Sebastian"],
+"Like": ["Leah", "Harvey", "Emily", "Abigail", "Penny", "Alex", "Sam", "Sebastian"],
+"Neutral": ["Linus", "Wizard", "Gus", "Willy", "Dwarf", "Krobus", "Sandy"],
+"Dislike": ["Demetrius", "Evelyn", "Caroline", "Kent", "Lewis", "Marnie", "Robin", "Pam", "Pierre", "Jas", "Vincent"],
+"Hate": ["George", "Clint", "Jodi"]
+},
+}

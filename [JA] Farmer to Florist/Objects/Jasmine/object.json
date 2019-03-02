@@ -1,0 +1,9 @@
+{
+  "Name": "Jasmine",
+  "Description": "A delicate white flower known for its scent. Often used to make tea.",
+  "Category": "Flower",
+  "Edibility": 10,
+  "Price": 120,
+  "IsColored": false,
+  "Recipe": null
+}

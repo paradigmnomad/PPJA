@@ -1,0 +1,41 @@
+{
+  "Name": "Bouquet of Passion",
+  "Description": "A bouquet of deep red flowers to symbolize burning passion.",
+  "Category": "Crafting",
+  "Edibility": -300,
+  "Price": 2000,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+		{
+			"Object": "English Rose",
+			"Count": 1
+		},
+		{
+			"Object": "Carnation",
+			"Count": 1,
+		},
+		{
+			"Object": "Freesia",
+			"Count": 1,
+		},
+		{
+			"Object": 402,
+			"Count": 1,
+		},
+    ],
+	"CanPurchase": true,
+	"PurchaseFrom": "Robin",
+	"PurchasePrice": 1500,
+	"PurchaseRequirements": null,
+  },
+"GiftTastes":
+{
+"Love": ["Haley", "Abigail", "Alex", "Sam"],
+"Like": ["Leah", "Harvey", "Emily", "Elliott", "Penny", "Maru", "Shane", "Sebastian"],
+"Neutral": ["Linus", "Wizard", "Gus", "Willy", "Dwarf", "Krobus", "Sandy"],
+"Dislike": ["Demetrius", "Evelyn", "Caroline", "Kent", "Lewis", "Marnie", "Robin", "Pam", "Pierre", "Jas", "Vincent"],
+"Hate": ["George", "Clint", "Jodi"]
+}
+}

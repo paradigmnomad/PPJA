@@ -1,0 +1,9 @@
+{
+    "Name": "Freesia",
+    "Description": "A beautiful flower renowned for its incredible scent.",
+    "Category": "Flower",
+    "Edibility": 10,
+    "ProductSellPrice": 150,
+	"IsColored": true,
+	"Recipe": null
+}

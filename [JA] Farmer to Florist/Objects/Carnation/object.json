@@ -1,0 +1,16 @@
+{
+  "Name": "Carnation",
+  "Description": "A fragile flower that blooms in spring and summer. Each color holds a special meaning.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 140,
+  "IsColored": true,
+  "Recipe": null,
+"GiftTastes":
+{
+"Love": ["Caroline", "Jodi", "Marnie"],
+"Like": ["Elliott", "Harvey", "Sam", "Emily", "Haley", "Leah", "Penny", "Abigail", "Demetrius", "Evelyn", "Jas", "Kent", "Lewis", "Linus", "Robin", "Sandy"],
+"Neutral": ["Alex", "Shane", "Maru", "Dwarf", "Gus", "Krobus", "Pam", "Pierre", "Vincent", "Willy", "Wizard"],
+"Dislike": ["Sebastian", "Clint", "George"],
+},
+}

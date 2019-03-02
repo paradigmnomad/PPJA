@@ -1,0 +1,9 @@
+{
+    "Name": "Geranium",
+    "Description": "This flower is incredibly popular among home gardeners.",
+    "Category": "Flower",
+    "Edibility": 10,
+    "Price": 140,
+	"IsColored": true,
+	"Recipe": null
+}

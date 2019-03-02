@@ -1,0 +1,9 @@
+{
+    "Name": "Iris",
+    "Description": "A strange flower that comes in delightful shades of purple.",
+    "Category": "Flower",
+    "Edibility": -5,
+    "Price": 200,
+	"IsColored": true,
+	"Recipe": null
+}

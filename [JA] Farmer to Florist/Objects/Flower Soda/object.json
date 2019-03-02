@@ -1,0 +1,50 @@
+{
+  "Name": "Flower Soda",
+  "Description": "A sweet and tangy concoction. It's also quite fragrant.",
+  "Category": "Cooking",
+  "Edibility": 50,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 1,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": 0,
+	"Defense": 1,
+	"Attack": 0,
+    "Duration": 480,
+  },
+  "Price": 550,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Herbal Peony",
+        "Count": 1,
+      },
+      {
+        "Object": "Freesia",
+        "Count": 1,
+      },
+	  {
+		  "Object": 635,
+		  "Count": 1,
+	  },
+	  {
+		  "Object": 245,
+		  "Count": 1,
+	  },
+    ],
+    "IsDefault": false,
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": [
+		"f Emily 1250",
+	],
+  }
+}

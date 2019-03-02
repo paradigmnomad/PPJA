@@ -1,0 +1,9 @@
+{
+    "Name": "Lilac",
+    "Description": "A large, bushy plant that produces sweet-smelling flowers.",
+    "Category": "Flower",
+    "Edibility": 13,
+    "Price": 180,
+	"IsColored": true,
+	"Recipe": null
+}

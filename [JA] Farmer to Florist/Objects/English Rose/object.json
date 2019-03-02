@@ -1,0 +1,9 @@
+{
+  "Name": "English Rose",
+  "Description": "An old folk legend suggests that the sweet smell of this flower attracts fairies.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 290,
+  "IsColored": true,
+  "Recipe": null
+}

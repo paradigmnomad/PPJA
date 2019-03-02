@@ -1,0 +1,38 @@
+{
+  "Name": "Lilac Scones",
+  "Description": "Lightly sweetened, these go quite well with a cup of tea.",
+  "Category": "Cooking",
+  "Edibility": 65,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 300,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Lilac",
+        "Count": 1,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+	  {
+		  "Object": 246,
+		  "Count": 1,
+	  },
+	  {
+		  "Object": -6,
+		  "Count": 1,
+	  },
+    ],
+    "IsDefault": false,
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": [
+		"f Jodi 1250",
+	],
+  }
+}

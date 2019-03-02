@@ -1,0 +1,9 @@
+{
+  "Name": "Hibiscus",
+  "Description": "A large, bright flower. Delicious when candied or brewed into tea.",
+  "Category": "Flower",
+  "Edibility": 20,
+  "Price": 80,
+  "IsColored": false,
+  "Recipe": null
+}

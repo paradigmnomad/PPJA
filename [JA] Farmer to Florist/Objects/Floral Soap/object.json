@@ -1,0 +1,9 @@
+{
+  "Name": "Floral Soap",
+  "Description": "A bar of soap that smells like flowers. It's been dressed up with a bow.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 150,
+  "IsColored": false,
+  "Recipe": null
+}

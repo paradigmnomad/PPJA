@@ -1,0 +1,9 @@
+{
+    "Name": "Lotus",
+    "Description": "A large flower that grows in water. Revered by several cultures.",
+    "Category": "Flower",
+    "Edibility": 20,
+    "Price": 70,
+	"IsColored": false,
+	"Recipe": null
+}

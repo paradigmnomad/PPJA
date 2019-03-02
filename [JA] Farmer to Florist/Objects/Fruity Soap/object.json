@@ -1,0 +1,9 @@
+{
+  "Name": "Fruity Soap",
+  "Description": "A bar of homemade soap. It smells like fruit.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 75,
+  "IsColored": false,
+  "Recipe": null
+}

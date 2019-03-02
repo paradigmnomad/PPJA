@@ -1,0 +1,17 @@
+{
+    "Name": "Delphinium",
+    "Description": "A plant that grows flowers along a large, protruding stalk. It's poisonous if ingested.",
+    "Category": "Flower",
+    "Edibility": -50,
+    "Price": 160,
+	"IsColored": true,
+	"Recipe": null,
+"GiftTastes":
+{
+"Love": ["Emily"],
+"Like": ["Elliott", "Harvey", "Sam", "Haley", "Leah", "Penny", "Abigail", "Demetrius", "Evelyn", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Robin", "Sandy", "Caroline"],
+"Neutral": ["Alex", "Shane", "Maru", "Dwarf", "Gus", "Krobus", "Pam", "Pierre", "Vincent", "Willy", "Wizard"],
+"Dislike": ["Sebastian", "George"],
+"Hate": ["Clint"]
+},
+}

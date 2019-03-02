@@ -1,0 +1,9 @@
+{
+    "Name": "Hyacinth",
+    "Description": "It blooms early in the spring with incredibly fragrant flowers.",
+    "Category": "Flower",
+    "Edibility": -30,
+    "Price": 60,
+	"IsColored": true,
+	"Recipe": null
+}

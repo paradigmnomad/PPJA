@@ -1,0 +1,42 @@
+{
+  "Name": "Boiled Greens",
+  "Description": "It's bitter, but it's healthy.",
+  "Category": "Cooking",
+  "Edibility": 80,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 200,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Daisy",
+        "Count": 1,
+      },
+      {
+        "Object": "Chrysanthemum",
+        "Count": 1,
+      },
+	  {
+		  "Object": 278,
+		  "Count": 1,
+	  },
+    ],
+    "IsDefault": false,
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": [
+		"f Demetrius 1250",
+	],
+  },
+"GiftTastes":
+{
+"Love": ["Leah", "George"],
+"Like": ["Harvey", "Demetrius", "Linus"],
+"Neutral": ["Emily", "Evelyn", "Wizard", ],
+"Dislike": ["Abigail", "Elliott", "Penny", "Caroline", "Maru", "Gus", "Pierre", "Jodi", "Kent", "Lewis", "Marnie", "Shane", "Willy", "Robin", "Alex", "Dwarf", "Krobus", "Sam", "Pam", "Sebastian"],
+"Hate": ["Sandy", "Clint", "Haley", "Jas", "Vincent"]
+},
+}

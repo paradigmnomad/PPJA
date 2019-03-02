@@ -1,0 +1,9 @@
+{
+    "Name": "Lily",
+    "Description": "The white variety of this flower is often used in ceremonies.",
+    "Category": "Flower",
+    "Edibility": 15,
+    "Price": 150,
+	"IsColored": true,
+	"Recipe": null
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Bouquet of Devotion",
+  "Description": "A bouquet of magenta-colored flowers. It's meant to show one's devotion to another.",
+  "Category": "Crafting",
+  "Edibility": -300,
+  "Price": 1500,
+  "IsColored": false,
+  "Recipe": {
+	  "ResultCount": 1,
+	  "Ingredients": [
+		  {
+			  "Object": "Lilac",
+			  "Count": 1,
+		  },
+		  {
+			  "Object": "Lotus",
+			  "Count": 1,
+		  },
+		  {
+			  "Object": "Lavender",
+			  "Count": 1,
+		  },
+		  {
+			  "Object": "Violet",
+			  "Count": 1,
+		  },
+	  ],
+	  "CanPurchase": true,
+	  "PurchaseFrom": "Robin",
+	  "PurchasePrice": 1000,
+	  "PurchaseRequirements": null,
+  },
+"GiftTastes":
+{
+"Love": ["Harvey", "Emily"],
+"Like": ["Leah", "Abigail", "Elliott", "Penny", "Maru", "Shane", "Alex", "Sam", "Sebastian", "Haley"],
+"Neutral": ["Linus", "Wizard", "Gus", "Willy", "Dwarf", "Krobus", "Sandy"],
+"Dislike": ["Demetrius", "Evelyn", "Caroline", "Kent", "Lewis", "Marnie", "Robin", "Pam", "Pierre", "Jas", "Vincent"],
+"Hate": ["George", "Clint", "Jodi"]
+},
+}
