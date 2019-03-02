@@ -1,0 +1,9 @@
+{
+  "Name": "Tea Bag",
+  "Description": "Dried flowers and leaves ready for a hot cup of water.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 25,
+  "IsColored": false,
+  "Recipe": null
+}

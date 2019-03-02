@@ -1,0 +1,9 @@
+{
+  "Name": "Veggie Chips",
+  "Description": "A bag of dried vegetable pieces.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 25,
+  "IsColored": false,
+  "Recipe": null
+}

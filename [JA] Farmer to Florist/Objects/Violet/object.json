@@ -1,0 +1,9 @@
+{
+  "Name": "Violet",
+  "Description": "A hardy plant that flowers in the spring. Has a variety of uses.",
+  "Category": "Flower",
+  "Edibility": 22,
+  "Price": 90,
+  "IsColored": true,
+  "Recipe": null
+}

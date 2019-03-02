@@ -1,0 +1,34 @@
+{
+  "Name": "Souffle",
+  "Description": "A dessert baked into a cup. It's topped with candied violets.",
+  "Category": "Cooking",
+  "Edibility": 36,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 200,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Violet",
+        "Count": 1,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+	  {
+		  "Object": 246,
+		  "Count": 1,
+	  },
+    ],
+    "IsDefault": false,
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": [
+		"f Gus 1250",
+	],
+  }
+}

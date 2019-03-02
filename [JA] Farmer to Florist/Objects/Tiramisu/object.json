@@ -1,0 +1,34 @@
+{
+  "Name": "Tiramisu",
+  "Description": "Everyone's favorite coffee-flavored dessert.",
+  "Category": "Cooking",
+  "Edibility": 75,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 500,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 395,
+        "Count": 1,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+	  {
+		  "Object": 246,
+		  "Count": 1,
+	  },
+    ],
+    "IsDefault": false,
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": [
+		"f Caroline 1250",
+	],
+  }
+}

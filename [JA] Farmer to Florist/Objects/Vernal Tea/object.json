@@ -1,0 +1,54 @@
+{
+  "Name": "Vernal Tea",
+  "Description": "A sweet, flowery tea. It's the perfect start to a busy day.",
+  "Category": "Cooking",
+  "Edibility": 45,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 1,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": 0,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 300,
+  },
+  "Price": 350,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+		  "Object": "Magnolia",
+		  "Count": 1,
+	  },
+	  {
+		  "Object": 340,
+		  "Count": 1,
+	  },
+	  {
+		  "Object": "Camellia",
+		  "Count": 1,
+	  },
+    ],
+"GiftTastes":
+{
+"Love": ["Abigial", "Caroline", "Evelyn", "Leah", "Krobus",],
+"Like": ["Penny", "Haley", "Jodi", "Dwarf", "Alex",],
+"Neutral": [ "Marnie", "George", "Emily", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Demetrius", "Sebastian", "Elliott",],
+"Dislike": ["Clint", "Kent", "Gus", "Harvey", "Sandy"],
+"Hate": ["Vincent", "Jas", "Pam", "Shane", "Willy", "Wizard"],
+},
+    "IsDefault": false,
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": [
+		"f Evelyn 750",
+	],
+  }
+}
