@@ -1,0 +1,37 @@
+{
+  "Name": "White Gravy",
+  "Description": "A savory, peppery gravy.",
+  "Category": "Cooking",
+  "Edibility": 82,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 760,
+  "IsColored": false,
+  "GiftTastes": {
+    "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Emily", "Jas", "Leah", "Marnie", "Sam", "Vincent"],
+	"Hate": ["Sebastian"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 246,
+        "Count": 1,
+      },
+      {
+        "Object": 247,
+        "Count": 1,
+      },
+      {
+        "Object": "Chicken Stock",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2775,
+    "PurchaseRequirements": ["y 2",
+],
+  }
+}

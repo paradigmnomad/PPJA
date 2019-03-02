@@ -1,0 +1,40 @@
+{
+  "Name": "Beef Stock",
+  "Description": "Stewed down beef broth that's often used as a base for soup.",
+  "Category": "Cooking",
+  "Edibility": 66,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 475,
+  "IsColored": false,
+  "GiftTastes": {
+    "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+	"Hate": ["Sebastian"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Beef",
+        "Count": 1,
+      },
+  {
+        "Object": "Onion",
+        "Count": 1,
+      },
+  {
+        "Object": "Celery",
+        "Count": 1,
+      },
+  {
+        "Object": "Carrot",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2475,
+    "PurchaseRequirements": ["y 2",
+],
+  }
+}
