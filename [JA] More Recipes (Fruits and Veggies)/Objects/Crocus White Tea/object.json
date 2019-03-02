@@ -1,0 +1,46 @@
+{
+  "Name": "Crocus White Tea",
+  "Description": "A tea made with a crocus.",
+  "Category": "Cooking",
+  "Edibility": 16,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+	"Foraging": 1,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": 0,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 100,
+  },
+  "Price": 375,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Tea Leaf",
+        "Count": 1,
+      },
+      {
+        "Object": 418,
+        "Count": 2,
+      }
+    ],
+       "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1375,
+    "PurchaseRequirements": [
+     "z spring summer fall",
+    ]
+  },
+  "GiftTastes": {
+	"Love": ["Sandy"],
+	"Like": ["Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Clint", "George", "Jas", "Vincent"],
+  }
+}

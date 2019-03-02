@@ -1,0 +1,42 @@
+{
+  "Name": "Cassava Cake",
+  "Description": "Delicious and custardy!",
+  "Category": "Cooking",
+  "Edibility": 34,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 490,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Cassava",
+        "Count": 1,
+      },
+      {
+        "Object": -6,
+        "Count": 1,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+      {
+        "Object": 88,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2490,
+    "PurchaseRequirements": [
+      "f Sandy 750",
+"y 2",
+    ]
+  },
+  "GiftTastes": {
+	"Like": ["Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Abigail", "Dwarf", "Krobus", "Willy"],
+  }
+}

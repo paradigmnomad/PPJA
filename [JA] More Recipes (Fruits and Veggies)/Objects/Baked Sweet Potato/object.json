@@ -1,0 +1,31 @@
+{
+  "Name": "Baked Sweet Potato",
+  "Description": "A simple baked sweet potato. Tasty on a cold day!",
+  "Category": "Cooking",
+  "Edibility": 20,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 270,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Sweet Potato",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2270,
+    "PurchaseRequirements": [
+      "f Linus 1250",
+      "z spring summer",
+    ]
+  },
+	"GiftTastes": {
+	"Love":["Linus"],
+    "Like": ["Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin",  "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Abigail", "Clint", "Haley", "Jas", "Sam", "Vincent"],
+  }
+}

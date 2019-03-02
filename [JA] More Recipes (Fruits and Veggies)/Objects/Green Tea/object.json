@@ -1,0 +1,37 @@
+{
+  "Name": "Green Tea",
+  "Description": "The staple tea in cupboards around the globe.",
+  "Category": "Cooking",
+  "Edibility": 5,
+  "EdibleIsDrink": true,
+ "EdibleBuffs": {
+    "Farming": 2,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": 0,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 300,
+  },
+  "Price": 250,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Tea Leaf",
+        "Count": 2,
+      }
+    ],
+    "IsDefault": true,
+  },
+  "GiftTastes": {
+	"Love": ["Leah"],
+	"Like": ["Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Clint", "Jas", "Vincent"],
+  }
+}

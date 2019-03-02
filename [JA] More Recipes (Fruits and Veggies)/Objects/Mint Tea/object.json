@@ -1,0 +1,30 @@
+{
+  "Name": "Mint Tea",
+  "Description": "The perfect tea for winter.",
+  "Category": "Cooking",
+  "Edibility": 16,
+  "EdibleIsDrink": true,
+ "EdibleBuffs": null,
+  "Price": 260,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Mint",
+        "Count": 2,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1260,
+    "PurchaseRequirements": [
+"z spring summer fall",
+],
+  },
+  "GiftTastes": {
+	"Love": ["Harvey"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Dwarf", "Willy"],
+  }
+}

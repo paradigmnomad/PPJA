@@ -1,0 +1,38 @@
+{
+  "Name": "Melon Salad",
+  "Description": "A fruit salad consisting of tasty melons.",
+  "Category": "Cooking",
+  "Edibility": 146,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 925,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Watermelon",
+        "Count": 1,
+      },
+      {
+        "Object": "Sweet Canary Melon",
+        "Count": 1,
+      },
+      {
+        "Object": 254,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2925,
+    "PurchaseRequirements": [
+      "f Emily 1250",
+"y 2",
+    ]
+  },
+  "GiftTastes": {
+	"Love": ["Haley", "Penny"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  }
+}

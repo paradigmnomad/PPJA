@@ -1,0 +1,36 @@
+{
+  "Name": "PB&J Sandwich",
+  "Description": "The classic sandwich treat.",
+  "Category": "Cooking",
+  "Edibility": 40,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 530,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Peanut Butter",
+        "Count": 1,
+      },
+      {
+        "Object": 216,
+        "Count": 1,
+      },
+      {
+        "Object": 344,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1530,
+    "PurchaseRequirements": null,
+  },
+  "GiftTastes": {
+	"Love": ["Abigail", "Jas", "Vincent"],
+	"Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+	"Dislike": ["George", "Krobus", "Willy"],
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Name": "Peanut Butter",
+  "Description": "The classic staple. Do you like smooth or crunchy? ",
+  "Category": "Cooking",
+  "Edibility": 14,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 160,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Peanut",
+        "Count": 2,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 650,
+    "PurchaseRequirements": [
+      "r 0.50",
+    ]
+  },
+  "GiftTastes": {
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["George", "Willy"],
+  }
+}

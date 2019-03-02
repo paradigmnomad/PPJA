@@ -1,0 +1,29 @@
+{
+  "Name": "Chamomile Tea",
+  "Description": "An herbal tea brewed from chamomile.",
+  "Category": "Cooking",
+  "Edibility": 41,
+  "EdibleIsDrink": true,
+ "EdibleBuffs": null,
+  "Price": 275,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Chamomile",
+        "Count": 2,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1275,
+    "PurchaseRequirements": null,
+  },
+  "GiftTastes": {
+	"Love": ["Emily", "Evelyn"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Wizard"],
+	"Neutral": ["Jas", "Vincent"],
+	"Dislike": ["Pam", "Shane", "Willy"],
+  }
+}

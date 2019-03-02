@@ -1,0 +1,34 @@
+{
+  "Name": "Chocolate Pudding",
+  "Description": "A childhood favorite.",
+  "Category": "Cooking",
+  "Edibility": 56,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 685,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Chocolate",
+        "Count": 1,
+      },
+      {
+        "Object": -6,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2685,
+    "PurchaseRequirements": ["y 2",
+],
+  },
+  "GiftTastes": {
+	"Love": ["Evelyn", "Vincent"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+	"Neutral": ["Emily"],
+	"Dislike": ["Krobus", "Leah", "Willy"],
+  }
+}

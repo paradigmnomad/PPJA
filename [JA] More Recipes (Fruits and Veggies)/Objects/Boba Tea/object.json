@@ -1,0 +1,45 @@
+{
+  "Name": "Boba Tea",
+  "Description": "A sweet flavored Milk tea with tapioca pearls.",
+  "Category": "Cooking",
+  "Edibility": 50,
+  "EdibleIsDrink": true,
+ "EdibleBuffs": null,
+  "Price": 625,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Tea Leaf",
+        "Count": 3,
+      },
+{
+        "Object": "Tapioca",
+        "Count": 1,
+      },
+{
+        "Object": -6,
+        "Count": 1,
+      },
+{
+        "Object": 245,
+        "Count": 1,
+      },
+{
+        "Object": -79,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 800,
+    "PurchaseRequirements": ["f Sebastian 750",
+],
+  },
+  "GiftTastes": {
+	"Love": ["Haley", "Marnie", "Penny", ],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Krobus", "Leah", "Linus", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy"],
+	"Dislike": ["Dwarf", "Elliott", "Kent", "Lewis", "Sebastian", "Wizard"],
+  }
+}

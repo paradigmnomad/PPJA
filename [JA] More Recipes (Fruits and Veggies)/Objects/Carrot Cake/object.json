@@ -1,0 +1,43 @@
+{
+  "Name": "Carrot Cake",
+  "Description": "A light and fluffy cake, it’s a spring treat.",
+  "Category": "Cooking",
+  "Edibility": 58,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 490,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Carrot",
+        "Count": 2,
+      },
+      {
+        "Object": -5,
+        "Count": 1,
+      },
+      {
+        "Object": 246,
+        "Count": 1,
+      },
+      {
+        "Object": -6,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2490,
+    "PurchaseRequirements": [
+      "f Caroline 1250",
+    ]
+  },
+  "GiftTastes": {
+	"Love": ["Clint", "Robin"],
+	"Like": ["Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Neutral": ["Leah"],
+	"Dislike": ["Krobus", "Willy"],
+  }
+}

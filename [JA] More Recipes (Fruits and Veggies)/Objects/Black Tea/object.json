@@ -1,0 +1,38 @@
+{
+  "Name": "Black Tea",
+  "Description": "Slightly bitter, but adding sugar can help.",
+  "Category": "Cooking",
+  "Edibility": 5,
+  "EdibleIsDrink": true,
+ "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 3,
+    "Luck": 0,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": 0,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 300,
+  },
+  "Price": 375,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Tea Leaf",
+        "Count": 3,
+       }
+    ],
+    "IsDefault": true,
+  },
+  "GiftTastes": {
+	"Love": ["Harvey", "Kent", "Krobus"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jodi", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Dwarf"],
+	"Dislike": ["Jas", "Vincent"],
+  }
+}

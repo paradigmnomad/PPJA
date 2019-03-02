@@ -1,0 +1,39 @@
+{
+  "Name": "Lavender Milk Tea",
+  "Description": "Milk, sugar, and lavender in just the right proportions.",
+  "Category": "Cooking",
+  "Edibility": 52,
+  "EdibleIsDrink": true,
+ "EdibleBuffs": null,
+  "Price": 600,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Tea Leaf",
+        "Count": 1,
+      },
+{
+        "Object": "Herbal Lavender",
+        "Count": 1,
+      },
+{
+        "Object": 245,
+        "Count": 1,
+      },
+{
+        "Object": -6,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1600,
+    "PurchaseRequirements": null,
+  },
+  "GiftTastes": {
+	"Like": ["Abigail", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Vincent", "Wizard"],
+	"Dislike": ["Alex", "Kent", "Sebastian", "Shane", "Willy"],
+  }
+}

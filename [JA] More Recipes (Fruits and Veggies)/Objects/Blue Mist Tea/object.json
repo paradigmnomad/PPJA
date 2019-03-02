@@ -1,0 +1,31 @@
+{
+  "Name": "Blue Mist Tea",
+  "Description": "A slighty sweet tea made from blue mist flowers.",
+  "Category": "Cooking",
+  "Edibility": 23,
+  "EdibleIsDrink": true,
+ "EdibleBuffs": null,
+  "Price": 445,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Blue Mist",
+        "Count": 2,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1445,
+    "PurchaseRequirements": [
+      "z spring fall winter",
+    ]
+  },
+  "GiftTastes": {
+	"Love": ["Caroline", "Maru"],
+	"Like": ["Abigail", "Alex", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Penny", "Robin", "Sam", "Sandy", "Sebastian", "Wizard"],
+	"Neutral": ["Kent", "Pierre", "Vincent"],
+	"Dislike": ["George", "Pam", "Shane", "Willy"],
+  }
+}

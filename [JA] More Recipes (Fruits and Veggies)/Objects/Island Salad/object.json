@@ -1,0 +1,47 @@
+{
+  "Name": "Island Salad",
+  "Description": "A refreshing salad made with lots of olives and dressed in vinegar.",
+  "Category": "Cooking",
+  "Edibility": 80,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 570,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 419,
+        "Count": 1,
+      },
+      {
+        "Object": "Cucumber",
+        "Count": 1,
+      },
+      {
+        "Object": "Lettuce",
+        "Count": 1,
+      },
+      {
+        "Object": "Olive",
+        "Count": 1,
+      },
+ {
+        "Object": "Onion",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2570,
+    "PurchaseRequirements": [
+      "f Jodi 1250",
+"y 2",
+    ]
+  },
+  "GiftTastes": {
+	"Love": ["Harvey", "Leah"],
+	"Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+  }
+}
