@@ -1,0 +1,16 @@
+{
+  "Name": "Purple Kombucha",
+  "Description": "A purple tea-like drink made from fermented mushrooms.",
+  "Category": "ArtisanGoods",
+  "Edibility": 6,
+  "EdibleIsDrink": true,
+  "Price": 300,
+  "IsColored": false,
+  "Recipe": null,
+"GiftTastes": {
+    "Love": ["Wizard", "Demetrius", "Harvey", "Leah", "Linus", "Sebastian"],
+"Like": ["Abigail", "Alex", "Clint", "Emily", "Evelyn", "George", "Gus", "Kent", "Lewis", "Marnie", "Maru", "Pam", "Robin", "Sandy"],
+    "Neutral": ["Caroline", "Dwarf", "Elliott", "Haley", "Jodi", "Krobus", "Penny", "Pierre", "Sam", "Shane", "Willy"],
+"Dislike": ["Jas", "Vincent"]
+  }
+}

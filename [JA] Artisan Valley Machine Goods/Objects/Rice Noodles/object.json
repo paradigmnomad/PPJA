@@ -1,0 +1,13 @@
+{
+  "Name": "Rice Noodles",
+  "Description": "A bag of thin, rice-flavored noodles.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 300,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Neutral": ["Gus"],
+	"Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  }
+}

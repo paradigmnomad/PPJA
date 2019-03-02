@@ -1,0 +1,13 @@
+{
+  "Name": "Soynut Butter",
+  "Description": "A butter made of soybeans for lactose intolerant individuals.",
+  "Category": "ArtisanGoods",
+  "Edibility": 14,
+  "Price": 175,
+  "IsColored": false,
+  "Recipe": null,
+ "GiftTastes": {
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey",  "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+  },
+}

@@ -1,0 +1,13 @@
+{
+  "Name": "Walnut Butter",
+  "Description": "A crunchy butter with bits of walnut.",
+  "Category": "ArtisanGoods",
+  "Edibility": 18,
+  "Price": 175,
+  "IsColored": false,
+  "Recipe": null,
+ "GiftTastes": {
+	"Love": ["Marnie"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus",  "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  }
+}

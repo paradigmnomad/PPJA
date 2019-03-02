@@ -1,0 +1,14 @@
+{
+  "Name": "Smooth Peanut Butter",
+  "Description": "The classic staple. Ground to a silky smooth texture.",
+  "Category": "ArtisanGoods",
+  "Edibility": 14,
+  "Price": 175,
+  "IsColored": false,
+  "Recipe": null,
+"GiftTastes": {
+	"Like": ["Harvey", "Kent", "Leah", "Linus", "Vincent"],
+    "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+  },
+}
