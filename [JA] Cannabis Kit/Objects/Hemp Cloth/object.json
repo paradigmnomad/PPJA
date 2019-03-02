@@ -1,0 +1,14 @@
+{
+  "Name": "Hemp Cloth",
+  "Description": "A more sustainable type of cloth.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 230,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+    "Love": ["Emily", "Linus", "Leah", "Maru"],
+    "Neutral" : ["Sam", "Sebastian", "Pierre", "Penny", "Pam", "Kent", "Abigail", "Elliott", "Harvey", "Willy"],
+    "Hate": ["Jas", "Vincent"],
+  },
+}

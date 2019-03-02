@@ -1,0 +1,24 @@
+{
+  "Name": "Cannabis",
+  "Product": "Cannabis",
+  "SeedName": "Cannabis Starter",
+  "SeedDescription": "Plant these in the spring, summer, or fall. Takes 12 days to mature, afterwards it continues to produce every 4 days.",
+  "Type": "Flower",
+  "Seasons": ["spring", "summer", "fall"],
+  "Phases": [1, 3, 4, 4, 4],
+  "RegrowthPhase": 3,
+  "HarvestWithScythe": false,
+  "TrellisCrop": true,
+  "Colors": ["255, 255, 255, 0"],
+  "Bonus": {
+    "MinimumPerHarvest": 2,
+    "MaximumPerHarvest": 5,
+    "MaxIncreasePerFarmLevel": 5,
+    "ExtraChance": 0.1,
+  },
+  "SeedPurchaseFrom": "Harvey",
+  "SeedPurchasePrice": 1000,
+  "SeedPurchaseRequirements": [
+    "f Sebastian 250",
+  ],
+}

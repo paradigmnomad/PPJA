@@ -1,0 +1,48 @@
+{
+  "Name": "Weed-Infused Skooma",
+  "Description": "It comes from a land filled with dragons.",
+  "Category": "Crafting",
+  "Edibility": 18,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Foraging": 0,
+    "Mining": 0,
+    "Fishing": 0,
+    "Luck": 0,
+    "Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": 2,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 120,
+  },
+  "Price": 2500,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 245,
+        "Count": 1,
+       },
+  {
+        "Object": 566,
+        "Count": 1,
+       },
+   {
+        "Object": "Cannabis",
+        "Count": 3,
+       }
+    ],
+     "CanPurchase": true,
+    "PurchaseFrom": "Krobus",
+    "PurchasePrice": 3500,
+    "PurchaseRequirements": null,
+  },
+  "GiftTastes": {
+    "Love": ["Linus", "Gus", "Pam", "Emily", "Sandy"],
+    "Hate": ["Jas", "Vincent"],
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Sativa",
+    "Product": "Sativa",
+    "SeedName": "Sativa Starter",
+    "SeedDescription": "Plant these in the fall. Takes 13 days to mature, afterwards it continues to produce every 3 days.",
+    "Type": "Flower",
+
+    "Seasons": ["fall"],
+    "Phases": [ 1, 3, 4, 4, 4 ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+
+"SeedPurchaseFrom": "Harvey",
+    "SeedPurchasePrice": 1500,
+    "SeedPurchaseRequirements": [
+    "f Sebastian 250",
+],
+}

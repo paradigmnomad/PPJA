@@ -1,0 +1,14 @@
+{
+  "Name": "White Widow",
+  "Description": "A combination of stimulating sativa and relaxing indica, hybrid strains are the best of both worlds.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 280,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+    "Love": ["Sebastian", "Sam", "Abigail"],
+    "Neutral" : ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
+    "Hate": ["Jas", "Vincent"],
+  },
+}

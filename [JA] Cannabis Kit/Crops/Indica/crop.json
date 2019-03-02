@@ -1,0 +1,26 @@
+{
+    "Name": "Indica",
+    "Product": "Indica",
+    "SeedName": "Indica Starter",
+    "SeedDescription": "Plant these in the summer. Takes 13 days to mature, afterwards it continues to produce every 3 days.",
+    "Type": "Flower",
+
+    "Seasons": ["summer"],
+    "Phases": [ 2, 3, 4, 4, 3 ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": ["255, 255, 255, 0"],
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+
+"SeedPurchaseFrom": "Harvey",
+    "SeedPurchasePrice": 1500,
+    "SeedPurchaseRequirements": [
+    "f Sebastian 250",
+],
+}

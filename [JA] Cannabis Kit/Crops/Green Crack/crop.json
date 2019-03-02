@@ -1,0 +1,25 @@
+{
+  "Name": "Green Crack",
+  "Product": "Green Crack",
+  "SeedName": "Green Crack Starter",
+  "SeedDescription": "A tangy, fruity flavor redolent of mango, this is a great daytime strain. Plant these in the summer or fall. Takes 13 days to mature, afterwards it continues to produce every 3 days.",
+  "Type": "Flower",
+  "Seasons": ["summer", "fall"],
+  "Phases": [2, 3, 4, 4, 3],
+  "RegrowthPhase": 3,
+  "HarvestWithScythe": false,
+  "TrellisCrop": true,
+  "Colors": ["255, 255, 255, 0"],
+  "Bonus": {
+    "MinimumPerHarvest": 2,
+    "MaximumPerHarvest": 5,
+    "MaxIncreasePerFarmLevel": 5,
+    "ExtraChance": 0.2,
+  },
+
+  "SeedPurchaseFrom": "Harvey",
+  "SeedPurchasePrice": 1500,
+  "SeedPurchaseRequirements": [
+    "f Sebastian 250",
+  ],
+}

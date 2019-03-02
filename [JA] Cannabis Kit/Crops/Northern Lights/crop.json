@@ -1,0 +1,25 @@
+{
+  "Name": "Northern Lights",
+  "Product": "Northern Lights",
+  "SeedName": "Northern Lights Starter",
+  "SeedDescription": "A popular strain of cannabis indica which relieves pain and sleeplessness while being left mellow. Plant these in the summer. Takes 10 days to mature, afterwards it continues to produce every 3 days.",
+  "Type": "Flower",
+  "Seasons": ["summer"],
+  "Phases": [1, 2, 3, 4, 3],
+  "RegrowthPhase": 3,
+  "HarvestWithScythe": false,
+  "TrellisCrop": true,
+  "Colors": ["255, 255, 255, 0", ],
+  "Bonus": {
+    "MinimumPerHarvest": 2,
+    "MaximumPerHarvest": 5,
+    "MaxIncreasePerFarmLevel": 5,
+    "ExtraChance": 0.1,
+  },
+
+  "SeedPurchaseFrom": "Harvey",
+  "SeedPurchasePrice": 1500,
+  "SeedPurchaseRequirements": [
+    "f Sebastian 250"
+  ],
+}

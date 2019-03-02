@@ -1,0 +1,25 @@
+{
+  "Name": "Blue Dream",
+  "Product": "Blue Dream",
+  "SeedName": "Blue Dream Starter",
+  "SeedDescription": "A sativa-dominant hybrid which will ease you gently into a calm euphoria. Plant these in the summer or fall. Takes 13 days to mature, afterwards it continues to produce every 3 days.",
+  "Type": "Flower",
+  "Seasons": ["summer", "fall"],
+  "Phases": [2, 3, 4, 4, 3],
+  "RegrowthPhase": 3,
+  "HarvestWithScythe": false,
+  "TrellisCrop": true,
+  "Colors": ["255, 255, 255, 0", ],
+  "Bonus": {
+    "MinimumPerHarvest": 2,
+    "MaximumPerHarvest": 5,
+    "MaxIncreasePerFarmLevel": 5,
+    "ExtraChance": 0.1,
+  },
+
+  "SeedPurchaseFrom": "Harvey",
+  "SeedPurchasePrice": 2000,
+  "SeedPurchaseRequirements": [
+    "f Sebastian 250",
+  ],
+}

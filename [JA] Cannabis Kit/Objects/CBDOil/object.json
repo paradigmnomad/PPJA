@@ -1,0 +1,15 @@
+{
+  "Name": "CBD Oil",
+  "Description": "An oil with wonderful health benefits.",
+  "Category": "ArtisanGoods",
+  "Edibility": 18,
+  "Price": 230,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+    "Love": ["Harvey", "Kent"],
+    "Like": ["George"],
+    "Neutral": ["Krobus", "Evelyn", "Pierre", "Caroline", "Jodi", "Sam", "Sebastian", "Penny", "Pam", "Abigail", "Elliott", "Willy"],
+    "Hate": ["Jas", "Vincent"],
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "Hemp",
+  "Product": "Hemp",
+  "SeedName": "Hemp Starter",
+  "SeedDescription": "Plant these in the spring, summer, or fall. Takes 8 days to mature, afterwards it continues to produce every 2 days.",
+  "Type": "Vegetable",
+  "Seasons": ["spring", "summer", "fall"],
+  "Phases": [1, 2, 3, 2, 2],
+  "RegrowthPhase": 3,
+  "HarvestWithScythe": false,
+  "TrellisCrop": true,
+  "Colors": ["255, 255, 255, 0"],
+  "Bonus": {
+    "MinimumPerHarvest": 2,
+    "MaximumPerHarvest": 5,
+    "MaxIncreasePerFarmLevel": 5,
+    "ExtraChance": 0.1,
+  },
+
+  "SeedPurchaseFrom": "Pierre",
+  "SeedPurchasePrice": 1000,
+  "SeedPurchaseRequirements": [
+    "f Sebastian 250",
+  ],
+}
