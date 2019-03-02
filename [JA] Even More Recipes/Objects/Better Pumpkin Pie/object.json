@@ -1,0 +1,47 @@
+	{
+  "Name": "Better Pumpkin Pie",
+  "Description": "Nothing is better than a slice of warm pumpkin pie.",
+  "Category": "Cooking",
+  "Edibility": 38,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 820,
+  "IsColored": false,
+  "GiftTastes": {
+    "Love": ["Marnie"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 276,
+        "Count": 1,
+      },
+      {
+        "Object": 246,
+        "Count": 1,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+{
+        "Object": -6,
+        "Count": 1,
+      },
+{
+        "Object": "Cinnamon Sticks",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2820,
+    "PurchaseRequirements": [
+"z spring summer winter",
+"y 2",
+],
+  }
+}

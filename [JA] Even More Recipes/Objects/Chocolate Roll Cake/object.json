@@ -1,0 +1,44 @@
+{
+  "Name": "Chocolate Roll Cake",
+  "Description": "It's topped with a strawberry.",
+  "Category": "Cooking",
+  "Edibility": 94,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 905,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Harvey", "Krobus", "Sebastian", "Willy"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Chocolate",
+        "Count": 1,
+      },
+{
+        "Object": 400,
+        "Count": 1,
+      },
+      {
+        "Object": 246,
+        "Count": 1,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+      {
+        "Object": -5,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2905,
+    "PurchaseRequirements": ["y 2",
+],
+  }
+}

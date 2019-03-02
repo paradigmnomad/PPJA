@@ -1,0 +1,28 @@
+{
+  "Name": "Grilled Zucchini",
+  "Description": "A plate of grilled zucchini.",
+  "Category": "Cooking",
+  "Edibility": 52,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 540,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Zucchini",
+        "Count": 3,
+      },
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 440,
+    "PurchaseRequirements": ["y 3",
+],
+  }
+}

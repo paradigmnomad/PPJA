@@ -1,0 +1,42 @@
+{
+  "Name": "Amethyst Cookie",
+  "Description": "A sparkling cookie with a unique crunch.",
+  "Category": "Cooking",
+  "Edibility": 32,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 400,
+  "IsColored": false,
+  "GiftTastes": {
+    "Love": ["Abigail"],
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+	"Neutral": ["Leah"],
+	"Dislike": ["Krobus", "Leah", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 66,
+        "Count": 1,
+      },
+      {
+        "Object": 246,
+        "Count": 1,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+      {
+        "Object": -5,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Dwarf",
+    "PurchasePrice": 2400,
+    "PurchaseRequirements": ["f Abigail 1250",
+],
+  }
+}

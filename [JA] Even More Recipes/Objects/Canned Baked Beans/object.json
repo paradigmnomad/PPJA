@@ -1,0 +1,31 @@
+{
+  "Name": "Canned Baked Beans",
+  "Description": "Hearty beans cooked to be slightly sweet.",
+  "Category": "Cooking",
+  "Edibility": 56,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 775,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Brown Sugar",
+        "Count": 1,
+      },
+{
+        "Object": "Navy Bean",
+        "Count": 3,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2775,
+    "PurchaseRequirements": null,
+  }
+}

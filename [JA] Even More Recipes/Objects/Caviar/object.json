@@ -1,0 +1,37 @@
+{
+  "Name": "Caviar",
+  "Description": "It's considered a delicacy by most.",
+  "Category": "Cooking",
+  "Edibility": 60,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 750,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Elliott", "Gus"],
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Wizard"],
+    "Neutral": ["Abigail", "Sam", "Willy"],
+	"Dislike": ["George", "Haley", "Krobus", "Marnie"],
+	"Hate": ["Evelyn", "Jas", "Sebastian", "Vincent"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": -4,
+        "Count": 2,
+      },
+      { 
+	"Object": 423,
+	"Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Willy",
+    "PurchasePrice": 2750,
+    "PurchaseRequirements": [
+      "z spring winter",
+"y 2",
+    ],
+  }
+}

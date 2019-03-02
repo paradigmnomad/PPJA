@@ -1,0 +1,29 @@
+{
+  "Name": "Cola",
+  "Description": "Tastes better than Joja Cola.",
+  "Category": "Cooking",
+  "Edibility": 5,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Foraging": 0,
+    "Mining": 0,
+    "Fishing": 0,
+    "Luck": 1,
+    "Duration": 500,
+  },
+  "Price": 60,
+  "IsColored": false,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Sam"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Neutral": ["Harvey", "Krobus", "Willy"],
+	},
+  "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 150,
+    "PurchaseRequirements": null,
+
+}

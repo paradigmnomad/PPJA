@@ -1,0 +1,34 @@
+{
+  "Name": "Coconut Popsicle",
+  "Description": "Fresh island (or desert) flavor.",
+  "Category": "Cooking",
+  "Edibility": 6,
+  "EdibleIsDrink": false,
+  "GiftTastes": {
+	"Love": ["Haley", "Linus"],
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Abigail", "Dwarf", "Emily", "Krobus", "Willy"],
+	},
+  "EdibleBuffs": null,
+  "Price": 450,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 88,
+        "Count": 1,
+      },
+      {
+        "Object": 388,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Sandy",
+    "PurchasePrice": 1000,
+    "PurchaseRequirements": ["s 88 1",
+],
+
+  }
+}

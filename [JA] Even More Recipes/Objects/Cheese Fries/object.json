@@ -1,0 +1,31 @@
+{
+  "Name": "Cheese Fries",
+  "Description": "French fries and cheese, what more could you ask for?",
+  "Category": "Cooking",
+  "Edibility": 58,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 260,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 192,
+        "Count": 1,
+      },
+      {
+        "Object": 424,
+        "Count": 1,
+      },
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1260,
+    "PurchaseRequirements": null,
+  }
+}

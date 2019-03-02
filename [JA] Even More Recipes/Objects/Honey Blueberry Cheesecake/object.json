@@ -1,0 +1,37 @@
+{
+  "Name": "Blueberry Honey Cake",
+  "Description": "A sticky sweet with blueberries on top!",
+  "Category": "Cooking",
+  "Edibility": 38,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 690,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+	"Neutral": ["Abigail", "George", "Haley", "Harvey", "Leah"],
+	"Dislike": ["Krobus", "Maru", "Sebastian", "Willy"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 340,
+        "Count": 1,
+      },
+{
+        "Object": "Cream Cheese",
+        "Count": 1,
+      },
+{
+        "Object": 258,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2690,
+    "PurchaseRequirements": [
+      "z winter",]
+  }
+}

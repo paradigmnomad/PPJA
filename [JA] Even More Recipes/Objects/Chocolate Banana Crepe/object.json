@@ -1,0 +1,41 @@
+{
+  "Name": "Chocolate and Banana Crepe",
+  "Description": "A sweet breakfast treat covered in chocolate and topped with bananas.",
+  "Category": "Cooking",
+  "Edibility": 70,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 190,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Sebastian", "Willy"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Hazelnut Butter",
+        "Count": 1,
+      },
+      {
+        "Object": "Banana",
+        "Count": 1,
+      },
+{
+        "Object": -5,
+        "Count": 1,
+      },
+{
+        "Object": 246,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 500,
+    "PurchaseRequirements": ["y 2",
+"f Caroline 750",
+],
+  }
+}

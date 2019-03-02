@@ -1,0 +1,35 @@
+{
+  "Name": "Caramel Apple",
+  "Description": "A sweet apple that's been dipped in hot caramel.",
+  "Category": "Cooking",
+  "Edibility": 88,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 785,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+    "Neutral": ["George"],
+	"Dislike": ["Krobus", "Willy"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 613,
+        "Count": 1,
+       },
+{
+        "Object": "Caramel",
+        "Count": 1,
+       }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2785,
+    "PurchaseRequirements": [
+"z spring summer winter",
+],
+
+  }
+}

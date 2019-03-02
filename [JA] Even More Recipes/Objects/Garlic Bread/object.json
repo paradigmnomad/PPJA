@@ -1,0 +1,38 @@
+{
+  "Name": "Garlic Bread",
+  "Description": "Buttery garlic bread. Serve it with dinner.",
+  "Category": "Cooking",
+  "Edibility": 58,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 445,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+    "Neutral": ["Sebastian"],
+	"Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
+	"Hate": ["Evelyn", "Pierre"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 248,
+        "Count": 1,
+       },
+{
+        "Object": 216,
+        "Count": 1,
+       },
+{
+        "Object": "Butter",
+        "Count": 1,
+       }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2445,
+    "PurchaseRequirements": null,
+
+  }
+}

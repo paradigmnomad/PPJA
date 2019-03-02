@@ -1,0 +1,33 @@
+{
+  "Name": "Dragon Fruit Popsicle",
+  "Description": "The seeds might get stuck in your teeth.",
+  "Category": "Cooking",
+  "Edibility": 20,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 800,
+  "IsColored": false,
+  "GiftTastes": {
+    "Love": ["Linus", "Pam", "Sam"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Neutral": ["Krobus", "Willy"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Dragon Fruit",
+        "Count": 1,
+      },
+      {
+        "Object": 388,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Sandy",
+    "PurchasePrice": 1300,
+    "PurchaseRequirements": null,
+
+  }
+}

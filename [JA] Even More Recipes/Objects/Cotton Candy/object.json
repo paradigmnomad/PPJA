@@ -1,0 +1,29 @@
+{
+  "Name": "Cotton Candy",
+  "Description": "It's spun sugar.",
+  "Category": "Cooking",
+  "Edibility": 16,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 250,
+  "IsColored": false,
+  "GiftTastes": {
+    "Love": ["Jas", "Vincent"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Wizard"],
+    "Neutral": ["George", "Sebastian"],
+	"Dislike": ["Krobus", "Leah", "Willy"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+     {
+        "Object": 245,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1250,
+    "PurchaseRequirements": null,
+  }
+}

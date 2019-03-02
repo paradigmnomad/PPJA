@@ -1,0 +1,30 @@
+{
+   "Name": "Even More Recipes for JsonAssets",
+   "Description": "Adds even more new recipes for JsonAssets",
+   "Author": "Project Populate JsonAssets",
+   "Version": "1.4.1",
+   "MinimumApiVersion": "2.10.1",
+   "UniqueID": "ppja.evenmorerecipes",
+  "ContentPackFor": {
+       "UniqueID": "spacechase0.JsonAssets"
+    },
+   "UpdateKeys": [ "Nexus:1742" ],
+   "Dependencies": [
+   {
+      "UniqueID": "ppja.fruitsandveggies",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "ppja.moretrees",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "mizu.flowers",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "ppja.artisanvalleymachinegoods",
+      "IsRequired": true,
+   },
+   ]
+}

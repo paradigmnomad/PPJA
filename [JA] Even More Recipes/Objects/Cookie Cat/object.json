@@ -1,0 +1,41 @@
+{
+  "Name": "Cookie Cat",
+  "Description": "He's a pet for your tummy. He's super duper yummy.",
+  "Category": "Cooking",
+  "Edibility": 106,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 1015,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Leah", "Krobus", "Willy"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 233,
+        "Count": 1,
+      },
+      {
+        "Object": "Chocolate",
+        "Count": 1,
+      },
+      {
+        "Object": 400,
+        "Count": 1,
+      },
+      {
+        "Object": "Vanilla",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 3015,
+    "PurchaseRequirements": ["z spring fall winter",
+"y 2",
+],
+  }
+}

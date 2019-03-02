@@ -1,0 +1,24 @@
+{
+  "Name": "Hardboiled Egg",
+  "Description": "They’re great for deviled eggs, egg salad, or just eating plain with a sprinkle of salt.",
+  "Category": "Cooking",
+  "Edibility": 18,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 35,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+	"Hate": ["Sebastian"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": -5,
+        "Count": 1,
+      }
+    ],
+    "IsDefault": true,
+  }
+}

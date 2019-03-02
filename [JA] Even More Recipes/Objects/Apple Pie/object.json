@@ -1,0 +1,44 @@
+{
+  "Name": "Apple Pie",
+  "Description": "A delicious pie made with apples and cinnamon.",
+  "Category": "Cooking",
+  "Edibility": 56,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 600,
+  "IsColored": false,
+    "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 613,
+        "Count": 1,
+      },
+      {
+        "Object": 246,
+        "Count": 1,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+      {
+        "Object": -6,
+        "Count": 1,
+      },
+{
+        "Object": "Cinnamon Sticks",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2600,
+    "PurchaseRequirements": ["y 2",
+],
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Ento",
+  "Description": "...please don't eat me",
+  "Category": "Cooking",
+  "Edibility": 88,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 845,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Krobus", "Willy"],
+	},
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Chocolate",
+        "Count": 1,
+      },
+      {
+        "Object": 400,
+        "Count": 1,
+      },
+{
+        "Object": 246,
+        "Count": 1,
+      },
+{
+        "Object": 245,
+        "Count": 1,
+      },
+{
+        "Object": -5,
+        "Count": 1,
+      }
+    ],
+    "IsDefault": true,
+  }
+}
