@@ -1,0 +1,16 @@
+{
+  "Name": "Seltzer",
+  "Description": "It's been atrifically carbonated.",
+  "Category": "Cooking",
+  "Edibility": -300,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": null,
+  "Price": 40,
+  "IsColored": false,
+  "Recipe": null,
+ "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 175,
+    "PurchaseRequirements": null,
+
+}

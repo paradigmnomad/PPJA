@@ -1,0 +1,16 @@
+{
+  "Name": "Tonic Water",
+  "Description": "It's a bitter drink, but pairs well with gin.",
+  "Category": "Cooking",
+  "Edibility": -300,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": null,
+  "Price": 45,
+  "IsColored": false,
+  "Recipe": null,
+ "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 175,
+    "PurchaseRequirements": null,
+
+}
