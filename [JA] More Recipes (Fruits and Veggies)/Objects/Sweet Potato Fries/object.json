@@ -1,0 +1,34 @@
+{
+  "Name": "Sweet Potato Fries",
+  "Description": "Like regular fries, only sweet.",
+  "Category": "Cooking",
+  "Edibility": 30,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 490,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Sweet Potato",
+        "Count": 2,
+      },
+      {
+        "Object": 247,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2490,
+    "PurchaseRequirements": [
+      "f Pam 1250",
+    ]
+  },
+  "GiftTastes": {
+	"Love": ["Pam", "Linus"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Elliott", "Harvey", "Sam", "Vincent"],
+  }
+}

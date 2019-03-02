@@ -1,0 +1,48 @@
+{
+  "Name": "Tropical Fruit Salad",
+  "Description": "A medley of tropical fruits.",
+  "Category": "Cooking",
+  "Edibility": 96,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 1005,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Banana",
+        "Count": 1,
+      },
+      {
+        "Object": "Dragon Fruit",
+        "Count": 1,
+      },
+      {
+        "Object": "Papaya",
+        "Count": 1,
+      },
+      {
+        "Object": "Persimmon",
+        "Count": 1,
+      },
+ {
+        "Object": "Pineapple",
+        "Count": 1,
+      }	
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 3005,
+    "PurchaseRequirements": [
+"f Lewis 1250",
+      "z fall winter",
+    ]
+  },
+  "GiftTastes": {
+	"Love": ["Haley", "Sandy", "Vincent"],
+	"Like": ["Abigail", "Alex", "Caroline", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", ],
+	"Neutral": ["Clint", "Wizard"],
+	"Dislike": ["Dwarf", "Krobus", "Willy"],
+  }
+}

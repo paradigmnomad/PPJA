@@ -1,0 +1,40 @@
+{
+  "Name": "Sauteed Onions",
+  "Description": "Often used as a side dish. Slimy, yet satisfying!",
+  "Category": "Cooking",
+  "Edibility": 28,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 100,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 248,
+        "Count": 2,
+      },
+      {
+        "Object": "Onion",
+        "Count": 8,
+      },
+      {
+        "Object": 247,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 250,
+"PurchaseRequirements": [
+"f Marnie 1250",
+"y 2",
+],
+    
+  },
+  "GiftTastes": {
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Haley", "Sam"],
+	"Hate": ["Jas", "Vincent"],
+  }
+}

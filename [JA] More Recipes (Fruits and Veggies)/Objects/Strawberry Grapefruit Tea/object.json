@@ -1,0 +1,54 @@
+{
+  "Name": "Strawberry Grapefruit Tea",
+  "Description": "With hints of coconut and lemon, this tea will make you wish you were on vacation.",
+  "Category": "Cooking",
+  "Edibility": 58,
+  "EdibleIsDrink": true,
+   "EdibleBuffs": {
+    "Farming": 2,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 300,
+  },
+  "Price": 1000,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Tea Leaf",
+        "Count": 3,
+      },
+      {
+        "Object": "Lemon",
+        "Count": 1,
+      },
+      {
+        "Object": 88,
+        "Count": 1,
+      },
+{
+        "Object": 400,
+        "Count": 1,
+      },
+{
+        "Object": "Grapefruit",
+        "Count": 1,
+      }
+],
+    "CanPurchase": true,
+    "PurchaseFrom": "Sandy",
+    "PurchasePrice": 2500,
+    "PurchaseRequirements": [
+      "d mon wed fri",
+      "z fall winter",
+    ]
+  },
+  "GiftTastes": {
+	"Love": ["Gus", "Sandy"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Jodi", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sam", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Vincent"],
+	"Dislike": ["Kent", "Krobus", "Pierre"],
+  }
+}

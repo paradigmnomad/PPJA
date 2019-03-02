@@ -1,0 +1,32 @@
+{
+  "Name": "Rose Tea",
+  "Description": "A popular seasonal treat that has become a craze.",
+  "Category": "Cooking",
+  "Edibility": 26,
+  "EdibleIsDrink": true,
+ "EdibleBuffs": null,
+  "Price": 320,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Tea Leaf",
+        "Count": 4,
+      },
+{
+        "Object": 595,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1620,
+    "PurchaseRequirements": null,
+  },
+"GiftTastes": {
+	"Love": ["Abigail", "Elliott", "Emily", "Haley", "Jas", "Leah", "Maru", "Penny"],
+	"Like": ["Alex", "Caroline", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Dislike": ["Clint", "Pam", "Willy"],
+  }
+}
