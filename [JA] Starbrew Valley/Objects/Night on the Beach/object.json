@@ -1,0 +1,55 @@
+{
+  "Name": "Night on the Beach",
+  "Description": "A fruity, tropical beverage.",
+  "Category": "Cooking",
+  "Edibility": 77,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 2,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": -1,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 100,
+  },
+  "Price": 880,
+  "IsColored": false,
+"CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1880,
+    "PurchaseRequirements": ["f Demetrius 1250",
+"z spring fall winter",
+],
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Peach Schnapps",
+        "Count": 1,
+      },
+      {
+        "Object": "Vodka",
+        "Count": 1,
+      },
+ {
+        "Object": 282,
+        "Count": 1,
+      },
+ {
+        "Object": 635,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 5880,
+    "PurchaseRequirements": ["f Demetrius 1250",
+"z spring fall winter",
+],
+  }
+}

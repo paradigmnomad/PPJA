@@ -1,0 +1,34 @@
+{
+  "Name": "Lemon-Lime Soda",
+  "Description": "A citrus flavored, carbonated drink.",
+  "Category": "Cooking",
+  "Edibility": 21,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": null,
+  "Price": 400,
+  "IsColored": false,
+"CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 400,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Club Soda",
+        "Count": 1,
+      },
+      {
+        "Object": "Lemon",
+        "Count": 1,
+      },
+ {
+        "Object": "Lime",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1400,
+    "PurchaseRequirements": null,
+  }
+}

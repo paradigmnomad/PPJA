@@ -1,0 +1,48 @@
+{
+  "Name": "Derby",
+  "Description": "Off to the race tracks!",
+  "Category": "Cooking",
+  "Edibility": 52,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": -1,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 100,
+  },
+  "Price": 800,
+  "IsColored": false,
+"CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1800,
+    "PurchaseRequirements": null,
+
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Gin",
+        "Count": 1,
+      },
+      {
+        "Object": 636,
+        "Count": 1,
+      },
+ {
+        "Object": "Mint",
+        "Count": 2,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 5800,
+    "PurchaseRequirements": null,
+  }
+}

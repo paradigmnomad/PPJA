@@ -1,0 +1,16 @@
+{
+  "Name": "Club Soda",
+  "Description": "It kinda tastes like seltzer.",
+  "Category": "Cooking",
+  "Edibility": -300,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": null,
+  "Price": 35,
+  "IsColored": false,
+  "Recipe": null,
+ "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 150,
+    "PurchaseRequirements": null,
+
+}

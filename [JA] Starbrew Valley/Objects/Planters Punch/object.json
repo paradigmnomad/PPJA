@@ -1,0 +1,58 @@
+{
+  "Name": "Planters Punch",
+  "Description": "It boosts farming, but makes you tipsy.",
+  "Category": "Cooking",
+  "Edibility": 74,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": {
+    "Farming": 3,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": -1,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 500,
+  },
+  "Price": 950,
+  "IsColored": false,
+"CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1950,
+    "PurchaseRequirements": ["f Lewis 2500",
+],
+
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Rum",
+        "Count": 1,
+      },
+      {
+        "Object": "Lemon",
+        "Count": 1,
+      },
+ {
+        "Object": 638,
+        "Count": 1,
+      },
+ {
+        "Object": 635,
+        "Count": 1,
+      },
+      {
+        "Object": "Pineapple",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 5950,
+    "PurchaseRequirements": ["f Lewis 2500",
+],
+  }
+}
