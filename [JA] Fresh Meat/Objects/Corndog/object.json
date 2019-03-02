@@ -1,0 +1,46 @@
+{
+  "Name": "Corndog",
+  "Description": "A breaded and deep fried hot dog.",
+  "Category": "Cooking",
+  "Edibility": 112,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 175,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Jas", "Vincent"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Haley", "Harvey", "Lewis"],
+	"Dislike": ["Emily", "Leah", "Marnie"],
+	"Hate": ["Sebastian"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 247,
+        "Count": 1,
+      },
+      {
+        "Object": "Beef",
+        "Count": 1,
+      },
+{
+        "Object": 246,
+        "Count": 1,
+      },
+{
+        "Object": "Ketchup",
+        "Count": 1,
+      },
+{
+        "Object": "Mustard",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 650,
+    "PurchaseRequirements": null,
+  }
+}

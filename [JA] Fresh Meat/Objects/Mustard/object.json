@@ -1,0 +1,35 @@
+{
+  "Name": "Mustard",
+  "Description": "Another picnic staple.",
+  "Category": "Cooking",
+  "Edibility": -300,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 100,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Abigail", "George", "Haley", "Jas", "Vincent"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 346,
+        "Count": 1,
+      },
+      {
+        "Object": 419,
+        "Count": 1,
+      },
+      {
+        "Object": 340,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 250,
+    "PurchaseRequirements": null,
+  }
+}

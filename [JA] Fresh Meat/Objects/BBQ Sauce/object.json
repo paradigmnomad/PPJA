@@ -1,0 +1,36 @@
+{
+  "Name": "BBQ Sauce",
+  "Description": "A sauce that usually has varying local flavors and additions. It adds a smoky touch to meat.",
+  "Category": "Cooking",
+  "Edibility": -300,
+  "EdibleIsDrink": false,
+  "GiftTastes": {
+	"Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+	"Neutral": ["Abigial", "Harvey", "Leah", "Sam", "Sebastian"],
+	"Dislike": ["Emily", "Haley", "Jas", "Marnie"],
+  },
+  "EdibleBuffs": null,
+  "Price": 75,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 419,
+        "Count": 1,
+      },
+      {
+        "Object": 256,
+        "Count": 2,
+      },
+{
+        "Object": "Onion",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 120,
+    "PurchaseRequirements": null,
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Name": "Beef Ribs",
+  "Description": "They fall right off the bone!",
+  "Category": "Cooking",
+  "Edibility": 76,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 760,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+	"Neutral": ["Harvey", "Lewis",],
+	"Dislike": ["Emily", "Jas", "Marnie"],
+	"Hate": ["Sebastian"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Beef",
+        "Count": 1,
+      },
+{
+        "Object": "BBQ Sauce",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1000,
+    "PurchaseRequirements": null,
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Chevon",
+  "Description": "A lean cut from a goat.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 100,
+  "IsColored": false,
+  "GiftTastes": {
+    "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+	"Hate": ["Sebastian"],
+  },
+  "Recipe": null,
+  "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 100,
+    "PurchaseRequirements": null,
+}

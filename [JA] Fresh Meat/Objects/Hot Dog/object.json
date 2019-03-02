@@ -1,0 +1,31 @@
+{
+  "Name": "Hot Dog",
+  "Description": "A long bun surrounding a mild sausage.",
+  "Category": "Cooking",
+  "Edibility": 139,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 175,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Sam"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+	"Neutral": ["Haley", "Harvey", "Lewis"],
+	"Dislike": ["Emily", "Leah", "Marnie"],
+	"Hate": ["Sebastian"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Beef",
+        "Count": 1,
+      },
+      {
+        "Object": 216,
+        "Count": 1,
+      }
+    ],
+    "IsDefault": true,
+  }
+}

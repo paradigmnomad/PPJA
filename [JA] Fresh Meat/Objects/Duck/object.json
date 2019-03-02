@@ -1,0 +1,17 @@
+{
+  "Name": "Duck",
+  "Description": "A drumstick from a duck.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 85,
+  "IsColored": false,
+  "GiftTastes": {
+    "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+	"Hate": ["Sebastian"],
+  },
+  "Recipe": null,
+  "CanPurchase": true,
+"PurchaseFrom": "Gus",
+    "PurchasePrice": 85,
+    "PurchaseRequirements": null,
+}

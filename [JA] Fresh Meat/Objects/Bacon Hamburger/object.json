@@ -1,0 +1,49 @@
+{
+  "Name": "Bacon Hamburger",
+  "Description": "The classic version of the popular meal but with bacon.",
+  "Category": "Cooking",
+  "Edibility": 164,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 950,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Alex"],
+	"Like": ["Abigial", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Vincent"],
+	"Dislike": ["Emily", "Haley", "Harvey", "Jas", "Leah"],
+	"Hate": ["Marnie", "Sebastian"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Bacon",
+        "Count": 1,
+      },
+      {
+        "Object": "Beef",
+        "Count": 1,
+      },
+      
+ {
+        "Object": "Ketchup",
+        "Count": 1,
+      },
+ {
+        "Object": "Mustard",
+        "Count": 1,
+      },
+ {
+        "Object": 216,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 680,
+    "PurchaseRequirements": [
+      "r 0.25",
+    ]
+  }
+}

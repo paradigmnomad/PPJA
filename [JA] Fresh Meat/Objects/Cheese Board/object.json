@@ -1,0 +1,42 @@
+{
+  "Name": "Cheese Board",
+  "Description": "A perfect party platter!",
+  "Category": "Cooking",
+  "Edibility": 129,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 375,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Harvey", "Lewis", "Vincent"],
+	"Dislike": ["Emily", "Jas", "Marnie"],
+	"Hate": ["Sebastian"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 216,
+        "Count": 1,
+      },
+      {
+        "Object": 424,
+        "Count": 1,
+      },
+      {
+        "Object": "Salami",
+        "Count": 1,
+      },
+ {
+        "Object": 398,
+        "Count": 2,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 680,
+    "PurchaseRequirements": ["y 2",
+],
+  }
+}

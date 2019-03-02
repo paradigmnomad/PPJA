@@ -1,0 +1,42 @@
+{
+  "Name": "Beef Burrito",
+  "Description": "Just as good as in Zuzu City!",
+  "Category": "Cooking",
+  "Edibility": 127,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 325,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Sam"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+	"Neutral": ["Emily", "Harvey", "Lewis"],
+	"Dislike": ["Jas", "Marnie"],
+	"Hate": ["Sebastian"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Beef",
+        "Count": 1,
+      },
+      {
+        "Object": 229,
+        "Count": 1,
+      },
+ {
+        "Object": 256,
+        "Count": 1,
+      },
+ {
+        "Object": 424,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 800,
+    "PurchaseRequirements": null,
+  }
+}

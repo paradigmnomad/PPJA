@@ -1,0 +1,11 @@
+{
+    "Name": "Jerky Tree",
+    "Product": "Jerky",
+    "SaplingName": "Jerky Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Jerky tree. Bears meat in the summer. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "summer",
+
+    "SaplingPurchasePrice": 15000,
+    "SaplingPurchaseRequirements": null,
+}

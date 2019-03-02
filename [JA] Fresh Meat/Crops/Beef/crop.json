@@ -1,0 +1,24 @@
+{
+    "Name": "Beef",
+    "Product": "Beef",
+    "SeedName": "Beefvine Seeds",
+    "SeedDescription": "Plant these in spring or summer. Takes 8 days to mature.",
+    "Type": "ArtisanGoods",
+
+    "Seasons": ["spring", "summer"],
+    "Phases": [ 1, 2, 1, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+  "SeedPurchasePrice": 100,
+
+
+}
