@@ -1,0 +1,14 @@
+{
+  "Name": "Natto",
+  "Description": "A sticky, fermented snack often eaten for breakfast.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 250,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["George"],
+	"Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+  }
+}

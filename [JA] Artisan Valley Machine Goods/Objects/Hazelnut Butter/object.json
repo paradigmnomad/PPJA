@@ -1,0 +1,14 @@
+{
+  "Name": "Hazelnut Butter",
+  "Description": "An irresistible, chocolate-flavored spread.",
+  "Category": "ArtisanGoods",
+  "Edibility": 18,
+  "Price": 175,
+  "IsColored": false,
+  "Recipe": null,
+ "GiftTastes": {
+    "Like": ["Harvey", "Leah", "Linus", "Jas", "Vincent"],
+    "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "George", "Gus", "Evelyn","Jodi", "Kent", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Haley"],
+    "Dislike": ["Dwarf", "Krobus", "Sebastian", "Willy", "Wizard"],
+  }
+}

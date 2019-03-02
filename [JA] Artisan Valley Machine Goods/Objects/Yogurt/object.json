@@ -1,0 +1,13 @@
+{
+  "Name": "Yogurt",
+  "Description": "Yogurt made from cow's milk. It's plain, with a slightly sweet flavor.",
+  "Category": "ArtisanGoods",
+  "Edibility": 22,
+  "Price": 175,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+	"Dislike": ["Kent", "Sebastian"],
+  }
+}

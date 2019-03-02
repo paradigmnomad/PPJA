@@ -1,0 +1,15 @@
+{
+  "Name": "Lassi",
+  "Description": "A frothy beverage made from fermented yogurt.",
+  "Category": "ArtisanGoods",
+  "Edibility": 28,
+ "EdibleIsDrink": true,
+  "Price": 300,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["George"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+	"Hate": ["Jas", "Kent", "Sebastian", "Vincent"],
+  }
+}

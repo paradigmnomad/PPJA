@@ -1,0 +1,15 @@
+{
+  "Name": "Poblano Extract",
+  "Description": "This liquid has been extracted from a pepper.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 425,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Like": ["Abigail", "Kent", "Krobus", "Sam", "Sandy", "Shane", "Sebastian"],
+	"Neutral": ["Alex", "Clint", "Demetrius", "Dwarf", "Emily", "George", "Gus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Willy", "Wizard"],
+	"Dislike": ["Caroline", "Elliott", "Haley", "Harvey", "Jodi", "Lewis"],
+	"Hate": ["Evelyn", "Jas", "Pierre", "Vincent"],
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Goat Butter",
+  "Description": "Soft, tangy butter made from goat’s milk.",
+  "Category": "ArtisanGoods",
+  "Edibility": 22,
+  "Price": 300,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Gus"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Jas", "Kent", "Vincent"],
+	"Hate": ["Sebastian"],
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "Olive Oil",
+  "Description": "A light vegetable oil often used for salads.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 175,
+  "IsColored": false,
+  "Recipe": null,
+"GiftTastes": {
+"Neutral": ["Leah"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Evelyn","Jodi", "Kent", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard", "Haley", "Harvey", "Linus"],
+    "Hate": ["Jas", "Vincent", "Pam", "Krobus", "Willy"],
+  }
+}

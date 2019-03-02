@@ -1,0 +1,16 @@
+{
+  "Name": "Matcha Ice Cream",
+  "Description": "It tastes like tea.",
+  "Category": "ArtisanGoods",
+  "Edibility": 38,
+  "Price": 325,
+  "IsColored": false,
+  "Recipe": null,
+   "GiftTastes":
+    {
+        "Love": ["Demetrius"],
+        "Like": ["Haley", "Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigial", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
+        "Dislike": ["Emily", "Leah", "Krobus", "Sebastian", "Willy"],
+        "Hate": ["Jas", "Vincent"]
+    }
+}

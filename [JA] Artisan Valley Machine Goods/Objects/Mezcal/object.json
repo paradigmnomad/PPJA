@@ -1,0 +1,35 @@
+{
+  "Name": "Mezcal",
+  "Description": "A spirit distilled from maguey. Drink in moderation.",
+  "Category": "ArtisanGoods",
+  "Edibility": 14,
+ "EdibleIsDrink": true,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": -2,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 180,
+  },
+  "Price": 200,
+  "IsColored": false,
+  "Recipe": null,
+ "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 200,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": ["Pam", "Shane"],
+        "Like": ["Gus"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Dislike": ["Penny"],
+        "Hate": ["Vincent", "Jas"]
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Orange Sherbet",
+  "Description": "For those looking for a different option.",
+  "Category": "ArtisanGoods",
+  "Edibility": 225,
+  "Price": 46,
+  "IsColored": false,
+  "Recipe": null,
+   "GiftTastes":
+    {
+        "Love": ["Vincent", "Jas", "Haley", "Demetrius", "Gus"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigial", "Alex", "Dwarf", "Elliott", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
+        "Neutral": ["Emily", "Leah", "Sebastian", "Willy"],
+		"Dislike": ["Krobus"]
+    }
+}

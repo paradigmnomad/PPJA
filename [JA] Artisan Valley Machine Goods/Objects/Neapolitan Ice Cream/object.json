@@ -1,0 +1,15 @@
+{
+  "Name": "Neapolitan Ice Cream",
+  "Description": "Three flavors in one!",
+  "Category": "ArtisanGoods",
+  "Edibility": 52,
+  "Price": 350,
+  "IsColored": false,
+  "GiftTastes":
+    {
+        "Love": ["Vincent", "Jas", "Haley", "Demetrius"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigial", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Wizard", "Marnie"],
+        "Dislike": ["Emily", "Leah", "Krobus", "Willy"],
+    },
+  "Recipe": null,
+}

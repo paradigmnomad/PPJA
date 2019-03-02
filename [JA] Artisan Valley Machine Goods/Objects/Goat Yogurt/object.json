@@ -1,0 +1,14 @@
+{
+  "Name": "Goat Yogurt",
+  "Description": "A tart yogurt that is favored in some lands.",
+  "Category": "ArtisanGoods",
+  "Edibility": 36,
+  "Price": 300,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Jas", "Kent", "Vincent"],
+	"Hate": ["Sebastian"],
+  }
+}
