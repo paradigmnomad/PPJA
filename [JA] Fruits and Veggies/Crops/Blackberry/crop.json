@@ -1,0 +1,26 @@
+{
+    "Name": "Blackberry",
+    "Product": 410,
+    "SeedName": "Blackberry Seeds",
+    "SeedDescription": "Plant these in fall. Takes 10 days to mature, and keeps producing after the first harvest.",
+    "Type": "Fruit",
+
+    "Seasons": ["fall"],
+    "Phases": [ 1, 2, 3, 2, 2, ],
+    "RegrowthPhase": 4,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+
+    "SeedPurchasePrice": 60,
+"SeedPurchaseRequirements": [
+"y 2",
+],
+
+}

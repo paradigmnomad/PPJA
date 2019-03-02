@@ -1,0 +1,23 @@
+{
+    "Name": "Bell Pepper",
+    "Product": "Bell Pepper",
+    "SeedName": "Bell Pepper Seeds",
+    "SeedDescription": "Plant these in fall. Takes 10 days to mature, and continues to produce after the first harvest.",
+    "Type": "Vegetable",
+
+    "Seasons": ["fall"],
+    "Phases": [ 1, 2, 3, 2, 2, ],
+    "RegrowthPhase": 4,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+
+    "SeedPurchasePrice": 130,
+
+}

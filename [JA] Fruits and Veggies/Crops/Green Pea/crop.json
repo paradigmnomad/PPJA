@@ -1,0 +1,26 @@
+{
+    "Name": "Green Pea",
+    "Product": "Green Peas",
+    "SeedName": "Green Pea Seeds",
+    "SeedDescription": "Plant these in summer. Takes 8 days to mature, but keeps producing after that. Grows on a trellis.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer"],
+    "Phases": [ 1, 2, 2, 2, 1, ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 5,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+
+    "SeedPurchasePrice": 50,
+"SeedPurchaseRequirements": [
+"y 3",
+],
+
+}

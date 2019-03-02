@@ -1,0 +1,13 @@
+{
+  "Name": "Watermelon",
+  "Description": "Juicy and sweet, it is a delicious summer treat. Often brought on beach trips!",
+  "Category": "Fruit",
+  "Edibility": 45,
+  "Price": 300,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Penny"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus",  "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin","Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+}

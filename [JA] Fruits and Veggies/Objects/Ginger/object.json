@@ -1,0 +1,16 @@
+{
+  "Name": "Ginger",
+  "Description": "It is a flavoring agent in beer, soft drinks, candies, and a staple spice and condiment in many countries.",
+  "Category": "Vegetable",
+  "Edibility": 8,
+  "Price": 80,
+  "IsColored": false,
+    "GiftTastes": {
+	"Love": ["Gus", "Krobus"],
+    "Like": ["Leah", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sam", "Sebastian", "Shane","Willy", "Wizard"],
+	"Neutral": ["Demetrius", "Emily", "Evelyn", "George", "Harvey", "Jodi", "Kent", "Maru", "Penny", "Sandy"],
+	"Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott",],
+	"Hate": ["Haley", "Jas", "Vincent"],
+  },
+  "Recipe": null,
+}

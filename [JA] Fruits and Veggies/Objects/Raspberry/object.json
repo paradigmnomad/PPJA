@@ -1,0 +1,14 @@
+{
+  "Name": "Raspberry",
+  "Description": "An extremely tart berry that has a warm glow.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 30,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Demetrius", "Elliott", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Shane"],
+    "Neutral": ["Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+	"Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+  },
+  "Recipe": null,
+}

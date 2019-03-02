@@ -1,0 +1,13 @@
+{
+  "Name": "Broccoli",
+  "Description": "The soft top of this vegetable is leafy and fluffy.",
+  "Category": "Vegetable",
+  "Edibility": 15,
+  "Price": 120,
+  "IsColored": false,
+      "GiftTastes": {
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+  },
+  "Recipe": null,
+}

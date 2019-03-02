@@ -1,0 +1,23 @@
+{
+    "Name": "Cotton",
+    "Product": "Cotton Boll",
+    "SeedName": "Cotton Seeds",
+    "SeedDescription": "Plant these in summer or fall. Takes 6 days to mature, and keeps producing after the first harvest.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer", "fall"],
+    "Phases": [ 1, 1, 1, 2, 2, ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 80,
+
+}
