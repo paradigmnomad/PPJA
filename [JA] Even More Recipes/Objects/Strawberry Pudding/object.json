@@ -1,0 +1,34 @@
+{
+  "Name": "Strawberry Pudding",
+  "Description": "Jiggle jiggle",
+  "Category": "Cooking",
+  "Edibility": 60,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 440,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Abigail", "Haley", "Jas", "Sebastian", "Vincent"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 400,
+        "Count": 2,
+      },
+{
+        "Object": 245,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 2440,
+    "PurchaseRequirements": [
+      "z summer fall winter",
+"f Jas 1250",
+],
+  }
+}

@@ -1,0 +1,42 @@
+	{
+  "Name": "Strawberry Macaron",
+  "Description": "The quintessential macaron, flavored like strawberries.",
+  "Category": "Cooking",
+  "Edibility": 96,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 1350,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+	"Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
+	"Dislike": ["Krobus", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Almond",
+        "Count": 2,
+      },
+      {
+        "Object": -5,
+        "Count": 3,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+ {
+        "Object": 400,
+        "Count": 2,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 3350,
+    "PurchaseRequirements": ["z summer fall winter",
+"y 3",
+],
+  }
+}
