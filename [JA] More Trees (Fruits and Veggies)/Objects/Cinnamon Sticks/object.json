@@ -1,0 +1,13 @@
+{
+  "Name": "Cinnamon Sticks",
+  "Description": "Its scent is uniquely warming, uplifting, and stimulating, and its flavor sweet and delicious.",
+  "Category": "Vegetable",
+  "Edibility": -300,
+  "Price": 140,
+  "IsColored": false,
+  "GiftTastes": {
+	"Like": ["Gus", "Jodi", "Krobus"],
+    "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+}

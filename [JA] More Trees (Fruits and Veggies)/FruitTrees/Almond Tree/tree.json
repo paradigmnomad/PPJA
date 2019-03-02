@@ -1,0 +1,11 @@
+{
+    "Name": "Almond",
+    "Product": "Almond",
+    "SaplingName": "Almond Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Almond tree. Ready to harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "fall",
+
+    "SaplingPurchasePrice": 3750,
+    "SaplingPurchaseRequirements": null,
+}

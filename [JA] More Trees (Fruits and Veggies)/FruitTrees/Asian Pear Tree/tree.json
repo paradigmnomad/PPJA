@@ -1,0 +1,11 @@
+{
+    "Name": "Asian Pear",
+    "Product": "Asian Pear",
+    "SaplingName": "Asian Pear Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Asian Pear tree. Ready to harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "fall",
+
+    "SaplingPurchasePrice": 3500,
+    "SaplingPurchaseRequirements": null,
+}

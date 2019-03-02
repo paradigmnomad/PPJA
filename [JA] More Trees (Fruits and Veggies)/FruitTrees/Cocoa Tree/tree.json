@@ -1,0 +1,13 @@
+{
+    "Name": "Cocoa Tree",
+    "Product": "Cocoa Pod",
+    "SaplingName": "Cocoa Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Cocoa tree. Bears fruit in the spring. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "spring",
+
+    "SaplingPurchasePrice": 5000,
+    "SaplingPurchaseRequirements": [
+    "y 2",
+    ],
+}

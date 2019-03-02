@@ -1,0 +1,13 @@
+{
+    "Name": "Grapefruit Tree",
+    "Product": "Grapefruit",
+    "SaplingName": "Grapefruit Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Grapefruit tree. Bears fruit in the fall. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "fall",
+
+    "SaplingPurchasePrice": 6000,
+    "SaplingPurchaseRequirements": [
+    "y 2",
+    ],
+}

@@ -1,0 +1,13 @@
+{
+    "Name": "Cinnamon Tree",
+    "Product": "Cinnamon Sticks",
+    "SaplingName": "Cinnamon Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Cassia tree. Ready to harvest in the winter. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "winter",
+
+    "SaplingPurchasePrice": 6000,
+    "SaplingPurchaseRequirements": [
+    "y 2",
+    ],
+}

@@ -1,0 +1,13 @@
+{
+    "Name": "Eucalyptus Tree",
+    "Product": "Eucalyptus Leaves",
+    "SaplingName": "Eucalyptus Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Eucalyptus tree. Ready to harvest in the spring. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "spring",
+"SaplingPurchaseFrom": "Harvey",
+    "SaplingPurchasePrice": 5500,
+    "SaplingPurchaseRequirements": [
+    "y 2",
+    ],
+}

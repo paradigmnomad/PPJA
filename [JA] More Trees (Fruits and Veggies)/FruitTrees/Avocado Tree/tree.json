@@ -1,0 +1,13 @@
+{
+    "Name": "Avocado Tree",
+    "Product": "Avocado",
+    "SaplingName": "Avocado Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Avocado tree. Bears fruit in the summer. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "summer",
+
+    "SaplingPurchasePrice": 8000,
+    "SaplingPurchaseRequirements": [
+    "y 2",
+    ],
+}

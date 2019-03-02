@@ -1,0 +1,11 @@
+{
+    "Name": "Dragon Fruit Tree",
+    "Product": "Dragon Fruit",
+    "SaplingName": "Dragon Fruit Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Dragon Fruit tree. Bears fruit in the summer. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "summer",
+"SaplingPurchaseFrom": "Sandy",
+    "SaplingPurchasePrice": 5000,
+    "SaplingPurchaseRequirements": null,
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Cashew",
+    "Product": "Cashew",
+    "SaplingName": "Cashew Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Cashew tree. Ready to harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "fall",
+
+    "SaplingPurchasePrice": 4000,
+    "SaplingPurchaseRequirements": null,
+}

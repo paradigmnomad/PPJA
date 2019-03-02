@@ -1,0 +1,12 @@
+{
+  "Name": "Cashew",
+  "Description": "A buttery nut that buds at the bottom of the cashew apple.",
+  "Category": "Vegetable",
+  "Edibility": 12,
+  "Price": 100,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus",  "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+}

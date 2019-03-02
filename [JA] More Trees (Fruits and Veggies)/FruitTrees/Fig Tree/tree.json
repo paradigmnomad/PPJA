@@ -1,0 +1,13 @@
+{
+    "Name": "Fig Tree",
+    "Product": "Fig",
+    "SaplingName": "Fig Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Fig tree. Bears fruit in the winter. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "winter",
+
+    "SaplingPurchasePrice": 4000,
+    "SaplingPurchaseRequirements": [
+    "y 2",
+    ],
+}

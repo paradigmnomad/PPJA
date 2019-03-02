@@ -1,0 +1,12 @@
+{
+    "Name": "Mango",
+    "Product": "Mango",
+    "SaplingName": "Mango Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Mango tree. Ready to harvest in the summer. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "summer",
+"SaplingPurchaseFrom": "Sandy",
+    "SaplingPurchasePrice": 5500,
+    "SaplingPurchaseRequirements": ["y 2",
+],
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "Almond",
+  "Description": "A drupe consisting of an outer hull and a hard shell with the seed within.",
+  "Category": "Vegetable",
+  "Edibility": 12,
+  "Price": 90,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus",  "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin","Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+}

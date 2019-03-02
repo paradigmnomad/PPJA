@@ -1,0 +1,13 @@
+{
+  "Name": "Avocado",
+  "Description": "A soft plant that is a popular topping and addition to many meals. It is particularly loved by younger generations.",
+  "Category": "Vegetable",
+  "Edibility": 20,
+  "Price": 200,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Abigail", "Alex", "Emily", "Leah", "Sam"],
+    "Like": ["Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+}

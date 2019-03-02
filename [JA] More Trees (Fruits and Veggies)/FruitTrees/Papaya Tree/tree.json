@@ -1,0 +1,11 @@
+{
+    "Name": "Papaya Tree",
+    "Product": "Papaya",
+    "SaplingName": "Papaya Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Papaya tree. Bears fruit in the summer. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "summer",
+"SaplingPurchaseFrom": "Sandy",
+    "SaplingPurchasePrice": 5500,
+    "SaplingPurchaseRequirements": null,
+}

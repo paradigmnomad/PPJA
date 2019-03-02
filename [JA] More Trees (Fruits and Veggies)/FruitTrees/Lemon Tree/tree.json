@@ -1,0 +1,11 @@
+{
+    "Name": "Lemon Tree",
+    "Product": "Lemon",
+    "SaplingName": "Lemon Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Lemon tree. Bears fruit in the spring. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "spring",
+
+    "SaplingPurchasePrice": 2000,
+    "SaplingPurchaseRequirements": null,
+}

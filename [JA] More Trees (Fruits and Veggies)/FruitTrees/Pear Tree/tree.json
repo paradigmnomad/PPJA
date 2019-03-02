@@ -1,0 +1,13 @@
+{
+    "Name": "Pear Tree",
+    "Product": "Pear",
+    "SaplingName": "Pear Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Pear tree. Bears fruit in the winter. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "winter",
+
+    "SaplingPurchasePrice": 5500,
+    "SaplingPurchaseRequirements": [
+    "y 2",
+    ],
+}

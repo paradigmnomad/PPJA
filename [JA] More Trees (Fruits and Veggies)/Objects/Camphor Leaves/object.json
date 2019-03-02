@@ -1,0 +1,12 @@
+{
+  "Name": "Camphor Leaves",
+  "Description": "Glossy oval leaves that are very fragrant when crushed.",
+  "Category": "Vegetable",
+  "Edibility": -300,
+  "Price": 100,
+  "IsColored": false,
+  "GiftTastes": {
+    "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+}

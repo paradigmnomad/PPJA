@@ -1,0 +1,13 @@
+{
+    "Name": "Camphor Tree",
+    "Product": "Camphor Leaves",
+    "SaplingName": "Camphor Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Camphor tree. Ready to harvest in the winter. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "winter",
+
+    "SaplingPurchasePrice": 4000,
+    "SaplingPurchaseRequirements": [
+    "y 3",
+    ],
+}
