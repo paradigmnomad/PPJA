@@ -1,0 +1,13 @@
+{
+  "Name": "Almond Butter",
+  "Description": "A light, slightly gritty butter.",
+  "Category": "ArtisanGoods",
+  "Edibility": 18,
+  "Price": 175,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus",  "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin","Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Vincent", "Jas"],
+  }
+}

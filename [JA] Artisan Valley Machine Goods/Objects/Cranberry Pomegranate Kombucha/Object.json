@@ -1,0 +1,14 @@
+{
+  "Name": "Cranberry Pomegranate Kombucha",
+  "Description": "A flavorful sparkling fruit-blend.",
+  "Category": "ArtisanGoods",
+  "Edibility": 30,
+  "EdibleIsDrink": true,
+  "Price": 1200,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Sebastian"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+  }
+}

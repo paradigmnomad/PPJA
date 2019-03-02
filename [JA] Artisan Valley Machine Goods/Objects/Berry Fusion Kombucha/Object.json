@@ -1,0 +1,15 @@
+{
+  "Name": "Berry Fusion Kombucha",
+  "Description": "A flavorful sparkling fruit-blend.",
+  "Category": "ArtisanGoods",
+  "Edibility": 26,
+  "EdibleIsDrink": true,
+  "Price": 1050,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Like": ["Demetrius", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Sebastian", "Shane"],
+	"Dislike": ["Abigail", "Alex", "Clint", "Dwarf", "Emily", "George", "Gus", "Haley", "Harvey", "Jas", "Krobus", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Vincent", "Willy", "Wizard"],
+	"Hate": ["Caroline", "Elliott", "Evelyn"],
+  }
+}

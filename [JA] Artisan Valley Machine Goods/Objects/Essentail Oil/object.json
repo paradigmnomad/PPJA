@@ -1,0 +1,14 @@
+{
+  "Name": "Essential Oil",
+  "Description": "A concentrated liquid containing the aroma compounds of a plant.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 50,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Emily", "Harvey"],
+	"Like": ["Abigail", "Caroline", "Demetrius", "Elliott", "Evelyn", "Haley", "Leah", "Linus", "Marnie", "Sandy"],
+	"Neutral": ["Alex", "Clint", "Dwarf", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  }
+}

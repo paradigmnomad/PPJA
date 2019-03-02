@@ -1,0 +1,16 @@
+{
+  "Name": "Coconut Butter",
+  "Description": "A light butter with a tropical scent.",
+  "Category": "ArtisanGoods",
+  "Edibility": 6,
+  "Price": 250,
+  "IsColored": false,
+  "Recipe": null,
+"GiftTastes":
+    {
+        "Love": ["Haley", "Linus"],
+        "Like": ["Demetrius", "Elliott", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Pam", "Robin", "Sandy", "Shane", "Vincent"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+		"Dislike": ["Abigail", "Dwarf"]
+    }
+}

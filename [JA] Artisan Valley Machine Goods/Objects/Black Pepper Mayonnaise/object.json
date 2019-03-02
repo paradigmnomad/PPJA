@@ -1,0 +1,14 @@
+{
+  "Name": "Black Pepper Mayonnaise",
+  "Description": "It looks like normal mayonnaise but with black pepper.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 260,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Like": ["Abigail", "Alex", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Caroline"],
+	"Hate": ["Jas", "Sam", "Sebastian", "Vincent"],
+  }
+}
