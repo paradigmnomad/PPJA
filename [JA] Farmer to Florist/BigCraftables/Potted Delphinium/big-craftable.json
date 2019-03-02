@@ -1,0 +1,27 @@
+{
+  "Name": "Potted Delphinium",
+  "Description": "A delphinium potted in a little wooden pot.  Remember to water it!",
+  "Price": 1,
+  "ProvidesLight": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+		  "Object": "Delphinium",
+		  "Count": 1,
+      },
+      {
+		  "Object": 388,
+		  "Count": 10,
+      },
+	  {
+		  "Object": 330,
+		  "Count": 10,
+	  },
+    ],
+	"CanPurchase": true,
+	"PurchaseFrom": "Robin",
+	"PurchasePrice": 1,
+	"PurchaseRequirements": null,
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Name": "Potted Camellia",
+  "Description": "A small camellia plant potted in a little wooden pot.  Remember to water it!",
+  "Price": 1,
+  "ProvidesLight": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+		  "Object": "Camellia",
+		  "Count": 1,
+      },
+      {
+		  "Object": 388,
+		  "Count": 10,
+      },
+	  {
+		  "Object": 330,
+		  "Count": 10,
+	  },
+    ],
+	"CanPurchase": true,
+	"PurchaseFrom": "Robin",
+	"PurchasePrice": 1,
+	"PurchaseRequirements": null,
+  }
+}

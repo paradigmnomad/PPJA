@@ -1,0 +1,27 @@
+{
+  "Name": "Potted Dandelion",
+  "Description": "What is...?  Why would... why would you pot a dandelion?  Ah well; it'll probably live even if you forgot to water it...",
+  "Price": 1,
+  "ProvidesLight": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+		  "Object": 22,
+		  "Count": 1,
+      },
+      {
+		  "Object": 388,
+		  "Count": 10,
+      },
+	  {
+		  "Object": 330,
+		  "Count": 10,
+	  },
+    ],
+	"CanPurchase": true,
+	"PurchaseFrom": "Robin",
+	"PurchasePrice": 1,
+	"PurchaseRequirements": null,
+  }
+}
