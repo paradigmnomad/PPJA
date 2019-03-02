@@ -1,0 +1,23 @@
+{
+    "Name": "Pineapple",
+    "Product": "Pineapple",
+    "SeedName": "Pineapple Seeds",
+       "SeedDescription": "Plant these in the spring. Takes 8 days to mature.",
+    "Type": "Fruit",
+
+    "Seasons": ["spring"],
+    "Phases": [ 1, 2, 2, 2, 1 ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+"SeedPurchaseFrom": "Sandy",
+    "SeedPurchasePrice": 100,
+
+}

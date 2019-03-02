@@ -1,0 +1,22 @@
+{
+    "Name": "Kiwi",
+    "Product": "Kiwi",
+    "SeedName": "Kiwi Seeds",
+    "SeedDescription": "Plant these in summer or fall. Takes 21 days to mature, and continues to produce every 3 days. Grows on a trellis.",
+    "Type": "Fruit",
+
+    "Seasons": ["summer", "fall"],
+    "Phases": [ 3, 4, 3, 10, 1, ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchasePrice": 300,
+"SeedPurchaseRequirements": null,
+}

@@ -1,0 +1,22 @@
+{
+    "Name": "Barley",
+    "Product": "Barley",
+    "SeedName": "Barley Seeds",
+    "SeedDescription": "Plant these in fall. Takes 4 days to mature.",
+    "Type": "Vegetable",
+
+    "Seasons": ["fall"],
+    "Phases": [ 1, 1, 1, 1, ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": true,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 10,
+"SeedPurchaseRequirements": ["y 2"],
+}

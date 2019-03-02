@@ -1,0 +1,26 @@
+{
+    "Name": "Raspberry",
+    "Product": "Raspberry",
+    "SeedName": "Raspberry Seeds",
+    "SeedDescription": "Plant these in summer. Takes 10 days to mature, and keeps producing after the first harvest.",
+    "Type": "Fruit",
+
+    "Seasons": ["summer"],
+    "Phases": [ 1, 2, 3, 2, 2, ],
+    "RegrowthPhase": 4,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 3,
+        "MaximumPerHarvest": 5,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+
+    "SeedPurchasePrice": 60,
+"SeedPurchaseRequirements": [
+"y 2",
+],
+
+}
