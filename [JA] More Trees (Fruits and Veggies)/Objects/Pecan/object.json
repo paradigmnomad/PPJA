@@ -1,0 +1,13 @@
+{
+  "Name": "Pecan",
+  "Description": "A savory nut with a striped seed. Do you own a nutcracker?",
+  "Category": "Vegetable",
+  "Edibility": -300,
+  "Price": 125,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Leah"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus",  "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+}

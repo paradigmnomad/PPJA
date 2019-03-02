@@ -1,0 +1,13 @@
+{
+  "Name": "Pomelo",
+  "Description": "A really large, not so bitter, cousin of the grapefruit.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 80,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Gus"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+}

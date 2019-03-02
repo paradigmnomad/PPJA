@@ -1,0 +1,14 @@
+{
+  "Name": "Durian",
+  "Description": "A smelly fruit with a spiky husk.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 200,
+  "IsColored": false,
+  "GiftTastes": {
+	"Like": ["Krobus"],
+    "Neutral": [ "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+  },
+  "Recipe": null,
+}

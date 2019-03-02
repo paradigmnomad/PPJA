@@ -1,0 +1,14 @@
+{
+  "Name": "Lemon",
+  "Description": "A tangy citrus fruit that is used to make lemonade.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 50,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Gus"],
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
+  },
+  "Recipe": null,
+}

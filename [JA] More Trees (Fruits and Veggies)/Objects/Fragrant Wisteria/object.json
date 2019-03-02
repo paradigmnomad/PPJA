@@ -1,0 +1,15 @@
+{
+  "Name": "Fragrant Wisteria",
+  "Description": "An especially fragrant cluster of purple flowers.",
+  "Category": "Flower",
+  "Edibility": -300,
+  "Price": 60,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Sandy"],
+    "Like": ["Caroline",  "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Linus","Pierre", "Vincent",],
+	"Neutral": ["Abigail", "Alex", "Clint", "Demetrius", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Robin"],
+	"Dislike": ["Dwarf", "Elliott", "Krobus", "Sam", "Sebastian", "Shane", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+}

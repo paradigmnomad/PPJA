@@ -1,0 +1,13 @@
+{
+  "Name": "Walnut",
+  "Description": "A nut that makes delicious candies and pies. It is often used in the filling of sweet treats.",
+  "Category": "Vegetable",
+  "Edibility": 12,
+  "Price": 90,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Evelyn", "Marnie"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus",  "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+}

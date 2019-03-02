@@ -1,0 +1,15 @@
+{
+  "Name": "Dragon Fruit",
+  "Description": "Also called a pitaya, this is the fruit of a large cactus.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 125,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Pam", "Sam"],
+    "Like": ["Elliott", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Robin", "Sandy",  "Shane"],
+	"Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Krobus", "Marnie", "Maru", "Penny", "Pierre", "Sebastian", "Willy", "Wizard"],
+	"Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+  },
+  "Recipe": null,
+}

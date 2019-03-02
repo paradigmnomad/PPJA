@@ -1,0 +1,13 @@
+{
+  "Name": "Persimmon",
+  "Description": "A somewhat uncommon fruit filled with a honey-like flavor.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 155,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus",  "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+	"Dislike": ["Maru"],
+  },
+  "Recipe": null,
+}

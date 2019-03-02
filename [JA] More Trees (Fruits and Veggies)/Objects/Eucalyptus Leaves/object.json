@@ -1,0 +1,13 @@
+{
+  "Name": "Eucalyptus Leaves",
+  "Description": "Leathery blue-green leaves are studded with glands containing a fragrant, volatile oil. Luckily not an exploding oil!",
+  "Category": "Vegetable",
+  "Edibility": -300,
+  "Price": 135,
+  "IsColored": false,
+  "GiftTastes": {
+	"Like": ["Leah", "Linus"],
+    "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+}

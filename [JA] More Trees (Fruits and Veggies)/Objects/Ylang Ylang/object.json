@@ -1,0 +1,13 @@
+{
+  "Name": "Ylang Ylang",
+  "Description": "A highly appreciated flower in perfumery and aromatherapy.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 75,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Haley", "Sandy"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+  "Recipe": null,
+}
