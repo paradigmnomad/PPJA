@@ -1,0 +1,23 @@
+{
+    "Name": "Soybean",
+    "Product": "Soybean",
+    "SeedName": "Soybean Seeds",
+    "SeedDescription": "Plant these in fall. Takes 10 days to mature, and continues to produce after the first harvest.",
+    "Type": "Vegetable",
+
+    "Seasons": ["fall"],
+    "Phases": [ 1, 2, 3, 2, 1, ],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+    "SeedPurchasePrice": 120,
+"SeedPurchaseRequirements": ["y 2",
+],
+}
