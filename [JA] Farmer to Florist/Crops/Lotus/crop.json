@@ -1,0 +1,23 @@
+{
+    "Name": "Lotus",
+    "Product": "Lotus",
+    "SeedName": "Lotus Starter",
+    "SeedDescription": "Plant in the summer. Takes 11 days to mature, but keeps producing after that. Grows in a pot.",
+    "Type": "Flower",
+
+    "Seasons": ["summer"],
+    "Phases": [ 1, 2, 3, 3, 2 ],
+	"RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+	"SeedPurchaseRequirements": null,
+    "SeedPurchasePrice": 40,
+}

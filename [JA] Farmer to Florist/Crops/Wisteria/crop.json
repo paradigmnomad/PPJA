@@ -1,0 +1,23 @@
+{
+    "Name": "Wisteria",
+    "Product": "Wisteria",
+	"SeedName": "Wisteria Seeds",
+    "SeedDescription": "Plant in the spring. Takes 20 days to mature, but keeps producing after that. Grows on a pergola.",
+    "Type": "Flower",
+
+    "Seasons": ["spring"],
+    "Phases": [ 2, 4, 5, 5, 4 ],
+	"RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 6,
+        "ExtraChance": 0.1,
+    },
+
+	"SeedPurchaseRequirements": null,
+    "SeedPurchasePrice": 80,
+}
