@@ -1,0 +1,15 @@
+{
+  "Name": "Passion Fruit",
+  "Description": "The passion fruit is a pepo, a type of berry, with a juicy interior filled with numerous seeds.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 95,
+  "IsColored": false,
+    "GiftTastes": {
+	"Love":[ "Elliot"],
+    "Like": ["Abigail", "Demetrius", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane"],
+	"Neutral": ["Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Sam", "Wizard"],
+	"Dislike": ["Jas", "Vincent", "Willy"],
+  },
+  "Recipe": null,
+}

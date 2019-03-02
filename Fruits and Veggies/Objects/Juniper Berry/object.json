@@ -1,0 +1,14 @@
+{
+  "Name": "Juniper Berry",
+  "Description": "Tart and not usually eaten on their own, but they ferment into gin.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 65,
+  "IsColored": false,
+    "GiftTastes": {
+    "Neutral": ["Demetrius", "Gus", "Leah", "Linus", "Maru", "Pam", "Robin", "Sandy", "Shane"],
+	"Dislike": ["Abigail", "Alex", "Clint", "Dwarf", "Emily", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis","Marnie", "Penny", "Pierre", "Sam", "Sebastian", "Vincent", "Willy", "Wizard"],
+	"Hate": ["Caroline", "Elliott", "Evelyn"],
+  },
+  "Recipe": null,
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "Sweet Canary Melon",
+  "Description": "A bright yellow melon, it is distinctively sweet and tangy.",
+  "Category": "Fruit",
+  "Edibility": 45,
+  "Price": 225,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Demetrius", "Dwarf", "Elliott", "Harvey", "Jodi", "Kent",  "Leah", "Linus", "Pam", "Penny", "Robin", "Sandy", "Shane"],
+	"Neutral": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+	"Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+  },
+  "Recipe": null,
+}

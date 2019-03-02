@@ -1,0 +1,13 @@
+{
+  "Name": "Mint",
+  "Description": "The world's most familiar mint scent is the aroma of peppermint.",
+  "Category": "Vegetable",
+  "Edibility": 8,
+  "Price": 55,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus",  "Haley", "Harvey",  "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Jas", "Krobus", "Vincent"],
+  },
+  "Recipe": null,
+}

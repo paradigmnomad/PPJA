@@ -1,0 +1,14 @@
+{
+  "Name": "Rosemary",
+  "Description": "The smell of rosemary is piney and fresh; familiar but also distinctive.",
+  "Category": "Vegetable",
+  "Edibility": 18,
+  "Price": 75,
+  "IsColored": false,
+    "GiftTastes": {
+	"Love": ["Leah"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Jas", "Vincent"],
+	},
+  "Recipe": null,
+}
