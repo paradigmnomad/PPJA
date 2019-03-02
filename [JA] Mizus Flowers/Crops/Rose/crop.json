@@ -1,0 +1,23 @@
+{
+    "Name": "Rose",
+    "Product": "Rose",
+    "SeedName": "Rose Starter",
+    "SeedDescription": "Plant in spring, summer, or fall. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.",
+    "Type": "Flower",
+
+    "Seasons": ["spring", "summer", "fall"],
+   "Phases": [ 1, 2, 3, 4, 2 ],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+
+    "SeedPurchasePrice": 200,
+
+}

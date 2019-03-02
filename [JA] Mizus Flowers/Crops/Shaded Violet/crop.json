@@ -1,0 +1,27 @@
+{
+    "Name": "Shaded Violet",
+    "Product": "Shaded Violet",
+    "SeedName": "Shaded Violet Seeds",
+    "SeedDescription": "Plant in spring. Takes 8 days to produce a rich purple flower.",
+    "Type": "Flower",
+
+    "Seasons": ["spring"],
+    "Phases": [ 1, 1, 3, 3 ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": [
+    "151, 80, 217, 255",
+    "247, 214, 255, 255",
+    "217, 140, 255, 255"
+    ],
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 30,
+
+}

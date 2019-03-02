@@ -1,0 +1,13 @@
+{
+  "Name": "Fragrant Lilac",
+  "Description": "A very fragrant flower that is, well, lilac in color.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 40,
+  "IsColored": true,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Emily", "Robin"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+}

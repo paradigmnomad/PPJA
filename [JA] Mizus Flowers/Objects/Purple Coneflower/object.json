@@ -1,0 +1,12 @@
+{
+  "Name": "Purple Coneflower",
+  "Description": "A lovely purple coneflower that’s pleasantly sweet. It is also known as echinacea.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 75,
+  "IsColored": true,
+  "Recipe": null,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+}

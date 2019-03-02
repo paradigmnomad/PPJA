@@ -1,0 +1,13 @@
+{
+  "Name": "Chamomile",
+  "Description": "White daisy like flowers with a scent reminiscent of apples or pineapple.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 45,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Emily", "Evelyn", "Harvey"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+}

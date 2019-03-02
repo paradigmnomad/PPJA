@@ -1,0 +1,12 @@
+{
+  "Name": "Honeysuckle",
+  "Description": "Fragrant yellow flowers with a sweet dew inside.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 165,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+}

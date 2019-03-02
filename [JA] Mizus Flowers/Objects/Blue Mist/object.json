@@ -1,0 +1,14 @@
+{
+  "Name": "Blue Mist",
+  "Description": "A popular flower with young ladies that originated from a mineral-rich valley.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 250,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Abigail", "Caroline", "Emily", "Haley", "Leah", "Maru", "Penny"],
+    "Like": ["Alex", "Demetrius", "Dwarf", "Elliott", "Evelyn", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Neutral": ["Clint", "George", "Krobus", "Willy"],
+  },
+}

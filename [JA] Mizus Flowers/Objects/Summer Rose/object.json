@@ -1,0 +1,13 @@
+{
+  "Name": "Summer Rose",
+  "Description": "A rose by any other name would smell as sweet.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 320,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Elliott", "Penny"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+}

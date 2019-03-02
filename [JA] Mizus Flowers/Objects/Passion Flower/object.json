@@ -1,0 +1,13 @@
+{
+  "Name": "Passion Flower",
+  "Description": "Gentle yet profound, this flower is cooling to the body, calming to the mind, and soothing to the spirit.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 160,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Elliott", "Emily"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+}

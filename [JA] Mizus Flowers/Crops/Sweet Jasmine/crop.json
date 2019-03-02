@@ -1,0 +1,27 @@
+{
+    "Name": "Sweet Jasmine",
+    "Product": "Sweet Jasmine",
+    "SeedName": "Sweet Jasmine Seeds",
+    "SeedDescription": "Plant in the fall. Takes 7 days to produce bright flowers.",
+    "Type": "Flower",
+
+    "Seasons": ["fall"],
+    "Phases": [ 1, 2, 2, 2 ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": [
+    "255, 253, 241, 255",
+    "255, 253, 150, 255",
+    "255, 253, 196, 255"
+    ],
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 40,
+
+}

@@ -1,0 +1,13 @@
+{
+  "Name": "Rose",
+  "Description": "A rose by any other name would smell as sweet.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 320,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Evelyn", "Jodi", "Penny"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Haley", "Harvey", "Jas", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+}

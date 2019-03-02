@@ -1,0 +1,13 @@
+{
+  "Name": "Bee Balm",
+  "Description": "Small edible flowers that attract bees, butterflies, and hummingbirds!",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 115,
+  "IsColored": true,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Haley", "Leah", "Sandy"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+}

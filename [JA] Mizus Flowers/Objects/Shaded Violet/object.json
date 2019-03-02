@@ -1,0 +1,13 @@
+{
+  "Name": "Shaded Violet",
+  "Description": "A small purple flower that favors the shade.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 45,
+  "IsColored": true,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Abigail", "Krobus"],
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+}

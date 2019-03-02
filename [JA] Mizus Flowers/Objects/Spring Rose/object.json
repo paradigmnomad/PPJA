@@ -1,0 +1,13 @@
+{
+  "Name": "Spring Rose",
+  "Description": "A rose by any other name would smell as sweet.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 320,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Caroline", "Jas"],
+    "Like": ["Abigail", "Alex", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+}

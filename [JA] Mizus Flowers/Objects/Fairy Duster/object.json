@@ -1,0 +1,13 @@
+{
+  "Name": "Fairy Duster",
+  "Description": "It is said it looks like a fairy's skirt. A plant from far away arid plains.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 50,
+  "IsColored": true,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Jas"],
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+}

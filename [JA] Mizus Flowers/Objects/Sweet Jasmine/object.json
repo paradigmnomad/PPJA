@@ -1,0 +1,12 @@
+{
+  "Name": "Sweet Jasmine",
+  "Description": "These are sweet, highly scented flowers.",
+  "Category": "Flower",
+  "Edibility": 18,
+  "Price": 95,
+  "IsColored": true,
+  "Recipe": null,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+}
