@@ -1,0 +1,12 @@
+{
+	"Name": "Fantasy Crops",
+    "Author": "ParadigmNomad - Port & MizuJakkaru - Sprites",
+    "Version": "1.3.2",
+   "MinimumApiVersion": "2.10.1",
+    "Description": "A port of Mizu's sprites for JsonAssets",
+    "UniqueID": "ParadigmNomad.FantasyCrops",
+    "ContentPackFor": {
+    	"UniqueID": "spacechase0.JsonAssets"
+    },
+    "UpdateKeys": [ "Nexus:1610" ]
+}

@@ -1,0 +1,23 @@
+{
+    "Name": "Iron_Leaf",
+    "Product": 380,
+    "SeedName": "Iron Seeds",
+    "SeedDescription": "Plant these in summer. Takes 15 days to mature.",
+    "Type": "Mineral",
+
+    "Seasons": ["summer"],
+    "Phases": [ 1, 2, 3, 4, 5],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+"SeedPurchaseFrom": "Krobus",
+  "SeedPurchasePrice": 100,
+
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "Doubloom",
+  "Description": "A coin with only one purpose: to be sold.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 150,
+  "IsColored": false,
+  "Recipe": null,
+}
