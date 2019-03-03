@@ -2,9 +2,9 @@
 
 There are many valuable resources out there when you need help with JsonAssets
 
-• Blank JsonAsset Template: https://www.nexusmods.com/stardewvalley/mods/1746/?
-• Event Data (valid PurchaseRequirement fields) - https://stardewvalleywiki.com/Modding:Event_data#Event_preconditions
-• (Dated but describes fields) CustomCrops documentation - https://spacechase0.com/mods/stardew-valley/custom-crops/
+* [Outdated] Blank JsonAsset Template: https://www.nexusmods.com/stardewvalley/mods/1746/?
+* Event Data (valid PurchaseRequirement fields) - https://stardewvalleywiki.com/Modding:Event_data#Event_preconditions
+* Official Documentation - https://github.com/spacechase0/JsonAssets/blob/master/README.md
 
 # Spreadsheet
 
