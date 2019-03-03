@@ -16,3 +16,7 @@ We keep this sheet updated for a few reasons:
 - To have a resource where users of JA can find documentation
 
 [Spreadsheet Link](https://docs.google.com/spreadsheets/d/1D3Kb45faKsXGkT9wGhWaeHZiuFN7WSkewBbLF2Iuyug/edit?usp=sharing)
+
+# FAQ
+
+[Link](https://github.com/paradigmnomad/ppjajsonassetsfaq)
