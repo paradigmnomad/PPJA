@@ -20,7 +20,7 @@
 "SeedPurchaseFrom": "Clint",
   "SeedPurchasePrice": 30,
   "SeedPurchaseRequirements": [
-	"z summer fall winter",
+	"z summer, z fall, z winter",
 ],
 
 }
