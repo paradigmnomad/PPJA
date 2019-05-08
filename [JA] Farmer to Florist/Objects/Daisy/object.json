@@ -7,7 +7,7 @@
   "IsColored": false,
   "Recipe": null,
   "CanPurchase": true,
-  "PurchaseFrom": "Gus",
+  "PurchaseFrom": null,
   "PurchasePrice": 30,
   "PurchaseRequirements": null,
 "GiftTastes":
