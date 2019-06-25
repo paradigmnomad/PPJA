@@ -1,0 +1,11 @@
+{
+    "Name": "Granny Smith Apple Tree",
+    "Product": "Granny Smith",
+    "SaplingName": "Granny Smith Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Granny Smith tree. Bears fruit in the fall. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "fall",
+
+    "SaplingPurchasePrice": 3500,
+    "SaplingPurchaseRequirements": null,
+}

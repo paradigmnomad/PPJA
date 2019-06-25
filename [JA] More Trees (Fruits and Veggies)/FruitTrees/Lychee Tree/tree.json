@@ -1,0 +1,13 @@
+{
+    "Name": "Lychee Tree",
+    "Product": "Lychee",
+    "SaplingName": "Lychee Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Lychee tree. Bears fruit in the summer. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "summer",
+
+    "SaplingPurchasePrice": 5000,
+"SaplingPurchaseFrom": "Sandy",
+    "SaplingPurchaseRequirements": [
+"y 2"],
+}

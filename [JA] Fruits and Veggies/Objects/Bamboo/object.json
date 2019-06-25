@@ -1,0 +1,9 @@
+{
+  "Name": "Bamboo",
+  "Description": "The shoots of this plant are edible. It grows incredibly quickly.",
+  "Category": "Vegetable",
+  "Edibility": 20,
+  "Price": 55,
+  "IsColored": false,
+  "Recipe": null,
+}
