@@ -2,9 +2,9 @@
 
 There are many valuable resources out there when you need help with JsonAssets
 
-* [Outdated] Blank JsonAsset Template: https://www.nexusmods.com/stardewvalley/mods/1746/?
-* Event Data (valid PurchaseRequirement fields) - https://stardewvalleywiki.com/Modding:Event_data#Event_preconditions
-* Official Documentation - https://github.com/spacechase0/JsonAssets/blob/master/README.md
+* [(Outdated) Blank JsonAsset Template](https://www.nexusmods.com/stardewvalley/mods/1746/?)
+* [Event Data (valid PurchaseRequirement fields)](https://stardewvalleywiki.com/Modding:Event_data#Event_preconditions)
+* [Official Documentation](https://github.com/spacechase0/JsonAssets/blob/master/README.md)
 
 # Spreadsheet
 
