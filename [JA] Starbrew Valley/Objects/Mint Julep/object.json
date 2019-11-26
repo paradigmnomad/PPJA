@@ -38,10 +38,33 @@
         "Count": 1,
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 5650,
-    "PurchaseRequirements": ["f Marnie 1250",
-],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Julepe de menta",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "薄荷茱莉普",
+  },
+ "DescriptionLocalization": { 
+    "es": "Menta usada justamente.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "薄荷茱莉普。我，我，我在此声明！",
   }
 }

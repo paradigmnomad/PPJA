@@ -1,17 +1,45 @@
 {
-  "Name": "Cannabis",
-  "Description": "Pelican Town has recently leagalized cannabis, Pierre now sells seeds at a premium.",
-  "Category": "Flower",
-  "Edibility": 10,
-  "Price": 230,
-  "IsColored": false,
-  "Recipe": null,
-  "GiftTastes":
-{
-"Love": ["Abigail", "Emily", "Sebastian"],
-"Like": ["Elliott", "Harvey", "Krobus", "Leah", "Linus", "Pam", "Pierre", "Sam", "Sandy", "Shane", "Wizard"],
-"Neutral": ["Clint", "Dwarf", "Evelyn", "George", "Gus", "Kent", "Lewis", "Marnie", "Maru", "Willy"],
-"Dislike": ["Caroline", "Demetrius"],
-"Hate": ["Alex", "Haley", "Jas", "Jodi", "Penny", "Robin", "Vincent"]
-}
+    "Name": "Cannabis",
+    "Description": "Pelican Town has recently leagalized cannabis, Pierre now sells seeds at a premium.",
+    "Category": "Flower",
+    "Edibility": 10,
+    "Price": 30,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Emily", "Sebastian"],
+        "Like": ["Elliott", "Harvey", "Krobus", "Leah", "Linus", "Pam", "Pierre", "Sam", "Sandy", "Shane", "Wizard"],
+        "Neutral": ["Clint", "Dwarf", "Evelyn", "George", "Gus", "Kent", "Lewis", "Marnie", "Maru", "Willy"],
+        "Dislike": ["Caroline", "Demetrius"],
+        "Hate": ["Alex", "Haley", "Jas", "Jodi", "Penny", "Robin", "Vincent"]
+    },
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
 }

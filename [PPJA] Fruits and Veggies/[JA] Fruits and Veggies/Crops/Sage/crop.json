@@ -1,0 +1,50 @@
+{
+    "Name": "Sage",
+    "Product": "Sage",
+    "SeedName": "Sage Seeds",
+    "SeedDescription": "Plant these in the fall. Takes 5 days to mature.",
+    "Type": "Vegetable",
+
+    "Seasons": ["fall"],
+    "Phases": [1, 1, 1, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 40,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de salvia",
+        "ko": "세이지 씨앗",
+        "de": "Salbei-Saat",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Sementes de sálvia",
+        "ru": "",
+        "tr": "",
+        "zh": "鼠尾草种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 5 días para madurar.",
+        "ko": "가을 작물. 성장하려면 5일이 소요됩니다.",
+        "de": "Pflanzen sie im  Herbst. Wächst in 5 Tagen heran.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as no outono. Demora 5 dias para amadurecer.",
+        "ru": "",
+        "tr": "",
+        "zh": "秋天播种。5天成熟。",
+    }
+}

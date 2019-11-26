@@ -1,38 +1,66 @@
 {
-  "Name": "Poutine",
-  "Description": "Potato fries smothered in cheese curds and gravy.",
-  "Category": "Cooking",
-  "Edibility": 147,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 1155,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
-	"Neutral": ["Emily", "Haley", "Harvey", "Leah", "Marnie"],
-	"Dislike": ["Jas", "Vincent"],
-	"Hate": ["Sebastian"],
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Brown Gravy",
-        "Count": 1,
-      },
-      {
-        "Object": 192,
-        "Count": 2,
-      },
-{
-        "Object": 424,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 3155,
-    "PurchaseRequirements": ["y 2",
-],
-  }
+    "Name": "Poutine",
+    "Description": "Potato fries smothered in cheese curds and gravy.",
+    "Category": "Cooking",
+    "Edibility": 147,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1155,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Emily", "Haley", "Harvey", "Leah", "Marnie"],
+        "Dislike": ["Jas", "Vincent"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Brown Gravy",
+            "Count": 1,
+        },
+        {
+            "Object": 192,
+            "Count": 2,
+        },
+        {
+            "Object": 424,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 3155,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "NameLocalization":
+    {
+        "es": "Poutine",
+        "ko": "푸틴",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "肉汁乳酪薯条",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Papas fritas asadas con queso y salsa.",
+        "ko": "녹은 치즈와 그레이비 소스를 듬뿍 얹은 감자 튀김.",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "肉汁乳酪薯条。薯条被浓厚的乳酪和肉汁覆盖。",
+    }
 }

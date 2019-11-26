@@ -1,0 +1,41 @@
+{
+    "Name": "Wheat Noodles",
+    "Description": "A bag of robust noodles used throughout the world for a multitude of meals.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 150,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Fideos de trigo",
+        "ko": "",
+        "de": "Weizennudeln",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "面条",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una bolsa de fideos robustos utilizados en todo el mundo para una multitud de comidas.",
+        "ko": "",
+        "de": "Ein Beutel mit robusten Nudeln, die auf der ganzen Welt für eine Vielzahl von Mahlzeiten verwendet werden.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "在世界各地面条被广泛使用。",
+    }
+}

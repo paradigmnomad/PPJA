@@ -1,0 +1,43 @@
+{
+    "Name": "Strawberry Ice Cream",
+    "Description": "Mmmm strawberry ice cream!",
+    "Category": "ArtisanGoods",
+    "Edibility": 38,
+    "Price": 250,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Vincent", "Jas", "Haley", "Demetrius"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigial", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
+        "Dislike": ["Emily", "Leah", "Krobus", "Sebastian", "Willy"]
+    },
+    "NameLocalization":
+    {
+        "es": "Helado de fresa",
+        "ko": "",
+        "de": "Erdbeereis",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "草莓冰淇淋",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Mmmm helado de fresa!",
+        "ko": "",
+        "de": "Mmmm Erdbeereis!",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "超好吃的草莓冰淇淋！",
+    }
+}

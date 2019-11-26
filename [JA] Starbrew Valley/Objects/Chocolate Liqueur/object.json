@@ -36,5 +36,32 @@
     "PurchasePrice": 6300,
     "PurchaseRequirements": ["y 2",
 ],
+  },
+
+ "NameLocalization": { 
+    "es": "Licor de chocolate",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "巧克力利口酒",
+  },
+ "DescriptionLocalization": { 
+    "es": "Una bebida derivada del chocolate.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "巧克力利口酒。由巧克力制成的饮品。",
   }
 }

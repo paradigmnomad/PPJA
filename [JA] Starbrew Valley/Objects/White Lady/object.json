@@ -44,5 +44,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5650,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Dama blanca",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "白色佳人",
+  },
+ "DescriptionLocalization": { 
+    "es": "Una misteriosa dama vestida de blanco.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "白色佳人。一位穿着白色衣服的神秘女人。",
   }
 }

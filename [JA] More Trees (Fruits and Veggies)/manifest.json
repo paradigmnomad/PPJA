@@ -1,9 +1,9 @@
 {
    "Name": "More Trees for JsonAssets",
-   "Author": "ParadigmNomad, MizuJakkaru, Chisami, ConcernedApe, ChefRude, & alba.ch",
+   "Author": "Project Populate JsonAssets",
    "Description": "A collection of new trees for JsonAssets",
-   "Version": "1.5.2",
-   "MinimumApiVersion": "2.10.1",
+   "Version": "1.6.0",
+   "MinimumApiVersion": "2.11.3",
    "UniqueID": "ppja.moretrees",
       "ContentPackFor": {
       "UniqueID": "spacechase0.JsonAssets"

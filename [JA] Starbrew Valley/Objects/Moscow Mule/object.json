@@ -52,5 +52,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5835,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Mula de Moscú",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "莫斯科骡鸡尾酒",
+  },
+ "DescriptionLocalization": { 
+    "es": "¡Trabajando tan duro como una mula!",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "莫斯科骡鸡尾酒。像骡子一样努力工作！",
   }
 }

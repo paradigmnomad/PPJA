@@ -47,10 +47,33 @@
 
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 940,
-    "PurchaseRequirements": ["f Krobus 1000",
-],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Vampiro",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "曼哈顿",
+  },
+ "DescriptionLocalization": { 
+    "es": "Por favor no opere maquinaria pesada bajo la influencia.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "曼哈顿。请不要在受影响的情况下操作重型机械。",
   }
 }

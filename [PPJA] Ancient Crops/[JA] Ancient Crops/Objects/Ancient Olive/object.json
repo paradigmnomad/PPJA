@@ -1,0 +1,15 @@
+{
+  "Name": "Ancient Olive",
+  "Description": "An ancient type of olive that grows in a small plant.",
+  "Category": "Vegetable",
+  "Edibility": 28,
+   "EdibleIsDrink": false,
+  "Price": 300,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+  "Love":["Dwarf","Gregory","Wizard","Krobus","Linus","Lewis","Evelyn"],
+  },
+  "NameLocalization": {"zh":"远古橄榄"},
+  "DescriptionLocalization": {"zh":"一种古老的橄榄，生长在一种小植物中。"},
+}

@@ -1,9 +1,0 @@
-{
-    "Name": "Herbal Peony",
-    "Description": "An incredibly fragrant flower. Once picked, the blooms are short-lived.",
-    "Category": "Flower",
-    "Edibility": 18,
-    "Price": 240,
-	"IsColored": true,
-	"Recipe": null
-}

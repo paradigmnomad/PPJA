@@ -1,50 +1,78 @@
 {
-  "Name": "Sun Tea",
-  "Description": "Black Tea that's been left to brew in the hot desert sun.",
-  "Category": "Cooking",
-  "Edibility": 18,
-  "EdibleIsDrink": true,
-   "EdibleBuffs": {
-    "Farming": 0,
-    "Fishing": 0,
-    "Mining": 0,
-    "Luck": 0,
-	"Foraging": 1,
-	"MaxStamina": 0,
-    "MagnetRadius": 0,
-	"Speed": 0,
-	"Defense": 0,
-	"Attack": 0,
-    "Duration": 350,
-  },
-  "Price": 1250,
-  "IsColored": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Black Tea",
-        "Count": 2,
-      },
-      {
-        "Object": 768,
-        "Count": 1,
-      },
-    ],
-"GiftTastes":
-{
-"Love": ["Abigial", "Caroline", "Vincent", "Jas", "Sandy", "Penny"],
-"Like": [ "Jodi", "Alex", "Shane", "Evelyn", "Lewis", "Linus"],
-"Neutral": [ "Marnie", "Emily", "Maru", "Pierre", "Robin", "Sam", "Demetrius", "Sebastian", "Elliott", "Leah"],
-"Dislike": ["Clint", "George", "Kent", "Gus", "Harvey", "Haley", "Dwarf"],
-"Hate": ["Pam", "Willy", "Wizard", "Krobus"],
-},
-    "CanPurchase": true,
-    "PurchaseFrom": "Sandy",
-    "PurchasePrice": 2250,
-    "PurchaseRequirements": [
-      "d Sun Tue Thu Sat",
-    ]
-    
-  }
+    "Name": "Sun Tea",
+    "Description": "Black Tea that's been left to brew in the hot desert sun.",
+    "Category": "Cooking",
+    "Edibility": 18,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 1,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 350,
+    },
+    "Price": 1250,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Black Tea",
+            "Count": 2,
+        },
+        {
+            "Object": 768,
+            "Count": 1,
+        }, ],
+        "GiftTastes":
+        {
+            "Love": ["Abigial", "Caroline", "Vincent", "Jas", "Sandy", "Penny"],
+            "Like": ["Jodi", "Alex", "Shane", "Evelyn", "Lewis", "Linus"],
+            "Neutral": ["Marnie", "Emily", "Maru", "Pierre", "Robin", "Sam", "Demetrius", "Sebastian", "Elliott", "Leah"],
+            "Dislike": ["Clint", "George", "Kent", "Gus", "Harvey", "Haley", "Dwarf"],
+            "Hate": ["Pam", "Willy", "Wizard", "Krobus"],
+        },
+        "CanPurchase": true,
+        "PurchaseFrom": "Sandy",
+        "PurchasePrice": 2250,
+        "PurchaseRequirements": [
+            "d Sun Tue Thu Sat",
+        ]
+    },
+    "NameLocalization":
+    {
+        "es": "Té del sol",
+        "ko": "여름 차",
+        "de": "Sun Tee",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Chá do sol",
+        "ru": "",
+        "tr": "",
+        "zh": "太阳茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Té negro que se ha dejado preparar en el cálido sol del desierto.",
+        "ko": "뜨거운 사막의 햇볕에 우려낸 홍차.",
+        "de": "Schwarzer Tee, der in der heißen Wüstensonne gebrüht wird.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Chá preto deixado sob o sol quente do deserto.",
+        "ru": "",
+        "tr": "",
+        "zh": "太阳茶。在炎热的沙漠阳光下，红茶被留下来酿造。",
+    }
 }

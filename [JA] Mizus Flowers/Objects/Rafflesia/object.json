@@ -1,0 +1,43 @@
+{
+    "Name": "Rafflesia",
+    "Description": "A foul-smelling flower that grows to be massive. It is the largest flower in the world.",
+    "Category": "Flower",
+    "Edibility": 0,
+    "Price": 13000,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Krobus"],
+	"Like": ["Demetrius", "Maru"],
+        "Hate": ["Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Harvey", "Leah", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Lewis"],
+    },
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
+}

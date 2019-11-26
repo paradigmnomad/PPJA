@@ -46,5 +46,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5800,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Martini francés",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "法式马天尼",
+  },
+ "DescriptionLocalization": { 
+    "es": "¿Quién necesita hielo?",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "法式马天尼。谁需要冰？",
   }
 }

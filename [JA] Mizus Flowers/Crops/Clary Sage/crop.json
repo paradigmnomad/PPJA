@@ -1,0 +1,55 @@
+{
+    "Name": "Clary Sage",
+    "Product": "Clary Sage",
+    "SeedName": "Clary Sage Seeds",
+    "SeedDescription": "Plant in summer. Takes 8 days takes to produce purple-pink flowers.",
+    "Type": "Flower",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 3, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": [
+        "254, 86, 154, 255",
+        "128, 79, 244, 255",
+        "207, 151, 255, 255"
+    ],
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 100,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de salvia esclárea",
+        "ko": "클레리 세이지 씨앗",
+        "de": "Ziersalbei-Saat",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Sementes de sálvia esclereira",
+        "ru": "",
+        "tr": "",
+        "zh": "快乐鼠尾草种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 8 días para producir flores de color rosa púrpura.",
+        "ko": "여름에 심습니다. 8일후에 피어나는 보라색과 분홍색의 꽃입니다.",
+        "de": "Pflanzen sie im Sommer. Wächst in 8 Tagen heran.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as no verão. Demoram 8 dias para produzir uma flor roxa/rosa.",
+        "ru": "",
+        "tr": "",
+        "zh": "夏天播种。8天后产出粉紫色的花朵。",
+    }
+}

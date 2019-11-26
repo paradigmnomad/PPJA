@@ -1,14 +1,52 @@
 {
-  "Name": "Lychee",
-  "Description": "The outside is roughly textured and inedible, but the inside is sweet.",
-  "Category": "Fruit",
-  "Edibility": 12,
-  "Price": 110,
-  "IsColored": false,
-  "GiftTastes": {
-"Love": ["Sandy", "Haley", "Jodi"],
-	"Like": ["Krobus", "Evelyn", "Elliott"],
-    "Neutral": [ "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "George", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Willy", "Wizard", "Abigail", "Jas", "Vincent"],
-  },
-  "Recipe": null,
+    "Name": "Lychee",
+    "Description": "The outside is roughly textured and inedible, but the inside is sweet.",
+    "Category": "Fruit",
+    "Edibility": 12,
+    "Price": 110,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Sandy", "Haley", "Jodi"],
+        "Like": ["Krobus", "Evelyn", "Elliott"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "George", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Willy", "Wizard", "Abigail", "Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Lichi",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "La exterior es áspera de textura y incomible, pero el interior es dulce",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "ContextTags": [
+        "season_summer",
+        "crop_year_two",
+        "fruit_tree_year_two",
+        "color_dark_pink",
+        "fruit_tree_item",
+        "fruit_item",
+        "dye_strong"
+    ]
 }

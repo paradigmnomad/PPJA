@@ -1,36 +1,64 @@
 {
-  "Name": "Graham Crackers",
-  "Description": "Just who is Graham anyways?",
-  "Category": "Cooking",
-  "Edibility": 22,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 450,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-	"Dislike": ["Krobus", "Willy"],
-	},
-  "Recipe": {
-    "ResultCount": 2,
-    "Ingredients": [
-      {
-        "Object": 246,
-        "Count": 1,
-       },
-{
-        "Object": 245,
-        "Count": 1,
-       },
-{
-        "Object": 340,
-        "Count": 1,
-       }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 1450,
-    "PurchaseRequirements": null,
-
-  }
+    "Name": "Graham Crackers",
+    "Description": "Just who is Graham anyways?",
+    "Category": "Cooking",
+    "Edibility": 22,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 450,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 2,
+        "Ingredients": [
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": 340,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1450,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Galletas graham",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Biscoitos de Graham",
+        "ru": "",
+        "tr": "",
+        "zh": "全麦饼干",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¿Quién es Graham de todos modos?",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Quem é Graham, afinal?",
+        "ru": "",
+        "tr": "",
+        "zh": "全麦饼干。全麦到底是怎么样的？",
+    }
 }

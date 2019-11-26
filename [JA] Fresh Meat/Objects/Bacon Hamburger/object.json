@@ -45,5 +45,32 @@
     "PurchaseRequirements": [
       "r 0.25",
     ]
+  },
+
+ "NameLocalization": { 
+    "es": "Hamburguesa de tocino",
+    "ko": "베이컨 햄버거",
+    "de": "Bacon Hamburger",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "培根汉堡",
+  },
+ "DescriptionLocalization": { 
+    "es": "La versión clásica de la comida popular... pero con tocino.",
+    "ko": "베이컨을 곁들인 인기있는 고전적인 식사.",
+    "de": "Ein Hamburger mit Bacon.",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "培根汉堡。这是经典的流行快餐，但是里面有培根。",
   }
 }

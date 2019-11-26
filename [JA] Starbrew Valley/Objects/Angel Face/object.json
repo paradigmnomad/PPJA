@@ -40,5 +40,32 @@
     "PurchasePrice": 5600,
     "PurchaseRequirements": null,
 
+  },
+
+ "NameLocalization": { 
+    "es": "Cara de angel",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "天使之颜",
+  },
+ "DescriptionLocalization": { 
+    "es": "Agitar bien y colar en una copa de cóctel.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "天使之颜。摇匀，然后过滤到鸡尾酒杯。",
   }
 }

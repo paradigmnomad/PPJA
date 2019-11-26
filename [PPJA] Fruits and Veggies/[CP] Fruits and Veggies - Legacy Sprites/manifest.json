@@ -1,0 +1,11 @@
+{
+   "Name": "Fruits & Veggies Legacy for Content Patcher",
+   "Author": "Project Populate JsonAssets",
+   "Description": "Replaces the Green Tea, Tea Leaf product/crop, and Rice product/crop with the sprites by Mizu.",
+   "Version": "1.0.0",
+   "MinimumApiVersion": "2.11.3",
+   "UniqueID": "ppja.legacyfruitsveggies",
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    },
+}

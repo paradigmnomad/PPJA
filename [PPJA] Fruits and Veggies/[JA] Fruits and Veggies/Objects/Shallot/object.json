@@ -1,0 +1,48 @@
+{
+    "Name": "Shallot",
+    "Description": "Milder version of onion.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 115,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Krobus"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Jodi", "Sam", "Vincent"],
+        "Hate": ["Evelyn", "Pierre"],
+    },
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 50,
+    "PurchaseRequirements": null,
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
+}

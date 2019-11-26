@@ -1,0 +1,42 @@
+{
+    "Name": "Mint",
+    "Description": "The world's most familiar mint scent is the aroma of peppermint.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 25,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Jas", "Krobus", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Menta",
+        "ko": "민트",
+        "de": "Minze",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Hortelã",
+        "ru": "",
+        "tr": "",
+        "zh": "薄荷",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "El aroma de menta más familiar del mundo es el aroma a hierbabuena.",
+        "ko": "민트향은 박하향이다.",
+        "de": "Der bekannteste Vertreter auf der Welt ist, die Pfefferminze.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "O aroma de menta mais conhecido do mundo é o aroma da hortelã-pimenta.",
+        "ru": "",
+        "tr": "",
+        "zh": "世界上最熟悉的薄荷香味是胡椒薄荷的味道。",
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Jalapeno",
+    "Description": "A moderately spicy pepper. A festive staple.",
+    "Category": "Vegetable",
+    "Edibility": 5,
+    "Price": 40,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sam", "Sebastian", "Kent", "Gus", "Sandy"],
+        "Like": ["Alex", "Caroline", "Clint", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jodi", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
+}

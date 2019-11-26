@@ -1,0 +1,27 @@
+{
+    "Name": "Ancient Fern",
+    "Product": "Ancient Fern",
+    "SeedName": "Ancient Fern Seeds",
+    "SeedDescription": "Plant in spring, summer or fall to grow an ancient fern. Takes 30 days to mature, and keeps producing after the first harvest.",
+    "Type": "Flower",
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [5,7,8,10,4],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 10,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 400,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+    "SeedPurchaseRequirements": null,
+	"NameLocalization": { "zh": "远古蕨" },
+"ProductLocalization": { "zh": "远古蕨" },
+"SeedNameLocalization": { "zh": "远古蕨种子" },
+"SeedDescriptionLocalization": { "zh": "在春天、夏天或秋天种植一种古老的蕨类植物。成熟需要30天，并在第一次收获后继续生产。" }
+}

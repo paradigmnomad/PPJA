@@ -1,0 +1,51 @@
+{
+    "Name": "Fall Rose",
+    "Product": "Fall Rose",
+    "SeedName": "Fall Rose Starter",
+    "SeedDescription": "Plant in fall. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.",
+    "Type": "Flower",
+
+    "Seasons": ["fall"],
+    "Phases": [1, 2, 3, 4, 2],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+
+    "SeedPurchasePrice": 175,
+    "SeedNameLocalization":
+    {
+        "es": "Kit de rosas otoñales",
+        "ko": "가을 장미 씨앗",
+        "de": "Herbst-Rosen-Samen",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Mudas de Rosa do outono",
+        "ru": "",
+        "tr": "",
+        "zh": "秋季玫瑰种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 12 días producir una flor famosa y hermosa, y sigue produciendo después de la primera cosecha. Crece en un enrejado.",
+        "ko": "가을에 심습니다. 12일 후에 피어나는 유명하고 아름다운 꽃입니다. 수확한 후에도 계속 피어납니다.",
+        "de": "Pflanze im Herbst. Dauert 12 Tage, um eine berühmt schöne Blume zu produzieren, und produziert nach der ersten Ernte weiter. Wächst auf einem Spalier.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as no outono. Demora 12 dias para produzir uma famosa e linda flor, e continuam a produzir após a primeira colheita. Crescem em treliças.",
+        "ru": "",
+        "tr": "",
+        "zh": "秋天播种。12天后收获著名的美丽花朵，持续生产。生长在架子上。",
+    }
+}

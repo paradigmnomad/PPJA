@@ -1,44 +1,72 @@
 {
-  "Name": "Rainbow Candy Cookies",
-  "Description": "These cookies have colorful pieces in them!",
-  "Category": "Cooking",
-  "Edibility": 82,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 835,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-	"Dislike": ["Krobus", "Leah", "Willy"],
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Chocolate",
-        "Count": 1,
-      },
-      {
-        "Object": 246,
-        "Count": 1,
-      },
-      {
-        "Object": 245,
-        "Count": 1,
-      },
-      {
-        "Object": -5,
-        "Count": 1,
-      },
- {
-        "Object": -6,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 2835,
-    "PurchaseRequirements": ["y 2",
-],
-  }
+    "Name": "Rainbow Candy Cookies",
+    "Description": "These cookies have colorful pieces in them!",
+    "Category": "Cooking",
+    "Edibility": 82,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 835,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Leah", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Chocolate",
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2835,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "NameLocalization":
+    {
+        "es": "Galletas arco iris",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Biscoitos doces de arco-íris",
+        "ru": "",
+        "tr": "",
+        "zh": "彩虹糖饼干",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Estas galletas tienen piezas coloridas en ellas!",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Esses biscoitos têm pedaços coloridoas!",
+        "ru": "",
+        "tr": "",
+        "zh": "彩虹糖饼干。这些饼干里面有很多色彩斑斓的东西！",
+    }
 }

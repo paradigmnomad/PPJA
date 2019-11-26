@@ -1,32 +1,62 @@
 {
-  "Name": "Rose Tea",
-  "Description": "A popular seasonal treat that has become a craze.",
-  "Category": "Cooking",
-  "Edibility": 26,
-  "EdibleIsDrink": true,
- "EdibleBuffs": null,
-  "Price": 320,
-  "IsColored": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Tea Leaf",
-        "Count": 4,
-      },
-{
-        "Object": 595,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 1620,
-    "PurchaseRequirements": null,
-  },
-"GiftTastes": {
-	"Love": ["Abigail", "Elliott", "Emily", "Haley", "Jas", "Leah", "Maru", "Penny"],
-	"Like": ["Alex", "Caroline", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-	"Dislike": ["Clint", "Pam", "Willy"],
-  }
+    "Name": "Rose Tea",
+    "Description": "A popular seasonal treat that has become a craze.",
+    "Category": "Cooking",
+    "Edibility": 26,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 320,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 4,
+        },
+        {
+            "Object": 595,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1620,
+        "PurchaseRequirements": null,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Elliott", "Emily", "Haley", "Jas", "Leah", "Maru", "Penny"],
+        "Like": ["Alex", "Caroline", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Clint", "Pam", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de rosas",
+        "ko": "장미차",
+        "de": "Rose Tee",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Chá de rosas",
+        "ru": "",
+        "tr": "",
+        "zh": "玫瑰茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un popular regalo de temporada que se ha convertido en una locura.",
+        "ko": "유행되고 있는 매우 인기 있는 계절 음식.",
+        "de": "Ein beliebter saisonaler Leckerbissen, der Wahnsinn.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um tratamento sazonal popular que se tornou uma paixão.",
+        "ru": "",
+        "tr": "",
+        "zh": "玫瑰茶。一种流行的季节性食物，已经成为一种狂热。",
+    }
 }

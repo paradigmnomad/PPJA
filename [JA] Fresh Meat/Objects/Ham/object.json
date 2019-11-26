@@ -23,5 +23,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 850,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Jamón",
+    "ko": "햄",
+    "de": "Schinken",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "火腿",
+  },
+ "DescriptionLocalization": { 
+    "es": "Un suculento corte de cerdo.",
+    "ko": "육즙이 많은 돼지 고기",
+    "de": "Das saftigste vom Schwein.",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "火腿。由猪肉组成。",
   }
 }

@@ -47,5 +47,32 @@
     "PurchasePrice": 5575,
    "PurchaseRequirements": null,
 
+  },
+
+ "NameLocalization": { 
+    "es": "Cuba Libre",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "自由古巴",
+  },
+ "DescriptionLocalization": { 
+    "es": "Tiene sus orígenes en la Cuba del siglo XX.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "自由古巴。它起源于二十世纪的古巴。",
   }
 }

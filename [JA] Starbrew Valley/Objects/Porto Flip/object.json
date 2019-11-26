@@ -44,5 +44,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5680,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Porto Flip",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "波菲利普",
+  },
+ "DescriptionLocalization": { 
+    "es": "Te hará querer dar la vuelta.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "波菲利普。它会让你想翻转。",
   }
 }

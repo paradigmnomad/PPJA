@@ -1,29 +1,58 @@
 {
-  "Name": "Bunny Cotton Candy",
-  "Description": "It's shaped like a bunny!",
-  "Category": "Cooking",
-  "Edibility": 16,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 250,
-  "IsColored": false,
-  "GiftTastes": {
-    "Love": ["Jas", "Vincent"],
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Wizard"],
-    "Neutral": ["George", "Sebastian"],
-	"Dislike": ["Krobus", "Leah", "Willy"],
-	},
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-     {
-        "Object": 245,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 1250,
-    "PurchaseRequirements": null,
-  }
+    "Name": "Bunny Cotton Candy",
+    "Description": "It's shaped like a bunny!",
+    "Category": "Cooking",
+    "Edibility": 16,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 250,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Jas", "Vincent"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Wizard"],
+        "Neutral": ["George", "Sebastian"],
+        "Dislike": ["Krobus", "Leah", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 245,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1250,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Algodón de azúcar de conejito",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Algodão doce de coelhinho",
+        "ru": "",
+        "tr": "",
+        "zh": "兔耳棉花糖",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Tiene forma de conejito!",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Tem a forma de um coelho!",
+        "ru": "",
+        "tr": "",
+        "zh": "兔耳棉花糖。它的形状是兔耳！",
+    }
 }

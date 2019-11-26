@@ -1,0 +1,59 @@
+{
+    "Name": "Scone",
+    "Description": "Great pairing with coffee or tea. Try it with strawberry jam and clotted cream.",
+    "Category": "Cooking",
+    "Edibility": 36,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 220,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 300,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Bollo",
+        "ko": "",
+        "de": "Scone",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "烤饼",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Pruébalo con mermelada de fresa y crema.",
+        "ko": "",
+        "de": "Hervorragend zu Kaffee oder Tee. Probieren Sie es mit Erdbeermarmelade und Sahne.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "与咖啡或茶搭配很棒。尝试一下草莓酱和凝结的奶油。",
+    }
+}

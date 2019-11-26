@@ -1,0 +1,43 @@
+{
+    "Name": "Natto",
+    "Description": "A sticky, fermented snack often eaten for breakfast.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 250,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["George"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Natto",
+        "ko": "",
+        "de": "Natto",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "纳豆",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un refrigerio pegajoso y fermentado que se suele tomar en el desayuno.",
+        "ko": "",
+        "de": "Ein klebriger, fermentierter Snack, der oft zum Frühstück gegessen wird.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一种经常早餐吃的黏糊糊的发酵点心。",
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "Name": "Rafflesia",
+    "Product": "Rafflesia",
+    "SeedName": "Rafflesia Seeds",
+    "SeedDescription": "Plant in spring, harvest in fall. Takes 2 full seasons to produce a large red flower.",
+    "Type": "Flower",
+
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [19, 18, 19, ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 3000,
+"SeedPurchaseRequirements": [
+        " y 4"
+    ],
+
+    "SeedNameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+         "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "Name": "Pulque",
+    "Description": "A fermented beverage made from maguey. Drink in moderation.",
+    "Category": "ArtisanGoods",
+    "Edibility": 14,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 180,
+    },
+    "Price": 300,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 300,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": ["Pam", "Shane"],
+        "Like": ["Gus"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Dislike": ["Penny"],
+        "Hate": ["Vincent", "Jas"]
+    },
+    "NameLocalization":
+    {
+        "es": "Pulque",
+        "ko": "",
+        "de": "Pulque",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "Pulque龙舌兰酒",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una bebida fermentada hecha de maguey. Beber con moderación.",
+        "ko": "",
+        "de": "Ein fermentiertes Getränk aus Maguey. Genieß es in Maßen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一种由龙舌兰制成的发酵酒精饮料。适量饮酒。",
+    }
+}

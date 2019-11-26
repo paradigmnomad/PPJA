@@ -1,0 +1,50 @@
+{
+  "Name": "Potted Camellia",
+  "Description": "A small camellia plant potted in a little wooden pot. Remember to water it!",
+  "Price": 1,
+  "ProvidesLight": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+		  "Object": "Camellia",
+		  "Count": 1,
+      },
+      {
+		  "Object": 388,
+		  "Count": 10,
+      },
+	  {
+		  "Object": 330,
+		  "Count": 10,
+	  },
+    ],
+	"CanPurchase": false,
+  },
+  "NameLocalization": { 
+    "es": "Camelia en maceta",
+    "ko": "실내 화초 카멜리아",
+    "de": "Eingemachte Kamelie",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "Vaso de Chá-da-Índia",
+    "ru": "",
+    "tr": "",
+    "zh": "山茶花盆栽",
+     },
+ "DescriptionLocalization": { 
+    "es": "Una pequeña planta de camelia en una pequeña maceta de madera. ¡Recuerda regarla!",
+    "ko": "작은 나무 화분에 심겨진 카멜리아입니다. 물 주는거 잊지마세요!",
+    "de": "Eine kleine Kamelienpflanze in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "Uma pequena planta de chá-da-índia em um vaso de madeira. Lembre-se de sempre regá-la!",
+    "ru": "",
+    "tr": "",
+    "zh": "一个小木盆里的山茶花。记得给它浇水！",
+    }
+}

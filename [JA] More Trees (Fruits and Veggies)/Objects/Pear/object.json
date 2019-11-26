@@ -1,12 +1,49 @@
 {
-  "Name": "Pear",
-  "Description": "A mildly sweet fruit that grows in the winter. Let it ripen for a few days before eating.",
-  "Category": "Fruit",
-  "Edibility": 15,
-  "Price": 135,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-  },
-  "Recipe": null,
+    "Name": "Pear",
+    "Description": "A mildly sweet fruit that grows in the winter. Let it ripen for a few days before eating.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 135,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Pera",
+        "ko": "배",
+        "de": "Birne",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Pera",
+        "ru": "",
+        "tr": "",
+        "zh": "梨",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una fruta ligeramente dulce que crece en el invierno. Deje que madure por unos días antes de comer.",
+        "ko": "겨울에는 약간 달콤한 과일이 자랍니다. 먹기 전에 며칠 동안 숙성 시키세요.",
+        "de": "Eine leicht süße und saftige Frucht. Lass sie aber, vorm Essen, ein paar Tage liegen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma fruta levemente adocicada que cresce no inverno. Deixe amadurecer por alguns dias antes de comer.",
+        "ru": "",
+        "tr": "",
+        "zh": "一种在冬天生长的温和的水果。让它在吃前几天成熟。",
+    },
+    "ContextTags": [
+        "season_winter",
+        "crop_year_two",
+        "fruit_tree_year_two",
+        "color_green",
+        "fruit_tree_item",
+        "fruit_item",
+    ]
 }

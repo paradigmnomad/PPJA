@@ -1,0 +1,18 @@
+[
+	{
+		"Id": "ppja.grilledskewerrecipe",
+		"Text": "@,^^ Here's a recipe from my saloon. I only share this with my good friends!^^ -Gus",
+		"Recipe": "Grilled Skewer",
+		"WhichBG": 0,
+		"Date": "1 spring Y2",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Gus", "FriendshipLevel": 3 }
+		],
+		/*"SkillConditions": 
+		[
+			{ "SkillName": "Farming", "SkillLevel": 1 }
+		]*/
+	},
+]

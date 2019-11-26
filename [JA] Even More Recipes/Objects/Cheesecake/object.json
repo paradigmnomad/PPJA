@@ -1,39 +1,68 @@
 {
-  "Name": "Cheesecake",
-  "Description": "A classic dessert.",
-  "Category": "Cooking",
-  "Edibility": 72,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 690,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
-	"Dislike": ["Kent", "Krobus", "Sebastian", "Willy"],
-	},
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Cream Cheese",
-        "Count": 1,
-      },
-{
-        "Object": 246,
-        "Count": 1,
-      },
-{
-        "Object": -6,
-        "Count": 1,
-      },
-{
-        "Object": 400,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 2690,
-    "PurchaseRequirements": null,
-  }
+    "Name": "Cheesecake",
+    "Description": "A classic dessert.",
+    "Category": "Cooking",
+    "Edibility": 72,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 690,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Kent", "Krobus", "Sebastian", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cream Cheese",
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": 400,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2690,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Cheesecake",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Bolo de queijo",
+        "ru": "",
+        "tr": "",
+        "zh": "芝士蛋糕",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un postre clásico.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma sobremesa clássica.",
+        "ru": "",
+        "tr": "",
+        "zh": "芝士蛋糕。一款经典的甜点",
+    }
 }

@@ -1,31 +1,60 @@
 {
-  "Name": "Salt Flavored Chips",
-  "Description": "Classic potato chips.",
-  "Category": "Cooking",
-  "Edibility": 16,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 120,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
-	"Dislike": ["Krobus", "Sandy"],
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 192,
-        "Count": 1,
-      },
-      {
-        "Object": "Salt",
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 550,
-    "PurchaseRequirements": null,
-  }
+    "Name": "Salt Flavored Chips",
+    "Description": "Classic potato chips.",
+    "Category": "Cooking",
+    "Edibility": 16,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 120,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Krobus", "Sandy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 192,
+            "Count": 1,
+        },
+        {
+            "Object": "Salt",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 550,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Papas tostadas",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Batatinhas fritas com sabor de sal",
+        "ru": "",
+        "tr": "",
+        "zh": "盐味薯片",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Papas fritas clásicas.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Batatas fritas clássicas.",
+        "ru": "",
+        "tr": "",
+        "zh": "盐味薯片。超经典口味的薯片。",
+    }
 }

@@ -1,0 +1,43 @@
+{
+    "Name": "Sulfur Shelf Mushroom",
+    "Description": "Known by it's alternative name: Chicken of the Woods.",
+    "Category": "Vegetable",
+    "Edibility": 9,
+    "Price": 180,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Harvey", "Leah", "Linus"],
+        "Dislike": ["Caroline", "Dwarf", "Elliott", "Haley", "Jas", "Jodi", "Krobus", "Pierre", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "CanPurchase": false,
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
+}

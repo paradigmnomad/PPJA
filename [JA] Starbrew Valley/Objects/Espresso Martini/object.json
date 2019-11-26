@@ -34,10 +34,33 @@
         "Count": 1,
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 5650,
-    "PurchaseRequirements": ["f Robin 2500",
-],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Martini Expresso",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "意式特浓马天尼",
+  },
+ "DescriptionLocalization": { 
+    "es": "Bebidas alcohólicas y café, un favorito personal.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "意式特浓马天尼。酒和咖啡，是个人的最爱。",
   }
 }

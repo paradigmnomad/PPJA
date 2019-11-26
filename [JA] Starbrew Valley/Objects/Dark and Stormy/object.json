@@ -44,10 +44,33 @@
         "Count": 1,
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 5780,
-    "PurchaseRequirements": ["f Sebastian 2000",
-],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Oscuro y tormentoso",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "黑暗风暴",
+  },
+ "DescriptionLocalization": { 
+    "es": "Era una noche oscura y tormentosa...",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "黑暗风暴。那是一个黑暗而暴风雨的夜晚…",
   }
 }

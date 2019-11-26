@@ -1,0 +1,53 @@
+{
+    "Name": "Muskmelon",
+    "Product": "Muskmelon",
+    "SeedName": "Muskmelon Seeds",
+    "SeedDescription": "Plant these in spring. Takes 8 days to mature.",
+    "Type": "Fruit",
+
+    "Seasons": ["spring"],
+    "Phases": [2, 2, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 80,
+    "SeedPurchaseRequirements": [
+        "y 2",
+    ],
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de melón musk",
+        "ko": "머스크멜론 씨앗",
+        "de": "Warzenmelonen-Saat",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Sementes de melão",
+        "ru": "",
+        "tr": "",
+        "zh": "香瓜种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera. Toma 8 días para madurar.",
+        "ko": "봄에 이것을 심습니다. 성숙하는 데 8 일이 걸립니다.",
+        "de": "Pflanzen sie im Frühling. Wächst in 8 Tagen heran.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as na primavera. Demora 8 dias para amadurecer.",
+        "ru": "",
+        "tr": "",
+        "zh": "春天播种。8天成熟。",
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "Name": "Coal Root",
+    "Product": 382,
+    "SeedName": "Coal Seeds",
+    "SeedDescription": "Plant these in spring or summer. Takes 10 days to mature.",
+    "Type": "ArtisanGoods",
+
+    "Seasons": ["spring", "summer"],
+    "Phases": [ 1, 2, 3, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+"SeedPurchaseFrom": "Clint",
+  "SeedPurchasePrice": 30,
+  "SeedPurchaseRequirements": [
+	"z summer, z fall, z winter",
+],
+
+"SeedNameLocalization": { 
+    "es": "Semillas de carbón",
+    "ko": "석탄 씨앗",
+    "de": "Kohlensamen",
+    "fr": "Graines de charbon",
+    "hu": "Szénmag",
+    "it": "Semi di carbone",
+    "ja": "石炭の種",
+    "pt": "Sementes de carvão",
+    "ru": "Cемена угля",
+    "tr": "Kömür tohumları",
+    "zh": "煤炭种子",
+    },
+"SeedDescriptionLocalization": { 
+    "es": "Plantalas en primavera. Toma 10 dias para madurar",
+    "ko": "봄과 여름 작물. 성장하려면 10일이 소요됩니다.",
+    "de": "Pflanzen Sie diese im Frühjahr oder Sommer. Die Reifezeit beträgt 10 Tage.",
+    "fr": "Plantez-les au printemps ou en été. Prend 10 jours pour mûrir.",
+    "hu": "Ültesse ezeket tavasszal vagy nyáron. 10 napig érlelni.",
+    "it": "Piantali in primavera o in estate. Ci vogliono 10 giorni per maturare.",
+    "ja": "これらを春または夏に植えます。 成熟するのに10日かかります。",
+    "pt": "Plante-as na primavera ou no verão. Leva 10 dias para amadurecer.",
+    "ru": "Посади их весной или летом. Требуется 10 дней для созревания.",
+    "tr": "Bunları ilkbahar veya yaz aylarında dikin. Olgunlaşması 10 gün sürer.",
+    "zh": "春天或夏天播种。10天成熟。",
+    }
+
+}

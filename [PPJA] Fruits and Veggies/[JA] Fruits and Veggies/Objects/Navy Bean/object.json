@@ -1,0 +1,42 @@
+{
+    "Name": "Navy Bean",
+    "Description": "A handful of beans.",
+    "Category": "Vegetable",
+    "Edibility": 12,
+    "Price": 15,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Elliott", "Haley", "Jas", "Sam", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Frijoles blancos",
+        "ko": "강낭콩",
+        "de": "weiße Bohnen",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Feijão branco",
+        "ru": "",
+        "tr": "",
+        "zh": "菜豆",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un puñado de frijoles.",
+        "ko": "조리하면 고소하면서 부드러운 맛이 납니다.",
+        "de": "Eine Hand voll Bohnen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um punhado de feijões.",
+        "ru": "",
+        "tr": "",
+        "zh": "少量的豆子。",
+    }
+}

@@ -40,5 +40,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5750,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Snakebite",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "蛇之吻",
+  },
+ "DescriptionLocalization": { 
+    "es": "No trates de chupar el veneno.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "蛇之吻。不要试图把毒吸出来。",
   }
 }

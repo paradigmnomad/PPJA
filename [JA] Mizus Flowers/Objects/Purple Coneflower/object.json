@@ -1,12 +1,41 @@
 {
-  "Name": "Purple Coneflower",
-  "Description": "A lovely purple coneflower that�s pleasantly sweet. It is also known as echinacea.",
-  "Category": "Flower",
-  "Edibility": 18,
-  "Price": 75,
-  "IsColored": true,
-  "Recipe": null,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
-  },
+    "Name": "Purple Coneflower",
+    "Description": "A lovely purple coneflower that's pleasantly sweet. It is also known as echinacea.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 75,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Echinacea purpurea",
+        "ko": "퍼플 루드베키아",
+        "de": "lila Coneblume",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Margarida roxa",
+        "ru": "",
+        "tr": "",
+        "zh": "紫锥花",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un hermosa flor púrpura que es agradablemente dulce.",
+        "ko": "기분좋은 달콤함과 사랑스러운 보라색 루드베키아. 에키나시아 라고 불리기도 합니다.",
+        "de": "Ihr Name kommt aus dem griechischen, vom Wort echnio.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma linda margarida roxa que é agradavelmente doce. Também é conhecido como ourico da Terra.",
+        "ru": "",
+        "tr": "",
+        "zh": "可爱的紫色花花，味道甜美。它也被称为紫雏菊。",
+    }
 }

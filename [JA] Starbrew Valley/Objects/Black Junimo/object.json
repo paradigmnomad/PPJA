@@ -39,5 +39,32 @@
     "PurchasePrice": 5930,
     "PurchaseRequirements": ["y 2",
 ],
+  },
+
+ "NameLocalization": { 
+    "es": "Junimo negro",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "黑色祝尼魔",
+  },
+ "DescriptionLocalization": { 
+    "es": "Cinco partes de vodka, dos partes de licor de café.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "黑色祝尼魔。五份伏特加两份咖啡利口酒。",
   }
 }

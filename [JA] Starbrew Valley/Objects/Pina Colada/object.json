@@ -40,9 +40,33 @@
         "Count": 1,
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 5820,
-    "PurchaseRequirements": null,
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Piña colada",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "椰林飘香",
+  },
+ "DescriptionLocalization": { 
+    "es": "Si te gusta quedar atrapado en la lluvia...",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "椰林飘香。如果你喜欢被雨淋湿…",
   }
 }

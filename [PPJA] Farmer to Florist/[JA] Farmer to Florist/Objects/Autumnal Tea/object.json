@@ -1,0 +1,78 @@
+{
+    "Name": "Autumnal Tea",
+    "Description": "A somewhat bitter tea filled with autumn flavors. Said to cure any ailment.",
+    "Category": "Cooking",
+    "Edibility": 100,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 1,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 300,
+    },
+    "Price": 350,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Jasmine",
+            "Count": 1,
+        },
+        {
+            "Object": 408,
+            "Count": 1,
+        },
+        {
+            "Object": "Camellia",
+            "Count": 1,
+        }, ],
+        "IsDefault": false,
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Elliott", "Harvey"],
+        "Like": ["Emily", "Leah", "Penny", "Caroline", "Demetrius", "Evelyn", "Linus", "Sandy", "Maru", "Gus", "Pierre", "Wizard", "Clint"],
+        "Neutral": ["Haley", "Jodi", "Kent", "Lewis", "Marnie", "Shane", "Willy", "George"],
+        "Dislike": ["Robin", "Alex", "Dwarf", "Krobus", "Jas", "Vincent"],
+        "Hate": ["Sam", "Pam", "Sebastian"]
+    },
+    "NameLocalization":
+    {
+        "es": "Té otoñal",
+        "ko": "가을의 차",
+        "de": "Herbstlicher Tee",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Chá Outonal",
+        "ru": "",
+        "tr": "",
+        "zh": "秋日茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un té algo amargo lleno de sabores otoñales. Recomendado para curar cualquier dolencia.",
+        "ko": "가을의 맛으로 가득 찬 약간 쓴 차. 모든 질병을 치료한다고 말했다.",
+        "de": "Ein etwas bitterer Tee mit herbstlichen Aromen. Es heißt, er würde eine Krankheit heilen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um pouco amargo,um chá cheio de sabores do outono.Ótimo para curar qualquer doença.",
+        "ru": "",
+        "tr": "",
+        "zh": "一种苦味的茶，充满了秋天的味道。据说可以治疗任何疾病。",
+    }
+}

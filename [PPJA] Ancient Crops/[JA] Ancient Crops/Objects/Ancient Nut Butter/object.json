@@ -1,0 +1,14 @@
+{
+  "Name": "Ancient Nut Butter",
+  "Description": "The taste is so unique that no human language has been able to describe it.",
+  "Category": "ArtisanGoods",
+  "Edibility": 52,
+  "Price": 875,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+    "Love": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus",  "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin","Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Vincent", "Jas"],
+  },
+  "NameLocalization": {"zh":"远古坚果黄油"},
+  "DescriptionLocalization": {"zh":"这种味道是如此独特，以至于没有人类语言能够描述它。"},
+}

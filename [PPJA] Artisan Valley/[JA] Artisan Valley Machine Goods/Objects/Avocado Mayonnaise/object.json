@@ -1,0 +1,42 @@
+{
+    "Name": "Avocado Mayonnaise",
+    "Description": "It's an avocado, thanks!",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 340,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Alex", "Emily", "Leah", "Sam"],
+        "Like": ["Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Mayonesa de aguacate",
+        "ko": "",
+        "de": "Avocado Mayonnaise",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "牛油果沙拉酱",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Es un aguacate, gracias!",
+        "ko": "",
+        "de": "Es ist eine Avocado, danke!",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "这是一个牛油果做的!",
+    }
+}

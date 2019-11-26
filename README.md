@@ -1,22 +1,31 @@
-# Resources
+## Welcome to Project Populate Json Assets for Stardew Valley!
 
-There are many valuable resources out there when you need help with JsonAssets
+![PPJA Header](https://i.imgur.com/HHpqNMs.png)
 
-* [Outdated] Blank JsonAsset Template: https://www.nexusmods.com/stardewvalley/mods/1746/?
-* Event Data (valid PurchaseRequirement fields) - https://stardewvalleywiki.com/Modding:Event_data#Event_preconditions
-* Official Documentation - https://github.com/spacechase0/JsonAssets/blob/master/README.md
+This is the main hub for Project Populate Json Assets created by a large team lead by: Paradigmnomad, SpringsSong, and minervamaga. A full list of contributors is included on the [wiki page](https://github.com/paradigmnomad/PPJA/wiki/Artist-Credits).
 
-# Spreadsheet
+Further information can be found in the [PPJA Wiki](https://github.com/paradigmnomad/PPJA/wiki) as well as [artist credits](https://github.com/paradigmnomad/PPJA/wiki/Artist-Credits) & [troubleshooting](https://github.com/paradigmnomad/PPJA/wiki/Troubleshooting).
 
-This is our mega-guide. Of nearly every crop, tree, recipe, artisan good,, flower, etc. It does not include everything that has been released, but those items are largely fantasy items that are unlikely to have conflicts. 
-We keep this sheet updated for a few reasons:
+## Installation and Dependencies
 
-- To ensure compatibility between packs
-- To avoid duplicate names (see compatibility) 
-- To have a resource where users of JA can find documentation
+This mod requires the SMAPI modding framework; if you have not installed SMAPI before, see [here](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Getting_started) for instructions. This mod also requires Json Assets, a mod framework that allows custom items to be added to the game without modifying the XNB files; be sure to [download Json Assets from Nexus](https://www.nexusmods.com/stardewvalley/mods/1720) and install it before using this mod. Some Json Assets packs may require the use of [Custom Farming Redux](https://www.nexusmods.com/stardewvalley/mods/991); a framework that allows custom machines or [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348); for Json Assets this allows crops to be grown in winter. Some of [spacechase0's](https://www.nexusmods.com/stardewvalley/users/34250790) mods require this to work properly.
 
-[Spreadsheet Link](https://docs.google.com/spreadsheets/d/1D3Kb45faKsXGkT9wGhWaeHZiuFN7WSkewBbLF2Iuyug/edit?usp=sharing)
+Some packs may also use [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915) or [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536) to pair with their Json Assets packs. These frameworks can help add more content to pre-existing Json Asset content packs.
 
-# FAQ
+If all dependency mods are installed, then download the file for the content pack you have chosen, extract it, and move it to the `Mods` folder in your games file to install it. To uninstall the content pack, remove any items from the pack in game and delete from your `Mods` folder. Missing items can cause your game to crash so double check any chests beforehand. Recipes & items in shops do not have to be removed.
 
-[Link](https://github.com/paradigmnomad/ppjajsonassetsfaq)
+## Migrating to 1.4
+
+Whenever migrating to a new version using mods, we always recommend [backing up your save](https://stardewvalleywiki.com/Saves) in case something goes wrong. PPJA is fully 1.4 ready so there should be minimal issues when upgrading from 1.3 to 1.4. 
+
+* `Rice (Crop)`, `Tea Leaves (Crop & Object)`, `Green Tea`, `Unpolished Rice`, `Shrimp Cocktail`, and `Dinosaur Mayonaise`  have been removed. These items (or their equivalent) have been added as of 1.4.
+	* Make sure you remove these items prior to upgrading as to not conflict with the newly added vanilla items.
+* Delete all pre-existing folders before updating PPJA mods. File names & folders have been changed. Having the old name and the new named folder will conflict and cause an error.
+* Drag + Drop into `Mods` as normal.
+* Have fun in 1.4! There's lots of new stuff to explore.
+
+Not all framework mods may be ready with day one updates. Please understand these are out of our control and even the PPJA team must wait for an update. We do not manage **any** of the frameworks: Json Assets, Custom Farming Redux, Content Patcher, nor Mail Framework Mod. Any questions/bug reports that reference these frameworks not being updated and asking for an update will be archived.
+
+## FAQ
+
+[Link](https://github.com/paradigmnomad/PPJA/wiki/Troubleshooting)

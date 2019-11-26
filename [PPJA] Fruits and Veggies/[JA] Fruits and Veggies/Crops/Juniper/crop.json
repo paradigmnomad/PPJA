@@ -1,0 +1,50 @@
+{
+    "Name": "Juniper",
+    "Product": "Juniper Berry",
+    "SeedName": "Juniper Berry Seeds",
+    "SeedDescription": "Plant these in winter. Takes 13 days to mature, and keeps producing after the first harvest.",
+    "Type": "Fruit",
+
+    "Seasons": ["winter"],
+    "Phases": [1, 2, 3, 4, 3, ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchasePrice": 80,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de baya de enebro",
+        "ko": "주니퍼 베리 씨앗",
+        "de": "Wacholder-Saat",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Sementes de zimbro",
+        "ru": "",
+        "tr": "",
+        "zh": "杜松子种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en invierno. Toma 13 días para madurar, continua produciendo después de la primera cosecha.",
+        "ko": "겨울 작물. 성장하면 13일이 소요되며, 수확한 후에도 계속 생산됩니다.",
+        "de": "Pflanzen sie im Winter. Wächst in 13 Tagen heran, kann aber danach mehrmals geerntet werden.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as no inverno. Demora 13 dias para amadurecer e continua produzindo após a primeira colheita.",
+        "ru": "",
+        "tr": "",
+        "zh": "冬天种植。13天成熟，收获之后还能继续结果。",
+    }
+}

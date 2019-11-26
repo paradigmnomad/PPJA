@@ -1,13 +1,48 @@
 {
-  "Name": "Banana",
-  "Description": "Something of an oddity, all bananas are closely related clones. If a disease strikes, entire crops suffer.",
-  "Category": "Fruit",
-  "Edibility": 30,
-  "Price": 170,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus",  "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin","Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-	"Dislike": ["Krobus", "Willy"],
-  },
-  "Recipe": null,
+    "Name": "Banana",
+    "Description": "Something of an oddity, all bananas are closely related clones. If a disease strikes, entire crops suffer.",
+    "Category": "Fruit",
+    "Edibility": 30,
+    "Price": 170,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Banana",
+        "ko": "바나나",
+        "de": "Banane",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Banana",
+        "ru": "",
+        "tr": "",
+        "zh": "香蕉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Algo extraño, todos los bananos son clones estrechamente relacionados. Si una enfermedad ataca, los cultivos enteros sufren.",
+        "ko": "이상한 점은 모든 바나나가 서로 밀접하게 관련된 클론입니다. 질병이 발생하면 전체 작물이 고통받습니다.",
+        "de": "Bananen sind ein guter Kaliumlieferant. Die Lieblingsspeise von Minions.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Algo estranho, todas as bananas são clones intimamente relacionados. Se uma doença ocorre, culturas inteiras sofrem.",
+        "ru": "",
+        "tr": "",
+        "zh": "奇怪的是，所有的香蕉都是紧密相关的。如果其中一个坏掉，整个作物都会遭殃。",
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_yellow",
+        "fruit_tree_item",
+        "fruit_item"
+    ]
 }

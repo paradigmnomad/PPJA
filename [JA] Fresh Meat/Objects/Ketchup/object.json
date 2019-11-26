@@ -31,5 +31,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 100,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Salsa de tomate",
+    "ko": "케챱",
+    "de": "Ketchup",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "番茄酱",
+  },
+ "DescriptionLocalization": { 
+    "es": "Una salsa de tomate endulzada con azúcar.",
+    "ko": "설탕으로 달인 토마토 페이스트.",
+    "de": "Tomatenpaste mit Zucker.",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "番茄酱。这其实是一种加糖的西红柿。",
   }
 }

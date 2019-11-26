@@ -1,35 +1,63 @@
 {
-  "Name": "Caramel Apple",
-  "Description": "A sweet apple that's been dipped in hot caramel.",
-  "Category": "Cooking",
-  "Edibility": 88,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 785,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-    "Neutral": ["George"],
-	"Dislike": ["Krobus", "Willy"],
-	},
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 613,
-        "Count": 1,
-       },
-{
-        "Object": "Caramel",
-        "Count": 1,
-       }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 2785,
-    "PurchaseRequirements": [
-"z spring summer winter",
-],
-
-  }
+    "Name": "Caramel Apple",
+    "Description": "A sweet apple that's been dipped in hot caramel.",
+    "Category": "Cooking",
+    "Edibility": 88,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 785,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["George"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 613,
+            "Count": 1,
+        },
+        {
+            "Object": "Caramel",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2785,
+        "PurchaseRequirements": [
+            "z spring summer winter",
+        ],
+    },
+    "NameLocalization":
+    {
+        "es": "Manzana caramelizada",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Maça caramelizada",
+        "ru": "",
+        "tr": "",
+        "zh": "焦糖苹果",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una manzana dulce que se ha sumergido en caramelo caliente.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma maçã doce que foi mergulhada em caramelo quente.",
+        "ru": "",
+        "tr": "",
+        "zh": "焦糖苹果。一个浸在热焦糖里的超甜的苹果。",
+    }
 }

@@ -1,0 +1,43 @@
+{
+    "Name": "Earl Grey Kombucha",
+    "Description": "A non-traditional Kombucha made with Earl Grey Tea.",
+    "Category": "ArtisanGoods",
+    "Edibility": 34,
+    "EdibleIsDrink": true,
+    "Price": 760,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Harvey", "Sebastian"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Kombucha de Earl Grey",
+        "ko": "",
+        "de": "Earl Grey Kombucha",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "格雷伯爵康普茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una kombucha no tradicional hecha con té Earl Grey.",
+        "ko": "",
+        "de": "Ein nicht traditioneller Kombucha aus Earl Grey Tee.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一种非传统的康普茶，由格雷伯爵茶制成。",
+    }
+}

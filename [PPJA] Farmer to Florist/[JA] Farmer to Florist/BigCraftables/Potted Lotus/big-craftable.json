@@ -1,0 +1,50 @@
+{
+  "Name": "Potted Lotus",
+  "Description": "A lotus potted in a little wooden pot. Remember to change its water!",
+  "Price": 1,
+  "ProvidesLight": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+		  "Object": "Lotus",
+		  "Count": 1,
+      },
+      {
+		  "Object": 388,
+		  "Count": 10,
+      },
+	  {
+		  "Object": 330,
+		  "Count": 10,
+	  },
+    ],
+	"CanPurchase": false,
+  },
+  "NameLocalization": { 
+    "es": "Loto en maceta",
+    "ko": "실내 화초 연꽃",
+    "de": "Eingemachter Lotus",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "Vaso de Lótus",
+    "ru": "",
+    "tr": "",
+    "zh": "荷花盆栽",
+     },
+ "DescriptionLocalization": { 
+    "es": "Un loto en un pequeño macetero de madera. ¡Recuerde cambiar su agua!",
+    "ko": "작은 나무 화분에 심겨진 연꽃 입니다. 물 갈아주는거 잊지마세요!",
+    "de": "Ein Lotus in einem kleinen Holztopf. Denken Sie daran, das Wasser zu wechseln!",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "Uma lótus em um vaso pequeno de madeira. Lembre-se sempre de regá-la!",
+    "ru": "",
+    "tr": "",
+    "zh": "一个小木盆里的荷花。记得给它浇水！",
+    }
+}

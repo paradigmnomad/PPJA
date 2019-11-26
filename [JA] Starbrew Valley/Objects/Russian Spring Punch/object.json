@@ -46,5 +46,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5820,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Ponche de primavera ruso",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "俄罗斯春天特饮",
+  },
+ "DescriptionLocalization": { 
+    "es": "Servir con hielo.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "俄罗斯春天特饮。在冰上服役。",
   }
 }

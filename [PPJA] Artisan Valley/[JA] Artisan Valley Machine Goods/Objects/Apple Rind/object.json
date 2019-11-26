@@ -1,0 +1,42 @@
+{
+    "Name": "Apple Rind",
+    "Description": "The twisty rind of an apple.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 100,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Dislike": ["Marnie"],
+        "Hate": ["Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Cáscara de manzana",
+        "ko": "",
+        "de": "Apfelschale",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "苹果皮",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una simple cáscara de manzana.",
+        "ko": "",
+        "de": "Die kurvenreiche Schale eines Apfels.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一个苹果的弯弯曲曲的外皮。",
+    }
+}

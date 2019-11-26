@@ -6,16 +6,17 @@
     "Type": "Flower",
 
     "Seasons": ["fall"],
-    "Phases": [ 1, 2, 2, 2 ],
+    "Phases": [1, 2, 2, 2],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": [
-    "255, 253, 241, 255",
-    "255, 253, 150, 255",
-    "255, 253, 196, 255"
+        "255, 253, 241, 255",
+        "255, 253, 150, 255",
+        "255, 253, 196, 255"
     ],
-    "Bonus": {
+    "Bonus":
+    {
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 3,
         "MaxIncreasePerFarmLevel": 5,
@@ -23,5 +24,32 @@
     },
 
     "SeedPurchasePrice": 40,
-
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de jazmín dulce",
+        "ko": "스위트 자스민 씨앗",
+        "de": "Jasmin-Saat",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Sementes de jasmim doce",
+        "ru": "",
+        "tr": "",
+        "zh": "茉莉花种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 7 días para producir flores brillantes.",
+        "ko": "가을에 심습니다. 7일후에 밝은 꽃이 핍니다.",
+        "de": "Pflanzen sie im Herbst. Wächst in 10 Tagen heran.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as no outono. Demoram 7 dias para produzirem algumas flores brilhantes.",
+        "ru": "",
+        "tr": "",
+        "zh": "秋天播种。7天后收获纯净的花。",
+    }
 }

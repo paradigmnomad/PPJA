@@ -1,0 +1,45 @@
+{
+    "Name": "Chanterelle Kombucha",
+    "Description": "A fruity, slightly peppery tea-like drink made from fermented mushrooms.",
+    "Category": "ArtisanGoods",
+    "Edibility": 6,
+    "EdibleIsDrink": true,
+    "Price": 300,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Krobus", "Sebastian"],
+        "Like": ["Harvey", "Leah", "Linus"],
+        "Neutral": ["Alex", "Clint", "Demetrius", "Emily", "Evelyn", "George", "Gus", "Kent", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy"],
+        "Dislike": ["Abigail", "Caroline", "Dwarf", "Elliott", "Haley", "Jas", "Jodi", "Pierre", "Sam", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Kombucha de chantarela",
+        "ko": "",
+        "de": "Pfifferling Kombucha",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "鸡油菌康普茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una bebida con sabor a té, ligeramente picante, a base de setas fermentados.",
+        "ko": "",
+        "de": "Ein fruchtiges, leicht pfeffriges Tee-ähnliches Getränk aus fermentierten Pilzen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "这是一种由发酵的蘑菇制成的有点水果味，有点辛辣的茶。",
+    }
+}

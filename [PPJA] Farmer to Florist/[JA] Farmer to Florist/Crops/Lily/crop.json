@@ -1,0 +1,56 @@
+{
+    "Name": "Lily",
+    "Product": "Lily",
+    "SeedName": "Lily Bulb",
+    "SeedDescription": "Plant in summer. Takes 9 days to produce a large, trumpet-like flower.",
+    "Type": "Flower",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 3, 3],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": [
+        "254, 254, 254, 255",
+        "255, 125, 20, 255",
+        "255, 200, 0, 255"
+    ],
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchaseRequirements": null,
+    "SeedPurchasePrice": 35,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de lirio",
+        "ko": "백합 구근",
+        "de": "Lilienknolle",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Bulbo de Lírios",
+        "ru": "",
+        "tr": "",
+        "zh": "百合花种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 9 días para producir una larga flor como trompeta.",
+        "ko": "여름에 심습니다. 9일후에 크고 마치 트럼펫같은 꽃이 핍니다.",
+        "de": "Im Sommer pflanzen. Die Herstellung einer großen, trompetenartigen Blume dauert 9 Tage.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-a no verão. Demoram 9 dias para nascer uma flor grande, semelhante a uma trombeta.",
+        "ru": "",
+        "tr": "",
+        "zh": "夏天下种。9天产出硕大的喇叭状花朵。",
+    }
+}

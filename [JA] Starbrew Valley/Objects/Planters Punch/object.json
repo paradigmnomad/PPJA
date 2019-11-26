@@ -49,10 +49,33 @@
         "Count": 1,
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 5950,
-    "PurchaseRequirements": ["f Lewis 2500",
-],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Sembrador puñetazo",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "种植者宾治",
+  },
+ "DescriptionLocalization": { 
+    "es": "Impulsa la agricultura, pero te pone mareado.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "种植者宾治。它能促进农业，但可能会使你醉醺醺的。",
   }
 }

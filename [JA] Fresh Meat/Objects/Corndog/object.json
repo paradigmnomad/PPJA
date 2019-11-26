@@ -42,5 +42,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 650,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Banderilla",
+    "ko": "콘도그",
+    "de": "Corndog",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "玉米热狗",
+  },
+ "DescriptionLocalization": { 
+    "es": "Un hot dog empanizado y frito.",
+    "ko": "빵에 튀긴 핫도그.",
+    "de": "Ein im Brot frittierter Hot Dog.",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "玉米热狗。一种裹上面包屑的油炸热狗。",
   }
 }

@@ -1,0 +1,48 @@
+{
+    "Name": "___", //The name you would like your object to have, this should be identical to the subfolder name.
+    "Description": "___", //Description of the product.
+    "Category": "___", //This should match the crop.json Type or for fruit trees should be one of the following: Flower, Fruit, Vegetable, Gem, Fish, Egg, Milk, Cooking, Crafting, Mineral, Meat, Metal, Junk, Syrup, MonsterLoot, ArtisanGoods, and Seeds.
+    "Edibility": 22, //Edibility is for health, energy is calculated by the game. For inedibile items, set to -300.
+    "Price": 90, //How much your item sells for.
+    "IsColored": false, //(optional) Set this value to true if your product is colored. Primairly applies to flowers.
+    "Recipe": null, //Set to null.
+    "GiftTastes": //If an NPC isn't listed their gift taste will be neautral. If every NPC is specified you may remove unused categories.
+    {
+        "Love": ["Harvey"], //Example of a single NPC
+        "Like": ["Alex"],
+        "Neutral": null, //Example of `null`. Can also remove if not being used.
+        "Dislike": ["Abigail", "Haley"], //Example of multiple NPC
+        "Hate": ["Lewis"]
+    },
+
+    // Localization
+
+    "NameLocalization":
+    {
+        "es": "", //Spansih
+        "ko": "", //Korean
+        "de": "", //German
+        "fr": "", //French
+        "hu": "", //Hungarian
+        "it": "", //Italian
+        "ja": "", //Japanese
+        "pt": "", //Portuguese
+        "ru": "", //Russian
+        "tr": "", //Turkish
+        "zh": "", //Chinese (Simplified)
+    },
+    "DescriptionLocalization":
+    {
+        "es": "", //Spansih
+        "ko": "", //Korean
+        "de": "", //German
+        "fr": "", //French
+        "hu": "", //Hungarian
+        "it": "", //Italian
+        "ja": "", //Japanese
+        "pt": "", //Portuguese
+        "ru": "", //Russian
+        "tr": "", //Turkish
+        "zh": "", //Chinese (Simplified)
+    },
+}

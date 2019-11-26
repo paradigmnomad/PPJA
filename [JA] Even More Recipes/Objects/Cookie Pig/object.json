@@ -1,41 +1,71 @@
 {
-  "Name": "Cookie Pig",
-  "Description": "A cute cookie shaped like a pig!",
-  "Category": "Cooking",
-  "Edibility": 32,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 1150,
-  "IsColored": false,
-  "GiftTastes": {
-	"Love": ["Marnie"],
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-	"Dislike": ["Leah", "Krobus", "Willy"],
-	},
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 432,
-        "Count": 1,
-      },
-      
-{
-        "Object": 246,
-        "Count": 1,
-      },
-{
-        "Object": 245,
-        "Count": 1,
-      },
-{
-        "Object": -5,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 3150,
-    "PurchaseRequirements": null,
-  }
+    "Name": "Cookie Pig",
+    "Description": "A cute cookie shaped like a pig!",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1150,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Marnie"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Leah", "Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": 432,
+                "Count": 1,
+            },
+
+            {
+                "Object": 246,
+                "Count": 1,
+            },
+            {
+                "Object": 245,
+                "Count": 1,
+            },
+            {
+                "Object": -5,
+                "Count": 1,
+            }
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 3150,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Galleta de cerdo",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Biscoito de porquinho",
+        "ru": "",
+        "tr": "",
+        "zh": "小猪饼干",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Una linda galleta con forma de cerdo!",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um biscoito fofo em forma de porco!",
+        "ru": "",
+        "tr": "",
+        "zh": "小猪饼干。它的形状像一只小猪。",
+    }
 }

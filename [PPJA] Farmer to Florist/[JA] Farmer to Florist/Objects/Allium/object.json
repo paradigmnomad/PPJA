@@ -1,0 +1,44 @@
+{
+    "Name": "Allium",
+    "Description": "The flower grows in a sphere to invite as many butterflies as possible.",
+    "Category": "Flower",
+    "Edibility": 10,
+    "Price": 50,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Abigail"],
+        "Like": ["Elliott", "Harvey", "Sam", "Emily", "Haley", "Leah", "Penny", "Caroline", "Demetrius", "Evelyn", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Robin", "Sandy"],
+        "Neutral": ["Alex", "Shane", "Maru", "Dwarf", "Gus", "Krobus", "Pam", "Pierre", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Sebastian", "Clint", "George"],
+    },
+    "NameLocalization":
+    {
+        "es": "Allium",
+        "ko": "알리움",
+        "de": "Kugellauch",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Alho Ornamental",
+        "ru": "",
+        "tr": "",
+        "zh": "青葱",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Crece en una esfera para invitar a tantas mariposas como sea posible.",
+        "ko": "꽃은 구형으로 자라서 가능한 한 많은 나비를 끌어들이려 합니다.",
+        "de": "Die Blume wächst in einer Kugel, um so viele Schmetterlinge wie möglich einzuladen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "A flor cresce em uma esfera para atrair o máximo de borboleta possíveis.",
+        "ru": "",
+        "tr": "",
+        "zh": "花在球形內生長，以吸引盡可能多的蝴蝶。",
+    }
+}

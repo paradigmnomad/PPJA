@@ -1,0 +1,44 @@
+{
+    "Name": "Chamomile Kombucha",
+    "Description": "A soft and slightly-sweet flavored kombucha.",
+    "Category": "ArtisanGoods",
+    "Edibility": 26,
+    "EdibleIsDrink": true,
+    "Price": 550,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Evelyn", "Harvey"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Haley", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+        "Dislike": ["Jas", "Vincent", "Willy"],
+    },
+    "NameLocalization":
+    {
+        "es": "Kombucha de manzanilla",
+        "ko": "",
+        "de": "Kamille Kombucha",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "甘菊康普茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una kombucha con sabor suave y ligeramente dulce.",
+        "ko": "",
+        "de": "Ein weicher und leicht süß gewürzter Kombucha.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一种口感顺滑的、有点甜的康普茶。",
+    }
+}

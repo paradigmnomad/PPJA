@@ -1,36 +1,65 @@
 {
-  "Name": "Cucumber Roll",
-  "Description": "It�s like a vegetarian maki roll.",
-  "Category": "Cooking",
-  "Edibility": 36,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 360,
-  "IsColored": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 423,
-        "Count": 1,
-      },
-      {
-        "Object": 152,
-        "Count": 1,
-      },
-      {
-        "Object": "Cucumber",
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 2360,
-    "PurchaseRequirements": ["y 2",
-],
-  },
-  "GiftTastes": {
-	"Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Wizard"],
-	"Dislike": ["Abigail", "Haley", "Jas", "Krobus", "Sam", "Vincent", "Willy"],
-  }
+    "Name": "Cucumber Roll",
+    "Description": "It’s like a vegetarian maki roll.",
+    "Category": "Cooking",
+    "Edibility": 36,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 360,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 423,
+            "Count": 1,
+        },
+        {
+            "Object": 152,
+            "Count": 1,
+        },
+        {
+            "Object": "Cucumber",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2360,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Krobus", "Sam", "Vincent", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Rollo de pepino",
+        "ko": "오이 롤",
+        "de": "Gurken-Maki",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Rolo de pepino",
+        "ru": "",
+        "tr": "",
+        "zh": "黄瓜卷",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Es como un rollo de maki vegetariano.",
+        "ko": "채식주의자 마키 롤.",
+        "de": "Eine vegetarische Makirolle.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "É como um rolo de maki vegetariano.",
+        "ru": "",
+        "tr": "",
+        "zh": "黄瓜卷。素食主义者爱吃的卷。",
+    }
 }

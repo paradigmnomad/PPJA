@@ -48,5 +48,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5980,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Tres Coops",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "合作社",
+  },
+ "DescriptionLocalization": { 
+    "es": "Adornado con chile en polvo, combina bien con el mezcal.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "合作社。加入点辣椒粉进行装饰，这款鸡尾酒与Mezcal很配。",
   }
 }

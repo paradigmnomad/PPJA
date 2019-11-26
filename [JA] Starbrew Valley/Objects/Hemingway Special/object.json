@@ -23,7 +23,7 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1720,
     "PurchaseRequirements": ["y 2",
-"f Elliot 1250",
+"f Elliott 1250",
 ],
 
   "Recipe": {
@@ -46,11 +46,33 @@
         "Count": 1,
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 5720,
-    "PurchaseRequirements": ["y 2",
-"f Elliot 1250",
-],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Especial Hemingway",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "海明威特调",
+  },
+ "DescriptionLocalization": { 
+    "es": "Un favorito del autor Ernest Hemingway.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "海明威特调。这款鸡尾酒的作者是海明威，是他的最爱。",
   }
 }

@@ -1,0 +1,60 @@
+{
+    "Name": "___", //The name you would like your object to have, this should be identical to the subfolder name.
+    "Product": "___", //Determines what the crop produces. This will correspond to a folder with the same name in Objects (ex. Both folders will be named "Honeysuckle"). (optional) You can produce vanilla items. Instead of a named object you will use the objects ID number and not include a corresponding Objects folder.
+    "SeedName": "___", //The seed name of the crop. Typically crop name + seeds or starter.
+    "SeedDescription": "___", //Describe what season you plant these in. Also note if it continues to grow after first harvest and how many days it takes to regrow.
+    "Type": "Flower", //Available types are Flower, Fruit, Vegetable, Gem, Fish, Egg, Milk, Cooking, Crafting, Mineral, Meat, Metal, Junk, Syrup, MonsterLoot, ArtisanGoods, and Seeds.
+    "CropType": "Normal", //Available types are Normal, IndoorsOnly, and Paddy. If no `CropType` is specified, Normal will be the default.
+    "Seasons": ["summer"], //Seasons must be in lowercase and in quotation marks, so if you want to make your crop last all year, you'd put in "spring", "summer", "fall", "winter". If you want to make winter plants, you will have to require SpaceCore for your content pack.
+    "Phases": [1, 1, 1, 1], //Determines how long each phase lasts. Crops can have 2-5 phases, and the numbers in phases refer to how many days a plant spends in that phase. Seeds do not count as a phase. If your crop has regrowth, the last number in this set corresponds to how many days it takes for the crop to regrow. Ex. [1, 2, 3, 4, 3] This crop takes 10 days to grow and 3 days to regrow.
+    "RegrowthPhase": -1, //If your plant is a one time harvest set this to -1. If it does, this determines which sprite the regrowth starts at. I typically recommend the sprite right before the harvest. Requires additional sprite at the end of the crop.png
+    "HarvestWithScythe": false, //Set to true or false.
+    "TrellisCrop": false, //Set to true or false. Determines if you can pass through a crop or not. Flowers cannot grow on trellises and have colors.
+    "Colors": [
+        "177, 124, 204, 255", //Colors use RGBA for color picking, set to null if your plant does not have colors.
+        "151, 30, 161, 255", //You can have a maximum of three colors.
+        "254, 254, 254, 255"
+    ],
+    "Bonus": //This block determines the chance to get multiple crops.
+    {
+        "MinimumPerHarvest": 1, //Minimum number of crops you will get per harvest. Must be one or greater.
+        "MaximumPerHarvest": 1, //Maximum number of crops you will get per harvest. Must be one or greater. Recommended not to exceed 10.
+        "MaxIncreasePerFarmLevel": 5, //How many farming skill experience points you get from harvesting.
+        "ExtraChance": 0.0, //Value between 0 and 1.
+    },
+    "SeedPurchaseRequirements": null, //See Event Preconditions (https://stardewvalleywiki.com/Modding:Event_data#Event_preconditions). 
+                                      //If you do not want to have any PurchaseRequirements set this to null
+    "SeedPurchaseFrom": "Willy", //Who you can purchase seeds from. Valid entries are: Willy, Pierre, Robin, Sandy, Krobus, Clint, Harvey, Marlon, and Dwarf. If an NPC isn't listed here they can't be used. Pierre is the default vendor.
+    "SeedPurchasePrice": 60, //How much you can purchase seeds for.
+
+    // Localization
+
+    "SeedNameLocalization":
+    {
+        "es": "", //Spansih
+        "ko": "", //Korean
+        "de": "", //German
+        "fr": "", //French
+        "hu": "", //Hungarian
+        "it": "", //Italian
+        "ja": "", //Japanese
+        "pt": "", //Portuguese
+        "ru": "", //Russian
+        "tr": "", //Turkish
+        "zh": "", //Chinese (Simplified)
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "", //Spansih
+        "ko": "", //Korean
+        "de": "", //German
+        "fr": "", //French
+        "hu": "", //Hungarian
+        "it": "", //Italian
+        "ja": "", //Japanese
+        "pt": "", //Portuguese
+        "ru": "", //Russian
+        "tr": "", //Turkish
+        "zh": "", //Chinese (Simplified)
+    }
+}

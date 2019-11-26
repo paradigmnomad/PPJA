@@ -1,38 +1,60 @@
 {
-  "Name": "Broccoli and Cheese",
-  "Description": "Steamed broccoli covered in gooey cheese.",
-  "Category": "Cooking",
-  "Edibility": 70,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 420,
-  "IsColored": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Broccoli",
-        "Count": 2,
-      },
-      {
-        "Object": 424,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Pierre",
-    "PurchasePrice": 2420,
-    "PurchaseRequirements": [
-      "f Pierre 1750",
-      "w rainy",
-"y 2",
-      
-    ]
-  },
-  "GiftTastes": {
-	"Love": ["Maru"],
-	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Wizard"],
-	"Neutral": ["Dwarf", "Lewis"],
-	"Dislike": ["Jas", "Krobus", "Sam", "Sebastian", "Vincent", "Willy"],
-  }
+    "Name": "Broccoli and Cheese",
+    "Description": "Steamed broccoli covered in gooey cheese.",
+    "Category": "Cooking",
+    "Edibility": 70,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 420,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Broccoli",
+            "Count": 2,
+        },
+        {
+            "Object": 424,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Maru"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Wizard"],
+        "Neutral": ["Dwarf", "Lewis"],
+        "Dislike": ["Jas", "Krobus", "Sam", "Sebastian", "Vincent", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Brócoli y queso",
+        "ko": "브로콜리와 치즈",
+        "de": "Broccoli und Käse",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Brócolis e Queijo",
+        "ru": "",
+        "tr": "",
+        "zh": "奶酪烩西兰花",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Brócoli al vapor cubierto de queso pegajoso.",
+        "ko": "부드럽고 끈적한 치즈를 올린, 쪄진 브로콜리.",
+        "de": "Gedämpfter Brokkoli überbacken mit Käse.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Brócolis cozido no vapor coberto de queijo pegajoso.",
+        "ru": "",
+        "tr": "",
+        "zh": "奶酪烩西兰花。煮熟的西兰花上面覆盖着黏黏的奶酪。",
+    }
 }

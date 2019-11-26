@@ -10,4 +10,32 @@
     "SaplingPurchaseRequirements": [
     "y 2",
     ],
+     "SaplingNameLocalization":
+    {
+        "es": "Brote de olivo",
+        "ko": "올리브 묘목",
+        "de": "Oliven-Setzling (Sapling)",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Muda de oliveira",
+        "ru": "",
+        "tr": "",
+        "zh": "橄榄树苗Sapling",
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "es": "Toma 28 días para producir un olivo maduro. Listo para cosechar en otoño. Solo crece si las 8 casillas circundantes están vacías.",
+        "ko": "28일후에 성목이 됩니다. 가을에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
+        "de": "Wächst in 28 Tagen zu einem reifen Olivenbaum heran. Trägt im Herbst Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Demora até 28 dias para produzir uma oliveira madura. Dá frutas no outono. Só cresce se os 8 espaços adjacentes estiverem vazios.",
+        "ru": "",
+        "tr": "",
+        "zh": "28天成熟为成年橄榄树。秋天结果。只有在附近8块地块都空置的情况下才会成长。",
+    }
 }

@@ -1,12 +1,49 @@
 {
-  "Name": "Camphor Leaves",
-  "Description": "Glossy oval leaves that are very fragrant when crushed.",
-  "Category": "Vegetable",
-  "Edibility": -300,
-  "Price": 100,
-  "IsColored": false,
-  "GiftTastes": {
-    "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
-  },
-  "Recipe": null,
+    "Name": "Camphor Leaves",
+    "Description": "Glossy oval leaves that are very fragrant when crushed.",
+    "Category": "Vegetable",
+    "Edibility": -300,
+    "Price": 100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Hojas de alcanfor",
+        "ko": "녹나무 잎",
+        "de": "Kampferblätter",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Folhas de cânfora",
+        "ru": "",
+        "tr": "",
+        "zh": "樟脑叶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Hojas ovales brillantes que son muy fragantes cuando se aplastan.",
+        "ko": "으깨면 매우 향기로운 광택이 나는 타원형 잎.",
+        "de": "Glänzende ovale Blätter, die beim Zerkleinern sehr aromatisch sind.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Folhas ovais brilhantes que são muito perfumadas quando esmagadas.",
+        "ru": "",
+        "tr": "",
+        "zh": "光滑的椭圆形叶子，在被压碎时非常芬芳。在民间，樟脑叶一般制成樟脑丸，用于驱虫、除臭。樟脑具毒性，不可直接食用。",
+    },
+    "ContextTags": [
+        "season_winter",
+        "color_green",
+        "fruit_tree_item",
+        "spice_item",
+        "crop_year_two",
+        "fruit_tree_year_two"
+    ]
 }

@@ -8,4 +8,32 @@
 
     "SaplingPurchasePrice": 5000,
     "SaplingPurchaseRequirements": null,
+    "SaplingNameLocalization":
+    {
+        "es": "Brote de vainilla",
+        "ko": "바닐라 묘목",
+        "de": "Vanille-Setzling (Sapling)",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Muda de baunilha",
+        "ru": "",
+        "tr": "",
+        "zh": "香草树苗Sapling",
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "es": "Toma 28 días para producir un árbol de vainilla maduro. Listo para cosechar en la primavera. Solo crece si las 8 casillas circundantes están vacías.",
+        "ko": "28일후에 성목이 됩니다. 봄에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
+        "de": "Wächst in 28 Tagen zu einem reifen Vanillebaum heran. Trägt im Frühling Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Demora até 28 dias para produzir uma árvore de baunilha madura. Dá frutas na primavera. Só cresce se os 8 espaços adjacentes estiverem vazios.",
+        "ru": "",
+        "tr": "",
+        "zh": "香草树苗。28天成熟为成年香草树。春天成熟。只有在附近8块地块都空置的情况下才会成长。",
+    }
 }

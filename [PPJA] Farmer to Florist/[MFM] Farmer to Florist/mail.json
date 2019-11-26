@@ -1,0 +1,516 @@
+[
+	//Cooking recipes
+	{
+		"Id": "PPJA.VernalTearecipe",
+		"Text": "@,^^I understand that you've been growing some flowers from seeds from the Ferngill Florist's Association, dear. Did you know they can be used in cooking recipes?^^This is a simple one, but was always one of my favorites. There are plenty of other recipes you can use their flowers for, as well. I hope you try making some of them!^^-Granny Evelyn",
+		"Recipe": "Vernal Tea",
+		"WhichBG": 0,"FriendshipConditions":
+		[
+			{ "NpcName": "Evelyn", "FriendshipLevel": 3 }
+		],
+	},
+	{
+		"Id": "PPJA.TeaRecipe",
+		"Text": "Dear @,^^Heard you've been using some of your flowers in your cooking. Here's a favorite recipe of mine. Really warms you up on a cold day!^^-Mayor Lewis",
+		"Recipe": "Tea",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Lewis", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.EstivalTearecipe",
+		"Text": "Hey kid,^^Evelyn mentioned you were makin' some food with the flowers you're growing. My pappy passed this recipe on to me - hope you enjoy it as much as I did.^^-Pam",
+		"Recipe": "Estival Tea",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Pam", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.AutumnalTearecipe",
+		"Text": "@,^^This is a tea recipe that Evelyn brought me one time when she came over to check on me. I don't make tea that often, though, so I figure you'll get more use out of it than I will.^^-Clint",
+		"Recipe": "Autumnal Tea",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Clint", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.HibernalTeaRecipe",
+		"Text": "@,^^Here's a recipe my wife always likes come winter time.^^Try it out if you feel like it.^^-George",
+		"Recipe": "Hibernal Tea",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "George", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.LatteRecipe",
+		"Text": "Hey @,^^I always need a little pick-me-up in the morning, but just plain coffee's a little strong for my taste. I imagine it'll taste even better with fresh milk from your cows!^^-Robin",
+		"Recipe": "Latte",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Robin", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.LilacSconesRecipe",
+		"Text": "@,^^Evelyn shared her tea recipes with me when I was younger, and she and I worked together on a scone recipe utilizing lilac. Maybe you can make some with the lilacs from your farm.^^-Jodi",
+		"Recipe": "Lilac Scones",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Jodi", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.FlowerSodaRecipe",
+		"Text": "Dear @^^Sandy once gave me this recipe for a drink made from flowers! I know it sounds a little strange, but it's really very nice! You should try to make it from the produce on your farm sometime.^^-Emily",
+		"Recipe": "Flower Soda",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Emily", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.HerbCrustedFishRecipe",
+		"Text": "Dear @,^^Living out in the mountains, I have access to a lot of fish. This is a recipe I use when I can - since you've been so kind to me, I'm sharing it with you. I hope you enjoy it.^^-Linus",
+		"Recipe": "Herb-Crusted Fish",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Linus", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.LotusMochiID",
+		"Text": "Dear @,^^Don't usually like to think about things relating to the Gotoro Empire... but while I was there, I did have this dessert. I'm not sure if this will taste exactly like it, but maybe you can nail it.^^-Kent",
+		"Recipe": "Lotus Mochi",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Kent", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.BoiledGreensRecipe",
+		"Text": "@,^^Did you know that all parts of edible flowers can be used in cooking - even their leaves?^^Here's a recipe I make when the flowers for it are in season. It's best when it's lightly salted!^^-Demetrius",
+		"Recipe": "Boiled Greens",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Demetrius", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.RoseNougatRecipe",
+		"Text": "@,^^This recipe has been a family favorite. If you can get honey flavored with rose pollen, it's even better.^^-Marnie",
+		"Recipe": "Rose Nougat",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Marnie", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.SouffleRecipe",
+		"Text": "@,^^This is one of the most challenging recipes I have, but I'm quite proud of it. Souffles aren't easy to make, and having high-quality ingredients is essential - and that shouldn't be a problem for you. I hope you share the results if you give it a try!^^-Gus",
+		"Recipe": "Souffle",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Gus", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.TiramisuRecipe",
+		"Text": "@,^^Abby and Pierre always enjoy when I make this up. Maybe you'll have some success making it yourself.^^-Caroline",
+		"Recipe": "Tiramisu",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Caroline", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "PPJA.StuffedPetalsRecipe",
+		"Text": "Dear @,^^This is a favorite recipe of mine. The fresher the ingredients, the better it will be.^^-Granny Evelyn",
+		"Recipe": "Stuffed Petals",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Evelyn", "FriendshipLevel": 5 }
+		],
+	},
+	//Crafting recipes
+	{
+		"Id": "PPJA.PottedTulipRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Tulip",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Farming", "SkillLevel": 1 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedSummerSpangleRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Summer Spangle",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Farming", "SkillLevel": 4 }
+		]
+	},
+	{
+		"Id": "PPJA.FloristTableRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association^^* Note: you can't actually make anything at this table, it is purely decorative.",
+		"Recipe": "Florist's Table",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Farming", "SkillLevel": 7 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedDandelionRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Dandelion", 
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 1 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedSweetPeaRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Sweet Pea",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 2 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedDaffodilRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Daffodil",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 2 }
+		]
+	},{
+		"Id": "PPJA.PottedDaisyRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Daisy",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 3 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedCrocusRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Crocus",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 3 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedClematisRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Clematis",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 4 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedHibiscuisRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Hibiscus",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 7 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedMagnoliaRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Magnolia",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 8 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedJasmineRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Jasmine",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 8 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedWisteriaRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Wisteria",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 9 }
+		]
+	},
+	{
+		"Id": "PPJA.BouquetOfExuberanceRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Bouquet of Exuberance",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 9 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedVioletRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Violet",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 1 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedLilacRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Lilac",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 2 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedLavenderRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Lavender",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 3 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedPeonyRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Peony",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 4 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedDahliaRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Dahlia",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 4 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedFreesiaRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Freesia",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 6 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedPetuniaRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Petunia",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 6 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedCamelliaRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Camellia",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 7 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedGeraniumRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Geranium",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 7 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedRoseRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Rose",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 8 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedFairyRoseRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Fairy Rose",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 8 }
+		]
+	},
+	{
+		"Id": "PPJA.BouquetOfDevotionRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Bouquet of Devotion",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 9 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedBlueJazzRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Blue Jazz",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Fishing", "SkillLevel": 1 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedAlliumRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Allium",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Fishing", "SkillLevel": 1 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedHyacinthRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Hyacinth",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Fishing", "SkillLevel": 2 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedHydrangeaRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Hydrangea",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Fishing", "SkillLevel": 3 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedLotusRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Lotus",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Fishing", "SkillLevel": 4 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedIrisRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Iris",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Fishing", "SkillLevel": 6 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedDelphiniumRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Delphinium",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Fishing", "SkillLevel": 7 }
+		]
+	},
+	{
+		"Id": "PPJA.BouquetOfLongingRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Bouquet of Longing",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Fishing", "SkillLevel": 9 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedSunflowerRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Sunflower",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Combat", "SkillLevel": 1 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedPoppyRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Poppy",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Combat", "SkillLevel": 2 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedCarnation",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Carnation",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Combat", "SkillLevel": 3 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedChrysanthemumRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Chrysanthemum",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Combat", "SkillLevel": 4 }
+		]
+	},
+	{
+		"Id": "PPJA.PottedLilyRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Potted Lily",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Combat", "SkillLevel": 6 }
+		]
+	},
+	{
+		"Id": "PPJA.BouquetOfHopeRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Bouquet of Hope",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Combat", "SkillLevel": 7 }
+		]
+	},
+	{
+		"Id": "PPJA.BouquetOfPurityRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Bouquet of Purity",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Combat", "SkillLevel": 8 }
+		]
+	},
+	{
+		"Id": "PPJA.BouquetOfPassionRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Bouquet of Passion",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Combat", "SkillLevel": 9 }
+		]
+	}
+]

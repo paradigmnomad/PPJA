@@ -1,9 +1,0 @@
-{
-  "Name": "Dried Poison",
-  "Description": "A small bag filled with dried flowers that are known to be poisonous. Use with caution.",
-  "Category": "ArtisanGoods",
-  "Edibility": -300,
-  "Price": 25,
-  "IsColored": false,
-  "Recipe": null
-}

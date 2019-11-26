@@ -1,0 +1,80 @@
+{
+    "Name": "The Mayor's Shorts",
+    "Description": "From the Stardew Valley Pixel to Plate menu.",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -1,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 100,
+    },
+    "Price": 470,
+    "IsColored": false,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 470,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Tequila",
+            "Count": 1,
+        },
+        {
+            "Object": "Lime",
+            "Count": 1,
+        },
+        {
+            "Object": "Watermelon",
+            "Count": 1,
+        },
+        {
+            "Object": "Shaded Violet",
+            "Count": 1,
+        },
+      ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 940,
+        "PurchaseRequirements": ["f Krobus 1000", ],
+    },
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
+}

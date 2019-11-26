@@ -1,0 +1,43 @@
+{
+    "Name": "Gooseberry",
+    "Description": "A large round berry that makes for tasty pies.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 20,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Maru", "Robin", "Demetrius"],
+        "Like": ["Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Grosella",
+        "ko": "구즈베리",
+        "de": "Stachelbeere",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Groselha",
+        "ru": "",
+        "tr": "",
+        "zh": "醋栗",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una baya grande y redonda, se usa para preparar sabrosos pasteles.",
+        "ko": "맛있는 파이를 만드는 매우 큰 베리",
+        "de": "Eine große Runde Beere, ein sehr leckerer Belag für Kuchen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma grande baga redonda que dá sabor a tortas.",
+        "ru": "",
+        "tr": "",
+        "zh": "一种大的圆形浆果，用来做美味的馅饼。",
+    }
+}

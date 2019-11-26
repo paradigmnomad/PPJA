@@ -1,0 +1,53 @@
+{
+    "Name": "Chickpea",
+    "Product": "Chickpea",
+    "SeedName": "Chickpea Seeds",
+    "SeedDescription": "Plant these in spring. Takes 10 days to mature, and keeps producing after the first harvest.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer"],
+    "Phases": [2, 2, 3, 2, 1],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 200,
+    "SeedPurchaseRequirements": [
+        "y 4",
+    ],
+    "SeedNameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "Bouquet of Devotion",
+    "Description": "A bouquet of magenta-colored flowers. It's meant to show one's devotion to another.",
+    "Category": "Crafting",
+    "Edibility": -300,
+    "Price": 1500,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Lilac",
+            "Count": 1,
+        },
+        {
+            "Object": "Lotus",
+            "Count": 1,
+        },
+        {
+            "Object": "Lavender",
+            "Count": 1,
+        },
+        {
+            "Object": "Violet",
+            "Count": 1,
+        }, ],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Harvey", "Emily"],
+        "Like": ["Leah", "Abigail", "Elliott", "Penny", "Maru", "Shane", "Alex", "Sam", "Sebastian", "Haley"],
+        "Neutral": ["Linus", "Wizard", "Gus", "Willy", "Dwarf", "Krobus", "Sandy"],
+        "Dislike": ["Demetrius", "Evelyn", "Caroline", "Kent", "Lewis", "Marnie", "Robin", "Pam", "Pierre", "Jas", "Vincent"],
+        "Hate": ["George", "Clint", "Jodi"]
+    },
+    "NameLocalization":
+    {
+        "es": "Ramo de la devoción",
+        "ko": "헌신의 꽃다발",
+        "de": "Strauß der Hingabe",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Buquê de Devoção",
+        "ru": "",
+        "tr": "",
+        "zh": "忠贞花束",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un ramo de flores de color magenta. Está destinado a mostrar la devoción de uno a otro.",
+        "ko": "자홍색 꽃의 꽃다발입니다. 그것은 한 사람의 헌신을 다른 사람에게 받치기 위한 것입니다.",
+        "de": "Ein Strauß magentafarbener Blumen. Es soll zeigen, dass man sich einem anderen hingibt.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um buquê de flores de cor magenta. É para mostrar a devoção de alguém para outro.",
+        "ru": "",
+        "tr": "",
+        "zh": "一束品红色的花，它象征着一个人对另一个人的忠诚。",
+    }
+}

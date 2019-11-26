@@ -1,0 +1,67 @@
+{
+    "Name": "Bouquet of Passion",
+    "Description": "A bouquet of deep red flowers to symbolize burning passion.",
+    "Category": "Crafting",
+    "Edibility": -300,
+    "Price": 2000,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "English Rose",
+            "Count": 1
+        },
+        {
+            "Object": "Carnation",
+            "Count": 1,
+        },
+        {
+            "Object": "Freesia",
+            "Count": 1,
+        },
+        {
+            "Object": 402,
+            "Count": 1,
+        }, ],
+        "CanPurchase": false,
+        "PurchaseFrom": "Robin",
+    },
+    "GiftTastes":
+    {
+        "Love": ["Haley", "Abigail", "Alex", "Sam"],
+        "Like": ["Leah", "Harvey", "Emily", "Elliott", "Penny", "Maru", "Shane", "Sebastian"],
+        "Neutral": ["Linus", "Wizard", "Gus", "Willy", "Dwarf", "Krobus", "Sandy"],
+        "Dislike": ["Demetrius", "Evelyn", "Caroline", "Kent", "Lewis", "Marnie", "Robin", "Pam", "Pierre", "Jas", "Vincent"],
+        "Hate": ["George", "Clint", "Jodi"]
+    },
+    "NameLocalization":
+    {
+        "es": "Ramo de pasión",
+        "ko": "열정의 꽃다발",
+        "de": "Blumenstrauß aus Leidenschaft",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Buquê da Paixão",
+        "ru": "",
+        "tr": "",
+        "zh": "热情花束",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un ramo de flores de color rojo oscuro para simbolizar la ardiente pasión.",
+        "ko": "타오르는 정열을 상징하는 깊고 붉은 꽃다발.",
+        "de": "Ein Bouquet von tiefroten Blumen als Symbol für brennende Leidenschaft.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um buquê de flores vermelhas profundas para simbolizar paixão ardente.",
+        "ru": "",
+        "tr": "",
+        "zh": "象征着热情的深红色花束。",
+    }
+}

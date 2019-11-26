@@ -1,0 +1,41 @@
+{
+    "Name": "Soy Sauce",
+    "Description": "A traditional condiment.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 200,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Salsa de soja",
+        "ko": "",
+        "de": "Sojasauce",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "酱油",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un condimento tradicional.",
+        "ko": "",
+        "de": "Eine traditionelle Würze.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "传统的调味品。",
+    }
+}

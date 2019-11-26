@@ -42,11 +42,33 @@
         "Count": 1,
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 5730,
-    "PurchaseRequirements": [
-"f Haley 1000",
-],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Cosmo",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "大都会",
+  },
+ "DescriptionLocalization": { 
+    "es": "Un cóctel hecho con vodka, jugo de arándano y jugo de limón recién exprimido o endulzado.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "大都会。用伏特加、蔓越莓汁和新鲜挤压或甜甜的酸橙汁制成的鸡尾酒。",
   }
 }

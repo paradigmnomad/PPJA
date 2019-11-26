@@ -1,0 +1,53 @@
+{
+    "Name": "Lavender",
+    "Product": "Lavender",
+    "SeedName": "Lavender Seeds",
+    "SeedDescription": "Plant in summer. Takes 13 days to produce small, purple flowers.",
+    "Type": "Flower",
+
+    "Seasons": ["summer"],
+    "Phases": [ 1, 2, 3, 4, 3 ],
+	"RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": [
+		"200, 150, 255, 255",
+		"150, 50, 255, 255",
+		"254, 254, 254, 255"
+	],
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+	"SeedPurchaseRequirements": null,
+    "SeedPurchasePrice": 50,
+    "SeedNameLocalization": { 
+    "es": "Semillas de lavanda",
+    "ko": "라벤더 씨앗",
+    "de": "Lavendelsamen",
+    "fr": "Graines de lavande",
+    "hu": "",
+    "it": "",
+    "ja": "ラベンダーの種",
+    "pt": "Semente de lavanda",
+    "ru": "",
+    "tr": "",
+    "zh": "薰衣草种子",
+    },
+"SeedDescriptionLocalization": { 
+    "es": "Plántalas en verano. Toma 13 días para producir pequeñas flores púrpura.",
+    "ko": "여름에 심습니다. 13일후에 작고 보라색의 꽃이 핍니다.",
+    "de": "Im Sommer pflanzen. Es dauert 13 Tage, um kleine, violette Blüten zu produzieren.",
+    "fr": "Plantez en été. Il faut 13 jours pour produire de petites fleurs violettes.",
+    "hu": "",
+    "it": "",
+    "ja": "夏に植えます。小さな紫色の花を作るのに13日かかります。",
+    "pt": "Plante-a  no verão. Demoram 13 dias para nascer uma flor roxa.",
+    "ru": "",
+    "tr": "",
+    "zh": "夏天下种。13天产出小巧的紫色花朵。",
+    }
+}

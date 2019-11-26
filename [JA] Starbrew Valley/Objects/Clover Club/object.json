@@ -47,5 +47,32 @@
     "PurchasePrice": 5680,
     "PurchaseRequirements": ["y 2",
 ],
+  },
+
+ "NameLocalization": { 
+    "es": "Clover Club",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "富豪俱乐部",
+  },
+ "DescriptionLocalization": { 
+    "es": "No es necesario que sea el día de San Patricio para disfrutar de esta bebida.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "富豪俱乐部。不需要圣帕特里克这天才来享受这种饮料。",
   }
 }

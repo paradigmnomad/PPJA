@@ -1,26 +1,55 @@
 {
-  "Name": "Surimi",
-  "Description": "Minced fish that have been worked into a paste.",
-  "Category": "Cooking",
-  "Edibility": 56,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 250,
-  "IsColored": false,
-  "GiftTastes": {
-	"Love": ["Sebastian"],
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
-	"Dislike": ["Willy"],
-	"Hate": ["Emily", "Evelyn", "Kent", "Krobus"],
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": -4,
-        "Count": 1,
-      }
-    ],
-   "IsDefault": true,
-  }
+    "Name": "Surimi",
+    "Description": "Minced fish that have been worked into a paste.",
+    "Category": "Cooking",
+    "Edibility": 56,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 250,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Willy"],
+        "Hate": ["Emily", "Evelyn", "Kent", "Krobus"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": -4,
+            "Count": 1,
+        }],
+        "IsDefault": true,
+    },
+    "NameLocalization":
+    {
+        "es": "Surimi",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Surimi",
+        "ru": "",
+        "tr": "",
+        "zh": "蟹棒",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Pescado en pasta.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um peixe picado que foi transformado em pasta.",
+        "ru": "",
+        "tr": "",
+        "zh": "蟹棒。已加工成糊状的鱼肉糜。",
+    }
 }

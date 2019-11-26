@@ -1,0 +1,47 @@
+{
+    "Name": "Granny Smith Apple",
+    "Description": "The flavor is tart and acidic, but it makes for a good baking apple.",
+    "Category": "Fruit",
+    "Edibility": 17,
+    "Price": 100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Caroline", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Linus", "Pierre", "Vincent", "Sandy", "Abigail", "Alex", "Clint", "Demetrius", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Robin", "Dwarf", "Elliott", "Krobus", "Sam", "Sebastian", "Shane", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Manzano Granny Smith",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "El sabor es agrio y ácido, pero es una buena manzana de repostería.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_yellow_green",
+        "fruit_tree_item",
+        "fruit_item",
+    ]
+}

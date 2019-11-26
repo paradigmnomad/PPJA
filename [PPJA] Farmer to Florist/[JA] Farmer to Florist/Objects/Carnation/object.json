@@ -1,0 +1,44 @@
+{
+    "Name": "Carnation",
+    "Description": "A fragile flower that blooms in spring and summer. Each color holds a special meaning.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 140,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Caroline", "Jodi", "Marnie"],
+        "Like": ["Elliott", "Harvey", "Sam", "Emily", "Haley", "Leah", "Penny", "Abigail", "Demetrius", "Evelyn", "Jas", "Kent", "Lewis", "Linus", "Robin", "Sandy"],
+        "Neutral": ["Alex", "Shane", "Maru", "Dwarf", "Gus", "Krobus", "Pam", "Pierre", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Sebastian", "Clint", "George"],
+    },
+    "NameLocalization":
+    {
+        "es": "Clavel",
+        "ko": "카네이션",
+        "de": "Nelke",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Cravo",
+        "ru": "",
+        "tr": "",
+        "zh": "康乃馨",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una flor frágil que florece en primavera y verano. Cada color tiene un significado especial.",
+        "ko": "봄과 여름에 피는 섬세한 꽃. 각각의 색깔은 특별한 의미를 가지고 있다.",
+        "de": "Eine zerbrechliche Blume, die im Frühling und Sommer blüht. Jede Farbe hat eine besondere Bedeutung.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma flor frágil que floresce na primavera e no verão. Cada cor tem um significado especial.",
+        "ru": "",
+        "tr": "",
+        "zh": "春天和夏天盛开的一朵纤弱的花。每种颜色都有特殊的寓意。",
+    }
+}

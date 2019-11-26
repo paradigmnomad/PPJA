@@ -1,0 +1,51 @@
+{
+    "Name": "Sweet_Potato",
+    "Product": "Sweet Potato",
+    "SeedName": "Sweet Potato Seeds",
+
+    "SeedDescription": "Plant these in the fall. Takes 8 days to mature.",
+    "Type": "Vegetable",
+
+    "Seasons": ["fall"],
+    "Phases": [1, 2, 2, 2, 1],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 90,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de camote",
+        "ko": "고구마 씨앗",
+        "de": "Yam-Saat",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Sementes de batata doce",
+        "ru": "",
+        "tr": "",
+        "zh": "红薯种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 8 días para madurar.",
+        "ko": "가을 작물. 성장하려면 8일이 소요됩니다.",
+        "de": "Pflanzen sie im Herbst. Wächst in 8 Tagen heran.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as no outono. Demora 8 dias para amadurecer.",
+        "ru": "",
+        "tr": "",
+        "zh": "秋天播种。8天成熟。",
+    }
+}

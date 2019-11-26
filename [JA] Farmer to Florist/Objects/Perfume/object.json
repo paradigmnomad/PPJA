@@ -1,9 +1,0 @@
-{
-  "Name": "Perfume",
-  "Description": "An enchanting scent in a bottle.",
-  "Category": "ArtisanGoods",
-  "Edibility": -300,
-  "Price": 75,
-  "IsColored": false,
-  "Recipe": null
-}

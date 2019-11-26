@@ -1,0 +1,43 @@
+{
+    "Name": "Celery",
+    "Description": "Crisp and refreshing, it has little inherent taste on its own.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 70,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Harvey"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Apio",
+        "ko": "샐러리",
+        "de": "Sellerie",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Aipo",
+        "ru": "",
+        "tr": "",
+        "zh": "芹菜",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Crujiente y refrescante, tiene poco sabor inherente por sí mismo.",
+        "ko": "신선한 맛이 나며, 그 자체로 고유의 맛은 거의 없습니다.",
+        "de": "Knackig und erfrischend, hat wenig Eigengeschmack.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Crocante e refrescante, possui um sabor especial.",
+        "ru": "",
+        "tr": "",
+        "zh": "清爽提神，本身就没有什么内在的味道。",
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Cashew Butter",
+    "Description": "A crunchy butter with bits of cashew inside.",
+    "Category": "ArtisanGoods",
+    "Edibility": 18,
+    "Price": 175,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Alex", "Leah"],
+        "Like": ["Abigail", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Mantequilla de anacardo",
+        "ko": "",
+        "de": "Kaschew Butter",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "腰果奶油",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una mantequilla crujiente con trozos de anacardo dentro.",
+        "ko": "",
+        "de": "Eine knusprige Butter mit Kashewnüssen drin.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "里面有一些腰果。",
+    }
+}

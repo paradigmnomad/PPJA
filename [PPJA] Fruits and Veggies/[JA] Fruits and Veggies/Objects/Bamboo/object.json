@@ -1,0 +1,37 @@
+{
+    "Name": "Bamboo",
+    "Description": "The shoots of this plant are edible. It grows incredibly quickly.",
+    "Category": "Vegetable",
+    "Edibility": 20,
+    "Price": 55,
+    "IsColored": false,
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
+}

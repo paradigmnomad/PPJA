@@ -38,10 +38,33 @@
         "Count": 1,
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 1000,
-    "PurchaseRequirements": ["f Jodi 750",
-],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Brandy Alexander",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "白兰地亚历山大",
+  },
+ "DescriptionLocalization": { 
+    "es": "John Lennon una vez llamó a esto su bebida favorita.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "白兰地亚历山大。约翰列侬曾一度称这是他最喜欢的鸡尾酒。",
   }
 }

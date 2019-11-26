@@ -19,9 +19,7 @@
   },
   "Price": 1200,
   "IsColored": false,
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 1525,
+    "CanPurchase": false,
   "Recipe": {
     "ResultCount": 1,
     "Ingredients": [
@@ -42,11 +40,33 @@
         "Count": 1,
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 6200,
-    "PurchaseRequirements": ["y 2",
-"f Haley 1750",
-],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Brisa marina",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "海风",
+  },
+ "DescriptionLocalization": { 
+    "es": "Similar a un Brisa bahía, pero con jugo de toronja.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "海风。类似于海湾微风，但这款里面有西柚汁。",
   }
 }

@@ -30,5 +30,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1400,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Soda de lima limón",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "柠檬酸橙苏打水",
+  },
+ "DescriptionLocalization": { 
+    "es": "Una bebida carbonatada con sabor cítrico.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "柠檬酸橙苏打水。一种柠檬味的碳酸饮料。",
   }
 }

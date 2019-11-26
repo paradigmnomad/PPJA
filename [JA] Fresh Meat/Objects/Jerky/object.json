@@ -11,4 +11,31 @@
 	"Hate": ["Sebastian"],
   },
   "Recipe": null,
+
+ "NameLocalization": { 
+    "es": "Jerky",
+    "ko": "육포",
+    "de": "Jerky",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "肉干",
+  },
+ "DescriptionLocalization": { 
+    "es": "Tiras de carne seca.",
+    "ko": "말린 소고기 조각.",
+    "de": "Streifen von luftgetrockneten Fleisch.",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "这是牛肉干。",
+  }
 }

@@ -1,0 +1,44 @@
+{
+    "Name": "Butternut Squash",
+    "Description": " It has a sweet, nutty taste similar to that of a pumpkin.",
+    "Category": "Vegetable",
+    "Edibility": 20,
+    "Price": 440,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Clint", "Demetrius", "Harvey", "Jodi", "Leah", "Linus", "Maru", "Robin"],
+        "Neutral": ["Alex", "Caroline", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Kent", "Lewis", "Marnie", "Pam", "Pierre", "Penny", "Sandy", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "George", "Krobus", "Sam", "Sebastian"],
+        "Hate": ["Jas", "Vincent"]
+    },
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
+}

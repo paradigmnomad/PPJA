@@ -1,0 +1,43 @@
+{
+    "Name": "Smooth Peanut Butter",
+    "Description": "The classic staple. Ground to a silky smooth texture.",
+    "Category": "ArtisanGoods",
+    "Edibility": 14,
+    "Price": 175,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Harvey", "Kent", "Leah", "Linus", "Vincent"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "NameLocalization":
+    {
+        "es": "Mantequilla de maní suave",
+        "ko": "",
+        "de": "Erdnussbutter",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "花生黄油",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Molido en una textura suave y sedosa.",
+        "ko": "",
+        "de": "Der Klassiker. Fein gemahlen, streich zart.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "经典的主食搭配。",
+    }
+}

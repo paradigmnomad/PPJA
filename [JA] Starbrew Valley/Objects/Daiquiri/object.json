@@ -42,5 +42,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5630,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Daiquiri",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "得其利",
+  },
+ "DescriptionLocalization": { 
+    "es": "Una bebida dulce de ron y fruta.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "得其利。朗姆酒和水果的甜酒。",
   }
 }

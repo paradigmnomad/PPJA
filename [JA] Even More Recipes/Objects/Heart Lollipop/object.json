@@ -1,32 +1,61 @@
 {
-  "Name": "Heart Lollipop",
-  "Description": "A strawberry flavored, heart shaped lollipop.",
-  "Category": "Cooking",
-  "Edibility": 38,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 320,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Gus", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-	"Neutral": ["Evelyn", "George", "Haley", "Harvey", "Leah"],
-	"Dislike": ["Krobus", "Willy"],
-	},
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 400,
-        "Count": 1,
-      },
-      {
-        "Object": 245,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 1320,
-    "PurchaseRequirements": null,
-  }
+    "Name": "Heart Lollipop",
+    "Description": "A strawberry flavored, heart shaped lollipop.",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 320,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Gus", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Evelyn", "George", "Haley", "Harvey", "Leah"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 400,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1320,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Paleta corazón",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Pirulito de coração",
+        "ru": "",
+        "tr": "",
+        "zh": "心形棒棒糖",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una paleta con sabor a fresa, en forma de corazón.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um pirulito com sabor de morango e em forma de coração.",
+        "ru": "",
+        "tr": "",
+        "zh": "心形棒棒糖。一种草莓味的心形棒棒糖。",
+    }
 }

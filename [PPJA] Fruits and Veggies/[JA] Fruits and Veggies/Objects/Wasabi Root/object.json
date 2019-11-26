@@ -1,0 +1,45 @@
+{
+    "Name": "Wasabi Root",
+    "Description": "It's got a kick to it!",
+    "Category": "Vegetable",
+    "Edibility": -300,
+    "Price": 165,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Krobus"],
+        "Like": ["Harvey", "Leah", "Linus", "Shane"],
+        "Neutral": ["Demetrius", "Emily", "Jodi", "Kent", "Maru", "Penny", "Sandy"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Lewis", "Marnie", "Pam", "Pierre", "Robin", "Sam", "Sebastian", "Willy", "Wizard"],
+        "Hate": ["Haley", "Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Raíz de wasabi",
+        "ko": "와사비 뿌리",
+        "de": "Wasabiwurzel",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Raiz de wasabi",
+        "ru": "",
+        "tr": "",
+        "zh": "山萮菜",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Arde como el infierno!",
+        "ko": "초밥에 빼먹을 수 없는 것!",
+        "de": "Das gibt dir nen Kick!",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "É uma iguaria capaz de fazer muito marmanjo lacrimejar!",
+        "ru": "",
+        "tr": "",
+        "zh": "这是一种乐趣！也叫山葵，日本辣根，是极为珍贵的调味食品。（在日本作为一种高级的调味料如芥末一样被食用）",
+    }
+}

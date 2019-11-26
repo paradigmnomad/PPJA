@@ -31,5 +31,32 @@
     "PurchasePrice": 800,
     "PurchaseRequirements": [
       "z winter"]
+  },
+
+ "NameLocalization": { 
+    "es": "Huevos con tocino",
+    "ko": "베이컨과 계란후라이",
+    "de": "Eier und Speck",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "熏肉培根和鸡蛋",
+  },
+ "DescriptionLocalization": { 
+    "es": "Nada como el tocino y los huevos en una fría mañana.",
+    "ko": "추운 아침에 베이컨이나 계란후라이만 있으면 아무 문제 없습니다.",
+    "de": "Es gibt nichts besseres.",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "熏肉培根和鸡蛋。没有比熏肉培根和鸡蛋更棒的早餐了。",
   }
 }

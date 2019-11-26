@@ -1,0 +1,54 @@
+{
+    "Name": "Aloe",
+    "Product": "Aloe",
+    "SeedName": "Aloe Pod",
+    "SeedDescription": "Plant these in summer. Takes 4 days to mature.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 1, 1, 1],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchaseFrom": "Harvey",
+    "SeedPurchasePrice": 100,
+    "SeedPurchaseRequirements": [
+        "y 2",
+    ],
+    "SeedNameLocalization":
+    {
+        "es": "Vaina de aloe",
+        "ko": "알로에 포트",
+        "de": "Aloe-Saat",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Sementes de babosa",
+        "ru": "",
+        "tr": "",
+        "zh": "芦荟果荚",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 4 días para madurar.",
+        "ko": "여름 작물. 성장하려면 4일이 소요됩니다.",
+        "de": "Pflanzen sie im Sommer. Wächst in 4 Tagen heran.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as no verão. Demora 4 dias para amadurecer.",
+        "ru": "",
+        "tr": "",
+        "zh": "夏天播种。4天成熟。",
+    }
+}

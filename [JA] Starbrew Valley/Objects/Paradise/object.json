@@ -38,10 +38,33 @@
         "Count": 1,
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 5700,
-    "PurchaseRequirements": ["f Emily 2000",
-],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Paraíso",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "天堂乐园",
+  },
+ "DescriptionLocalization": { 
+    "es": "Siento que estoy en el paraíso.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "天堂乐园。我感觉我在天堂里。",
   }
 }

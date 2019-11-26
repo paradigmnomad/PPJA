@@ -1,9 +1,8 @@
 {
    "Name": "More Food: A Collection of Recipes for JsonAssets",
-   "Author": "ParadigmNomad and MizuJakkaru",
+   "Author": "Project Populate Json Assets",
    "Description": "A port of Mizu's recipe sprites for JsonAssets",
-   "Version": "1.8.1",
-   "MinimumApiVersion": "2.10.1",
+   "Version": "1.9.0",
    "UniqueID": "paradigmnomad.morefood",
    "ContentPackFor": {
       "UniqueID": "spacechase0.JsonAssets"

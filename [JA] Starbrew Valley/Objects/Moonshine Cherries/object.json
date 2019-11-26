@@ -31,10 +31,33 @@
         "Count": 3,
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 3700,
-    "PurchaseRequirements": ["f Leah 1750",
-],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Moonshine con cerezas",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "摩闪樱桃",
+  },
+ "DescriptionLocalization": { 
+    "es": "Cerezas borrachas.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "摩闪樱桃。喝醉酒的樱桃。",
   }
 }

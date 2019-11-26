@@ -1,41 +1,69 @@
 {
-  "Name": "Sriracha",
-  "Description": "An even spicier sauce.",
-  "Category": "Cooking",
-  "Edibility": 38,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 180,
-  "IsColored": false,
-  "GiftTastes": {
-	"Love": ["Lewis", "Shane"],
-    "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Willy", "Wizard"],
-	"Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 419,
-        "Count": 1,
-       },
-{
-        "Object": 245,
-        "Count": 1,
-       },
-{
-        "Object": 248,
-        "Count": 1,
-       },
-{
-        "Object": 260,
-        "Count": 2,
-       }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 860,
-    "PurchaseRequirements": null,
-
-  }
+    "Name": "Sriracha",
+    "Description": "An even spicier sauce.",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 180,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Lewis", "Shane"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 419,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": 248,
+            "Count": 1,
+        },
+        {
+            "Object": 260,
+            "Count": 2,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 860,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Sriracha",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Molho sriracha",
+        "ru": "",
+        "tr": "",
+        "zh": "Sriracha辣椒酱",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una salsa aún más picante.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um molho ainda mais picante.",
+        "ru": "",
+        "tr": "",
+        "zh": "Sriracha辣椒酱。这是一种很辣的酱汁。",
+    }
 }

@@ -1,0 +1,65 @@
+{
+    "Name": "Cake Pops",
+    "Description": "A little bit of cakey delight atop a lollipop stick. You're gonna want more than one.",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 650,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": 176,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 700,
+        "PurchaseRequirements": [
+            "f Jas 750",
+        ],
+    },
+    "NameLocalization":
+    {
+        "es": "Paletas de pastel",
+        "ko": "",
+        "de": "Cake Pops",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "蛋糕冰棒",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un placentero y delicioso pastel puesto en un palito. Vas a querer más de uno.",
+        "ko": "",
+        "de": "Ein bisschen Kuchengenuss auf einem Lutscherstäbchen. Du wirst mehr als eins wollen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "棒棒糖棒上放些蛋糕蛋糕。您想要多个。",
+    }
+}

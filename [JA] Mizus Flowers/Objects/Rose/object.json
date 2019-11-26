@@ -1,13 +1,42 @@
 {
-  "Name": "Rose",
-  "Description": "A rose by any other name would smell as sweet.",
-  "Category": "Flower",
-  "Edibility": 18,
-  "Price": 320,
-  "IsColored": false,
-  "Recipe": null,
-  "GiftTastes": {
-	"Love": ["Evelyn", "Jodi", "Penny"],
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Haley", "Harvey", "Jas", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
-  },
-}
+    "Name": "Rose",
+    "Description": "A rose by any other name would smell as sweet.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 55,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Evelyn", "Jodi", "Penny", "Haley"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Harvey", "Jas", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Rosa",
+        "ko": "장미",
+        "de": "Rose",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Rosa",
+        "ru": "",
+        "tr": "",
+        "zh": "玫瑰",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una dulce flor, con un olor irresistible.",
+        "ko": "장미는 이름이 장미가 아니더라도 향기롭기는 매한가지일 것이다",
+        "de": "Frauen lieben sie, pass aber auf die Dornen auf.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma rosa de qualquer outro nome poderia ter um cheiro tão doce como essa.",
+        "ru": "",
+        "tr": "",
+        "zh": "玫瑰闻起来都是甜的。",
+    }
+} 

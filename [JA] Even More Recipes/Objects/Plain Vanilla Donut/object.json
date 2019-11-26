@@ -1,41 +1,71 @@
 {
-  "Name": "Plain Vanilla Donut",
-  "Description": "A plain vanilla donut.",
-  "Category": "Cooking",
-  "Edibility": 32,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 500,
-  "IsColored": false,
-  "GiftTastes": {
-	"Love": ["Abigail", "Caroline"],
-    "Like": ["Alex", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-	"Dislike": ["Krobus", "Willy"],
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Vanilla",
-        "Count": 1,
-      },
-      
-{
-        "Object": 246,
-        "Count": 1,
-      },
-{
-        "Object": 245,
-        "Count": 1,
-      },
-{
-        "Object": -5,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 2500,
-    "PurchaseRequirements": null,
-  }
+    "Name": "Plain Vanilla Donut",
+    "Description": "A plain vanilla donut.",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 500,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Caroline"],
+        "Like": ["Alex", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": "Vanilla",
+                "Count": 1,
+            },
+
+            {
+                "Object": 246,
+                "Count": 1,
+            },
+            {
+                "Object": 245,
+                "Count": 1,
+            },
+            {
+                "Object": -5,
+                "Count": 1,
+            }
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2500,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Dona de vainilla simple",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Donut simples de baunilha",
+        "ru": "",
+        "tr": "",
+        "zh": "平底香草甜甜圈",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una simple dona de vainilla.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um donut simples de baunilha.",
+        "ru": "",
+        "tr": "",
+        "zh": "平底香草甜甜圈。一个平底香草甜甜圈。",
+    }
 }

@@ -1,12 +1,59 @@
 {
-  "Name": "Mango",
-  "Description": "An irresistibly sweet tropical fruit that has a tangy orange flesh.",
-  "Category": "Fruit",
-  "Edibility": 15,
-  "Price": 135,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin","Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
-  },
-  "Recipe": null,
+    "Name": "Mango",
+    "Description": "An irresistibly sweet tropical fruit that has a tangy orange flesh.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 135,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+
+    "NameLocalization":
+    {
+        "es": "Mango"
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una fruta tropical irresistiblemente dulce que tiene una carne anaranjada ácida."
+    },
+    "NameLocalization":
+    {
+        "es": "Mango",
+        "ko": "망고",
+        "de": "Mango",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Manga",
+        "ru": "",
+        "tr": "",
+        "zh": "芒果",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una fruta tropical irresistiblemente dulce que tiene una carne anaranjada ácida.",
+        "ko": "톡 쏘는 오렌지색 껍질을 가진 거부할 수 없을 정도로 달콤한 열대 과일.",
+        "de": "Eine unwiderstehlich süße tropische Frucht, die ein würziges oranges Fleisch hat.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma fruta tropical irresistivelmente doce que tem uma polpa alaranjada picante.",
+        "ru": "",
+        "tr": "",
+        "zh": "一种无法抗拒的甜热带水果，它有一种味道强烈的橙色果肉。",
+    },
+    "ContextTags": [
+        "season_summer",
+        "crop_year_two",
+        "fruit_tree_year_two",
+        "color_gold",
+        "fruit_tree_item",
+        "fruit_item",
+        "dye_medium"
+    ]
 }

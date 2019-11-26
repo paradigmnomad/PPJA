@@ -1,13 +1,47 @@
 {
-  "Name": "Fairy Duster",
-  "Description": "It is said it looks like a fairy's skirt. A plant from far away arid plains.",
-  "Category": "Flower",
-  "Edibility": 18,
-  "Price": 50,
-  "IsColored": true,
-  "Recipe": null,
-  "GiftTastes": {
-	"Love": ["Jas"],
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
-  },
+    "Name": "Fairy Duster",
+    "Description": "It is said it looks like a fairy's skirt. A plant from far away arid plains.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 50,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Jas", "Sandy"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Calliandra",
+        "ko": "페어리 더스터",
+        "de": "Feen Wedel",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Espanador de fadas",
+        "ru": "",
+        "tr": "",
+        "zh": "朱缨花",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Se dice que parece la falda de un hada. Una planta de lejanas llanuras áridas.",
+        "ko": "요정의 치마처럼 생겼다고 한다. 먼 곳의 건조한 평야에서 온 식물.",
+        "de": "Wächst sonst nur in trockenen Gebieten.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Dizem que parece uma saia de fada. Uma planta de longe, provavelmente das planícies áridas.",
+        "ru": "",
+        "tr": "",
+        "zh": "据说它看起来像仙女的裙子。一种来自遥远的干旱平原的植物。",
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_pink",
+        "flower_item",
+    ]
 }

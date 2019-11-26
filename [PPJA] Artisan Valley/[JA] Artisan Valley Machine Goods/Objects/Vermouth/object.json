@@ -1,0 +1,60 @@
+{
+    "Name": "Vermouth",
+    "Description": "Wine fortified with spirits. Drink in moderation.",
+    "Category": "ArtisanGoods",
+    "Edibility": 28,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 180,
+    },
+    "Price": 400,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Pam", "Shane"],
+        "Like": ["Gus"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Dislike": ["Penny"],
+        "Hate": ["Vincent", "Jas"]
+    },
+    "NameLocalization":
+    {
+        "es": "Vermú",
+        "ko": "",
+        "de": "Wermut",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "味美思酒",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Vino fortificado. Beber con moderación.",
+        "ko": "",
+        "de": "Mit Spirituosen angereicherter Wein. Genieße Ihn in Maßen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "酒能提高你的精神。适量饮酒。",
+    }
+}

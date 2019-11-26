@@ -1,0 +1,43 @@
+{
+    "Name": "Thunder Mayonnaise",
+    "Description": "It's electric!",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "EdibleIsDrink": false,
+    "Price": 230,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Krobus", "Dwarf", "Wizard", "Abigail"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Haley", "Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Mayonesa trueno",
+        "ko": "",
+        "de": "Donner Mayonnaise",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "雷电蛋黄酱",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Es eléctrico!",
+        "ko": "",
+        "de": "Es ist elektrisch!",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "它有电！",
+    }
+}

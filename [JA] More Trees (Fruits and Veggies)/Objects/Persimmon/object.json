@@ -1,13 +1,50 @@
 {
-  "Name": "Persimmon",
-  "Description": "A somewhat uncommon fruit filled with a honey-like flavor.",
-  "Category": "Fruit",
-  "Edibility": 15,
-  "Price": 155,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus",  "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
-	"Dislike": ["Maru"],
-  },
-  "Recipe": null,
+    "Name": "Persimmon",
+    "Description": "A somewhat uncommon fruit filled with a honey-like flavor.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 155,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Maru"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Caqui",
+        "ko": "감",
+        "de": "Kaki",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Caqui",
+        "ru": "",
+        "tr": "",
+        "zh": "柿子",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una fruta poco común llena de sabor a miel.",
+        "ko": "꿀과 같은 풍미로 가득 찬 보기 드문 과일.",
+        "de": "Eine etwas ungewöhnliche Frucht, mit eine honigartigen Füllung.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma fruta um tanto incomum, cheia de sabor parecido com mel.",
+        "ru": "",
+        "tr": "",
+        "zh": "一种不常见的水果，里面充满了蜂蜜般的味道。",
+    },
+    "ContextTags": [
+        "season_winter",
+        "color_orange",
+        "fruit_tree_item",
+        "fruit_item",
+        "dye_medium",
+        "honey_item"
+    ]
 }

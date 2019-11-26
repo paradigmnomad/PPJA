@@ -1,43 +1,73 @@
 {
-  "Name": "Banana Bread",
-  "Description": "It�s rich and moist!",
-  "Category": "Cooking",
-  "Edibility": 90,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 820,
-  "IsColored": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": -5,
-        "Count": 1,
-      },
-      {
-        "Object": "Banana",
-        "Count": 1,
-      },
-      {
-        "Object": 246,
-        "Count": 1,
-      },
-      {
-        "Object": "Brown Sugar",
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 2820,
-    "PurchaseRequirements": [
-      "r 0.50",
-    ]
-  },
-  "GiftTastes": {
-	"Love": ["Evelyn", "Jodi"],
-	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Haley", "Harvey", "Jas", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-	"Neutral": ["Leah"],
-	"Dislike": ["Krobus", "Willy"],
-  }
+    "Name": "Banana Bread",
+    "Description": "It’s rich and moist!",
+    "Category": "Cooking",
+    "Edibility": 90,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 820,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": -5,
+            "Count": 1,
+        },
+        {
+            "Object": "Banana",
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": "Brown Sugar",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2820,
+        "PurchaseRequirements": [
+            "r 0.50",
+        ]
+    },
+    "GiftTastes":
+    {
+        "Love": ["Evelyn", "Jodi"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Haley", "Harvey", "Jas", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Leah"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Pan de banana",
+        "ko": "바나나빵",
+        "de": "Bananenbrot",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Pão de banana",
+        "ru": "",
+        "tr": "",
+        "zh": "香蕉面包",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Es rico y húmedo!",
+        "ko": "풍부하고 촉촉한 맛!",
+        "de": "Es ist sehr Reichhaltig!",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "É rico em nutrientes e úmido!",
+        "ru": "",
+        "tr": "",
+        "zh": "香蕉面包。营养丰富，有着湿润口感的面包！",
+    }
 }

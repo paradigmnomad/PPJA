@@ -1,0 +1,27 @@
+{
+    "Name": "Ancient Tuber",
+    "Product": "Ancient Tuber",
+    "SeedName": "Ancient Tuber Seeds",
+    "SeedDescription": "Plant in spring, summer or fall to grow an ancient tuber. Takes 20 days to mature, and has a chance of yielding multiple tubers at harvest.",
+    "Type": "Vegetable",
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [4,5,5,5,1],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 10,
+        "ExtraChance": 0.2,
+    },
+
+    "SeedPurchasePrice": 750,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+    "SeedPurchaseRequirements": null,
+	"NameLocalization": { "zh": "古老的根茎" },
+"ProductLocalization": { "zh": "古老的根茎" },
+"SeedNameLocalization": { "zh": "古老的根茎种子" },
+"SeedDescriptionLocalization": { "zh": "在春天、夏天或秋天种植一种古老的块茎。成熟需要20天，并有机会在收获多个块茎。" }
+}

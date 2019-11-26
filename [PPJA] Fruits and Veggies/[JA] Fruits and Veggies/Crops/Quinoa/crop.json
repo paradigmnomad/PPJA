@@ -1,0 +1,58 @@
+{
+    "Name": "Quinoa",
+    "Product": "Quinoa",
+    "SeedName": "Quinoa Seeds",
+    "SeedDescription": "Plant in summer. Takes 6 days to mature.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 1, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": [
+        "136, 116, 248, 1",
+        "217, 140, 255, 1",
+        "151, 88, 198, 1"
+    ],
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 20,
+    "SeedPurchaseRequirements": [
+        "y 4",
+    ],
+
+    "SeedNameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
+}

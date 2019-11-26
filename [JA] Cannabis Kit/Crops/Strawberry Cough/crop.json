@@ -1,25 +1,53 @@
 {
-  "Name": "Strawberry Cough",
-  "Product": "Strawberry Cough",
-  "SeedName": "Strawberry Cough Starter",
-  "SeedDescription": "A potent sativa blend with a skunky, berry flavors will capture your senses. Good for anxiety and restoring internal balance. Plant these in the summer or fall. Takes 14 days to mature, afterwards it continues to produce every 3 days.",
-  "Type": "Flower",
-  "Seasons": ["summer", "fall"],
-  "Phases": [2, 3, 4, 5, 3],
-  "RegrowthPhase": 3,
-  "HarvestWithScythe": false,
-  "TrellisCrop": true,
-  "Colors": ["255, 255, 255, 0"],
-  "Bonus": {
-    "MinimumPerHarvest": 2,
-    "MaximumPerHarvest": 5,
-    "MaxIncreasePerFarmLevel": 5,
-    "ExtraChance": 0.1,
-  },
-
-  "SeedPurchaseFrom": "Harvey",
-  "SeedPurchasePrice": 2000,
-  "SeedPurchaseRequirements": [
-    "f Sebastian 250"
-  ],
+    "Name": "Strawberry Cough",
+    "Product": "Strawberry Cough",
+    "SeedName": "Strawberry Cough Starter",
+    "SeedDescription": "A potent sativa blend with a skunky, berry flavors will capture your senses. Good for anxiety and restoring internal balance. Plant these in the summer or fall. Takes 14 days to mature, afterwards it continues to produce every 3 days.",
+    "Type": "Flower",
+    "Seasons": ["summer", "fall"],
+    "Phases": [2, 3, 4, 5, 3],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 3,
+        "MaximumPerHarvest": 5,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchaseFrom": "Harvey",
+    "SeedPurchasePrice": 350,
+    "SeedPurchaseRequirements": [
+        "f Sebastian 250"
+    ],
+    "SeedNameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
 }

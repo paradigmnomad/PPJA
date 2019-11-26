@@ -1,0 +1,51 @@
+{
+    "Name": "Summer Rose",
+    "Product": "Summer Rose",
+    "SeedName": "Summer Rose Starter",
+    "SeedDescription": "Plant in summer. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.",
+    "Type": "Flower",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 3, 4, 2],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+
+    "SeedPurchasePrice": 175,
+    "SeedNameLocalization":
+    {
+        "es": "Kit de rosas veraniegas",
+        "ko": "여름 장미 씨앗",
+        "de": "Sommer-Rosen-Samen",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Muda de rosa do verão",
+        "ru": "",
+        "tr": "",
+        "zh": "夏季玫瑰种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 12 días producir una flor famosa y hermosa, y sigue produciendo después de la primera cosecha. Crece en una espaldera.",
+        "ko": "여름에 심습니다. 12일후에 정말 빼어나게 아름다운 꽃이 피며, 수확한 후에도 계속 꽃이 핍니다.",
+        "de": "Im Sommer pflanzen. Dauert 12 Tage, um eine berühmt schöne Blume zu produzieren, und produziert nach der ersten Ernte weiter. Wächst auf einem Spalier.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as no verão. Demoram 12 dias para produzirem um linda e famosa flor, e continuam produzindo depois da primeira colheita. Crescem em treliças.",
+        "ru": "",
+        "tr": "",
+        "zh": "夏天播种。12天后收获著名的美丽花朵，持续生产。生长在架子上。",
+    }
+}

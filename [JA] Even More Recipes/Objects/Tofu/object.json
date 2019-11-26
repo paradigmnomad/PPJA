@@ -1,29 +1,53 @@
 {
-  "Name": "Tofu",
-  "Description": "Made from soybean milk. Also known as bean curds.",
-  "Category": "Cooking",
-  "Edibility": 22,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 310,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-	"Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Soybean",
-        "Count": 2,
-      }
-    ],
- "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 1310,
-    "PurchaseRequirements": ["y 2",
-"f Maru 750",
-],
-  }
+    "Name": "Tofu",
+    "Description": "Made from soybean milk. Also known as bean curds.",
+    "Category": "Cooking",
+    "Edibility": 22,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 310,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Soybean",
+            "Count": 2,
+        }],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Tofu",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Tofu",
+        "ru": "",
+        "tr": "",
+        "zh": "豆腐",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Elaborado con leche de soja. También conocido como cuajada de frijol.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Feito a partir de leite de soja. Também conhecida como coalhada de feijão.",
+        "ru": "",
+        "tr": "",
+        "zh": "豆腐。由豆浆制成。又称黄豆凝乳。",
+    }
 }

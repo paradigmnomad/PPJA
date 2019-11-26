@@ -1,0 +1,42 @@
+{
+    "Name": "Thyme",
+    "Description": "An aromatic herb in the mint family, with small rounded leaves and pink flowers.",
+    "Category": "Vegetable",
+    "Edibility": 5,
+    "Price": 55,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Tomillo",
+        "ko": "타임",
+        "de": "Thymian",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Tomilho",
+        "ru": "",
+        "tr": "",
+        "zh": "百里香",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una hierba aromática de la familia de la menta, con pequeñas hojas redondeadas y flores rosadas.",
+        "ko": "민트과에 속하는 향기로운 허브로, 작고 둥근 잎과 분홍색 꽃이 핀다.",
+        "de": "Ein Vertreter der Familie der Minze, mit kleinen runden Blätter und pinke Blüten.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma erva aromática na família das mentas, com pequenas folhas arredondadas e flores cor-de-rosa.",
+        "ru": "",
+        "tr": "",
+        "zh": "薄荷科的一种芳香草本植物，有小圆叶和粉红色的花。百里香原产于南欧，被作为一种美食的香料而广泛种植。",
+    }
+}

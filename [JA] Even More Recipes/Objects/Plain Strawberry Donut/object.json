@@ -1,41 +1,71 @@
 {
-  "Name": "Plain Strawberry Donut",
-  "Description": "A plain strawberry donut.",
-  "Category": "Cooking",
-  "Edibility": 54,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 420,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
-	"Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
-	"Dislike": ["Krobus", "Willy"],
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 400,
-        "Count": 1,
-      },
-      
-{
-        "Object": 246,
-        "Count": 1,
-      },
-{
-        "Object": 245,
-        "Count": 1,
-      },
-{
-        "Object": -5,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 2420,
-    "PurchaseRequirements": null,
-  }
+    "Name": "Plain Strawberry Donut",
+    "Description": "A plain strawberry donut.",
+    "Category": "Cooking",
+    "Edibility": 54,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 420,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+        "Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": 400,
+                "Count": 1,
+            },
+
+            {
+                "Object": 246,
+                "Count": 1,
+            },
+            {
+                "Object": 245,
+                "Count": 1,
+            },
+            {
+                "Object": -5,
+                "Count": 1,
+            }
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2420,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Dona de fresa simple",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Donut de morango simples",
+        "ru": "",
+        "tr": "",
+        "zh": "平底草莓甜甜圈",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una simple dona de fresa.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um donut de morango simples.",
+        "ru": "",
+        "tr": "",
+        "zh": "平底草莓甜甜圈。一个平底草莓甜甜圈。",
+    }
 }

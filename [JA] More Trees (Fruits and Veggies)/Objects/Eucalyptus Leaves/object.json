@@ -1,13 +1,50 @@
 {
-  "Name": "Eucalyptus Leaves",
-  "Description": "Leathery blue-green leaves are studded with glands containing a fragrant, volatile oil. Luckily not an exploding oil!",
-  "Category": "Vegetable",
-  "Edibility": -300,
-  "Price": 135,
-  "IsColored": false,
-  "GiftTastes": {
-	"Like": ["Leah", "Linus"],
-    "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
-  },
-  "Recipe": null,
+    "Name": "Eucalyptus Leaves",
+    "Description": "Leathery blue-green leaves are studded with glands containing a fragrant, volatile oil. Luckily not an exploding oil!",
+    "Category": "Vegetable",
+    "Edibility": -300,
+    "Price": 135,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Leah", "Linus"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Hojas de eucalipto",
+        "ko": "유칼립투스 잎",
+        "de": "Eukalyptusblätter",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Folhas de eucalipto",
+        "ru": "",
+        "tr": "",
+        "zh": "桉树叶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Las hojas coriáceas de color azul verdoso están tachonadas con glándulas que contienen un aceite fragante y volátil. ¡Afortunadamente no es un petróleo explosivo!",
+        "ko": "푸른 녹색의 잎은 향기롭고, 채취되는 기름은 휘발성이 강한 유칼리유입니다. 다행히 폭발하는 기름은 아니에요!",
+        "de": "Ledrige blau grüne Blätter. Lieblings Speise von Koala Bären.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Folhas de couro azul esverdeado são cravejadas de glândulas que contêm um óleo volátil e perfumado. Felizmente, não é um óleo que explode!",
+        "ru": "",
+        "tr": "",
+        "zh": "坚韧的蓝绿叶子上布满了含有芳香挥发油的腺体。幸运的是，这油不会爆炸！因为桉树叶具有消毒作用，所以常被用来提炼驱虫剂、除臭剂。",
+    },
+    "ContextTags": [
+        "season_spring",
+        "crop_year_two",
+        "fruit_tree_year_two",
+        "color_yellow_green",
+        "fruit_tree_item",
+        "medicine_item",
+    ]
 }

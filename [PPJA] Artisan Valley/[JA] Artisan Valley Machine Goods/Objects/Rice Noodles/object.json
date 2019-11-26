@@ -1,0 +1,42 @@
+{
+    "Name": "Rice Noodles",
+    "Description": "A bag of thin, rice-flavored noodles.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 300,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Neutral": ["Gus"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Fideos de arroz",
+        "ko": "",
+        "de": "Reisnudeln",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "米丝",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una bolsa de fideos finos hechos de arroz.",
+        "ko": "",
+        "de": "Eine Tüte mit dünnen Reisnudeln.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一袋细的米丝。",
+    }
+}

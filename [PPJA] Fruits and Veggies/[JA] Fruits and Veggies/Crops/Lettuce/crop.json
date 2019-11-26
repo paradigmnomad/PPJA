@@ -1,0 +1,50 @@
+{
+    "Name": "Lettuce",
+    "Product": "Lettuce",
+    "SeedName": "Lettuce Seeds",
+    "SeedDescription": "Plant these in summer. Takes 6 days to mature.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 1, 1, 2, 1],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 55,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de lechuga",
+        "ko": "상추 씨앗",
+        "de": "Salatkopf-Saat",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Sementes de alface",
+        "ru": "",
+        "tr": "",
+        "zh": "生菜种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 6 días para madurar.",
+        "ko": "여름 작물. 성장하려면 6일이 소요됩니다.",
+        "de": "Pflanzen sie im Sommer. Wächst in 6 Tagen heran.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as no verão. Demora 6 dias para amadurecer.",
+        "ru": "",
+        "tr": "",
+        "zh": "夏天播种。6天成熟。",
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "Name": "Chewing Gum",
+    "Description": "The worldwide phenomenon.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 200,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 200,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": ["Vincent"],
+        "Like": ["Jas"],
+        "Neutral": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Emily", "Sandy", "Clint", "George", "Sebastian", "Abigial", "Alex", "Demetrius", "Dwarf", "Elliott", "Gus", "Haley", "Harvey", "Kent", "Krobus", "Leah", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Willy", "Wizard", "Marnie"],
+    },
+    "NameLocalization":
+    {
+        "es": "Chicle",
+        "ko": "",
+        "de": "Kaugummi",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "口香糖",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un fenómeno mundial.",
+        "ko": "",
+        "de": "Das weltweite Phänomen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "这是一种全球的现象。",
+    }
+}

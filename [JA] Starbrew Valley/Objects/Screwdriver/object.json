@@ -38,5 +38,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5550,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Destornillador",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "螺丝起子",
+  },
+ "DescriptionLocalization": { 
+    "es": "Por favor no opere maquinaria pesada bajo influencia de esta bebida.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "螺丝起子。请不要在受了影响的情况下操作重型机械。",
   }
 }

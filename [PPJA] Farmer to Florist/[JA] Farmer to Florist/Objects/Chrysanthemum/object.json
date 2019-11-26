@@ -1,0 +1,44 @@
+{
+    "Name": "Chrysanthemum",
+    "Description": "A button-like flower that comes in a variety of colors.",
+    "Category": "Flower",
+    "Edibility": 20,
+    "Price": 60,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Robin"],
+        "Like": ["Elliott", "Harvey", "Sam", "Emily", "Haley", "Leah", "Penny", "Abigail", "Demetrius", "Evelyn", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Sebastian", "Sandy", "Caroline"],
+        "Neutral": ["Alex", "Shane", "Maru", "Dwarf", "Gus", "Krobus", "Pam", "Pierre", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Clint", "George"],
+    },
+    "NameLocalization":
+    {
+        "es": "Crisantemo",
+        "ko": "국화",
+        "de": "Chrysantheme",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Crisântemo",
+        "ru": "",
+        "tr": "",
+        "zh": "菊花",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una flor con forma de botón que viene en una variedad de colores.",
+        "ko": "단추 모양 같은 다양한 색상의 꽃",
+        "de": "Eine knopfartige Blume, die in verschiedenen Farben erhältlich ist.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "ma flor em forma de botão que vem em uma variedade de cores.",
+        "ru": "",
+        "tr": "",
+        "zh": "花瓣细长，有各种颜色。",
+    }
+}

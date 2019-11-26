@@ -1,0 +1,50 @@
+{
+  "Name": "Potted Iris",
+  "Description": "An iris potted in a little wooden pot. Remember to water it!",
+  "Price": 1,
+  "ProvidesLight": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+		  "Object": "Iris",
+		  "Count": 1,
+      },
+      {
+		  "Object": 388,
+		  "Count": 10,
+      },
+	  {
+		  "Object": 330,
+		  "Count": 10,
+	  },
+    ],
+	"CanPurchase": false,
+  },
+  "NameLocalization": { 
+    "es": "Iris en maceta",
+    "ko": "실내 화초 아이리스",
+    "de": "Topfiris",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "Vaso de Íris",
+    "ru": "",
+    "tr": "",
+    "zh": "鸢尾花盆栽",
+     },
+ "DescriptionLocalization": { 
+    "es": "Un iris en una pequeña maceta de madera. ¡Recuerda regarlo!",
+    "ko": "작은 나무 화분에 심겨진 아이리스 입니다. 물 주는거 잊지마세요!",
+    "de": "Eine Iris in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "Uma íris em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
+    "ru": "",
+    "tr": "",
+    "zh": "一个小木盆里的鸢尾花盆栽。记得给它浇水！",
+    }
+}

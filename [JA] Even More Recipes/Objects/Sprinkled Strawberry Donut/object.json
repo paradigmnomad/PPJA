@@ -1,46 +1,76 @@
 {
-  "Name": "Sprinkled Strawberry Donut",
-  "Description": "A fun, strawberry donut.",
-  "Category": "Cooking",
-  "Edibility": 54,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 620,
-  "IsColored": false,
-  "GiftTastes": {
-	"Love": ["Demetrius", "Maru"],
-    "Like": ["Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
-	"Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
-	"Dislike": ["Krobus", "Willy"],
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 400,
-        "Count": 1,
-      },
-      
-{
-        "Object": 246,
-        "Count": 1,
-      },
-{
-        "Object": 245,
-        "Count": 1,
-      },
-{
-        "Object": -5,
-        "Count": 1,
-      },
-{
-        "Object": "Sprinkles",
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 2620,
-    "PurchaseRequirements": null,
-  }
+    "Name": "Sprinkled Strawberry Donut",
+    "Description": "A fun, strawberry donut.",
+    "Category": "Cooking",
+    "Edibility": 54,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 620,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+        "Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": 400,
+                "Count": 1,
+            },
+
+            {
+                "Object": 246,
+                "Count": 1,
+            },
+            {
+                "Object": 245,
+                "Count": 1,
+            },
+            {
+                "Object": -5,
+                "Count": 1,
+            },
+            {
+                "Object": "Sprinkles",
+                "Count": 1,
+            }
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2620,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Dona de fresa con chispitas",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Donut de morango com granulado",
+        "ru": "",
+        "tr": "",
+        "zh": "彩针草莓甜甜圈",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una rica dona de fresa.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma rosquinha engraçada de morango.",
+        "ru": "",
+        "tr": "",
+        "zh": "彩针草莓甜甜圈。一个好吃的，草莓涂层甜甜圈。",
+    }
 }

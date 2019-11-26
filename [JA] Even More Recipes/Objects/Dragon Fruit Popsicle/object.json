@@ -1,33 +1,61 @@
 {
-  "Name": "Dragon Fruit Popsicle",
-  "Description": "The seeds might get stuck in your teeth.",
-  "Category": "Cooking",
-  "Edibility": 20,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 800,
-  "IsColored": false,
-  "GiftTastes": {
-    "Love": ["Linus", "Pam", "Sam"],
-	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-	"Neutral": ["Krobus", "Willy"],
-	},
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Dragon Fruit",
-        "Count": 1,
-      },
-      {
-        "Object": 388,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Sandy",
-    "PurchasePrice": 1300,
-    "PurchaseRequirements": null,
-
-  }
+    "Name": "Dragon Fruit Popsicle",
+    "Description": "The seeds might get stuck in your teeth.",
+    "Category": "Cooking",
+    "Edibility": 20,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 800,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Linus", "Pam", "Sam"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Dragon Fruit",
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Sandy",
+        "PurchasePrice": 1300,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Paleta de pitaya",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Picolé de fruta do dragão",
+        "ru": "",
+        "tr": "",
+        "zh": "火龙果冰棒",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Las semillas pueden quedar atrapadas en tus dientes.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "As sementes podem ficar presas nos dentes.",
+        "ru": "",
+        "tr": "",
+        "zh": "火龙果冰棒。它的种子可能让你和你的牙齿不知所措。",
+    }
 }

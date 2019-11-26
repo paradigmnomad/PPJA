@@ -1,0 +1,53 @@
+{
+    "Name": "Pitcher Plant",
+    "Product": "Pitcher Plant",
+    "SeedName": "Pitcher Plant Starter",
+    "SeedDescription": "Plant in spring. Takes 15 days to produce a carnivorous plant, and keeps producing after the first harvest. Grows on a trellis.",
+    "Type": "Flower",
+
+    "Seasons": ["spring", ],
+    "Phases": [3, 4, 2, 2, 4],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 500,
+    "SeedPurchaseRequirements": [
+        " y 4"
+    ],
+    "SeedNameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+          "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Goat Yogurt",
+    "Description": "A tart yogurt that is favored in some lands.",
+    "Category": "ArtisanGoods",
+    "Edibility": 36,
+    "Price": 300,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Jas", "Kent", "Vincent"],
+        "Hate": ["Sebastian"],
+    },
+    "NameLocalization":
+    {
+        "es": "Yogur de cabra",
+        "ko": "",
+        "de": "Ziegenjoghurt",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "酸羊奶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un yogur agrio preparado a partir de leche de cabra.",
+        "ko": "",
+        "de": "Ein herber Joghurt, der in einigen Ländern bevorzugt wird.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "在一些地方很受欢迎的酸奶。",
+    }
+}

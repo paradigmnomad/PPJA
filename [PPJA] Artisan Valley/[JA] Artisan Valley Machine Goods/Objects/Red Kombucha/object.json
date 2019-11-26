@@ -1,0 +1,41 @@
+{
+    "Name": "Red Kombucha",
+    "Description": "A cautionary tale in kombucha recipes.",
+    "Category": "ArtisanGoods",
+    "Edibility": -50,
+    "Price": 150,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Hate": ["Jas", "Vincent", "Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Evelyn", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Haley", "Harvey", "Leah", "Linus"],
+    },
+    "NameLocalization":
+    {
+        "es": "Kombucha roja",
+        "ko": "",
+        "de": "Roter Kombucha",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "红蘑菇康普茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una advertencia en las recetas de kombucha.",
+        "ko": "",
+        "de": "Eine warnende Geschichte in Kombucha-Rezepten.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "这是康普茶配方中的一个传说。",
+    }
+}

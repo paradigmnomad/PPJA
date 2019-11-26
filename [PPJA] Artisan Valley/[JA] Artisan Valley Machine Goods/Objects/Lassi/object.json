@@ -1,0 +1,44 @@
+{
+    "Name": "Lassi",
+    "Description": "A frothy beverage made from fermented yogurt.",
+    "Category": "ArtisanGoods",
+    "Edibility": 28,
+    "EdibleIsDrink": true,
+    "Price": 300,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["George"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+        "Hate": ["Jas", "Kent", "Sebastian", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Lassi",
+        "ko": "",
+        "de": "Lassi",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "印度奶昔",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una bebida espumosa hecha de yogur fermentado.",
+        "ko": "",
+        "de": "Ein schaumiges Getränk aus fermentiertem Joghurt.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一种由发酵酸奶制成的多泡的饮料。",
+    }
+}

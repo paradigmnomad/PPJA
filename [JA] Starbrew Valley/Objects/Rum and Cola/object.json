@@ -38,5 +38,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5475,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Ron con cola",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "朗姆可乐",
+  },
+ "DescriptionLocalization": { 
+    "es": "Un alimento básico en cada bar.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "朗姆可乐。每个酒吧的订书钉。",
   }
 }

@@ -1,0 +1,65 @@
+{
+    "Name": "Pineapple Pizza",
+    "Description": "Popular in tropical areas.",
+    "Category": "Cooking",
+    "Edibility": 70,
+    "EdibleIsDrink": false,
+    "Price": 300,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": 256,
+            "Count": 1,
+        },
+        {
+            "Object": "Pineapple",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Pierre",
+        "PurchasePrice": 500,
+        "PurchaseRequirements": [
+            "y 2"
+        ]
+    },
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Krobus", "Leah", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "水煮梨",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "水煮梨。去皮的梨腌渍在蜂蜜里。",
+    }
+}

@@ -6,16 +6,17 @@
     "Type": "Flower",
 
     "Seasons": ["summer"],
-    "Phases": [ 1, 2, 1, 2, 1 ],
+    "Phases": [1, 2, 1, 2, 1],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": [
-    "136, 116, 248, 1",
-    "116, 133, 248, 1",
-    "204, 160, 246, 1"
+        "136, 116, 248, 1",
+        "116, 133, 248, 1",
+        "204, 160, 246, 1"
     ],
-    "Bonus": {
+    "Bonus":
+    {
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 1,
         "MaxIncreasePerFarmLevel": 5,
@@ -23,5 +24,32 @@
     },
 
     "SeedPurchasePrice": 25,
-
+    "SeedNameLocalization":
+    {
+        "es": "Vaina de lila fragante",
+        "ko": "향기로운 라일락 씨앗",
+        "de": "Flieder-Saat",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Muda de lilás perfumado",
+        "ru": "",
+        "tr": "",
+        "zh": "紫丁香种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 7 días para producir una flor tenue y linda.",
+        "ko": "여름에 심습니다. 7일후에 향기롭고 귀여운 꽃이 핍니다.",
+        "de": "Pflanzen sie im Sommer. Wächst in 13 Tagen heran.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as no verão. Demoram 7 dias para produzir uma flor fraca, contudo fofa.",
+        "ru": "",
+        "tr": "",
+        "zh": "夏天播种。7天后产出柔软的，可爱的花。",
+    }
 }

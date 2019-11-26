@@ -1,13 +1,48 @@
 {
-  "Name": "Melaleuca Leaves",
-  "Description": "A prickly cone of leaves that are often used as a homemade remedy for cuts and bruises.",
-  "Category": "Vegetable",
-  "Edibility": -300,
-  "Price": 100,
-  "IsColored": false,
-  "GiftTastes": {
-	"Like": ["Harvey", "Leah", "Linus"],
-    "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus",  "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin","Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
-  },
-  "Recipe": null,
+    "Name": "Melaleuca Leaves",
+    "Description": "A prickly cone of leaves that are often used as a homemade remedy for cuts and bruises.",
+    "Category": "Vegetable",
+    "Edibility": -300,
+    "Price": 100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Harvey", "Leah", "Linus"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Hojas de melaleuca",
+        "ko": "카유푸트 잎",
+        "de": "Melaleuca-Blätter",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Folhas de melaleuca",
+        "ru": "",
+        "tr": "",
+        "zh": "千层叶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un cono espinoso de hojas que a menudo se usa como un remedio casero para cortes y hematomas.",
+        "ko": "잘린 잎의 가시 원뿔은 종종 상처와 타박상에 대한 수제 치료제로 사용됩니다.",
+        "de": "Ein stacheliger Blätterkegel, die häufig als Haussmittel für Schnitte und Quetschungen benutzt wird.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um cone espinhoso de folhas que costuma ser usado como remédio caseiro para cortes e contusões.",
+        "ru": "",
+        "tr": "",
+        "zh": "一种多刺的叶子，通常被用来治疗伤口和瘀伤。",
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_dark_green",
+        "fruit_tree_item",
+        "medicine_item",
+    ]
 }

@@ -33,5 +33,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 550,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Salchicha",
+    "ko": "소시지",
+    "de": "Wurst",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "香肠",
+  },
+ "DescriptionLocalization": { 
+    "es": "Un embutido a base de carde de cerdo molida y condimentos.",
+    "ko": "돼지고기와 양념을 넣은 가공품.",
+    "de": "Eine Wurst aus Schweinefleisch und Gewürzen.",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "香肠。由猪肉和其他调味品组成。",
   }
 }

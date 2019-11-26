@@ -1,0 +1,43 @@
+{
+    "Name": "Saffron",
+    "Description": "A rare and valuable spice with a distinct yellow color.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 250,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Gus"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Azafrán",
+        "ko": "",
+        "de": "Safran",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "藏红花",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una especia rara y valiosa con un color amarillo distintivo.",
+        "ko": "",
+        "de": "Ein seltenes und wertvolles Gewürz mit einer deutlichen gelben Farbe.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一种稀有而珍贵的香料，带点黄色。",
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "Name": "Lotus",
+    "Product": "Lotus",
+    "SeedName": "Lotus Starter",
+    "SeedDescription": "Plant in the summer. Takes 11 days to mature, but keeps producing after that. Grows in a pot.",
+    "Type": "Flower",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 3, 3, 2],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchaseRequirements": null,
+    "SeedPurchasePrice": 40,
+    "SeedNameLocalization":
+    {
+        "es": "Kit de loto",
+        "ko": "연꽃 씨앗",
+        "de": "Lotus-Starter",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Semente de Lótus",
+        "ru": "",
+        "tr": "",
+        "zh": "荷花种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 11 días para madurar, sigue produciendo después de la primera cosecha. Crece en una maceta.",
+        "ko": "여름에 심습니다. 11일후에 꽃이 피며, 수확한 후에도 계속 꽃이 핍니다.",
+        "de": "Im Sommer pflanzen. Die Reifung dauert 11 Tage, produziert danach aber weiter. Wächst in einem Topf.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-a no verão. Demoram 11 dias para amadurecer, mas continua produzindo depois disso. Cresce em pequeno vaso.",
+        "ru": "",
+        "tr": "",
+        "zh": "夏天下种。11天成熟，之后循环生产。长在陶盆里。",
+    }
+}

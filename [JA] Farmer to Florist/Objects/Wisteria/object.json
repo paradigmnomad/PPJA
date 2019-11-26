@@ -1,9 +1,0 @@
-{
-    "Name": "Wisteria",
-    "Description": "A woody vine that blooms in the spring. Grows with abandon.",
-    "Category": "Flower",
-    "Edibility": -10,
-    "Price": 280,
-	"IsColored": false,
-	"Recipe": null
-}

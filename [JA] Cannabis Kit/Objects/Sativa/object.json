@@ -1,14 +1,43 @@
 {
-  "Name": "Sativa",
-  "Description": "With a distinct uplifting cerebral effect, the tall sativa crop thrives in warmer climates and is great for creativity.",
-  "Category": "Vegetable",
-  "Edibility": 18,
-  "Price": 230,
-  "IsColored": false,
-  "Recipe": null,
-   "GiftTastes": {
-    "Love": ["Sebastian", "Sam", "Abigail"],
-    "Neutral" : ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
-    "Hate": ["Jas", "Vincent"],
-  },
+    "Name": "Sativa",
+    "Description": "With a distinct uplifting cerebral effect, the tall sativa crop thrives in warmer climates and is great for creativity.",
+    "Category": "Vegetable",
+    "Edibility": 18,
+    "Price": 30,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian", "Sam", "Abigail"],
+        "Neutral": ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
 }

@@ -1,9 +1,0 @@
-{
-    "Name": "Petunia",
-    "Description": "A delicate, sweetly-scented flower.",
-    "Category": "Flower",
-    "Edibility": 5,
-    "Price": 80,
-	"IsColored": true,
-	"Recipe": null
-}

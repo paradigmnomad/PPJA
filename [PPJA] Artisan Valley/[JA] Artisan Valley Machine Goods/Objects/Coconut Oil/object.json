@@ -1,0 +1,44 @@
+{
+    "Name": "Coconut Oil",
+    "Description": "A multi-purpose oil used in cooking and household products. Solid at room temperature.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 225,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Haley", "Linus"],
+        "Neutral": ["Demetrius", "Elliott", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Pam", "Robin", "Sandy", "Shane", "Vincent"],
+        "Dislike": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+        "Hate": ["Abigail", "Dwarf"]
+    },
+    "NameLocalization":
+    {
+        "es": "Aceite de coco",
+        "ko": "",
+        "de": "Kokosnussöl",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "椰子油",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un aceite multiuso usado en productos de cocina y de hogar. Sólido a temperatura ambiente.",
+        "ko": "",
+        "de": "Ein Mehrzwecköl, das in Koch- und Haushaltsprodukten verwendet wird. Fest bei Raumtemperatur.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一种用于烹饪和家居用品的多功能油。在室温下有稳定的状态。",
+    }
+}

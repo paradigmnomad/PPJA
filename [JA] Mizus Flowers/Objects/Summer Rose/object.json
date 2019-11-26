@@ -1,13 +1,42 @@
 {
-  "Name": "Summer Rose",
-  "Description": "A rose by any other name would smell as sweet.",
-  "Category": "Flower",
-  "Edibility": 18,
-  "Price": 320,
-  "IsColored": false,
-  "Recipe": null,
-  "GiftTastes": {
-	"Love": ["Elliott", "Penny"],
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
-  },
+    "Name": "Summer Rose",
+    "Description": "A rose by any other name would smell as sweet.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 55,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Elliott", "Penny"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Rosa veraniega",
+        "ko": "여름 장미",
+        "de": "Summer Rose",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Rosa do verão",
+        "ru": "",
+        "tr": "",
+        "zh": "夏季玫瑰",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una rosa de verano con un olor diferente a las demas.",
+        "ko": "장미는 이름이 장미가 아니더라도 향기롭기는 매한가지일 것이다.",
+        "de": "Eine Rose mit einem anderen Namen würde so süß riechen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma rosa de qualquer outro nome poderia ter um cheiro tão doce como essa.",
+        "ru": "",
+        "tr": "",
+        "zh": "玫瑰闻起来都是甜的。",
+    }
 }

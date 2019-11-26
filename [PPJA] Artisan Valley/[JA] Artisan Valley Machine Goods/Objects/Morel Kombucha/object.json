@@ -1,0 +1,44 @@
+{
+    "Name": "Morel Kombucha",
+    "Description": "A uniquely nutty tea-like drink made from fermented mushrooms.",
+    "Category": "ArtisanGoods",
+    "Edibility": 6,
+    "EdibleIsDrink": true,
+    "Price": 200,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Krobus", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Mantequilla de nuez",
+        "ko": "",
+        "de": "Morel Kombucha",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "龙葵康普茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una mantequilla crujiente con trozos de nuez.",
+        "ko": "",
+        "de": "Ein einzigartig nussiges Tee-ähnliches Getränk aus fermentierten Pilzen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "这是一种由发酵的蘑菇制成的独特坚果味饮料。",
+    }
+}

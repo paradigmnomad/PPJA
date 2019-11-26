@@ -1,0 +1,51 @@
+{
+    "Name": "Spring Rose",
+    "Product": "Spring Rose",
+    "SeedName": "Spring Rose Starter",
+    "SeedDescription": "Plant in spring. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.",
+    "Type": "Flower",
+
+    "Seasons": ["spring"],
+    "Phases": [1, 2, 3, 4, 2],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+
+    "SeedPurchasePrice": 175,
+    "SeedNameLocalization":
+    {
+        "es": "Kit de rosa primaveral",
+        "ko": "봄 장미 씨앗",
+        "de": "Frühlingsrosen Samen",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Muda de rosa da primavera",
+        "ru": "",
+        "tr": "",
+        "zh": "春季玫瑰种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera. Toma 12 días producir una flor famosa y hermosa, y sigue produciendo después de la primera cosecha. Crece en un espaldar.",
+        "ko": "봄에 심습니다. 12일후에 정말 빼어나게 아름다운 꽃이 피며, 수확한 후에도 계속 꽃이 핍니다.",
+        "de": "Im Frühjahr pflanzen. Dauert 12 Tage, um eine berühmt schöne Blume zu produzieren, und produziert nach der ersten Ernte weiter. Wächst auf einem Spalier.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as na primavera. Demoram 12 dias para produzirem um linda e famosa flor, e continuam produzindo após a primeira colheita. Crescem em treliças.",
+        "ru": "",
+        "tr": "",
+        "zh": "春天播种。12天后收获甜蜜香味的花，持续生产。生长在架子上。",
+    }
+}

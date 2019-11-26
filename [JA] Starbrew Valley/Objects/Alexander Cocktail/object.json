@@ -45,5 +45,32 @@
     "PurchasePrice": 6960,
     "PurchaseRequirements": ["y 2",
 ],
+  },
+
+ "NameLocalization": { 
+    "es": "Cóctel Alexander",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "亚历山大鸡尾酒",
+  },
+ "DescriptionLocalization": { 
+    "es": "Agite bien, revuelva y vierta sobre hielo.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "亚历山大鸡尾酒。摇匀，搅拌，倒入冰。",
   }
 }

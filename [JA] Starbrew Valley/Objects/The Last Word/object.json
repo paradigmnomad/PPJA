@@ -48,5 +48,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5705,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "La última palabra",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "临别一语",
+  },
+ "DescriptionLocalization": { 
+    "es": "¿Quién recibe la última palabra?",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "临别一语。谁说的最后一句话？",
   }
 }

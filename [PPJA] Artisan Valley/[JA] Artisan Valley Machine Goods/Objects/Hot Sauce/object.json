@@ -1,0 +1,69 @@
+{
+    "Name": "Hot Sauce",
+    "Description": "A spicy sauce.",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 175,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Lewis", "Shane"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 419,
+            "Count": 1,
+        },
+        {
+            "Object": 256,
+            "Count": 1,
+        },
+        {
+            "Object": 248,
+            "Count": 1,
+        },
+        {
+            "Object": 260,
+            "Count": 2,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 860,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Salsa picante",
+        "ko": "",
+        "de": "Scharfe Soße",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "辣酱",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Salsa picante. Comer con cautela.",
+        "ko": "",
+        "de": "Eine pikante Sauce.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一罐辣酱。",
+    }
+}

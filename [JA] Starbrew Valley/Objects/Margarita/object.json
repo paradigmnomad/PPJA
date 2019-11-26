@@ -38,5 +38,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5600,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Cóctel Margarita",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "玛格丽特",
+  },
+ "DescriptionLocalization": { 
+    "es": "Una margarita, dos margarita, tres margarita, ¡al piso!",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "玛格丽特。一个玛格丽塔，两个玛格丽塔，三玛格丽塔，地板！",
   }
 }

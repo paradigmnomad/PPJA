@@ -1,0 +1,44 @@
+{
+    "Name": "Dahlia",
+    "Description": "A garden favorite that blooms throughout the fall.",
+    "Category": "Flower",
+    "Edibility": 20,
+    "Price": 75,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sandy"],
+        "Like": ["Elliott", "Harvey", "Sam", "Emily", "Haley", "Leah", "Penny", "Abigail", "Demetrius", "Evelyn", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Robin", "Caroline"],
+        "Neutral": ["Alex", "Shane", "Maru", "Dwarf", "Gus", "Krobus", "Pam", "Pierre", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Sebastian", "Clint", "George"],
+    },
+    "NameLocalization":
+    {
+        "es": "Dalia",
+        "ko": "달리아",
+        "de": "Dahlie",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Dália",
+        "ru": "",
+        "tr": "",
+        "zh": "大丽花",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una de las favoritas para el jardín que florece durante todo otoño.",
+        "ko": "가을 내내 정원 가득 피는 꽃.",
+        "de": "Ein Gartenfavorit, der den ganzen Herbst über blüht.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um jardim favorito que floresce durante todo o outono.",
+        "ru": "",
+        "tr": "",
+        "zh": "一种在秋天盛开的花朵。",
+    }
+}

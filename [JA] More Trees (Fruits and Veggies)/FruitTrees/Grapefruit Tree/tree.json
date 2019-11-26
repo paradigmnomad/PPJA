@@ -10,4 +10,32 @@
     "SaplingPurchaseRequirements": [
     "y 2",
     ],
+     "SaplingNameLocalization":
+    {
+        "es": "Brote de toronja",
+        "ko": "자몽 묘목",
+        "de": "Grapefruit-Setzling (Sapling)",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Muda de toranja",
+        "ru": "",
+        "tr": "",
+        "zh": "西柚树苗Sapling",
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "es": "Toma 28 días para producir un árbol de toronja maduro. Da fruto en el invierno. Solo crece si las 8 casillas que las rodean están vacías.",
+        "ko": "28일후에 성목이 됩니다. 가을에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
+        "de": "Wächst in 28 Tagen zu einem reifen Grapefruitbaum heran. Trägt im Herbst Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Demora até 28 dias para produzir uma árvore de toranja madura. Dá frutas no outono. Só cresce se os 8 espaços adjacentes estiverem vazios.",
+        "ru": "",
+        "tr": "",
+        "zh": "28天成熟为成年西柚树。秋天结果。只有在附近8块地块都空置的情况下才会成长。",
+    }
 }

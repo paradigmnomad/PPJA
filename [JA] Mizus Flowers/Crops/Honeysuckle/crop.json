@@ -2,24 +2,53 @@
     "Name": "Honeysuckle",
     "Product": "Honeysuckle",
     "SeedName": "Honeysuckle Starter",
-       "SeedDescription": "Plant in spring or summer. Takes 8 days to produce sweet smelling flowers, and keeps producing after the first harvest. Grows on a trellis.",
+    "SeedDescription": "Plant in spring or summer. Takes 8 days to produce sweet smelling flowers, and keeps producing after the first harvest. Grows on a trellis.",
     "Type": "Flower",
 
     "Seasons": ["spring", "summer"],
-    "Phases": [ 1, 2, 3, 2, ],
+    "Phases": [1, 2, 3, 2, ],
     "RegrowthPhase": 3,
     "HarvestWithScythe": false,
     "TrellisCrop": true,
     "Colors": null,
-    "Bonus": {
+    "Bonus":
+    {
         "MinimumPerHarvest": 1,
-        "MaximumPerHarvest": 3,
+        "MaximumPerHarvest": 2,
         "MaxIncreasePerFarmLevel": 5,
-        "ExtraChance": 0.2,
+        "ExtraChance": 0.1,
     },
-"SeedPurchaseFrom": "Marnie",
-    "SeedPurchasePrice": 100,
+    "SeedPurchaseFrom": "Marnie",
+    "SeedPurchasePrice": 200,
     "SeedPurchaseRequirements": [
-    "z summer, z fall, z winter"
-],
+        "z summer, z fall, z winter"
+    ],
+    "SeedNameLocalization":
+    {
+        "es": "Kit de madreselva",
+        "ko": "허니서클 씨앗",
+        "de": "Geißblatt-Saat",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Muda de madressilva",
+        "ru": "",
+        "tr": "",
+        "zh": "金银花种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera o verano. Toma 8 días para producir flores con olor dulce, y sigue produciendo después de la primera cosecha. Crece en una espaldera.",
+        "ko": "봄과 여름에 심습니다. 8일후에 달콤한 향이 나는 꽃이 피며, 수확한 후에도 계속 피어납니다.",
+        "de": "Pflanzen sie im Herbst oder Winter. Wächst in 15 Tagen heran. Wächst an einem Rankgerüst.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as na primavera e verão. Demoram 8 dias para produzir uma flor com um cheiro doce, e continua produzindo depois da primeira colheita. Cresce em treliças.",
+        "ru": "",
+        "tr": "",
+        "zh": "春天或夏天播种。8天后收获甜蜜香味的花，持续生产。生长在架子上。",
+    }
 }

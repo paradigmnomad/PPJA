@@ -1,0 +1,52 @@
+{
+    "Name": "Maple Macchiato",
+    "Description": "Drinking this on a late autumn afternoon just feels so right.",
+    "Category": "ArtisanGoods",
+    "Edibility": 30,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 12,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 180,
+    },
+    "Price": 570,
+    "IsColored": false,
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Macchiato con maple",
+        "ko": "",
+        "de": "Ahorn Macchiato",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "枫玛奇朵",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Beber esto en una tarde de otoño se siente tan bien.",
+        "ko": "",
+        "de": "Das an einem späten Herbstnachmittag zu trinken, fühlt sich einfach so richtig an.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "在深秋的下午喝这个感觉真不错。",
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "Name": "Aloe",
+    "Description": "It can be used to treat sunburns.",
+    "Category": "Vegetable",
+    "Edibility": 20,
+    "Price": 140,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Clint", "Demetrius", "Harvey", "Jodi", "Leah", "Linus", "Maru", "Robin"],
+        "Neutral": ["Alex", "Caroline", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Kent", "Lewis", "Marnie", "Pam", "Pierre", "Penny", "Sandy", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "George", "Krobus", "Sam", "Sebastian"],
+        "Hate": ["Jas", "Vincent"]
+    },
+    "NameLocalization":
+    {
+        "es": "Aloe",
+        "ko": "알로에",
+        "de": "Aloe",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Babosa",
+        "ru": "",
+        "tr": "",
+        "zh": "芦荟",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Se puede usar para tratar las quemaduras solares.",
+        "ko": "이것은 햇볕에 타는 것을 치료하는데 사용될 수 있다.",
+        "de": "Es kann zur Behandlung, von Sonnenbrand, verwendet werden.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Pode ser usada para tratar queimaduras de sol.",
+        "ru": "",
+        "tr": "",
+        "zh": "它可以用来治疗晒伤。",
+    }
+}

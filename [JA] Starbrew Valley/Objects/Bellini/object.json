@@ -1,6 +1,6 @@
 {
   "Name": "Bellini",
-  "Description": "A mixture of sparkling wine and peach pur�e or nectar.",
+  "Description": "A mixture of sparkling wine and peach purée or nectar.",
   "Category": "Cooking",
   "Edibility": 44,
   "EdibleIsDrink": true,
@@ -38,5 +38,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5590,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Bellini",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "贝里尼",
+  },
+ "DescriptionLocalization": { 
+    "es": "Una mezcla de vino espumoso y puré de melocotón o néctar.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "贝里尼。一种气泡酒和蜜桃露或花蜜的混合物。",
   }
 }

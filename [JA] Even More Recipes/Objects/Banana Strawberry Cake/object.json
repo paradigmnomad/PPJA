@@ -1,47 +1,71 @@
 {
-  "Name": "Banana Strawberry Cake",
-  "Description": "Sweet and covered in fruit!",
-  "Category": "Cooking",
-  "Edibility": 84,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 590,
-  "IsColored": false,
-  "GiftTastes": {
-	"Love": ["Demetrius", "Maru"],
-    "Like": ["Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
-	"Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
-	"Dislike": ["Krobus", "Willy"],
-	},
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Banana",
-        "Count": 1,
-      },
-{
-        "Object": 400,
-        "Count": 1,
-      },
-      {
-        "Object": 246,
-        "Count": 1,
-      },
-      {
-        "Object": 245,
-        "Count": 1,
-      },
-      {
-        "Object": -5,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 2590,
-    "PurchaseRequirements": ["z summer fall winter",
-"f Jas 750",
-],
-  }
+    "Name": "Banana Strawberry Cake",
+    "Description": "Sweet and covered in fruit!",
+    "Category": "Cooking",
+    "Edibility": 84,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 590,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+        "Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Banana",
+            "Count": 1,
+        },
+        {
+            "Object": 400,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Queque de banano con fresas",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Bolo de morango e banana",
+        "ru": "",
+        "tr": "",
+        "zh": "香蕉草莓蛋糕",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Dulce y cubierto de fruta!",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Doce e coberto de frutas!",
+        "ru": "",
+        "tr": "",
+        "zh": "香蕉草莓蛋糕。很甜而且里面充满了水果！",
+    }
 }

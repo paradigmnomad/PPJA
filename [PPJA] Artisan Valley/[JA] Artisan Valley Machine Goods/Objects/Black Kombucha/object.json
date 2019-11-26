@@ -1,0 +1,44 @@
+{
+    "Name": "Black Kombucha",
+    "Description": "A standard Kombucha made with Black Tea.",
+    "Category": "ArtisanGoods",
+    "Edibility": 30,
+    "EdibleIsDrink": true,
+    "Price": 750,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Harvey", "Leah", "Sebastian"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Kombucha negro",
+        "ko": "",
+        "de": "Schwarzer Kombucha",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "红康普茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un kombucha estándar hecho con té negro.",
+        "ko": "",
+        "de": "Ein Standard-Kombucha aus schwarzem Tee.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一种标准的康普茶由红茶制成。",
+    }
+}

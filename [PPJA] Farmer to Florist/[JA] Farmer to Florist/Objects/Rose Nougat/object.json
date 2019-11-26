@@ -1,0 +1,74 @@
+{
+    "Name": "Rose Nougat",
+    "Description": "A confectionary made from eggs, sugar, and honey. This one's topped with roses.",
+    "Category": "Cooking",
+    "Edibility": 90,
+    "EdibleIsDrink": false,
+    "EdibleBuffs":
+    {
+        "Farming": 1,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 1440,
+    },
+    "Price": 500,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": 340,
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        },
+        {
+            "Object": "English Rose",
+            "Count": 1,
+        }, ],
+        "IsDefault": false,
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Turrón rosa",
+        "ko": "로즈 누가",
+        "de": "Nougat Schokoladen Rosen",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Torrone de Rosa",
+        "ru": "",
+        "tr": "",
+        "zh": "玫瑰牛轧糖",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un rico dulce para cualquier ocasión.",
+        "ko": "달걀, 설탕, 꿀로 만든 설탕과자. 이것은 장미꽃으로 장식되어 있다.",
+        "de": "Ein Konfekt aus Eiern, Zucker und Honig. Dieser ist mit Rosen gekrönt.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Uma confeitaria feito com ovos, açúcar e mel. Este é coberto com rosas.",
+        "ru": "",
+        "tr": "",
+        "zh": "玫瑰牛轧糖。由鸡蛋、糖和蜂蜜制成的糖果。上面覆盖有玫瑰花。",
+    }
+}

@@ -19,12 +19,7 @@
   },
   "Price": 880,
   "IsColored": false,
-"CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 1880,
-    "PurchaseRequirements": ["f Demetrius 1250",
-"z spring fall winter",
-],
+"CanPurchase": false,
   "Recipe": {
     "ResultCount": 1,
     "Ingredients": [
@@ -45,11 +40,33 @@
         "Count": 1,
       }
     ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 5880,
-    "PurchaseRequirements": ["f Demetrius 1250",
-"z spring fall winter",
-],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Noche en la playa",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "海滩之夜",
+  },
+ "DescriptionLocalization": { 
+    "es": "Una bebida tropical afrutada.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "海滩之夜。果味的热带饮料。",
   }
 }

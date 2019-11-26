@@ -1,0 +1,51 @@
+{
+    "Name": "Blue_Mist",
+    "Product": "Blue Mist",
+    "SeedName": "Blue Mist Seeds",
+    "SeedDescription": "Plant in summer. Takes 7 days to produce a blue star-shaped flower.",
+    "Type": "Flower",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 180,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de niebla azul",
+        "ko": "블루미스트 씨앗",
+        "de": "Blue Mist-Saat",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Sementes de névoa azul",
+        "ru": "",
+        "tr": "",
+        "zh": "蓝雾种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 7 días para producir una flor azul en forma de estrella.",
+        "ko": "여름에 심습니다. 7일후에 피는 별모양의 꽃입니다.",
+        "de": "Pflanzen sie im Sommer. Wächst in 15 Tagen heran.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as no verão. Demoram 7 dias para nascer uma flor azul em forma de estrela.",
+        "ru": "",
+        "tr": "",
+        "zh": "夏天播种。7天后可收获星形的蓝色花朵。",
+    }
+}

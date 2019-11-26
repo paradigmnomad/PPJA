@@ -1,9 +1,0 @@
-{
-  "Name": "Magnolia",
-  "Description": "A popular spring flower that has inspired many an artist.",
-  "Category": "Flower",
-  "Edibility": 8,
-  "Price": 100,
-  "IsColored": false,
-  "Recipe": null
-}

@@ -1,30 +1,58 @@
 {
-  "Name": "Bonito Flakes",
-  "Description": "Thinly shaved flakes of dried tuna.",
-  "Category": "Cooking",
-  "Edibility": 22,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 250,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Linus", "Willy"],
-    "Neutral": ["Demetrius", "Elliott", "Pam"],
-	"Dislike": ["Abigial", "Alex", "Caroline",  "Dwarf", "Emily", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru",  "Penny", "Pierre", "Robin", "Sam", "Sandy",  "Sebastian", "Shane", "Vincent", "Wizard"],
-	"Hate": ["Evelyn"],
+    "Name": "Bonito Flakes",
+    "Description": "Thinly shaved flakes of dried tuna.",
+    "Category": "Cooking",
+    "Edibility": 22,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 250,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Linus", "Willy"],
+        "Neutral": ["Demetrius", "Elliott", "Pam"],
+        "Dislike": ["Abigial", "Alex", "Caroline", "Dwarf", "Emily", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Hate": ["Evelyn"],
     },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 130,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 800,
-    "PurchaseRequirements": ["z spring fall",
-],
-  }
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 130,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 800,
+        "PurchaseRequirements": ["z spring fall", ],
+    },
+    "NameLocalization":
+    {
+        "es": "Copos bonito",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Flocos de peixe bonito",
+        "ru": "",
+        "tr": "",
+        "zh": "金枪鱼薄片干",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Escamas finamente afeitadas de atún seco.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Flocos ralados em lascas finas de atum seco.",
+        "ru": "",
+        "tr": "",
+        "zh": "金枪鱼薄片干。鱼干。",
+    }
 }

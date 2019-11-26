@@ -1,0 +1,43 @@
+{
+    "Name": "Carolina Reaper Extract",
+    "Description": "The perfect gift for someone who tries to steal your wallet.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 900,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Krobus", "Shane"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Willy", "Wizard"],
+        "Dislike": ["Haley", "Jas", "Vincent", ],
+    },
+    "NameLocalization":
+    {
+        "es": "Extracto de segador de carolina",
+        "ko": "",
+        "de": "Carolina Reaper-Extrakt",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "卡罗莱纳死神辣椒提取液",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "El regalo perfecto para alguien que intenta robar tu billetera.",
+        "ko": "",
+        "de": "Das perfekte Geschenk für jemanden, der versucht, Ihren Geldbeutel zu stehlen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "这是一个想要偷你钱包的人的完美礼物。",
+    }
+}

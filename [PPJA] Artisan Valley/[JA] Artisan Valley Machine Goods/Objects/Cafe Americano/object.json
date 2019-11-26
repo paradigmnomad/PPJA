@@ -1,0 +1,52 @@
+{
+    "Name": "Cafe Americano",
+    "Description": "Bitter and strong. This will help you wake up.",
+    "Category": "ArtisanGoods",
+    "Edibility": 30,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 120,
+    },
+    "Price": 300,
+    "IsColored": false,
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Café Americano",
+        "ko": "",
+        "de": "Amerikanischer Kaffee",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "美式咖啡",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Amargo y fuerte. Esto te ayudará a despertarte.",
+        "ko": "",
+        "de": "Bitter und stark. Dies wird Ihnen beim Aufwachen helfen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "苦又强。这将帮助您醒来。",
+    }
+}

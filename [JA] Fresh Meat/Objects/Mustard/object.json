@@ -31,5 +31,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 250,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Mostaza",
+    "ko": "머스타드",
+    "de": "Senf",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "芥末",
+  },
+ "DescriptionLocalization": { 
+    "es": "Otro elemento básico para llevar al picnic.",
+    "ko": "피크닉 필수 요소.",
+    "de": "Passt zu Ketchup.",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "芥末。另一个野餐主食。",
   }
 }

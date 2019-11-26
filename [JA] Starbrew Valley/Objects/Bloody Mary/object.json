@@ -47,5 +47,32 @@
     "PurchasePrice": 1440,
     "PurchaseRequirements": ["y 2",
 ],
+  },
+
+ "NameLocalization": { 
+    "es": "Bloody Mary",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "血腥玛丽",
+  },
+ "DescriptionLocalization": { 
+    "es": "No lo digas más de una vez.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "血腥玛丽。不要说它不止一次。",
   }
 }

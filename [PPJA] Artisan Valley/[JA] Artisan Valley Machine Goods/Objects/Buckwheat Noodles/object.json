@@ -1,0 +1,42 @@
+{
+    "Name": "Buckwheat Noodles",
+    "Description": "A bag of coarse, earthy-flavored noodles.",
+    "Category": "ArtisanGoods",
+    "Edibility": 10,
+    "Price": 275,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+        "Dislike": ["Jas", "Krobus", "Vincent", "Willy"],
+    },
+    "NameLocalization":
+    {
+        "es": "Fideos de alforfón",
+        "ko": "",
+        "de": "Buchweizennudeln",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "荞麦面",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una bolsa de fideos gruesos, con sabor a tierra.",
+        "ko": "",
+        "de": "Eine Tüte mit groben, erdigen Nudeln.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一袋粗的荞麦面条。",
+    }
+}

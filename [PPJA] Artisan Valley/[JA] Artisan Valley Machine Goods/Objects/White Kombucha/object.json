@@ -1,0 +1,44 @@
+{
+    "Name": "White Kombucha",
+    "Description": "A standard Kombucha made with White Tea.",
+    "Category": "ArtisanGoods",
+    "Edibility": 18,
+    "EdibleIsDrink": true,
+    "Price": 390,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Kombucha blanco",
+        "ko": "",
+        "de": "White Kombucha",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "白康普茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un kombucha estándar hecho con té blanco.",
+        "ko": "",
+        "de": "Ein Standard-Kombucha mit weißem Tee.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一种标准的康普茶由白茶制成。",
+    }
+}

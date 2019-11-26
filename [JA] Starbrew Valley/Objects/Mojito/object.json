@@ -50,5 +50,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1490,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Mojito",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "莫吉托",
+  },
+ "DescriptionLocalization": { 
+    "es": "¿Qué? Dijeron que no bebieran el agua.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "莫吉托。什么？他们说不要喝水。",
   }
 }

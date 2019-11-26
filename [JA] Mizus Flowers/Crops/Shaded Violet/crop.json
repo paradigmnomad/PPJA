@@ -6,16 +6,17 @@
     "Type": "Flower",
 
     "Seasons": ["spring"],
-    "Phases": [ 1, 1, 3, 3 ],
+    "Phases": [1, 1, 3, 3],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": [
-    "151, 80, 217, 255",
-    "247, 214, 255, 255",
-    "217, 140, 255, 255"
+        "151, 80, 217, 255",
+        "247, 214, 255, 255",
+        "217, 140, 255, 255"
     ],
-    "Bonus": {
+    "Bonus":
+    {
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 1,
         "MaxIncreasePerFarmLevel": 5,
@@ -23,5 +24,32 @@
     },
 
     "SeedPurchasePrice": 30,
-
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de violeta africana",
+        "ko": "바이올렛 씨앗",
+        "de": "Veilchen-Saat",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Semente de violeta sombreada",
+        "ru": "",
+        "tr": "",
+        "zh": "紫罗兰种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera. Toma 6 días para producir una rica flor morada.",
+        "ko": "봄에 심습니다. 8일후에 진한 보라빛의 꽃이 핍니다.",
+        "de": "Pflanzen sie im Frühling. Wächst in 10 Tagen heran.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Plante-as na primavera. Demoram 8 dias para produzir uma rica flor roxa.",
+        "ru": "",
+        "tr": "",
+        "zh": "春天播种。8天后可收获很多紫色的花。",
+    }
 }

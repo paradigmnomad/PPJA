@@ -1,0 +1,44 @@
+{
+    "Name": "Coconut Butter",
+    "Description": "A light butter with a tropical scent.",
+    "Category": "ArtisanGoods",
+    "Edibility": 6,
+    "Price": 250,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Haley", "Linus"],
+        "Like": ["Demetrius", "Elliott", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Pam", "Robin", "Sandy", "Shane", "Vincent"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Dwarf"]
+    },
+    "NameLocalization":
+    {
+        "es": "Mantequilla de coco",
+        "ko": "",
+        "de": "Kokosnuss-Butter",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "椰子奶油",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Mantequilla ligera con un aroma tropical.",
+        "ko": "",
+        "de": "Eine leichte Butter mit einem tropischen Duft.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一种带有热带水果气息的素奶油。",
+    }
+}

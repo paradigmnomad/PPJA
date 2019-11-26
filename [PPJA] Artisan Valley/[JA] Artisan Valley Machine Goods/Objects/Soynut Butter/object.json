@@ -1,0 +1,42 @@
+{
+    "Name": "Soynut Butter",
+    "Description": "A butter made of soybeans for lactose intolerant individuals.",
+    "Category": "ArtisanGoods",
+    "Edibility": 14,
+    "Price": 175,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Mantequilla de soja",
+        "ko": "",
+        "de": "Soja-Butter",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "黄豆黄油",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una de las mantequillas más caras, es hecha de soja especialmente para personas con intolerancia a la lactosa.",
+        "ko": "",
+        "de": "Eine Butter aus Sojabohnen, für laktoseintolerante Personen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一种由大豆制成的黄油。",
+    }
+}

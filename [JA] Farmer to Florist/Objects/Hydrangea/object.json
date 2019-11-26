@@ -1,9 +1,0 @@
-{
-    "Name": "Hydrangea",
-    "Description": "With large, round flower clusters, this shrub is incredibly popular among gardeners.",
-    "Category": "Flower",
-    "Edibility": -40,
-    "Price": 170,
-	"IsColored": true,
-	"Recipe": null
-}

@@ -1,0 +1,66 @@
+{
+    "Name": "Bouquet of Longing",
+    "Description": "An arrangement of dark purple flowers, meant as a manifestation of lingering desire.",
+    "Category": "Crafting",
+    "Edibility": -300,
+    "Price": 1750,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Clematis",
+            "Count": 1
+        },
+        {
+            "Object": "Wisteria",
+            "Count": 1
+        },
+        {
+            "Object": "Iris",
+            "Count": 1
+        },
+        {
+            "Object": 418,
+            "Count": 1
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Elliott", "Maru", "Shane", "Sebastian"],
+        "Like": ["Leah", "Harvey", "Emily", "Abigail", "Penny", "Alex", "Sam", "Sebastian"],
+        "Neutral": ["Linus", "Wizard", "Gus", "Willy", "Dwarf", "Krobus", "Sandy"],
+        "Dislike": ["Demetrius", "Evelyn", "Caroline", "Kent", "Lewis", "Marnie", "Robin", "Pam", "Pierre", "Jas", "Vincent"],
+        "Hate": ["George", "Clint", "Jodi"]
+    },
+    "NameLocalization":
+    {
+        "es": "Ramo de la nostalgia",
+        "ko": "간절한 꽃다발",
+        "de": "Blumenstrauß der Sehnsucht",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Buquê da Saudade",
+        "ru": "",
+        "tr": "",
+        "zh": "憧憬花束",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un arreglo de flores de color púrpura oscuro, como una manifestación del persistente deseo.",
+        "ko": "짙은 자주색 꽃의 배열, 간절한 욕망의 표출이라는 뜻",
+        "de": "Eine Anordnung von dunkelvioletten Blüten, die als Manifestation des anhaltenden Verlangens gedacht ist.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um arranjo de flores roxas escuras, significava uma manifestação de desejo persistente.",
+        "ru": "",
+        "tr": "",
+        "zh": "暗紫色的花束，蕴含着强烈的渴望的心情。",
+    }
+}

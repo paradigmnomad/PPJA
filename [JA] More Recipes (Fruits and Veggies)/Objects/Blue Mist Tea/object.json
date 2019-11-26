@@ -1,31 +1,65 @@
 {
-  "Name": "Blue Mist Tea",
-  "Description": "A slighty sweet tea made from blue mist flowers.",
-  "Category": "Cooking",
-  "Edibility": 23,
-  "EdibleIsDrink": true,
- "EdibleBuffs": null,
-  "Price": 445,
-  "IsColored": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Blue Mist",
-        "Count": 2,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 1445,
-    "PurchaseRequirements": [
-      "z spring fall winter",
-    ]
-  },
-  "GiftTastes": {
-	"Love": ["Caroline", "Maru"],
-	"Like": ["Abigail", "Alex", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Penny", "Robin", "Sam", "Sandy", "Sebastian", "Wizard"],
-	"Neutral": ["Kent", "Pierre", "Vincent"],
-	"Dislike": ["George", "Pam", "Shane", "Willy"],
-  }
+    "Name": "Blue Mist Tea",
+    "Description": "A slighty sweet tea made from blue mist flowers.",
+    "Category": "Cooking",
+    "Edibility": 23,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 445,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Blue Mist",
+            "Count": 1,
+        },
+{
+            "Object": 815,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1445,
+        "PurchaseRequirements": [
+            "z spring fall winter",
+        ]
+    },
+    "GiftTastes":
+    {
+        "Love": ["Caroline", "Maru"],
+        "Like": ["Abigail", "Alex", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Penny", "Robin", "Sam", "Sandy", "Sebastian", "Wizard"],
+        "Neutral": ["Kent", "Pierre", "Vincent"],
+        "Dislike": ["George", "Pam", "Shane", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de niebla azul",
+        "ko": "블루미스트 차",
+        "de": "Blue Mist Tee",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Chá azul da névoa",
+        "ru": "",
+        "tr": "",
+        "zh": "蓝雾茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un té ligeramente dulce hecho de flores de niebla azul.",
+        "ko": "블루미스트로 만든 은은하게 달콤한 차.",
+        "de": "Ein leicht süßer Tee aus blauen Nebelblumen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Um chá levemente doce feito de flores de névoa azul.",
+        "ru": "",
+        "tr": "",
+        "zh": "蓝雾茶。一种由蓝雾制成的轻微甜味的茶。",
+    }
 }

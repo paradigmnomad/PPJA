@@ -44,5 +44,32 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 5800,
     "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Derby",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "德比",
+  },
+ "DescriptionLocalization": { 
+    "es": "Fuera de las pistas de carreras!",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "德比。跑向赛道！",
   }
 }

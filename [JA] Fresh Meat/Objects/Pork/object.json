@@ -14,4 +14,33 @@
 "PurchaseFrom": "Gus",
     "PurchasePrice": 80,
     "PurchaseRequirements": null,
+    
+
+ "NameLocalization": { 
+    "es": "Puerco",
+    "ko": "돼지고기",
+    "de": "Schweinefleisch",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "猪肉",
+  },
+ "DescriptionLocalization": { 
+    "es": "Un corte grasiento de cerdo.",
+    "ko": "돼지에게서 얻는 고기.",
+    "de": "Ein fettes Stück vom Schwein.",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "一份猪肉。",
+  },
+  "DisableWithMod": "DIGUS.ANIMALHUSBANDRYMOD"
 }

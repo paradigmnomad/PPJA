@@ -1,13 +1,50 @@
 {
-  "Name": "Cocoa Pod",
-  "Description": "The pod obtained from a cocoa tree. Mmm! Who's ready to make some chocolate?",
-  "Category": "Vegetable",
-  "Edibility": -300,
-  "Price": 125,
-  "IsColored": false,
-  "GiftTastes": {
-    "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent",  "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin","Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
-	"Hate": ["Krobus"],
-  },
-  "Recipe": null,
+    "Name": "Cocoa Pod",
+    "Description": "The pod obtained from a cocoa tree. Mmm! Who's ready to make some chocolate?",
+    "Category": "Vegetable",
+    "Edibility": -300,
+    "Price": 125,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Krobus"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Cacao",
+        "ko": "코코아 꼬투리",
+        "de": "Kakaobohne",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Vagens de cacau",
+        "ru": "",
+        "tr": "",
+        "zh": "可可豆",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "La vaina obtenida de un árbol de cacao. ¡Mmm! ¿Quién está listo para hacer un poco de chocolate?",
+        "ko": "코코아 나무에서 얻은 꼬투리. 음! 누가 초콜릿을 만들 준비가 됐지?",
+        "de": "Die Bohne der Kakaubaums. Mmm!Schokolade.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "A vagem obtida de um cacaueiro. Mmm! Quem está pronto para fazer um pouco de chocolate?",
+        "ru": "",
+        "tr": "",
+        "zh": "从一棵可可树中获得的豆。嗯！谁准备好做巧克力了？",
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_brown",
+        "fruit_tree_item",
+        "dye_medium",
+        "fruit_tree_year_2",
+        "crop_year_2"
+    ]
 }

@@ -1,37 +1,65 @@
 {
-  "Name": "Wisteria Popsicle",
-  "Description": "Freshly picked wisteria, frozen into a popsicle.",
-  "Category": "Cooking",
-  "Edibility": 6,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 500,
-  "IsColored": false,
-  "GiftTastes": {
-	"Love": ["Sandy"],
-    "Like": ["Caroline", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Linus", "Pierre", "Vincent"],
-	"Neutral": ["Abigail", "Alex", "Clint", "Demetrius", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Robin"],
-	},
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Fragrant Wisteria",
-        "Count": 1,
-      },
-      {
-        "Object": 388,
-        "Count": 1,
-      },
-{
-        "Object": -6,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 1000,
-    "PurchaseRequirements": null,
-
-  }
+    "Name": "Wisteria Popsicle",
+    "Description": "Freshly picked wisteria, frozen into a popsicle.",
+    "Category": "Cooking",
+    "Edibility": 6,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 500,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Sandy"],
+        "Like": ["Caroline", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Linus", "Pierre", "Vincent"],
+        "Neutral": ["Abigail", "Alex", "Clint", "Demetrius", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Robin"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Fragrant Wisteria",
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1000,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Paleta de glicina",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Picolé de glicínias",
+        "ru": "",
+        "tr": "",
+        "zh": "紫藤冰棒",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Glicina recién recogida, congelado en una paleta.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Glicínias recém colhidas, congeladas em um picolée.",
+        "ru": "",
+        "tr": "",
+        "zh": "紫藤冰棒。以刚摘的新鲜紫藤作为原料，冻成冰棍。",
+    }
 }

@@ -8,4 +8,32 @@
 "SaplingPurchaseFrom": "Sandy",
     "SaplingPurchasePrice": 5000,
     "SaplingPurchaseRequirements": null,
+     "SaplingNameLocalization":
+    {
+        "es": "Brote de pitaya",
+        "ko": "용과 묘목",
+        "de": "Dachenfrucht-Setzling (Sapling)",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Muda de fruta do dragão",
+        "ru": "",
+        "tr": "",
+        "zh": "火龙果树苗Sapling",
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "es": "Toma 28 días para producir un árbol maduro de fruta del dragón. Da fruto en el verano. Solo crece si las 8 casillas circundantes están vacías.",
+        "ko": "28일후에 성목이 됩니다. 여름에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
+        "de": "Wächst in 28 Tagen zu einem reifen Dachenfruchtbaum heran. Trägt im Sommer Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Demora até 28 dias para produzir uma árvore de fruta do dragão madura. Dá frutas no verão. Só cresce se os 8 espaços adjacentes estiverem vazios.",
+        "ru": "",
+        "tr": "",
+        "zh": "28天成熟为成年火龙果树。夏天结果。只有在附近8块地块都空置的情况下才会成长。",
+    }
 }

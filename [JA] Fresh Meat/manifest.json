@@ -1,18 +1,18 @@
 {
-   "Name": "Fresh Meat",
-   "Author": "ParadigmNomad, MizuJakkaru, ConcernedApe, Maruki",
-   "Description": "MEEEEEEAT - for those who wish to have meat in their game.",
-   "Version": "1.3.3",
-   "MinimumApiVersion": "2.10.1",
-   "UniqueID": "paradigmnomad.freshmeat",
- "ContentPackFor": {
-       "UniqueID": "spacechase0.JsonAssets"
+    "Name": "Fresh Meat",
+    "Author": "Project Populate Json Assets",
+    "Description": "MEEEEEEAT - for those who wish to have meat in their game.",
+    "Version": "2.0.0",
+    "MinimumApiVersion": "2.11.3",
+    "UniqueID": "paradigmnomad.freshmeat",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
     },
-   "UpdateKeys": [ "Nexus:1721" ],
- "Dependencies": [
-   {
-      "UniqueID": "ppja.fruitsandveggies",
-      "IsRequired": true,
-   },
-  ]
+    "UpdateKeys": ["Nexus:1721"],
+    "Dependencies": [
+    {
+        "UniqueID": "ppja.fruitsandveggies",
+        "IsRequired": true,
+    }, ]
 }

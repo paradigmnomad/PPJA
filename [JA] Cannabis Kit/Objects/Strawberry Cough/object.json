@@ -1,14 +1,43 @@
 {
-  "Name": "Strawberry Cough",
-  "Description": "A combination of stimulating sativa and relaxing indica, hybrid strains are the best of both worlds.",
-  "Category": "Flower",
-  "Edibility": 10,
-  "Price": 220,
-  "IsColored": false,
-  "Recipe": null,
-  "GiftTastes": {
-    "Love": ["Sebastian", "Sam", "Abigail"],
-    "Neutral" : ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
-    "Hate": ["Jas", "Vincent"],
-  },
+    "Name": "Strawberry Cough",
+    "Description": "A combination of stimulating sativa and relaxing indica, hybrid strains are the best of both worlds.",
+    "Category": "Flower",
+    "Edibility": 10,
+    "Price": 20,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian", "Sam", "Abigail"],
+        "Neutral": ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
 }

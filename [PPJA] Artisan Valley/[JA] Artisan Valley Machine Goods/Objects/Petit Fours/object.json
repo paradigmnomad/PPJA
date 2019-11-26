@@ -1,0 +1,59 @@
+{
+    "Name": "Petit Fours",
+    "Description": "Fluffy layers of almond cake and cream, iced and topped with sugary flowers.",
+    "Category": "Cooking",
+    "Edibility": 36,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 220,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Almond",
+            "Count": 2,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 2,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1500,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Petit Fours",
+        "ko": "",
+        "de": "Petit Fours",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "小蛋糕",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Trocitos esponjosos de pastes de almendras y crema, cubierto de azúcar.",
+        "ko": "",
+        "de": "Flauschige Schichten von Mandelkuchen und Sahne, gefroren und mit Zuckerblüten belegt.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "蓬松的杏仁蛋糕和奶油层，在冰上淋上糖花。",
+    }
+}

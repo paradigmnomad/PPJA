@@ -1,0 +1,60 @@
+{
+    "Name": "Scotch",
+    "Description": "A variety of whiskey distilled from barley malt. Drink in moderation.",
+    "Category": "ArtisanGoods",
+    "Edibility": 10,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 180,
+    },
+    "Price": 300,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Pam", "Shane"],
+        "Like": ["George", "Gus"],
+        "Neutral": ["Marnie", "Clint", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Dislike": ["Penny"],
+        "Hate": ["Vincent", "Jas"]
+    },
+    "NameLocalization":
+    {
+        "es": "Whisky escocés",
+        "ko": "",
+        "de": "Scotch",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "苏格兰威士忌",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una variedad de whisky. Beber con moderación.",
+        "ko": "",
+        "de": "Eine variante von Whisky, aus Gerstenmalz destilliert. Genieße Ihn in Maßen.",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "一种由大麦麦芽蒸馏而成的威士忌。适量饮酒。",
+    }
+}

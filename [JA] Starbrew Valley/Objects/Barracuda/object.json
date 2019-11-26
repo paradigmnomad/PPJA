@@ -47,5 +47,32 @@
     "PurchasePrice": 6070,
     "PurchaseRequirements": ["y 2",
 ],
+  },
+
+ "NameLocalization": { 
+    "es": "Barracuda",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "梭子鱼",
+  },
+ "DescriptionLocalization": { 
+    "es": "No, esto no es una bebida a pescado.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "梭子鱼。不，这不是一种腥味的饮料。",
   }
 }

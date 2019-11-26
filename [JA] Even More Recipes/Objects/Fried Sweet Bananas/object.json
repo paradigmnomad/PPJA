@@ -1,36 +1,65 @@
 {
-  "Name": "Fried Sweet Bananas",
-  "Description": "Sugared bananas, saute�d in butter.",
-  "Category": "Cooking",
-  "Edibility": 68,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 545,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-    "Neutral": ["Leah", "Harvey"],
-	"Dislike": ["Krobus", "Willy"],
-	},
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 245,
-        "Count": 1,
-      },
-      {
-        "Object": "Butter",
-        "Count": 1,
-      },
-{
-        "Object": "Banana",
-        "Count": 2,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 2545,
-    "PurchaseRequirements": null,
-  }
+    "Name": "Fried Sweet Bananas",
+    "Description": "Sugared bananas, sauteed in butter.",
+    "Category": "Cooking",
+    "Edibility": 68,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 545,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Leah", "Harvey"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": "Butter",
+            "Count": 1,
+        },
+        {
+            "Object": "Banana",
+            "Count": 2,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2545,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Plátanos dulces fritos",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Bananas doces fritas",
+        "ru": "",
+        "tr": "",
+        "zh": "煎甜香蕉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Plátanos azucarados, salteados en mantequilla.",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "Bananas açucaradas, refogadas em manteiga.",
+        "ru": "",
+        "tr": "",
+        "zh": "煎甜香蕉。加了糖的香蕉，用黄油煎。",
+    }
 }

@@ -39,5 +39,32 @@
     "PurchasePrice": 5600,
     "PurchaseRequirements": ["y 2",
 ],
+  },
+
+ "NameLocalization": { 
+    "es": "Martini",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "马天尼",
+  },
+ "DescriptionLocalization": { 
+    "es": "Sacudido, no revuelto.",
+    "ko": "",
+    "de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "马天尼。摇动，不搅拌。",
   }
 }
