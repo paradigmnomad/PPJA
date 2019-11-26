@@ -1,43 +1,14 @@
 {
-    "Name": "Chai Kombucha",
-    "Description": "Hints of cinnamon, ginger, clove, and apple cider make this an interesting take on traditional Kombucha.",
-    "Category": "ArtisanGoods",
-    "Edibility": 30,
-    "EdibleIsDrink": true,
-    "Price": 1200,
-    "IsColored": false,
-    "Recipe": null,
-    "GiftTastes":
-    {
-        "Love": ["George", "Sebastian", "Wizard"],
-        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy"],
-    },
-    "NameLocalization":
-    {
-        "es": "Kombucha de chai",
-        "ko": "",
-        "de": "Chai Kombucha",
-        "fr": "",
-        "hu": "",
-        "it": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "tr": "",
-        "zh": "印度康普香茶",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Los toques de canela, jengibre, clavo de olor y sidra de manzana hacen de esta una visión interesante de la tradicional kombucha.",
-        "ko": "",
-        "de": "Hinweise auf Zimt, Ingwer, Nelke und Apfelwein machen dies zu einer interessanten Interpretation des traditionellen Kombucha.",
-        "fr": "",
-        "hu": "",
-        "it": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "tr": "",
-        "zh": "肉桂、姜、丁香和苹果酒的混合，这种混合对传统的康普茶有了一个令人新奇的体验。",
-    }
+  "Name": "Chai Kombucha",
+  "Description": "Hints of cinnamon, ginger, clove, and apple cider make this an interesting take on traditional Kombucha.",
+  "Category": "ArtisanGoods",
+  "Edibility": 30,
+  "EdibleIsDrink": true,
+  "Price": 1200,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["George", "Sebastian", "Wizard"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy"],
+  }
 }

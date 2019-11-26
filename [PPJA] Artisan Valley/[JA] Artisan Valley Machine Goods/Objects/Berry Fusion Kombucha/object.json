@@ -1,44 +1,15 @@
 {
-    "Name": "Berry Fusion Kombucha",
-    "Description": "A flavorful sparkling fruit-blend.",
-    "Category": "ArtisanGoods",
-    "Edibility": 26,
-    "EdibleIsDrink": true,
-    "Price": 1050,
-    "IsColored": false,
-    "Recipe": null,
-    "GiftTastes":
-    {
-        "Like": ["Demetrius", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Sebastian", "Shane"],
-        "Dislike": ["Abigail", "Alex", "Clint", "Dwarf", "Emily", "George", "Gus", "Haley", "Harvey", "Jas", "Krobus", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Caroline", "Elliott", "Evelyn"],
-    },
-    "NameLocalization":
-    {
-        "es": "Kombucha de fusión de bayas",
-        "ko": "",
-        "de": "gemischte Beeren Kombucha",
-        "fr": "",
-        "hu": "",
-        "it": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "tr": "",
-        "zh": "混合浆果康普茶",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Una sabrosa mezcla de frutas espumosas.",
-        "ko": "",
-        "de": "Eine würzige Fruchtmischung.",
-        "fr": "",
-        "hu": "",
-        "it": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "tr": "",
-        "zh": "混合的浆果在这种康普茶里面闪闪发光。",
-    }
+  "Name": "Berry Fusion Kombucha",
+  "Description": "A flavorful sparkling fruit-blend.",
+  "Category": "ArtisanGoods",
+  "Edibility": 26,
+  "EdibleIsDrink": true,
+  "Price": 1050,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Like": ["Demetrius", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Sebastian", "Shane"],
+	"Dislike": ["Abigail", "Alex", "Clint", "Dwarf", "Emily", "George", "Gus", "Haley", "Harvey", "Jas", "Krobus", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Vincent", "Willy", "Wizard"],
+	"Hate": ["Caroline", "Elliott", "Evelyn"],
+  }
 }

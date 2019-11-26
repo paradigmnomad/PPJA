@@ -1,10 +1,10 @@
 {
-  "Name": "Jasmine Kombucha",
-  "Description": "A Kombucha made from Jasmine flowers.",
+  "Name": "Kombucha",
+  "Description": "A tea-like drink made from fermented mushrooms. ",
   "Category": "ArtisanGoods",
-  "Edibility": 30,
+  "Edibility": 6,
   "EdibleIsDrink": true,
-  "Price": 850,
+  "Price": 150,
   "IsColored": false,
   "Recipe": null,
   "GiftTastes": {

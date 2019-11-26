@@ -1,46 +1,18 @@
 {
-    "Name": "Rose Kombucha",
-    "Description": "Made with freshly picked rose petals.",
-    "Category": "ArtisanGoods",
-    "Edibility": 30,
-    "EdibleIsDrink": true,
-    "Price": 1240,
-    "IsColored": false,
-    "Recipe": null,
-    "GiftTastes":
-    {
-        "Love": ["Penny", "Krobus", "Wizard", "Linus", "Emily"],
-        "Like": ["Marnie", "Jodi", "Leah", "Sandy", "Sam", "Evelyn"],
-        "Neutral": ["Sebastian", "Abigail", "Caroline", "Maru", "Demetrius"],
-        "Dislike": ["Haley", "Pam", "Dwarf", "George", "Alex", "Harvey"],
-        "Hate": ["Vincent", "Jas", "Shane", "Willy", "Lewis", "Pierre", "Clint"]
-    },
-    "NameLocalization":
-    {
-        "es": "Kombucha rosa",
-        "ko": "",
-        "de": "Rose Kombucha",
-        "fr": "",
-        "hu": "",
-        "it": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "tr": "",
-        "zh": "玫瑰康普茶",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Hecho con pétalos de rosa recién recogidos.",
-        "ko": "",
-        "de": "Hergestellt mit frisch gepflückten Rosenblättern",
-        "fr": "",
-        "hu": "",
-        "it": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "tr": "",
-        "zh": "用新鲜采摘的玫瑰花瓣做的。",
-    }
+  "Name": "Rose Kombucha",
+  "Description": "Made with freshly picked rose petals.",
+  "Category": "ArtisanGoods",
+  "Edibility": 30,
+  "EdibleIsDrink": true,
+  "Price": 1240,
+  "IsColored": false,
+  "Recipe": null,
+"GiftTastes":
+{
+"Love": ["Penny", "Krobus", "Wizard", "Linus", "Emily"],
+"Like": ["Marnie", "Jodi", "Leah", "Sandy", "Sam", "Evelyn"],
+"Neutral": ["Sebastian", "Abigail", "Caroline", "Maru", "Demetrius"],
+"Dislike": ["Haley", "Pam", "Dwarf", "George", "Alex", "Harvey"],
+"Hate": ["Vincent", "Jas", "Shane", "Willy", "Lewis", "Pierre", "Clint"]
+}
 }

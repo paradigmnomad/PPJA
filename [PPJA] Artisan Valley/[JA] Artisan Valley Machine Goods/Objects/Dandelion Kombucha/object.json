@@ -1,44 +1,15 @@
 {
-    "Name": "Dandelion Kombucha",
-    "Description": "Nature knows best.",
-    "Category": "ArtisanGoods",
-    "Edibility": 26,
-    "EdibleIsDrink": true,
-    "Price": 490,
-    "IsColored": false,
-    "Recipe": null,
-    "GiftTastes":
-    {
-        "Like": ["Abigail", "Alex", "Clint", "Demetrius", "Emily", "Evelyn", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian"],
-        "Dislike": ["Caroline", "Dwarf", "Elliott", "Haley", "Jas", "Krobus", "Sam", "Shane", "Vincent", "Willy", "Wizard"],
-        "Hate": ["George", "Jodi"],
-    },
-    "NameLocalization":
-    {
-        "es": "Kombucha de diente de león",
-        "ko": "",
-        "de": "Wiesen Kombucha",
-        "fr": "",
-        "hu": "",
-        "it": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "tr": "",
-        "zh": "蒲公英康普茶",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "La naturaleza sabe mejor.",
-        "ko": "",
-        "de": "Die Natur weiß es am besten.",
-        "fr": "",
-        "hu": "",
-        "it": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "tr": "",
-        "zh": "这种自然的味道是最好的。",
-    }
+  "Name": "Dandelion Kombucha",
+  "Description": "Nature knows best.",
+  "Category": "ArtisanGoods",
+  "Edibility": 26,
+  "EdibleIsDrink": true,
+  "Price": 490,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Like": ["Abigail", "Alex", "Clint", "Demetrius", "Emily", "Evelyn", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian"],
+	"Dislike": ["Caroline", "Dwarf", "Elliott", "Haley", "Jas", "Krobus", "Sam", "Shane", "Vincent", "Willy", "Wizard"],
+	"Hate": ["George", "Jodi"],
+  },
 }

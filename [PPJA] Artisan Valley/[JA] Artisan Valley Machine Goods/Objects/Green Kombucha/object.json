@@ -1,44 +1,15 @@
 {
-    "Name": "Green Kombucha",
-    "Description": "A standard Kombucha made with Green Tea.",
-    "Category": "ArtisanGoods",
-    "Edibility": 18,
-    "EdibleIsDrink": true,
-    "Price": 500,
-    "IsColored": false,
-    "Recipe": null,
-    "GiftTastes":
-    {
-        "Love": ["Harvey", "Sebastian"],
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Haley", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Elliott", "Jas", "Sam", "Vincent"],
-    },
-    "NameLocalization":
-    {
-        "es": "Kombucha verde",
-        "ko": "",
-        "de": "grüner Kombucha",
-        "fr": "",
-        "hu": "",
-        "it": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "tr": "",
-        "zh": "绿康普茶",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Un kombucha estándar hecho con té verde.",
-        "ko": "",
-        "de": "Ein Standard-Kombucha aus grünem Tee.",
-        "fr": "",
-        "hu": "",
-        "it": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "tr": "",
-        "zh": "一种普通的康普茶由绿茶制成。",
-    }
+  "Name": "Green Kombucha",
+  "Description": "A standard Kombucha made with Green Tea.",
+  "Category": "ArtisanGoods",
+  "Edibility": 18,
+  "EdibleIsDrink": true,
+  "Price": 500,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Harvey", "Sebastian"],
+	"Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Haley", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Abigail", "Elliott", "Jas", "Sam", "Vincent"],
+  }
 }

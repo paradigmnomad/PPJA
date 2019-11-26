@@ -1,43 +1,14 @@
 {
-    "Name": "Breakfast Kombucha",
-    "Description": "It may be normal, darling; but I'd rather be natural.",
-    "Category": "ArtisanGoods",
-    "Edibility": 34,
-    "EdibleIsDrink": true,
-    "Price": 980,
-    "IsColored": false,
-    "Recipe": null,
-    "GiftTastes":
-    {
-        "Love": ["Harvey", "Sebastian"],
-        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-    },
-    "NameLocalization":
-    {
-        "es": "Desayuno de kombucha",
-        "ko": "",
-        "de": "Frühstücks Kombucha",
-        "fr": "",
-        "hu": "",
-        "it": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "tr": "",
-        "zh": "早餐康普茶",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Puede ser normal, querida; pero prefiero ser natural.",
-        "ko": "",
-        "de": "Es kann normal sein, Schatz; aber ich wäre lieber natürlich.",
-        "fr": "",
-        "hu": "",
-        "it": "",
-        "ja": "",
-        "pt": "",
-        "ru": "",
-        "tr": "",
-        "zh": "亲爱的，这可能很普通的。但我更认为它有着自然的芬芳。",
-    }
+  "Name": "Breakfast Kombucha",
+  "Description": "It may be normal, darling; but I'd rather be natural.",
+  "Category": "ArtisanGoods",
+  "Edibility": 34,
+  "EdibleIsDrink": true,
+  "Price": 980,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+	"Love": ["Harvey", "Sebastian"],
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+  },
 }
