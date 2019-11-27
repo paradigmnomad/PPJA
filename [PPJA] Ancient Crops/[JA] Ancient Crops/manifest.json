@@ -2,7 +2,7 @@
 "Name": "Ancient Crops",
     "Author": "Project Populate JsonAssets",
     "Version": "1.0.5",
-   "MinimumApiVersion": "2.11.2",
+   "MinimumApiVersion": "2.11.3",
     "Description": "Adds ancient crops to obtain and plant.",
     "UniqueID": "ppja.ancientcrops",
     "ContentPackFor": {

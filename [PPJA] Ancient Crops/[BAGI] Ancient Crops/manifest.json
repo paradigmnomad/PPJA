@@ -4,7 +4,7 @@
    "Version": "1.0.1",
    "Description": "A collection of artisan good sprites that pair with the PPJA Ancient Crops.",
    "UniqueID": "ppja.bagiAC",
-    "MinimumApiVersion": "2.11.2",
+    "MinimumApiVersion": "2.11.3",
    "ContentPackFor": {
       "UniqueID": "cat.betterartisangoodicons",
 "MinimumVersion": "1.4.0"

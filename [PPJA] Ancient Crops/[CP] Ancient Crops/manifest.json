@@ -2,11 +2,9 @@
    "Name": "CP Ancient Crops",
    "Author": "Project Populate JsonAssets",
     "Version": "1.0.5",
-   "MinimumApiVersion": "2.10.1",
+   "MinimumApiVersion": "2.11.3",
     "Description": "Adds ancient crops to obtain and plant.",
-    "UniqueID": "PPJAAncientCropsCP",
-   "MinimumApiVersion": "1.0",
-   "UpdateKeys": [ "Nexus:4472" ],
+    "UniqueID": "PPJAAncientCropsCP",  
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher",	
    },
