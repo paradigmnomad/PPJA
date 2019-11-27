@@ -195,4 +195,16 @@
             { "NpcName": "Lewis", "FriendshipLevel": 10 }
         ],
     },
+    {
+        "Id": "ppja.paddytaroseeds", 
+        "Text": "@,^^  Come visit me sometime soon! I have some new seeds in stock for the season. They won't grow in Calico Desert but they sure will on your farm.^^  -Sandy", 
+        "Attachments": [{"Type": "Object", "Name":"Paddy Taro Seeds", "Stack": 5},],         
+        "Repeatable": false,         
+        "Date": "4 spring Y2", 
+        "Seasons":  ["summer"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Sandy", "FriendshipLevel": 6 }
+        ],
+    },
 ]
