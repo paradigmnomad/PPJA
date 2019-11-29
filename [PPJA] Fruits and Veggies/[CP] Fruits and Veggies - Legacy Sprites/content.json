@@ -1,5 +1,5 @@
 {
-    "Format": "1.9",
+    "Format": "1.10",
     "ConfigSchema":
     {
 
@@ -131,7 +131,7 @@
             "ToArea":
             {
                 "X": 0,
-                "Y": 554,
+                "Y": 544,
                 "Width": 96,
                 "Height": 32
             },

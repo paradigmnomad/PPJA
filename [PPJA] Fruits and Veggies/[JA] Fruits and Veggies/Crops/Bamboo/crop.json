@@ -4,7 +4,7 @@
     "SeedName": "Bamboo Cutting",
     "SeedDescription": "Plant these in spring or summer. Takes 5 days to mature. Harvest with a scythe.",
     "Type": "Vegetable",
-
+    "CropType": "Paddy",
     "Seasons": ["spring", "summer"],
     "Phases": [1, 1, 1, 1, 3, ],
     "RegrowthPhase": 5,

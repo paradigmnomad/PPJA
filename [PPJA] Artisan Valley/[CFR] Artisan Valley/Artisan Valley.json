@@ -482,7 +482,7 @@
           ]
         },
         {
-          "item": "Spice Kombucha",
+          "item": "Spiced Kombucha",
           "time": 1600,
           "materials": [
             {
@@ -937,7 +937,7 @@
           "time": 120,
           "materials": [
             {
-              "name": "Tea Leaf"
+              "index": 815
             }
           ]
         },
@@ -1821,15 +1821,6 @@
           ]
         },
         {
-          "item": "Rice",
-          "time": 180,
-          "materials": [
-            {
-              "name": "Unpolished Rice"
-            }
-          ]
-        },
-        {
           "item": "Rice Flour",
           "time": 1600,
           "materials": [
@@ -2584,7 +2575,7 @@
               "index": 276
             },
             {
-              "name": "Cinnamon"
+              "name": "Cinnamon Sticks"
             },
             {
               "name": "Nutmeg"
@@ -2593,7 +2584,7 @@
           "conditions": "hasmod Aquilegia.SweetTooth"
         },
         {
-          "item": "Raspberry Swirl Ice Cream",
+          "item": "Raspberry Ripple Ice Cream",
           "time": 200,
           "materials": [
             {
