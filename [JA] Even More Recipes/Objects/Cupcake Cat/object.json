@@ -35,7 +35,6 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1420,
-        "PurchaseRequirements": ["h cat", ],
     },
     "NameLocalization":
     {
