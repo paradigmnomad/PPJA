@@ -6,19 +6,19 @@
         "GreenTeaEnabled":
         {
             "AllowValues": "true, false",
-            "Default": "true"
+            "Default": "false"
         },
 
         "TeaCropEnabled":
         {
             "AllowValues": "true, false",
-            "Default": "true"
+            "Default": "false"
         },
 
         "RiceCropEnabled":
         {
             "AllowValues": "true, false",
-            "Default": "true"
+            "Default": "false"
         },
     },
 

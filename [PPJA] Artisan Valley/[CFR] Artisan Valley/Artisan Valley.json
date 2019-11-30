@@ -1,6 +1,6 @@
 {
   "name": "Artisan Valley Machine Machines",
-  "author": "PopulateProjectJsonAssets",
+  "author": "ProjectPopulateJsonAssets",
   "version": "2.0.0",
   "machines": [
     {
@@ -65,6 +65,15 @@
           ]
         },
         {
+          "item": "Mezcal",
+          "time": 1600,
+          "materials": [
+            {
+              "name": "Maguey"
+            }
+          ]
+        },
+        {
           "item": "Moonshine",
           "time": 1600,
           "materials": [
@@ -97,6 +106,15 @@
           "materials": [
             {
               "name": "Sweet Potato"
+            }
+          ]
+        },
+        {
+          "item": "Tequilia",
+          "time": 6000,
+          "materials": [
+            {
+              "name": "Blue Agave"
             }
           ]
         },
@@ -235,7 +253,7 @@
             }
           ]
         },
-      /*{
+      {
           "item": "Pulque",
           "time": 2360,
           "materials": [
@@ -243,7 +261,7 @@
               "name": "Maguey"
             }
           ]
-        },*/
+        },
         {
           "item": "Sake",
           "time": 6000,
@@ -3152,8 +3170,44 @@
             "index": 88
           }
         ]
-      }
-      ]
-     }
+      },
+      ],
+     },
+     {
+       "id": 24,
+       "name": "Pepper Blender",
+       "description": "Blends peppers into a delicious spicy liquid.",
+       "category": "Crafting",
+       "crafting" : "338 5 335 3 787 3",
+       "texture": "Blender.png",
+       "pulsate": false,       
+       "readyindex": 7,
+       "tileindex": 0,
+       "frames": 6,
+       "production": [
+       {
+        "item": "Habanero Extract",
+        "time": 750,
+        "price": "original + (input * .25)",
+        "materials":
+        [
+          {
+            "name": "Habanero"
+          }
+        ]
+      },
+      {
+        "item": "Jalapeno Extract",
+        "time": 750,
+        "price": "original + (input * .25)",
+        "materials":
+        [
+          {
+            "name": "Jalapeno"
+          }
+        ]
+      },
+      ],
+    },
   ]
 }
