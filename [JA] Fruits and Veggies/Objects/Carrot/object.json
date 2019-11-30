@@ -1,0 +1,42 @@
+{
+    "Name": "Carrot",
+    "Description": "The old wive's tale says that eating carrots helps improve eyesight.",
+    "Category": "Vegetable",
+    "Edibility": 10,
+    "Price": 65,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Zanahoria",
+        "ko": "당근",
+        "de": "Karotte",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ニンジン",
+        "pt": "Cenoura",
+         // "ru": "",
+         // "tr": "",
+        "zh": "胡萝卜",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "El cuento de las viejas esposas dice que comer zanahorias ayuda a mejorar la vista.",
+        "ko": "옛날부터 당근을 먹으면 시력이 좋아 진다고 합니다.",
+        "de": "Eine alte Bauernweisheit besagt, sie verbessern die Sehleistung.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ニンジンを食べると視力がよくなるという迷信がある。",
+        "pt": "Os contos de velhas esposas dizem que comer cenoura ajuda a melhorar a visão.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "老维夫的故事告诉我们吃胡萝卜有助于提高视力。",
+    }
+}

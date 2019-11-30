@@ -1,0 +1,50 @@
+{
+    "Name": "Cotton",
+    "Product": "Cotton Boll",
+    "SeedName": "Cotton Seeds",
+    "SeedDescription": "Plant these in summer or fall. Takes 6 days to mature, and keeps producing after the first harvest.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer", "fall"],
+    "Phases": [1, 1, 1, 2, 2, ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 80,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de algodon",
+        "ko": "목화 씨앗",
+        "de": "Baumwoll-Saat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "コットンのタネ",
+        "pt": "Sementes de algodão",
+         // "ru": "",
+         // "tr": "",
+        "zh": "棉花种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano u otoño. Toma 6 días para madurar, continua produciendo después de la primera cosecha.",
+        "ko": "여름과 가을 작물. 성장하려면 6일이 소요되며, 수확한 후에도 계속 작물이 생산됩니다.",
+        "de": "Pflanze sie im Sommer oder Herbst. Wächst in 6 Tagen, kann aber danach mehrmals geerntet wedern.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "夏または秋植えの作物。そだつのに6日かかる。最初の収穫のあともくりかえし収穫できる。",
+        "pt": "Plante-os no verão ou no outono. Demora 6 dias para amadurecer e continua produzindo após a primeira colheita.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "夏天或秋天播种。6天成熟，收获之后循环生产。",
+    }
+}

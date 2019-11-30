@@ -1,0 +1,44 @@
+{
+    "Name": "Kiwi",
+    "Description": "A juicy, fresh kiwi.",
+    "Category": "Fruit",
+    "Edibility": 12,
+    "Price": 100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Penny", ],
+        "Like": ["Demetrius", "Dwarf", "Elliott", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Shane"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Kiwi",
+        "ko": "키위",
+        "de": "Kiwi",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "キウイ",
+        "pt": "Kiwi",
+         // "ru": "",
+         // "tr": "",
+        "zh": "猕猴桃",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un kiwi jugoso y fresco.",
+        "ko": "즙임 많은 싱싱한 키위",
+        "de": "Eine saftige, frische Kiwi.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "フレッシュでジューシーなキウイ。",
+        "pt": "Um kiwi suculento e fresco.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "多汁和新鲜的猕猴桃。",
+    }
+}

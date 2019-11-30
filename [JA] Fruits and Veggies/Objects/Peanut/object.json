@@ -1,0 +1,43 @@
+{
+    "Name": "Peanut",
+    "Description": "A slightly salty nut that can be churned into peanut butter.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 75,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Harvey", "Kent", "Leah", "Linus"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Maní",
+        "ko": "땅콩",
+        "de": "Erdnuß",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ピーナッツ",
+        "pt": "Amendoim",
+         // "ru": "",
+         // "tr": "",
+        "zh": "花生",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una nuez ligeramente salada que se puede batir en mantequilla de maní.",
+        "ko": "땅콩버터로 만들 수 있는 약간 짠 견과류.",
+        "de": "Salzig, knusprig der ideale TV Snack.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "少し塩気のあるナッツで、ペーストにしてバターのように使ったりする。",
+        "pt": "Uma noz ligeiramente salgada que pode ser transformada em manteiga de amendoim.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "一种略带咸味的坚果，可以捣碎成花生酱。",
+    }
+}

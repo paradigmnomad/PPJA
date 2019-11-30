@@ -1,0 +1,43 @@
+{
+    "Name": "Elderberry",
+    "Description": "Your mother was a hamster and your father smelt of elderberries!",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 20,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Demetrius", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Shane"],
+        "Dislike": ["Abigail", "Alex", "Clint", "Dwarf", "Emily", "George", "Gus", "Haley", "Harvey", "Jas", "Krobus", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Caroline", "Elliott", "Evelyn"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Saúco",
+        "ko": "엘더베리",
+        "de": "Holunder",
+         // "fr": "",
+         // "hu": "",
+         // "it": "", 
+        "ja": "エルダーベリー",
+        "pt": "Sabugueiro",
+         // "ru": "",
+         // "tr": "",
+        "zh": "接骨木",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Tu madre era un hámster y tu padre olía a bayas de saúco!",
+        "ko": "감기치료제로 쓰이기도 한 자주빛 검은색 작은 베리",
+        "de": "Wird zu Saft gepresst, der bei Erkältungen hilft!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "「Your mother was a hamster and your father smelt of elderberries!」※モンティ・パイソンより",
+        "pt": "Sua mãe era um hamster e seu pai cheirava a sabugueiro!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "你妈妈是一只仓鼠，那你的父亲闻起来有一股接骨木的气味！（原句的英文这是一句在外国骂人的话）接骨木主要具有中医药用途。",
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "Name": "Navy Bean",
+    "Product": "Navy Bean",
+    "SeedName": "Navy Bean Seeds",
+    "SeedDescription": "Plant these in summer. Takes 10 days to mature, and continues to produce every 3 days. Grows on a trellis.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 3, 2, 2, ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchasePrice": 80,
+    "SeedPurchaseRequirements": null,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de frijoles blancos",
+        "ko": "강낭콩 씨앗",
+        "de": "weiße Bohnen-Starterset",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "白インゲン豆のタネ",
+        "pt": "Sementes de feijão branco",
+         // "ru": "",
+         // "tr": "",
+        "zh": "菜豆种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 10 días para madurar, continua produciendo cada 3 días. Crece en una espaldera.",
+        "ko": "여름 작물. 성장하려면 10일이 소요되며, 수확한 후에도 계속 생산됩니다.",
+        "de": "Pflanzen sie im Sommer. Wächst in 10 Tagen heran, kann aber danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "夏植えの作物。そだつのに10日かかる。最初の収穫のあともくりかえし収穫できる。支柱にからみながらそだつ。",
+        "pt": "Plante-as no verão. Demora 10 dias para amadurecer e continua produzindo a cada 3 dias. Cresce em uma treliça.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "夏天播种。10天成熟，成熟之后每3天可收获一次。在架子上生长。",
+    }
+}

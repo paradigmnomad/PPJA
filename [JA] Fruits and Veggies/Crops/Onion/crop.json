@@ -1,0 +1,50 @@
+{
+    "Name": "Onion",
+    "Product": "Onion",
+    "SeedName": "Onion Seeds",
+    "SeedDescription": "Plant these in the spring. Takes 8 days to mature.",
+    "Type": "Vegetable",
+
+    "Seasons": ["spring"],
+    "Phases": [1, 2, 3, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 80,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de cebolla",
+        "ko": "양파 씨앗",
+        "de": "Zwiebel-Saat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "タマネギのタネ",
+        "pt": "Sementes de cebola",
+         // "ru": "",
+         // "tr": "",
+        "zh": "洋葱种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera. Toma 8 días para madurar.",
+        "ko": "봄 작물. 성장하려면 8일이 소요됩니다.",
+        "de": "Pflanzen sie im Frühling. Wächst in 8 Tagen heran.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "春植えの作物。そだつのに8日かかる。",
+        "pt": "Plante-as na primavera. Demora 8 dias para amadurecer.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "春天播种。8天成熟。",
+    }
+}

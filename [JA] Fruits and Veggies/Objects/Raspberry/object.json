@@ -1,0 +1,43 @@
+{
+    "Name": "Raspberry",
+    "Description": "An extremely tart berry that has a warm glow.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 30,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Demetrius", "Elliott", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Shane"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Frambuesa",
+        "ko": "라즈베리",
+        "de": "Himbeere",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ラズベリー",
+        "pt": "Framboesa",
+         // "ru": "",
+         // "tr": "",
+        "zh": "树莓",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una baya extremadamente agria con un brillo cálido.",
+        "ko": "따뜻한 붉은 빛을 머금은 베리.",
+        "de": "Eine säuerliche Beere, die einen warmen Abgang hat.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "赤く輝くとても酸っぱいベリー。",
+        "pt": "Uma baga extremamente azeda que tem um brilho quente.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "一种极酸的浆果，它散发着一种温暖的光泽。",
+    }
+}

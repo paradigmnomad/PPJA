@@ -1,0 +1,54 @@
+{
+    "Name": "Maguey",
+    "Product": "Maguey",
+    "SeedName": "Maguey Seeds",
+    "SeedDescription": "Plant these in spring or summer. Takes 8 days to mature.",
+    "Type": "Vegetable",
+
+    "Seasons": ["spring", "summer"],
+    "Phases": [1, 2, 3, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 100,
+    "SeedPurchaseRequirements": [
+        "y 4",
+    ],
+    
+    "SeedNameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "マゲイのタネ",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "春または夏植えの作物。そだつのに8日かかる。",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    }
+}

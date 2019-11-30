@@ -1,0 +1,53 @@
+{
+    "Name": "Green Pea",
+    "Product": "Green Peas",
+    "SeedName": "Green Pea Seeds",
+    "SeedDescription": "Plant these in summer. Takes 8 days to mature, but keeps producing after that. Grows on a trellis.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 2, 2, 1, ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 5,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+    "SeedPurchasePrice": 50,
+    "SeedPurchaseRequirements": [
+        "y 4",
+    ],
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de Guisantes verdes",
+        "ko": "녹두 씨앗",
+        "de": "Grüne Erbsen-Saat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "グリーンピースのタネ",
+        "pt": "Sementes de ervilhas verdes",
+         // "ru": "",
+         // "tr": "",
+        "zh": "青豆种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 8 días para madurar, pero sigue produciendo después de eso. Crece en una espaldera.",
+        "ko": "여름 작물. 성장하려면 8일이 소요되며, 수확한 후에도 계속 생산됩니다.",
+        "de": "Pflanzen sie im Sommer. Wächst in 8 Tagen heran, kann aber danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "夏植えの作物。そだつのに8日かかるが、そのあともくりかえし収穫できる。支柱にからみながらそだつ。",
+        "pt": "Plante-as no verão. Demora 8 dias para amadurecer e continua produzindo após a primeira colheira. Cresce em uma treliça.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "夏天播种。8天成熟，收获之后循环生存。在架子上生长。",
+    }
+}

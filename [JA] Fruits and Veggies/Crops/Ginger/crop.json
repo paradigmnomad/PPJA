@@ -1,0 +1,51 @@
+{
+    "Name": "Ginger",
+    "Product": "Ginger",
+    "SeedName": "Ginger Seeds",
+    "SeedDescription": "Plant these in fall. Takes 7 days to mature.",
+    "Type": "Vegetable",
+
+    "Seasons": ["fall"],
+    "Phases": [1, 2, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchaseFrom": "Sandy",
+    "SeedPurchasePrice": 50,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de jengibre",
+        "ko": "생강 씨앗",
+        "de": "Ingwer-Saat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ショウガのタネ",
+        "pt": "Sementes de gengibre",
+         // "ru": "",
+         // "tr": "",
+        "zh": "姜种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 7 días para madurar.",
+        "ko": "가을 작물. 성장하려면 7일이 소요됩니다.",
+        "de": "Pflanzen sie im Herbst. Wächst in 7 Tagen heran.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "秋植えの作物。そだつのに7日かかる。",
+        "pt": "Plante-as no outono. Demora 7 dias para amadurecer.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "秋天播种。7天成熟。",
+    }
+}

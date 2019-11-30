@@ -1,0 +1,41 @@
+{
+    "Name": "Barley",
+    "Description": "A dark grain that has a more earthy taste when processed than wheat.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 25,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Cebada",
+        "ko": "보리",
+        "de": "Gerste",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "オオムギ",
+        "pt": "Cevada",
+         // "ru": "",
+         // "tr": "",
+        "zh": "大麦",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un grano oscuro que cuando se procesa tiene un sabor más terroso que el trigo.",
+        "ko": "밀보다 가공하면 흙맛이 나는 짙은 곡식.",
+        "de": "Ein dunkles Korn, das bei der Verarbeitung einen erdigeren Geschmack als Weizen hat.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "小麦と比べてより土っぽい風味のする色の濃い穀物。",
+        "pt": "Um grão escuro que, quando processado, tem um sabor mais terroso do que o trigo.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "一种比小麦更有泥土味的深褐色作物。",
+    }
+}

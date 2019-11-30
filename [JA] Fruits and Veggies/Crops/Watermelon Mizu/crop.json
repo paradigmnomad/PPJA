@@ -1,0 +1,50 @@
+{
+    "Name": "Watermelon Mizu",
+    "Product": "Watermelon",
+    "SeedName": "Watermelon Seeds",
+    "SeedDescription": "Plant these in fall. Takes 14 days to mature, and keeps producing after the first harvest.",
+    "Type": "Fruit",
+
+    "Seasons": ["fall"],
+    "Phases": [1, 2, 3, 4, 4, ],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 250,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de sandia",
+        "ko": "수박 씨앗",
+        "de": "Wassermelonen-Saat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "スイカのタネ",
+        "pt": "Sementes de melancia",
+         // "ru": "",
+         // "tr": "",
+        "zh": "西瓜种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 14 días para madurar, continua produciendo después de la primera cosecha.",
+        "ko": "여름 작물. 성장하려면 14일이 소요되며, 수확한 후에도 계속 생산됩니다.",
+        "de": "Pflanzen sie im Sommer. Wächst in 14 Tagen heran, kann aber danach mehrmals geerntet werden.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "秋植えの作物。そだつのに14日かかるが、そのあともくりかえし収穫できる。",
+        "pt": "Plante-as no outono. Demora 14 dias para amadurecer e continua produzindo após a primeira colheita.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "秋天播种。14天成熟，收获之后还能继续结果。",
+    }
+}
