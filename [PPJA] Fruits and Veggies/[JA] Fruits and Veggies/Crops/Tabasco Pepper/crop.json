@@ -2,7 +2,7 @@
     "Name": "Tabasco Pepper",
     "Product": "Tabasco Pepper",
     "SeedName": "Tabasco Pepper Seeds",
-    "SeedDescription": "The only juicy variety of chili pepper. Scoville heat units of 40,000.",
+    "SeedDescription": "Plant these in fall. Takes 10 days to mature, and continues to produce after the first harvest.",
     "Type": "Vegetable",
 
     "Seasons": ["fall"],
@@ -45,7 +45,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "秋植えの作物。そだつのに11日かかる。最初の収穫のあともくりかえし収穫できる。",
+        "ja": "秋植えの作物。そだつのに10日かかる。最初の収穫のあともくりかえし収穫できる。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

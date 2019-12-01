@@ -1,53 +1,9 @@
-<<<<<<< HEAD
 {
     "Name": "Chives",
     "Description": "A small relative of the spring onion. It is often used in cooking and has a slightly sweet flavor.",
-    "Category": "Vegetable",
+    "Category": "Vegetable",    
     "CategoryTextOverride": "Herb",
     "CategoryColorOverride": "93, 153, 80, 255",
-    "Edibility": 5,
-    "Price": 35,
-    "IsColored": false,
-    "GiftTastes":
-    {
-        "Like": ["Gus", "Harvey", "Leah", "Linus"],
-        "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
-    },
-    "Recipe": null,
-    "NameLocalization":
-    {
-        "es": "Cebollino",
-        "ko": "차이브",
-        "de": "Schnittlauch",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
-         // "ja": "",
-        "pt": "Cebolinha",
-         // "ru": "",
-         // "tr": "",
-        "zh": "香葱",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Un pariente pequeño de la cebolla de primavera. Se usa a menudo en la cocina y tiene un sabor ligeramente dulce.",
-        "ko": "양파의 작은 동생. 요리에 자주 사용되며 약간 달콤한 맛이납니다.",
-        "de": "Triebe einer Frühlingszwiebel. Wird als Gewürz verwendet, leicht süßlicher Geschmack.",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
-         // "ja": "",
-        "pt": "Um parente pequeno da cebolinha. É frequentemente usado na culinária e tem um sabor levemente adocicado.",
-         // "ru": "",
-         // "tr": "",
-        "zh": "这是一个春天洋葱的亲戚。它常用于烹饪，味道略甜。",
-    }
-=======
-{
-    "Name": "Chives",
-    "Description": "A small relative of the spring onion. It is often used in cooking and has a slightly sweet flavor.",
-    "Category": "Vegetable",
     "Edibility": 5,
     "Price": 35,
     "IsColored": false,
@@ -86,5 +42,4 @@
          // "tr": "",
         "zh": "这是一个春天洋葱的亲戚。它常用于烹饪，味道略甜。",
     }
->>>>>>> 130243b41990d4a36f08f72e62bb38f6a32886c3
 }
