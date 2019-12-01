@@ -1,6 +1,7 @@
 [
 	{
 		"Id": "ppja.grilledskewerrecipe",
+		"GroupID": "FreshMeat.CookingRecipe",
 		"Text": "@,^^ Here's a recipe from my saloon. I only share this with my good friends!^^ -Gus",
 		"Recipe": "Grilled Skewer",
 		"WhichBG": 0,

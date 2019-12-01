@@ -1,6 +1,7 @@
 [
 	{
 		"Id": "ppja.amethystcookierecipe",
+		"GroupID": "EvenMoreRecipes.CookingRecipe",
 		"Text": "Hey @!^^  This is definitely one of the best ideas I've ever come up with!^^  -Abigail",
 		"Recipe": "Amethyst Cookie",
 		"WhichBG": 0, 
@@ -17,6 +18,7 @@
 	},
 	{
 		"Id": "ppja.bananaandstrawberrycakerecipe",
+		"GroupID": "EvenMoreRecipes.CookingRecipe",
 		"Text": "Yummy! Banana Strawberry cake! It tastes like Pink Cake but sweeter!^^ -Jas",
 		"Recipe": "Banana Strawberry Cake",
 		"WhichBG": 0,
@@ -29,6 +31,7 @@
 	},
 	{
 		"Id": "ppja.chocolatemousebreadrecipe",
+		"GroupID": "EvenMoreRecipes.CookingRecipe",
 		"Text": "@,^^  This is a very simple recipe that can be put together in a jiffy. And the flavor will make you smile!",
 		"Recipe": "Chocolate Mouse Bread",
 		"WhichBG": 0,
@@ -41,6 +44,7 @@
 	},
 	{
 		"Id": "ppja.chocolatestrawberrycakerecipeg",
+		"GroupID": "EvenMoreRecipes.CookingRecipe",
 		"Text": "mmmmm!! Chocolate AND Strawberry cake! I want a slice please!!!^^  -Jas",
 		"Recipe": "Chocolate Strawberry Cake",
 		"WhichBG": 0,
@@ -53,6 +57,7 @@
 	},
 	{
 		"Id": "ppja.bananachocolatecreperecipe",
+		"GroupID": "EvenMoreRecipes.CookingRecipe",
 		"Text": "Dear @,^^ Nothing is more satsifying than cooking with fresh produce from your own garden! I've cooked from home for 20 years and my only advice is to pick the healthiest dishes to make. I'm kidding! There isn't anything healthy about this recipe I'm sending you.^^ -Caroline",
 		"Recipe": "Chocolate and Banana Crepe",
 		"WhichBG": 0,
@@ -65,6 +70,7 @@
 	},
 	{
 		"Id": "ppja.deviledeggsrecipe",
+		"GroupID": "EvenMoreRecipes.CookingRecipe",
 		"Text": "Good Morning @,^^ Here's the recipe for my deviled eggs. It's just like they're supposed to be. It's hard not to smile when you're eating these.^^  -Pierre",
 		"Recipe": "Deviled Eggs",
 		"WhichBG": 0,
@@ -77,6 +83,7 @@
 	},
 	{
 		"Id": "ppja.icedchocolatedonutrecipe",
+		"GroupID": "EvenMoreRecipes.CookingRecipe",
 		"Text": "Hey!^^  Mom doesn't want me having a lot of sugar but can you bring me one? I don't wanna get in trouble.^^  -Vincent",
 		"Recipe": "Iced Chocolate Donut",
 		"WhichBG": 0,
@@ -89,6 +96,7 @@
 	},
 	{
 		"Id": "ppja.keylimepierecipe",
+		"GroupID": "EvenMoreRecipes.CookingRecipe",
 		"Text": "@, I know it's a big ambition, but it'd be fantastic if you could make a name for yourself and become a respected name in the farming industry. I've attached one of my old recipes for you to try to keep you motivated.^^  -Lewis",
 		"Recipe": "Key Lime Pie",
 		"WhichBG": 0,
@@ -101,6 +109,7 @@
 	},
 	{
 		"Id": "ppja.seaweedchipsrecipe",
+		"GroupID": "EvenMoreRecipes.CookingRecipe",
 		"Text": "Dear @,^^  I'd like to share an ol' cooking recipe my pappy used to make. It's important the seaweed is FRESH.^^  -Willy",
 		"Recipe": "Seaweed Chips",
 		"WhichBG": 0,
@@ -113,6 +122,7 @@
 	},
 	{
 		"Id": "ppja.strawberrypuddingrecipe",
+		"GroupID": "EvenMoreRecipes.CookingRecipe",
 		"Text": "Strawberry Pudding! Yummy! Do you like strawberry pudding?^^  -Jas",
 		"Recipe": "Strawberry Pudding",
 		"WhichBG": 0,
@@ -125,6 +135,7 @@
 	},
 	{
 		"Id": "ppja.tofurecipe",
+		"GroupID": "EvenMoreRecipes.CookingRecipe",
 		"Text": "Hey @,^^ I made my first batch of tofu today and it was sooo good! I used my own homemade soy sauce and it didn't disappoint at all!^^  -Maru",
 		"Recipe": "Tofu",
 		"WhichBG": 0,

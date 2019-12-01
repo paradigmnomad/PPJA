@@ -3,7 +3,7 @@
     "Product": "___", //Determines what the crop produces. This will correspond to a folder with the same name in Objects (ex. Both folders will be named "Honeysuckle"). (optional) You can produce vanilla items. Instead of a named object you will use the objects ID number and not include a corresponding Objects folder.
     "SeedName": "___", //The seed name of the crop. Typically crop name + seeds or starter.
     "SeedDescription": "___", //Describe what season you plant these in. Also note if it continues to grow after first harvest and how many days it takes to regrow.
-    "Type": "Flower", //Available types are Flower, Fruit, Vegetable, Gem, Fish, Egg, Milk, Cooking, Crafting, Mineral, Meat, Metal, Junk, Syrup, MonsterLoot, ArtisanGoods, and Seeds.
+    "Type": "Flower", //Available types are Flower, Fruit, Vegetable, Gem, Fish, Egg, Milk, Cooking, Crafting, Mineral, Meat, Metal, Junk, Syrup, MonsterLoot, ArtisanGoods, AnimalGoods, and Seeds.
     "CropType": "Normal", //Available types are Normal, IndoorsOnly, and Paddy. If no `CropType` is specified, Normal will be the default.
     "Seasons": ["summer"], //Seasons must be in lowercase and in quotation marks, so if you want to make your crop last all year, you'd put in "spring", "summer", "fall", "winter". If you want to make winter plants, you will have to require SpaceCore for your content pack.
     "Phases": [1, 1, 1, 1], //Determines how long each phase lasts. Crops can have 2-5 phases, and the numbers in phases refer to how many days a plant spends in that phase. Seeds do not count as a phase. If your crop has regrowth, the last number in this set corresponds to how many days it takes for the crop to regrow. Ex. [1, 2, 3, 4, 3] This crop takes 10 days to grow and 3 days to regrow.

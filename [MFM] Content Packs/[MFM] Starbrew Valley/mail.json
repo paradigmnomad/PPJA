@@ -1,6 +1,7 @@
 [
 	{
 		"Id": "ppja.americanorecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "Picked up this recipe overseas. Enjoy.^^ Want to say thanks for making me feel welcome.^^  -Kent",
 		"Recipe": "Americano",
 		"WhichBG": 0,
@@ -17,6 +18,7 @@
 	},
 	{
 		"Id": "ppja.brandyalexanderrecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "Dear @,^^ I ordered too much nutmeg! I was so excited when I saw the package had arrived but not as excited when I opened it! I'll share the recipe for a `Brandy Alexander` that came with it. I can't wait to try it out. Take care!^^  -Jodi",
 		"Recipe": "Brandy Alexander",
 		"WhichBG": 0,
@@ -29,6 +31,7 @@
 	},
 	{
 		"Id": "ppja.cosmorecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "@,^^ I thought it would be fun to write you a note.^^ Here's my take on a traditional Cosmo. Hope to see you soon.^^  -Haley",
 		"Recipe": "Cosmo",
 		"WhichBG": 0,
@@ -41,6 +44,7 @@
 	},
 	{
 		"Id": "ppja.darkandstormyrecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "@,^^ I don't drink much but there's a bar in ZuZu city that has the best Dark and Stormy. I got the recipe from the bartender to share with you.^^  -Sebastian",
 		"Recipe": "Dark and Stormy",
 		"WhichBG": 0,
@@ -53,6 +57,7 @@
 	},
 	{
 		"Id": "ppja.espressomartinirecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "Hey there!^^ I had some extra time and thought it might be interesting to try mixing some drinks. Let me know what you think!^^ -Robin",
 		"Recipe": "Espresso Martini",
 		"WhichBG": 0,
@@ -65,6 +70,7 @@
 	},
 	{
 		"Id": "ppja.french75recipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "Dear @^This is my custom mail.",
 		"Recipe": "French 75",
 		"WhichBG": 0,
@@ -77,6 +83,7 @@
 	},
 	{
 		"Id": "ppja.hemingwayspecialrecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "Always do sober what you said you'd do drunk. That will teach you to keep your mouth shut.^^  -Ernest Hemingway",
 		"Recipe": "Hemingway Special",
 		"WhichBG": 0,
@@ -89,6 +96,7 @@
 	},
 	{
 		"Id": "ppja.mintjuleprecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "Dear neighbor,^^ when I'm not taking care of animals I like to experiment in the kitchen. Since we've become friends I want to share some recipes with you.^I hope you like this!^^  -Marnie",
 		"Recipe": "Mint Julep",
 		"WhichBG": 0,
@@ -101,6 +109,7 @@
 	},
 	{
 		"Id": "ppja.moonshinecherriesrecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "Dear @,^^ Thanks again for always being supportive of my art. When I'm not sculpting I like to help out Gus with his Moonshine Cherries. Don't tell him I gave you his recipe.^^  -Leah",
 		"Recipe": "Moonshine Cherries",
 		"WhichBG": 0,
@@ -113,6 +122,7 @@
 	},
 	{
 		"Id": "ppja.nightonthebeachrecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "@,^^ Vodka, Peach Schnapps, and some citrus make a great mix in a martini, while vodka mixed with orange juice, simple syrup, and garnish adds a refreshing twist. What do you think? What's your favorite way to combine orange juice and vodka? Mine is Night on the Beach.^^  -Demetrius",
 		"Recipe": "Night on the Beach",
 		"WhichBG": 0,
@@ -125,6 +135,7 @@
 	},
 	{
 		"Id": "ppja.paradiserecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "Dear @^^ I got my hands on a glass of this and I couldn't wait to give it a try. Here, try some for yourself! Sometimes, you just want to drink something crazy sweet!^^  -Emily",
 		"Recipe": "Paradise",
 		"WhichBG": 0,
@@ -137,6 +148,7 @@
 	},
 	{
 		"Id": "ppja.pinacoladarecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "Dear @,^^ If you love pineapple and coconuts then you'll love this drink. So many variations, so few ingredients.^^  -Emily",
 		"Recipe": "Pina Colada",
 		"WhichBG": 0,
@@ -149,6 +161,7 @@
 	},
 	{
 		"Id": "ppja.planterspunchrecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "@, You've been working hard on the farm. Why not try your hand at making a drink? It's the perfect way to end the week!^^  -Lewis",
 		"Recipe": "Planters Punch",
 		"WhichBG": 0,
@@ -161,6 +174,7 @@
 	},
 	{
 		"Id": "ppja.seabreezerecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "I guess it's time I shared with you one of my favorite drinks. No fun going out together when we don't know what each other likes!^^  -Haley",
 		"Recipe": "Sea Breeze",
 		"WhichBG": 0,
@@ -173,6 +187,7 @@
 	},
 	{
 		"Id": "ppja.vampirorecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
 		"Text": "...^^ Please, have this. It was floating in the sewers. You might get use out of it...^^  -Krobus",
 		"Recipe": "Vampiro",
 		"WhichBG": 0,

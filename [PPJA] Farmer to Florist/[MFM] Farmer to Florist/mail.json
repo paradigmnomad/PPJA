@@ -2,15 +2,17 @@
 	//Cooking recipes
 	{
 		"Id": "PPJA.VernalTearecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "@,^^I understand that you've been growing some flowers from seeds from the Ferngill Florist's Association, dear. Did you know they can be used in cooking recipes?^^This is a simple one, but was always one of my favorites. There are plenty of other recipes you can use their flowers for, as well. I hope you try making some of them!^^-Granny Evelyn",
 		"Recipe": "Vernal Tea",
-		"WhichBG": 0,"FriendshipConditions":
+		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 3 }
 		],
 	},
 	{
 		"Id": "PPJA.TeaRecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "Dear @,^^Heard you've been using some of your flowers in your cooking. Here's a favorite recipe of mine. Really warms you up on a cold day!^^-Mayor Lewis",
 		"Recipe": "Tea",
 		"FriendshipConditions":
@@ -20,6 +22,7 @@
 	},
 	{
 		"Id": "PPJA.EstivalTearecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "Hey kid,^^Evelyn mentioned you were makin' some food with the flowers you're growing. My pappy passed this recipe on to me - hope you enjoy it as much as I did.^^-Pam",
 		"Recipe": "Estival Tea",
 		"FriendshipConditions":
@@ -29,6 +32,7 @@
 	},
 	{
 		"Id": "PPJA.AutumnalTearecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "@,^^This is a tea recipe that Evelyn brought me one time when she came over to check on me. I don't make tea that often, though, so I figure you'll get more use out of it than I will.^^-Clint",
 		"Recipe": "Autumnal Tea",
 		"FriendshipConditions":
@@ -38,6 +42,7 @@
 	},
 	{
 		"Id": "PPJA.HibernalTeaRecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "@,^^Here's a recipe my wife always likes come winter time.^^Try it out if you feel like it.^^-George",
 		"Recipe": "Hibernal Tea",
 		"FriendshipConditions":
@@ -47,6 +52,7 @@
 	},
 	{
 		"Id": "PPJA.LatteRecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "Hey @,^^I always need a little pick-me-up in the morning, but just plain coffee's a little strong for my taste. I imagine it'll taste even better with fresh milk from your cows!^^-Robin",
 		"Recipe": "Latte",
 		"FriendshipConditions":
@@ -56,6 +62,7 @@
 	},
 	{
 		"Id": "PPJA.LilacSconesRecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "@,^^Evelyn shared her tea recipes with me when I was younger, and she and I worked together on a scone recipe utilizing lilac. Maybe you can make some with the lilacs from your farm.^^-Jodi",
 		"Recipe": "Lilac Scones",
 		"FriendshipConditions":
@@ -65,6 +72,7 @@
 	},
 	{
 		"Id": "PPJA.FlowerSodaRecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "Dear @^^Sandy once gave me this recipe for a drink made from flowers! I know it sounds a little strange, but it's really very nice! You should try to make it from the produce on your farm sometime.^^-Emily",
 		"Recipe": "Flower Soda",
 		"FriendshipConditions":
@@ -74,6 +82,7 @@
 	},
 	{
 		"Id": "PPJA.HerbCrustedFishRecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "Dear @,^^Living out in the mountains, I have access to a lot of fish. This is a recipe I use when I can - since you've been so kind to me, I'm sharing it with you. I hope you enjoy it.^^-Linus",
 		"Recipe": "Herb-Crusted Fish",
 		"FriendshipConditions":
@@ -83,6 +92,7 @@
 	},
 	{
 		"Id": "PPJA.LotusMochiID",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "Dear @,^^Don't usually like to think about things relating to the Gotoro Empire... but while I was there, I did have this dessert. I'm not sure if this will taste exactly like it, but maybe you can nail it.^^-Kent",
 		"Recipe": "Lotus Mochi",
 		"FriendshipConditions":
@@ -92,6 +102,7 @@
 	},
 	{
 		"Id": "PPJA.BoiledGreensRecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "@,^^Did you know that all parts of edible flowers can be used in cooking - even their leaves?^^Here's a recipe I make when the flowers for it are in season. It's best when it's lightly salted!^^-Demetrius",
 		"Recipe": "Boiled Greens",
 		"FriendshipConditions":
@@ -101,6 +112,7 @@
 	},
 	{
 		"Id": "PPJA.RoseNougatRecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "@,^^This recipe has been a family favorite. If you can get honey flavored with rose pollen, it's even better.^^-Marnie",
 		"Recipe": "Rose Nougat",
 		"FriendshipConditions":
@@ -110,6 +122,7 @@
 	},
 	{
 		"Id": "PPJA.SouffleRecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "@,^^This is one of the most challenging recipes I have, but I'm quite proud of it. Souffles aren't easy to make, and having high-quality ingredients is essential - and that shouldn't be a problem for you. I hope you share the results if you give it a try!^^-Gus",
 		"Recipe": "Souffle",
 		"FriendshipConditions":
@@ -119,6 +132,7 @@
 	},
 	{
 		"Id": "PPJA.TiramisuRecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "@,^^Abby and Pierre always enjoy when I make this up. Maybe you'll have some success making it yourself.^^-Caroline",
 		"Recipe": "Tiramisu",
 		"FriendshipConditions":
@@ -128,6 +142,7 @@
 	},
 	{
 		"Id": "PPJA.StuffedPetalsRecipe",
+		"GroupID": "F2F.CookingRecipe",
 		"Text": "Dear @,^^This is a favorite recipe of mine. The fresher the ingredients, the better it will be.^^-Granny Evelyn",
 		"Recipe": "Stuffed Petals",
 		"FriendshipConditions":
@@ -138,6 +153,7 @@
 	//Crafting recipes
 	{
 		"Id": "PPJA.PottedTulipRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Tulip",
 		"SkillConditions": 
@@ -147,6 +163,8 @@
 	},
 	{
 		"Id": "PPJA.PottedSummerSpangleRecipe",
+		"GroupID": "F2F.CraftingRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Summer Spangle",
 		"SkillConditions": 
@@ -156,6 +174,7 @@
 	},
 	{
 		"Id": "PPJA.FloristTableRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association^^* Note: you can't actually make anything at this table, it is purely decorative.",
 		"Recipe": "Florist's Table",
 		"SkillConditions": 
@@ -165,6 +184,7 @@
 	},
 	{
 		"Id": "PPJA.PottedDandelionRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Dandelion", 
 		"SkillConditions": 
@@ -174,6 +194,7 @@
 	},
 	{
 		"Id": "PPJA.PottedSweetPeaRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Sweet Pea",
 		"SkillConditions": 
@@ -183,6 +204,7 @@
 	},
 	{
 		"Id": "PPJA.PottedDaffodilRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Daffodil",
 		"SkillConditions": 
@@ -191,6 +213,7 @@
 		]
 	},{
 		"Id": "PPJA.PottedDaisyRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Daisy",
 		"SkillConditions": 
@@ -200,6 +223,7 @@
 	},
 	{
 		"Id": "PPJA.PottedCrocusRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Crocus",
 		"SkillConditions": 
@@ -209,6 +233,7 @@
 	},
 	{
 		"Id": "PPJA.PottedClematisRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Clematis",
 		"SkillConditions": 
@@ -218,6 +243,7 @@
 	},
 	{
 		"Id": "PPJA.PottedHibiscuisRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Hibiscus",
 		"SkillConditions": 
@@ -227,6 +253,7 @@
 	},
 	{
 		"Id": "PPJA.PottedMagnoliaRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Magnolia",
 		"SkillConditions": 
@@ -236,6 +263,7 @@
 	},
 	{
 		"Id": "PPJA.PottedJasmineRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Jasmine",
 		"SkillConditions": 
@@ -245,6 +273,7 @@
 	},
 	{
 		"Id": "PPJA.PottedWisteriaRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Wisteria",
 		"SkillConditions": 
@@ -254,6 +283,7 @@
 	},
 	{
 		"Id": "PPJA.BouquetOfExuberanceRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Bouquet of Exuberance",
 		"SkillConditions": 
@@ -263,6 +293,7 @@
 	},
 	{
 		"Id": "PPJA.PottedVioletRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Violet",
 		"SkillConditions": 
@@ -272,6 +303,7 @@
 	},
 	{
 		"Id": "PPJA.PottedLilacRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Lilac",
 		"SkillConditions": 
@@ -281,6 +313,7 @@
 	},
 	{
 		"Id": "PPJA.PottedLavenderRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Lavender",
 		"SkillConditions": 
@@ -290,6 +323,7 @@
 	},
 	{
 		"Id": "PPJA.PottedPeonyRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Peony",
 		"SkillConditions": 
@@ -299,6 +333,7 @@
 	},
 	{
 		"Id": "PPJA.PottedDahliaRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Dahlia",
 		"SkillConditions": 
@@ -308,6 +343,7 @@
 	},
 	{
 		"Id": "PPJA.PottedFreesiaRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Freesia",
 		"SkillConditions": 
@@ -317,6 +353,7 @@
 	},
 	{
 		"Id": "PPJA.PottedPetuniaRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Petunia",
 		"SkillConditions": 
@@ -326,6 +363,7 @@
 	},
 	{
 		"Id": "PPJA.PottedCamelliaRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Camellia",
 		"SkillConditions": 
@@ -335,6 +373,7 @@
 	},
 	{
 		"Id": "PPJA.PottedGeraniumRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Geranium",
 		"SkillConditions": 
@@ -344,6 +383,7 @@
 	},
 	{
 		"Id": "PPJA.PottedRoseRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Rose",
 		"SkillConditions": 
@@ -353,6 +393,7 @@
 	},
 	{
 		"Id": "PPJA.PottedFairyRoseRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Fairy Rose",
 		"SkillConditions": 
@@ -362,6 +403,7 @@
 	},
 	{
 		"Id": "PPJA.BouquetOfDevotionRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Bouquet of Devotion",
 		"SkillConditions": 
@@ -371,6 +413,7 @@
 	},
 	{
 		"Id": "PPJA.PottedBlueJazzRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Blue Jazz",
 		"SkillConditions": 
@@ -380,6 +423,7 @@
 	},
 	{
 		"Id": "PPJA.PottedAlliumRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Allium",
 		"SkillConditions": 
@@ -389,6 +433,7 @@
 	},
 	{
 		"Id": "PPJA.PottedHyacinthRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Hyacinth",
 		"SkillConditions": 
@@ -398,6 +443,7 @@
 	},
 	{
 		"Id": "PPJA.PottedHydrangeaRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Hydrangea",
 		"SkillConditions": 
@@ -407,6 +453,7 @@
 	},
 	{
 		"Id": "PPJA.PottedLotusRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Lotus",
 		"SkillConditions": 
@@ -416,6 +463,7 @@
 	},
 	{
 		"Id": "PPJA.PottedIrisRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Iris",
 		"SkillConditions": 
@@ -425,6 +473,7 @@
 	},
 	{
 		"Id": "PPJA.PottedDelphiniumRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Delphinium",
 		"SkillConditions": 
@@ -434,6 +483,7 @@
 	},
 	{
 		"Id": "PPJA.BouquetOfLongingRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Bouquet of Longing",
 		"SkillConditions": 
@@ -443,6 +493,7 @@
 	},
 	{
 		"Id": "PPJA.PottedSunflowerRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Sunflower",
 		"SkillConditions": 
@@ -452,6 +503,7 @@
 	},
 	{
 		"Id": "PPJA.PottedPoppyRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Poppy",
 		"SkillConditions": 
@@ -461,6 +513,7 @@
 	},
 	{
 		"Id": "PPJA.PottedCarnation",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Carnation",
 		"SkillConditions": 
@@ -470,6 +523,7 @@
 	},
 	{
 		"Id": "PPJA.PottedChrysanthemumRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Chrysanthemum",
 		"SkillConditions": 
@@ -479,6 +533,7 @@
 	},
 	{
 		"Id": "PPJA.PottedLilyRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Potted Lily",
 		"SkillConditions": 
@@ -488,6 +543,7 @@
 	},
 	{
 		"Id": "PPJA.BouquetOfHopeRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Bouquet of Hope",
 		"SkillConditions": 
@@ -497,6 +553,7 @@
 	},
 	{
 		"Id": "PPJA.BouquetOfPurityRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Bouquet of Purity",
 		"SkillConditions": 
@@ -506,6 +563,7 @@
 	},
 	{
 		"Id": "PPJA.BouquetOfPassionRecipe",
+		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
 		"Recipe": "Bouquet of Passion",
 		"SkillConditions": 
