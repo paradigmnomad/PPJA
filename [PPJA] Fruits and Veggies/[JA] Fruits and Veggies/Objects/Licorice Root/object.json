@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "Name": "Licorice Root",
     "Description": "The natural growing plant that is the flavoring agent in the popular candy.",
@@ -41,4 +42,47 @@
          // "tr": "",
          // "zh": "",
     }
+=======
+{
+    "Name": "Licorice Root",
+    "Description": "The natural growing plant that is the flavoring agent in the popular candy.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 135,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Krobus"],
+        "Hate": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Harvey", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Lewis"],
+    },
+    "NameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "カンゾウ根",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ポピュラーなキャンディの香辛料として使われる。",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    }
+>>>>>>> 130243b41990d4a36f08f72e62bb38f6a32886c3
 }

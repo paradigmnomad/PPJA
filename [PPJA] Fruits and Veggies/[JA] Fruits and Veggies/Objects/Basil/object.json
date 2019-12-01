@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "Name": "Basil",
     "Description": "Generally speaking, the herb is sweet, slightly minty and slightly peppery.",
@@ -41,4 +42,47 @@
          // "tr": "",
         "zh": "一般来说，这种草药很甜，有点薄荷味，有点辛辣。",
     }
+=======
+{
+    "Name": "Basil",
+    "Description": "Generally speaking, the herb is sweet, slightly minty and slightly peppery.",
+    "Category": "Vegetable",
+    "Edibility": 5,
+    "Price": 35,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Gus"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Albahaca",
+        "ko": "바질",
+        "de": "Basilikum",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "バジル",
+        "pt": "Manjericão",
+         // "ru": "",
+         // "tr": "",
+        "zh": "罗勒",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "En términos generales: es dulce, ligeramente mentolada y ligeramente picante.",
+        "ko": "대체적으로, 이 허브는 달콤하고 박하 맛이 나는 향신료 같습니다.",
+        "de": "Es schmeckt, süß,etwas pfeffrig und nach Minze.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "一般的に、このハーブは甘くミント風味でわずかにピリっとすると言われています。",
+        "pt": "De um modo geral, é uma erva doce, levemente mentolada e apimentada.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "一般来说，这种草药很甜，有点薄荷味，有点辛辣。",
+    }
+>>>>>>> 130243b41990d4a36f08f72e62bb38f6a32886c3
 }
