@@ -2,6 +2,8 @@
     "Name": "Basil",
     "Description": "Generally speaking, the herb is sweet, slightly minty and slightly peppery.",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 5,
     "Price": 35,
     "IsColored": false,

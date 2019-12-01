@@ -2,6 +2,8 @@
     "Name": "Chives",
     "Description": "A small relative of the spring onion. It is often used in cooking and has a slightly sweet flavor.",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 5,
     "Price": 35,
     "IsColored": false,

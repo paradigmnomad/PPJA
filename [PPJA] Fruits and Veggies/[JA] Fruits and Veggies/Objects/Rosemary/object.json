@@ -2,6 +2,8 @@
     "Name": "Rosemary",
     "Description": "The smell of rosemary is piney and fresh; familiar but also distinctive.",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 18,
     "Price": 75,
     "IsColored": false,
