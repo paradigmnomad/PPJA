@@ -1,0 +1,43 @@
+{
+  "Name": "Seltzer",
+  "Description": "It's been atrifically carbonated.",
+  "Category": "Cooking",
+  "Edibility": -300,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": null,
+  "Price": 40,
+  "IsColored": false,
+  "Recipe": null,
+ "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 175,
+    "PurchaseRequirements": null,
+
+ "NameLocalization": { 
+    "es": "Agua carbonatada",
+     // "ko": "",
+     // "de": "",
+     // "fr": "",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+     // "ru": "",
+     // "tr": "",
+    "zh": "塞尔查水",
+  },
+ "DescriptionLocalization": { 
+    "es": "Ha sido carbonatado atrificamente.",
+     // "ko": "",
+     // "de": "",
+     // "fr": "",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+     // "ru": "",
+     // "tr": "",
+    "zh": "塞尔查水。它已经被完全碳化了。【一种德国矿泉水。】",
+  }
+
+}

@@ -1,0 +1,71 @@
+{
+  "Name": "Angel Face",
+  "Description": "Shake well, and strain into a cocktail glass.",
+  "Category": "Cooking",
+  "Edibility": 42,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": -1,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 100,
+  },
+  "Price": 600,
+  "IsColored": false,
+"CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 925,
+    "PurchaseRequirements": null,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Gin",
+        "Count": 1,
+      },
+      {
+        "Object": 634,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 5600,
+    "PurchaseRequirements": null,
+
+  },
+
+ "NameLocalization": { 
+    "es": "Cara de angel",
+     // "ko": "",
+     // "de": "",
+     // "fr": "",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+     // "ru": "",
+     // "tr": "",
+    "zh": "天使之颜",
+  },
+ "DescriptionLocalization": { 
+    "es": "Agitar bien y colar en una copa de cóctel.",
+     // "ko": "",
+     // "de": "",
+     // "fr": "",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+     // "ru": "",
+     // "tr": "",
+    "zh": "天使之颜。摇匀，然后过滤到鸡尾酒杯。",
+  }
+}

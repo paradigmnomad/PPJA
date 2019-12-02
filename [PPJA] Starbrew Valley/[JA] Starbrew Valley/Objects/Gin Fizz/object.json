@@ -1,0 +1,73 @@
+{
+  "Name": "Gin Fizz",
+  "Description": "Of all the gin joints in all the towns in all the world, she walks into mine.",
+  "Category": "Cooking",
+  "Edibility": 40,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": -1,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 100,
+  },
+  "Price": 650,
+  "IsColored": false,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 650,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Gin",
+        "Count": 1,
+      },
+      {
+        "Object": "Club Soda",
+        "Count": 1,
+      },
+  {
+        "Object": "Lemon",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 950,
+    "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Gin Fizz",
+     // "ko": "",
+     // "de": "",
+     // "fr": "",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+     // "ru": "",
+     // "tr": "",
+    "zh": "琴费士",
+  },
+ "DescriptionLocalization": { 
+    "es": "De todas las articulaciones de ginebra en todas las ciudades de todo el mundo, ella entra en la mía.",
+     // "ko": "",
+     // "de": "",
+     // "fr": "",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+     // "ru": "",
+     // "tr": "",
+    "zh": "琴费士。在世界上所有城镇的金酒中，只有她走进我的心里。",
+  }
+}

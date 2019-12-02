@@ -1,0 +1,78 @@
+{
+  "Name": "Cuba Libre",
+  "Description": "It has its origins in the 20th century Cuba.",
+  "Category": "Cooking",
+  "Edibility": 45,
+  "EdibleIsDrink": true,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": -1,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 100,
+  },
+  "Price": 575,
+  "IsColored": false,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 900,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Rum",
+        "Count": 1,
+      },
+      {
+        "Object": 167,
+        "Count": 1,
+      },
+      {
+        "Object": "Lime",
+        "Count": 1,
+      },
+      {
+        "Object": "Lemon",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 5575,
+   "PurchaseRequirements": null,
+
+  },
+
+ "NameLocalization": { 
+    "es": "Cuba Libre",
+     // "ko": "",
+     // "de": "",
+     // "fr": "",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+     // "ru": "",
+     // "tr": "",
+    "zh": "自由古巴",
+  },
+ "DescriptionLocalization": { 
+    "es": "Tiene sus orígenes en la Cuba del siglo XX.",
+     // "ko": "",
+     // "de": "",
+     // "fr": "",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+     // "ru": "",
+     // "tr": "",
+    "zh": "自由古巴。它起源于二十世纪的古巴。",
+  }
+}
