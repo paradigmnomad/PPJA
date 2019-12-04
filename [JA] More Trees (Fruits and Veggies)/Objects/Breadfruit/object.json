@@ -1,0 +1,9 @@
+{
+  "Name": "Breadfruit",
+  "Description": "A relative of the jackfruit. It has a robust flavor that is surprisingly fruity and sweet.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 200,
+  "IsColored": false,
+  "Recipe": null,
+}

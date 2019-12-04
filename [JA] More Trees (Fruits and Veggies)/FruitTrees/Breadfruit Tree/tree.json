@@ -1,0 +1,41 @@
+{
+    "Name": "Breadfruit Tree",
+    "Product": "Breadfruit",
+    "SaplingName": "Breadfruit Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Breadfruit tree. Bears fruit in the spring. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "spring",
+    "SaplingPurchaseFrom": "Sandy",
+    "SaplingPurchasePrice": 8000,
+    "SaplingPurchaseRequirements": [
+        "y 2"
+    ],
+    "SaplingNameLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "es": "",
+        "ko": "",
+        "de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",
+    }
+}

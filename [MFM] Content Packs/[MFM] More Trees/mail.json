@@ -16,6 +16,19 @@
             { "SkillName": "Farming", "SkillLevel": 1 }
         ]*/
     },
+    {
+        "Id": "ppja.breadfruitsapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "@,^^ I know this isn't the season, but if you plant this over winter you'll have a nice Breadfruit tree to harvest from in the spring.^^  -Elliott", 
+        "Attachments": [{"Type": "Object", "Name":"Breadfruit Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "12 fall Y2", 
+        "Seasons":  ["fall"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Elliott", "FriendshipLevel": 6 }
+        ],
+    },
     /*{
         "Id": "ppja.cassiasapling", 
         "GroupID": "MoreTrees.sapling",
