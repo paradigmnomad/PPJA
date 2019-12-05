@@ -167,6 +167,17 @@
           ]
         },
         {
+          "item": "Ancient Coffee",
+          "time": 120,
+          "materials": [
+            {
+              "name": "Ancient Coffee Bean",
+              "stack": 5
+            }
+          ],
+          "conditions": "hasmod ppja.ancientcrops"
+        },
+        {
           "item": "Cauim",
           "time": 2360,
           "materials": [
@@ -597,6 +608,16 @@
               "name": "Almond"
             }
           ]
+        },
+        {
+          "item": "Ancient Nut Butter",
+          "time": 680,
+          "materials": [
+            {
+              "name": "Ancient Nut"
+            }
+          ],
+          "conditions": "hasmod ppja.ancientcrops"
         },
         {
           "item": "Butter",
@@ -1269,6 +1290,26 @@
       "tileindex": 0,
       "frames": 6,
       "production": [
+       {
+          "item": "Ancient Nut Milk",
+          "time": 480,
+          "materials": [
+            {
+              "name": "Ancient Nut Milk"
+            }
+          ],
+          "conditions": "hasmod ppja.ancientcrops"
+       },
+       {
+          "item": "Ancient Olive Oil",
+          "time": 600,
+          "materials": [
+            {
+              "name": "Ancient Olive"
+            }
+          ],
+          "conditions": "hasmod ppja.ancientcrops"
+        },
         {
           "item": "Coconut Oil",
           "time": 60,
@@ -2123,6 +2164,21 @@
               "index": -75
             }
           ]
+        },
+        {
+          "name": "Ground",
+          "item": "Ground Herb",
+          "time": 360,
+          "suffix": true,
+          "texture": "produce.png",
+          "tileindex": 10,
+          "price": "original + (input * 1.5)",
+          "materials": [
+            {
+              "name": "Ancient Fern"
+            }
+          ],
+          "conditions": "hasmod ppja.ancientcrops"
         },
 
         //Sweet Tooth

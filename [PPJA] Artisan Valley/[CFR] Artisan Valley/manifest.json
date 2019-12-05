@@ -2,7 +2,7 @@
    "Name": "Artisan Valley Machines (for CFR)",
    "Author": "Project Populate JsonAssets",
    "Description": "Artisan Valley CustomFarmingRedux component.",
-   "Version": "2.0.5",
+   "Version": "2.0.6",
    "UniqueID": "ppja.avcfr",
    "ContentPackFor": {
        "UniqueID": "Platonymous.CustomFarming"
