@@ -2,8 +2,6 @@
     "Name": "Mint",
     "Description": "The world's most familiar mint scent is the aroma of peppermint.",
     "Category": "Vegetable",
-    "CategoryTextOverride": "Herb",
-    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 8,
     "Price": 25,
     "IsColored": false,

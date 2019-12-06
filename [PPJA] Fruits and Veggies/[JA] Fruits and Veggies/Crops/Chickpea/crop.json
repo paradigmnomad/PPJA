@@ -2,7 +2,7 @@
     "Name": "Chickpea",
     "Product": "Chickpea",
     "SeedName": "Chickpea Seeds",
-    "SeedDescription": "Plant these in summer. Takes 10 days to mature, and keeps producing after the first harvest.",
+    "SeedDescription": "Plant these in spring. Takes 10 days to mature, and keeps producing after the first harvest.",
     "Type": "Vegetable",
 
     "Seasons": ["summer"],

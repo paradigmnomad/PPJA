@@ -2,8 +2,6 @@
     "Name": "Parsley",
     "Description": "A leafy green that is used as an accent in food presentation.",
     "Category": "Vegetable",
-    "CategoryTextOverride": "Herb",
-    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 5,
     "Price": 45,
     "IsColored": false,

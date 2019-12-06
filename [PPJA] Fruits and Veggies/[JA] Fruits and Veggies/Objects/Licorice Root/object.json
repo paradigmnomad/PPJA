@@ -2,8 +2,6 @@
     "Name": "Licorice Root",
     "Description": "The natural growing plant that is the flavoring agent in the popular candy.",
     "Category": "Vegetable",
-    "CategoryTextOverride": "Herb",
-    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 8,
     "Price": 135,
     "IsColored": false,

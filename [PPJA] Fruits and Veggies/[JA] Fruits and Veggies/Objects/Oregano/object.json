@@ -2,8 +2,6 @@
     "Name": "Oregano",
     "Description": "A warm and aromatic, yet slightly bitter, herb in the mint family.",
     "Category": "Vegetable",
-    "CategoryTextOverride": "Herb",
-    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 5,
     "Price": 50,
     "IsColored": false,
