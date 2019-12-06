@@ -2,6 +2,8 @@
     "Name": "Thyme",
     "Description": "An aromatic herb in the mint family, with small rounded leaves and pink flowers.",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 5,
     "Price": 55,
     "IsColored": false,

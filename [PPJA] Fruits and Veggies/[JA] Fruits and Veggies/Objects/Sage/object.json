@@ -2,6 +2,8 @@
     "Name": "Sage",
     "Description": "Burned ceremonially to cleanse the spirit and welcome positive thoughts.",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 5,
     "Price": 70,
     "IsColored": false,

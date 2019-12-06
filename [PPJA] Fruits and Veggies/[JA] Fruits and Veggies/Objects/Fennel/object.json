@@ -1,7 +1,9 @@
 {
     "Name": "Fennel",
     "Description": "A food plant that can be eaten as a vegetable!",
-    "Category": "Vegetable",
+    "Category": "Vegetable",    
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 5,
     "Price": 35,
     "IsColored": false,

@@ -1,7 +1,9 @@
 {
     "Name": "Chives",
     "Description": "A small relative of the spring onion. It is often used in cooking and has a slightly sweet flavor.",
-    "Category": "Vegetable",
+    "Category": "Vegetable",    
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 5,
     "Price": 35,
     "IsColored": false,
@@ -40,4 +42,3 @@
          // "tr": "",
         "zh": "这是一个春天洋葱的亲戚。它常用于烹饪，味道略甜。",
     }
-}
