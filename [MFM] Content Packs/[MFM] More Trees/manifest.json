@@ -4,7 +4,7 @@
 	"Version": "1.0.1",
 	"Description": "Allows recipes to be mailed to the player.",
 	"UniqueID": "ppja.MoreTreesforMFM",
-	"MinimumApiVersion": "2.11.3",
+	"MinimumApiVersion": "3.0.0",
 	"UpdateKeys": [],
 	"Dependencies": [
 		{
