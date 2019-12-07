@@ -2,6 +2,8 @@
     "Name": "Pecan",
     "Description": "A savory nut with a striped seed. Do you own a nutcracker?",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Nut",
+    "CategoryColorOverride": "107, 70, 30, 255",
     "Edibility": 20,
     "Price": 125,
     "IsColored": false,

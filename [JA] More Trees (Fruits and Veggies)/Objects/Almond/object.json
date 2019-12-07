@@ -1,26 +1,29 @@
 {
-  "Name": "Almond",
-  "Description": "A drupe consisting of an outer hull and a hard shell with the seed within.",
-  "Category": "Vegetable",
-  "Edibility": 12,
-  "Price": 90,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus",  "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre","Robin","Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
-  },
-  "Recipe": null,
+    "Name": "Almond",
+    "Description": "A drupe consisting of an outer hull and a hard shell with the seed within.",
+    "Category": "Vegetable",
+    "CategoryTextOverride": "Nut",
+    "CategoryColorOverride": "107, 70, 30, 255",
+    "Edibility": 12,
+    "Price": 90,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
     "NameLocalization":
     {
         "es": "Almendra",
         "ko": "아몬드",
         "de": "Mandel",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
         "ja": "アーモンド",
         "pt": "Amêndoa",
-         // "ru": "",
-         // "tr": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "杏仁",
     },
     "DescriptionLocalization":
@@ -28,19 +31,19 @@
         "es": "Una drupa que consiste en un casco externo y una cáscara dura con la semilla dentro.",
         "ko": "겉을 감싸고 있는 두꺼운 껍데기 안에 씨가 한 두 개씩 들어 있습니다.",
         "de": "Eine Steinfrucht, bestehend aus einer äußeren Hülle und einer harten Schale mit der Mandel darin.",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
         "ja": "外側の外皮と、タネが入っている堅い殻で構成されている核果。",
         "pt": "Uma drupa que consiste em um casco externo e uma casca dura com a semente dentro.",
-         // "ru": "",
-         // "tr": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "一个由坚硬外壳组成的核果。",
     },
-  "ContextTags": [
-    "season_fall",
-    "color_sand",
-    "fruit_tree_item",
-    "nut_item"
-  ]
+    "ContextTags": [
+        "season_fall",
+        "color_sand",
+        "fruit_tree_item",
+        "nut_item"
+    ]
 }

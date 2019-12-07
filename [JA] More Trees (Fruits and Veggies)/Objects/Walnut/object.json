@@ -2,6 +2,8 @@
     "Name": "Walnut",
     "Description": "A nut that makes delicious candies and pies. It is often used in the filling of sweet treats.",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Nut",
+    "CategoryColorOverride": "107, 70, 30, 255",
     "Edibility": 12,
     "Price": 90,
     "IsColored": false,
