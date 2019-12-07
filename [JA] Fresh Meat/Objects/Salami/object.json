@@ -17,11 +17,11 @@
     "ResultCount": 1,
     "Ingredients": [
       {
-        "Object": "Beef",
+        "Object": "Cooked Beef",
         "Count": 1,
       },
       {
-        "Object": "Pork",
+        "Object": "Cooked Pork",
         "Count": 1,
       }
     ],
