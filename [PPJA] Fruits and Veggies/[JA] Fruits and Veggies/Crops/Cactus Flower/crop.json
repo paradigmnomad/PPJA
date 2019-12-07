@@ -3,7 +3,7 @@
     "Product": "Cactus Flower",
     "SeedName": "Cactus Flower Seeds",
     "SeedDescription": "Plant these in spring, summer, or fall. Takes 24 days to mature, and continues to produce after the first harvest.",
-    "Type": "Vegetable",
+    "Type": "Flower",
 
     "Seasons": ["spring", "summer", "fall"],
     "Phases": [2, 4, 6, 6, 6, ],

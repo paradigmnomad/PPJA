@@ -1,7 +1,7 @@
 {
     "Name": "Cactus Flower",
     "Description": "A beautiful cactus bloom.",
-    "Category": "Fruit",
+    "Category": "Flower",
     "Edibility": 8,
     "Price": 600,
     "IsColored": false,
