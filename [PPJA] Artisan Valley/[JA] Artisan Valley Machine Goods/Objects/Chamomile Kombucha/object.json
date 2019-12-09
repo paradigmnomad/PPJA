@@ -11,5 +11,33 @@
 	"Love": ["Evelyn", "Harvey"],
 	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Haley", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
 	"Dislike": ["Jas", "Vincent", "Willy"],
-  }
+  },
+  "NameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "甘菊康普茶",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "由甘菊茶发酵而来。绵软而略带甜味的康普茶。",
+    }
 }

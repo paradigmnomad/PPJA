@@ -10,5 +10,33 @@
 	"Love": ["Sebastian", "Demetrius", "Maru", "Robin", "Elliott", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Sandy", "Shane"],
 	"Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Willy", "Wizard"],
 	"Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
-  }
+  },
+  "NameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "草莓西柚康普茶",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "一种可口的水果混合饮料。",
+    }
 }

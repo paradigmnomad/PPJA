@@ -12,5 +12,33 @@
 	"Like": ["Harvey", "Leah", "Linus"],
 	"Neutral": ["Alex", "Clint", "Demetrius", "Emily", "Evelyn", "George", "Gus", "Kent", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy"],
 	"Dislike": ["Abigail", "Caroline", "Dwarf", "Elliott", "Haley", "Jas", "Jodi", "Pierre", "Sam", "Shane", "Vincent", "Willy", "Wizard"],
-  }
+  },
+  "NameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "鸡油菌康普茶",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "一种由发酵的蘑菇制成的带有轻微胡椒味的茶饮料。",
+    }
 }

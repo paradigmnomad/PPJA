@@ -11,5 +11,33 @@
 	"Like": ["Demetrius", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Sebastian", "Shane"],
 	"Dislike": ["Abigail", "Alex", "Clint", "Dwarf", "Emily", "George", "Gus", "Haley", "Harvey", "Jas", "Krobus", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Vincent", "Willy", "Wizard"],
 	"Hate": ["Caroline", "Elliott", "Evelyn"],
-  }
+  },
+  "NameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "混合浆果康普茶",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "由混合浆果茶发酵而成，一种可口的水果混合饮料。",
+    }
 }
