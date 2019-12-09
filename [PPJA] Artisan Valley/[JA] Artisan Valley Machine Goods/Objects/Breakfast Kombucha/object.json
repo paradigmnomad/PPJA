@@ -11,4 +11,32 @@
 	"Love": ["Harvey", "Sebastian"],
 	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
   },
+  "NameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "早餐康普茶",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "味道尝起来或许挺普通，亲爱的；但我希望它更自然一点。",
+    }
 }
