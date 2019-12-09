@@ -75,5 +75,9 @@
          // "ru": "",
          // "tr": "",
         "zh": "柠檬茶。柠檬茶加糖。",
-    }
+    },
+    "ContextTags": [
+        "color_yellow",
+        "tea_item",
+    ],
 }

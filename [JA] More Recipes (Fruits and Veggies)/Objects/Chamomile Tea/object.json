@@ -55,5 +55,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "甘菊茶。一种由甘菊酿造的草药茶。",
-    }
+    },
+    "ContextTags": [
+        "color_white",
+        "color_purple",
+        "tea_item",
+    ],
 }

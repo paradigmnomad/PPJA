@@ -65,5 +65,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "红茶。有点苦，但加糖能够缓解苦味。",
-    }
+    },
+    "ContextTags": [
+        "color_blue",
+        "color_yellow",
+        "tea_item",
+    ],
 }

@@ -65,5 +65,9 @@
          // "ru": "",
          // "tr": "",
         "zh": "白茶。一种淡黄色的酿造品。",
-    }
+    },
+    "ContextTags": [
+        "color_white",
+        "tea_item",
+    ],
 }

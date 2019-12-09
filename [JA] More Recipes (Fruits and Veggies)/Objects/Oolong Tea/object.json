@@ -53,5 +53,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "乌龙茶。一种在异国他乡流行的红茶。",
-    }
+    },
+    "ContextTags": [
+        "color_yellow",
+        "color_green",
+        "tea_item",
+    ],
 }

@@ -65,5 +65,11 @@
          // "ru": "",
          // "tr": "",
         "zh": "蒲公英茶。谁知道这种野草的味道这么好？",
-    }
+    },
+    "ContextTags": [
+        "color_yellow",
+        "color_white",
+        "color_pink",
+        "tea_item",
+    ],
 }
