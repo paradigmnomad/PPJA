@@ -2,6 +2,8 @@
     "Name": "Camphor Leaves",
     "Description": "Glossy oval leaves that are very fragrant when crushed.",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": -300,
     "Price": 100,
     "IsColored": false,
@@ -42,7 +44,7 @@
         "season_winter",
         "color_green",
         "fruit_tree_item",
-        "spice_item",
+        "herb_item",
         "crop_year_two",
         "fruit_tree_year_two"
     ]

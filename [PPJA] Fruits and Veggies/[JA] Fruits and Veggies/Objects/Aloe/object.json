@@ -1,7 +1,9 @@
 {
     "Name": "Aloe",
     "Description": "It can be used to treat sunburns.",
-    "Category": "Vegetable",
+    "Category": "Vegetable",   
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 20,
     "Price": 140,
     "IsColored": false,
@@ -40,5 +42,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "它可以用来治疗晒伤。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_green",
+        "herb_item",
+    ],
 }

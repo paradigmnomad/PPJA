@@ -19,7 +19,7 @@
         "ResultCount": 1,
         "Ingredients": [
         {
-            "Object": "Beef",
+            "Object": "Cooked Beef",
             "Count": 1,
         },
         {
@@ -47,28 +47,28 @@
     {
         "es": "Bangers Beans and Mash",
         "ko": "소시지 콩과 으깬 감자",
-         // "de": "",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
-         // "ja": "",
-         // "pt": "",
-         // "ru": "",
-         // "tr": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "香肠配菜豆和土豆泥",
     },
     "DescriptionLocalization":
     {
         "es": "Puré de papas, frijoles y salchichas.",
         "ko": "으깬 감자, 콩, 그리고 소시지.",
-         // "de": "",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
-         // "ja": "",
-         // "pt": "",
-         // "ru": "",
-         // "tr": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "香肠配菜豆和土豆泥。土豆泥，一些豆子，还有香肠。",
     }
 }

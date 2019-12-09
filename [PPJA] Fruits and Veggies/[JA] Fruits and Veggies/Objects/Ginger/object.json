@@ -1,7 +1,9 @@
 {
     "Name": "Ginger",
     "Description": "It is a flavoring agent in beer, soft drinks, candies, and a staple spice and condiment in many countries.",
-    "Category": "Vegetable",
+    "Category": "Vegetable",      
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 8,
     "Price": 80,
     "IsColored": false,
@@ -41,5 +43,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "它是许多国家的啤酒、饮料、糖果的调味剂，还是一种主要香料和调味品。",
-    }
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_tan",
+        "herb_item",
+    ],
 }

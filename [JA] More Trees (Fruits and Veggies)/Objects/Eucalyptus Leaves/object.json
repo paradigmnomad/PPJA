@@ -2,6 +2,8 @@
     "Name": "Eucalyptus Leaves",
     "Description": "Leathery blue-green leaves are studded with glands containing a fragrant, volatile oil. Luckily not an exploding oil!",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": -300,
     "Price": 135,
     "IsColored": false,
@@ -45,6 +47,6 @@
         "fruit_tree_year_two",
         "color_yellow_green",
         "fruit_tree_item",
-        "medicine_item",
+        "herb_item",
     ]
 }

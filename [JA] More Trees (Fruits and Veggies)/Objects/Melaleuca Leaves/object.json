@@ -2,6 +2,8 @@
     "Name": "Melaleuca Leaves",
     "Description": "A prickly cone of leaves that are often used as a homemade remedy for cuts and bruises.",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": -300,
     "Price": 100,
     "IsColored": false,
@@ -43,6 +45,6 @@
         "season_spring",
         "color_dark_green",
         "fruit_tree_item",
-        "medicine_item",
+        "herb_item",
     ]
 }

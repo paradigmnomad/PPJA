@@ -25,7 +25,8 @@
         {
             "Object": 248,
             "Count": 1,
-        },],
+        }, ],
+        "IsDefault": true,
     },
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
