@@ -12,5 +12,33 @@
 "Like": ["Abigail", "Alex", "Clint", "Emily", "Evelyn", "George", "Gus", "Kent", "Lewis", "Marnie", "Maru", "Pam", "Robin", "Sandy"],
     "Neutral": ["Caroline", "Dwarf", "Elliott", "Haley", "Jodi", "Krobus", "Penny", "Pierre", "Sam", "Shane", "Willy"],
 "Dislike": ["Jas", "Vincent"]
-  }
+  },
+  "NameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "紫蘑菇康普茶",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "一种由发酵紫蘑菇制成的类似紫色茶的饮料。",
+    }
 }

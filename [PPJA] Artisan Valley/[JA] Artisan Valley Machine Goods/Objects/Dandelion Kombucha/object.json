@@ -12,4 +12,32 @@
 	"Dislike": ["Caroline", "Dwarf", "Elliott", "Haley", "Jas", "Krobus", "Sam", "Shane", "Vincent", "Willy", "Wizard"],
 	"Hate": ["George", "Jodi"],
   },
+   "NameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "蒲公英康普茶",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        "zh": "大自然知道最好的。",
+    }
 }
