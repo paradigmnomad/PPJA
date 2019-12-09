@@ -11,6 +11,7 @@
 	"Love": ["Sebastian"],
 	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
 	"Dislike": ["Jas", "Vincent"],
+	},
   "NameLocalization":
     {
          // "es": "",
