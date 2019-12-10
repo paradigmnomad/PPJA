@@ -24,7 +24,7 @@
     "NameLocalization":
     {
         "es": "Café de caramelo salado",
-         // "ko": "",
+        "ko": "솔티드 캐러멜 모카",
         "de": "Gesalzener Karamell-Mokka",
          // "fr": "",
          // "hu": "",
@@ -38,7 +38,7 @@
     "DescriptionLocalization":
     {
         "es": "Los sabores salados y dulces se mezclan maravillosamente.",
-         // "ko": "",
+        "ko": "단짠단짠의 완벽한 조합.",
         "de": "Die salzigen und süßen Aromen vermischen sich wunderbar.",
          // "fr": "",
          // "hu": "",

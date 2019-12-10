@@ -32,7 +32,7 @@
     "NameLocalization":
     {
         "es": "Ron",
-         // "ko": "",
+        "ko": "럼",
         "de": "Rum",
          // "fr": "",
          // "hu": "",
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         "es": "No se nota pero el ron se agota.",
-         // "ko": "",
+        "ko": "왜 럼주가 사라졌을까요? 찾으면 절제해서 드세요.",
         "de": "Warum ist der Rum immer alle? Wenn du Ihn findest, genieße Ihn in Maßen.",
          // "fr": "",
          // "hu": "",

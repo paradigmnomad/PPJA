@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         "es": "Helado de fresa",
-         // "ko": "",
+        "ko": "딸기 아이스크림",
         "de": "Erdbeereis",
          // "fr": "",
          // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Mmmm helado de fresa!",
-         // "ko": "",
+        "ko": "음 딸기 아이스크림이군요!",
         "de": "Mmmm Erdbeereis!",
          // "fr": "",
          // "hu": "",

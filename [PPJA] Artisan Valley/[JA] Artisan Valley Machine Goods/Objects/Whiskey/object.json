@@ -32,7 +32,7 @@
     "NameLocalization":
     {
         "es": "Whisky",
-         // "ko": "",
+        "ko": "위스키",
         "de": "Whiskey",
          // "fr": "",
          // "hu": "",
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida destilada a base de malta de trigo. Beber con moderación.",
-         // "ko": "",
+        "ko": "밀 맥아를 증류시켜 만든 술. 절제해서 드세요.",
         "de": "Ein Schnaps aus Weizenmalz destilliert. Genieße Ihn in Maßen.",
          // "fr": "",
          // "hu": "",

@@ -13,7 +13,7 @@
     "NameLocalization":
     {
         "es": "Harina de arroz",
-         // "ko": "",
+        "ko": "쌀가루",
         "de": "Reismehl",
          // "fr": "",
          // "hu": "",
@@ -27,7 +27,7 @@
     "DescriptionLocalization":
     {
         "es": "Un ingrediente para cocinar hecho de arroz molido.",
-         // "ko": "",
+        "ko": "백미로 만든 요리 재료.",
         "de": "Eine Kochzutat aus gemahlenem Reis.",
          // "fr": "",
          // "hu": "",

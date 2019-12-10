@@ -32,7 +32,7 @@
     "NameLocalization":
     {
         "es": "Aguardiente",
-         // "ko": "",
+        "ko": "슈냅스",
         "de": "Schnaps",
          // "fr": "",
          // "hu": "",
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         "es": "Beber con moderación.",
-         // "ko": "",
+        "ko": "절제해서 드세요.",
         "de": "Trinken Sie in Maßen.",
          // "fr": "",
          // "hu": "",

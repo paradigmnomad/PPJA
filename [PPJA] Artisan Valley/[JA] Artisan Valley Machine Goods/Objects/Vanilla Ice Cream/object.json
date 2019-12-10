@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         "es": "Helado de vainilla",
-         // "ko": "",
+        "ko": "바닐라 아이스크림",
         "de": "Vanille-Eiscreme",
          // "fr": "",
          // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         "es": "Nunca puedes equivocarte con los clásicos.",
-         // "ko": "",
+        "ko": "바닐라 아이스크림은 언제나 옳습니다.",
         "de": "Mit den Klassikern kann man nie falsch liegen.",
          // "fr": "",
          // "hu": "",

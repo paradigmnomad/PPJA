@@ -24,7 +24,7 @@
     "NameLocalization":
     {
         "es": "Moca de coco tostado",
-         // "ko": "",
+        "ko": "구운 코코넛 모카",
         "de": "Gerösteter Kokosnuss-Mokka",
          // "fr": "",
          // "hu": "",
@@ -38,7 +38,7 @@
     "DescriptionLocalization":
     {
         "es": "Una mezcla suave de chocolate y coco. El aroma es celestial.",
-         // "ko": "",
+        "ko": "초콜릿과 코코넛의 부드러운 혼합. 향이 천국같아요.",
         "de": "Eine sanfte Mischung aus Schokoladen- und Kokosaromen. Das Aroma ist himmlisch.",
          // "fr": "",
          // "hu": "",

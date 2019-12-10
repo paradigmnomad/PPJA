@@ -32,7 +32,7 @@
     "NameLocalization":
     {
         "es": "Sake",
-         // "ko": "",
+        "ko": "사케",
         "de": "Sake",
          // "fr": "",
          // "hu": "",
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida fermentada a partir de arroz. Beber con moderación.",
-         // "ko": "",
+        "ko": "쌀을 발효시켜 만든 술. 절제해서 드세요.",
         "de": "Ein aus Reis fermentierter Wein. Genieße Ihn in Maßen.",
          // "fr": "",
          // "hu": "",

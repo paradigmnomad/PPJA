@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Fideos de arroz",
-         // "ko": "",
+        "ko": "쌀국수",
         "de": "Reisnudeln",
          // "fr": "",
          // "hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Una bolsa de fideos finos hechos de arroz.",
-         // "ko": "",
+        "ko": "얇은 쌀국수 한 봉지.",
         "de": "Eine Tüte mit dünnen Reisnudeln.",
          // "fr": "",
          // "hu": "",

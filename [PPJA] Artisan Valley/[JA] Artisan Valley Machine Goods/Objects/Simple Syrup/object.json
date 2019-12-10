@@ -17,7 +17,7 @@
     "NameLocalization":
     {
         "es": "Jarabe sencillo",
-         // "ko": "",
+        "ko": "단미시럽",
         "de": "Einfacher Syrup",
          // "fr": "",
          // "hu": "",
@@ -31,7 +31,7 @@
     "DescriptionLocalization":
     {
         "es": "Un elemento básico de muchos cócteles.",
-         // "ko": "",
+        "ko": "대부분 칵테일의 필수품.",
         "de": "Eine Grundzutat vieler Cocktails.",
          // "fr": "",
          // "hu": "",

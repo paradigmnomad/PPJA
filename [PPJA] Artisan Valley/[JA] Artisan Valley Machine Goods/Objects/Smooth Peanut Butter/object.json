@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         "es": "Mantequilla de maní suave",
-         // "ko": "",
+        "ko": "부드러운 땅콩 버터",
         "de": "Erdnussbutter",
          // "fr": "",
          // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         "es": "Molido en una textura suave y sedosa.",
-         // "ko": "",
+        "ko": "실크같은 부드러운 질감의 버터.",
         "de": "Der Klassiker. Fein gemahlen, streich zart.",
          // "fr": "",
          // "hu": "",

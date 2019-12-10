@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Yogur",
-         // "ko": "",
+        "ko": "요거트",
         "de": "Joghurt",
          // "fr": "",
          // "hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Yogurt elaborado con leche de vaca. Es sencillo, con un sabor ligeramente dulce.",
-         // "ko": "",
+        "ko": "우유로 만든 요거트. 담백하고 약간 단맛이 납니다.",
         "de": "Joghurt aus Kuhmilch. Es ist einfach, mit einem leicht süßen Geschmack.",
          // "fr": "",
          // "hu": "",
