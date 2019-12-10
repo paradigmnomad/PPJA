@@ -31,5 +31,10 @@
      // "ru": "",
      // "tr": "",
     "zh": "一种生长在水中的大花。受到多种文化的崇敬。",
-    }
+    },
+    "ContextTags": [
+    	"color_pink",
+    	"flower_item",
+    	"season_summer"
+    ]
 }

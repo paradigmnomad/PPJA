@@ -31,5 +31,10 @@
      // "ru": "",
      // "tr": "",
     "zh": "一种娇嫩，芬芳的花。",
-    }
+    },
+    "ContextTags": [
+    	"color_pink",
+    	"flower_item",
+    	"season_summer"
+    ]
 }

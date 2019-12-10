@@ -33,6 +33,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "在一个古老的传说中，这种花的香气吸引了仙女。",
-    }
-
+    },
+    "ContextTags": [
+    	"season_fall",
+    	"flower_item",
+    	"color_red"
+    ]
 }

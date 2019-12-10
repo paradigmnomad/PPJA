@@ -40,5 +40,11 @@
          // "ru": "",
          // "tr": "",
         "zh": "春天和夏天盛开的一朵纤弱的花。每种颜色都有特殊的寓意。",
-    }
+    },
+    "ContextTags": [
+    	"season_spring",
+    	"season_summer",
+    	"flower_item",
+    	"color_red"
+    ]
 }

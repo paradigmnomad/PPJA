@@ -41,5 +41,11 @@
          // "ru": "",
          // "tr": "",
         "zh": "一种硕大且突出花茎的花朵，有毒性。",
-    }
+    },
+    "ContextTags": [
+    	"color_blue",
+    	"season_spring",
+    	"flower_item",
+    	"flower_poisonous"
+    ]
 }

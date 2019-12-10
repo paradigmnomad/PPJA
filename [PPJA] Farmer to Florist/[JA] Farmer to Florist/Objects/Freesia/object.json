@@ -31,5 +31,10 @@
      // "ru": "",
      // "tr": "",
     "zh": "一种以其不可思议的香气所闻名的花。",
-    }
+    },
+    "ContextTags": [
+    	"color_orange",
+    	"season_fall",
+    	"flower_item"
+    ]
 }

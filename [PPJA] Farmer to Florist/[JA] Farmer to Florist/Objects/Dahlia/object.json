@@ -40,5 +40,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "一种在秋天盛开的花朵。",
-    }
+    },
+    "ContextTags": [
+    	"season_fall",
+    	"color_pink",
+    	"flower_item"
+    ]
 }

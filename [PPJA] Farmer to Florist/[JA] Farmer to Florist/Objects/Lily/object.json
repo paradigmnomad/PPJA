@@ -31,5 +31,10 @@
      // "ru": "",
      // "tr": "",
     "zh": "这种花的白色品种在典礼中经常使用。",
-    }
+    },
+    "ContextTags": [
+    	"color_white",
+    	"season_summer",
+    	"flower_item"
+    ]
 }

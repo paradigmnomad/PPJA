@@ -382,10 +382,10 @@
 		]
 	},
 	{
-		"Id": "PPJA.PottedRoseRecipe",
+		"Id": "PPJA.PottedEnglishRoseRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Rose",
+		"Recipe": "Potted English Rose",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 8 }

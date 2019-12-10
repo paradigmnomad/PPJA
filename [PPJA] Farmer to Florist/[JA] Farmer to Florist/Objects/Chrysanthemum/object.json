@@ -40,5 +40,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "花瓣细长，有各种颜色。",
-    }
+    },
+    "ContextTags": [
+    	"season_fall",
+    	"flower_item",
+    	"color_yellow"
+    ]
 }

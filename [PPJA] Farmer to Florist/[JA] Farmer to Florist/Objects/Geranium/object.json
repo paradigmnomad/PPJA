@@ -31,5 +31,10 @@
      // "ru": "",
      // "tr": "",
     "zh": "这种花在园艺爱好者中特别受欢迎。",
-    }
+    },
+    "ContextTags": [
+    	"color_pink",
+    	"flower_item",
+    	"season_fall"
+    ]
 }

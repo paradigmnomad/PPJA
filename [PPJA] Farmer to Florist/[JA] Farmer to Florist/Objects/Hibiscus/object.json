@@ -31,5 +31,11 @@
      // "ru": "",
      // "tr": "",
     "zh": "一种大而鲜艳的花。做蜜饯或泡茶时味道超好而且甜美。",
-    }
+    },
+    "ContextTags": [
+    	"fruit_tree_flower_item",
+    	"flower_item",
+    	"season_summer",
+    	"color_red"
+    ]
 }

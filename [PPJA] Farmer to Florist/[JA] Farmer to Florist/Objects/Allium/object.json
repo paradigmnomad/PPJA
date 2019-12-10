@@ -40,5 +40,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "花在球形內生長，以吸引盡可能多的蝴蝶。",
-    }
+    },
+    "ContextTags": [
+    	"season_summer",
+    	"flower_item",
+    	"color_purple"
+    ]
 }

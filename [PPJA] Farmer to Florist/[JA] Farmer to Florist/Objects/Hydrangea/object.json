@@ -31,5 +31,11 @@
      // "ru": "",
      // "tr": "",
     "zh": "拥有圆形的大花簇，很受园丁们的欢迎。",
-    }
+    },
+    "ContextTags": [
+    	"flower_poisonous",
+    	"flower_item",
+    	"color_blue",
+    	"season_summer"
+    ]
 }

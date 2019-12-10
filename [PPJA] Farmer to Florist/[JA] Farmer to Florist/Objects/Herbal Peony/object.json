@@ -31,5 +31,10 @@
      // "ru": "",
      // "tr": "",
     "zh": "一种拥有浓郁香气的花。采摘后花朵很快就会枯萎。",
-    }
+    },
+    "ContextTags": [
+    	"color_pink",
+    	"flower_item",
+    	"season_spring"
+    ]
 }
