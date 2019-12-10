@@ -50,7 +50,7 @@
 
  "NameLocalization": { 
     "es": "Ponche de primavera ruso",
-     // "ko": "",
+    "ko": "러시안 스프링 펀치",
      // "de": "",
      // "fr": "",
      // "hu": "",
@@ -63,7 +63,7 @@
   },
  "DescriptionLocalization": { 
     "es": "Servir con hielo.",
-     // "ko": "",
+    "ko": "얼음과 같이 드세요.",
      // "de": "",
      // "fr": "",
      // "hu": "",

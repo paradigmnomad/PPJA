@@ -1,79 +1,82 @@
 {
-  "Name": "Vampiro",
-  "Description": "Please don't operate heavy machinery under the influence.",
-  "Category": "Cooking",
-  "Edibility": 35,
-  "EdibleIsDrink": true,
-  "EdibleBuffs": {
-    "Farming": 0,
-    "Fishing": 0,
-    "Mining": 0,
-    "Luck": 0,
-	"Foraging": 0,
-	"MaxStamina": 0,
-    "MagnetRadius": 0,
-	"Speed": -1,
-	"Defense": 0,
-	"Attack": 0,
-    "Duration": 100,
-  },
-  "Price": 470,
-  "IsColored": false,
+    "Name": "Vampiro",
+    "Description": "Please don't operate heavy machinery under the influence.",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -1,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 100,
+    },
+    "Price": 470,
+    "IsColored": false,
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 470,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Tequila",
-        "Count": 1,
-      },
-      {
-        "Object": 256,
-        "Count": 1,
-      },
-      {
-        "Object": 340,
-        "Count": 1,
-      },
-      {
-        "Object": "Bell Pepper",
-        "Count": 1,
-      },
-      {
-        "Object": "Salt",
-        "Count": 1,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Tequila",
+            "Count": 1,
+        },
+        {
+            "Object": 256,
+            "Count": 1,
+        },
+        {
+            "Object": 340,
+            "Count": 1,
+        },
+        {
+            "Object": "Bell Pepper",
+            "Count": 1,
+        },
+        {
+            "Object": "Salt",
+            "Count": 1,
 
-      }
-    ],
-    "CanPurchase": false,
-  },
+        }],
+        "CanPurchase": false,
+    },
 
- "NameLocalization": { 
-    "es": "Vampiro",
-     // "ko": "",
-     // "de": "",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-     // "ru": "",
-     // "tr": "",
-    "zh": "曼哈顿",
-  },
- "DescriptionLocalization": { 
-    "es": "Por favor no opere maquinaria pesada bajo la influencia.",
-     // "ko": "",
-     // "de": "",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-     // "ru": "",
-     // "tr": "",
-    "zh": "曼哈顿。请不要在受影响的情况下操作重型机械。",
-  }
+    "NameLocalization":
+    {
+        "es": "Vampiro",
+        "ko": "뱀파이어",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "曼哈顿",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Por favor no opere maquinaria pesada bajo la influencia.",
+        "ko": "취한 상태로 중장비를 작동시키지 마세요.",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "曼哈顿。请不要在受影响的情况下操作重型机械。",
+    }
 }

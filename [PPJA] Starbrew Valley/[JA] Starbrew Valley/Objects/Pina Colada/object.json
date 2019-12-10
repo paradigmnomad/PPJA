@@ -1,72 +1,75 @@
 {
-  "Name": "Pina Colada",
-  "Description": "If you like getting caught in the rain...",
-  "Category": "Cooking",
-  "Edibility": 25,
-  "EdibleIsDrink": true,
-  "EdibleBuffs": {
-    "Farming": 0,
-    "Fishing": 0,
-    "Mining": 0,
-    "Luck": 0,
-	"Foraging": 0,
-	"MaxStamina": 0,
-    "MagnetRadius": 0,
-	"Speed": -1,
-	"Defense": 0,
-	"Attack": 0,
-    "Duration": 100,
-  },
-  "Price": 820,
-  "IsColored": false,
+    "Name": "Pina Colada",
+    "Description": "If you like getting caught in the rain...",
+    "Category": "Cooking",
+    "Edibility": 25,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -1,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 100,
+    },
+    "Price": 820,
+    "IsColored": false,
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1145,
-  "PurchaseRequirements": null,
+    "PurchaseRequirements": null,
 
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Rum",
-        "Count": 1,
-      },
-      {
-        "Object": 88,
-        "Count": 1,
-      },
-{
-        "Object": "Pineapple",
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": false,
-  },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Rum",
+            "Count": 1,
+        },
+        {
+            "Object": 88,
+            "Count": 1,
+        },
+        {
+            "Object": "Pineapple",
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
 
- "NameLocalization": { 
-    "es": "Piña colada",
-     // "ko": "",
-     // "de": "",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-     // "ru": "",
-     // "tr": "",
-    "zh": "椰林飘香",
-  },
- "DescriptionLocalization": { 
-    "es": "Si te gusta quedar atrapado en la lluvia...",
-     // "ko": "",
-     // "de": "",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-     // "ru": "",
-     // "tr": "",
-    "zh": "椰林飘香。如果你喜欢被雨淋湿…",
-  }
+    "NameLocalization":
+    {
+        "es": "Piña colada",
+        "ko": "피냐 칼라다",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "椰林飘香",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Si te gusta quedar atrapado en la lluvia...",
+        "ko": "갑자기 내리는 비를 좋아한다면...",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "椰林飘香。如果你喜欢被雨淋湿…",
+    }
 }

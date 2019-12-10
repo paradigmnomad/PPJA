@@ -1,78 +1,81 @@
 {
-  "Name": "Hemingway Special",
-  "Description": "A favorite of the author Ernest Hemingway.",
-  "Category": "Cooking",
-  "Edibility": 57,
-  "EdibleIsDrink": true,
-  "EdibleBuffs": {
-    "Farming": 0,
-    "Fishing": 0,
-    "Mining": 0,
-    "Luck": 0,
-	"Foraging": 0,
-	"MaxStamina": 0,
-    "MagnetRadius": 0,
-	"Speed": -1,
-	"Defense": 0,
-	"Attack": 0,
-    "Duration": 100,
-  },
-  "Price": 720,
-  "IsColored": false,
-"CanPurchase": true,
+    "Name": "Hemingway Special",
+    "Description": "A favorite of the author Ernest Hemingway.",
+    "Category": "Cooking",
+    "Edibility": 57,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -1,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 100,
+    },
+    "Price": 720,
+    "IsColored": false,
+    "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1720,
     "PurchaseRequirements": ["y 2",
-"f Elliott 1250",
-],
-
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 636,
-        "Count": 1,
-      },
-      {
-        "Object": "Rum",
-        "Count": 1,
-      },
- {
-        "Object": "Grapefruit",
-        "Count": 1,
-      },
- {
-        "Object": "Lime",
-        "Count": 1,
-      }
+        "f Elliott 1250",
     ],
-    "CanPurchase": false,
-  },
 
- "NameLocalization": { 
-    "es": "Especial Hemingway",
-     // "ko": "",
-     // "de": "",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-     // "ru": "",
-     // "tr": "",
-    "zh": "海明威特调",
-  },
- "DescriptionLocalization": { 
-    "es": "Un favorito del autor Ernest Hemingway.",
-     // "ko": "",
-     // "de": "",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-     // "ru": "",
-     // "tr": "",
-    "zh": "海明威特调。这款鸡尾酒的作者是海明威，是他的最爱。",
-  }
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 636,
+            "Count": 1,
+        },
+        {
+            "Object": "Rum",
+            "Count": 1,
+        },
+        {
+            "Object": "Grapefruit",
+            "Count": 1,
+        },
+        {
+            "Object": "Lime",
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+
+    "NameLocalization":
+    {
+        "es": "Especial Hemingway",
+        "ko": "헤밍웨이 스페셜",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "海明威特调",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un favorito del autor Ernest Hemingway.",
+        "ko": "작가 어니스트 헤밍웨이의 애호주.",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "海明威特调。这款鸡尾酒的作者是海明威，是他的最爱。",
+    }
 }

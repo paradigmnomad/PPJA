@@ -1,70 +1,73 @@
 {
-  "Name": "Paradise",
-  "Description": "I feel like I'm in Paradise.",
-  "Category": "Cooking",
-  "Edibility": 59,
-  "EdibleIsDrink": true,
-  "EdibleBuffs": {
-    "Farming": 0,
-    "Fishing": 0,
-    "Mining": 0,
-    "Luck": 0,
-	"Foraging": 0,
-	"MaxStamina": 0,
-    "MagnetRadius": 0,
-	"Speed": -1,
-	"Defense": 0,
-	"Attack": 0,
-    "Duration": 100,
-  },
-  "Price": 700,
-  "IsColored": false,
+    "Name": "Paradise",
+    "Description": "I feel like I'm in Paradise.",
+    "Category": "Cooking",
+    "Edibility": 59,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -1,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 100,
+    },
+    "Price": 700,
+    "IsColored": false,
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1025,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 635,
-        "Count": 1,
-      },
-      {
-        "Object": 634,
-        "Count": 1,
-      },
- {
-        "Object": "Gin",
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": false,
-  },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 635,
+            "Count": 1,
+        },
+        {
+            "Object": 634,
+            "Count": 1,
+        },
+        {
+            "Object": "Gin",
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
 
- "NameLocalization": { 
-    "es": "Paraíso",
-     // "ko": "",
-     // "de": "",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-     // "ru": "",
-     // "tr": "",
-    "zh": "天堂乐园",
-  },
- "DescriptionLocalization": { 
-    "es": "Siento que estoy en el paraíso.",
-     // "ko": "",
-     // "de": "",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-     // "ru": "",
-     // "tr": "",
-    "zh": "天堂乐园。我感觉我在天堂里。",
-  }
+    "NameLocalization":
+    {
+        "es": "Paraíso",
+        "ko": "파라다이스",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "天堂乐园",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Siento que estoy en el paraíso.",
+        "ko": "파라다이스에 있는 것 같아요.",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "天堂乐园。我感觉我在天堂里。",
+    }
 }

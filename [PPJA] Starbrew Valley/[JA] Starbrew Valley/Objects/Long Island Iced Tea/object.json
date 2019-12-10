@@ -54,7 +54,7 @@
 
  "NameLocalization": { 
     "es": "Té helado de Long Island",
-     // "ko": "",
+    "ko": "롱 아일랜드 아이스 티",
      // "de": "",
      // "fr": "",
      // "hu": "",
@@ -67,7 +67,7 @@
   },
  "DescriptionLocalization": { 
     "es": "¿¡Quieres decir que no hay té en esto!?",
-     // "ko": "",
+    "ko": "여기에 차가 안 들어있다고요!?",
      // "de": "",
      // "fr": "",
      // "hu": "",

@@ -1,61 +1,63 @@
 {
-  "Name": "Lemon-Lime Soda",
-  "Description": "A citrus flavored, carbonated drink.",
-  "Category": "Cooking",
-  "Edibility": 21,
-  "EdibleIsDrink": true,
-  "EdibleBuffs": null,
-  "Price": 400,
-  "IsColored": false,
-"CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 400,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Club Soda",
-        "Count": 1,
-      },
-      {
-        "Object": "Lemon",
-        "Count": 1,
-      },
- {
-        "Object": "Lime",
-        "Count": 1,
-      }
-    ],
+    "Name": "Lemon-Lime Soda",
+    "Description": "A citrus flavored, carbonated drink.",
+    "Category": "Cooking",
+    "Edibility": 21,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 400,
+    "IsColored": false,
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
-    "PurchasePrice": 1400,
-    "PurchaseRequirements": null,
-  },
+    "PurchasePrice": 400,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Club Soda",
+            "Count": 1,
+        },
+        {
+            "Object": "Lemon",
+            "Count": 1,
+        },
+        {
+            "Object": "Lime",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1400,
+        "PurchaseRequirements": null,
+    },
 
- "NameLocalization": { 
-    "es": "Soda de lima limón",
-     // "ko": "",
-     // "de": "",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-     // "ru": "",
-     // "tr": "",
-    "zh": "柠檬酸橙苏打水",
-  },
- "DescriptionLocalization": { 
-    "es": "Una bebida carbonatada con sabor cítrico.",
-     // "ko": "",
-     // "de": "",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-     // "ru": "",
-     // "tr": "",
-    "zh": "柠檬酸橙苏打水。一种柠檬味的碳酸饮料。",
-  }
+    "NameLocalization":
+    {
+        "es": "Soda de lima limón",
+        "ko": "레몬 라임 소다",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "柠檬酸橙苏打水",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una bebida carbonatada con sabor cítrico.",
+        "ko": "감귤 맛 탄산 음료.",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "柠檬酸橙苏打水。一种柠檬味的碳酸饮料。",
+    }
 }

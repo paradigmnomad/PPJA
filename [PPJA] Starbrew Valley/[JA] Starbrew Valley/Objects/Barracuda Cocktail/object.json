@@ -52,7 +52,7 @@
     "NameLocalization":
     {
         "es": "Cóctel Barracuda",
-        // "ko": "",
+        "ko": "바라쿠다 칵테일",
         // "de": "",
         // "fr": "",
         // "hu": "",
@@ -66,7 +66,7 @@
     "DescriptionLocalization":
     {
         "es": "No, esto no es una bebida a pescado.",
-        // "ko": "",
+        "ko": "비린 음료가 아니에요.",
         // "de": "",
         // "fr": "",
         // "hu": "",

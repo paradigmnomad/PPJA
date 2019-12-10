@@ -1,72 +1,75 @@
 {
-  "Name": "Sea Breeze",
-  "Description": "Similar to a Bay Breeze, but with Grapefruit juice.",
-  "Category": "Cooking",
-  "Edibility": 68,
-  "EdibleIsDrink": true,
-  "EdibleBuffs": {
-    "Farming": 0,
-    "Fishing": 0,
-    "Mining": 0,
-    "Luck": 0,
-	"Foraging": 0,
-	"MaxStamina": 0,
-    "MagnetRadius": 0,
-	"Speed": -1,
-	"Defense": 0,
-	"Attack": 0,
-    "Duration": 100,
-  },
-  "Price": 1200,
-  "IsColored": false,
+    "Name": "Sea Breeze",
+    "Description": "Similar to a Bay Breeze, but with Grapefruit juice.",
+    "Category": "Cooking",
+    "Edibility": 68,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -1,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 100,
+    },
+    "Price": 1200,
+    "IsColored": false,
     "CanPurchase": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Grapefruit",
-        "Count": 1,
-      },
-      {
-        "Object": "Vodka",
-        "Count": 1,
-      },
- {
-        "Object": 282,
-        "Count": 1,
-      },
-{
-        "Object": "Lime",
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": false,
-  },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Grapefruit",
+            "Count": 1,
+        },
+        {
+            "Object": "Vodka",
+            "Count": 1,
+        },
+        {
+            "Object": 282,
+            "Count": 1,
+        },
+        {
+            "Object": "Lime",
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
 
- "NameLocalization": { 
-    "es": "Brisa marina",
-     // "ko": "",
-     // "de": "",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-     // "ru": "",
-     // "tr": "",
-    "zh": "海风",
-  },
- "DescriptionLocalization": { 
-    "es": "Similar a un Brisa bahía, pero con jugo de toronja.",
-     // "ko": "",
-     // "de": "",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-     // "ru": "",
-     // "tr": "",
-    "zh": "海风。类似于海湾微风，但这款里面有西柚汁。",
-  }
+    "NameLocalization":
+    {
+        "es": "Brisa marina",
+        "ko": "씨 브리즈",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "海风",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Similar a un Brisa bahía, pero con jugo de toronja.",
+        "ko": "베이 브리즈와 비슷하지만, 자몽주스가 들어있어요. ",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "海风。类似于海湾微风，但这款里面有西柚汁。",
+    }
 }

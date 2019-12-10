@@ -48,7 +48,7 @@
 
  "NameLocalization": { 
     "es": "Porto Flip",
-     // "ko": "",
+    "ko": "포르토 플립",
      // "de": "",
      // "fr": "",
      // "hu": "",
@@ -61,7 +61,7 @@
   },
  "DescriptionLocalization": { 
     "es": "Te hará querer dar la vuelta.",
-     // "ko": "",
+    "ko": "뒤집고 싶어 질거에요. ",
      // "de": "",
      // "fr": "",
      // "hu": "",
