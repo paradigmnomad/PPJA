@@ -40,5 +40,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "在薄荷家族中，这是一种温暖而芳香，但略带苦涩的草本植物。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_green",
+        "herb_item",
+    ],
 }

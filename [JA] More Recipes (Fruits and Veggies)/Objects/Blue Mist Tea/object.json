@@ -61,5 +61,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "蓝雾茶。一种由蓝雾制成的轻微甜味的茶。",
-    }
+    },
+    "ContextTags": [
+        "color_blue",
+        "color_white",
+        "tea_item",
+    ],
 }

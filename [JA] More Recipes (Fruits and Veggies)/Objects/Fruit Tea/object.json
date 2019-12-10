@@ -57,5 +57,9 @@
          // "ru": "",
          // "tr": "",
         "zh": "水果茶。这种茶带着水果的甜味。",
-    }
+    },
+    "ContextTags": [
+        "color_brown",
+        "tea_item",
+    ],
 }

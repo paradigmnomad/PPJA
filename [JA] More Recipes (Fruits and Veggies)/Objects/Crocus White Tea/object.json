@@ -73,5 +73,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "番红花白茶。一种用番红花做的茶。",
-    }
+    },
+    "ContextTags": [
+        "color_white",
+        "color_purple",
+        "tea_item",
+    ],
 }

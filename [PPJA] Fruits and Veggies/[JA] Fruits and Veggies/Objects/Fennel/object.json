@@ -40,5 +40,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "一种可以作为蔬菜吃的食物！",
-    }
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_green",
+        "herb_item",
+    ],
 }

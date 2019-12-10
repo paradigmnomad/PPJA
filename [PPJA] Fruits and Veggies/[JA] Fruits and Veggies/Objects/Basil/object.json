@@ -40,5 +40,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "一般来说，这种草药很甜，有点薄荷味，有点辛辣。",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_green",
+        "herb_item",
+    ],
 }

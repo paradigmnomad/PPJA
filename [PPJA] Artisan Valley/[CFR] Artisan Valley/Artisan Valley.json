@@ -264,7 +264,7 @@
             }
           ]
         },
-      {
+        {
           "item": "Pulque",
           "time": 2360,
           "materials": [
@@ -631,7 +631,7 @@
             }
           ]
         },
-		{
+        {
           "item": "Ghee",
           "time": 180,
           "materials": [
@@ -640,7 +640,7 @@
             }
           ]
         },
-		{
+        {
           "item": "Ghee",
           "time": 180,
           "materials": [
@@ -760,7 +760,7 @@
             }
           ]
         },
-      {
+        {
           "item": "Hemp Butter",
           "time": 10,
           "materials": [
@@ -902,7 +902,7 @@
             }
           ],
           "conditions": "hasmod PPJA.cannabiskit"
-        },
+        }
       ]
     },
     {
@@ -1229,7 +1229,7 @@
           "suffix": true,
           "texture": "produce.png",
           "include": [
-			281,
+            281,
             422,
             420,
             257
@@ -1256,7 +1256,7 @@
             }
           ]
         },
-      {
+        {
           "name": "Hemp Cloth",
           "time": 100,
           "quality": -1,
@@ -1275,7 +1275,7 @@
               "name": "Tobacco"
             }
           ]
-        },
+        }
       ]
     },
     {
@@ -1290,7 +1290,7 @@
       "tileindex": 0,
       "frames": 6,
       "production": [
-       {
+        {
           "item": "Ancient Nut Milk",
           "time": 480,
           "materials": [
@@ -1299,8 +1299,8 @@
             }
           ],
           "conditions": "hasmod ppja.ancientcrops"
-       },
-       {
+        },
+        {
           "item": "Ancient Olive Oil",
           "time": 600,
           "materials": [
@@ -1355,7 +1355,7 @@
             }
           ]
         },
-      {
+        {
           "item": "CBD Oil",
           "time": 10,
           "quality": -1,
@@ -1518,8 +1518,8 @@
               "index": 247
             }
           ],
-          "conditions": "hasmod PPJA.cannabiskit"          
-        },
+          "conditions": "hasmod PPJA.cannabiskit"
+        }
       ]
     },
     {
@@ -1570,7 +1570,7 @@
             }
           ]
         },
-      {
+        {
           "item": "Wax",
           "time": 60,
           "materials": [
@@ -1855,7 +1855,7 @@
             }
           ],
           "conditions": "hasmod PPJA.cannabiskit"
-        },
+        }
       ]
     },
     {
@@ -2179,10 +2179,8 @@
             }
           ],
           "conditions": "hasmod ppja.ancientcrops"
-        },
-
-        //Sweet Tooth
-
+        }
+        /*Sweet Tooth*/,
         {
           "item": "Chocolate Chips",
           "time": 120,
@@ -2192,7 +2190,7 @@
             }
           ],
           "conditions": "hasmod Aquilegia.SweetTooth"
-        },
+        }
       ]
     },
     {
@@ -2283,7 +2281,7 @@
             }
           ]
         },
-		{
+        {
           "item": "Silk Thread",
           "time": 180,
           "materials": [
@@ -2310,7 +2308,7 @@
             }
           ]
         },
-		{
+        {
           "item": "Black Yarn",
           "time": 120,
           "materials": [
@@ -2370,7 +2368,7 @@
             }
           ]
         },
-		{
+        {
           "item": "Water Buffalo Yogurt",
           "time": 1600,
           "materials": [
@@ -2379,7 +2377,7 @@
             }
           ]
         },
-		{
+        {
           "item": "Water Buffalo Yogurt",
           "time": 1600,
           "materials": [
@@ -2518,10 +2516,8 @@
               "index": 74
             }
           ]
-        },
-
-        //Sweet Tooth Recipes
-
+        }
+        /*Sweet Tooth Recipes*/,
         {
           "item": "Birthday Cake Ice Cream",
           "time": 120,
@@ -2541,7 +2537,7 @@
           "materials": [
             {
               "name": "Chewing Gum"
-            },
+            }
           ],
           "conditions": "hasmod Aquilegia.SweetTooth"
         },
@@ -2564,7 +2560,7 @@
           "materials": [
             {
               "index": 395
-            },
+            }
           ],
           "conditions": "hasmod Aquilegia.SweetTooth"
         },
@@ -2574,7 +2570,7 @@
           "materials": [
             {
               "index": 223
-            },
+            }
           ],
           "conditions": "hasmod Aquilegia.SweetTooth"
         },
@@ -2584,7 +2580,7 @@
           "materials": [
             {
               "name": "Cotton Candy"
-            },
+            }
           ],
           "conditions": "hasmod Aquilegia.SweetTooth"
         },
@@ -2594,7 +2590,7 @@
           "materials": [
             {
               "index": 426
-            },
+            }
           ],
           "conditions": "hasmod Aquilegia.SweetTooth"
         },
@@ -2604,7 +2600,7 @@
           "materials": [
             {
               "name": "Lavender"
-            },
+            }
           ],
           "conditions": "hasmod Aquilegia.SweetTooth"
         },
@@ -2614,7 +2610,7 @@
           "materials": [
             {
               "index": 395
-            },
+            }
           ],
           "conditions": "hasmod Aquilegia.SweetTooth"
         },
@@ -2624,7 +2620,7 @@
           "materials": [
             {
               "name": "Mint"
-            },
+            }
           ],
           "conditions": "hasmod Aquilegia.SweetTooth"
         },
@@ -2669,7 +2665,7 @@
             }
           ],
           "conditions": "hasmod Aquilegia.SweetTooth"
-        },
+        }
       ]
     },
     {
@@ -2682,11 +2678,10 @@
       "pulsate": false,
       "readyindex": 7,
       "tileindex": 0,
-      "frames": 6,
-      /*"forsale": true,
+      "frames": 6/*"forsale": true,
       "shop": "Gus",
       "price": 3345,
-      "condition": "y 2",*/
+      "condition": "y 2",*/,
       "production": [
         {
           "item": "Essential Oil",
@@ -2979,9 +2974,69 @@
             {
               "name": "Wasabi Root"
             }
-          ],
+          ]
         },
-      ],
+        {
+          "item": "Golden Goose Mayonnaise",
+          "time": 360,
+          "materials": [
+            {
+              "name": "Golden Goose Egg"
+            }
+          ],
+          "conditions": "hasmod MythicPhoenix.BFAVGoldenGoose"
+        },
+        {
+          "item": "Ashen Phoenix Mayonnaise",
+          "time": 360,
+          "materials": [
+            {
+              "name": "Ashen Phoenix Egg"
+            }
+          ],
+          "conditions": "hasmod MythicPhoenix.BFAV.Firebirds"
+        },
+        {
+          "item": "Blue Phoenix Mayonnaise",
+          "time": 360,
+          "materials": [
+            {
+              "name": "Blue Phoenix Egg"
+            }
+          ],
+          "conditions": "hasmod MythicPhoenix.BFAV.Firebirds"
+        },
+        {
+          "item": "Golden Phoenix Mayonnaise",
+          "time": 360,
+          "materials": [
+            {
+              "name": "Golden Phoenix Egg"
+            }
+          ],
+          "conditions": "hasmod MythicPhoenix.BFAV.Firebirds"
+        },
+        {
+          "item": "Iridium Phoenix Mayonnaise",
+          "time": 360,
+          "materials": [
+            {
+              "name": "Iridium Phoenix Egg"
+            }
+          ],
+          "conditions": "hasmod MythicPhoenix.BFAV.Firebirds"
+        },
+        {
+          "item": "Phoenix Mayonnaise",
+          "time": 360,
+          "materials": [
+            {
+              "name": "Phoenix Egg"
+            }
+          ],
+          "conditions": "hasmod MythicPhoenix.BFAV.Firebirds"
+        }
+      ]
     },
     {
       "id": 22,
@@ -3008,7 +3063,7 @@
           "price": "input * 2",
           "materials": [
             {
-              "index": -4,
+              "index": -4
             }
           ]
         },
@@ -3021,7 +3076,7 @@
           "price": "input * 2",
           "materials": [
             {
-              "index": 424,
+              "index": 424
             }
           ]
         },
@@ -3034,11 +3089,11 @@
           "price": "input * 2",
           "materials": [
             {
-              "name": "Cheddar",
+              "name": "Cheddar"
             }
           ]
         },
-		{
+        {
           "name": "Smoked",
           "index": -999,
           "quality": -1,
@@ -3047,11 +3102,11 @@
           "price": "input * 2",
           "materials": [
             {
-              "name": "Buffalo Cheese",
+              "name": "Buffalo Cheese"
             }
           ]
         },
-		{
+        {
           "name": "Smoked",
           "index": -999,
           "quality": -1,
@@ -3060,11 +3115,11 @@
           "price": "input * 2",
           "materials": [
             {
-              "name": "Buffalo Cheese",
+              "name": "Buffalo Cheese"
             }
           ]
         },
-		{
+        {
           "name": "Smoked",
           "index": -999,
           "quality": -1,
@@ -3073,142 +3128,143 @@
           "price": "input * 2",
           "materials": [
             {
-              "name": "Caprino Cheese",
+              "name": "Caprino Cheese"
             }
-          ],
-        },
-      ],
+          ]
+        }
+      ]
     },
     {
-       "id": 23,
-       "name": "Espresso Machine",
-       "description": "Whip up delicious coffee creations.",
-       "category": "Crafting",
-       "crafting" : "335 5 787 1 768 10",
-       "texture": "Espresso Machine.png",
-       "pulsate": false,       
-         "readyindex": 7,
-       "tileindex": 0,
-       "frames": 6,
-       "starter":
-      {
+      "id": 23,
+      "name": "Espresso Machine",
+      "description": "Whip up delicious coffee creations.",
+      "category": "Crafting",
+      "crafting": "335 5 787 1 768 10",
+      "texture": "Espresso Machine.png",
+      "pulsate": false,
+      "readyindex": 7,
+      "tileindex": 0,
+      "frames": 6,
+      "starter": {
         "index": 433,
         "stack": 5
       },
       "production": [
-      {
-        "item": "Cafe Latte",
-        "time": 120,
-        "materials":
-        [
-          {"index": 186},
-          {"index": 245}
-        ]
-      },
-      {
-        "item": "Cafe Mocha",
-        "time": 120,
-        "materials":
-        [
-          {"name": "Chocolate Syrup"}
-        ]
-      },
         {
-        "item": "Cappuccino",
-        "time": 120,
-        "materials":
-          [
-            {"index": 436},
-            {"index": 245}
+          "item": "Cafe Latte",
+          "time": 120,
+          "materials": [
+            {
+              "index": 186
+            },
+            {
+              "index": 245
+            }
           ]
-      },
-      {
-        "item": "Cafe Americano",
-        "time": 120,
-        "materials":
-        [
-          {
-            "index": 395
-          }
-        ]
-      },
-      {
-        "item": "Macchiato",
-        "time": 120,
-        "materials":
-        [
-          {
-            "index": 184
-          }
-        ]
-      },
-      {
-        "item": "Maple Macchiato",
-        "time": 120,
-        "materials":
-        [
-          {"index": 724}
-        ]
-      },
-      {
-        "item": "Peppermint Mocha",
-        "time": 120,
-        "materials":
-        [
-          {
-            "name": "Mint"
-          },
-          {
-            "name": "Chocolate"
-          }
-        ]
-      },
-      {
-        "item": "Affogato",
-        "time": 120,
-        "materials":
-        [
-          {
-            "name": "Vanilla Ice Cream"
-          }
-        ]
-      },
-      {
-        "item": "Salted Caramel Mocha",
-        "time": 120,
-        "materials":
-        [
-          {
-            "name": "Caramel"
-          },
-          {
-            "name": "Salt"
-          }
-        ]
-      },
-      {
-        "item": "Vanilla Latte",
-        "time": 120,
-        "materials":
-        [
-          {
-            "name": "Vanilla"
-          }
-        ]
-      },
-      {
-        "item": "Hot Irish Coffee",
-        "time": 120,
-        "materials":
-          [
-            {"name": "Whiskey"}
+        },
+        {
+          "item": "Cafe Mocha",
+          "time": 120,
+          "materials": [
+            {
+              "name": "Chocolate Syrup"
+            }
           ]
-      },
-      {
-        "item": "Pumpkin Spice Latte",
-        "time": 120,
-        "materials":
-          [
+        },
+        {
+          "item": "Cappuccino",
+          "time": 120,
+          "materials": [
+            {
+              "index": 436
+            },
+            {
+              "index": 245
+            }
+          ]
+        },
+        {
+          "item": "Cafe Americano",
+          "time": 120,
+          "materials": [
+            {
+              "index": 395
+            }
+          ]
+        },
+        {
+          "item": "Macchiato",
+          "time": 120,
+          "materials": [
+            {
+              "index": 184
+            }
+          ]
+        },
+        {
+          "item": "Maple Macchiato",
+          "time": 120,
+          "materials": [
+            {
+              "index": 724
+            }
+          ]
+        },
+        {
+          "item": "Peppermint Mocha",
+          "time": 120,
+          "materials": [
+            {
+              "name": "Mint"
+            },
+            {
+              "name": "Chocolate"
+            }
+          ]
+        },
+        {
+          "item": "Affogato",
+          "time": 120,
+          "materials": [
+            {
+              "name": "Vanilla Ice Cream"
+            }
+          ]
+        },
+        {
+          "item": "Salted Caramel Mocha",
+          "time": 120,
+          "materials": [
+            {
+              "name": "Caramel"
+            },
+            {
+              "name": "Salt"
+            }
+          ]
+        },
+        {
+          "item": "Vanilla Latte",
+          "time": 120,
+          "materials": [
+            {
+              "name": "Vanilla"
+            }
+          ]
+        },
+        {
+          "item": "Hot Irish Coffee",
+          "time": 120,
+          "materials": [
+            {
+              "name": "Whiskey"
+            }
+          ]
+        },
+        {
+          "item": "Pumpkin Spice Latte",
+          "time": 120,
+          "materials": [
             {
               "index": 276
             },
@@ -3216,54 +3272,51 @@
               "index": -6
             }
           ]
-      },
-      {
-        "item": "Toasted Coconut Mocha",
-        "time": 120,
-        "materials":
-        [
-          {
-            "index": 88
-          }
-        ]
-      },
-      ],
-     },
-     {
-       "id": 24,
-       "name": "Pepper Blender",
-       "description": "Blends peppers into a delicious spicy liquid.",
-       "category": "Crafting",
-       "crafting" : "338 5 335 3 787 3",
-       "texture": "Blender.png",
-       "pulsate": false,       
-       "readyindex": 7,
-       "tileindex": 0,
-       "frames": 6,
-       "production": [
-       {
-        "item": "Habanero Extract",
-        "time": 750,
-        "price": "original + (input * .25)",
-        "materials":
-        [
-          {
-            "name": "Habanero"
-          }
-        ]
-      },
-      {
-        "item": "Jalapeno Extract",
-        "time": 750,
-        "price": "original + (input * .25)",
-        "materials":
-        [
-          {
-            "name": "Jalapeno"
-          }
-        ]
-      },
-      ],
+        },
+        {
+          "item": "Toasted Coconut Mocha",
+          "time": 120,
+          "materials": [
+            {
+              "index": 88
+            }
+          ]
+        }
+      ]
     },
+    {
+      "id": 24,
+      "name": "Pepper Blender",
+      "description": "Blends peppers into a delicious spicy liquid.",
+      "category": "Crafting",
+      "crafting": "338 5 335 3 787 3",
+      "texture": "Blender.png",
+      "pulsate": false,
+      "readyindex": 7,
+      "tileindex": 0,
+      "frames": 6,
+      "production": [
+        {
+          "item": "Habanero Extract",
+          "time": 750,
+          "price": "original + (input * .25)",
+          "materials": [
+            {
+              "name": "Habanero"
+            }
+          ]
+        },
+        {
+          "item": "Jalapeno Extract",
+          "time": 750,
+          "price": "original + (input * .25)",
+          "materials": [
+            {
+              "name": "Jalapeno"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

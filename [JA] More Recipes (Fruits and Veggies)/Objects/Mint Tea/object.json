@@ -56,5 +56,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "薄荷茶。这是冬天最完美的茶。",
-    }
+    },
+    "ContextTags": [
+        "color_white",
+        "color_red",
+        "tea_item",
+    ],
 }

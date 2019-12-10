@@ -40,5 +40,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "世界上最熟悉的薄荷香味是胡椒薄荷的味道。",
-    }
+    },
+    "ContextTags": [
+        "season_winter",
+        "color_green",
+        "herb_item",
+    ],
 }

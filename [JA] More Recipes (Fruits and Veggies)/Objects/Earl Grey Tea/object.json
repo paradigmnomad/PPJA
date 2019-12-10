@@ -58,5 +58,9 @@
          // "ru": "",
          // "tr": "",
         "zh": "格雷伯爵茶。茶，格雷伯爵，烫。",
-    }
+    },
+    "ContextTags": [
+        "color_yellow",
+        "tea_item",
+    ],
 }
