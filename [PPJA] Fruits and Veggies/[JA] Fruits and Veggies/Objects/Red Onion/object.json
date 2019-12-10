@@ -20,7 +20,7 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
+        "ko": "적양파",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -34,7 +34,7 @@
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
+        "ko": "양파의 붉은 버전.",
          // "de": "",
          // "fr": "",
          // "hu": "",

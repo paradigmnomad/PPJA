@@ -24,7 +24,7 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
+        "ko": "귀리 씨앗",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -38,7 +38,7 @@
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
+        "ko": "가을 작물. 성장하려면 4일이 소요됩니다.",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -28,7 +28,7 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
+        "ko": "토란 씨앗",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -42,7 +42,7 @@
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
+        "ko": "가을 작물. 성장하려면 14일이 소요됩니다.",
          // "de": "",
          // "fr": "",
          // "hu": "",
