@@ -36,7 +36,7 @@
         "pt": "Surimi",
          // "ru": "",
          // "tr": "",
-        "zh": "蟹棒",
+        "zh": "蟹味棒",
     },
     "DescriptionLocalization":
     {
@@ -50,6 +50,6 @@
         "pt": "Um peixe picado que foi transformado em pasta.",
          // "ru": "",
          // "tr": "",
-        "zh": "蟹棒。已加工成糊状的鱼肉糜。",
+        "zh": "蟹味棒。已加工成糊状的鱼肉糜。",
     }
 }

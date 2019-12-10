@@ -47,7 +47,7 @@
         "pt": "Torta de Morango",
          // "ru": "",
          // "tr": "",
-        "zh": "草莓馅饼",
+        "zh": "草莓蛋挞",
     },
     "DescriptionLocalization":
     {
@@ -61,6 +61,6 @@
         "pt": "Uma torta cheia de morango.",
          // "ru": "",
          // "tr": "",
-        "zh": "草莓馅饼。这个馅饼里面充满了草莓。",
+        "zh": "草莓蛋挞。这个蛋挞里面塞满了草莓。",
     }
 }

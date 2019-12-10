@@ -46,7 +46,7 @@
         "pt": "Queijo grelhado",
          // "ru": "",
          // "tr": "",
-        "zh": "烤芝士",
+        "zh": "煎芝士",
     },
     "DescriptionLocalization":
     {
@@ -60,6 +60,6 @@
         "pt": "O sanduíche clássico.",
          // "ru": "",
          // "tr": "",
-        "zh": "烤芝士。经典的三明治。",
+        "zh": "煎芝士。经典的三明治。",
     }
 }

@@ -38,7 +38,7 @@
         "pt": "Marmelada",
          // "ru": "",
          // "tr": "",
-        "zh": "橘子果酱",
+        "zh": "橙子果酱",
     },
     "DescriptionLocalization":
     {
@@ -52,6 +52,6 @@
         "pt": "Conserva de frutas feita de cascas de frutas cítricas e açúcar.",
          // "ru": "",
          // "tr": "",
-        "zh": "橘子果酱。由橘子皮和糖制成的果酱。",
+        "zh": "橙子果酱。由橙子皮和糖制成的果酱。",
     }
 }

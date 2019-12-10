@@ -24,7 +24,7 @@
         "pt": "Ervilhas verdes",
          // "ru": "",
          // "tr": "",
-        "zh": "青豆",
+        "zh": "青豌豆",
     },
     "DescriptionLocalization":
     {
@@ -38,6 +38,6 @@
         "pt": "Ervilha verde média. Não é muito saborosa.",
          // "ru": "",
          // "tr": "",
-        "zh": "每个青豆大小都一样。它本身不是受所有人喜欢。",
+        "zh": "每个豌豆大小都一样。它本身不是受所有人喜欢。",
     }
 }

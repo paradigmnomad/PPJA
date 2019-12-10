@@ -51,7 +51,7 @@
         "pt": "Donut de chocolate simples",
          // "ru": "",
          // "tr": "",
-        "zh": "平底巧克力甜甜圈",
+        "zh": "纯巧克力甜甜圈",
     },
     "DescriptionLocalization":
     {
@@ -65,6 +65,6 @@
         "pt": "Um donut de chocolate simples.",
          // "ru": "",
          // "tr": "",
-        "zh": "平底巧克力甜甜圈。一个平底巧克力甜甜圈。",
+        "zh": "纯巧克力甜甜圈。一个由巧克力占主要成分的甜甜圈。",
     }
 }
