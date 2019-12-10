@@ -38,7 +38,7 @@
     "NameLocalization":
     {
         "es": "Mochi",
-         // "ko": "",
+        "ko": "모찌",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -52,7 +52,7 @@
     "DescriptionLocalization":
     {
         "es": "Una tradicional golosina japonesa.",
-         // "ko": "",
+        "ko": "일본 전통 간식.",
          // "de": "",
          // "fr": "",
          // "hu": "",

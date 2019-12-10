@@ -38,7 +38,7 @@
     "NameLocalization":
     {
         "es": "Pan de ajo",
-         // "ko": "",
+        "ko": "마늘 빵",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -52,7 +52,7 @@
     "DescriptionLocalization":
     {
         "es": "Pan de ajo mantecoso. Servirlo en la cena.",
-         // "ko": "",
+        "ko": "버터가 들어간 마늘 빵. 저녁 식사와 함께 제공됩니다.",
          // "de": "",
          // "fr": "",
          // "hu": "",

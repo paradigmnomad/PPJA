@@ -33,7 +33,7 @@
     "NameLocalization":
     {
         "es": "Paleta de coco",
-         // "ko": "",
+        "ko": "코코넛 팝시클",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -47,7 +47,7 @@
     "DescriptionLocalization":
     {
         "es": "Sabor a isla (o desierto) fresco.",
-         // "ko": "",
+        "ko": "신선한 섬 (또는 사막)이 느껴지는 맛.",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -25,7 +25,7 @@
     "NameLocalization":
     {
         "es": "Chispitas",
-         // "ko": "",
+        "ko": "스프링클",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -39,7 +39,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Las chispitas añaden un poco de color a cualquier cosa!",
-         // "ko": "",
+        "ko": "뿌려지는 모든 곳에 약간의 색감을 더해줍니다!",
          // "de": "",
          // "fr": "",
          // "hu": "",

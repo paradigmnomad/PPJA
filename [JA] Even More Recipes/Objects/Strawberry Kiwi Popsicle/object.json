@@ -37,7 +37,7 @@
     "NameLocalization":
     {
         "es": "Paleta de fresa con kiwi",
-         // "ko": "",
+        "ko": "딸기 키위 팝시클",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
         "es": "Se asemeja a una sandia.",
-         // "ko": "",
+        "ko": "수박 같이 생겼어요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

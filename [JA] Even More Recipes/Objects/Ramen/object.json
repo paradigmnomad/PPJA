@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         "es": "Ramen",
-         // "ko": "",
+        "ko": "라면",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         "es": "Un plato sencillo con fideos ligeramente masticables.",
-         // "ko": "",
+        "ko": "쫄깃쫄깃한 면 요리.",
          // "de": "",
          // "fr": "",
          // "hu": "",

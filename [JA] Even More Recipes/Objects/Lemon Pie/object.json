@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         "es": "Tarta de limón",
-         // "ko": "",
+        "ko": "레몬 파이",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         "es": "Pastel de limón en picnics, son la forma de disfrutar de su verano.",
-         // "ko": "",
+        "ko": "레몬 파이와 피크닉은 여름을 즐기는 좋은 방법입니다.",
          // "de": "",
          // "fr": "",
          // "hu": "",

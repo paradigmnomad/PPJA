@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         "es": "Helado de brownie",
-         // "ko": "",
+        "ko": "아이스크림 브라우니",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Un delicioso y cálido capricho!",
-         // "ko": "",
+        "pt": "Um deleite gostoso e quente!",
          // "de": "",
          // "fr": "",
          // "hu": "",

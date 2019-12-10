@@ -39,7 +39,7 @@
     "NameLocalization":
     {
         "es": "Galleta de amatista",
-         // "ko": "",
+        "ko": "자수정 쿠키",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -53,7 +53,7 @@
     "DescriptionLocalization":
     {
         "es": "Una galleta chispeante con un crujido único.",
-         // "ko": "",
+        "ko": "독특한 크런치가 있는 스파클링 쿠키.",
          // "de": "",
          // "fr": "",
          // "hu": "",

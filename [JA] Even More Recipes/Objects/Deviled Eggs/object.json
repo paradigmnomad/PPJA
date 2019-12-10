@@ -34,7 +34,7 @@
     "NameLocalization":
     {
         "es": "Huevos endiablados",
-         // "ko": "",
+        "ko": "데블드 에그",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -48,7 +48,7 @@
     "DescriptionLocalization":
     {
         "es": "Entra en mi boca, Satanás.",
-         // "ko": "",
+        "ko": "내 입으로 들어가, 사탄.",
          // "de": "",
          // "fr": "",
          // "hu": "",

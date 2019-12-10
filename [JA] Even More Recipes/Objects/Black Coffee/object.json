@@ -34,7 +34,7 @@
     "NameLocalization":
     {
         "es": "Café negro",
-         // "ko": "",
+        "ko": "블랙 커피",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -48,7 +48,7 @@
     "DescriptionLocalization":
     {
         "es": "Es extremadamente amargo.",
-         // "ko": "",
+        "ko": "엄청 써요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -44,7 +44,7 @@
     "NameLocalization":
     {
         "es": "Dona de fresa glaseada",
-         // "ko": "",
+        "ko": "아이스 딸기 도넛",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -58,7 +58,7 @@
     "DescriptionLocalization":
     {
         "es": "Simple, una dona de fresa glaseada.",
-         // "ko": "",
+        "ko": "단순히 그냥 얼린 딸기 도넛이에요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

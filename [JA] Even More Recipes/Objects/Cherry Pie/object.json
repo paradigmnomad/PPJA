@@ -40,7 +40,7 @@
     "NameLocalization":
     {
         "es": "Tarta de cerezas",
-         // "ko": "",
+        "ko": "체리 파이",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -54,7 +54,7 @@
     "DescriptionLocalization":
     {
         "es": "Una tarta rellena de suaves y pegajosas cerezas.",
-         // "ko": "",
+        "ko": "부드럽고 끈적끈적한 체리로 채워진 파이.",
          // "de": "",
          // "fr": "",
          // "hu": "",

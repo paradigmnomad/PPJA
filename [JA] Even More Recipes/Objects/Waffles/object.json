@@ -34,7 +34,7 @@
     "NameLocalization":
     {
         "es": "Waffles",
-         // "ko": "",
+        "ko": "와플",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -48,7 +48,7 @@
     "DescriptionLocalization":
     {
         "es": "Pasteles circulares para desayunar.",
-         // "ko": "",
+        "ko": "동그란 모양의 조식 페이스트.",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -33,7 +33,7 @@
     "NameLocalization":
     {
         "es": "Limonada fresca",
-         // "ko": "",
+        "ko": "신선한 레모네이드",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -47,7 +47,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Limonada recién exprimida!",
-         // "ko": "",
+        "ko": "갓 짜낸 레모네이드!",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -40,7 +40,7 @@
     "NameLocalization":
     {
         "es": "Paleta napolitana",
-         // "ko": "",
+        "ko": "나폴리탄 팝시클",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -54,7 +54,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Tres sabores en uno!",
-         // "ko": "",
+        "ko": "한 번에 세가지 맛!",
          // "de": "",
          // "fr": "",
          // "hu": "",

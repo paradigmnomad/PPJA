@@ -21,7 +21,7 @@
     "NameLocalization":
     {
         "es": "Café con leche",
-         // "ko": "",
+        "ko": "밀크 커피",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -35,7 +35,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Café con leche enlatado!",
-         // "ko": "",
+        "ko": "우유가 첨가된 캔 커피!",
          // "de": "",
          // "fr": "",
          // "hu": "",

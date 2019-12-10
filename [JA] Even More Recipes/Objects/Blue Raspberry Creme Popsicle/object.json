@@ -37,7 +37,7 @@
     "NameLocalization":
     {
         "es": "Paleta de crema de arándanos",
-         // "ko": "",
+        "ko": "블루베리 크림 팝시클",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
         "es": "Los arándanos y la crema son excelentes para el verano.",
-         // "ko": "",
+        "ko": "블루베리와 크림은 여름철 최고의 간식이에요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

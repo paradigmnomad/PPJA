@@ -44,7 +44,7 @@
     "NameLocalization":
     {
         "es": "Dona con forma de zorro",
-         // "ko": "",
+        "ko": "여우 도넛",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -58,7 +58,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Tiene forma de zorro! ¡Que lindo!",
-         // "ko": "",
+        "ko": "여우 모양 도넛이에요! 귀엽죠!",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -45,7 +45,7 @@
     "NameLocalization":
     {
         "es": "Helado y pastel de mermelada",
-         // "ko": "",
+        "ko": "아이스크림과 잼 케이크",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -59,7 +59,7 @@
     "DescriptionLocalization":
     {
         "es": "Perfecto para los que tienen un diente dulce.",
-         // "ko": "",
+        "ko": "단것을 좋아하는 사람들에게 안성맞춤이에요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -37,7 +37,7 @@
     "NameLocalization":
     {
         "es": "Paleta de crema de fresa",
-         // "ko": "",
+        "ko": "딸기 크림 팝시클",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Paleta con un sabor cremoso!",
-         // "ko": "",
+        "ko": "막대기에 매달린 딸기 맛!",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -33,7 +33,7 @@
     "NameLocalization":
     {
         "es": "Pretzel suave",
-         // "ko": "",
+        "ko": "부드러운 프레젤",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -47,7 +47,7 @@
     "DescriptionLocalization":
     {
         "es": "Un aperitivo clásico.",
-         // "ko": "",
+        "ko": "클래식한 간식.",
          // "de": "",
          // "fr": "",
          // "hu": "",

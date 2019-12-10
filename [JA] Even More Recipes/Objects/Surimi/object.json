@@ -27,7 +27,7 @@
     "NameLocalization":
     {
         "es": "Surimi",
-         // "ko": "",
+        "ko": "수리미",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -41,7 +41,7 @@
     "DescriptionLocalization":
     {
         "es": "Pescado en pasta.",
-         // "ko": "",
+        "ko": "페이스트로 만든 다진 생선.",
          // "de": "",
          // "fr": "",
          // "hu": "",

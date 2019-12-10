@@ -46,7 +46,7 @@
     "NameLocalization":
     {
         "es": "Dona de chocolate con chispitas",
-         // "ko": "",
+        "ko": "스프링클 초콜릿 도넛",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -60,7 +60,7 @@
     "DescriptionLocalization":
     {
         "es": "Deliciosa dona de chocolate.",
-         // "ko": "",
+        "ko": "재미있는 초콜릿 도넛.",
          // "de": "",
          // "fr": "",
          // "hu": "",

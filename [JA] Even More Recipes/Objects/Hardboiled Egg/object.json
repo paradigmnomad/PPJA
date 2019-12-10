@@ -25,7 +25,7 @@
     "NameLocalization":
     {
         "es": "Huevo duro",
-         // "ko": "",
+        "ko": "삶은 계란",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -39,7 +39,7 @@
     "DescriptionLocalization":
     {
         "es": "Son excelentes para los huevos rellenos, la ensalada de huevo o simplemente para comer con un poco de sal.",
-         // "ko": "",
+        "ko": "데블드 에그, 계란 샐러드, 또는 소금을 뿌린 평범한 요리와 먹기에 좋습니다.",
          // "de": "",
          // "fr": "",
          // "hu": "",

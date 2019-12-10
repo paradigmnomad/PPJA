@@ -41,7 +41,7 @@
     "NameLocalization":
     {
         "es": "Sriracha",
-         // "ko": "",
+        "ko": "스리라차",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -55,7 +55,7 @@
     "DescriptionLocalization":
     {
         "es": "Una salsa aún más picante.",
-         // "ko": "",
+        "ko": "더 매운 소스.",
          // "de": "",
          // "fr": "",
          // "hu": "",

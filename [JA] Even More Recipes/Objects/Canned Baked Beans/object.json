@@ -32,7 +32,7 @@
     "NameLocalization":
     {
         "es": "Frijoles enlatados horneados",
-         // "ko": "",
+        "ko": "구운 콩 통조림",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         "es": "Frijoles ligeramente dulces.",
-         // "ko": "",
+        "ko": "단맛이 나는 살짝 익힌 콩.",
          // "de": "",
          // "fr": "",
          // "hu": "",

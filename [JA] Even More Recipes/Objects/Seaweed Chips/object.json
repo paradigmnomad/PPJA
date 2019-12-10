@@ -29,7 +29,7 @@
     "NameLocalization":
     {
         "es": "Chips de algas",
-         // "ko": "",
+        "ko": "해초 칩",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -43,7 +43,7 @@
     "DescriptionLocalization":
     {
         "es": "Saben como el océano.",
-         // "ko": "",
+        "ko": "바다 맛이 나요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

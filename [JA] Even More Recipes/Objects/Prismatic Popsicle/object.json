@@ -58,7 +58,7 @@
     "NameLocalization":
     {
         "es": "Paleta prismática",
-         // "ko": "",
+        "ko": "프리즘 팝시클",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -72,7 +72,7 @@
     "DescriptionLocalization":
     {
         "es": "Se dice que contiene la fruta más rara del valle, te llenara de alegría.",
-         // "ko": "",
+        "ko": "마을에서 가장 희귀한 과일을 가지고 있다고 말한다면, 기쁠거예요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -29,7 +29,7 @@
     "NameLocalization":
     {
         "es": "Mermelada",
-         // "ko": "",
+        "ko": "마멀레이드",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -43,7 +43,7 @@
     "DescriptionLocalization":
     {
         "es": "Una conserva de frutas hecha con cáscaras de cítricos y azúcar.",
-         // "ko": "",
+        "ko": "감귤 껍질과 설탕으로 만든 잼.",
          // "de": "",
          // "fr": "",
          // "hu": "",

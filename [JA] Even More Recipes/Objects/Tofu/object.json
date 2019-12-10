@@ -25,7 +25,7 @@
     "NameLocalization":
     {
         "es": "Tofu",
-         // "ko": "",
+        "ko": "두부",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -39,7 +39,7 @@
     "DescriptionLocalization":
     {
         "es": "Elaborado con leche de soja. También conocido como cuajada de frijol.",
-         // "ko": "",
+        "ko": "두유로 만듭니다.",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -43,7 +43,7 @@
     "NameLocalization":
     {
         "es": "Pastel de miel",
-         // "ko": "",
+        "ko": "허니 케이크",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -57,7 +57,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Un dulce pegajoso!",
-         // "ko": "",
+        "ko": "끈적끈적한 달콤함!",
          // "de": "",
          // "fr": "",
          // "hu": "",

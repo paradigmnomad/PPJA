@@ -32,7 +32,7 @@
     "NameLocalization":
     {
         "es": "Papas tostadas",
-         // "ko": "",
+        "ko": "감자 칩",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         "es": "Papas fritas clásicas.",
-         // "ko": "",
+        "ko": "평범한 감자 칩.",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -42,7 +42,7 @@
     "NameLocalization":
     {
         "es": "Dona de chocolate simple",
-         // "ko": "",
+        "ko": "평범한 초콜릿 도넛",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -56,7 +56,7 @@
     "DescriptionLocalization":
     {
         "es": "Una simple dona de chocolate.",
-         // "ko": "",
+        "ko": "평범한 모양의 초콜릿 도넛.",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -44,7 +44,7 @@
     "NameLocalization":
     {
         "es": "Tarta de manzana",
-         // "ko": "",
+        "ko": "애플 파이",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -58,7 +58,7 @@
     "DescriptionLocalization":
     {
         "es": "Un delicioso pastel hecho con manzana y canela.",
-         // "ko": "",
+        "ko": "사과와 시나몬으로 만든 맛있는 파이.",
          // "de": "",
          // "fr": "",
          // "hu": "",

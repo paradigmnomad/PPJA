@@ -21,7 +21,7 @@
     "NameLocalization":
     {
         "es": "Jugo de fresa con leche",
-         // "ko": "",
+        "ko": "우유 가득 딸기 주스",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -35,7 +35,7 @@
     "DescriptionLocalization":
     {
         "es": "Jugo 100% real!",
-         // "ko": "",
+        "ko": "100% 리얼 주스!",
          // "de": "",
          // "fr": "",
          // "hu": "",

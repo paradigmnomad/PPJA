@@ -17,7 +17,7 @@
     "NameLocalization":
     {
         "es": "Semillas de ajonjolí",
-         // "ko": "",
+        "ko": "참깨",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -31,7 +31,7 @@
     "DescriptionLocalization":
     {
         "es": "No tienen mucho sabor.",
-         // "ko": "",
+        "ko": "맛이 별로 없어요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

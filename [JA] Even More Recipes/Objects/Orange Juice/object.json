@@ -32,7 +32,7 @@
     "NameLocalization":
     {
         "es": "Jugo de naranja",
-         // "ko": "",
+        "ko": "오렌지 주스",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Jugo de naranja recién exprimido!",
-         // "ko": "",
+        "ko": "갓 짜낸 신선한 오렌지 주스!",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -44,7 +44,7 @@
     "NameLocalization":
     {
         "es": "Dona cerdina",
-         // "ko": "",
+        "ko": "돼지 도넛",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -58,7 +58,7 @@
     "DescriptionLocalization":
     {
         "es": "Una linda dona con forma de cerdo!",
-         // "ko": "",
+        "ko": "돼지 모양의 귀여운 도넛!",
          // "de": "",
          // "fr": "",
          // "hu": "",

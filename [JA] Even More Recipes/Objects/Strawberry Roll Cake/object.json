@@ -42,7 +42,7 @@
     "NameLocalization":
     {
         "es": "Pastel de rollo de fresas",
-         // "ko": "",
+        "ko": "딸기 롤 케이크",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -56,7 +56,7 @@
     "DescriptionLocalization":
     {
         "es": "Delicioso sabor a fresa!",
-         // "ko": "",
+        "ko": "맛있는 딸기 맛!",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -42,7 +42,7 @@
     "NameLocalization":
     {
         "es": "Dona con forma de oso",
-         // "ko": "",
+        "ko": "곰돌이 도넛",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -56,7 +56,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Tiene forma de oso! ¡Que lindo!",
-         // "ko": "",
+        "ko": "곰돌이 모양의 도넛!귀엽죠!",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -30,7 +30,7 @@
     "NameLocalization":
     {
         "es": "Cola",
-         // "ko": "",
+        "ko": "콜라",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -44,7 +44,7 @@
     "DescriptionLocalization":
     {
         "es": "Sabe mejor que Joja Cola.",
-         // "ko": "",
+        "ko": "조자 콜라보다 맛있어요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

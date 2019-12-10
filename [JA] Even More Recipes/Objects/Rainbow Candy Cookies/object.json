@@ -44,7 +44,7 @@
     "NameLocalization":
     {
         "es": "Galletas arco iris",
-         // "ko": "",
+        "ko": "무지개 사탕 쿠키",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -58,7 +58,7 @@
     "DescriptionLocalization":
     {
         "es": "Estas galletas tienen piezas coloridas en ellas!",
-         // "ko": "",
+        "ko": "알록달록한 조각들이 박혀 있어요!",
          // "de": "",
          // "fr": "",
          // "hu": "",

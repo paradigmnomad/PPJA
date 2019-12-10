@@ -33,7 +33,7 @@
     "NameLocalization":
     {
         "es": "Manzana confitada",
-         // "ko": "",
+        "ko": "캔디드 애플",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -47,7 +47,7 @@
     "DescriptionLocalization":
     {
         "es": "Una manzana que ha sido saturada en azúcar. ¡No es nada buena para las venas!",
-         // "ko": "",
+        "ko": "설탕에 흠뻑 절여진 사과.",
          // "de": "",
          // "fr": "",
          // "hu": "",

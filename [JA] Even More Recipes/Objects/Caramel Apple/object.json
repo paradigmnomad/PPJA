@@ -35,7 +35,7 @@
     "NameLocalization":
     {
         "es": "Manzana caramelizada",
-         // "ko": "",
+        "ko": "캐러멜 애플",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -49,7 +49,7 @@
     "DescriptionLocalization":
     {
         "es": "Una manzana dulce que se ha sumergido en caramelo caliente.",
-         // "ko": "",
+        "ko": "따뜻한 캐러멜에 담근 달콤한 사과.",
          // "de": "",
          // "fr": "",
          // "hu": "",

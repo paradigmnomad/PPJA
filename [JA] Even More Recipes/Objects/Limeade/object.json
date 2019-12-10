@@ -31,7 +31,7 @@
     "NameLocalization":
     {
         "es": "Limonada",
-         // "ko": "",
+        "ko": "라임 에이드",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -45,7 +45,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Limón recién exprimido!",
-         // "ko": "",
+        "ko": "갓 짜낸 라임 에이드!",
          // "de": "",
          // "fr": "",
          // "hu": "",

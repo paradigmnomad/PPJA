@@ -43,7 +43,7 @@
     "NameLocalization":
     {
         "es": "Dona de fresa simple",
-         // "ko": "",
+        "ko": "평범한 딸기 도넛",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -57,7 +57,7 @@
     "DescriptionLocalization":
     {
         "es": "Una simple dona de fresa.",
-         // "ko": "",
+        "ko": "평범한 모양의 딸기 도넛.",
          // "de": "",
          // "fr": "",
          // "hu": "",

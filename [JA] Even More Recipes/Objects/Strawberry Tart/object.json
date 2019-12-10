@@ -38,7 +38,7 @@
     "NameLocalization":
     {
         "es": "Tarta de fresas",
-         // "ko": "",
+        "ko": "딸기 타르트",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -52,7 +52,7 @@
     "DescriptionLocalization":
     {
         "es": "Una tarta rellena de fresa.",
-         // "ko": "",
+        "ko": "딸기로 채워진 타르트.",
          // "de": "",
          // "fr": "",
          // "hu": "",

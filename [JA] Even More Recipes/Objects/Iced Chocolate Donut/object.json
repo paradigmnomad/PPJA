@@ -40,7 +40,7 @@
     "NameLocalization":
     {
         "es": "Dona de chocolate glaseada",
-         // "ko": "",
+        "ko": "아이스 초콜릿 도넛",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -54,7 +54,7 @@
     "DescriptionLocalization":
     {
         "es": "Simple, una dona de chocolate glaseada.",
-         // "ko": "",
+        "ko": "단순히 그냥 얼린 초콜릿 도넛이에요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

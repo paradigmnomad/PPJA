@@ -40,7 +40,7 @@
     "NameLocalization":
     {
         "es": "Galletas de matcha",
-         // "ko": "",
+        "ko": "말차 쿠키",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -54,7 +54,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Estas galletas verdes son sorprendentemente deliciosas!",
-         // "ko": "",
+        "ko": "이 녹색 쿠키는 놀랄만큼 맛있어요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

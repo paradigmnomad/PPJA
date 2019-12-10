@@ -37,7 +37,7 @@
     "NameLocalization":
     {
         "es": "Plátanos dulces fritos",
-         // "ko": "",
+        "ko": "달콤한 바나나 튀김",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
         "es": "Plátanos azucarados, salteados en mantequilla.",
-         // "ko": "",
+        "ko": "버터에 튀긴 설탕 바나나.",
          // "de": "",
          // "fr": "",
          // "hu": "",

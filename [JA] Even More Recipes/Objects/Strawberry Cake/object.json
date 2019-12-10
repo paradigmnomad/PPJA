@@ -43,7 +43,7 @@
     "NameLocalization":
     {
         "es": "Pastel de fresa",
-         // "ko": "",
+        "ko": "딸기 케이크",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -57,7 +57,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Un delicioso regalo de verano!",
-         // "ko": "",
+        "ko": "맛있는 여름 간식!",
          // "de": "",
          // "fr": "",
          // "hu": "",

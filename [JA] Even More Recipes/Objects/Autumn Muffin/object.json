@@ -48,7 +48,7 @@
     "NameLocalization":
     {
         "es": "Muffin otoñal",
-         // "ko": "",
+        "ko": "가을 머핀",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -62,7 +62,7 @@
     "DescriptionLocalization":
     {
         "es": "Un panecillo que está cubierto con azúcar en polvo.",
-         // "ko": "",
+        "ko": "슈가 파우더를 뿌린 머핀.",
          // "de": "",
          // "fr": "",
          // "hu": "",

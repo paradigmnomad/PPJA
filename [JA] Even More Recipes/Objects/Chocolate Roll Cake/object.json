@@ -44,7 +44,7 @@
     "NameLocalization":
     {
         "es": "Pastel enrollado de chocolate",
-         // "ko": "",
+        "ko": "초콜릿 롤 케이크",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -58,7 +58,7 @@
     "DescriptionLocalization":
     {
         "es": "Con una fresa encima.",
-         // "ko": "",
+        "ko": "딸기가 장식된 케이크.",
          // "de": "",
          // "fr": "",
          // "hu": "",

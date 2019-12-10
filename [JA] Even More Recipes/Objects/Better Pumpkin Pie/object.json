@@ -48,7 +48,7 @@
       "NameLocalization":
       {
           "es": "Pastel de calabaza mejorado",
-           // "ko": "",
+          "ko": "업그레이드 된 호박 파이",
            // "de": "",
            // "fr": "",
            // "hu": "",
@@ -62,7 +62,7 @@
       "DescriptionLocalization":
       {
           "es": "Nada es mejor que una rebanada de pastel de calabaza caliente.",
-           // "ko": "",
+          "ko": "따뜻한 호박 파이 한 조각보다 좋은 건 없죠.",
            // "de": "",
            // "fr": "",
            // "hu": "",

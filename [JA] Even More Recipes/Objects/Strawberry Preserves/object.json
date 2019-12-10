@@ -32,7 +32,7 @@
     "NameLocalization":
     {
         "es": "Conservas de fresas",
-         // "ko": "",
+        "ko": "딸기 잼",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         "es": "Trozos de fresa hacen que sea diferente a la jalea normal.",
-         // "ko": "",
+        "ko": "소량의 딸기는 평범한 젤리를 다르게 만들어줘요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

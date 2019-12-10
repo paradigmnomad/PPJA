@@ -40,7 +40,7 @@
     "NameLocalization":
     {
         "es": "Galleta con forma de oso",
-         // "ko": "",
+        "ko": "곰돌이 쿠키",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -54,7 +54,7 @@
     "DescriptionLocalization":
     {
         "es": "Una linda galleta con forma de oso.",
-         // "ko": "",
+        "ko": "귀여운 곰 모양 쿠키에요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

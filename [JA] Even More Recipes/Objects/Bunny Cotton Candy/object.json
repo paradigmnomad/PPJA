@@ -30,7 +30,7 @@
     "NameLocalization":
     {
         "es": "Algodón de azúcar de conejito",
-         // "ko": "",
+        "ko": "토끼 솜사탕",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -44,7 +44,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Tiene forma de conejito!",
-         // "ko": "",
+        "ko": "토끼 모양으로 된 솜사탕이에요!",
          // "de": "",
          // "fr": "",
          // "hu": "",

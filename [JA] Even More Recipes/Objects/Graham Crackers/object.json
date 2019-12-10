@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         "es": "Galletas graham",
-         // "ko": "",
+        "ko": "그레이엄 크래커",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         "es": "¿Quién es Graham de todos modos?",
-         // "ko": "",
+        "ko": "어쨌든 그레이엄이 누구죠?",
          // "de": "",
          // "fr": "",
          // "hu": "",

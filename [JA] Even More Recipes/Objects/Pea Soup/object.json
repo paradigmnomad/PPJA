@@ -37,7 +37,7 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
+        "ko": "콩 수프",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
+        "ko": "주식으로 먹습니다.",
          // "de": "",
          // "fr": "",
          // "hu": "",

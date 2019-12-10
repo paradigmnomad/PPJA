@@ -43,7 +43,7 @@
     "NameLocalization":
     {
         "es": "Galleta de cerdo",
-         // "ko": "",
+        "ko": "돼지 쿠키",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -57,7 +57,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Una linda galleta con forma de cerdo!",
-         // "ko": "",
+        "ko": "돼지 모양의 귀여운 쿠키!",
          // "de": "",
          // "fr": "",
          // "hu": "",

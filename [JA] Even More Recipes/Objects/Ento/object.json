@@ -41,7 +41,7 @@
     "NameLocalization":
     {
         "es": "Ento",
-         // "ko": "",
+        "ko": "엔토",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -55,7 +55,7 @@
     "DescriptionLocalization":
     {
         "es": "...por favor no me comas",
-         // "ko": "",
+        "ko": "...제발 절 먹지 마세요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

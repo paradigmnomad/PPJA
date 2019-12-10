@@ -42,7 +42,7 @@
     "NameLocalization":
     {
         "es": "Galletas gatunas",
-         // "ko": "",
+        "ko": "고양이 쿠키",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -56,7 +56,7 @@
     "DescriptionLocalization":
     {
         "es": "Una deliciosa galleta con forma gatuna.",
-         // "ko": "",
+        "ko": "여러분의 배를 채워줄 정말 맛있는 쿠키.",
          // "de": "",
          // "fr": "",
          // "hu": "",

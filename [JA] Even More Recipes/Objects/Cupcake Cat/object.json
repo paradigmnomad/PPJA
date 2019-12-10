@@ -39,7 +39,7 @@
     "NameLocalization":
     {
         "es": "Magdalena gatuna",
-         // "ko": "",
+       "ko": "고양이 컵케이크",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -53,7 +53,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Es casi demasiado lindo para comer!... ¡casi!",
-         // "ko": "",
+        "ko": "먹기엔 너무 귀여워요!",
          // "de": "",
          // "fr": "",
          // "hu": "",

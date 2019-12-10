@@ -29,7 +29,7 @@
     "NameLocalization":
     {
         "es": "Pudin de fresa",
-         // "ko": "",
+        "ko": "딸기 푸딩",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -43,7 +43,7 @@
     "DescriptionLocalization":
     {
         "es": "Jiggle jiggle",
-         // "ko": "",
+        "ko": "흔들흔들.",
          // "de": "",
          // "fr": "",
          // "hu": "",

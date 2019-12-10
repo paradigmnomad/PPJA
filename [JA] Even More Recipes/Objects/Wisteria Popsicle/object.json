@@ -37,7 +37,7 @@
     "NameLocalization":
     {
         "es": "Paleta de glicina",
-         // "ko": "",
+        "ko": "등나무 팝시클",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
         "es": "Glicina recién recogida, congelado en una paleta.",
-         // "ko": "",
+        "ko": "갓 따낸 등나무 꽃, 얼린 팝시클.",
          // "de": "",
          // "fr": "",
          // "hu": "",

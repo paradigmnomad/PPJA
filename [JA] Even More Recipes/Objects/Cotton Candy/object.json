@@ -30,7 +30,7 @@
     "NameLocalization":
     {
         "es": "Algodón de azúcar",
-         // "ko": "",
+        "ko": "솜사탕",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -44,7 +44,7 @@
     "DescriptionLocalization":
     {
         "es": "Es azúcar hilado.",
-         // "ko": "",
+        "ko": "보드라운 솜사탕.",
          // "de": "",
          // "fr": "",
          // "hu": "",

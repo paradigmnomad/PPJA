@@ -30,7 +30,7 @@
     "NameLocalization":
     {
         "es": "Caramelo",
-         // "ko": "",
+        "ko": "캐러멜",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -44,7 +44,7 @@
     "DescriptionLocalization":
     {
         "es": "Mantecoso y dulce, se usa comúnmente en dulces y golosinas.",
-         // "ko": "",
+        "ko": "버터 같은 달콤함! 사탕과 간식에 흔히 사용돼요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

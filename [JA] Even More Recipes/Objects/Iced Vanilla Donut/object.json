@@ -43,7 +43,7 @@
     "NameLocalization":
     {
         "es": "Dona de vainilla glaseada",
-         // "ko": "",
+        "ko": "아이스 바닐라 도넛",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -57,7 +57,7 @@
     "DescriptionLocalization":
     {
         "es": "Simple, una dona de vainilla glaseada.",
-         // "ko": "",
+        "ko": "단순히 그냥 얼린 바닐라 도넛이에요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -39,7 +39,7 @@
     "NameLocalization":
     {
         "es": "Salsa",
-         // "ko": "",
+        "ko": "살사",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -53,7 +53,7 @@
     "DescriptionLocalization":
     {
         "es": "Tiene muchos usos.",
-         // "ko": "",
+        "ko": "매콤한 맛이 납니다."
          // "de": "",
          // "fr": "",
          // "hu": "",

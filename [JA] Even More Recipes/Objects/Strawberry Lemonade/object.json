@@ -40,7 +40,7 @@
     "NameLocalization":
     {
         "es": "Limonada de fresa",
-         // "ko": "",
+        "ko": "딸기에이드",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -54,7 +54,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Limonada recién exprimida con un añadido de fresas!",
-         // "ko": "",
+        "ko": "갓 짜낸 레모네이드와 딸기!",
          // "de": "",
          // "fr": "",
          // "hu": "",

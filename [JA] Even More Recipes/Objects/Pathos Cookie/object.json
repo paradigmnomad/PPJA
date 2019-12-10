@@ -28,7 +28,7 @@
     "NameLocalization":
     {
         "es": "Galleta Pathos",
-         // "ko": "",
+        "ko": "연민 쿠키",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -42,7 +42,7 @@
     "DescriptionLocalization":
     {
         "es": "...no vamos a descubrir qué pasa si lo comes",
-         // "ko": "",
+        "ko": "...먹으면 무슨 일이 일어나는지 알아내지 맙시다.",
          // "de": "",
          // "fr": "",
          // "hu": "",

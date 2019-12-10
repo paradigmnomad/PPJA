@@ -33,7 +33,7 @@
     "NameLocalization":
     {
         "es": "Paleta de pitaya",
-         // "ko": "",
+        "ko": "용과 팝시클",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -47,7 +47,7 @@
     "DescriptionLocalization":
     {
         "es": "Las semillas pueden quedar atrapadas en tus dientes.",
-         // "ko": "",
+        "ko": "씨앗이 이에 끼일수도 있어요.",
          // "de": "",
          // "fr": "",
          // "hu": "",

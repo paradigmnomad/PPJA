@@ -37,7 +37,7 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
+        "ko": "시금치 딥",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
+        "ko": "칩에 찍어 드세요!",
          // "de": "",
          // "fr": "",
          // "hu": "",

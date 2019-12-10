@@ -41,7 +41,7 @@
     "NameLocalization":
     {
         "es": "Dedos de dama",
-         // "ko": "",
+        "ko": "레이디 핑거",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -55,7 +55,7 @@
     "DescriptionLocalization":
     {
         "es": "Una dulce galletita.",
-         // "ko": "",
+        "ko": "달콤하고 맛있는 쿠키.",
          // "de": "",
          // "fr": "",
          // "hu": "",

@@ -34,7 +34,7 @@
     "NameLocalization":
     {
         "es": "Queque de chocolate con fresas",
-         // "ko": "",
+        "ko": "초콜릿 딸기 케이크",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -48,7 +48,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Sabroso!",
-         // "ko": "",
+        "ko": "맛있어요!",
          // "de": "",
          // "fr": "",
          // "hu": "",

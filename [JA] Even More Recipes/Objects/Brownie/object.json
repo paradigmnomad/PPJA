@@ -48,7 +48,7 @@
     "NameLocalization":
     {
         "es": "Brownie",
-         // "ko": "",
+        "ko": "브라우니",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -62,7 +62,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Está lleno un delicioso dulce de azúcar!",
-         // "ko": "",
+        "ko": "맛있는 퍼지로 가득 차 있어요!",
          // "de": "",
          // "fr": "",
          // "hu": "",

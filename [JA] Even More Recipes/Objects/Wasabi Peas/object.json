@@ -35,7 +35,7 @@
     "NameLocalization":
     {
         "es": "Guisantes con wasabi",
-         // "ko": "",
+        "ko": "와사비 완두콩",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -49,7 +49,7 @@
     "DescriptionLocalization":
     {
         "es": "Guisantes secos que se han espolvoreado con wasabi.",
-         // "ko": "",
+        "ko": "와사비를 뿌린 말린 완두콩.",
          // "de": "",
          // "fr": "",
          // "hu": "",
