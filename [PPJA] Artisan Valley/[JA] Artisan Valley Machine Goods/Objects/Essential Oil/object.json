@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         "es": "Aceite esencial",
-         // "ko": "",
+        "ko": "에센셜 오일",
         "de": "Ätherisches Öl",
          // "fr": "",
          // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         "es": "Un líquido concentrado que contiene los compuestos aromáticos de una planta.",
-         // "ko": "",
+        "ko": "식물의 방향 화합물이 포함된 농축액.",
         "de": "Eine konzentrierte Flüssigkeit, die die Aromaverbindungen einer Pflanze enthält.",
          // "fr": "",
          // "hu": "",

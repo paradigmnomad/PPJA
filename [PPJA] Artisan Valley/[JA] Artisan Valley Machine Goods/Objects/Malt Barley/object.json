@@ -13,7 +13,7 @@
     "NameLocalization":
     {
         "es": "Malta de cebada",
-         // "ko": "",
+        "ko": "보리 맥아",
         "de": "Gerstenmalz",
          // "fr": "",
          // "hu": "",
@@ -27,7 +27,7 @@
     "DescriptionLocalization":
     {
         "es": "Un grano de cereal tostado que se utiliza en el procesamiento de alcohol.",
-         // "ko": "",
+        "ko": "알코올 가공에 사용되는 구운 곡물.",
         "de": "Ein geröstetes Getreidekorn, das bei der Verarbeitung von Alkohol verwendet wird.",
          // "fr": "",
          // "hu": "",

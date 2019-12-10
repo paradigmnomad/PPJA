@@ -13,7 +13,7 @@
     "NameLocalization":
     {
         "es": "Hierbas molidas",
-         // "ko": "",
+        "ko": "허브 가루",
         "de": "gemahlene Kräuter",
          // "fr": "",
          // "hu": "",
@@ -27,7 +27,7 @@
     "DescriptionLocalization":
     {
         "es": "Un frasco de hierbas molidas.",
-         // "ko": "",
+        "ko": "허브 가루 한 병.",
         "de": "Ein Glas gemahlene Kräuter.",
          // "fr": "",
          // "hu": "",

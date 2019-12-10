@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Fideos de alforfón",
-         // "ko": "",
+        "ko": "메밀국수",
         "de": "Buchweizennudeln",
          // "fr": "",
          // "hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Una bolsa de fideos gruesos, con sabor a tierra.",
-         // "ko": "",
+        "ko": "흙내나는, 국수 한 봉지.",
         "de": "Eine Tüte mit groben, erdigen Nudeln.",
          // "fr": "",
          // "hu": "",

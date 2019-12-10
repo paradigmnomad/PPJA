@@ -16,7 +16,7 @@
     "NameLocalization":
     {
         "es": "Extracto de poblano",
-         // "ko": "",
+        "ko": "포블라노 추출액",
         "de": "Poblano-Extrakt",
          // "fr": "",
          // "hu": "",
@@ -30,7 +30,7 @@
     "DescriptionLocalization":
     {
         "es": "Este líquido ha sido extraído de un pimiento.",
-         // "ko": "",
+        "ko": "고추에서 추출됐습니다.",
         "de": "Diese Flüssigkeit wurde aus Poblano extrahiert.",
          // "fr": "",
          // "hu": "",

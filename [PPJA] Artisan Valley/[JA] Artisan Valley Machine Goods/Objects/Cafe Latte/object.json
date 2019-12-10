@@ -24,7 +24,7 @@
     "NameLocalization":
     {
         "es": "Café Latte",
-         // "ko": "",
+        "ko": "카페 라떼",
         "de": "Café Latte",
          // "fr": "",
          // "hu": "",
@@ -38,7 +38,7 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida clásica de las cafeterías. Ligeramente amargo pero dulce en las cantidades adecuadas.",
-         // "ko": "",
+        "ko": "대표적인 커피숍 음료. 적당히 쓴 맛과 단 맛이 납니다.",
         "de": "Ein klassisches Café-Getränk. Leicht bitter und süß in den richtigen Mengen.",
          // "fr": "",
          // "hu": "",

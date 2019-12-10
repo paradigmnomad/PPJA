@@ -24,7 +24,7 @@
     "NameLocalization":
     {
         "es": "Mocha de menta",
-         // "ko": "",
+        "ko": "페퍼민트 모카",
         "de": "Pfefferminz-Mokka",
          // "fr": "",
          // "hu": "",
@@ -38,7 +38,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Yo también puedo hacerlo! ¡En tu cara, Haley!",
-         // "ko": "",
+        "ko": "나도 만들 수 있어! 쌤통이다, 헤일리!",
         "de": "Ich kann es schaffen! In deinem Gesicht, Haley!",
          // "fr": "",
          // "hu": "",

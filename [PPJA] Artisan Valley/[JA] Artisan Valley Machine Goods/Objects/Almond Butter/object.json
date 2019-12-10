@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Mantequilla de almendra",
-         // "ko": "",
+        "ko": "아몬드 버터",
         "de": "Mandelbutter",
          // "fr": "",
          // "hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Una mantequilla ligeramente arenosa.",
-         // "ko": "",
+        "ko": "가볍고, 약간 투박한 질감의 버터.",
         "de": "Eine leichte, leicht kiesige Butter.",
          // "fr": "",
          // "hu": "",

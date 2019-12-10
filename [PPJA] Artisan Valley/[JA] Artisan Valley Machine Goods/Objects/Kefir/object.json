@@ -16,7 +16,7 @@
     "NameLocalization":
     {
         "es": "Kéfir",
-         // "ko": "",
+        "ko": "케피르",
         "de": "Kefir",
          // "fr": "",
          // "hu": "",
@@ -30,7 +30,7 @@
     "DescriptionLocalization":
     {
         "es": "Un cremoso yogur elaborado con leche de cabra o de oveja, con un poco de levadura kéfir.",
-         // "ko": "",
+        "ko": "양이나 염소젖을 발효시켜 만든 케피르. 크리미합니다.",
         "de": "Hergestellt aus Schafs- oder Ziegenmilch und der Kefirhefe. Es ist cremig.",
          // "fr": "",
          // "hu": "",

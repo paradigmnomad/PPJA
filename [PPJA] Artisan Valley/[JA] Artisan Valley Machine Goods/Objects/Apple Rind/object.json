@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Cáscara de manzana",
-         // "ko": "",
+        "ko": "사과 껍질",
         "de": "Apfelschale",
          // "fr": "",
          // "hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Una simple cáscara de manzana.",
-         // "ko": "",
+        "ko": "꼬불꼬불한 사과 껍질.",
         "de": "Die kurvenreiche Schale eines Apfels.",
          // "fr": "",
          // "hu": "",

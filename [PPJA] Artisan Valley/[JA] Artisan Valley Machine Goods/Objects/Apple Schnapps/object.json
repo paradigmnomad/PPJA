@@ -32,7 +32,7 @@
     "NameLocalization":
     {
         "es": "Aguardiente de manzana",
-         // "ko": "",
+        "ko": "애플 슈냅스",
         "de": "Apfel-Schnaps",
          // "fr": "",
          // "hu": "",
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         "es": "Beber con moderación.",
-         // "ko": "",
+        "ko": "절제해서 드세요.",
         "de": "Genieße Ihn in Maßen",
          // "fr": "",
          // "hu": "",

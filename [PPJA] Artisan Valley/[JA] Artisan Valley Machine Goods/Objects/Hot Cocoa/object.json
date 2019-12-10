@@ -31,7 +31,7 @@
     "NameLocalization":
     {
         "es": "Chocolate caliente",
-         // "ko": "",
+        "ko": "핫초코",
         "de": "Heißer Kakao",
          // "fr": "",
          // "hu": "",
@@ -45,7 +45,7 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida dulce y caliente que se disfruta mejor en los meses fríos.",
-         // "ko": "",
+        "ko": "쌀쌀한 달에 제격인 달콤하고 뜨거운 음료.",
         "de": "Ein süßes, heißes Getränk, das man am besten in den kühlen Monaten genießt.",
          // "fr": "",
          // "hu": "",

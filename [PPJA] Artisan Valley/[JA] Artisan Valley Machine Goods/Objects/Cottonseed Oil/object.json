@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Aceite de algodón",
-         // "ko": "",
+        "ko": "면실유",
         "de": "Baumwollsamenöl",
          // "fr": "",
          // "hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Un aceite de semillas de algodón a menudo se utiliza como una sustitución de los aceites vegetales.",
-         // "ko": "",
+        "ko": "목화씨에서 압착한 기름은 종종 식물성 기름의 대체품으로 사용됩니다.",
         "de": "Ein aus Baumwollsamen gepresstes Öl, das oft als Ersatz für Pflanzenöle verwendet wird.",
          // "fr": "",
          // "hu": "",

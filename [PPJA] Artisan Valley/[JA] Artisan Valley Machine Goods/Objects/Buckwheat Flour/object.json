@@ -13,7 +13,7 @@
     "NameLocalization":
     {
         "es": "Harina de trigo sarraceno",
-         // "ko": "",
+        "ko": "메밀가루",
         "de": "Buchweizenmehl",
          // "fr": "",
          // "hu": "",
@@ -27,7 +27,7 @@
     "DescriptionLocalization":
     {
         "es": "Un ingrediente para cocinar hecho de semillas de trigo sarraceno trituradas.",
-         // "ko": "",
+        "ko": "으깬 메밀 씨앗으로 만든 요리 재료.",
         "de": "Ein Kochzutat aus zerkleinerten Buchweizensamen.",
          // "fr": "",
          // "hu": "",

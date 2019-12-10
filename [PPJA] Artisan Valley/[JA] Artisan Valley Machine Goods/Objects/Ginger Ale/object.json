@@ -16,7 +16,7 @@
     "NameLocalization":
     {
         "es": "Refresco de jengibre",
-         // "ko": "",
+        "ko": "생강 에일",
         "de": "Ginger Ale",
          // "fr": "",
          // "hu": "",
@@ -30,7 +30,7 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida ligera a menudo utilizada para calmar los dolores de estómago.",
-         // "ko": "",
+        "ko": "복통을 가라앉히기 위해 자주 사용되는 가벼운 음료.",
         "de": "Ein leichtes Getränk, das oft zur Behandlung von Bauchschmerzen verwendet wird.",
          // "fr": "",
          // "hu": "",

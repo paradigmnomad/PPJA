@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Flores secas",
-         // "ko": "",
+        "ko": "말린 꽃",
         "de": "Getrocknete Blume",
          // "fr": "",
          // "hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Un paquete de flores secas.",
-         // "ko": "",
+        "ko": "한 꾸러미의 말린 꽃.",
         "de": "Ein Bündel getrocknete Blumen.",
          // "fr": "",
          // "hu": "",

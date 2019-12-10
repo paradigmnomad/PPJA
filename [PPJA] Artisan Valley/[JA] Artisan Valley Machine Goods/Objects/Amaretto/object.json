@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         "es": "Amaretto",
-         // "ko": "",
+        "ko": "아마레토",
         "de": "Amaretto",
          // "fr": "",
          // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         "es": "Un destilado hecho de almendras. Beber con moderación.",
-         // "ko": "",
+        "ko": "아몬드를 증류시켜 만든 술. 절제해서 드세요.",
         "de": "Ein Schnaps aus Mandeln. Genieße Ihn in Maßen.",
          // "fr": "",
          // "hu": "",

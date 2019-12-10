@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         "es": "Helado napolitano",
-         // "ko": "",
+        "ko": "나폴리탄 아이스크림",
         "de": "Neapolitanische Eiscreme",
          // "fr": "",
          // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Tres sabores en uno!",
-         // "ko": "",
+        "ko": "한 번에 세가지 맛!",
         "de": "Drei Geschmacksrichtungen in einem!",
          // "fr": "",
          // "hu": "",

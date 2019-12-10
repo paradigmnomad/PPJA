@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         "es": "Mayonesa de oliva",
-         // "ko": "",
+        "ko": "올리브유 마요네즈",
         "de": "Olivenöl Mayonnaise",
          // "fr": "",
          // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         "es": "Mayonesa hecha con aceite de oliva.",
-         // "ko": "",
+        "ko": "올리브유로 만든 마요네즈.",
         "de": "Mayonnaise mit Olivenöl gemacht.",
          // "fr": "",
          // "hu": "",

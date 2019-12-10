@@ -32,7 +32,7 @@
     "NameLocalization":
     {
         "es": "Ginebra",
-         // "ko": "",
+        "ko": "진",
         "de": "Gin",
          // "fr": "",
          // "hu": "",
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida destilada de bayas de enebro. Beber con moderación.",
-         // "ko": "",
+        "ko": "주니퍼 베리를 증류시켜 만든 술. 절제해서 드세요.",
         "de": "Ein Schnaps aus Wacholderbeeren. Genieße Ihn in Maßen.",
          // "fr": "",
          // "hu": "",

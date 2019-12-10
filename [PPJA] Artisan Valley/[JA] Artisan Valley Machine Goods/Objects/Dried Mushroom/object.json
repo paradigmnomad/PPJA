@@ -13,7 +13,7 @@
     "NameLocalization":
     {
         "es": "Setas secas",
-         // "ko": "",
+        "ko": "말린 버섯",
         "de": "Dried Mushroom",
          // "fr": "",
          // "hu": "",
@@ -27,7 +27,7 @@
     "DescriptionLocalization":
     {
         "es": "Un bote de setas secas.",
-         // "ko": "",
+        "ko": "말린 버섯 한 병.",
         "de": "Ein Glas getrocknete Pilze.",
          // "fr": "",
          // "hu": "",

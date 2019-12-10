@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         "es": "Ajenjo",
-         // "ko": "",
+        "ko": "압생트",
         "de": "Absinth",
          // "fr": "",
          // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         "es": "También conocido como el hada verde. Beber en estricta moderación.",
-         // "ko": "",
+        "ko": "초록 요정으로 알려져 있습니다. 절제해서 드세요.",
         "de": "Wird auch grüne Fee genannt. Genieß ihn in maßen.",
          // "fr": "",
          // "hu": "",

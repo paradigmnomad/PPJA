@@ -32,7 +32,7 @@
     "NameLocalization":
     {
         "es": "Sidra fuerte de manzana",
-         // "ko": "",
+        "ko": "발효 애플 사이다",
         "de": "Trockener Apfelwein",
          // "fr": "",
          // "hu": "",
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida crujiente y seca fermentada a partir de manzanas. Beber con moderación.",
-         // "ko": "",
+        "ko": "사과를 발효시켜 만든 음료. 절제해서 드세요.",
         "de": "Ein knackiges, trockenes Getränk, das aus Äpfeln vergoren wird. In Maßen trinken.",
          // "fr": "",
          // "hu": "",

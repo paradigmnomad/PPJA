@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         "es": "Bitter",
-         // "ko": "",
+        "ko": "비터",
          // "de": "",
          // "fr": "",
          // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         "es": "Comúnmente utilizado en bebidas alcohólicas. Hecho de flores.",
-         // "ko": "",
+        "ko": "술로 만들어집니다. 꽃으로 만듭니다.",
          // "de": "",
          // "fr": "",
          // "hu": "",

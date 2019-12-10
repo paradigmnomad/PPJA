@@ -39,7 +39,7 @@
     "NameLocalization":
     {
         "es": "Cantuccini",
-         // "ko": "",
+        "ko": "비스코티",
         "de": "Biscotti",
          // "fr": "",
          // "hu": "",
@@ -53,7 +53,7 @@
     "DescriptionLocalization":
     {
         "es": "Una golosina con chocolate desmenuzable y crujiente.",
-         // "ko": "",
+        "ko": "잘 바스러지는, 초콜릿을 바른 바삭바삭한 간식.",
         "de": "Ein bröckeliger, knuspriger Leckerbissen mit Schokoladenüberzug.",
          // "fr": "",
          // "hu": "",

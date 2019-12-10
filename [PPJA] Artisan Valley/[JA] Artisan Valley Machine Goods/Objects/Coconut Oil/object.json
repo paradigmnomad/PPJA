@@ -16,7 +16,7 @@
     "NameLocalization":
     {
         "es": "Aceite de coco",
-         // "ko": "",
+        "ko": "코코넛 오일",
         "de": "Kokosnussöl",
          // "fr": "",
          // "hu": "",
@@ -30,7 +30,7 @@
     "DescriptionLocalization":
     {
         "es": "Un aceite multiuso usado en productos de cocina y de hogar. Sólido a temperatura ambiente.",
-         // "ko": "",
+        "ko": "요리 및 가정용품에 쓰이는 다목적 오일. 상온에서 고체상태를 유지합니다.",
         "de": "Ein Mehrzwecköl, das in Koch- und Haushaltsprodukten verwendet wird. Fest bei Raumtemperatur.",
          // "fr": "",
          // "hu": "",

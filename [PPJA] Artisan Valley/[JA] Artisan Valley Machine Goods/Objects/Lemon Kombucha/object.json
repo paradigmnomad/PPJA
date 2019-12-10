@@ -15,9 +15,9 @@
   },
   "NameLocalization":
     {
-         // "es": "",
-         // "ko": "",
-         // "de": "",
+         "es": "Kombucha de limón",
+        "ko": "레몬 콤부차",
+        "de": "Zitronen Kombucha",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -29,9 +29,9 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
-         // "ko": "",
-         // "de": "",
+         "es": "¡No es amargo en absoluto!",
+        "ko": "신맛이 전혀 나지 않습니다!",
+        "de": "Es ist überhaupt nicht sauer!",
          // "fr": "",
          // "hu": "",
          // "it": "",

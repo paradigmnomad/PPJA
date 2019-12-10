@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         "es": "Yogur de cabra",
-         // "ko": "",
+        "ko": "염소 요거트",
         "de": "Ziegenjoghurt",
          // "fr": "",
          // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         "es": "Un yogur agrio preparado a partir de leche de cabra.",
-         // "ko": "",
+        "ko": "몇몇 나라에서 선호하는 시큼한 요거트.",
         "de": "Ein herber Joghurt, der in einigen Ländern bevorzugt wird.",
          // "fr": "",
          // "hu": "",

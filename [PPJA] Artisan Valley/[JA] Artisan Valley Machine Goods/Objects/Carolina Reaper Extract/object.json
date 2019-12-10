@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         "es": "Extracto de segador de carolina",
-         // "ko": "",
+        "ko": "캐롤라이나 리퍼 추출액",
         "de": "Carolina Reaper-Extrakt",
          // "fr": "",
          // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         "es": "El regalo perfecto para alguien que intenta robar tu billetera.",
-         // "ko": "",
+        "ko": "지갑을 훔치려는 사람들을 위한 완벽한 선물.",
         "de": "Das perfekte Geschenk für jemanden, der versucht, Ihren Geldbeutel zu stehlen.",
          // "fr": "",
          // "hu": "",

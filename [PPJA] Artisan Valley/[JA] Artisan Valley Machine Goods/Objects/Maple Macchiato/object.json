@@ -24,7 +24,7 @@
     "NameLocalization":
     {
         "es": "Macchiato con maple",
-         // "ko": "",
+        "ko": "메이플 마끼아또",
         "de": "Ahorn Macchiato",
          // "fr": "",
          // "hu": "",
@@ -38,7 +38,7 @@
     "DescriptionLocalization":
     {
         "es": "Beber esto en una tarde de otoño se siente tan bien.",
-         // "ko": "",
+        "ko": "늦가을 오후에 마시면 좋습니다.",
         "de": "Das an einem späten Herbstnachmittag zu trinken, fühlt sich einfach so richtig an.",
          // "fr": "",
          // "hu": "",

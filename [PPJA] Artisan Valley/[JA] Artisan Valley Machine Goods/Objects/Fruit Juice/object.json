@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Jugo de fruta",
-         // "ko": "",
+        "ko": "과일 주스",
         "de": "Fruchtsaft",
          // "fr": "",
          // "hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Jugo de fruta recién exprimido.",
-         // "ko": "",
+        "ko": "갓 짜낸 과일 주스.",
         "de": "Frisch gepresster Fruchtsaft.",
          // "fr": "",
          // "hu": "",

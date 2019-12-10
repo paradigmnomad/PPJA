@@ -16,7 +16,7 @@
     "NameLocalization":
     {
         "es": "Helado de matcha",
-         // "ko": "",
+        "ko": "말차 아이스크림",
         "de": "Matcha Ice Cream",
          // "fr": "",
          // "hu": "",
@@ -30,7 +30,7 @@
     "DescriptionLocalization":
     {
         "es": "Sabe a té.",
-         // "ko": "",
+        "ko": "차 맛이에요.",
         "de": "Es schmeckt wie Tee.",
          // "fr": "",
          // "hu": "",

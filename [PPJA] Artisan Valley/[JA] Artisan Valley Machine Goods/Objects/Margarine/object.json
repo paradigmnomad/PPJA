@@ -13,7 +13,7 @@
     "NameLocalization":
     {
         "es": "Margarina",
-         // "ko": "",
+        "ko": "마가린",
         "de": "Margarine",
          // "fr": "",
          // "hu": "",
@@ -27,7 +27,7 @@
     "DescriptionLocalization":
     {
         "es": "¡No puedes creer que no sea mantequilla!",
-         // "ko": "",
+        "ko": "버터가 아니라니, 말도 안 돼요!",
         "de": "Du kannst nicht glauben, dass es keine Butter ist!",
          // "fr": "",
          // "hu": "",

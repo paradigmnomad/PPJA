@@ -32,7 +32,7 @@
     "NameLocalization":
     {
         "es": "Refresco oscuro",
-         // "ko": "",
+        "ko": "다크 에일",
         "de": "Dunkles Ale",
          // "fr": "",
          // "hu": "",
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         "es": "Beber con moderación.",
-         // "ko": "",
+        "ko": "절제해서 드세요.",
         "de": "Genieß es in Maßen.",
          // "fr": "",
          // "hu": "",

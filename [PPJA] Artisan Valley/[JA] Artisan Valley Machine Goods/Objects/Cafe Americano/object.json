@@ -24,7 +24,7 @@
     "NameLocalization":
     {
         "es": "Café Americano",
-         // "ko": "",
+        "ko": "카페 아메리카노",
         "de": "Amerikanischer Kaffee",
          // "fr": "",
          // "hu": "",
@@ -38,7 +38,7 @@
     "DescriptionLocalization":
     {
         "es": "Amargo y fuerte. Esto te ayudará a despertarte.",
-         // "ko": "",
+        "ko": "쓰고 강한 맛이 납니다. 일어나는데 도움이 됩니다.",
         "de": "Bitter und stark. Dies wird Ihnen beim Aufwachen helfen.",
          // "fr": "",
          // "hu": "",

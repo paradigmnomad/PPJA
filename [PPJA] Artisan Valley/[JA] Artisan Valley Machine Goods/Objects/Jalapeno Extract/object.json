@@ -17,7 +17,7 @@
     "NameLocalization":
     {
         "es": "Extracto de jalapeño",
-         // "ko": "",
+        "ko": "할라피뇨 추출액",
         "de": "Jalapeno-Extrakt",
          // "fr": "",
          // "hu": "",
@@ -31,7 +31,7 @@
     "DescriptionLocalization":
     {
         "es": "Este líquido ha sido extraído de un jalapeño.",
-         // "ko": "",
+        "ko": "고추에서 추출됐습니다.",
         "de": "Diese Flüssigkeit wurde aus Jalapenos extrahiert.",
          // "fr": "",
          // "hu": "",
