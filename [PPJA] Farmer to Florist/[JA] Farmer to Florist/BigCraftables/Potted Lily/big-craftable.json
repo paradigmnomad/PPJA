@@ -32,7 +32,7 @@
     "pt": "Vaso de Lírio",
      // "ru": "",
      // "tr": "",
-    "zh": "百合花",
+    "zh": "百合花盆栽",
      },
  "DescriptionLocalization": { 
     "es": "Un lirio en un pequeño macetero de madera. ¡Recuerda regarlo!",
@@ -45,6 +45,6 @@
     "pt": "Um lírio em um pequeno vaso de madeira. Lembre-se sempre de regá-lo!",
      // "ru": "",
      // "tr": "",
-    "zh": "一个小木盆里的百合花。记得给它浇水！",
+    "zh": "百合花盆栽。一个小木盆里的百合花。记得给它浇水！",
     }
 }

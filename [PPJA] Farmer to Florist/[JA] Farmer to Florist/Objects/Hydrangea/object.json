@@ -17,7 +17,7 @@
     "pt": "Hortênsia",
      // "ru": "",
      // "tr": "",
-    "zh": "绣球花",
+    "zh": "八仙花",
      },
  "DescriptionLocalization": { 
     "es": "Con grandes grupos de flores redondas, este arbusto es increíblemente popular entre los jardineros.",
@@ -38,4 +38,8 @@
     	"color_blue",
     	"season_summer"
     ]
+=======
+    "zh": "俗名绣球花或紫阳花，这种灌木有大而圆的花簇，备受花匠和园丁们的欢迎。",
+    }
+>>>>>>> b95b8e5471ea592505b57535b670998e1f6201ab
 }
