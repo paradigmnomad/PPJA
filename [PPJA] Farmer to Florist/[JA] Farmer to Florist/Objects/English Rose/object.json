@@ -32,16 +32,11 @@
         "pt": "Uma antiga lenda popular sugere que o cheiro doce desta flor atrai fadas.",
          // "ru": "",
          // "tr": "",
-        "zh": "在一个古老的传说中，这种花的香气吸引了仙女。",
+        "zh": "在一个古老的民间传说中，这种花的香气连仙女也为之动容。",
     },
     "ContextTags": [
     	"season_fall",
     	"flower_item",
     	"color_red"
     ]
-=======
-        "zh": "在一个古老的民间传说中，这种花的香气连仙女也为之动容。",
-    }
-
->>>>>>> b95b8e5471ea592505b57535b670998e1f6201ab
 }

@@ -39,15 +39,11 @@
         "pt": "Um jardim favorito que floresce durante todo o outono.",
          // "ru": "",
          // "tr": "",
-        "zh": "一种在秋天盛开的花朵。",
+        "zh": "在秋天盛开的繁多花朵中它备受喜爱。",
     },
     "ContextTags": [
     	"season_fall",
     	"color_pink",
     	"flower_item"
     ]
-=======
-        "zh": "在秋天盛开的繁多花朵中它备受喜爱。",
-    }
->>>>>>> b95b8e5471ea592505b57535b670998e1f6201ab
 }

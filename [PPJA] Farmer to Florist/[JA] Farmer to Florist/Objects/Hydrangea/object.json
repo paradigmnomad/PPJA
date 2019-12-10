@@ -30,7 +30,7 @@
     "pt": "Com grandes conjuntos de flores redondas, este arbusto é incrivelmente popular entre os jardineiros.",
      // "ru": "",
      // "tr": "",
-    "zh": "拥有圆形的大花簇，很受园丁们的欢迎。",
+    "zh": "俗名绣球花或紫阳花，这种灌木有大而圆的花簇，备受花匠和园丁们的欢迎。",
     },
     "ContextTags": [
     	"flower_poisonous",
@@ -38,8 +38,4 @@
     	"color_blue",
     	"season_summer"
     ]
-=======
-    "zh": "俗名绣球花或紫阳花，这种灌木有大而圆的花簇，备受花匠和园丁们的欢迎。",
-    }
->>>>>>> b95b8e5471ea592505b57535b670998e1f6201ab
 }

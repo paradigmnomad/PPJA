@@ -30,15 +30,11 @@
     "pt": "Uma planta resistente que floresce na primavera. Tem uma variedade de usos.",
      // "ru": "",
      // "tr": "",
-    "zh": "一种在春天开花的耐寒植物。有多种用途。",
+    "zh": "一种春天开花的耐寒植物。有多种用途。",
     },
     "ContextTags": [
     	"color_purple",
     	"flower_item",
     	"season_spring"
     ]
-=======
-    "zh": "一种春天开花的耐寒植物。有多种用途。",
-    }
->>>>>>> b95b8e5471ea592505b57535b670998e1f6201ab
 }

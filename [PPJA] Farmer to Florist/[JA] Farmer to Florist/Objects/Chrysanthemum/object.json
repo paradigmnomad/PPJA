@@ -39,15 +39,11 @@
         "pt": "ma flor em forma de botão que vem em uma variedade de cores.",
          // "ru": "",
          // "tr": "",
-        "zh": "花瓣细长，有各种颜色。",
+        "zh": "花朵呈纽扣状，有多种颜色。",
     },
     "ContextTags": [
     	"season_fall",
     	"flower_item",
     	"color_yellow"
     ]
-=======
-        "zh": "花朵呈纽扣状，有多种颜色。",
-    }
->>>>>>> b95b8e5471ea592505b57535b670998e1f6201ab
 }

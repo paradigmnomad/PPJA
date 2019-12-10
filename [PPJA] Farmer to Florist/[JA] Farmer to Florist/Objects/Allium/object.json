@@ -39,15 +39,11 @@
         "pt": "A flor cresce em uma esfera para atrair o máximo de borboleta possíveis.",
          // "ru": "",
          // "tr": "",
-        "zh": "花在球形內生長，以吸引盡可能多的蝴蝶。",
+        "zh": "花朵长成球形，以吸引尽可能多的蝴蝶。",
     },
     "ContextTags": [
     	"season_summer",
     	"flower_item",
     	"color_purple"
     ]
-=======
-        "zh": "花朵长成球形，以吸引尽可能多的蝴蝶。",
-    }
->>>>>>> b95b8e5471ea592505b57535b670998e1f6201ab
 }
