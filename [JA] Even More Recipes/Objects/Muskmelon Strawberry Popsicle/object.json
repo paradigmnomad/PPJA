@@ -40,7 +40,7 @@
         "pt": "Picolé de Morango com Melão",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+        "zh": "甜瓜草莓冰棒",
     },
     "DescriptionLocalization":
     {
@@ -54,6 +54,6 @@
         "pt": "Uma degustação de frutas, picolé de verão.",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+        "zh": "甜瓜草莓冰棒。水果味的夏日冰棒。",
     }
 }

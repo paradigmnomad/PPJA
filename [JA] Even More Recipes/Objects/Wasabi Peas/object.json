@@ -44,7 +44,7 @@
         "pt": "Ervilhas de Wasabi",
          // "ru": "",
          // "tr": "",
-        "zh": "芥末味青豆",
+        "zh": "芥辣豌豆",
     },
     "DescriptionLocalization":
     {
@@ -58,6 +58,6 @@
         "pt": "Ervilhas secas que foram polvilhadas com wasabi.",
          // "ru": "",
          // "tr": "",
-        "zh": "芥末味青豆。干青豆配上芥末。",
+        "zh": "芥辣豌豆。撒上芥末粉的干豌豆。",
     }
 }

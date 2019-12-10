@@ -41,7 +41,7 @@
         "pt": "Feijões enlatados",
          // "ru": "",
          // "tr": "",
-        "zh": "罐装烤豆子",
+        "zh": "罐装烤菜豆",
     },
     "DescriptionLocalization":
     {
@@ -55,6 +55,6 @@
         "pt": "Um feijão saudável cozido feito para ser levemente doce.",
          // "ru": "",
          // "tr": "",
-        "zh": "罐装烤豆子。这罐烤豆子有甜味。",
+        "zh": "罐装烤菜豆。这罐烤菜豆的口味偏甜。",
     }
 }

@@ -34,7 +34,7 @@
         "pt": "Granulados",
          // "ru": "",
          // "tr": "",
-        "zh": "巧克力彩针",
+        "zh": "砂糖",
     },
     "DescriptionLocalization":
     {
@@ -48,6 +48,6 @@
         "pt": "Granulado adiciona um pouco de cor a qualquer coisa!",
          // "ru": "",
          // "tr": "",
-        "zh": "巧克力彩针。洒一点给食物加上颜色！",
+        "zh": "砂糖。洒一点给食物增味！",
     }
 }

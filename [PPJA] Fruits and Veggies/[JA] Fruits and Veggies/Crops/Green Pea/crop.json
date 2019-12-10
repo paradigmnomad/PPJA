@@ -34,7 +34,7 @@
         "pt": "Sementes de ervilhas verdes",
          // "ru": "",
          // "tr": "",
-        "zh": "青豆种子",
+        "zh": "青豌豆种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -48,6 +48,6 @@
         "pt": "Plante-as no verão. Demora 8 dias para amadurecer e continua produzindo após a primeira colheira. Cresce em uma treliça.",
          // "ru": "",
          // "tr": "",
-        "zh": "夏天播种。8天成熟，收获之后循环生存。在架子上生长。",
+        "zh": "夏天播种。8天成熟，在第一次收获后循环生产。生长在架子上。",
     }
 }
