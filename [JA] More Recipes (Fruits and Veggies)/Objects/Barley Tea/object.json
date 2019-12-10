@@ -57,5 +57,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "大麦茶。也称为mugicha。",
-    }
+    },
+    "ContextTags": [
+        "recipe_year_2",
+        "color_brown",
+        "tea_item",
+    ],
 }

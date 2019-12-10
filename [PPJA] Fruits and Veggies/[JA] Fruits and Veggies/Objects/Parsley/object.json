@@ -41,5 +41,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "这个多叶的绿色植物，在料理中是重要的配料。",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_green",
+        "herb_item",
+    ],
 }

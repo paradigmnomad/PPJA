@@ -1,7 +1,7 @@
 {
     "Name": "Avocado",
     "Description": "A soft plant that is a popular topping and addition to many meals. It is particularly loved by younger generations.",
-    "Category": "Vegetable",
+    "Category": "Fruit",
     "Edibility": 20,
     "Price": 200,
     "IsColored": false,

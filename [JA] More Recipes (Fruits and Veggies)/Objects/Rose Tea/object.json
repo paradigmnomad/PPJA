@@ -58,5 +58,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "玫瑰茶。一种流行的季节性食物，已经成为一种狂热。",
-    }
+    },
+    "ContextTags": [
+        "color_red",
+        "color_pink",
+        "tea_item",
+    ],
 }

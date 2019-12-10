@@ -69,5 +69,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "香料茶。肉桂和柠檬的混合。",
-    }
+    },
+    "ContextTags": [
+        "color_red",
+        "color_pink",
+        "tea_item",
+    ],
 }

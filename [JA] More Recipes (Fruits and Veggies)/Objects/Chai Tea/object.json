@@ -59,5 +59,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "印度香茶。一种带有少许肉桂味道的奶油茶。",
-    }
+    },
+    "ContextTags": [
+        "recipe_year_2",
+        "color_white",
+        "tea_item",
+    ],
 }

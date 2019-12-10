@@ -41,5 +41,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "迷迭香的气味是淡淡的和新鲜的，熟悉而且独特的。",
-    }
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_green",
+        "herb_item",
+    ],
 }

@@ -30,6 +30,7 @@
             "Object": 399,
             "Count": 1,
         }],
+        "IsDefault": true,
     },
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
