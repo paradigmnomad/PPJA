@@ -1,29 +1,57 @@
 {
-  "Name": "Ancient Coffee",
-  "Description": "Will I ever sleep again?",
-  "Category": "ArtisanGoods",
-  "Edibility": 5,
-   "EdibleIsDrink": true,
-  "Price": 1250,
-  "IsColored": false,
-  "Recipe": null,
-  "EdibleBuffs": {
-    "Farming": 0,
-    "Fishing": 0,
-    "Mining": 0,
-    "Luck": 0,
-	"Foraging": 0,
-	"MaxStamina": 0,
-    "MagnetRadius": 0,
-	"Speed": 3,
-	"Defense": 0,
-	"Attack": 0,
-    "Duration": 900,
-  },
-  "GiftTastes": {
-  
-  "Love":["Dwarf","Harvey","Willy"],
-  },
-  "NameLocalization": {"zh":"远古咖啡"},
-  "DescriptionLocalization": {"zh":"喝了再也睡不着了吧？"},
+    "Name": "Ancient Coffee",
+    "Description": "Will I ever sleep again?",
+    "Category": "ArtisanGoods",
+    "Edibility": 5,
+    "EdibleIsDrink": true,
+    "Price": 1250,
+    "IsColored": false,
+    "Recipe": null,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 3,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 900,
+    },
+    "GiftTastes":
+    {
+
+        "Love": ["Dwarf", "Harvey", "Willy"],
+    },
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        "zh": "远古咖啡"
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        "zh": "喝了再也睡不着了吧？"
+    },
 }

@@ -1,15 +1,42 @@
 {
-  "Name": "Ancient Olive Oil",
-  "Description": "This extra-virgin olive oil has more flavor than any other you’ve tasted.",
-  "Category": "ArtisanGoods",
-  "Edibility": -300,
-   "EdibleIsDrink": false,
-  "Price": 1800,
-  "IsColored": false,
-  "Recipe": null,
-  "GiftTastes": {
-  "Love":["Gus","Evelyn","Marnie","Caroline","Lewis","Jody"],
-  },
-  "NameLocalization": {"zh":"远古橄榄油"},
-  "DescriptionLocalization": {"zh":"这种特级初榨橄榄油比你吃过的任何一种都更有味道。"},
+    "Name": "Ancient Olive Oil",
+    "Description": "This extra-virgin olive oil has more flavor than any other you’ve tasted.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "EdibleIsDrink": false,
+    "Price": 1800,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Gus", "Evelyn", "Marnie", "Caroline", "Lewis", "Jody"],
+    },
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        "zh": "远古橄榄油"
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        "zh": "这种特级初榨橄榄油比你吃过的任何一种都更有味道。"
+    },
 }

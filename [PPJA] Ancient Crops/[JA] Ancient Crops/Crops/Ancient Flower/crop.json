@@ -5,26 +5,49 @@
     "SeedDescription": "Plant in spring. Takes 8 days to produce flowers.",
     "Type": "Flower",
     "Seasons": ["spring"],
-    "Phases": [1,2,2,2,1],
+    "Phases": [1, 2, 2, 2, 1],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
-       "Colors": ["227, 109, 103, 255",
-		"227, 137, 86, 255",
-		"191, 145, 245, 255",
-		"102, 212, 239, 255"],
-    "Bonus": {
+    "Colors": ["227, 109, 103, 255",
+        "227, 137, 86, 255",
+        "191, 145, 245, 255",
+        "102, 212, 239, 255"
+    ],
+    "Bonus":
+    {
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 1,
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.0,
     },
-
-    "SeedPurchasePrice": 300,
-	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
-    "SeedPurchaseRequirements": null,
-	"NameLocalization": { "zh": "远古之花" },
-"ProductLocalization": { "zh": "远古之花" },
-"SeedNameLocalization": { "zh": "远古之花种子" },
-"SeedDescriptionLocalization": { "zh": "春天种植。花8天的时间才能开花。" }
+    "CanPurchase": false,
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        "zh": "远古之花种子"
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        "zh": "春天种植。花8天的时间才能开花。"
+    }
 }

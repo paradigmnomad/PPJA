@@ -1,15 +1,42 @@
 {
-  "Name": "Ancient Tuber",
-  "Description": "This ancestor of the potato used to feed ancient sloth-like animals for millennia.",
-  "Category": "Vegetable",
-  "Edibility": 38,
-   "EdibleIsDrink": false,
-  "Price": 1500,
-  "IsColored": false,
-  "Recipe": null,
-  "GiftTastes": {
-  "Love":["Dwarf","Gregory","Wizard","Krobus"],
-  },
-  "NameLocalization": {"zh":"古老的根茎"},
-  "DescriptionLocalization": {"zh":"这种根茎的祖先几千年来一直是古代树懒类动物的食物。"},
+    "Name": "Ancient Tuber",
+    "Description": "This ancestor of the potato used to feed ancient sloth-like animals for millennia.",
+    "Category": "Vegetable",
+    "Edibility": 38,
+    "EdibleIsDrink": false,
+    "Price": 1500,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Dwarf", "Gregory", "Wizard", "Krobus"],
+    },
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        "zh": "古老的根茎"
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        "zh": "这种根茎的祖先几千年来一直是古代树懒类动物的食物。"
+    },
 }

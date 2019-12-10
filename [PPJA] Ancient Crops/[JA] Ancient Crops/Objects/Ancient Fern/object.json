@@ -1,15 +1,42 @@
 {
-  "Name": "Ancient Fern",
-  "Description": "A fern that produces a beautiful and tasteful flower.",
-  "Category": "Flower",
-  "Edibility": 32,
-   "EdibleIsDrink": false,
-  "Price": 400,
-  "IsColored": false,
-  "Recipe": null,
-  "GiftTastes": {
-  "Love":["Dwarf","Linus","Leah","George"],
-  },
-  "NameLocalization": {"zh":"远古蕨"},
-  "DescriptionLocalization": {"zh":"一种蕨类植物，能开出美丽而有品味的花。"},
+    "Name": "Ancient Fern",
+    "Description": "A fern that produces a beautiful and tasteful flower.",
+    "Category": "Flower",
+    "Edibility": 32,
+    "EdibleIsDrink": false,
+    "Price": 400,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Dwarf", "Linus", "Leah", "George"],
+    },
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        "zh": "远古蕨"
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        "zh": "一种蕨类植物，能开出美丽而有品味的花。"
+    },
 }

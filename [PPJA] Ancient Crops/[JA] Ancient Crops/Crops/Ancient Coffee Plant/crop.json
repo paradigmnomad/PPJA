@@ -5,23 +5,45 @@
     "SeedDescription": "Plant in spring, summer or fall to grow an ancient coffee plant. Takes 32 days to mature, and keeps producing after the first harvest. Place 5 ancient coffee beans in a hardwood keg to obtain ancient coffee.",
     "Type": "Seed",
     "Seasons": ["spring", "summer", "fall"],
-    "Phases": [4,6,8,14,4],
+    "Phases": [4, 6, 8, 14, 4],
     "RegrowthPhase": 4,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": null,
-    "Bonus": {
+    "Bonus":
+    {
         "MinimumPerHarvest": 3,
         "MaximumPerHarvest": 6,
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.4,
     },
-
-"SeedPurchasePrice": 125,
-"SeedPurchaseFrom": "DONTSELLTHISATNPC",
-"SeedPurchaseRequirements": null,
-"NameLocalization": { "zh": "远古咖啡" },
-"ProductLocalization": { "zh": "远古咖啡豆" },
-"SeedNameLocalization": { "zh": "远古咖啡豆" },
-"SeedDescriptionLocalization": { "zh": "在春季、夏季或秋季种植一种古老的咖啡植物。成熟需要32天，并在第一次收获后继续生产。把5颗古老的咖啡豆放在一个硬木桶里，就可以得到古老的咖啡了。" }
+    "CanPurchase": false,
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        "zh": "远古咖啡豆"
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        "zh": "在春季、夏季或秋季种植一种古老的咖啡植物。成熟需要32天，并在第一次收获后继续生产。把5颗古老的咖啡豆放在一个硬木桶里，就可以得到古老的咖啡了。"
+    }
 }
