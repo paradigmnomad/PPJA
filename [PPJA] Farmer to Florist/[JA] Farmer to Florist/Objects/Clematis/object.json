@@ -40,5 +40,11 @@
          // "ru": "",
          // "tr": "",
         "zh": "秋天开花的藤蔓植物。很受园丁欢迎。",
-    }
+    },
+    "ContextTags": [
+    	"color_purple",
+    	"flower_item",
+    	"flower_poisonous",
+    	"season_fall"
+    ]
 }

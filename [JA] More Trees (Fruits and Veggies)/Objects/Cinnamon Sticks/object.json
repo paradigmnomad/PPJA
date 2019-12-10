@@ -46,6 +46,7 @@
         "spice_item",
         "dye_medium",
         "crop_year_two",
-        "fruit_tree_year_two"
+        "fruit_tree_year_two",
+        "fruit_tree_herb_item"
     ]
 }

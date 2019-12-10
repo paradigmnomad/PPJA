@@ -31,5 +31,10 @@
      // "ru": "",
      // "tr": "",
     "zh": "一种拥有大而浓密的花簇且气味芬芳的花。",
-    }
+    },
+    "ContextTags": [
+    	"color_purple",
+    	"flower_item",
+    	"season_spring"
+    ]
 }

@@ -31,5 +31,10 @@
      // "ru": "",
      // "tr": "",
     "zh": "一种香气扑鼻的花。采摘后花朵保鲜期很短。",
-    }
+    },
+    "ContextTags": [
+    	"color_pink",
+    	"flower_item",
+    	"season_spring"
+    ]
 }

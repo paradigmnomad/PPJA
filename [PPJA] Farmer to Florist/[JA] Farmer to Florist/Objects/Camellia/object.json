@@ -40,5 +40,11 @@
          // "ru": "",
          // "tr": "",
         "zh": "从山茶属植物采摘下的花和叶。用于泡茶。",
-    }
+    },
+    "ContextTags": [
+    	"season_spring",
+    	"season_fall",
+    	"color_white",
+    	"flower_item"
+    ]
 }

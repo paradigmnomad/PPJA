@@ -40,5 +40,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "花朵长成球形，以吸引尽可能多的蝴蝶。",
-    }
+    },
+    "ContextTags": [
+    	"season_summer",
+    	"flower_item",
+    	"color_purple"
+    ]
 }

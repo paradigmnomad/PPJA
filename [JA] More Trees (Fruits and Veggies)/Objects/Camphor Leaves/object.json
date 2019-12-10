@@ -46,6 +46,7 @@
         "fruit_tree_item",
         "herb_item",
         "crop_year_two",
-        "fruit_tree_year_two"
+        "fruit_tree_year_two",
+        "fruit_tree_herb_item"
     ]
 }

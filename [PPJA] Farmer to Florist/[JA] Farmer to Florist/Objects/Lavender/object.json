@@ -31,5 +31,10 @@
      // "ru": "",
      // "tr": "",
     "zh": "一种具有多种烹饪和药用用途的漂亮花朵。",
-    }
+    },
+    "ContextTags": [
+    	"color_purple",
+    	"flower_item",
+    	"season_summer"
+    ]
 }

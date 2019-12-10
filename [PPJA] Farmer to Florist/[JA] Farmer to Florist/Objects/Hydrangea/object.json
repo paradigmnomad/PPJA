@@ -31,5 +31,11 @@
      // "ru": "",
      // "tr": "",
     "zh": "俗名绣球花或紫阳花，这种灌木有大而圆的花簇，备受花匠和园丁们的欢迎。",
-    }
+    },
+    "ContextTags": [
+    	"flower_poisonous",
+    	"flower_item",
+    	"color_blue",
+    	"season_summer"
+    ]
 }

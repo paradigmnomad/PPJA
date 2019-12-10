@@ -31,5 +31,11 @@
      // "ru": "",
      // "tr": "",
     "zh": "一种令人喜爱的奇特紫色花朵。",
-    }
+    },
+    "ContextTags": [
+    	"flower_poisonous",
+    	"flower_item",
+    	"color_purple",
+    	"season_fall"
+    ]
 }

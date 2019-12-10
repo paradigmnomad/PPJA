@@ -31,5 +31,11 @@
     "ru": "Цветет рано весной невероятно ароматными цветами.",
     "tr": "İnanılmaz kokulu çiçekleri ile ilkbaharda erken çiçek açar.",
     "zh": "在早春开放，花朵芳香扑鼻。",
-    }
+    },
+    "ContextTags": [
+    	"flower_poisonous",
+    	"flower_item",
+    	"color_blue",
+    	"season_spring"
+    ]
 }

@@ -40,5 +40,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "花朵呈纽扣状，有多种颜色。",
-    }
+    },
+    "ContextTags": [
+    	"season_fall",
+    	"flower_item",
+    	"color_yellow"
+    ]
 }

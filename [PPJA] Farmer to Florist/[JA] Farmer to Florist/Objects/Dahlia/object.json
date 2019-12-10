@@ -40,5 +40,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "在秋天盛开的繁多花朵中它备受喜爱。",
-    }
+    },
+    "ContextTags": [
+    	"season_fall",
+    	"color_pink",
+    	"flower_item"
+    ]
 }

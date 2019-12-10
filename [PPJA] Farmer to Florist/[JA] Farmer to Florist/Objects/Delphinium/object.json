@@ -41,5 +41,11 @@
          // "ru": "",
          // "tr": "",
         "zh": "花茎大而突出，沿茎身密布花朵，有毒，不可食用。",
-    }
+    },
+    "ContextTags": [
+    	"color_blue",
+    	"season_spring",
+    	"flower_item",
+    	"flower_poisonous"
+    ]
 }

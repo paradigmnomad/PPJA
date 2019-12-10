@@ -40,5 +40,11 @@
      // "ru": "",
      // "tr": "",
     "zh": "一种可以入药的可爱小花。也可制作花冠。",
-    }
+    },
+    "ContextTags": [
+    	"forage_item",
+    	"flower_item",
+    	"color_white",
+    	"season_fall"
+    ]
 }

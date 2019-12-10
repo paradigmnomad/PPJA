@@ -31,5 +31,10 @@
      // "ru": "",
      // "tr": "",
     "zh": "一种春天开花的耐寒植物。有多种用途。",
-    }
+    },
+    "ContextTags": [
+    	"color_purple",
+    	"flower_item",
+    	"season_spring"
+    ]
 }
