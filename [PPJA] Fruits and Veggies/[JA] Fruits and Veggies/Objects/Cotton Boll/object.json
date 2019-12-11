@@ -1,7 +1,7 @@
 {
     "Name": "Cotton Boll",
     "Description": "Fluffy and white, it can be used to make thread.",
-    "Category": "Vegetable",
+    "Category": "Fruit",
     "Edibility": -300,
     "Price": 65,
     "IsColored": false,

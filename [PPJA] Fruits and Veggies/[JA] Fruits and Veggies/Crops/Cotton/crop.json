@@ -2,8 +2,8 @@
     "Name": "Cotton",
     "Product": "Cotton Boll",
     "SeedName": "Cotton Seeds",
-    "SeedDescription": "Plant these in summer or fall. Takes 6 days to mature, and keeps producing after the first harvest.",
-    "Type": "Vegetable",
+    "SeedDescription": "Plant these in summer or fall. Takes 7 days to mature, and keeps producing after the first harvest.",
+    "Type": "Fruit",
 
     "Seasons": ["summer", "fall"],
     "Phases": [1, 1, 1, 2, 2, ],
