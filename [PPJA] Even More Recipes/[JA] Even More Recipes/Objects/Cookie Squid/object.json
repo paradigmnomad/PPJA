@@ -1,0 +1,68 @@
+{
+    "Name": "Cookie Squid",
+    "Description": "A cute cookie shaped like a squid.",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 500,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Leah", "Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Vanilla",
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1500,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Galleta calamerina",
+        "ko": "오징어 쿠키",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Biscoito de povinho",
+         // "ru": "",
+         // "tr": "",
+        "zh": "小鱿鱼饼干",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una linda galleta con forma de calamar.",
+        "ko": "오징어 모양의 귀여운 쿠키.",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Um biscoito fofo em forma de lula.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "小鱿鱼饼干。它的形状像一只小鱿鱼。",
+    }
+}

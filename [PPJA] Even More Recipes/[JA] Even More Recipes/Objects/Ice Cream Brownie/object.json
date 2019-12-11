@@ -1,0 +1,64 @@
+{
+    "Name": "Ice Cream Brownie",
+    "Description": "A yummy, warm treat!",
+    "Category": "Cooking",
+    "Edibility": 132,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1105,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Evelyn", "Jodi"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Haley", "Harvey", "Jas", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Emily", "Krobus", "Leah", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 233,
+            "Count": 1,
+        },
+        {
+            "Object": "Brownie",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 3105,
+        "PurchaseRequirements": [
+            "r 0.25",
+            "y 2",
+        ]
+    },
+    "NameLocalization":
+    {
+        "es": "Helado de brownie",
+        "ko": "아이스크림 브라우니",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Brownie de sorvete",
+         // "ru": "",
+         // "tr": "",
+        "zh": "冰淇淋布朗尼",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Un delicioso y cálido capricho!",
+        "pt": "Um deleite gostoso e quente!",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Um deleite gostoso e quente!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "冰淇淋布朗尼。超好吃的，温暖的甜点！",
+    }
+}

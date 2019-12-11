@@ -1,0 +1,67 @@
+{
+    "Name": "Blueberry Honey Cake",
+    "Description": "A sticky sweet with blueberries on top!",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 690,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Abigail", "George", "Haley", "Harvey", "Leah"],
+        "Dislike": ["Krobus", "Maru", "Sebastian", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 340,
+            "Count": 1,
+        },
+        {
+            "Object": "Cream Cheese",
+            "Count": 1,
+        },
+        {
+            "Object": 258,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2690,
+        "PurchaseRequirements": [
+            "z winter",
+        ]
+    },
+    "NameLocalization":
+    {
+        "es": "Pastel de miel con arándanos",
+        "ko": "블루베리 허니 케이크",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Bolo de mel de mirtilo",
+         // "ru": "",
+         // "tr": "",
+        "zh": "蓝莓蜂蜜蛋糕",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Un dulce pegajoso con arándanos encima!",
+        "ko": "블루베리를 얹은 끈적끈적한 달콤함!",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Um doce pegajoso com mirtilos por cima!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "蓝莓蜂蜜蛋糕。蛋糕顶上放着黏乎乎甜蜜蜜的蓝莓！",
+    }
+}

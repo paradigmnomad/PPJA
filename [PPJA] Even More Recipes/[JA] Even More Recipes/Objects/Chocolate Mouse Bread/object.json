@@ -1,0 +1,61 @@
+{
+    "Name": "Chocolate Mouse Bread",
+    "Description": "You almost don't want to eat it!",
+    "Category": "Cooking",
+    "Edibility": 54,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 675,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Harvey", "Krobus", "Sebastian", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": "Chocolate",
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Pan chocolatoso con forma de ratón",
+        "ko": "초콜릿 쥐돌이 빵",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Pão com Mousse de Chocolate",
+         // "ru": "",
+         // "tr": "",
+        "zh": "巧克力鼠面包",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Casi no quieres comerlo!",
+        "ko": "먹고 싶지 않을 거예요!",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Você parece não querer comer!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "巧克力鼠面包。你几乎不想吃它！",
+    }
+}

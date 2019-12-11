@@ -1,0 +1,76 @@
+{
+    "Name": "Autumn Muffin",
+    "Description": "A decadent muffin that's topped with powdered sugar.",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 945,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Leah", "Penny"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": -5,
+            "Count": 1,
+        },
+        {
+            "Object": 276,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": "Cinnamon Sticks",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2945,
+        "PurchaseRequirements": [
+            "z spring summer winter",
+            "y 2",
+        ]
+    },
+    "NameLocalization":
+    {
+        "es": "Muffin otoñal",
+        "ko": "가을 머핀",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Muffin de Outono",
+         // "ru": "",
+         // "tr": "",
+        "zh": "秋日松饼",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un panecillo que está cubierto con azúcar en polvo.",
+        "ko": "슈가 파우더를 뿌린 머핀.",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Um bolinho decadente coberto com açúcar em pó.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "秋日松饼。一个上面撒满糖粉的软塌塌松饼。",
+    }
+}

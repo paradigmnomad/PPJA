@@ -1,0 +1,70 @@
+{
+    "Name": "Bear Donut",
+    "Description": "It's shaped like a bear! How cute!",
+    "Category": "Cooking",
+    "Edibility": 66,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 725,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Jodi"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Harvey", "Jas", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["George", "Leah", "Sebastian"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Chocolate",
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2725,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "NameLocalization":
+    {
+        "es": "Dona con forma de oso",
+        "ko": "곰돌이 도넛",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Donut de urso",
+         // "ru": "",
+         // "tr": "",
+        "zh": "小熊甜甜圈",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Tiene forma de oso! ¡Que lindo!",
+        "ko": "곰돌이 모양의 도넛!귀엽죠!",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Tem a forma de um urso! Que fofinho!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "小熊甜甜圈。它有着萌萌的熊耳形状！超可爱！",
+    }
+}

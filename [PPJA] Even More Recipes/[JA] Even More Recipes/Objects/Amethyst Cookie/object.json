@@ -1,0 +1,67 @@
+{
+    "Name": "Amethyst Cookie",
+    "Description": "A sparkling cookie with a unique crunch.",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 400,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Leah"],
+        "Dislike": ["Krobus", "Leah", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 66,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Galleta de amatista",
+        "ko": "자수정 쿠키",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Biscoito de ametista",
+         // "ru": "",
+         // "tr": "",
+        "zh": "紫水晶饼干",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una galleta chispeante con un crujido único.",
+        "ko": "독특한 크런치가 있는 스파클링 쿠키.",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Um biscoito brilhante com uma crocancia única.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "紫水晶饼干。一块闪闪发光的饼干，咬下去有着咔嘣脆的声音。",
+    }
+}

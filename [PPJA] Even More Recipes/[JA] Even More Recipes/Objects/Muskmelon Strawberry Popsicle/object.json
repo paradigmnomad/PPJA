@@ -1,0 +1,59 @@
+{
+    "Name": "Muskmelon Strawberry Popsicle",
+    "Description": "A fruity tasting, summer popsicle.",
+    "Category": "Cooking",
+    "Edibility": 24,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 650,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Muskmelon",
+            "Count": 1,
+        },
+        {
+            "Object": 400,
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1000,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Paleta de fresa y melón musk",
+        "ko": "머스크 멜론 딸기 팝시클",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Picolé de Morango com Melão",
+         // "ru": "",
+         // "tr": "",
+        "zh": "甜瓜草莓冰棒",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Paleta veraniega, una degustación frutal.",
+        "ko": "과일 맛이 나는 여름 아이스 캔디.",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Uma degustação de frutas, picolé de verão.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "甜瓜草莓冰棒。水果味的夏日冰棒。",
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Name": "Pig Donut",
+    "Description": "A cute donut shaped like a pig!",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 800,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Sebastian"],
+        "Dislike": ["Krobus", "Willy"],
+        "Hate": ["Maru"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": 430,
+                "Count": 1,
+            },
+
+            {
+                "Object": 246,
+                "Count": 1,
+            },
+            {
+                "Object": 245,
+                "Count": 1,
+            },
+            {
+                "Object": -5,
+                "Count": 1,
+            }
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2800,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Dona cerdina",
+        "ko": "돼지 도넛",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Donut de porquinho",
+         // "ru": "",
+         // "tr": "",
+        "zh": "小猪甜甜圈",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una linda dona con forma de cerdo!",
+        "ko": "돼지 모양의 귀여운 도넛!",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Uma rosquinha fofa em formato de porco!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "小猪甜甜圈。一个超可爱的形似小猪的甜甜圈！",
+    }
+}

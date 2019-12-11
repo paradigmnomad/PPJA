@@ -1,0 +1,53 @@
+{
+    "Name": "Hardboiled Egg",
+    "Description": "They're great for deviled eggs, egg salad, or just eating plain with a sprinkle of salt.",
+    "Category": "Cooking",
+    "Edibility": 18,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 35,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": -5,
+            "Count": 1,
+        }],
+        "IsDefault": true,
+    },
+    "NameLocalization":
+    {
+        "es": "Huevo duro",
+        "ko": "삶은 계란",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Ovo Cozido",
+         // "ru": "",
+         // "tr": "",
+        "zh": "水煮蛋",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Son excelentes para los huevos rellenos, la ensalada de huevo o simplemente para comer con un poco de sal.",
+        "ko": "데블드 에그, 계란 샐러드, 또는 소금을 뿌린 평범한 요리와 먹기에 좋습니다.",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Eles são ótimos para ovos recheados, salada de ovos ou apenas para se comer com uma pitada de sal.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "水煮蛋。它们经常被用于辛辣鸡蛋，鸡蛋沙拉，或者仅仅只是直接撒上一点盐。",
+    }
+}

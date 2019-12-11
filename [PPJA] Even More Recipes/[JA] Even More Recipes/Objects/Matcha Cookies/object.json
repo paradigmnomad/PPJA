@@ -1,0 +1,68 @@
+{
+    "Name": "Matcha Cookies",
+    "Description": "These green cookies are suprisingly delicious.",
+    "Category": "Cooking",
+    "Edibility": 6,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Matcha Powder",
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 525,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Galletas de matcha",
+        "ko": "말차 쿠키",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Biscoitos de Matcha",
+         // "ru": "",
+         // "tr": "",
+        "zh": "抹茶饼干",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Estas galletas verdes son sorprendentemente deliciosas!",
+        "ko": "이 녹색 쿠키는 놀랄만큼 맛있어요.",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Esses biscoitos verdes são surpreendentemente deliciosos.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "抹茶饼干。这些绿色的饼干竟然出奇的好吃。",
+    }
+}

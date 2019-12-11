@@ -1,0 +1,58 @@
+{
+    "Name": "Caramel",
+    "Description": "Buttery and sweet, it's commonly used in candies and treats.",
+    "Category": "Cooking",
+    "Edibility": 66,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 535,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["George", "Harvey", "Sebastian"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }],
+        "IsDefault": true,
+    },
+    "NameLocalization":
+    {
+        "es": "Caramelo",
+        "ko": "캐러멜",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Caramelo",
+         // "ru": "",
+         // "tr": "",
+        "zh": "焦糖",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Mantecoso y dulce, se usa comúnmente en dulces y golosinas.",
+        "ko": "버터 같은 달콤함! 사탕과 간식에 흔히 사용돼요.",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Amanteigado e doce, é comumente usado em doces e guloseimas.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "焦糖。甜甜的，它经常被用于各种甜点和餐点中。",
+    }
+}

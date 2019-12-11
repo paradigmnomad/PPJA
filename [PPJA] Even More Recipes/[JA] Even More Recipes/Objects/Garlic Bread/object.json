@@ -1,0 +1,66 @@
+{
+    "Name": "Garlic Bread",
+    "Description": "Buttery garlic bread. Serve it with dinner.",
+    "Category": "Cooking",
+    "Edibility": 58,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 445,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Sebastian"],
+        "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
+        "Hate": ["Evelyn", "Pierre"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 248,
+            "Count": 1,
+        },
+        {
+            "Object": 216,
+            "Count": 1,
+        },
+        {
+            "Object": "Butter",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2445,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Pan de ajo",
+        "ko": "마늘 빵",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Pão de alho",
+         // "ru": "",
+         // "tr": "",
+        "zh": "大蒜面包",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Pan de ajo mantecoso. Servirlo en la cena.",
+        "ko": "버터가 들어간 마늘 빵. 저녁 식사와 함께 제공됩니다.",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Pão de alho amanteigado. Sirva junto do jantar.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "大蒜面包。抹上黄油的大蒜面包，经常在晚餐中食用。",
+    }
+}

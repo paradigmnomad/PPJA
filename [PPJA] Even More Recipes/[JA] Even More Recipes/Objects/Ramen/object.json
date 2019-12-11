@@ -1,0 +1,64 @@
+{
+    "Name": "Ramen",
+    "Description": "A simple dish with slightly chewy noodles.",
+    "Category": "Cooking",
+    "Edibility": 88,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 200,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Sam", "Shane"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 152,
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 450,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Ramen",
+        "ko": "라면",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Miojo",
+         // "ru": "",
+         // "tr": "",
+        "zh": "拉面",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un plato sencillo con fideos ligeramente masticables.",
+        "ko": "쫄깃쫄깃한 면 요리.",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Um prato simples com macarrão levemente mastigável.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "拉面。一份简单的菜肴。",
+    }
+}

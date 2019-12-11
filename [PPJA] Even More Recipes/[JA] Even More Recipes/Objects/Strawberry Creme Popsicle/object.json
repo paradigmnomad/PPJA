@@ -1,0 +1,65 @@
+{
+    "Name": "Strawberry Creme Popsicle",
+    "Description": "Strawberry goodness on a stick!",
+    "Category": "Cooking",
+    "Edibility": 44,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 620,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Wizard"],
+        "Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
+        "Dislike": ["Krobus", "Sebastian", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 400,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1000,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Paleta de crema de fresa",
+        "ko": "딸기 크림 팝시클",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Picolé de creme de morango",
+         // "ru": "",
+         // "tr": "",
+        "zh": "草莓奶油雪糕",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Paleta con un sabor cremoso!",
+        "ko": "막대기에 매달린 딸기 맛!",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Um morango suculento no palito!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "草莓奶油雪糕。草莓的精华都在这根雪糕上！",
+    }
+}

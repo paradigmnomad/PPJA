@@ -1,0 +1,72 @@
+{
+    "Name": "Chocolate Roll Cake",
+    "Description": "It's topped with a strawberry.",
+    "Category": "Cooking",
+    "Edibility": 94,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 905,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Harvey", "Krobus", "Sebastian", "Willy"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Chocolate",
+            "Count": 1,
+        },
+        {
+            "Object": 400,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2905,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "NameLocalization":
+    {
+        "es": "Pastel enrollado de chocolate",
+        "ko": "초콜릿 롤 케이크",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Rocambole de chocolate",
+         // "ru": "",
+         // "tr": "",
+        "zh": "巧克力蛋糕卷",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Con una fresa encima.",
+        "ko": "딸기가 장식된 케이크.",
+         // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+        "pt": "Tem um morango no topo.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "巧克力蛋糕卷。上面点缀着草莓。",
+    }
+}
