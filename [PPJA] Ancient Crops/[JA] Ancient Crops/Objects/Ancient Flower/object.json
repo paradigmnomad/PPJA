@@ -39,4 +39,8 @@
         //"tr": "",
         "zh": "这朵花是古代送给亲人的礼物"
     },
+    "ContextTags": [
+        "color_red",
+        "flower_item"
+    ]
 }

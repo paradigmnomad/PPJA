@@ -39,4 +39,8 @@
         //"tr": "",
         "zh": "不像普通牛奶的味道"
     },
+    "ContextTags": [
+        "color_yellow"
+        "milk_item"
+    ]
 }

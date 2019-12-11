@@ -39,4 +39,9 @@
         //"tr": "",
         "zh": "一种蕨类植物，能开出美丽而有品味的花。"
     },
+    "ContextTags": [
+        "color_green",
+        "color_yellow",
+        "flower_item"
+    ]
 }

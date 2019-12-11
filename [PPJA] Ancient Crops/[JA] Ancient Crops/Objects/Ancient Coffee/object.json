@@ -54,4 +54,8 @@
         //"tr": "",
         "zh": "喝了再也睡不着了吧？"
     },
+    "ContextTags": [
+        "color_dark_brown",
+        "drink_item"
+    ]
 }

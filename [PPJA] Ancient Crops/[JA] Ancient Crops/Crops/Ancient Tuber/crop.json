@@ -45,5 +45,11 @@
         //"ru": "",
         //"tr": "",
         "zh": "在春天、夏天或秋天种植一种古老的块茎。成熟需要20天，并有机会在收获多个块茎。"
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "season_fall",
+        "seed_item"
+    ]
 }

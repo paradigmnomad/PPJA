@@ -45,5 +45,11 @@
         //"ru": "",
         //"tr": "",
         "zh": "在春季、夏季或秋季种植一种古老的橄榄植物。成熟需要46天，并在第一次收获后继续生产。"
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "season_fall",
+        "seed_item"
+    ]
 }

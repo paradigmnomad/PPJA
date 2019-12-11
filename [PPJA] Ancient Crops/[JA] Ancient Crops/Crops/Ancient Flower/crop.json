@@ -49,5 +49,11 @@
         //"ru": "",
         //"tr": "",
         "zh": "春天种植。花8天的时间才能开花。"
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "season_fall",
+        "seed_item"
+    ]
 }

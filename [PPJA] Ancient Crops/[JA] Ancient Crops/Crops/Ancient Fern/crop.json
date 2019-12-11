@@ -45,5 +45,11 @@
         //"ru": "",
         //"tr": "",
         "zh": "在春天、夏天或秋天种植一种古老的蕨类植物。成熟需要30天，并在第一次收获后继续生产。"
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "season_fall",
+        "seed_item"
+    ]
 }
