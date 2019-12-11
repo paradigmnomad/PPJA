@@ -49,6 +49,6 @@
         "pt": "Plante-as no outono. Demora 10 dias para amadurecer e continua produzindo após a primeira colheita.",
          // "ru": "",
          // "tr": "",
-        "zh": "秋天播种。10天成熟，收获之后还能继续结果。",
+        "zh": "秋天播种。10天成熟，在第一次收获后循环生产。",
     }
 }
