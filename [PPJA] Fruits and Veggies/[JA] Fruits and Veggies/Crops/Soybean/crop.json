@@ -6,7 +6,7 @@
     "Type": "Vegetable",
 
     "Seasons": ["fall"],
-    "Phases": [1, 2, 3, 2, 1, ],
+    "Phases": [1, 2, 3, 2, 2, ],
     "RegrowthPhase": 5,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
