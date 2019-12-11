@@ -22,7 +22,7 @@
         "pt": "Muda de canela",
          // "ru": "",
          // "tr": "",
-        "zh": "肉桂树苗Sapling",
+        "zh": "肉桂树苗",
     },
     "SaplingDescriptionLocalization":
     {
@@ -36,6 +36,6 @@
         "pt": "Demora até 28 dias para produzir uma árvore de canela madura. Dá frutas no inverno. Só cresce se os 8 espaços adjacentes estiverem vazios.",
          // "ru": "",
          // "tr": "",
-        "zh": "28天成熟为成年肉桂树。冬天成熟。只有在附近8块地块都空置的情况下才会成长。",
+        "zh": "28天成熟为成年肉桂树。冬天结果。只有在附近8块地块都空置的情况下才会成长。",
     }
 }

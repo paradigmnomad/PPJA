@@ -44,7 +44,7 @@
         "pt": "Sanduíche de manteiga de amendoim e geleia",
          // "ru": "",
          // "tr": "",
-        "zh": "三明治配花生酱和果酱",
+        "zh": "花生酱果酱三明治",
     },
     "DescriptionLocalization":
     {
@@ -58,6 +58,6 @@
         "pt": "O sanduíche clássico.",
          // "ru": "",
          // "tr": "",
-        "zh": "三明治配花生酱和果酱。经典的三明治。",
+        "zh": "花生酱果酱三明治。经典的三明治。",
     }
 }

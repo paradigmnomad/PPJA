@@ -20,7 +20,7 @@
         "pt": "Muda de baunilha",
          // "ru": "",
          // "tr": "",
-        "zh": "香草树苗Sapling",
+        "zh": "香荚兰树苗",
     },
     "SaplingDescriptionLocalization":
     {
@@ -34,6 +34,6 @@
         "pt": "Demora até 28 dias para produzir uma árvore de baunilha madura. Dá frutas na primavera. Só cresce se os 8 espaços adjacentes estiverem vazios.",
          // "ru": "",
          // "tr": "",
-        "zh": "香草树苗。28天成熟为成年香草树。春天成熟。只有在附近8块地块都空置的情况下才会成长。",
+        "zh": "香荚兰树苗。28天成熟为成年香荚兰树。春天开花。只有在附近8块地块都空置的情况下才会成长。",
     }
 }
