@@ -46,7 +46,7 @@
         "pt": "Chá azul da névoa",
          // "ru": "",
          // "tr": "",
-        "zh": "蓝雾茶",
+        "zh": "蓝雾花茶",
     },
     "DescriptionLocalization":
     {
@@ -60,7 +60,7 @@
         "pt": "Um chá levemente doce feito de flores de névoa azul.",
          // "ru": "",
          // "tr": "",
-        "zh": "蓝雾茶。一种由蓝雾制成的轻微甜味的茶。",
+        "zh": "蓝雾花茶。一种由蓝雾花制成的带有轻微甜味的茶。",
     },
     "ContextTags": [
         "color_blue",

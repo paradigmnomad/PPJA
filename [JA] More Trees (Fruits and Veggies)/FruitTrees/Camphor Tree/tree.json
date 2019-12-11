@@ -22,7 +22,7 @@
         "pt": "Muda de canforeira",
          // "ru": "",
          // "tr": "",
-        "zh": "樟脑树苗Sapling",
+        "zh": "樟脑树苗",
     },
     "SaplingDescriptionLocalization":
     {
@@ -36,6 +36,6 @@
         "pt": "Demora até 28 dias para produzir uma canforeira madura. Dá frutas no inverno. Só cresce se os 8 espaços adjacentes estiverem vazios.",
          // "ru": "",
          // "tr": "",
-        "zh": "樟脑树苗。28天成熟为成年樟脑树。冬天成长。只有在附近8块地块都空置的情况下才会成长。",
+        "zh": "樟脑树苗。28天成熟为成年樟脑树。冬天产叶。只有在附近8块地块都空置的情况下才会成长。",
     }
 }

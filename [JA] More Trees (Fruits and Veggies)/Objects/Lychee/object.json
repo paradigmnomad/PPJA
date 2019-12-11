@@ -24,7 +24,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "荔枝",
     },
     "DescriptionLocalization":
     {
@@ -38,7 +38,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "果皮粗糙，不能吃，但果肉很甜。",
     },
     "ContextTags": [
         "season_summer",

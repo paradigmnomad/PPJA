@@ -22,7 +22,7 @@
         "pt": "Muda de eucalipto",
          // "ru": "",
          // "tr": "",
-        "zh": "桉树树苗Sapling",
+        "zh": "桉树树苗",
     },
     "SaplingDescriptionLocalization":
     {
@@ -36,6 +36,6 @@
         "pt": "Demora até 28 dias para produzir uma árvore de eucalipto madura. Dá frutas na primavera. Só cresce se os 8 espaços adjacentes estiverem vazios.",
          // "ru": "",
          // "tr": "",
-        "zh": "28天成熟为成年桉树。春天结果。只有在附近8块地块都空置的情况下才会成长。",
+        "zh": "28天成熟为成年桉树。春天产叶。只有在附近8块地块都空置的情况下才会成长。",
     }
 }
