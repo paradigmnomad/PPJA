@@ -53,7 +53,7 @@
     {
         "es": "Bloody Mary",
         "ko": "블러디 메리",
-        // "de": "",
+        "de": "Bloody Mary",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -67,7 +67,7 @@
     {
         "es": "No lo digas más de una vez.",
         "ko": "한 번 이상 말하지 마세요.",
-        // "de": "",
+        "de": "Sag es nicht mehr als einmal.",
         // "fr": "",
         // "hu": "",
         // "it": "",

@@ -38,10 +38,11 @@
 ],
   },
 
- "NameLocalization": { 
+ "NameLocalization": {
     "es": "Licor de chocolate",
     "ko": "초콜릿 리큐어",
     "ko": "초콜릿에서 추출한 음료.",
+    "de": "Schokoladen Likör",
      // "fr": "",
      // "hu": "",
      // "it": "",
@@ -51,10 +52,10 @@
      // "tr": "",
     "zh": "巧克力利口酒",
   },
- "DescriptionLocalization": { 
+ "DescriptionLocalization": {
     "es": "Una bebida derivada del chocolate.",
      // "ko": "",
-     // "de": "",
+    "de": "Ein Getränk aus Schokolade.",
      // "fr": "",
      // "hu": "",
      // "it": "",

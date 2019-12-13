@@ -46,7 +46,7 @@
     {
         "es": "Americano",
         "ko": "아메리카노",
-        // "de": "",
+        "de": "Amerikaner",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -60,7 +60,7 @@
     {
         "es": "Una bebida amarga que mejora con agua de soda cara.",
         "ko": "비싼 탄산수로 개선되는 쓴 음료.",
-        // "de": "",
+        "de": "Ein bitteres Getränk, das sich mit teurem Sodawasser verbessert",
         // "fr": "",
         // "hu": "",
         // "it": "",

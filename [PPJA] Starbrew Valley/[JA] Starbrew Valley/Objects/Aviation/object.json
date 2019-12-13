@@ -45,7 +45,7 @@
     {
         "es": "Aviación",
         "ko": "어비에이션",
-        // "de": "",
+        "de": "Luftfahrt",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -59,7 +59,7 @@
     {
         "es": "Por favor, coloque las mesas de sus bandejas en posición vertical y bloqueada.",
         "ko": "트레이 테이블을 집어넣고 잘 고정시켜주세요.",
-        // "de": "",
+        "de": "Bitte stellen Sie Ihre Tabletttische in die aufrechte Position",
         // "fr": "",
         // "hu": "",
         // "it": "",
