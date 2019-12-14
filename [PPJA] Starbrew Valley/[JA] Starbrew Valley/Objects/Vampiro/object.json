@@ -55,7 +55,7 @@
     {
         "es": "Vampiro",
         "ko": "뱀파이어",
-        // "de": "",
+        "de": "Vampiro",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -69,7 +69,7 @@
     {
         "es": "Por favor no opere maquinaria pesada bajo la influencia.",
         "ko": "취한 상태로 중장비를 작동시키지 마세요.",
-        // "de": "",
+        "de": "Bitte bedienen Sie keine schweren Maschinen unter dem Einfluss von Vampiro.",
         // "fr": "",
         // "hu": "",
         // "it": "",

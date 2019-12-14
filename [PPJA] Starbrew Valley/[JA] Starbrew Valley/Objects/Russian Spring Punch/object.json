@@ -48,10 +48,10 @@
     "PurchaseRequirements": null,
   },
 
- "NameLocalization": { 
+ "NameLocalization": {
     "es": "Ponche de primavera ruso",
     "ko": "러시안 스프링 펀치",
-     // "de": "",
+     "de": "Russian Spring Punch",
      // "fr": "",
      // "hu": "",
      // "it": "",
@@ -61,10 +61,10 @@
      // "tr": "",
     "zh": "俄罗斯之春",
   },
- "DescriptionLocalization": { 
+ "DescriptionLocalization": {
     "es": "Servir con hielo.",
     "ko": "얼음과 같이 드세요.",
-     // "de": "",
+    "de": "Auf Eis servieren",
      // "fr": "",
      // "hu": "",
      // "it": "",

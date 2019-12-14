@@ -49,7 +49,7 @@
     {
         "es": "Café irlandés",
         "ko": "아이리시 커피",
-        // "de": "",
+        "de": "Irish Coffee",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -63,7 +63,7 @@
     {
         "es": "¿Alguna petición? La entregaremos.",
         "ko": "요구사항이 있나요? 들어드릴게요.",
-        // "de": "",
+        "de": "Haben Sie eine Anfrage? Ich werde liefern.",
         // "fr": "",
         // "hu": "",
         // "it": "",

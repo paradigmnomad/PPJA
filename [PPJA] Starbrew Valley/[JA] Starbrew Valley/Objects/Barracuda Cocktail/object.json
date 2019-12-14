@@ -53,7 +53,7 @@
     {
         "es": "Cóctel Barracuda",
         "ko": "바라쿠다 칵테일",
-        // "de": "",
+        "de": "Barracuda-Cocktail",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -67,7 +67,7 @@
     {
         "es": "No, esto no es una bebida a pescado.",
         "ko": "비린 음료가 아니에요.",
-        // "de": "",
+        "de": "Nein, das ist kein Fischhaltiges Getränk",
         // "fr": "",
         // "hu": "",
         // "it": "",
