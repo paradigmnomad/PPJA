@@ -16,7 +16,7 @@
     "NameLocalization":
     {
         "es": "Hinojo",
-        "ko": "펜넬",
+        "ko": "회향",
         "de": "Fenchel",
          // "fr": "",
          // "hu": "",
@@ -30,7 +30,7 @@
     "DescriptionLocalization":
     {
         "es": "¡Una planta que se puede comer como un vegetal!",
-        "ko": "향이 강한 채소의 하나, 씨앗과 잎도 요리에 쓰입니다.",
+        "ko": "야채로 먹을 수 있습니다!",
         "de": "Eine Pflanze die als Tee und Gewürz zum Einsatz kommt!",
          // "fr": "",
          // "hu": "",

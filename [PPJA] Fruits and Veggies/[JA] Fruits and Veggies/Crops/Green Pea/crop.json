@@ -25,7 +25,7 @@
     "SeedNameLocalization":
     {
         "es": "Semillas de Guisantes verdes",
-        "ko": "녹두 씨앗",
+        "ko": "그린 피스 종자",
         "de": "Grüne Erbsen-Saat",
          // "fr": "",
          // "hu": "",
@@ -39,7 +39,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plántalas en verano. Toma 8 días para madurar, pero sigue produciendo después de eso. Crece en una espaldera.",
-        "ko": "여름 작물. 성장하려면 8일이 소요되며, 수확한 후에도 계속 생산됩니다.",
+        "ko": "여름 작물. 성장하려먼 8일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다. 격자 구조물에 감겨 자랍니다.",
         "de": "Pflanzen sie im Sommer. Wächst in 8 Tagen heran, kann aber danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
          // "fr": "",
          // "hu": "",
