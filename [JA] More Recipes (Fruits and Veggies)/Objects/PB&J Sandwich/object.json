@@ -35,7 +35,7 @@
     "NameLocalization":
     {
         "es": "Sándwich de mantequilla de maní y jalea",
-        "ko": "땅콩버터&젤리 샌드위치",
+        "ko": "땅콩버터 젤리 샌드위치",
         "de": "PB&J Sandwich",
          // "fr": "",
          // "hu": "",
@@ -49,7 +49,7 @@
     "DescriptionLocalization":
     {
         "es": "Un bocadillo clásico.",
-        "ko": "클래식 샌드위치.",
+        "ko": "클래식한 샌드위치.",
         "de": "Der Klassiker unter den Sandwiches.",
          // "fr": "",
          // "hu": "",

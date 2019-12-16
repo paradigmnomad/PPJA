@@ -25,7 +25,7 @@
     "SeedNameLocalization":
     {
         "es": "Semillas de grosella",
-        "ko": "구즈베리 씨앗",
+        "ko": "구스베리 씨앗",
         "de": "Stachelbeeren-Saat",
          // "fr": "",
          // "hu": "",
@@ -39,7 +39,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plántalas en verano. Toma 13 días para madurar, continua produciendo después de la primera cosecha.",
-        "ko": "여름 작물. 성장하려면 13일이 소요되며, 수확한 후에도 계속 생산됩니다.",
+        "ko": "여름 작물. 성장하려면 13일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
         "de": "Pflanzen sie im Sommer. Wächst in 13 Tagen heran, kann aber danach mehrmals geerntet werden.",
          // "fr": "",
          // "hu": "",

@@ -9,7 +9,7 @@
     "NameLocalization":
     {
         "es": "Veneno seco",
-        "ko": "드라이 포이즌",
+        "ko": "말린 독",
         "de": "Getrocknetes Gift",
          // "fr": "",
          // "hu": "",
@@ -23,7 +23,7 @@
     "DescriptionLocalization":
     {
         "es": "Una pequeña bolsa llena de flores secas que se sabe que son venenosas. Utilizar con precaución.",
-        "ko": "독성이 있는 것으로 알려진 말린 꽃으로 가득 찬 작은 가방. 조심해서 사용하자.",
+        "ko": "독성이 있는 마른 꽃으로 가득한 주머니. 조심해서 사용하세요.",
         "de": "Eine kleine Tüte mit getrockneten Blumen, von denen bekannt ist, dass sie giftig sind. Mit Vorsicht verwenden.",
          // "fr": "",
          // "hu": "",

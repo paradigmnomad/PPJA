@@ -51,7 +51,7 @@
     "NameLocalization":
     {
         "es": "Té de limón",
-        "ko": "레몬 차",
+        "ko": "레몬 티",
         "de": "Zitronentee",
          // "fr": "",
          // "hu": "",
@@ -65,7 +65,7 @@
     "DescriptionLocalization":
     {
         "es": "Té endulzado con limón.",
-        "ko": "달콤한 차와 레몬.",
+        "ko": "레몬을 넣어 달콤하게 만든 차.",
         "de": "Gesüßter Tee mit Zitrone.",
          // "fr": "",
          // "hu": "",

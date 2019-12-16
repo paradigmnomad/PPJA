@@ -8,7 +8,7 @@
   "Recipe": null,
   "NameLocalization": { 
     "es": "Frituras de verduras",
-    "ko": "채소 칩",
+    "ko": "야채 칩",
     "de": "Gemüse-Chips",
      // "fr": "",
      // "hu": "",
@@ -21,7 +21,7 @@
      },
  "DescriptionLocalization": { 
     "es": "Una bolsa con trozos de vegetales fritos.",
-    "ko": "말린 채소 칩으로 가득한 한 봉지.",
+    "ko": "말린 야채 한 봉지.",
     "de": "Eine Tüte mit getrockneten Gemüsestücken.",
      // "fr": "",
      // "hu": "",

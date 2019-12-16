@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Lechuga",
-        "ko": "상추",
+        "ko": "양상추",
         "de": "Salat",
          // "fr": "",
          // "hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Acuoso. Es la base para ensaladas en todo el mundo.",
-        "ko": "수분이 많으며, 대체적으로 샐러드의 기본입니다.",
+        "ko": "수분이 많습니다. 전 세계 샐러드 기본으로써 이용됩니다.",
         "de": "Wasserhaltig. Grundlage vieler Salate, weltweit.",
          // "fr": "",
          // "hu": "",

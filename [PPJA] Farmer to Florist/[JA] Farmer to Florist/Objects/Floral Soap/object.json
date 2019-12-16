@@ -8,7 +8,7 @@
   "Recipe": null,
   "NameLocalization": { 
     "es": "Jabón floral",
-    "ko": "비누 꽃",
+    "ko": "플로럴 비누",
     "de": "Blumenseife",
      // "fr": "",
      // "hu": "",
@@ -21,7 +21,7 @@
      },
  "DescriptionLocalization": { 
     "es": "Una barra de jabón que huele a flores. Ha sido amarrado con un lazo.",
-    "ko": "꽃냄새가 나는 비누. 리본으로 이쁘게 장식되어 있다.",
+    "ko": "꽃냄새가 나는 비누.",
     "de": "Ein Stück Seife, das nach Blumen riecht. Es ist mit einem Bogen verkleidet worden.",
      // "fr": "",
      // "hu": "",
