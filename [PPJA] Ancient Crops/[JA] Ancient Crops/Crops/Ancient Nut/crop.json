@@ -20,7 +20,7 @@
     "CanPurchase": false,
     "SeedNameLocalization":
     {
-        //"es": "",
+        "es": "Semillas de Nuez Antigua",
         //"ko": "",
         //"de": "",
         //"fr": "",
@@ -34,7 +34,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        //"es": "",
+        "es": "Plantalas en primavera, verano u otoño para cultivar una antigua planta de nuez. Tarda 40 días en madurary continúa produciendo luego de la primer cosecha.",
         //"ko": "",
         //"de": "",
         //"fr": "",

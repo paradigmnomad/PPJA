@@ -20,7 +20,7 @@
     "CanPurchase": false,
     "SeedNameLocalization":
     {
-        //"es": "",
+        "es": "Semillas de Helecho Antiguas",
         //"ko": "",
         //"de": "",
         //"fr": "",
@@ -34,7 +34,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        //"es": "",
+        "es": "Plantalo en primavera, verano u otoño para cultivar un helecho antiguo. Tarda 30 días en madurar y continúa produciendo luego de la primer cosecha.",
         //"ko": "",
         //"de": "",
         //"fr": "",
