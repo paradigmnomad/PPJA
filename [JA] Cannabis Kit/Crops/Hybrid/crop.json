@@ -25,7 +25,7 @@
     ],
     "SeedNameLocalization":
     {
-         // "es": "",
+         "es": "Iniciador de Híbrido",
          // "ko": "",
          "de": "Hybrid",
          // "fr": "",
@@ -39,7 +39,7 @@
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+         "es": "Plantalo en el verano o otoño. Tarda 13 días en madurar, continua produciendo cada 3 días.",
          // "ko": "",
          "de": "Pflanzen Sie diese im Sommer oder Herbst. Die Reifezeit beträgt 13 Tage, danach wird die Produktion alle 3 Tage fortgesetzt.",
          // "fr": "",

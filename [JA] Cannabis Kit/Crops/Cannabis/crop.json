@@ -24,7 +24,7 @@
     ],
     "SeedNameLocalization":
     {
-         // "es": "",
+         "es": "Iniciador de Cannabis",
          // "ko": "",
          "de": "Cannabis",
          // "fr": "",
@@ -38,7 +38,7 @@
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+         "es": "Platalos en la primavera, verano o otoño. Tarda 12 días en madurar, continúa produciendo cada 4 días.",
          // "ko": "",
          "de": "Pflanzen Sie diese im Frühjahr, Sommer oder Herbst. Die Reifezeit beträgt 12 Tage. Danach wird die Produktion alle 4 Tage fortgesetzt.",
          // "fr": "",

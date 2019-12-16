@@ -20,7 +20,7 @@
     "SeedPurchasePrice": 30,
     "SeedNameLocalization":
     {
-         // "es": "",
+         "es": "Semillas de Tabaco",
          // "ko": "",
          "de": "Tabak",
          // "fr": "",
@@ -34,7 +34,7 @@
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+         "es": "Plantalas en la primavera o verano, tardan 7 días en madurar.",
          // "ko": "",
          "de": "Pflanzen Sie diese im Frühjahr oder Sommer. Die Reifung dauert 7 Tage.",
          // "fr": "",

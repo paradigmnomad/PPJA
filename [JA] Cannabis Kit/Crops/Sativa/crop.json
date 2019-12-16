@@ -24,7 +24,7 @@
     ],
     "SeedNameLocalization":
     {
-         // "es": "",
+         "es": "Iniciador de Sativa",
          // "ko": "",
          "de": "Sativa",
          // "fr": "",
@@ -38,7 +38,7 @@
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+         "es": "Plantalos en el otoño. Tarda 13 días en madurar, continua produciendo cada 3 días.",
          // "ko": "",
          "de": "Pflanzen Sie diese im Herbst. Die Reifezeit beträgt 13 Tage, danach wird die Produktion alle 3 Tage fortgesetzt.",
          // "fr": "",

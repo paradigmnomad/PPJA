@@ -24,7 +24,7 @@
     ],
     "SeedNameLocalization":
     {
-        // "es": "",
+        "es": "Iniciador de cañamo",
         // "ko": "",
         "de": "Hanf",
         // "fr": "",
@@ -38,7 +38,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        // "es": "",
+        "es": "Plantalo en la primavera, verano o otoño. Tarda 8 días en madurar, luego continua produciendo cada 2 días.",
         // "ko": "",
         "de": "Pflanzen Sie diese im Frühjahr, Sommer oder Herbst. Die Reifezeit beträgt 8 Tage. Danach wird die Produktion alle 2 Tage fortgesetzt.",
         // "fr": "",

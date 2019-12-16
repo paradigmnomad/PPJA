@@ -42,7 +42,7 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+         "es": "Porro",
          // "ko": "",
          "de": "Joint",
          // "fr": "",
@@ -56,7 +56,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+         "es": "También Podrías...",
          // "ko": "",
          "de": "Warum nicht",
          // "fr": "",
