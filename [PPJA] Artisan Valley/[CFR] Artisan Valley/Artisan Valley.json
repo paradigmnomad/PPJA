@@ -3035,7 +3035,27 @@
             }
           ],
           "conditions": "hasmod MythicPhoenix.BFAV.Firebirds"
-        }
+        },
+        {
+          "item": "Quail Mayonnaise",
+          "time": 360,
+          "materials": [
+            {
+              "name": "Quail Egg"
+            }
+          ],
+          "conditions": "hasmod Lavapulse.QuailProducts"
+        },
+        {
+          "item": "Quail Mayonnaise",
+          "time": 360,
+          "materials": [
+            {
+              "name": "Large Quail Egg"
+            }
+          ],
+          "conditions": "hasmod Lavapulse.QuailProducts"
+        },
       ]
     },
     {
