@@ -25,7 +25,7 @@
     "SeedNameLocalization":
     {
         "es": "Iniciador de Indica",
-        // "ko": "",
+        "ko": "인디카",
         "de": "Indica",
         // "fr": "",
         // "hu": "",
@@ -39,7 +39,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plantalo en el verano. Tarda 13 días en madurar, continua produciendo cada 3 días.",
-        // "ko": "",
+        "ko": "여름에 심으세요. 성숙 기간은 13일이며, 그 후 생산은 3일마다 계속된다.",
         "de": "Pflanzen Sie diese im Sommer. Die Reifezeit beträgt 13 Tage, danach wird die Produktion alle 3 Tage fortgesetzt.",
         // "fr": "",
         // "hu": "",
