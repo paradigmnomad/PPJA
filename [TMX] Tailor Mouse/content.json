@@ -3145,8 +3145,8 @@
                 "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
             },
         ],
-        /*"portraits": [
+        "portraits": [
             "assets/PortraitMouse.png",
-        ],*/
+        ],
     }, ],
 }
