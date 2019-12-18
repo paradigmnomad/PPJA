@@ -1,0 +1,3152 @@
+{
+    "mergeMaps": [
+    {
+        "name": "Forest", // Map to merge into
+        "file": "assets/clothingstand.tmx",
+        "sourceArea": [0, 0, 4, 5],
+        "position": [48, 66], // Position were the new Content should be placed on the map (x, y)
+        //"Conditions": "e 404798",
+        "RemoveEmpty": false,
+    }, ],
+    "shops": [
+    {
+        "id": "ClothingStand",
+        "inventory": [
+
+            // Missy's Shirts
+
+            {
+                "name": "MissyShirts-Shirt1",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt2",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt3",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt4",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt5",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt6",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt7",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt8",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt9",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt10",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt11",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt12",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt13",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt14",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt15",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt16",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt17",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt18",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt19",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt20",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt21",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt22",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt23",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt24",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt25",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt26",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt27",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt28",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt29",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt30",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt31",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt32",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt33",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt34",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt35",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt36",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt37",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt38",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt39",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt40",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt41",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt42",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt43",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt44",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt45",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt46",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt47",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt48",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt49",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt50",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt51",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt52",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt53",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt54",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt55",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt56",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt57",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt58",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt59",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt60",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt61",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt62",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt63",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt64",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt65",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt66",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt67",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt68",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt69",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt70",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt71",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt72",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt73",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt74",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt75",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt76",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt77",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt78",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt79",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt80",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt81",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt82",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt83",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt84",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt85",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt86",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt87",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt88",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt89",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt90",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt91",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt92",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt93",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt94",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt95",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt96",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt97",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt98",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt99",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt100",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt101",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt102",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt103",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt104",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt105",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt106",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt107",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt108",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt109",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt110",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt111",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt112",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt113",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt114",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt115",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt116",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt117",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt118",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt119",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt120",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt121",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt122",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt123",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt124",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt125",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt126",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt127",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt128",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt129",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt130",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt131",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt132",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt133",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt134",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt135",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt136",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt137",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt138",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt139",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt140",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt141",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt142",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt143",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt144",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt145",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt146",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt147",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt148",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt149",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt150",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt151",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt152",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt153",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt154",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt155",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt156",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt157",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt158",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt159",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "MissyShirts-Shirt160",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('missy.shirtsja') and math.random() <= .1"
+            },
+
+            // BB Shirts
+
+            {
+                "name": "BB-Shirt1",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt2",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt3",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt4",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt5",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt6",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt7",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt8",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt9",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt10",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt11",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt12",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt13",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt14",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt15",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt16",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt17",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt18",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt19",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt20",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt21",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt22",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt23",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt24",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt25",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt26",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt27",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt28",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt29",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt30",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt31",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt32",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt33",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt34",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt35",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt36",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt37",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt38",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt39",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt40",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt41",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt42",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt43",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt44",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt45",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt46",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt47",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt48",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt49",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt50",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt51",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt52",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt53",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt54",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt55",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt56",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt57",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt58",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt59",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt60",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt61",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt62",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt63",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+            {
+                "name": "BB-Shirt64",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('bb.shirtsmodja') and math.random() <= .1"
+            },
+
+            // Coii's Clothing
+
+
+            {
+                "name": "CoiisBasicShirts-Shirt1",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt2",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt3",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt4",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt5",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt6",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt7",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt8",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt9",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt10",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt11",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt12",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt13",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt14",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt15",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt16",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt17",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt18",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt19",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt20",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt21",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt22",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt23",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt24",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt25",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt26",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt27",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt28",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt29",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt30",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt31",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt32",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt33",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt34",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt35",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt36",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt37",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt38",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt39",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt40",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt41",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt42",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt43",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt44",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt45",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt46",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt47",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt48",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt49",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt50",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt51",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt52",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt53",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt54",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt55",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt56",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt57",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt58",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt59",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt60",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt61",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt62",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt63",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt64",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt65",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt66",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt67",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt68",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt69",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt70",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt71",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt72",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt73",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt74",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt75",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt76",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt77",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt78",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt79",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt80",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt81",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt82",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt83",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt84",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt85",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt86",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt87",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt88",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt89",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt90",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt91",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt92",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt93",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt94",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt95",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt96",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt97",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt98",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt99",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt100",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt101",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt102",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt103",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt104",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt105",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt106",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt107",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt108",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt109",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt110",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt111",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt112",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt113",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt114",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt115",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt116",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt117",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt118",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt119",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt120",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt121",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt122",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt123",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt124",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt125",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt126",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt127",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt128",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt129",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt130",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt131",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt132",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt133",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt134",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt135",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt136",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt137",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt138",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt139",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt140",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt141",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt142",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt143",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisBasicShirts-Shirt144",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt1",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt2",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt3",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt4",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt5",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt6",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt7",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt8",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt9",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt10",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt11",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt12",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt13",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt14",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt15",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Shirt16",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+            {
+                "name": "CoiisGirlsSet-Pants1",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('coii.shirtsandgirlssetcollectionja') and math.random() <= .1"
+            },
+
+            // Cute Shirts
+
+            {
+                "name": "CuteShirts-Shirt1",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt2",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt3",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt4",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt5",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt6",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt7",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt8",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt9",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt10",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt11",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt12",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt13",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt14",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt15",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt16",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt17",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt18",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt19",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt20",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt21",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt22",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt23",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt24",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt25",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt26",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt27",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt28",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt29",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt30",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt31",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "CuteShirts-Shirt32",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('tacodevourer.cuteshirtsja') and math.random() <= .1"
+            },
+
+            // New Shirts by Alicedafox
+
+            {
+                "name": "NSbyAlicedafox-Shirt1",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt2",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt3",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt4",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt5",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt6",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt7",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt8",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt9",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt10",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt11",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt12",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt13",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt14",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt15",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt16",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt17",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt18",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt19",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt20",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt21",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt22",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt23",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt24",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt25",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt26",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt27",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt28",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt29",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt30",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt31",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt32",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt33",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt34",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt35",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt36",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt37",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt38",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt39",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt40",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt41",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt42",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt43",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt44",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt45",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt46",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt47",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Shirt48",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Pants1",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+            {
+                "name": "NSbyAlicedafox-Pants2",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('alicedafox.newshirtsja') and math.random() <= .1"
+            },
+
+            // Ran's Suits
+            {
+                "name": "RansSuitsandTuxeods-Shirt1",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt2",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt3",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt4",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt5",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt6",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt7",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt8",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt9",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt10",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt11",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt12",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt13",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt14",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt15",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+            {
+                "name": "RansSuitsandTuxeods-Shirt16",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.suitstuxedosja') and math.random() <= .1"
+            },
+
+            // Ran's Wedding & Flower Dance
+
+            {
+                "name": "RansWeddingAttire-Shirt1",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt2",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt3",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt4",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt5",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt6",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt7",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt8",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt9",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt10",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt11",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt12",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt13",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt14",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt15",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Shirt16",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Pants1",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Pants2",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+            {
+                "name": "RansWeddingAttire-Pants3",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('ran.weddingflowerdanceattireja') and math.random() <= .1"
+            },
+
+            // Syd's Plaids
+
+            {
+                "name": "SydsPlaids-Shirt1",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt2",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt3",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt4",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt5",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt6",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt7",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt8",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt9",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt10",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt11",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt12",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt13",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt14",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt15",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+            {
+                "name": "SydsPlaids-Shirt16",
+                "type": "Clothing",
+                "Price": 1000,
+                "conditions": "LC Luau.hasMod('Sydney.SydsPlaidsJA') and math.random() <= .1"
+            },
+        ],
+        /*"portraits": [
+            "assets/PortraitMouse.png",
+        ],*/
+    }, ],
+}
