@@ -25,7 +25,7 @@
     "SeedNameLocalization":
     {
         "es": "Iniciador de cañamo",
-        // "ko": "",
+        "ko": "삼",
         "de": "Hanf",
         // "fr": "",
         // "hu": "",
@@ -39,7 +39,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plantalo en la primavera, verano o otoño. Tarda 8 días en madurar, luego continua produciendo cada 2 días.",
-        // "ko": "",
+        "ko": "봄, 여름이나 가을에 심으세요. 성숙 기간은 8일이며, 그 후 생산은 2일마다 계속된다.",
         "de": "Pflanzen Sie diese im Frühjahr, Sommer oder Herbst. Die Reifezeit beträgt 8 Tage. Danach wird die Produktion alle 2 Tage fortgesetzt.",
         // "fr": "",
         // "hu": "",
