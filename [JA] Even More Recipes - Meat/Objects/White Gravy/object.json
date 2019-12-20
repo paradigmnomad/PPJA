@@ -38,7 +38,7 @@
     {
          // "es": "",
         "ko": "화이트 그레이비 소스",
-         // "de": "Weiße Soße",
+        "de": "Weiße Soße",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -52,9 +52,7 @@
     {
          // "es": "",
         "ko": "맛좋은 짭짤한 그레이비 소스.",
-         // "de": "Eine pikante, pfeffrige Soße.
-
-",
+        "de": "Eine pikante, pfeffrige Soße.",
          // "fr": "",
          // "hu": "",
          // "it": "",

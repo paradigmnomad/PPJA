@@ -41,7 +41,7 @@
     {
         "es": "Caldo de carne",
         "ko": "소고기 육수",
-         // "de": "Rinderbrühe",
+        "de": "Rinderbrühe",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -55,7 +55,7 @@
     {
         "es": "A menudo se usa como base para la sopa.",
         "ko": "수프의 기초로 자주 사용되는 소고기 국물.",
-         // "de": "Gedämpfte Rinderbrühe, die oft als Grundlage für Suppen verwendet wird.",
+        "de": "Gedämpfte Rinderbrühe, die oft als Grundlage für Suppen verwendet wird.",
          // "fr": "",
          // "hu": "",
          // "it": "",
