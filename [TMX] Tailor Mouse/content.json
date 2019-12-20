@@ -4,7 +4,7 @@
         "name": "Forest", // Map to merge into
         "file": "assets/clothingstand.tmx",
         "sourceArea": [0, 0, 4, 5],
-        "position": [48, 66], // Position were the new Content should be placed on the map (x, y)
+        "position": [46, 66], // Position were the new Content should be placed on the map (x, y)
         //"Conditions": "e 404798",
         "RemoveEmpty": false,
     }, ],
