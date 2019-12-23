@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Nut",
     "Product": "Ancient Nut",
     "SeedName": "Ancient Nut Seeds",
@@ -21,7 +21,7 @@
     "SeedNameLocalization":
     {
         "es": "Semillas de Nuez Antigua",
-        //"ko": "",
+        "ko": "고대의 견과류 씨앗",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -35,7 +35,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plantalas en primavera, verano u otoño para cultivar una antigua planta de nuez. Tarda 40 días en madurary continúa produciendo luego de la primer cosecha.",
-        //"ko": "",
+        "ko": "봄, 여름, 또는 가을 작물. 성장하려면 40일 소요되며, 수확한 후에도 계속 작물이 생산됩니다.",
         //"de": "",
         //"fr": "",
         //"hu": "",
