@@ -2,7 +2,7 @@
     "Name": "Sugar Cane",
     "Description": "The cuttings and salks of a sugar cane. It it can be processed into sugar.",
     "Category": "Vegetable",
-    "Edibility": -300,
+    "Edibility": 30,
     "Price": 230,
     "IsColored": false,
     "GiftTastes":

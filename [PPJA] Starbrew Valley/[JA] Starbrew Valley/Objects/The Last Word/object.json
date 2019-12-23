@@ -55,7 +55,7 @@
     {
         "es": "La última palabra",
         "ko": "더 라스트 워드",
-        // "de": "",
+        "de": "Das letzte Wort",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -69,7 +69,7 @@
     {
         "es": "¿Quién recibe la última palabra?",
         "ko": "누가 라스트 워드를 얻을까요?",
-        // "de": "",
+        "de": "Wer hat das letzte Wort?",
         // "fr": "",
         // "hu": "",
         // "it": "",

@@ -20,7 +20,7 @@
     "CanPurchase": false,
     "SeedNameLocalization":
     {
-        //"es": "",
+        "es": "Grano de Cafe Antiguo",
         //"ko": "",
         //"de": "",
         //"fr": "",
@@ -34,7 +34,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        //"es": "",
+        "es": "Plantalo en primavera, verano u otoño para cultivar una antigua planta de cafe. Tarda 32 días en madurar y continúa produciendo luego de la primer cosecha. Coloca 5 granos de cafe antiguo en un barril de madera dura para obtener cafe antiguo.",
         //"ko": "",
         //"de": "",
         //"fr": "",

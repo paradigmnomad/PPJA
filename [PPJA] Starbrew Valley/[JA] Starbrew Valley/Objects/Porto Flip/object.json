@@ -46,10 +46,10 @@
     "PurchaseRequirements": null,
   },
 
- "NameLocalization": { 
+ "NameLocalization": {
     "es": "Porto Flip",
     "ko": "포르토 플립",
-     // "de": "",
+     "de": "Porto Flip",
      // "fr": "",
      // "hu": "",
      // "it": "",
@@ -59,10 +59,10 @@
      // "tr": "",
     "zh": "波菲利普",
   },
- "DescriptionLocalization": { 
+ "DescriptionLocalization": {
     "es": "Te hará querer dar la vuelta.",
     "ko": "뒤집고 싶어 질거에요. ",
-     // "de": "",
+     "de": "Es wird dich dazu bringen, umzudrehen.",
      // "fr": "",
      // "hu": "",
      // "it": "",

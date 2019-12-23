@@ -11,7 +11,7 @@
     "SaplingNameLocalization":
     {
         "es": "Manzano Granny Smith",
-        "ko": "할머니 스미스 묘목",
+        "ko": "그래니 스미스 묘목",
         "de": "Granny Smith Bäumchen (Sapling)",
          // "fr": "",
          // "hu": "",
@@ -25,7 +25,7 @@
     "SaplingDescriptionLocalization":
     {
         "es": "El sabor es agrio y ácido, pero es una buena manzana de repostería.",
-        "ko": "성숙한 할머니 스미스 나무를 생산하는 데 28 일이 걸립니다. 가을에 열매를 맺습니다. 8 개의 주변 타일이 비어있는 경우에만 자랍니다.",
+        "ko": "28일후 성목이 됩니다. 가을에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
         "de": "Die Herstellung eines ausgewachsenen Granny Smith-Baums dauert 28 Tage. Trägt Früchte im Herbst. Wächst nur, wenn die 8 umliegenden Kacheln leer sind.",
          // "fr": "",
          // "hu": "",

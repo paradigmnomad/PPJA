@@ -45,7 +45,7 @@
     {
         "es": "Destornillador",
         "ko": "스크루드라이버",
-        // "de": "",
+        "de": "Schraubenzieher",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -59,7 +59,7 @@
     {
         "es": "Por favor no opere maquinaria pesada bajo influencia de esta bebida.",
         "ko": "취한 상태로 중장비를 작동시키지 마세요.",
-        // "de": "",
+        "de": "Bitte bedienen Sie keine schweren Maschinen unter dem Einfluss von Alkohol",
         // "fr": "",
         // "hu": "",
         // "it": "",

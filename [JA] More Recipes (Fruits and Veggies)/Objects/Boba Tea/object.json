@@ -43,7 +43,7 @@
     "NameLocalization":
     {
         "es": "Té de baba",
-        "ko": "보바티",
+        "ko": "버블티",
         "de": "Boba Tee",
          // "fr": "",
          // "hu": "",
@@ -57,7 +57,7 @@
     "DescriptionLocalization":
     {
         "es": "Un té con leche y perlas de tapioca, tiene un sabor dulce.",
-        "ko": "타피오카 진주를 곁들인 달콤한 맛의 밀크 티.",
+        "ko": "타피오카를 넣은 달콤한 맛의 밀크 티.",
         "de": "Ein süßer aromatisierter Milchtee mit Tapioka-Perlen.",
          // "fr": "",
          // "hu": "",

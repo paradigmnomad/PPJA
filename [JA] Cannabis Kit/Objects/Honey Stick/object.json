@@ -45,9 +45,9 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+         "es": "Palo de Miel",
          // "ko": "",
-         // "de": "",
+         "de": "Honigstangeg",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -59,9 +59,9 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+         "es": "Dulce y pegajosa miela.",
          // "ko": "",
-         // "de": "",
+         "de": "Süßer, klebriger Honig",
          // "fr": "",
          // "hu": "",
          // "it": "",

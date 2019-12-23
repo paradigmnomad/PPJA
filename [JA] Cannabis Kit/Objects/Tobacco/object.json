@@ -8,9 +8,9 @@
     "Recipe": null,
     "NameLocalization":
     {
-         // "es": "",
+         "es": "Tabaco",
          // "ko": "",
-         // "de": "",
+         "de": "Tabak",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -22,9 +22,9 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+         "es": "Una planta que ha sido cultivada para fumar.",
          // "ko": "",
-         // "de": "",
+         "de": "Eine Pflanze, die zu Räucherzwecken kultiviert wurde",
          // "fr": "",
          // "hu": "",
          // "it": "",

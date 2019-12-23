@@ -20,7 +20,7 @@
     "CanPurchase": false,
     "SeedNameLocalization":
     {
-        //"es": "",
+        "es": "Semilla de tubérculo Antiguo",
         //"ko": "",
         //"de": "",
         //"fr": "",
@@ -34,7 +34,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        //"es": "",
+        "es": "Plantalo en primavera, verano u otoño para cultivar un tubérculo antiguo. Tarda 20 días en madurar y tiene la prosibilidad de dar múltiples tubérculos durante la cosecha.",
         //"ko": "",
         //"de": "",
         //"fr": "",

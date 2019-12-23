@@ -47,7 +47,7 @@
     {
         "es": "Snakebite",
         "ko": "스네이크바이트",
-        // "de": "",
+        "de": "Schlangenbiss",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -61,7 +61,7 @@
     {
         "es": "No trates de chupar el veneno.",
         "ko": "독을 빨아 내려고하지 마세요.",
-        // "de": "",
+        "de": ""Versuchen Sie nicht, das Gift auszusaugen.",
         // "fr": "",
         // "hu": "",
         // "it": "",

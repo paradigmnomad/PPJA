@@ -24,7 +24,7 @@
     "CanPurchase": false,
     "SeedNameLocalization":
     {
-        //"es": "",
+        "es": "Semillas de Flores Antiguas",
         //"ko": "",
         //"de": "",
         //"fr": "",
@@ -38,7 +38,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        //"es": "",
+        "es": "Plantalas en primavera. Tarda 8 días en producir flores.",
         //"ko": "",
         //"de": "",
         //"fr": "",

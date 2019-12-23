@@ -1,6 +1,6 @@
 {
     "Name": "Sandy's Calico Colada",
-    "Description": "From the Stardew Valley Pixel to Plate menu.",
+    "Description": "From the Stardew Valley Pixel to Plate",
     "Category": "Cooking",
     "Edibility": 35,
     "EdibleIsDrink": true,
@@ -47,8 +47,8 @@
     "NameLocalization":
     {
         // "es": "",
-        "ko": "샌디의 칼리코 콜라다",
-        // "de": "",
+        "ko": "샌디의 칼리코 칼라다",
+        "de": "Sandy´s Calico Colada",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -62,7 +62,7 @@
     {
         // "es": "",
         "ko": "스타듀 밸리 픽셀에서 플레이트 메뉴까지.",
-        // "de": "",
+        "de": "Vom Stardew Valley Pixel auf den Teller.",
         // "fr": "",
         // "hu": "",
         // "it": "",

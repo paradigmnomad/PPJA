@@ -51,7 +51,7 @@
     {
         "es": "Whisky agrio",
         "ko": "위스키 사워",
-        // "de": "",
+        // "de": "Saurer Wiskes",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -65,7 +65,7 @@
     {
         "es": "Sorprendentemente, no es agrio.",
         "ko": "놀랍게도, 신맛이 나지 않아요.",
-        // "de": "",
+        "de": "Erstaunlicherweise ist er nicht sauer.",
         // "fr": "",
         // "hu": "",
         // "it": "",

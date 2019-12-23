@@ -1,0 +1,62 @@
+{
+    "Name": "Peppermint Hot Chocolate",
+    "Description": "Nothing beats being wrapped up in a blanket with a nice, warm hot chocolate on a cold day.",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 500,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Chocolate",
+            "Count": 1,
+        },
+        {
+            "Object": "Candy Cane",
+            "Count": 1,
+        },],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2555,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Haley", "Maru", "Sebastian"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Emily", "Krobus", "Willy"],
+        "Hate": ["Evelyn"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

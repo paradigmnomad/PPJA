@@ -14,9 +14,9 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+         "es": "Paño de cañamo",
          // "ko": "",
-         // "de": "",
+         "de": "Hanf Kleidung",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -28,9 +28,9 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+         "es": "Un tipo sustentable de paño.",
          // "ko": "",
-         // "de": "",
+         "de": "Eine nachhaltigere Art von Stoff.",
          // "fr": "",
          // "hu": "",
          // "it": "",

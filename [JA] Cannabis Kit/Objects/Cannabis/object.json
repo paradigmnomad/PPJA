@@ -16,9 +16,9 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+         "es": "Cannabis",
          // "ko": "",
-         // "de": "",
+         "de": "CBD Öl",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -30,9 +30,9 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+         "es": "Pueblo Pelicano ha legalizado el cannabis recientemente, ahora Pierre vende las semillas aun precio superior.",
          // "ko": "",
-         // "de": "",
+         "de": "Ein Öl mit wunderbaren gesundheitlichen Vorteilen.",
          // "fr": "",
          // "hu": "",
          // "it": "",

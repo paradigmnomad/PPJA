@@ -20,9 +20,9 @@
     "SeedPurchasePrice": 30,
     "SeedNameLocalization":
     {
-         // "es": "",
-         // "ko": "",
-         // "de": "",
+         "es": "Semillas de Tabaco",
+         "ko": "담배",
+         "de": "Tabak",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -34,9 +34,9 @@
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
-         // "ko": "",
-         // "de": "",
+         "es": "Plantalas en la primavera o verano, tardan 7 días en madurar.",
+         "ko": "봄이나 여름에 심으세요. 성숙 기간은 7일이다.",
+         "de": "Pflanzen Sie diese im Frühjahr oder Sommer. Die Reifung dauert 7 Tage.",
          // "fr": "",
          // "hu": "",
          // "it": "",

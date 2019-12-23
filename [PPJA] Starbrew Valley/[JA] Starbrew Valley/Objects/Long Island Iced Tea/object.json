@@ -52,10 +52,10 @@
     "PurchaseRequirements": null,
   },
 
- "NameLocalization": { 
+ "NameLocalization": {
     "es": "Té helado de Long Island",
     "ko": "롱 아일랜드 아이스 티",
-     // "de": "",
+    "de": "Long Island Iced Tea",
      // "fr": "",
      // "hu": "",
      // "it": "",
@@ -65,10 +65,10 @@
      // "tr": "",
     "zh": "长岛冰茶",
   },
- "DescriptionLocalization": { 
+ "DescriptionLocalization": {
     "es": "¿¡Quieres decir que no hay té en esto!?",
     "ko": "여기에 차가 안 들어있다고요!?",
-     // "de": "",
+    "de": "Du meinst, da ist kein Tee drin !?",
      // "fr": "",
      // "hu": "",
      // "it": "",
