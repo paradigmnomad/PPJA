@@ -3,8 +3,8 @@
 	{
 		"Id": "PPJA.VernalTearecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "@,^^I understand that you've been growing some flowers from seeds from the Ferngill Florist's Association, dear. Did you know they can be used in cooking recipes?^^This is a simple one, but was always one of my favorites. There are plenty of other recipes you can use their flowers for, as well. I hope you try making some of them!^^-Granny Evelyn",
-		"Recipe": "Vernal Tea",
+		"Text": "@,^^얘야, 나는 네가 펀길 플로리스트 협회에서 구한 씨앗으로 꽃을 재배한다고 들었단다. 그것들을 요리 레시피에 쓸 수 있다는 것도 알고있니?^^간단하지만, 내가 항상 좋아하는 것 중 하나란다. 꽃을 가지고 만들 수 있는 다른 레시피들도 아주 많단다. 만들어 봤으면 좋겠구나!^^-에블린",
+		"Recipe": "봄의 차",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 3 }
@@ -13,8 +13,8 @@
 	{
 		"Id": "PPJA.TeaRecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "Dear @,^^Heard you've been using some of your flowers in your cooking. Here's a favorite recipe of mine. Really warms you up on a cold day!^^-Mayor Lewis",
-		"Recipe": "Tea",
+		"Text": "@에게,^^자네가 요리에 꽃을 사용한다고 들었네. 내가 제일 좋아하는 레시피 중 하나를 주겠네. 추운 날 자네를 따뜻하게 해줄걸세.^^-루이스",
+		"Recipe": "차",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Lewis", "FriendshipLevel": 5 }
@@ -23,8 +23,8 @@
 	{
 		"Id": "PPJA.EstivalTearecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "Hey kid,^^Evelyn mentioned you were makin' some food with the flowers you're growing. My pappy passed this recipe on to me - hope you enjoy it as much as I did.^^-Pam",
-		"Recipe": "Estival Tea",
+		"Text": "꼬마야,^^에블린이 말하길 네가 재배하는 꽃으로 음식을 만들고 있다고 하더라. 내 아버지가 이 레시피를 나한테 전수해줬어. 내가 그랬던 것처럼 네가 이걸 좋아했으면 좋겠다.^^-팸",
+		"Recipe": "여름의 차",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Pam", "FriendshipLevel": 5 }
@@ -33,8 +33,8 @@
 	{
 		"Id": "PPJA.AutumnalTearecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "@,^^This is a tea recipe that Evelyn brought me one time when she came over to check on me. I don't make tea that often, though, so I figure you'll get more use out of it than I will.^^-Clint",
-		"Recipe": "Autumnal Tea",
+		"Text": "@,^^이건 에블린이 날 보러 왔을 때 준 레시피야. 하지만 나는 차를 자주 끓여 마시지 않아서, 나보단 네가 더 많이 이용할 거라고 생각해.^^-클린트",
+		"Recipe": "가을의 차",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Clint", "FriendshipLevel": 5 }
@@ -43,8 +43,8 @@
 	{
 		"Id": "PPJA.HibernalTeaRecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "@,^^Here's a recipe my wife always likes come winter time.^^Try it out if you feel like it.^^-George",
-		"Recipe": "Hibernal Tea",
+		"Text": "@,^^내 아내가 겨울철이면 항상 즐기는 요리 레시피를 주도록 하지.^^마음이 내키면 한 번 만들어 마셔봐.^^-조지",
+		"Recipe": "겨울의 차",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "George", "FriendshipLevel": 5 }
@@ -53,8 +53,8 @@
 	{
 		"Id": "PPJA.LatteRecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "Hey @,^^I always need a little pick-me-up in the morning, but just plain coffee's a little strong for my taste. I imagine it'll taste even better with fresh milk from your cows!^^-Robin",
-		"Recipe": "Latte",
+		"Text": "Hey @,^^난 항상 아침에 기운을 차리게 하는 커피가 필요한데, 일반 커피는 나한테 너무 세더라. 네 소한테서 얻은 신선한 우유와 함께 마시면 더 맛있을 거야! ^^-로빈",
+		"Recipe": "라떼",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Robin", "FriendshipLevel": 5 }
@@ -63,8 +63,8 @@
 	{
 		"Id": "PPJA.LilacSconesRecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "@,^^Evelyn shared her tea recipes with me when I was younger, and she and I worked together on a scone recipe utilizing lilac. Maybe you can make some with the lilacs from your farm.^^-Jodi",
-		"Recipe": "Lilac Scones",
+		"Text": "@,^^내가 젊을 때 에블린은 나한테 차 레시피를 알려줬고, 라일락을 사용한 스콘 레시피를 함께 연구하곤 했어. 아마 너도 네 농장에서 나온 라일락으로 만들 수 있을 거야.^^-조디",
+		"Recipe": "라일락 스콘",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Jodi", "FriendshipLevel": 5 }
@@ -73,8 +73,8 @@
 	{
 		"Id": "PPJA.FlowerSodaRecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "Dear @^^Sandy once gave me this recipe for a drink made from flowers! I know it sounds a little strange, but it's really very nice! You should try to make it from the produce on your farm sometime.^^-Emily",
-		"Recipe": "Flower Soda",
+		"Text": "@에게^^샌디가 언젠가 꽃으로 만든 음료에 대한 레시피를 준 적이 있어! 좀 이상하게 들리겠지만, 정말 맛있어! 언젠가 네 농장에서 나온 농산물로 만들어 봐.^^-에밀리",
+		"Recipe": "꽃 소다",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Emily", "FriendshipLevel": 5 }
@@ -83,8 +83,8 @@
 	{
 		"Id": "PPJA.HerbCrustedFishRecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "Dear @,^^Living out in the mountains, I have access to a lot of fish. This is a recipe I use when I can - since you've been so kind to me, I'm sharing it with you. I hope you enjoy it.^^-Linus",
-		"Recipe": "Herb-Crusted Fish",
+		"Text": "@에게,^^나는 산에 살면서 많은 물고기를 접할 수 있었다네. 자네가 친절히 대해줬기에 이걸 주고 싶네. 잘 사용하길 바라네.^^-라이너스",
+		"Recipe": "허브 크러스트 피쉬",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Linus", "FriendshipLevel": 5 }
@@ -93,8 +93,8 @@
 	{
 		"Id": "PPJA.LotusMochiID",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "Dear @,^^Don't usually like to think about things relating to the Gotoro Empire... but while I was there, I did have this dessert. I'm not sure if this will taste exactly like it, but maybe you can nail it.^^-Kent",
-		"Recipe": "Lotus Mochi",
+		"Text": "@에게,^^난 평소에 고토로 제국과 관련된 것들에 대해 생각하는 걸 좋아하지 않아... 하지만 내가 거기 있는 동안 이 디저트를 먹은 적이 있어. 똑같은 맛이 날 지는 모르겠지만, 아마 넌 성공할 거야.^^-켄트",
+		"Recipe": "연꽃 모찌",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Kent", "FriendshipLevel": 5 }
@@ -103,8 +103,8 @@
 	{
 		"Id": "PPJA.BoiledGreensRecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "@,^^Did you know that all parts of edible flowers can be used in cooking - even their leaves?^^Here's a recipe I make when the flowers for it are in season. It's best when it's lightly salted!^^-Demetrius",
-		"Recipe": "Boiled Greens",
+		"Text": "@,^^식용 꽃의 모든 부분이 요리에 쓰일 수 있다는 걸 아니? 심지어 잎까지도 말이지.^^꽃이 제철일 때면 만드는 레시피를 줄게. 살짝 소금에 절이면 더 맛있어져!^^-드미트리우스",
+		"Recipe": "삶은 야채",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Demetrius", "FriendshipLevel": 5 }
@@ -113,8 +113,8 @@
 	{
 		"Id": "PPJA.RoseNougatRecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "@,^^This recipe has been a family favorite. If you can get honey flavored with rose pollen, it's even better.^^-Marnie",
-		"Recipe": "Rose Nougat",
+		"Text": "@,^^우리 가족이 좋아하는 레시피야. 장미 꽃가루로 꿀맛을 낼 수 있다면 더 좋을 거야.^^-마니",
+		"Recipe": "로즈 누가",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Marnie", "FriendshipLevel": 5 }
@@ -123,8 +123,8 @@
 	{
 		"Id": "PPJA.SouffleRecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "@,^^This is one of the most challenging recipes I have, but I'm quite proud of it. Souffles aren't easy to make, and having high-quality ingredients is essential - and that shouldn't be a problem for you. I hope you share the results if you give it a try!^^-Gus",
-		"Recipe": "Souffle",
+		"Text": "@,^^내가 가지고 있는 가장 어려운 레시피 중 하나지만, 자부심 있어. 수플레는 만들기 쉽지 않고, 양질의 재료가 필수지만, 그건 너한테 별문제가 되지 않을 거야. 한 번 해보고 어떻게 됐는지 알려줘!^^-거스",
+		"Recipe": "수플레",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Gus", "FriendshipLevel": 5 }
@@ -133,8 +133,8 @@
 	{
 		"Id": "PPJA.TiramisuRecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "@,^^Abby and Pierre always enjoy when I make this up. Maybe you'll have some success making it yourself.^^-Caroline",
-		"Recipe": "Tiramisu",
+		"Text": "@,^^내가 이걸 만들어주면 애비와 피에르는 항상 좋아하곤 해. 어쩌면 네가 직접 만드는 데 성공할 수도 있을 거야.^^-캐롤라인",
+		"Recipe": "티라미수",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Caroline", "FriendshipLevel": 5 }
@@ -143,8 +143,8 @@
 	{
 		"Id": "PPJA.StuffedPetalsRecipe",
 		"GroupID": "F2F.CookingRecipe",
-		"Text": "Dear @,^^This is a favorite recipe of mine. The fresher the ingredients, the better it will be.^^-Granny Evelyn",
-		"Recipe": "Stuffed Petals",
+		"Text": "@에게,^^이건 내가 가장 좋아하는 요리법이란다. 재료가 신선하면 신선할수록 좋단다.^^-에블린",
+		"Recipe": "꽃잎 스터프트",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 5 }
@@ -154,8 +154,8 @@
 	{
 		"Id": "PPJA.PottedTulipRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Tulip",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 튤립",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Farming", "SkillLevel": 1 }
@@ -165,8 +165,8 @@
 		"Id": "PPJA.PottedSummerSpangleRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Summer Spangle",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 여름 별꽃",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Farming", "SkillLevel": 4 }
@@ -175,8 +175,8 @@
 	{
 		"Id": "PPJA.FloristTableRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association^^* Note: you can't actually make anything at this table, it is purely decorative.",
-		"Recipe": "Florist's Table",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회^^* 참고사항: 이 테이블에서 만들 수 있는 건 아무것도 없습니다. 순전히 장식용입니다. ",
+		"Recipe": "플로리스트 테이블",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Farming", "SkillLevel": 7 }
@@ -185,8 +185,8 @@
 	{
 		"Id": "PPJA.PottedDandelionRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Dandelion", 
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 민들레", 
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 1 }
@@ -195,8 +195,8 @@
 	{
 		"Id": "PPJA.PottedSweetPeaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Sweet Pea",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 스위트피",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 2 }
@@ -205,8 +205,8 @@
 	{
 		"Id": "PPJA.PottedDaffodilRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Daffodil",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 수선화",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 2 }
@@ -214,8 +214,8 @@
 	},{
 		"Id": "PPJA.PottedDaisyRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Daisy",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 데이지",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 3 }
@@ -224,8 +224,8 @@
 	{
 		"Id": "PPJA.PottedCrocusRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Crocus",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 크로커스",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 3 }
@@ -234,8 +234,8 @@
 	{
 		"Id": "PPJA.PottedClematisRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Clematis",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 클레마티스",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 4 }
@@ -244,8 +244,8 @@
 	{
 		"Id": "PPJA.PottedHibiscuisRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Hibiscus",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 히비스커스",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 7 }
@@ -254,8 +254,8 @@
 	{
 		"Id": "PPJA.PottedMagnoliaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Magnolia",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 목련",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 8 }
@@ -264,8 +264,8 @@
 	{
 		"Id": "PPJA.PottedJasmineRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Jasmine",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 자스민",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 8 }
@@ -274,8 +274,8 @@
 	{
 		"Id": "PPJA.PottedWisteriaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Wisteria",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 등나무",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 9 }
@@ -284,8 +284,8 @@
 	{
 		"Id": "PPJA.BouquetOfExuberanceRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Bouquet of Exuberance",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "충일의 부케",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 9 }
@@ -294,8 +294,8 @@
 	{
 		"Id": "PPJA.PottedVioletRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Violet",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 제비꽃",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 1 }
@@ -304,8 +304,8 @@
 	{
 		"Id": "PPJA.PottedLilacRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Lilac",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 라일락",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 2 }
@@ -314,8 +314,8 @@
 	{
 		"Id": "PPJA.PottedLavenderRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Lavender",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 라벤더",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 3 }
@@ -324,8 +324,8 @@
 	{
 		"Id": "PPJA.PottedPeonyRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Peony",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 작약",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 4 }
@@ -334,8 +334,8 @@
 	{
 		"Id": "PPJA.PottedDahliaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Dahlia",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 달리아",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 4 }
@@ -344,8 +344,8 @@
 	{
 		"Id": "PPJA.PottedFreesiaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Freesia",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 프리지아",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 6 }
@@ -354,8 +354,8 @@
 	{
 		"Id": "PPJA.PottedPetuniaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Petunia",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 페튜니아",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 6 }
@@ -364,8 +364,8 @@
 	{
 		"Id": "PPJA.PottedCamelliaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Camellia",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 카멜리아",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 7 }
@@ -374,8 +374,8 @@
 	{
 		"Id": "PPJA.PottedGeraniumRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Geranium",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 제라늄",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 7 }
@@ -384,8 +384,8 @@
 	{
 		"Id": "PPJA.PottedEnglishRoseRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted English Rose",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 잉글리시 로즈",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 8 }
@@ -394,8 +394,8 @@
 	{
 		"Id": "PPJA.PottedFairyRoseRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Fairy Rose",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 요정 장미",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 8 }
@@ -404,8 +404,8 @@
 	{
 		"Id": "PPJA.BouquetOfDevotionRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Bouquet of Devotion",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "헌신의 부케",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 9 }
@@ -414,8 +414,8 @@
 	{
 		"Id": "PPJA.PottedBlueJazzRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Blue Jazz",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 블루 재즈",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 1 }
@@ -424,8 +424,8 @@
 	{
 		"Id": "PPJA.PottedAlliumRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Allium",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 알리움",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 1 }
@@ -434,8 +434,8 @@
 	{
 		"Id": "PPJA.PottedHyacinthRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Hyacinth",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 히아신스",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 2 }
@@ -444,8 +444,8 @@
 	{
 		"Id": "PPJA.PottedHydrangeaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Hydrangea",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 수국",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 3 }
@@ -454,8 +454,8 @@
 	{
 		"Id": "PPJA.PottedLotusRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Lotus",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 연꽃",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 4 }
@@ -464,8 +464,8 @@
 	{
 		"Id": "PPJA.PottedIrisRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Iris",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 아이리스",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 6 }
@@ -474,8 +474,8 @@
 	{
 		"Id": "PPJA.PottedDelphiniumRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Delphinium",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 델피니움",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 7 }
@@ -484,8 +484,8 @@
 	{
 		"Id": "PPJA.BouquetOfLongingRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Bouquet of Longing",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "갈망의 부케",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 9 }
@@ -494,8 +494,8 @@
 	{
 		"Id": "PPJA.PottedSunflowerRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Sunflower",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 해바라기",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 1 }
@@ -504,8 +504,8 @@
 	{
 		"Id": "PPJA.PottedPoppyRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Poppy",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 양귀비",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 2 }
@@ -514,8 +514,8 @@
 	{
 		"Id": "PPJA.PottedCarnation",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Carnation",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 카네이션",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 3 }
@@ -524,8 +524,8 @@
 	{
 		"Id": "PPJA.PottedChrysanthemumRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Chrysanthemum",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 국화",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 4 }
@@ -534,8 +534,8 @@
 	{
 		"Id": "PPJA.PottedLilyRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Potted Lily",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "실내 화초 백합",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 6 }
@@ -544,8 +544,8 @@
 	{
 		"Id": "PPJA.BouquetOfHopeRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Bouquet of Hope",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "희망의 부케",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 7 }
@@ -554,8 +554,8 @@
 	{
 		"Id": "PPJA.BouquetOfPurityRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Bouquet of Purity",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "순수의 부케",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 8 }
@@ -564,8 +564,8 @@
 	{
 		"Id": "PPJA.BouquetOfPassionRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
-		"Recipe": "Bouquet of Passion",
+		"Text": "@:^^스타듀 밸리의 생활 개선을 위한 귀하의 노력에 감사드리며, 이 선물을 받아주셨으면 합니다.^^-펀길 플로리스트 협회",
+		"Recipe": "열정의 부케",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 9 }
