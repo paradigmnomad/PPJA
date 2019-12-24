@@ -3,7 +3,7 @@
 
 	// Grinder
 
-	{
+	/*{
 		"ProducerName": "Grinder", 
 		"InputIdentifier": "Chocolate", 
 		"InputStack": 1, 
@@ -22,7 +22,7 @@
 		"Sounds": ["Ship"], 
 		"PlacingAnimation": null, 
 		"PlacingAnimationColorName": "White", 
-	},
+	},*/
 
 	// Ice Cream Machine
 
@@ -126,7 +126,7 @@
 		"PlacingAnimation": null, 
 		"PlacingAnimationColorName": "White", 
 	},
-	{
+	/*{
 		"ProducerName": "Ice Cream Machine", 
 		"InputIdentifier": "Herbal Lavender", 
 		"InputStack": 1, 
@@ -185,7 +185,7 @@
 		"Sounds": ["Ship"], 
 		"PlacingAnimation": null, 
 		"PlacingAnimationColorName": "White", 
-	},
+	},*/
 	{
 		"ProducerName": "Ice Cream Machine", 
 		"InputIdentifier": "Vanilla", 
