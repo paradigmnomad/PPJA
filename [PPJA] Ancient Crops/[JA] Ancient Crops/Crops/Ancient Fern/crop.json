@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Fern",
     "Product": "Ancient Fern",
     "SeedName": "Ancient Fern Seeds",
@@ -21,7 +21,7 @@
     "SeedNameLocalization":
     {
         "es": "Semillas de Helecho Antiguas",
-        //"ko": "",
+        "ko": "고대의 고사리 씨앗",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -35,7 +35,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plantalo en primavera, verano u otoño para cultivar un helecho antiguo. Tarda 30 días en madurar y continúa produciendo luego de la primer cosecha.",
-        //"ko": "",
+        "ko": "봄, 여름, 또는 가을 작물. 성장하려면 30일 소요되며, 수확한 후에도 계속 작물이 생산됩니다.",
         //"de": "",
         //"fr": "",
         //"hu": "",

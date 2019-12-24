@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Olive Oil",
     "Description": "This extra-virgin olive oil has more flavor than any other you’ve tasted.",
     "Category": "ArtisanGoods",
@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Aceite de Oliva Antiguo",
-        //"ko": "",
+        "ko": "고대의 올리브유",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Este aceite extra-virgen de oliva tiene más sabor que cualquier otro que hayas probado.",
-        //"ko": "",
+        "ko": "이 엑스트라-버진 올리브유는 여태껏 맛본 그 어느 것보다도 맛이 풍부합니다. ",
         //"de": "",
         //"fr": "",
         //"hu": "",
