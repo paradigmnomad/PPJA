@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Nut",
     "Description": "Ancient rodents would feed on this.",
     "Category": "Vegetable",
@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Nuez Antigua",
-        //"ko": "",
+        "ko": "고대의 견과류",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Antiguos roedores se alimentaban con ella.",
-        //"ko": "",
+        "ko": "고대의 다람쥐들이 먹고 살았을 것 같군요.",
         //"de": "",
         //"fr": "",
         //"hu": "",

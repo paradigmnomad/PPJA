@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Flower",
     "Product": "Ancient Flower",
     "SeedName": "Ancient Flower Seeds",
@@ -25,7 +25,7 @@
     "SeedNameLocalization":
     {
         "es": "Semillas de Flores Antiguas",
-        //"ko": "",
+        "ko": "고대의 꽃 씨앗",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -39,7 +39,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plantalas en primavera. Tarda 8 días en producir flores.",
-        //"ko": "",
+        "ko": "봄에 심으세요. 8일 후 자라서 꽃이 핍니다.",
         //"de": "",
         //"fr": "",
         //"hu": "",

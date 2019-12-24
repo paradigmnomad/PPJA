@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Olive",
     "Description": "An ancient type of olive that grows in a small plant.",
     "Category": "Vegetable",
@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Oliva Antigua",
-        //"ko": "",
+        "ko": "고대의 올리브",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Un antiguo tipo de oliva que crece en pequeñas plantas.",
-        //"ko": "",
+        "ko": "작은 크기로 자라는 고대 식물.",
         //"de": "",
         //"fr": "",
         //"hu": "",

@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Nut Milk",
     "Description": "Doesn't taste like regular milk.",
     "Category": "ArtisanGoods",
@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Leche de Nuez Antigua",
-        //"ko": "",
+        "ko": "고대의 견과 우유",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "No tiene le mismo sabor que la leche regular.",
-        //"ko": "",
+        "ko": "범상치 않은 우유 맛이 납니다.",
         //"de": "",
         //"fr": "",
         //"hu": "",

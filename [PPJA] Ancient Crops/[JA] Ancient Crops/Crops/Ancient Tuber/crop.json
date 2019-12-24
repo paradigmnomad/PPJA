@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Tuber",
     "Product": "Ancient Tuber",
     "SeedName": "Ancient Tuber Seeds",
@@ -21,7 +21,7 @@
     "SeedNameLocalization":
     {
         "es": "Semilla de tubérculo Antiguo",
-        //"ko": "",
+        "ko": "고대의 뿌리 씨앗",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -35,7 +35,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plantalo en primavera, verano u otoño para cultivar un tubérculo antiguo. Tarda 20 días en madurar y tiene la prosibilidad de dar múltiples tubérculos durante la cosecha.",
-        //"ko": "",
+        "ko": "봄, 여름, 또는 가을 작물. 성장하려면 20일 소요되며, 한번 수확할 때 여러 개 수확할 확률이 있습니다.",
         //"de": "",
         //"fr": "",
         //"hu": "",
