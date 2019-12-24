@@ -34,7 +34,7 @@
          "pt": "Barril de Cera",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "制蜡桶",
     },
     "DescriptionLocalization":
     {
@@ -48,6 +48,6 @@
          "pt": "Um barril para mergulhar velas.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "将蜂蜡倒入其中，制作蜡烛。",
     }
 }

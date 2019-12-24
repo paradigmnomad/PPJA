@@ -32,7 +32,7 @@
          "pt": "Cremalheira de Secagem",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "干燥架",
     },
     "DescriptionLocalization":
     {
@@ -46,6 +46,6 @@
          "pt": "Coloque flores, ervas ou vegetais para secá-los para mais tarde.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "把花、香草或蔬菜放在这里晾干。",
     }
 }

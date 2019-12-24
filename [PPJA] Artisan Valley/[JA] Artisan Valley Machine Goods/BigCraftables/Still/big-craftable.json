@@ -32,7 +32,7 @@
          "pt": "Destilador",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "酒蒸馏器",
     },
     "DescriptionLocalization":
     {
@@ -46,6 +46,6 @@
          "pt": "Usado para destilar bebidas alcoólicas.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "一种用来酿酒的蒸馏系统。",
     }
 }

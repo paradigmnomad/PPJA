@@ -38,7 +38,7 @@
          "pt": "Prensa de Sabonete",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "压皂机",
     },
     "DescriptionLocalization":
     {
@@ -52,6 +52,6 @@
          "pt": "Um prensa feita para moldar sabonete.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "为制造肥皂而设计的压榨机。",
     }
 }

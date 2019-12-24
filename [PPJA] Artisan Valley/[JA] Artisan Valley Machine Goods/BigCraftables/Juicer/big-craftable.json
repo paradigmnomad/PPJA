@@ -34,7 +34,7 @@
          "pt": "Espremedor",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "榨汁机",
     },
     "DescriptionLocalization":
     {
@@ -48,6 +48,6 @@
          "pt": "Esprema frutas e consiga suco fresquinho.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "把水果变成鲜榨果汁。",
     }
 }

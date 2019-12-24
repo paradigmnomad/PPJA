@@ -38,7 +38,7 @@
          "pt": "Moedor",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "研磨机",
     },
     "DescriptionLocalization":
     {
@@ -52,6 +52,6 @@
          "pt": "Use para moer produtos em bens valiosos ou temperos.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "用它把农产品磨成贵重的商品和香料。",
     }
 }

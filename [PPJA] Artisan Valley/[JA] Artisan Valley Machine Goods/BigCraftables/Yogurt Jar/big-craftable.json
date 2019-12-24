@@ -34,7 +34,7 @@
          "pt": "Iogurteira",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "酸奶罐",
     },
     "DescriptionLocalization":
     {
@@ -48,6 +48,6 @@
          "pt": "Iogurteira top therm, fermenta leite para fazer iogurte.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "这个罐子能够将牛奶发酵成酸奶。",
     }
 }
