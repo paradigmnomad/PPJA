@@ -17,12 +17,12 @@
     "NameLocalization":
     {
         "es": "Extracto de jalapeño",
-        "ko": "할라피뇨 추출액",
+         // "ko": "",
         "de": "Jalapeno-Extrakt",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ハラペーニョエキス",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -31,12 +31,12 @@
     "DescriptionLocalization":
     {
         "es": "Este líquido ha sido extraído de un jalapeño.",
-        "ko": "고추에서 추출됐습니다.",
+         // "ko": "",
         "de": "Diese Flüssigkeit wurde aus Jalapenos extrahiert.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "トウガラシから抽出したエキス。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Cáscara de manzana",
-        "ko": "사과 껍질",
+         // "ko": "",
         "de": "Apfelschale",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "リンゴの皮",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Una simple cáscara de manzana.",
-        "ko": "꼬불꼬불한 사과 껍질.",
+         // "ko": "",
         "de": "Die kurvenreiche Schale eines Apfels.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ねじれる様に切ったリンゴの皮。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

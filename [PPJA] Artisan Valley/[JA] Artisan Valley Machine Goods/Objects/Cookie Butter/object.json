@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Galleta de mantequilla",
-        "ko": "쿠키 버터",
+         // "ko": "",
         "de": "Keksbutter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "クッキーバター",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Galletas molidas en una pasta suave y deliciosa. No te mientas a ti mismo. Solo usa una cuchara.",
-        "ko": "부드럽고 맛있는 페이스트로 만든 쿠키. 숟가락을 사용하세요.",
+         // "ko": "",
         "de": "In eine glatte, köstliche Paste gemahlene Kekse. Lüg dich nicht an. Benutze einfach einen Löffel.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "クッキーを砕いて滑らかなペーストにしたもの。スプーンを使おう。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Helado de chocolate",
-        "ko": "초콜릿 아이스크림",
+         // "ko": "",
         "de": "Schokoladeneiscreme",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "チョコレートアイスクリーム",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "¡No te puedes equivocar con el helado de chocolate!",
-        "ko": "초콜릿 아이스크림은 언제나 옳죠!",
+         // "ko": "",
         "de": "Kann mit Schokoladeneiscreme nicht schief gehen!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "「チョコレートアイスクリームを間違えないでください！」",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

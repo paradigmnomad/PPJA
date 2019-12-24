@@ -17,12 +17,12 @@
     "NameLocalization":
     {
         "es": "Extracto de habanero",
-        "ko": "하바네로 추출액.",
+         // "ko": "",
         "de": "Habanero-Extrakt",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ハバネロエキス",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -31,12 +31,12 @@
     "DescriptionLocalization":
     {
         "es": "Este líquido ha sido extraído de un pimiento.",
-        "ko": "고추에서 추출됐습니다.",
+         // "ko": "",
         "de": "Diese Flüssigkeit wurde aus Pfeffer extrahiert.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "トウガラシから抽出したエキス。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

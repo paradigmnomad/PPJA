@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Pasas",
-        "ko": "건포도",
+         // "ko": "",
         "de": "Rosinen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "レーズン",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Uvas deshidratadas transformadas en un rico aperitivo!",
-        "ko": "맛있는 간식인 건포도!",
+         // "ko": "",
         "de": "Getrocknete Trauben, die für einen leckeren Snack sorgen!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "この乾燥ブドウでおいしいおやつを作れる！",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

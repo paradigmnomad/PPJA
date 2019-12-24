@@ -31,12 +31,12 @@
     "NameLocalization":
     {
         "es": "Petit Fours",
-        "ko": "프티 푸르",
+         // "ko": "",
         "de": "Petit Fours",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "プチフール",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -45,12 +45,12 @@
     "DescriptionLocalization":
     {
         "es": "Trocitos esponjosos de pastes de almendras y crema, cubierto de azúcar.",
-        "ko": "아몬드 케이크와 크림의 푹신한 층, 슈가 플라워로 장식해서 얼렸습니다.",
+         // "ko": "",
         "de": "Flauschige Schichten von Mandelkuchen und Sahne, gefroren und mit Zuckerblüten belegt.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "アーモンドケーキとクリームをふわふわの層にして、アイスとシュガーフラワーをトッピング。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

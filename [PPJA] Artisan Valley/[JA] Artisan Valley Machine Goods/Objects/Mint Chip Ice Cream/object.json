@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Helado con chispas de menta",
-        "ko": "민트칩 아이스크림",
+         // "ko": "",
         "de": "Minz-Chip-Eiscreme",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ミントチップアイスクリーム",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Tiene trocitos de chocolate hecho a mano.",
-        "ko": "조그마한 수제 초콜릿으로 완성됩니다.",
+         // "ko": "",
         "de": "Komplett mit Stücken von handgemachter Schokolade.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "手作りチョコレートを少し加えましょう。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

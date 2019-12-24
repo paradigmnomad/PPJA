@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Mantequilla de avellana",
-        "ko": "헤이즐넛 버터",
+         // "ko": "",
         "de": "Haselnussbutter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ヘーゼルナッツバター",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Una irresistible mantequilla de avellanas.",
-        "ko": "거부할 수 없는 초콜릿 맛.",
+         // "ko": "",
         "de": "Ein unwiderstehlicher Brotaufstrich.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "チョコレートの風味がたまらないスプレッド。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

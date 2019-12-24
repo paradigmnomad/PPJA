@@ -1,0 +1,53 @@
+{
+    "Name": "Ice Cream Machine",
+    "Description": "A machine for making delicious ice cream at home.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": true,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 84,
+            "Count": 2,
+        },
+        {
+            "Object": 335,
+            "Count": 20,
+        },
+        {
+            "Object": 787,
+            "Count": 1,
+        },],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+         "ko": "아이스크림 머신",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Máquina de Sorvete",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+         "ko": "맛있는 아이스크림을 만드는 기계.",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Uma máquina para fazer sorvete delicioso em casa.",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

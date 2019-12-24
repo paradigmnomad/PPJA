@@ -24,12 +24,12 @@
     "NameLocalization":
     {
         "es": "Capuchino",
-        "ko": "카푸치노",
+         // "ko": "",
         "de": "Cappuccino",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "カプチーノ",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -38,12 +38,12 @@
     "DescriptionLocalization":
     {
         "es": "La leche espumada crea un patrón encantador en la superficie.",
-        "ko": "거품을 낸 우유는 커피 위에 사랑스러운 무늬를 만들어 냅니다.",
+         // "ko": "",
         "de": "Die geschäumte Milch erzeugt ein schönes Muster auf der Oberfläche.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "泡立てたミルクで表面に美しい模様を描きます。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -1,7 +1,7 @@
 {
     "Name": "Cooked Duck",
     "Description": "A drumstick from a duck, hot out of the oven and ready to be used in recipes.",
-    "Category": "ArtisanGoods",
+    "Category": "Cooking",
     "Edibility": 60,
     "Price": 185,
     "IsColored": false,

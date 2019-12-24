@@ -16,12 +16,12 @@
     "NameLocalization":
     {
         "es": "Mantequilla",
-        "ko": "버터",
+         // "ko": "",
         "de": "Butter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "バター",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -30,12 +30,12 @@
     "DescriptionLocalization":
     {
         "es": "Elaborado con leche de vaca, es delicioso con casi todo.",
-        "ko": "우유로 만드며, 보통은 맛있습니다.",
+         // "ko": "",
         "de": "Hergestellt aus Kuhmilch und lecker mit fast allem.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "牛乳から作られている。常においしい。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

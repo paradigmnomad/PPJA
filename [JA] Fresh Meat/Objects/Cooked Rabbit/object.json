@@ -1,7 +1,7 @@
 {
     "Name": "Cooked Rabbit",
     "Description": "A gamey cut from a rabbit, fully cooked and ready to be used in a recipe.",
-    "Category": "ArtisanGoods",
+    "Category": "Cooking",
     "Edibility": 60,
     "Price": 150,
     "IsColored": false,

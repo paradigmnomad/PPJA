@@ -1,0 +1,18 @@
+﻿{
+	"Name": "[PFM] BFAV Quails - Artisan Valley Add-on",
+	"Author": "PPJA",
+	"Version": "1.0.0",
+	"Description": "Adds producing rules for BFAV's products to Artisan Valley machines.",
+	"UniqueID": "PPJA.BFAVQuailsAddOn",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [],
+	"Dependencies": [
+		{
+			"UniqueID": "ppja.artisanvalleyPFM",
+      "IsRequired": true,
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	}
+}

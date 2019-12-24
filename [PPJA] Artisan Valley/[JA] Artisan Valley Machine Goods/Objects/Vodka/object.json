@@ -32,12 +32,12 @@
     "NameLocalization":
     {
         "es": "Vodka",
-        "ko": "보드카",
+         // "ko": "",
         "de": "Wodka",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ウォッカ",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida destilada a partir de papas. Beber con moderación.",
-        "ko": "감자를 증류시켜 만든 술. 절제해서 드세요.",
+         // "ko": "",
         "de": "Ein Geist destilliert aus Kartoffeln. Trink ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ジャガイモから蒸留したお酒。適度な量で飲みましょう。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

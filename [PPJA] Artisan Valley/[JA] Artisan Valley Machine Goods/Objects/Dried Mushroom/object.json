@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Setas secas",
-        "ko": "말린 버섯",
+         // "ko": "",
         "de": "Dried Mushroom",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "干しキノコ",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "Un bote de setas secas.",
-        "ko": "말린 버섯 한 병.",
+         // "ko": "",
         "de": "Ein Glas getrocknete Pilze.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "乾燥させたキノコのビン詰め。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

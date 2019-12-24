@@ -1,0 +1,42 @@
+{
+    "Name": "Hemp Butter",
+    "Description": "A homemade butter with hemp added in.",
+    "Category": "ArtisanGoods",
+    "Edibility": 18,
+    "Price": 120,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian", "Gus", "Willy", "Evelyn", "Pierre", "Abigail"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+         "es": "Manteca de Cañamo",
+         // "ko": "",
+         "de": "Hanfbutter",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+         "es": "Una manteca cacera con cáñamo de Cannabis añadido.",
+         // "ko": "",
+         "de": "Eine hausgemachte Butter mit Hanf.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    }
+}

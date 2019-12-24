@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Margarina",
-        "ko": "마가린",
+         // "ko": "",
         "de": "Margarine",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "マーガリン",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "¡No puedes creer que no sea mantequilla!",
-        "ko": "버터가 아니라니, 말도 안 돼요!",
+         // "ko": "",
         "de": "Du kannst nicht glauben, dass es keine Butter ist!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "これがバターじゃないなんて信じられない！",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

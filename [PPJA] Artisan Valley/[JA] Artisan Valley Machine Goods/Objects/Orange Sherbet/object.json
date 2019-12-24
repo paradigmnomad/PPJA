@@ -16,12 +16,12 @@
     "NameLocalization":
     {
         "es": "Sorbete de naranja",
-        "ko": "오렌지 샤베트",
+         // "ko": "",
         "de": "Orangen-Sorbet",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "オレンジシャーベット",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -30,12 +30,12 @@
     "DescriptionLocalization":
     {
         "es": "Para aquellos que buscan una opción diferente.",
-        "ko": "다른 선택권을 찾는 사람들을 위해.",
+         // "ko": "",
         "de": "Für diejenigen, die nach einer anderen Option suchen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "違った味わい方を探している人向け。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Hierbas secas",
-        "ko": "말린 허브",
+         // "ko": "",
         "de": "Getrocknete Kräuter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ドライハーブ",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Un paquete de hierbas secas.",
-        "ko": "한 꾸러미의 말린 허브.",
+         // "ko": "",
         "de": "Ein Bündel getrocknete Kräuter.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "乾燥ハーブを束にしたもの。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

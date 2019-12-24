@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Mayonesa de aguacate",
-        "ko": "아보카도 마요네즈",
+         // "ko": "",
         "de": "Avocado Mayonnaise",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "アボカドマヨネーズ",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Es un aguacate, gracias!",
-        "ko": "아보카도군요, 고마워요!",
+         // "ko": "",
         "de": "Es ist eine Avocado, danke!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "「It's an avocado, thanks!」",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

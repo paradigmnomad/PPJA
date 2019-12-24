@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Mantequilla de nuez moscada",
-        "ko": "피칸 버터",
+         // "ko": "",
         "de": "Pekannuss-Butter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ペカンバター",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Una mantequilla fuerte con una textura espesa.",
-        "ko": "뻑뻑한 질감의 버터.",
+         // "ko": "",
         "de": "Eine herzhafte Butter, mit einer dicken Textur.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "濃厚な食感でボリュームのあるバター。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

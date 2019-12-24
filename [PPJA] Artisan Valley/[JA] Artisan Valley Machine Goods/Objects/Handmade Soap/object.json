@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Jabón para manos",
-        "ko": "수제 비누",
+         // "ko": "",
         "de": "handgemachte Seife",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "お手製石けん",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Una barra perfumada de jabón artesanal.",
-        "ko": "향기로운 향이 나는 비누.",
+         // "ko": "",
         "de": "Ein duftendes Stück handwerkliche Seife.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "いい香りがする手作りの石けん。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

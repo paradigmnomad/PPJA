@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Bola de hilo",
-        "ko": "원사",
+         // "ko": "",
         "de": "Zwirn",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "毛糸",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Una bola de hilo.",
-        "ko": "부드러운 실 뭉치.",
+         // "ko": "",
         "de": "Ein Ball aus weichem Garn.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "やわらかい毛糸を丸めたもの",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

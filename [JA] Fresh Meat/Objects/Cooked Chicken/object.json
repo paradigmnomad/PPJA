@@ -1,7 +1,7 @@
 {
     "Name": "Cooked Chicken",
     "Description": "A whole rotisserie chicken, ready to be used in recipes.",
-    "Category": "ArtisanGoods",
+    "Category": "Cooking",
     "Edibility": 45,
     "Price": 160,
     "IsColored": false,

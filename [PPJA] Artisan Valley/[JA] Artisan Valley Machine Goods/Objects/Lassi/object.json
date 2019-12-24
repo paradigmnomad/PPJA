@@ -16,12 +16,12 @@
     "NameLocalization":
     {
         "es": "Lassi",
-        "ko": "라씨",
+         // "ko": "",
         "de": "Lassi",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ラッシー",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -30,12 +30,12 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida espumosa hecha de yogur fermentado.",
-        "ko": "발효된 요거트로 만든 거품 음료.",
+         // "ko": "",
         "de": "Ein schaumiges Getränk aus fermentiertem Joghurt.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ヨーグルトを更に発酵させて作る発泡飲料。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

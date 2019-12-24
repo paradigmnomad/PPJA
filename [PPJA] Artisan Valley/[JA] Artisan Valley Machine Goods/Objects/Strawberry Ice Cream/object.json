@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Helado de fresa",
-        "ko": "딸기 아이스크림",
+         // "ko": "",
         "de": "Erdbeereis",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ストロベリーアイスクリーム",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Mmmm helado de fresa!",
-        "ko": "음 딸기 아이스크림이군요!",
+         // "ko": "",
         "de": "Mmmm Erdbeereis!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "これは…イチゴのアイスクリーム！",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

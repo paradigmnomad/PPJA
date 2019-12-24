@@ -36,12 +36,12 @@
     "NameLocalization":
     {
         "es": "Bitter",
-        "ko": "비터",
+         // "ko": "",
          // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ビターズ",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -50,12 +50,12 @@
     "DescriptionLocalization":
     {
         "es": "Comúnmente utilizado en bebidas alcohólicas. Hecho de flores.",
-        "ko": "술로 만들어집니다. 꽃으로 만듭니다.",
+         // "ko": "",
          // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "アルコール飲料に足して使う。花から作られている。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

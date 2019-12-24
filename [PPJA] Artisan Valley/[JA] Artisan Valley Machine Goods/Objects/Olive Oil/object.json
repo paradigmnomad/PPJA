@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Aceite de oliva",
-        "ko": "올리브유",
+         // "ko": "",
         "de": "Olivenöl",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "オリーブオイル",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Un aceite vegetal ligero, usualmente utilizado en ensaladas.",
-        "ko": "샐러드에 자주 사용되는 식물성 기름.",
+         // "ko": "",
         "de": "Ein leichtes Pflanzenöl, das oft für Salate verwendet wird.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "サラダによく使われるライトな植物油。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

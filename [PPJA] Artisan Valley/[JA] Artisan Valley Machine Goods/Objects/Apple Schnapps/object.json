@@ -32,12 +32,12 @@
     "NameLocalization":
     {
         "es": "Aguardiente de manzana",
-        "ko": "애플 슈냅스",
+         // "ko": "",
         "de": "Apfel-Schnaps",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "アップルシュナップス",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Beber con moderación.",
-        "ko": "절제해서 드세요.",
+         // "ko": "",
         "de": "Genieße Ihn in Maßen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "飲む時は適量を守ってほどほどに。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

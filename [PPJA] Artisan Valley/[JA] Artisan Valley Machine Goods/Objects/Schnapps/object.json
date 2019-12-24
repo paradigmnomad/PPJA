@@ -32,12 +32,12 @@
     "NameLocalization":
     {
         "es": "Aguardiente",
-        "ko": "슈냅스",
+         // "ko": "",
         "de": "Schnaps",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "シュナップス",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Beber con moderación.",
-        "ko": "절제해서 드세요.",
+         // "ko": "",
         "de": "Trinken Sie in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "飲む時は適量を守ってほどほどに。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

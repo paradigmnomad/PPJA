@@ -16,12 +16,12 @@
     "NameLocalization":
     {
         "es": "Mantequilla de girasol",
-        "ko": "해바라기 버터",
+         // "ko": "",
         "de": "Sonnenblumebutter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ヒマワリバター",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -30,12 +30,12 @@
     "DescriptionLocalization":
     {
         "es": "Un sustituto de la mantequilla de maní con un sabor soleado.",
-        "ko": "싱그러운 맛을 내는 땅콩 버터 대체품.",
+         // "ko": "",
         "de": "Ein Erdnussbutter-Ersatz mit einem sonnigen Geschmack.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "お日さま風味な、ピーナッツバターの代用品。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

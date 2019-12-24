@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Sidra de manzana",
-        "ko": "애플 사이다",
+         // "ko": "",
         "de": "Apfelwein",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "アップルサイダー",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Un delicioso refresco que brilla a la luz.",
-        "ko": "빛을 비추면 반짝이는 맛있는 다과.",
+         // "ko": "",
         "de": "Eine köstliche Erfrischung, die im Licht funkelt.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "明かりが当たると光り輝くおいしい飲料。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -1,0 +1,55 @@
+{
+    "Name": "Alembic",
+    "Description": "Distills flowers, fruits, herbs, and vegetables into essential oils.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": true,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 334,
+            "Count": 5,
+        },
+        {
+            "Object": 766,
+            "Count": 50,
+        },
+        {
+            "Object": 709,
+            "Count": 10,
+        }, ],
+        "CanPurchase": false,
+        "SkillUnlockName": "Farming",
+        "SkillUnlockLevel": 2,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+         "ko": "증류기",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Alambique",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+         "ko": "꽃, 과일, 허브 및 야채를 에센셜 오일로 증류시킵니다.",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Destila flores, frutas, ervas e vegetais em óleos essenciais.",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

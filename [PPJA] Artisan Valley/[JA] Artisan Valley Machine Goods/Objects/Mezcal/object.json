@@ -36,12 +36,12 @@
     "NameLocalization":
     {
         "es": "Mezcal",
-        "ko": "메스칼",
+         // "ko": "",
         "de": "Mezcal",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "メヒカル",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -50,12 +50,12 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida destilada del maguey. Beber con moderación.",
-        "ko": "용설란을 증류시켜 만든 술. 절제해서 드세요.",
+         // "ko": "",
         "de": "Ein Likör, der aus Maguey destilliert wurde. Genieße Ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "リュウゼツランから蒸留したスピリット。飲む時はほどほどに。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

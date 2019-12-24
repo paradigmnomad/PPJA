@@ -1,0 +1,57 @@
+{
+    "Name": "Soap Press",
+    "Description": "A press designed for molding soap.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": true,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 334,
+            "Count": 1,
+        },
+        {
+            "Object": 335,
+            "Count": 5,
+        },
+        {
+            "Object": 766,
+            "Count": 5,
+        },
+        {
+            "Object": 572,
+            "Count": 1,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+         "ko": "비누 프레스",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Prensa de Sabonete",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+         "ko": "비누 성형을 위해 설계된 프레스.",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Um prensa feita para moldar sabonete.",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

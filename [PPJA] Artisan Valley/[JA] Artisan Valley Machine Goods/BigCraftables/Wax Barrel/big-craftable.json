@@ -1,0 +1,53 @@
+{
+    "Name": "Wax Barrel",
+    "Description": "A barrel for dipping candles.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": true,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 340,
+            "Count": 5,
+        },
+        {
+            "Object": 335,
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 50,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+         "ko": "밀랍통",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Barril de Cera",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+         "ko": "디핑 캔들을 만들기 위한 통.",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Um barril para mergulhar velas.",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}
