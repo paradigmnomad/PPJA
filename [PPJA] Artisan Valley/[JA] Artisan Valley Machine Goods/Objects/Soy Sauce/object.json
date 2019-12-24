@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Salsa de soja",
-        "ko": "간장",
+         // "ko": "",
         "de": "Sojasauce",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "醤油",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "Un condimento tradicional.",
-        "ko": "전통 조미료.",
+         // "ko": "",
         "de": "Eine traditionelle Würze.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "伝統ある調味料。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

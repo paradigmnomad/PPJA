@@ -24,12 +24,12 @@
     "NameLocalization":
     {
         "es": "Latte de vainilla",
-        "ko": "바닐라 라떼",
+         // "ko": "",
         "de": "Vanille Latte",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "バニララテ",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -38,12 +38,12 @@
     "DescriptionLocalization":
     {
         "es": "Fresca, permufada vainilla en una bebida clásica.",
-        "ko": "신선하고, 향기로운 바닐라.",
+         // "ko": "",
         "de": "Frische, duftende Vanille in einem klassischen Getränk.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "新鮮で香り高いバニラをお馴染みの飲み物に。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

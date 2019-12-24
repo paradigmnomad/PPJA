@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Aceite de ajonjolí",
-        "ko": "참기름",
+         // "ko": "",
         "de": "Sesamöl",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ゴマ油",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "Aceite hecho con semillas de ajonjolí.",
-        "ko": "참깨를 압착해서 만든 기름.",
+         // "ko": "",
         "de": "Ein Öl aus Sesamsamen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ゴマから搾った油。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

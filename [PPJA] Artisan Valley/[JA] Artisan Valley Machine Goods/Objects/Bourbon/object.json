@@ -32,12 +32,12 @@
     "NameLocalization":
     {
         "es": "Borbón",
-        "ko": "버번",
+         // "ko": "",
         "de": "Bourbon",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "バーボン",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Un destilado de maíz envejecido en barriles. Beber con moderación.",
-        "ko": "옥수수를 증류한 후 숙성시켜 만든 술. 절제해서 드세요.",
+         // "ko": "",
         "de": "Ein Schnaps aus Mais und in Fässern gereift. Genieße Ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "トウモロコシから作ったスピリットをタルで熟成させたもの。飲む時はほどほどに。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -1,0 +1,53 @@
+{
+    "Name": "Extruder",
+    "Description": "Turns flour into noodles and honey into wax!",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": true,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 709,
+            "Count": 5,
+        },
+        {
+            "Object": 335,
+            "Count": 2,
+        },
+        {
+            "Object": 787,
+            "Count": 1,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+         "ko": "압출기",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Extrusora",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+         "ko": "밀가루를 국수로, 꿀을 밀랍으로 만들어줍니다.",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Transforma farinha em macarrão e mel em cera!",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "Sativa",
+    "Description": "With a distinct uplifting cerebral effect, the tall sativa crop thrives in warmer climates and is great for creativity.",
+    "Category": "Vegetable",
+    "Edibility": 18,
+    "Price": 30,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian", "Sam", "Abigail"],
+        "Neutral": ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+         "es": "Sativa",
+         // "ko": "",
+          "de": "Sativa",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+         "es": "Con un distintivo efecto de estimulante cerebral, el alto cultivo de sativa prospera en climas cálidos y es genial para la creatividad.",
+         // "ko": "",
+         "de": "Die große Sativa-Ernte hat einen erhebenden zerebralen Effekt und gedeiht in wärmeren Klimazonen. Sie fördert die Kreativität.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    }
+}

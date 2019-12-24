@@ -1,10 +1,10 @@
 {
    "Name": "PPJA Better Artisan Goods Icon Pack for Ancient Crops",
    "Author": "ProjectPopulateJsonAssets",
-   "Version": "1.0.1",
+   "Version": "2.0.0",
    "Description": "A collection of artisan good sprites that pair with the PPJA Ancient Crops.",
    "UniqueID": "ppja.bagiAC",
-    "MinimumApiVersion": "2.11.3",
+    "MinimumApiVersion": "3.0.1",
    "ContentPackFor": {
       "UniqueID": "cat.betterartisangoodicons",
 "MinimumVersion": "1.4.0"

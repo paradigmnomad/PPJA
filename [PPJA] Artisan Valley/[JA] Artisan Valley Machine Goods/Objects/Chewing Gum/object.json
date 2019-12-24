@@ -19,12 +19,12 @@
     "NameLocalization":
     {
         "es": "Chicle",
-        "ko": "츄잉 껌",
+         // "ko": "",
         "de": "Kaugummi",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "チューイングガム",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -33,12 +33,12 @@
     "DescriptionLocalization":
     {
         "es": "Un fenómeno mundial.",
-        "ko": "전세계적인 현상.",
+         // "ko": "",
         "de": "Das weltweite Phänomen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "世界的な現象",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

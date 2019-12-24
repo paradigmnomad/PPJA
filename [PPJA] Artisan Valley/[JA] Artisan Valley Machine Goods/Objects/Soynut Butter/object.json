@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Mantequilla de soja",
-        "ko": "소이넛 버터",
+         // "ko": "",
         "de": "Soja-Butter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "大豆バター",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Una de las mantequillas más caras, es hecha de soja especialmente para personas con intolerancia a la lactosa.",
-        "ko": "유당 불내증을 겪는 사람들은 위한 콩으로 만든 버터.",
+         // "ko": "",
         "de": "Eine Butter aus Sojabohnen, für laktoseintolerante Personen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "乳糖不耐な人向けの大豆製バター。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

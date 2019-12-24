@@ -31,12 +31,12 @@
     "NameLocalization":
     {
         "es": "Aguardiente de menta",
-        "ko": "민트 슈냅스",
+         // "ko": "",
         "de": "Minz Schnaps",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ミントシュナップス",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -45,12 +45,12 @@
     "DescriptionLocalization":
     {
         "es": "Beber con moderación.",
-        "ko": "절제해서 드세요.",
+         // "ko": "",
         "de": "Trinken Sie in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "飲む時はほどほどに。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

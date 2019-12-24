@@ -24,12 +24,12 @@
     "NameLocalization":
     {
         "es": "Macchiato con maple",
-        "ko": "메이플 마끼아또",
+         // "ko": "",
         "de": "Ahorn Macchiato",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "メープルマキアート",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -38,12 +38,12 @@
     "DescriptionLocalization":
     {
         "es": "Beber esto en una tarde de otoño se siente tan bien.",
-        "ko": "늦가을 오후에 마시면 좋습니다.",
+         // "ko": "",
         "de": "Das an einem späten Herbstnachmittag zu trinken, fühlt sich einfach so richtig an.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "晩秋の午後に飲むのにはこれがちょうどいい具合。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

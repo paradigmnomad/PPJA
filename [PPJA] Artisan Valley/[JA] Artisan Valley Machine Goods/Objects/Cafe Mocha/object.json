@@ -24,12 +24,12 @@
     "NameLocalization":
     {
         "es": "Café oca",
-        "ko": "카페 모카",
+         // "ko": "",
         "de": "Cafe Mokka",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "カフェモカ",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -38,12 +38,12 @@
     "DescriptionLocalization":
     {
         "es": "El feliz matrimonio del chocolate con el café.",
-        "ko": "초콜릿과 커피의 행복한 만남.",
+         // "ko": "",
         "de": "Die glückliche Ehe von Schokolade zu Kaffee.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "チョコレートとコーヒーの幸せな結婚。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

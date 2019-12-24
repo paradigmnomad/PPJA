@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Mantequilla babosa",
-        "ko": "슬라임 버터",
+         // "ko": "",
         "de": "Slime Butter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "スライムバター",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Mantequilla verde hecha de baba...",
-        "ko": "슬라임으로 만든 초록색 버터입니다...",
+         // "ko": "",
         "de": "Eine grüne Butter aus Schleim ...",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "スライムから作った緑色のバター…",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

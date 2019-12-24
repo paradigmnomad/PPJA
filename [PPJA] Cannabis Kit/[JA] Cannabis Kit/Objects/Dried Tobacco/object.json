@@ -1,0 +1,37 @@
+{
+    "Name": "Dried Tobacco",
+    "Description": "Good for making spliffs and smoking alone.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 50,
+    "IsColored": false,
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Tabaco Seco",
+        // "ko": "",
+        "de": "Getrockneter Tabak",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Bueno para hacer cigarros y fumarlos sólo.",
+        // "ko": "",
+        "de": "Gut um alleine zu Rauchen und Spaß zu haben",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

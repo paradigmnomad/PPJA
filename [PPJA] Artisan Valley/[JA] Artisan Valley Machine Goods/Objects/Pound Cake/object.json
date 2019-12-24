@@ -31,12 +31,12 @@
     "NameLocalization":
     {
         "es": "Bizcocho",
-        "ko": "파운드 케이크",
+         // "ko": "",
         "de": "Pfund Kuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "パウンドケーキ",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -45,12 +45,12 @@
     "DescriptionLocalization":
     {
         "es": "Una rica rebanada de pastel mantecosa. Queda muy bien con café.",
-        "ko": "풍부하고 버터 같은 케이크 조각. 커피와 잘 어울립니다.",
+         // "ko": "",
         "de": "Ein reichhaltiges, butterartiges Stück Kuchen. Passt hervorragend zum Kaffee.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "濃厚でバターのようなケーキ。コーヒーと相性がいい。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

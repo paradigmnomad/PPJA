@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Jugo de fruta",
-        "ko": "과일 주스",
+         // "ko": "",
         "de": "Fruchtsaft",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "フルーツジュース",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Jugo de fruta recién exprimido.",
-        "ko": "갓 짜낸 과일 주스.",
+         // "ko": "",
         "de": "Frisch gepresster Fruchtsaft.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "絞りたてのフルーツジュース。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

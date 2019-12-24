@@ -1,0 +1,51 @@
+{
+    "Name": "Glass Jar",
+    "Description": "A jar to ferment non-alcoholic beverages. Turns mushrooms and various teas into kombucha.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 388,
+            "Count": 20,
+        },
+        {
+            "Object": 766,
+            "Count": 100,
+        }, ],
+        "CanPurchase": false,
+        "SkillUnlockName": "Foraging",
+        "SkillUnlockLevel": 2,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+         "ko": "유리 항아리",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Jarra de Vidro",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+         "ko": "무알콜 음료를 발효시키는 병. 버섯과 다양한 차를 콤부차로 만들 수 있습니다.",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Uma jarra para fermentar bebidas não alcoólicas. Transforma cogumelos em diversos tipos de kombuchas.",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

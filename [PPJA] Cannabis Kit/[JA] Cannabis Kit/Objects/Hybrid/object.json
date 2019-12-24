@@ -1,0 +1,43 @@
+{
+    "Name": "Hybrid",
+    "Description": "A combination of stimulating sativa and relaxing indica, hybrid strains are the best of both worlds.",
+    "Category": "Vegetable",
+    "Edibility": 18,
+    "Price": 30,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian", "Sam", "Abigail"],
+        "Neutral": ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+         "es": "Híbrida",
+         // "ko": "",
+         "de": "Hybrid",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+         "es": "Una combinación de sativa estimulante e indica relajante, cepas híbridas son lo mejor de ambos mundos.",
+         // "ko": "",
+         "de": "Hybrid-Sorten sind eine Kombination aus stimulierender Sativa und entspannender Indica, das Beste aus beiden.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    }
+}

@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Tapioca",
-        "ko": "타피오카",
+         // "ko": "",
         "de": "Tapioca",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "タピオカ",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "Una sustancia similar a la gelatina con una textura masticable.",
-        "ko": "쫄깃쫄깃한 식감의 젤라틴같은 식품.",
+         // "ko": "",
         "de": "Eine gelatineartige Substanz mit einer zähen Textur.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "歯ごたえが有るゼラチン質の食べ物。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

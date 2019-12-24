@@ -1,0 +1,97 @@
+﻿[
+	{
+		"ProducerName": "Alembic", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+	},
+	{
+		"ProducerName": "Butter Churn", //Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+	},
+	{
+		"ProducerName": "Dehydrator", //Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+	},
+	{
+		"ProducerName": "Drying Rack", //Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+	},
+	{
+		"ProducerName": "Espresso Machine", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+	},
+	{
+		"ProducerName": "Extruder", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+	},
+	{
+		"ProducerName": "Foreign Cask", //Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+	},
+	{
+		"ProducerName": "Glass Jar", //Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+	},
+	{
+		"ProducerName": "Grinder", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+	},
+	{
+		"ProducerName": "Ice Cream Machine", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+	},
+	{
+		"ProducerName": "Infuser", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+	},
+	{
+		"ProducerName": "Juicer", //Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+	},
+	{
+		"ProducerName": "Pepper Blender", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+	},
+	{
+		"ProducerName": "Smoker", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+	},
+	{
+		"ProducerName": "Soap Press", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+	},
+	{
+		"ProducerName": "Still", //Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+	},
+	{
+		"ProducerName": "Vinegar Cask", //Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+	},
+	{
+		"ProducerName": "Wax Barrel", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+	},
+	{
+		"ProducerName": "Yogurt Jar", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+	},
+]

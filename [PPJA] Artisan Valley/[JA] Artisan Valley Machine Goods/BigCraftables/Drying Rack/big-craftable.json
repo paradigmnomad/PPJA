@@ -1,0 +1,51 @@
+{
+    "Name": "Drying Rack",
+    "Description": "Put flowers, herbs, or vegetables in here to dry them for later.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 388,
+            "Count": 50,
+        },
+        {
+            "Object": 771,
+            "Count": 20,
+        }, ],
+        "CanPurchase": false,     
+        "SkillUnlockName": "Foraging",
+        "SkillUnlockLevel": 3,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+         "ko": "건조장",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Cremalheira de Secagem",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+         "ko": "꽃, 허브 또는 야채를 넣어 건조시킬 수 있습니다.",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Coloque flores, ervas ou vegetais para secá-los para mais tarde.",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

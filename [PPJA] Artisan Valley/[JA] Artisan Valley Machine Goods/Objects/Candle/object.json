@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Candela",
-        "ko": "양초",
+         // "ko": "",
         "de": "Kerze",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ろうそく",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Una vela con aroma a flor.",
-        "ko": "꽃내음 나는 양초",
+         // "ko": "",
         "de": "Eine Blume Duftkerze.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "花の香りがするろうそく。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -1,0 +1,51 @@
+{
+    "Name": "Still",
+    "Description": "A distillation system used to make liquor.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 335,
+            "Count": 5,
+        },
+        {
+            "Object": 334,
+            "Count": 10,
+        }, ],
+        "CanPurchase": false,
+        "SkillUnlockName": "Farming",
+        "SkillUnlockLevel": 3,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+         "ko": "술을 만드는데 사용되는 증류장치.",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Destilador",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+         "ko": "증류 가마",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Usado para destilar bebidas alcoólicas.",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

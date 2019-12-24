@@ -1,0 +1,21 @@
+﻿{
+    "Name": "[CCM] Trent's New Animals",
+    "Author": "Project Populate Json Assets",
+    "Version": "1.0.0",
+    "Description": "Lets you input certain New Animals items into casks.",
+    "UniqueID": "ppja.TrentsNewAnimalsCCM",
+    "MinimumApiVersion": "3.0.1",
+    "UpdateKeys": [],
+    /*"Dependencies": [
+    {
+        "UniqueID": "ppja.artisanvalleymachinegoods"
+    },
+    {
+        "UniqueID": "ppja.artisanvalleyPFM"
+    }, 
+],*/
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.CustomCaskMod"
+    }
+}

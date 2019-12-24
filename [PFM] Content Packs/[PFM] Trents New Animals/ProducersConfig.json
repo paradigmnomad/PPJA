@@ -1,0 +1,17 @@
+﻿[
+	{
+		"ProducerName": "Butter Churn", //Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+	},
+	{
+		"ProducerName": "Loom", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+	},
+	{
+		"ProducerName": "Yogurt Jar", //Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+	},
+]

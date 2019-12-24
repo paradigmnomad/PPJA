@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Vegetales secos",
-        "ko": "말린 야채",
+         // "ko": "",
         "de": "Getrocknetes Gemüse",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "干し野菜",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "Un saco de verduras secas.",
-        "ko": "한 자루의 말린 야채.",
+         // "ko": "",
         "de": "Ein Sack mit getrocknetem Gemüse.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "乾燥させた野菜の袋詰め。",
+         // "ja": "",
          // "pt": "",
          // "ru": "",
          // "tr": "",

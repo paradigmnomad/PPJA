@@ -1,0 +1,17 @@
+{
+// Each line is a configuration done with an "identifier" and an "aging rate".
+// Identifiers can be an object's Id, an object's Category or an object's Name.
+// To calculate the amount of days it take to age an object, divide 56 by the aging rate. That's the number of days to age from no quality to iridium quality.
+// Gold quality is half that value, and silver quality is one quarter of that value.
+	/*"342": 2.67, //Example with Id.
+	"-5": 2.0, //Example with Category. It's always a negative numbers.
+	"Salmon": 4.0, //Example with Name. It's required for json assets objects, since you can't know the Id it will choose for each mod user.*/
+
+	// Cheeses
+
+	"Buffalo Cheese": 2.0,
+	"Caprino Cheese": 2.0,
+	"Cheddar": 3.0,
+	"Deer Cheese": 2.5,
+
+} //More info on the mod's description page.
