@@ -41,11 +41,11 @@
     "pt": "Bolinhos de Lilás",
      // "ru": "",
      // "tr": "",
-    "zh": "紫丁香烤饼",
+    "zh": "紫丁香茶饼",
      },
  "DescriptionLocalization": { 
     "es": "Ligeramente endulzado, estos van muy bien con una taza de té.",
-    "ko": "살짝 단맛이 나며, 차 한 잔과 잘 어울립니다.",
+    "ko": "부드러운 단맛이 나며, 차 한잔과 잘 어울립니다.",
     "de": "Leicht gesüßt schmecken sie gut zu einer Tasse Tee.",
      // "fr": "",
      // "hu": "",
@@ -54,6 +54,6 @@
     "pt": "Levemente adoçados, estes vão muito bem com uma xícara de chá.",
      // "ru": "",
      // "tr": "",
-    "zh": "微甜，配上一杯茶再好不过了。",
+    "zh": "紫丁香茶饼。稍加冲泡，就能得到一杯好茶。",
     }
 }

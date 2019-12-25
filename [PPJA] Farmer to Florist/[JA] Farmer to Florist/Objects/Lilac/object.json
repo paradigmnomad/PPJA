@@ -21,7 +21,7 @@
      },
  "DescriptionLocalization": { 
     "es": "Su blanca variedad se utiliza a menudo en ceremonias.",
-    "ko": "달콤한 향의 꽃을 피우는, 크고 무성한 식물.",
+    "ko": "달콤한 향이 나는 꽃입니다.",
     "de": "Eine große, buschige Pflanze, die süß duftende Blüten hervorbringt.",
      // "fr": "",
      // "hu": "",
@@ -30,7 +30,7 @@
     "pt": "Uma planta grande e espessa que produz flores cheirosas.",
      // "ru": "",
      // "tr": "",
-    "zh": "一种拥有大而浓密的花簇且气味芬芳的花。",
+    "zh": "一种拥有大而浓密花簇且气味芬芳的花。",
     },
     "ContextTags": [
     	"color_purple",

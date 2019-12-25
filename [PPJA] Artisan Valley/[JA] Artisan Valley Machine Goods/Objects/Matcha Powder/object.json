@@ -1,7 +1,7 @@
 {
     "Name": "Matcha Powder",
     "Description": "It contains a lot of antioxidants. When made fresh, it doesn't last for long.",
-    "Category": "Cooking",
+    "Category": "ArtisanGoods",
     "Edibility": 5,
     "Price": 190,
     "IsColored": false,

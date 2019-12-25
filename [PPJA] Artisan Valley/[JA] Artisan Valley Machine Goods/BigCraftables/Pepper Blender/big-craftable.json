@@ -21,6 +21,8 @@
             "Count": 3,
         }, ],
         "CanPurchase": false,
+        "SkillUnlockName": "Foraging",
+        "SkillUnlockLevel": 6,
     },
     "NameLocalization":
     {

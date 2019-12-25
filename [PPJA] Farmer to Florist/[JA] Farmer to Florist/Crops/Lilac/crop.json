@@ -39,7 +39,7 @@
     },
 "SeedDescriptionLocalization": { 
     "es": "Plántalas en primavera. Toma 11 días para producir racimos de flores pequeñas de color púrpura.",
-    "ko": "봄에 심으세요. 11일 후 작고 보라빛 꽃송이들이 핍니다.",
+    "ko": "봄에 심습니다. 11일후에 작고 보라빛의 꽃이 핍니다.",
     "de": "Im Frühjahr pflanzen. Es dauert 11 Tage, um kleine, violette Blütenbüschel zu bilden.",
      // "fr": "",
      // "hu": "",
@@ -48,6 +48,6 @@
     "pt": "Plante-a na primavera. Demoram 11 dias para nascer um conjunto pequeno de flores.",
      // "ru": "",
      // "tr": "",
-    "zh": "春天播种。11天产出小巧的紫色花簇。",
+    "zh": "春天下种。11天产出小巧的紫色花簇。",
     }
 }

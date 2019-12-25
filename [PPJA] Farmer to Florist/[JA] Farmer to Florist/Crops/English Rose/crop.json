@@ -24,7 +24,7 @@
     "SeedPurchasePrice": 100,
     "SeedNameLocalization": { 
     "es": "Semillas de rosa inglesa",
-    "ko": "잉글리쉬 로즈 씨앗",
+    "ko": "잉글리쉬 장미 씨앗",
     "de": "Englische Rosensamen",
      // "fr": "",
      // "hu": "",
@@ -37,7 +37,7 @@
     },
 "SeedDescriptionLocalization": { 
     "es": "Plántalas en otoño. Toma 12 días para producir una flor delicada con colores variados.",
-    "ko": "가을에 심으세요. 12일 후 섬세한 꽃이 핍니다. 여러 색상입니다.",
+    "ko": "가을에 심습니다. 12일후에 다양한 여러색상의 우아한 꽃이 핍니다.",
     "de": "Pflanze im Herbst. Die Herstellung einer zarten Blume dauert 12 Tage. Sortierte Farben.",
      // "fr": "",
      // "hu": "",
@@ -46,7 +46,7 @@
     "pt": "Plante-a no outono. Demoram 12 dias para nascer uma flor delicada. Cores sortidas.",
      // "ru": "",
      // "tr": "",
-    "zh": "秋天播种。12天产出娇嫩的花，具有多种颜色。",
+    "zh": "秋天下种。12天产出娇嫩的花朵。多种颜色。",
     }
 
 }

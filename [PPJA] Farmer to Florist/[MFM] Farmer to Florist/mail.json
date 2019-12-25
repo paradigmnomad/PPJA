@@ -570,5 +570,36 @@
 		[
 			{ "SkillName": "Combat", "SkillLevel": 9 }
 		]
+	},
+
+	{
+		"Id": "PPJA.Dryer",
+		"GroupID": "F2F.CraftingRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Dryer",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Farming", "SkillLevel": 2 }
+		]
+	},
+	{
+		"Id": "PPJA.Perfumery",
+		"GroupID": "F2F.CraftingRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Perfumery",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Mining", "SkillLevel": 6 }
+		]
+	},
+	{
+		"Id": "PPJA.SoapMaker",
+		"GroupID": "F2F.CraftingRecipe",
+		"Text": "@:^^We appreciate your efforts in improving life in the Valley, and hope you'll accept this gift.^^-The Ferngill Florists Association",
+		"Recipe": "Soap Maker",
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 4 }
+		]
 	}
 ]

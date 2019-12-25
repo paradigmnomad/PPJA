@@ -1,0 +1,45 @@
+{
+    "Name": "Yeast",
+    "Description": "Useful for brewing.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 5,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 10,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Neutral": ["Emily", "Evelyn", "Leah", "Marnie", "Gus", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard", "Pam", "Shane", "Penny", "Vincent", "Jas"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //  "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        // "ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

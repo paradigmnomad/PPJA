@@ -20,7 +20,7 @@
         "pt": "Muda de Vinagreira",
          // "ru": "",
          // "tr": "",
-        "zh": "芙蓉树苗",
+        "zh": "芙蓉花树苗Sapling",
     },
     "SaplingDescriptionLocalization":
     {
@@ -34,6 +34,6 @@
         "pt": "Demora até 28 dias para produzir uma árvore de vinagreira madura. Dá flores no verão. Só cresce se os 8 espaços adjacentes estiverem vazios.",
          // "ru": "",
          // "tr": "",
-        "zh": "28天成熟为成年芙蓉花树。夏天开花。只有在附近8个地块都空置的情况下才会成长。",
+        "zh": "28天成熟为成年芙蓉花树。夏天开花。只有在附近8块地块都空置的情况下才会成长。",
     }
 }

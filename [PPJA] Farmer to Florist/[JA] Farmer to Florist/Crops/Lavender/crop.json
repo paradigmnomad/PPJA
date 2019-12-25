@@ -39,7 +39,7 @@
     },
 "SeedDescriptionLocalization": { 
     "es": "Plántalas en verano. Toma 13 días para producir pequeñas flores púrpura.",
-    "ko": "여름에 심으세요. 13일 후 작고 보라색 꽃이 핍니다.",
+    "ko": "여름에 심습니다. 13일후에 작고 보라색의 꽃이 핍니다.",
     "de": "Im Sommer pflanzen. Es dauert 13 Tage, um kleine, violette Blüten zu produzieren.",
     "fr": "Plantez en été. Il faut 13 jours pour produire de petites fleurs violettes.",
      // "hu": "",
@@ -48,6 +48,6 @@
     "pt": "Plante-a  no verão. Demoram 13 dias para nascer uma flor roxa.",
      // "ru": "",
      // "tr": "",
-    "zh": "夏天播种。13天产出小巧的紫色花朵。",
+    "zh": "夏天下种。13天产出小巧的紫色花朵。",
     }
 }
