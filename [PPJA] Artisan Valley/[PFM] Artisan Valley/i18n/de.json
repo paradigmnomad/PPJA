@@ -7,9 +7,9 @@
     "Grinder.Herb": "{inputName} (gemahlen)",
     "Grinder.Vegetable": "{inputName} (gemahlen)",
     "Infuser.Schnapps": "{inputName}-Schnaps",
-    "YogurtJar.Fruit": "{inputName}-Yoghurt",
+    "YogurtJar.Fruit": "{inputName}-Joghurt",
     "Alembic.EssentialOil": "Ätherisches Öl aus {inputName}",
     "Juice.Fruit": "{inputName}(n)saft",
-    "SoapPress.Soap": "Handgemachte {inputName}seife",
+    "SoapPress.Soap": "Handgemachte Seife aus {inputName}",
     "Smoker.Fish": "{inputName} (geräuchert)",
 }
