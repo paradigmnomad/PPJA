@@ -36,12 +36,12 @@
         "pt": "Semente de Alho Ornamental",
          // "ru": "",
          // "tr": "",
-        "zh": "大花葱种子",
+        "zh": "青葱种子",
     },
     "SeedDescriptionLocalization":
     {
         "es": "Plántalas en verano. Toma 4 días para producir una flor púrpura.",
-        "ko": "여름에 심으세요. 4일 후 보라색 꽃이 핍니다.",
+        "ko": "여름에 심습니다. 4일후에 공만한 꽃이 핍니다.",
         "de": "Im Sommer pflanzen. Es dauert 4 Tage, um eine lila Puffball-Blume zu produzieren.",
          // "fr": "",
          // "hu": "",
@@ -50,6 +50,6 @@
         "pt": "Plante-a no verão. Demoram 4 dias para nascer uma flor roxa",
          // "ru": "",
          // "tr": "",
-        "zh": "夏天播种。4天后开出紫色的花。",
+        "zh": "夏天下种。4天后开出紫色的花。",
     }
 }

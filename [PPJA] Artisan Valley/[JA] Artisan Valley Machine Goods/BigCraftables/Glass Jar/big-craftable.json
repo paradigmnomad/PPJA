@@ -17,8 +17,8 @@
             "Count": 100,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Foraging",
-        "SkillUnlockLevel": 2,
+        "SkillUnlockName": "Farming",
+        "SkillUnlockLevel": 4,
     },
     "NameLocalization":
     {

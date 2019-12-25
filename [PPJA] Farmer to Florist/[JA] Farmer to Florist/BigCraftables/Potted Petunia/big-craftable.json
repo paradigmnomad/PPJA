@@ -36,7 +36,7 @@
      },
  "DescriptionLocalization": { 
     "es": "Una petunia en una maceta de madera. ¡Recuerda regarloa!",
-    "ko": "작은 나무 화분에 심어진 페튜니아입니다. 물 주는 거 잊지 마세요!",
+    "ko": "작은 나무 화분에 심겨진 페튜니아 입니다. 물 주는거 잊지마세요!",
     "de": "Eine Petunie in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
      // "fr": "",
      // "hu": "",
@@ -45,6 +45,6 @@
     "pt": "Uma petúnia em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
      // "ru": "",
      // "tr": "",
-    "zh": "矮牵牛花盆栽。一个小木盆里的矮牵牛花。记得给它浇水！",
+    "zh": "一个小木盆里的矮牵牛花。记得给它浇水！",
     }
 }

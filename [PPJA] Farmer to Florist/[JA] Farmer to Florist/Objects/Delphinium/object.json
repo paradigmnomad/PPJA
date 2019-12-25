@@ -31,7 +31,7 @@
     "DescriptionLocalization":
     {
         "es": "Una planta que le crece flores a lo largo de su gran tallo sobresaliendo. Es venenoso si se ingiere.",
-        "ko": "크고 돌출된 줄기를 따라 자라는 꽃. 독성이 있어서 섭취하면 안됩니다.",
+        "ko": "커다랗고 튀어나온 줄기를 따라 꽃을 피우는 식물. 독이 있어서 먹으면 안된다.",
         "de": "Eine Pflanze, deren Blumen an einem großen, hervorstehenden Stiel wächst. Es ist giftig, wenn es eingenommen wird.",
          // "fr": "",
          // "hu": "",
@@ -40,12 +40,12 @@
         "pt": "Uma planta que cultiva flores ao longo de um caule grande e saliente. É venenoso,toma cuidado para não ingerir.",
          // "ru": "",
          // "tr": "",
-        "zh": "花茎大而突出，沿茎身密布花朵，有毒，不可食用。",
+        "zh": "一种硕大且突出花茎的花朵，有毒性。",
     },
     "ContextTags": [
     	"color_blue",
     	"season_spring",
-    	"flower_item",
-    	"flower_poisonous"
+    	"flower_poisonous",
+    	"flower_item"
     ]
 }

@@ -64,7 +64,7 @@
     "DescriptionLocalization":
     {
         "es": "Un té algo amargo lleno de sabores otoñales. Recomendado para curar cualquier dolencia.",
-        "ko": "가을의 맛으로 가득 찬 약간 쓴 차. 어떤 질병이든지 치료한다고 합니다.",
+        "ko": "가을의 맛으로 가득 찬 약간 쓴 차. 모든 질병을 치료한다고 말했다.",
         "de": "Ein etwas bitterer Tee mit herbstlichen Aromen. Es heißt, er würde eine Krankheit heilen.",
          // "fr": "",
          // "hu": "",
@@ -73,6 +73,6 @@
         "pt": "Um pouco amargo,um chá cheio de sabores do outono.Ótimo para curar qualquer doença.",
          // "ru": "",
          // "tr": "",
-        "zh": "尝起来有点苦的茶，充满了秋天的味道。据传可治百病。",
+        "zh": "一种苦味的茶，充满了秋天的味道。据说可以治疗任何疾病。",
     }
 }

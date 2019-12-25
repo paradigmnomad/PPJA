@@ -21,7 +21,7 @@
      },
  "DescriptionLocalization": { 
     "es": "Una flor grande que crece en el agua. Es reverenciada por varias culturas.",
-    "ko": "물속에서 자라는 큰 꽃. 여러 문화에 친근한 꽃입니다.",
+    "ko": "물 속에서 자라는 큰 꽃. 여러 문화에 친근한 꽃입니다.",
     "de": "Eine große Blume, die im Wasser wächst. Von mehreren Kulturen verehrt.",
      // "fr": "",
      // "hu": "",
@@ -30,7 +30,7 @@
     "pt": "Uma grande flor que cresce na água. Reverenciado por várias culturas.",
      // "ru": "",
      // "tr": "",
-    "zh": "一种生长在水中的大花。被多种人类文化所推崇。",
+    "zh": "一种生长在水中的大花。受到多种文化的崇敬。",
     },
     "ContextTags": [
     	"color_pink",

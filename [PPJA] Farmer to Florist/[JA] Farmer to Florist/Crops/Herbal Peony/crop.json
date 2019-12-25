@@ -42,7 +42,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plántalas en primavera. Toma 13 días para producir una flor larga.",
-        "ko": "봄에 심으세요. 13일 후 커다란 꽃이 핍니다.",
+        "ko": "봄에 심습니다. 13일후에 매우 커다란 꽃이 핍니다.",
         "de": "Im Frühjahr pflanzen. Die Produktion einer großen Blume dauert 13 Tage.",
          // "fr": "",
          // "hu": "",
@@ -51,6 +51,6 @@
         "pt": "Plante-a na primavera. Demoram 13 dias para nascer uma flor grande.",
          // "ru": "",
          // "tr": "",
-        "zh": "春天播种。13天产出硕大的花朵。",
+        "zh": "春天下种。13天产出鲜艳的花朵。",
     }
 }

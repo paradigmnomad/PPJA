@@ -21,6 +21,8 @@
             "Count": 1,
         },],
         "CanPurchase": false,
+        "SkillUnlockName": "Farming",
+        "SkillUnlockLevel": 9,
     },
     "NameLocalization":
     {

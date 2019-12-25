@@ -10,6 +10,10 @@
 		{
 			"UniqueID": "ppja.artisanvalleyPFM",
       "IsRequired": true,
+		},
+{
+			"UniqueID": "Lavapulse.QuailProducts",
+      "IsRequired": true,
 		}
 	],
 	"ContentPackFor": {

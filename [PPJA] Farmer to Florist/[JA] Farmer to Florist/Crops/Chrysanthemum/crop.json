@@ -41,7 +41,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plántalas en otoño. Toma 4 días para producir flores.",
-        "ko": "가을에 심으세요. 4일 후 꽃이 핍니다.",
+        "ko": "가을에 심습니다. 4일후에 꽃이 핍니다.",
         "de": "Pflanze im Herbst. Dauert 4 Tage, um Blumen zu produzieren.",
          // "fr": "",
          // "hu": "",
@@ -50,6 +50,6 @@
         "pt": "Plante-a  no outono. Demoram 4 dias para nascerem flores.",
          // "ru": "",
          // "tr": "",
-        "zh": "秋天播种。4天后开花。",
+        "zh": "秋天下种。4天后开花。",
     }
 }

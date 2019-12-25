@@ -23,7 +23,7 @@
   },
   "NameLocalization": { 
     "es": "Rosa inglesa en maceta",
-    "ko": "실내 화초 잉글리쉬 로즈",
+    "ko": "실내 화초 잉글리쉬 장미",
     "de": "Eingemachte englische Rose",
      // "fr": "",
      // "hu": "",
@@ -32,11 +32,11 @@
     "pt": "Vaso de Rosa Inglesa",
      // "ru": "",
      // "tr": "",
-    "zh": "英伦玫瑰盆栽",
+    "zh": "英伦玫瑰",
      },
  "DescriptionLocalization": { 
     "es": "Una rosa en una pequeña maceta de madera. ¡Recuerda regarla!",
-    "ko": "작은 나무 화분에 심어진 잉글리쉬 로즈입니다. 물 주는 거 잊지 마세요!",
+    "ko": "작은 나무 화분에 심겨진 잉글리쉬 장미 입니다. 물 주는거 잊지마세요!",
     "de": "Eine Rose in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
      // "fr": "",
      // "hu": "",
@@ -45,6 +45,6 @@
     "pt": "Uma rosa em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
      // "ru": "",
      // "tr": "",
-    "zh": "英伦玫瑰盆栽。一个小木盆里的英伦玫瑰。记得给它浇水！",
+    "zh": "一个小木盆里的英伦玫瑰。记得给它浇水！",
     }
 }
