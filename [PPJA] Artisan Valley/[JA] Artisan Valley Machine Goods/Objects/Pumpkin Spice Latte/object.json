@@ -24,12 +24,12 @@
     "NameLocalization":
     {
         "es": "Latte de especias y calabaza",
-         // "ko": "",
+        "ko": "펌킨 스파이스 라떼",
         "de": "Kürbisgewürz Latte",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "パンプキンスパイスラテ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -38,12 +38,12 @@
     "DescriptionLocalization":
     {
         "es": "Un favorito en otoño. Generalmente popular entre mujers jóvenes, pero puede ser un tema de controversia.",
-         // "ko": "",
+        "ko": "가을 애호식품. 일반적으로 절은 여성들에게 인기가 있지만, 논쟁의 대상이 될 수도 있습니다.",
         "de": "Ein Herbstliebling. Generell beliebt bei jungen Frauen, kann aber Gegenstand von Kontroversen sein.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "秋のお気に入り。若い女性に人気があるが、ある論争の対象になっている。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

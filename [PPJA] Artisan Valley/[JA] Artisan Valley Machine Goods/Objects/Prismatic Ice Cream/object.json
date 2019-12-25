@@ -30,12 +30,12 @@
     "NameLocalization":
     {
         "es": "Helado prismático",
-         // "ko": "",
+        "ko": "프리즘 아이스크림",
         "de": "Prismatisches Eis",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "プリズムアイスクリーム",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -44,12 +44,12 @@
     "DescriptionLocalization":
     {
         "es": "Se dice que trae gran fortuna a quienes la prueban.",
-         // "ko": "",
+        "ko": "먹는 사람들에게 큰 행운을 가져다 준다고 합니다.",
         "de": "Es soll angeblich denen, die es probieren, viel Glück bringen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "それを味わう人に幸運をもたらすといわれている。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

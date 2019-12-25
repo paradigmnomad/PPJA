@@ -36,12 +36,12 @@
     "NameLocalization":
     {
         "es": "Pulque",
-         // "ko": "",
+        "ko": "풀케",
         "de": "Pulque",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "プルケ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -50,12 +50,12 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida fermentada hecha de maguey. Beber con moderación.",
-         // "ko": "",
+        "ko": "용설란으로 만든 발효 음료. 절제해서 드세요.",
         "de": "Ein fermentiertes Getränk aus Maguey. Genieß es in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "リュウゼツランの葉から作った発酵飲料。飲む時はほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

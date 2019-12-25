@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Fideos de trigo",
-         // "ko": "",
+        "ko": "밀면",
         "de": "Weizennudeln",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "コムギ麺",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "Una bolsa de fideos robustos utilizados en todo el mundo para una multitud de comidas.",
-         // "ko": "",
+        "ko": "전 세계적으로 사용되는 탄탄한 국수 한 봉지.",
         "de": "Ein Beutel mit robusten Nudeln, die auf der ganzen Welt für eine Vielzahl von Mahlzeiten verwendet werden.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "世界中のたくさんの料理につかわれるコシの強い麺。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

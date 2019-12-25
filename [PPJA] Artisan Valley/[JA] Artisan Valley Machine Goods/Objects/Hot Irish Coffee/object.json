@@ -28,12 +28,12 @@
     "NameLocalization":
     {
         "es": "Café irlandés caliente",
-         // "ko": "",
+        "ko": "핫 아이리시 커피",
         "de": "Heißer Irish Coffee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "アイリッシュコーヒー",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -42,12 +42,12 @@
     "DescriptionLocalization":
     {
         "es": "Café caliente con whisky, ¡por fin juntos!",
-         // "ko": "",
+        "ko": "뜨거운 커피와 위스키의 조합!",
         "de": "Endlich heißer Kaffee und Whiskey zusammen!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ホットコーヒーとウィスキーをとうとう一緒に！",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -32,12 +32,12 @@
     "NameLocalization":
     {
         "es": "Moonshine",
-         // "ko": "",
+        "ko": "밀주",
         "de": "Moonshine",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ムーンシャイン",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida muy fuerte destilada a partir del maíz. Beber con estricta moderación.",
-         // "ko": "",
+        "ko": "옥수수를 증류시켜 만든 술. 절제해서 드세요.",
         "de": "Ein starker Schnaps, der aus Mais destilliert wird. Genieße Ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "トウモロコシの成分を蒸留してできた強めのスピリット。飲む時はほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

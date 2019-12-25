@@ -32,12 +32,12 @@
     "NameLocalization":
     {
         "es": "Shochu",
-         // "ko": "",
+        "ko": "쇼츄",
         "de": "Shochu",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "焼酎",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida destilada preparada a partir del camote. Beber con moderación.",
-         // "ko": "",
+        "ko": "고구마를 증류시켜 만든 술. 절제해서 드세요.",
         "de": "Ein Schnaps aus Süßkartoffeln destilliert. Genieße Ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "サツマイモから蒸留したお酒。飲む時はほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

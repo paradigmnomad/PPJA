@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Aceite de maní",
-         // "ko": "",
+        "ko": "땅콩 기름",
         "de": "Erdnussöl",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ピーナッツオイル",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Un aceite de nuez utilizado para cocinar o freír.",
-         // "ko": "",
+        "ko": "요리 또는 튀김에 사용되는 기름.",
         "de": "Ein nussiges Öl zum Kochen oder Braten.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "揚げ物などに使われるナッツの油。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

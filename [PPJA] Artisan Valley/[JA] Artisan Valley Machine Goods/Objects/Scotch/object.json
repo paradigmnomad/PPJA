@@ -32,12 +32,12 @@
     "NameLocalization":
     {
         "es": "Whisky escocés",
-         // "ko": "",
+        "ko": "스카치",
         "de": "Scotch",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "スコッチウイスキー",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Una variedad de whisky. Beber con moderación.",
-         // "ko": "",
+        "ko": "보리 맥아를 증류시켜 만든 술. 절제해서 드세요.",
         "de": "Eine variante von Whisky, aus Gerstenmalz destilliert. Genieße Ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "オオムギ麦芽から蒸留した多種多様なウイスキー。飲む時は程々に。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

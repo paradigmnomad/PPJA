@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Mayonesa trueno",
-         // "ko": "",
+        "ko": "천둥 마요네즈",
         "de": "Donner Mayonnaise",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "サンダーマヨネーズ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Es eléctrico!",
-         // "ko": "",
+        "ko": "찌릿찌릿!",
         "de": "Es ist elektrisch!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "電気びりびり！",
          // "pt": "",
          // "ru": "",
          // "tr": "",

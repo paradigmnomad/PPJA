@@ -37,12 +37,12 @@
     "NameLocalization":
     {
         "es": "Paletas de pastel",
-         // "ko": "",
+        "ko": "케이크 팝",
         "de": "Cake Pops",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ケーキポップ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -51,12 +51,12 @@
     "DescriptionLocalization":
     {
         "es": "Un placentero y delicioso pastel puesto en un palito. Vas a querer más de uno.",
-         // "ko": "",
+        "ko": "롤리팝 스틱에 꽂혀있는 작은 케이크. 한 개 이상 먹고 싶어질걸요.",
         "de": "Ein bisschen Kuchengenuss auf einem Lutscherstäbchen. Du wirst mehr als eins wollen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "小さな粒のケーキを棒に刺したもの。1つだけでは足りないでしょう。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

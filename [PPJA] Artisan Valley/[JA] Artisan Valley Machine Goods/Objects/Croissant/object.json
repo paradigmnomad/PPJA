@@ -31,12 +31,12 @@
     "NameLocalization":
     {
         "es": "Cruasán",
-         // "ko": "",
+        "ko": "크루아상",
         "de": "Croissant",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "クロワッサン",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -45,12 +45,12 @@
     "DescriptionLocalization":
     {
         "es": "Escamoso, mantecoso, cálido.",
-         // "ko": "",
+        "ko": "잘 부서지고, 버터 같고, 따뜻합니다.",
         "de": "Schuppig, butterig, warm.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "バター風味でサクサクで温かい。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

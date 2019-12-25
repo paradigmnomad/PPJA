@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Polvo de matcha",
-         // "ko": "",
+        "ko": "말차 가루",
         "de": "Matcha-Pulver",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "抹茶粉",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "Contiene muchos antioxidantes. No dura mucho tiempo frescos.",
-         // "ko": "",
+        "ko": "항산화제가 많이 들어있습니다. 신선할 때 만들면, 오래 지속되지 않습니다.",
         "de": "Es enthält viele Antioxidantien. Wenn frisch gemacht, hält es sich nicht lange.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "抗酸化物質が沢山含まれている。生のままだと長持ちしない。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

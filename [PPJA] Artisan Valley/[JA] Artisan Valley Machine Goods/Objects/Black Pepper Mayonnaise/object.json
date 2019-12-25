@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Mayonesa de pimienta negra",
-         // "ko": "",
+        "ko": "후추 마요네즈",
         "de": "Pfeffer Mayonnaise",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "黒コショウマヨネーズ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Parece una mayonesa normal pero con pimienta negra.",
-         // "ko": "",
+        "ko": "평범한 마요네즈 같지만, 후추가 들어있습니다.",
         "de": "Es sieht aus wie normale Mayonnaise, aber mit schwarzem Pfeffer.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "普通のマヨネーズのように見えるが、黒コショウが混ぜられている。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

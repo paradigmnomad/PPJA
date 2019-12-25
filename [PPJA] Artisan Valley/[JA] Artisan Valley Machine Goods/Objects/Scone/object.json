@@ -31,12 +31,12 @@
     "NameLocalization":
     {
         "es": "Bollo",
-         // "ko": "",
+        "ko": "스콘",
         "de": "Scone",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "スコーン",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -45,12 +45,12 @@
     "DescriptionLocalization":
     {
         "es": "Pruébalo con mermelada de fresa y crema.",
-         // "ko": "",
+        "ko": "커피 또는 차와 잘 어울립니다. 딸기 잼과 클로티드 크림하고 같이 드셔보세요.",
         "de": "Hervorragend zu Kaffee oder Tee. Probieren Sie es mit Erdbeermarmelade und Sahne.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "コーヒーや紅茶にはぴったり。イチゴジャムとクロテッドクリームで召し上がれ。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

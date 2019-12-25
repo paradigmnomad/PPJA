@@ -17,12 +17,12 @@
     "NameLocalization":
     {
         "es": "Base de natto",
-         // "ko": "",
+        "ko": "발효 낫토",
         "de": "Natto Starter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "納豆スターター",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -31,12 +31,12 @@
     "DescriptionLocalization":
     {
         "es": "Es utilizada para preparar comidas.",
-         // "ko": "",
+        "ko": "종균배양은 낫토 생산을 장려하기 위해 사용됩니다.",
         "de": "Eine Startkultur, die die Natto-Produktion fördert.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "納豆の熟成を促進させるために使われる菌のタネ。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

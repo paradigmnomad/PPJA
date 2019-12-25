@@ -32,12 +32,12 @@
     "NameLocalization":
     {
         "es": "Vermú",
-         // "ko": "",
+        "ko": "베르무트",
         "de": "Wermut",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ベルモット",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Vino fortificado. Beber con moderación.",
-         // "ko": "",
+        "ko": "강화와인. 절제해서 드세요.",
         "de": "Mit Spirituosen angereicherter Wein. Genieße Ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ワインを蒸留して更に濃度を高めたもの。飲む時はほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

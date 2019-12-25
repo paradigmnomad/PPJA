@@ -17,12 +17,12 @@
     "NameLocalization":
     {
         "es": "Extracto de serrano",
-         // "ko": "",
+        "ko": "세라노 추출액",
         "de": "Serrano-Extrakt",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "チリセラーノエキス",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -31,12 +31,12 @@
     "DescriptionLocalization":
     {
         "es": "Este líquido ha sido extraído de un pimiento.",
-         // "ko": "",
+        "ko": "고추에서 추출됐습니다.",
         "de": "Diese Flüssigkeit wurde aus Serrano extrahiert.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "トウガラシから抽出された液体。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

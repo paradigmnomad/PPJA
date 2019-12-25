@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Pasta de miso",
-         // "ko": "",
+        "ko": "미소",
         "de": "Miso Paste",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "みそ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Una pasta hecha de soja. Se usa para hacer sopa.",
-         // "ko": "",
+        "ko": "대두로 만든 페이스트. 국을 끓일때 사용됩니다.",
         "de": "Eine Paste aus Sojabohnen. Verwendet, um Suppe zu machen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "大豆から作られたペースト。これでスープを作る。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

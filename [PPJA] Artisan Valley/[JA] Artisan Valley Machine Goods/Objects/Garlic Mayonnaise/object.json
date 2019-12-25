@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Mayonesa de ajo",
-         // "ko": "",
+        "ko": "마늘 마요네즈",
         "de": "Knoblauch-Mayonnaise",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ガーリックマヨネーズ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Puedes usarlo para preparar emparedados.",
-         // "ko": "",
+        "ko": "샌드위치를 만드는데 사용할 수 있습니다.",
         "de": "Sie können es in einem Sandwich verwenden.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "サンドイッチに使える。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Harina de maíz",
-         // "ko": "",
+        "ko": "옥수수 가루",
         "de": "Maismehl",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "コーンスターチ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "Un ingrediente hecho de maíz molido que se usa para cocinar.",
-         // "ko": "",
+        "ko": "제분한 옥수수로 만든 요리 재료.",
         "de": "Ein Kochzutat aus gemahlenem Mais.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "トウモロコシを製粉した料理材料。",
          // "pt": "",
          // "ru": "",
          // "tr": "",
