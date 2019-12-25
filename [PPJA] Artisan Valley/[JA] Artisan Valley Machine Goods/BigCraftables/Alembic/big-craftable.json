@@ -24,7 +24,7 @@
         "SkillUnlockName": "Farming",
         "SkillUnlockLevel": 8,
     },
-    "NameLocalization":
+   "NameLocalization":
     {
         // "es": "",
          "ko": "증류기",
@@ -36,7 +36,7 @@
          "pt": "Alambique",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "蒸馏器",
     },
     "DescriptionLocalization":
     {
@@ -50,6 +50,6 @@
          "pt": "Destila flores, frutas, ervas e vegetais em óleos essenciais.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "将花、水果、香草和蔬菜提炼成精油。",
     }
 }

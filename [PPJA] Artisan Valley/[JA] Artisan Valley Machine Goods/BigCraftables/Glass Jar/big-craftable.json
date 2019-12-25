@@ -32,7 +32,7 @@
          "pt": "Jarra de Vidro",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "玻璃罐",
     },
     "DescriptionLocalization":
     {
@@ -46,6 +46,6 @@
          "pt": "Uma jarra para fermentar bebidas não alcoólicas. Transforma cogumelos em diversos tipos de kombuchas.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "发酵非酒精饮料的罐子。把蘑菇和各种茶变成康普茶。",
     }
 }

@@ -20,7 +20,7 @@
         "SkillUnlockName": "Farming",
         "SkillUnlockLevel": 5,
     },
-    "NameLocalization":
+     "NameLocalization":
     {
         // "es": "",
          "ko": "버터 교반기",
@@ -32,7 +32,7 @@
          "pt": "Batedeira de Manteiga",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "黄油搅拌器",
     },
     "DescriptionLocalization":
     {
@@ -46,6 +46,6 @@
          "pt": "Transforma leite ou castanhas em manteiga.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "把牛奶或坚果变成黄油。",
     }
 }

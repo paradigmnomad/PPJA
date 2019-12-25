@@ -24,7 +24,7 @@
         "SkillUnlockName": "Farming",
         "SkillUnlockLevel": 4,
     },
-    "NameLocalization":
+   "NameLocalization":
     {
         // "es": "",
          "ko": "압출기",
@@ -36,7 +36,7 @@
          "pt": "Extrusora",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "挤压机",
     },
     "DescriptionLocalization":
     {
@@ -50,6 +50,6 @@
          "pt": "Transforma farinha em macarrão e mel em cera!",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "把面粉变成面条，蜂蜜变成蜡！",
     }
 }

@@ -36,7 +36,7 @@
          "pt": "Liquidificador de Pimenta",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "胡辣椒搅拌机",
     },
     "DescriptionLocalization":
     {
@@ -50,6 +50,6 @@
          "pt": "Usado para transformar pimenta em um extrato picante.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "把辣椒混合成美味的辣味液体。",
     }
 }

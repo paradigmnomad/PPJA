@@ -36,7 +36,7 @@
          "pt": "Barril de Vinagre",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "醋桶",
     },
     "DescriptionLocalization":
     {
@@ -50,6 +50,6 @@
          "pt": "Um barril para fazer vinagre com uvas, maçãs ou arroz não moído.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "用来把葡萄、苹果和未碾碎的大米变成醋的木桶。",
     }
 }

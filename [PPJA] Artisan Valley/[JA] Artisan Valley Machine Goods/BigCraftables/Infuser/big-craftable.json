@@ -36,7 +36,7 @@
          "pt": "Infusor",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "浸出器",
     },
     "DescriptionLocalization":
     {
@@ -50,6 +50,6 @@
          "pt": "Um aparelho químico usado para infundir sabores em vodca criando liquores e schanpps.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "伏特加酒一种化学仪器，用于将香料注入伏特加酒中，制成利口酒和烈性酒。",
     }
 }

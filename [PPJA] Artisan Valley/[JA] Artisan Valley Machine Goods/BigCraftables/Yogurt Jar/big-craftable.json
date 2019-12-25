@@ -36,7 +36,7 @@
          "pt": "Iogurteira",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "酸奶机",
     },
     "DescriptionLocalization":
     {
@@ -50,6 +50,6 @@
          "pt": "Iogurteira top therm, fermenta leite para fazer iogurte.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "用牛奶和其他东西一起制作酸奶",
     }
 }

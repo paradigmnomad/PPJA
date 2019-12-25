@@ -36,7 +36,7 @@
          "pt": "Máquina de Café Espresso",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "浓缩咖啡机",
     },
     "DescriptionLocalization":
     {
@@ -50,6 +50,6 @@
          "pt": "Prepapre vários tipos de café deliciosos.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "为你准备美味的咖啡。",
     }
 }

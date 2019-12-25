@@ -40,7 +40,7 @@
          "pt": "Barril de Madeira Estrangeiro",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "进口木桶",
     },
     "DescriptionLocalization":
     {
@@ -54,6 +54,6 @@
          "pt": "Esse barril é de um produtor estrangeiro. Pode fermentar soja.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "这个木桶是外国制造的。它能使大豆发酵",
     }
 }

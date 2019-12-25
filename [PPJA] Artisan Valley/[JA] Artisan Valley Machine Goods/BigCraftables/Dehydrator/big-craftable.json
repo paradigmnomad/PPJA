@@ -32,7 +32,7 @@
          "pt": "Desidratador",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "脱水机",
     },
     "DescriptionLocalization":
     {
@@ -46,6 +46,6 @@
          "pt": "Coloque frutas aqui para desidratá-las para mais tarde.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "把水果放在这里晾干一会儿。",
     }
 }
