@@ -5,7 +5,16 @@
     "Edibility": -300,
     "Price": 5,
     "IsColored": false,
-    "Recipe": null,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Barley Malt",
+            "Count": 1,
+        }, ],
+        "IsDefault": true,
+    },
     "CanPurchase": true,
     "PurchaseFrom": "Pierre",
     "PurchasePrice": 10,
