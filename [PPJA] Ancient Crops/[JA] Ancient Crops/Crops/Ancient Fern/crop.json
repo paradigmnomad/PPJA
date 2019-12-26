@@ -17,11 +17,14 @@
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.0,
     },
-    "CanPurchase": false,
+    "CanPurchase": true,
+	"SeedPurchasePrice": 400,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semillas de Helecho Antiguas",
-        "ko": "고대 고사리 씨앗",
+        "ko": "고대의 고사리 씨앗",
         //"de": "",
         //"fr": "",
         //"hu": "",

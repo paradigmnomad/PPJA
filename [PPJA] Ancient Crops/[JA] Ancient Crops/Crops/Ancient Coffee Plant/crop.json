@@ -17,11 +17,14 @@
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.4,
     },
-    "CanPurchase": false,
+    "CanPurchase": true,
+	"SeedPurchasePrice": 125,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+	"SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Grano de Cafe Antiguo",
-        "ko": "고대 커피콩",
+        "ko": "고대의 커피콩",
         //"de": "",
         //"fr": "",
         //"hu": "",

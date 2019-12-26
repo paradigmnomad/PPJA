@@ -17,11 +17,13 @@
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.2,
     },
-    "CanPurchase": false,
+    "SeedPurchasePrice": 750,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semilla de tubérculo Antiguo",
-        "ko": "고대 뿌리 씨앗",
+        "ko": "고대의 뿌리 씨앗",
         //"de": "",
         //"fr": "",
         //"hu": "",

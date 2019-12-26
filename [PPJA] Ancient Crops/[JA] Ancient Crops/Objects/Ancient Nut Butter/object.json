@@ -6,6 +6,7 @@
     "Price": 875,
     "IsColored": false,
     "Recipe": null,
+	"EnableWithMod": "ppja.artisanvalleymachinegoods",
     "GiftTastes":
     {
         "Love": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Vincent", "Jas"],
@@ -13,7 +14,7 @@
     "NameLocalization":
     {
         "es": "Manteca de Nuez Antigua",
-        "ko": "고대 견과 버터",
+        "ko": "고대의 견과 버터",
         //"de": "",
         //"fr": "",
         //"hu": "",

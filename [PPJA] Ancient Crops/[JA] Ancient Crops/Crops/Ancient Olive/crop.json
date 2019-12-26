@@ -17,11 +17,13 @@
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.6,
     },
-    "CanPurchase": false,
+    "SeedPurchasePrice": 300,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semillas de Oliva Antiguas",
-        "ko": "고대 올리브 씨앗",
+        "ko": "고대의 올리브 씨앗",
         //"de": "",
         //"fr": "",
         //"hu": "",
