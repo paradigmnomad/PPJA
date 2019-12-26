@@ -28,7 +28,7 @@
     {
         // "es": "",
          "ko": "요거트 단지",
-        // "de": "",
+        "de": "Joghurtglas",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -36,13 +36,13 @@
          "pt": "Iogurteira",
         // "ru": "",
         // "tr": "",
-         "zh": "酸奶机",
+         "zh": "酸奶罐",
     },
     "DescriptionLocalization":
     {
         // "es": "",
          "ko": "우유를 요거트로 발효시키는 단지.",
-        // "de": "",
+        "de": "Ein großes Glas, um Milk zu Joghurt zu fermentieren.",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -50,6 +50,6 @@
          "pt": "Iogurteira top therm, fermenta leite para fazer iogurte.",
         // "ru": "",
         // "tr": "",
-         "zh": "用牛奶和其他东西一起制作酸奶",
+         "zh": "这个罐子能够将牛奶与其它东西发酵成酸奶。",
     }
 }

@@ -28,7 +28,7 @@
     {
         // "es": "",
          "ko": "아이스크림 머신",
-        // "de": "",
+        "de": "Eiscreme-Maschine",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -36,13 +36,14 @@
          "pt": "Máquina de Sorvete",
         // "ru": "",
         // "tr": "",
-         "zh": "冰淇凌机",
+
+         "zh": "冰淇淋机",
     },
     "DescriptionLocalization":
     {
         // "es": "",
          "ko": "맛있는 아이스크림을 만드는 기계.",
-        // "de": "",
+        "de": "Eine Maschine, mit der man zuhause köstliche Eiscreme machen kann.",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -50,6 +51,6 @@
          "pt": "Uma máquina para fazer sorvete delicioso em casa.",
         // "ru": "",
         // "tr": "",
-         "zh": "在家制作各种美味冰淇凌",
+         "zh": "有了它在家中即可自制美味冰淇淋。",
     }
 }

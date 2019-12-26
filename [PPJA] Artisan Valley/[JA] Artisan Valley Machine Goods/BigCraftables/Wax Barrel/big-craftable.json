@@ -28,7 +28,7 @@
     {
         // "es": "",
          "ko": "밀랍통",
-        // "de": "",
+        "de": "Wachstonne",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -36,13 +36,13 @@
          "pt": "Barril de Cera",
         // "ru": "",
         // "tr": "",
-         "zh": "蜡筒",
+         "zh": "制蜡桶",
     },
     "DescriptionLocalization":
     {
         // "es": "",
          "ko": "디핑 캔들을 만들기 위한 통.",
-        // "de": "",
+        "de": "Eine Tonne, um Kerzen zu ziehen.",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -50,6 +50,6 @@
          "pt": "Um barril para mergulhar velas.",
         // "ru": "",
         // "tr": "",
-         "zh": "用来制作蜡烛的桶。",
+         "zh": "将蜂蜡倒入其中，制作蜡烛。",
     }
 }

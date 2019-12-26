@@ -28,7 +28,7 @@
     {
         // "es": "",
          "ko": "증류기",
-        // "de": "",
+        "de": "Destilliergefäß",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -36,13 +36,13 @@
          "pt": "Alambique",
         // "ru": "",
         // "tr": "",
-         "zh": "蒸馏器",
+         "zh": "精油蒸馏器",
     },
     "DescriptionLocalization":
     {
         // "es": "",
          "ko": "꽃, 과일, 허브 및 야채를 에센셜 오일로 증류시킵니다.",
-        // "de": "",
+        "de": "Destilliert Blumen, Früchte, Gewürze und Gemüse und erschafft ätherisches Öl.",
         // "fr": "",
         // "hu": "",
         // "it": "",

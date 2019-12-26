@@ -24,7 +24,7 @@
     {
         // "es": "",
          "ko": "연기찜기",
-        // "de": "",
+        "de": "Räucherofen",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -32,13 +32,13 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "烟熏机",
+         "zh": "熏炉",
     },
     "DescriptionLocalization":
     {
         // "es": "",
          "ko": "생선과 치즈를 요리하는 연기찜기.",
-        // "de": "",
+        "de": "Ein Räucherofen, der für Fisch und Käse genutzt werden kann.",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -46,6 +46,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "将鱼和奶酪烟熏。",
+         "zh": "用来熏制鱼和奶酪的熏炉。",
     }
 }

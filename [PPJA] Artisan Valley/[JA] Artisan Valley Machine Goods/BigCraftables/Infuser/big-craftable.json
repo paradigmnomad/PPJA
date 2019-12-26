@@ -28,7 +28,7 @@
     {
         // "es": "",
          "ko": "인퓨저",
-        // "de": "",
+        "de": "Infusor",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -36,13 +36,13 @@
          "pt": "Infusor",
         // "ru": "",
         // "tr": "",
-         "zh": "浸出器",
+         "zh": "浸煮瓶",
     },
     "DescriptionLocalization":
     {
         // "es": "",
          "ko": "보드카에 향미를 주입하기 위해 사용되는 화학 장치. 리큐어와 슈냅스를 만들 수 있습니다.",
-        // "de": "",
+        "de": "Ein Apparat, der dazu genutzt wird, Wodka Geschmack zu geben, um Likör und Schnäpse herzustellen.",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -50,6 +50,6 @@
          "pt": "Um aparelho químico usado para infundir sabores em vodca criando liquores e schanpps.",
         // "ru": "",
         // "tr": "",
-         "zh": "伏特加酒一种化学仪器，用于将香料注入伏特加酒中，制成利口酒和烈性酒。",
+         "zh": "一种化学仪器，用于将香料注入伏特加，制成利口酒和杜松子酒。",
     }
 }

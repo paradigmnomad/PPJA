@@ -28,7 +28,7 @@
     {
         // "es": "",
          "ko": "에스프레소 머신",
-        // "de": "",
+        "de": "Espressomaschine",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -42,7 +42,7 @@
     {
         // "es": "",
          "ko": "맛있는 커피를 만들어 보세요.",
-        // "de": "",
+        "de": "Zaubert leckere Kaffeekreationen.",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -50,6 +50,6 @@
          "pt": "Prepapre vários tipos de café deliciosos.",
         // "ru": "",
         // "tr": "",
-         "zh": "为你准备美味的咖啡。",
+         "zh": "制作美味的咖啡。",
     }
 }

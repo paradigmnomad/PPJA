@@ -24,7 +24,7 @@
     {
         // "es": "",
          "ko": "건조장",
-        // "de": "",
+        "de": "Trockenständer",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -38,7 +38,7 @@
     {
         // "es": "",
          "ko": "꽃, 허브 또는 야채를 넣어 건조시킬 수 있습니다.",
-        // "de": "",
+        "de": "Trocknet Blumen, Kräuter oder Gemüse.",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -46,6 +46,6 @@
          "pt": "Coloque flores, ervas ou vegetais para secá-los para mais tarde.",
         // "ru": "",
         // "tr": "",
-         "zh": "把花、香草或蔬菜放在这里晾干待会儿。",
+         "zh": "把花、香草或蔬菜放在这里晾干。",
     }
 }

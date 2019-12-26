@@ -28,7 +28,7 @@
     {
         // "es": "",
          "ko": "압출기",
-        // "de": "",
+        "de": "Strangpresse",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -36,13 +36,13 @@
          "pt": "Extrusora",
         // "ru": "",
         // "tr": "",
-         "zh": "挤压机",
+         "zh": "模压机",
     },
     "DescriptionLocalization":
     {
         // "es": "",
          "ko": "밀가루를 국수로, 꿀을 밀랍으로 만들어줍니다.",
-        // "de": "",
+        "de": "Verarbeitet Mehl zu Nudeln und Honig zu Wachs!",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -50,6 +50,6 @@
          "pt": "Transforma farinha em macarrão e mel em cera!",
         // "ru": "",
         // "tr": "",
-         "zh": "把面粉变成面条，蜂蜜变成蜡！",
+         "zh": "把面粉变成面条，蜂蜜变成蜂蜡！",
     }
 }

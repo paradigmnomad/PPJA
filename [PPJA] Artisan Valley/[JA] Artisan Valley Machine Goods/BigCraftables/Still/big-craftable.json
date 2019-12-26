@@ -24,7 +24,7 @@
     {
         // "es": "",
          "ko": "술을 만드는데 사용되는 증류장치.",
-        // "de": "",
+        "de": "Destille",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -32,13 +32,13 @@
          "pt": "Destilador",
         // "ru": "",
         // "tr": "",
-         "zh": "蒸馏器",
+         "zh": "酒蒸馏器",
     },
     "DescriptionLocalization":
     {
         // "es": "",
          "ko": "증류 가마",
-        // "de": "",
+        "de": "Ein Destillationssystem, das für die Likörherstellung genutzt wird.",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -46,6 +46,6 @@
          "pt": "Usado para destilar bebidas alcoólicas.",
         // "ru": "",
         // "tr": "",
-         "zh": "用来制酒的蒸馏系统。",
+         "zh": "一种用来酿酒的蒸馏系统。",
     }
 }
