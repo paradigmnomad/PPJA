@@ -27,29 +27,29 @@
     "NameLocalization":
     {
         // "es": "",
-         "ko": "고추 믹서기",
+        "ko": "고추 믹서기",
         "de": "Pfeffermixer",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Liquidificador de Pimenta",
+        "pt": "Liquidificador de Pimenta",
         // "ru": "",
         // "tr": "",
-         "zh": "辣椒搅拌机",
+        "zh": "辣椒搅拌机",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-         "ko": "고추를 갈아 맛있고 매운 추출액을 만들 수 있습니다.",
+        "ko": "고추를 갈아 맛있고 매운 추출액을 만들 수 있습니다.",
         "de": "Mixt Pfeffer zu einer leckeren, scharfen Flüssigkeit.",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Usado para transformar pimenta em um extrato picante.",
+        "pt": "Usado para transformar pimenta em um extrato picante.",
         // "ru": "",
         // "tr": "",
-         "zh": "把辣椒搅拌成美味的辣味液体。",
+        "zh": "把辣椒搅拌成美味的辣味液体。",
     }
 }

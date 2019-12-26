@@ -17,13 +17,13 @@
             "Count": 20,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Foraging",
+        "SkillUnlockName": "Fishing",
         "SkillUnlockLevel": 4,
     },
     "NameLocalization":
     {
         // "es": "",
-         "ko": "연기찜기",
+        "ko": "연기찜기",
         "de": "Räucherofen",
         // "fr": "",
         // "hu": "",
@@ -32,12 +32,12 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "熏炉",
+        "zh": "熏炉",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-         "ko": "생선과 치즈를 요리하는 연기찜기.",
+        "ko": "생선과 치즈를 요리하는 연기찜기.",
         "de": "Ein Räucherofen, der für Fisch und Käse genutzt werden kann.",
         // "fr": "",
         // "hu": "",
@@ -46,6 +46,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "用来熏制鱼和奶酪的熏炉。",
+        "zh": "用来熏制鱼和奶酪的熏炉。",
     }
 }

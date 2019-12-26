@@ -27,29 +27,29 @@
     "NameLocalization":
     {
         // "es": "",
-         "ko": "밀랍통",
+        "ko": "밀랍통",
         "de": "Wachstonne",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Barril de Cera",
+        "pt": "Barril de Cera",
         // "ru": "",
         // "tr": "",
-         "zh": "制蜡桶",
+        "zh": "制蜡桶",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-         "ko": "디핑 캔들을 만들기 위한 통.",
+        "ko": "디핑 캔들을 만들기 위한 통.",
         "de": "Eine Tonne, um Kerzen zu ziehen.",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Um barril para mergulhar velas.",
+        "pt": "Um barril para mergulhar velas.",
         // "ru": "",
         // "tr": "",
-         "zh": "将蜂蜡倒入其中，制作蜡烛。",
+        "zh": "将蜂蜡倒入其中，制作蜡烛。",
     }
 }

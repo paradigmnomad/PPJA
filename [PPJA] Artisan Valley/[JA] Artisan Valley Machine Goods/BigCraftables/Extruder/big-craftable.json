@@ -24,32 +24,32 @@
         "SkillUnlockName": "Farming",
         "SkillUnlockLevel": 4,
     },
-   "NameLocalization":
+    "NameLocalization":
     {
         // "es": "",
-         "ko": "압출기",
+        "ko": "압출기",
         "de": "Strangpresse",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Extrusora",
+        "pt": "Extrusora",
         // "ru": "",
         // "tr": "",
-         "zh": "模压机",
+        "zh": "模压机",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-         "ko": "밀가루를 국수로, 꿀을 밀랍으로 만들어줍니다.",
+        "ko": "밀가루를 국수로, 꿀을 밀랍으로 만들어줍니다.",
         "de": "Verarbeitet Mehl zu Nudeln und Honig zu Wachs!",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Transforma farinha em macarrão e mel em cera!",
+        "pt": "Transforma farinha em macarrão e mel em cera!",
         // "ru": "",
         // "tr": "",
-         "zh": "把面粉变成面条，蜂蜜变成蜂蜡！",
+        "zh": "把面粉变成面条，蜂蜜变成蜂蜡！",
     }
 }
