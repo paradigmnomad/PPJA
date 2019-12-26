@@ -41,12 +41,12 @@
     "NameLocalization":
     {
         "es": "Salsa picante",
-         // "ko": "",
-        "de": "Scharfe Soße",
+        "ko": "핫소스",
+        "de": "Scharfe Sauce",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ホットソース",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -55,12 +55,12 @@
     "DescriptionLocalization":
     {
         "es": "Salsa picante. Comer con cautela.",
-         // "ko": "",
+        "ko": "매운 소스.",
         "de": "Eine pikante Sauce.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "スパイシーなソース。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

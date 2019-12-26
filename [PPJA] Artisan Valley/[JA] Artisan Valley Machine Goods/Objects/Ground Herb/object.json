@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Hierbas molidas",
-         // "ko": "",
-        "de": "gemahlene Kräuter",
+        "ko": "허브 가루",
+        "de": "Gemahlene Kräuter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "粉末ハーブ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "Un frasco de hierbas molidas.",
-         // "ko": "",
-        "de": "Ein Glas gemahlene Kräuter.",
+        "ko": "허브 가루 한 병.",
+        "de": "Ein Glas voll gemahlener Kräuter.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "すりおろしたハーブのビン詰め。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -32,7 +32,7 @@
     {
         // "es": "",
          "ko": "비누 프레스",
-        // "de": "",
+        "de": "Seifenpresse",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -46,7 +46,7 @@
     {
         // "es": "",
          "ko": "비누 성형을 위해 설계된 프레스.",
-        // "de": "",
+        "de": "Entworfen, um Seifen zu formen.",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -54,6 +54,6 @@
          "pt": "Um prensa feita para moldar sabonete.",
         // "ru": "",
         // "tr": "",
-         "zh": "为制造肥皂而设计的压榨机。",
+         "zh": "一种用来制作肥皂的压力机。",
     }
 }

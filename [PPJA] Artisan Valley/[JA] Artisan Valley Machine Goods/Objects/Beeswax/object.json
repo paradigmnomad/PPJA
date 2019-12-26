@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Cera de abejas",
-         // "ko": "",
+        "ko": "밀랍",
         "de": "Bienenwachs",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ミツロウ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "Cera utilizada para atar mercancías y hacer numerosos productos.",
-         // "ko": "",
-        "de": "Wachs zum Binden von Waren und zur Herstellung zahlreicher Produkte.",
+        "ko": "접착성이 있고 제품을 만드는데 사용됩니다.",
+        "de": "Wachs zum verkleben von Gütern und zur Herstellung zahlreicher Produkte.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ワックスは原料を結び付け、色んな種類の製品を生み出すために使われる。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

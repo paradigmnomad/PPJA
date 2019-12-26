@@ -16,12 +16,12 @@
     "NameLocalization":
     {
         "es": "Mantequilla de cabra",
-         // "ko": "",
+        "ko": "염소 버터",
         "de": "Ziegenbutter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ヤギバター",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -30,12 +30,12 @@
     "DescriptionLocalization":
     {
         "es": "Mantequilla suave y ácida hecha de leche de cabra.",
-         // "ko": "",
+        "ko": "염소 젖으로 만든 부드럽고 시큼한 버터.",
         "de": "Weiche, spritzige Butter aus Ziegenmilch.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ヤギの乳から作られた、柔らかく酸味の効いたバター。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -20,11 +20,11 @@
         "SkillUnlockName": "Farming",
         "SkillUnlockLevel": 5,
     },
-    "NameLocalization":
+     "NameLocalization":
     {
         // "es": "",
          "ko": "버터 교반기",
-        // "de": "",
+        "de": "Butterfass",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -32,13 +32,13 @@
          "pt": "Batedeira de Manteiga",
         // "ru": "",
         // "tr": "",
-         "zh": "奶油搅拌器",
+        "zh": "黄油搅拌器",
     },
     "DescriptionLocalization":
     {
         // "es": "",
          "ko": "우유나 견과류를 버터로 만들어줍니다.",
-        // "de": "",
+        "de": "Stampft Milch oder Nüsse zu Butter.",
         // "fr": "",
         // "hu": "",
         // "it": "",

@@ -32,12 +32,12 @@
     "NameLocalization":
     {
         "es": "Aguardiente de melocotón",
-         // "ko": "",
-        "de": "Pfirsichschnapps",
+        "ko": "복숭아 슈냅스",
+        "de": "Pfirsichschnaps",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ピーチシュナップス",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Beber con moderación.",
-         // "ko": "",
-        "de": "Trinken Sie in Maßen.",
+        "ko": "절제해서 드세요.",
+        "de": "Trink ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "適量を守って飲みましょう。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

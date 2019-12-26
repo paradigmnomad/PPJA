@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Fideos de alforfón",
-         // "ko": "",
+        "ko": "메밀국수",
         "de": "Buchweizennudeln",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "そば麺",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Una bolsa de fideos gruesos, con sabor a tierra.",
-         // "ko": "",
+        "ko": "흙내나는, 국수 한 봉지.",
         "de": "Eine Tüte mit groben, erdigen Nudeln.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "粗めに切られた素朴な風味の麺",
          // "pt": "",
          // "ru": "",
          // "tr": "",

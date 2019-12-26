@@ -36,12 +36,12 @@
     "NameLocalization":
     {
         "es": "Tequila",
-         // "ko": "",
+        "ko": "테킬라",
         "de": "Tequila",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "テキーラ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -50,12 +50,12 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida destilada a partir de agave. Beber con moderación.",
-         // "ko": "",
-        "de": "Ein Schnaps aus Agaven destilliert.",
+        "ko": "푸른 용설란을 증류시켜 만든 술. 절제해서 드세요.",
+        "de": "Ein aus Agaven destillierter Schnaps.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "リュウゼツランから蒸留したスピリッツ。適度に飲んでください。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

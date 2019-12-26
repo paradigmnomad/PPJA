@@ -43,12 +43,12 @@
     "NameLocalization":
     {
         "es": "Bollo de calabaza",
-         // "ko": "",
+        "ko": "펌킨 스파이스 스콘",
         "de": "Kürbis-Gewürz-Scone",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "パンプキンスパイススコーン",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -57,12 +57,12 @@
     "DescriptionLocalization":
     {
         "es": "Todos los sabores del otoño están embalados en cada bocado.",
-         // "ko": "",
+        "ko": "가을의 모든 맛이 한 입에 담겨있습니다.",
         "de": "Alle Aromen des Herbstes sind in jeden Bissen gepackt.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "すべての秋の味覚はこの一口に詰め込まれている。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

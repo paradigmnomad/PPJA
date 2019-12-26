@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Azafrán",
-         // "ko": "",
+        "ko": "샤프란",
         "de": "Safran",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "サフラン",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Una especia rara y valiosa con un color amarillo distintivo.",
-         // "ko": "",
-        "de": "Ein seltenes und wertvolles Gewürz mit einer deutlichen gelben Farbe.",
+        "ko": "노란색을 띄는 희귀하고 값진 향신료.",
+        "de": "Ein seltenes und wertvolles Gewürz mit einer unverwechselbar gelben Farbe.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "独特な黄色が珍しい貴重なスパイス。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

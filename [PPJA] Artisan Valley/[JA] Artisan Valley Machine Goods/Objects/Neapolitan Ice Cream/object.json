@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Helado napolitano",
-         // "ko": "",
+        "ko": "나폴리탄 아이스크림",
         "de": "Neapolitanische Eiscreme",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ナポリタンアイスクリーム",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Tres sabores en uno!",
-         // "ko": "",
+        "ko": "한 번에 세가지 맛!",
         "de": "Drei Geschmacksrichtungen in einem!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "3つのフレーバーを1つに！",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -24,7 +24,7 @@
     {
         // "es": "",
          "ko": "유리 항아리",
-        // "de": "",
+        "de": "Glaskrug",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -38,7 +38,7 @@
     {
         // "es": "",
          "ko": "무알콜 음료를 발효시키는 병. 버섯과 다양한 차를 콤부차로 만들 수 있습니다.",
-        // "de": "",
+        "de": "Ein Krug, um nicht-alkoholische Getränke zu fermentieren. Macht aus Pilzen und verschiedenen Teesorten Kombucha. ",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -46,6 +46,6 @@
          "pt": "Uma jarra para fermentar bebidas não alcoólicas. Transforma cogumelos em diversos tipos de kombuchas.",
         // "ru": "",
         // "tr": "",
-         "zh": "发酵不含酒精的饮料的罐子。将蘑菇和各种茶变成康普茶。",
+         "zh": "发酵非酒精饮料的罐子。把蘑菇和各种茶变成康普茶。",
     }
 }

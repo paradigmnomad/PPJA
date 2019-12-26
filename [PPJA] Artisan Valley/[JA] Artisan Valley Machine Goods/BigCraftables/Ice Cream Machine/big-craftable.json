@@ -24,11 +24,11 @@
         "SkillUnlockName": "Farming",
         "SkillUnlockLevel": 9,
     },
-    "NameLocalization":
+     "NameLocalization":
     {
         // "es": "",
          "ko": "아이스크림 머신",
-        // "de": "",
+        "de": "Eiscreme-Maschine",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -36,13 +36,14 @@
          "pt": "Máquina de Sorvete",
         // "ru": "",
         // "tr": "",
+
          "zh": "冰淇淋机",
     },
     "DescriptionLocalization":
     {
         // "es": "",
          "ko": "맛있는 아이스크림을 만드는 기계.",
-        // "de": "",
+        "de": "Eine Maschine, mit der man zuhause köstliche Eiscreme machen kann.",
         // "fr": "",
         // "hu": "",
         // "it": "",

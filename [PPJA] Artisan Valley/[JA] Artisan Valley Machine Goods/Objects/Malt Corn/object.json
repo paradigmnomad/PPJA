@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Malta de maíz",
-         // "ko": "",
+        "ko": "옥수수 맥아",
         "de": "Maismalz",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "コーン麦芽",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "Un grano de cereal tostado que se utiliza en el procesamiento de alcohol.",
-         // "ko": "",
+        "ko": "알코올 가공에 사용되는 구운 곡물.",
         "de": "Ein geröstetes Getreidekorn, das bei der Verarbeitung von Alkohol verwendet wird.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "お酒の製造に使われる、ローストしてある穀物。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

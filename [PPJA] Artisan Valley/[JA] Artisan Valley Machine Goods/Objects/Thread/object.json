@@ -15,12 +15,12 @@
     "NameLocalization":
     {
         "es": "Hebra",
-         // "ko": "",
+        "ko": "실",
         "de": "Garn",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "糸",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Un carrete de hilo fino de algodón.",
-         // "ko": "",
+        "ko": "고급 면사 한 꾸리.",
         "de": "Eine Spule mit feinem Baumwollgarn.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "コットンを細く巻いた糸。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -28,7 +28,7 @@
     {
         // "es": "",
          "ko": "과즙추출기",
-        // "de": "",
+        "de": "Saftpresse",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -42,7 +42,7 @@
     {
         // "es": "",
          "ko": "과일을 갓 짜낸 주스로 만들어줍니다.",
-        // "de": "",
+        "de": "Presst aus Früchten frische Säfte.",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -50,6 +50,6 @@
          "pt": "Esprema frutas e consiga suco fresquinho.",
         // "ru": "",
         // "tr": "",
-         "zh": "把水果变成鲜榨果汁。",
+         "zh": "把水果制成鲜榨果汁。",
     }
 }

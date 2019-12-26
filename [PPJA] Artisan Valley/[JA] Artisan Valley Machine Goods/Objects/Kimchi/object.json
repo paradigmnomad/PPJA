@@ -17,12 +17,12 @@
     "NameLocalization":
     {
         "es": "Kimchi",
-         // "ko": "",
+        "ko": "김치",
         "de": "Kimchi",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "キムチ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -31,12 +31,12 @@
     "DescriptionLocalization":
     {
         "es": "Comúnmente hecho de repollo y mezclado con condimentos picantes.",
-         // "ko": "",
-        "de": "Am häufigsten aus Kohl gemischt mit würzigen Gewürzen.",
+        "ko": "매운 양념과 배추로 만들었습니다.",
+        "de": "Am häufigsten aus Kohl, gemischt mit scharfen Gewürzen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "キャベツに香辛料を混ぜたものが一般的な作り方。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

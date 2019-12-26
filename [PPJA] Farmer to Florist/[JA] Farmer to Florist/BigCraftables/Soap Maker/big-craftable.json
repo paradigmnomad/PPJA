@@ -26,32 +26,32 @@
     },
     // Localization
 
-    "NameLocalization": //Used for localization. 
-    {
-        /*"es": "", //Spansih*/
-        "ko": "", //Korean
-        /*"de": "", //German
-        "fr": "", //French
-        "hu": "", //Hungarian
-        "it": "", //Italian
-        "ja": "", //Japanese
-        "pt": "", //Portuguese
-        "ru": "", //Russian
-        "tr": "", //Turkish
-        "zh": "", //Chinese (Simplified)*/
-    },
-    "DescriptionLocalization": //Used for localization. 
-    {
-        /*"es": "", //Spansih*/
-        "ko": "비누 제조기", //Korean
-        /*"de": "", //German
-        "fr": "", //French
-        "hu": "", //Hungarian
-        "it": "", //Italian
-        "ja": "", //Japanese
-        "pt": "", //Portuguese
-        "ru": "", //Russian
-        "tr": "", //Turkish
-        "zh": "", //Chinese (Simplified)*/
+        "NameLocalization": //Used for localization. 
+       { 
+            /*"es": "", //Spansih*/
+            "ko": "", //Korean
+            /*"de": "", //German
+            "fr": "", //French
+            "hu": "", //Hungarian
+            "it": "", //Italian
+            "ja": "", //Japanese
+            "pt": "", //Portuguese
+            "ru": "", //Russian
+            "tr": "", //Turkish*/
+            "zh": "香皂制作机", //Chinese (Simplified)*/
+        },
+        "DescriptionLocalization": //Used for localization. 
+        { 
+            /*"es": "", //Spansih*/
+            "ko": "비누 제조기", //Korean
+            /*"de": "", //German
+            "fr": "", //French
+            "hu": "", //Hungarian
+            "it": "", //Italian
+            "ja": "", //Japanese
+            "pt": "", //Portuguese
+            "ru": "", //Russian
+            "tr": "", //Turkish*/
+            "zh": "用花和有制作香皂", //Chinese (Simplified)*/
+        }
     }
-}

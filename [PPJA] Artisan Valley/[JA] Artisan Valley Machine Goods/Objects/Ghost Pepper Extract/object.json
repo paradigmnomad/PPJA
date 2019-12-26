@@ -17,12 +17,12 @@
     "NameLocalization":
     {
         "es": "Extracto de pimienta fantasma",
-         // "ko": "",
-        "de": "Geist-Pfeffer-Extrakt",
+        "ko": "부트 졸로키아 추출액",
+        "de": "Geisterpfeffer-Extrakt",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ゴーストペッパーエキス",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -31,12 +31,12 @@
     "DescriptionLocalization":
     {
         "es": "Incluso los amantes de las especias verdaderamente dedicados solo pueden tolerar una gota o dos de esto en la comida.",
-         // "ko": "",
+        "ko": "매운맛 애호가조차도 음식에 한 두 방울만 떨어뜨려 먹을 수 있습니다.",
         "de": "Sogar wirklich engagierte Gewürzliebhaber können nur einen Tropfen oder zwei davon im Essen vertragen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "熱烈なスパイス愛好家でさえ、これは2滴までが精いっぱいの辛さ。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

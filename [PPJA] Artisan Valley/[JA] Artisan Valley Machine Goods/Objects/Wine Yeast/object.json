@@ -5,7 +5,16 @@
     "Edibility": -300,
     "Price": 5,
     "IsColored": false,
-    "Recipe": null,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 192,
+            "Count": 1,
+        }, ],
+        "IsDefault": true,
+    },
     "CanPurchase": true,
     "PurchaseFrom": "Pierre",
     "PurchasePrice": 10,
@@ -18,7 +27,7 @@
     {
         // "es": "",
         // "ko": "",
-        // "de": "",
+        "de": "Weinhefe",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -32,7 +41,7 @@
     {
         //"es": "",
         // "ko": "",
-        //"de": "",
+        "de": "Nützlich beim Brauen.",
         // "fr": "",
         // "hu": "",
         // "it": "",

@@ -25,34 +25,34 @@
         }]
     },
 
-    // Localization
+   // Localization
 
-    "NameLocalization": //Used for localization. 
-    {
-        /*"es": "", //Spansih*/
-        "ko": "향수 제조기", //Korean
-        /*"de": "", //German
-        "fr": "", //French
-        "hu": "", //Hungarian
-        "it": "", //Italian
-        "ja": "", //Japanese
-        "pt": "", //Portuguese
-        "ru": "", //Russian
-        "tr": "", //Turkish
-        "zh": "", //Chinese (Simplified)*/
-    },
-    "DescriptionLocalization": //Used for localization. 
-    {
-        /*"es": "", //Spansih*/
-        "ko": "꽃을 향수로 만들어줍니다.", //Korean
-        /*"de": "", //German
-        "fr": "", //French
-        "hu": "", //Hungarian
-        "it": "", //Italian
-        "ja": "", //Japanese
-        "pt": "", //Portuguese
-        "ru": "", //Russian
-        "tr": "", //Turkish
-        "zh": "", //Chinese (Simplified)*/
+        "NameLocalization": //Used for localization. 
+        { 
+            /*"es": "", //Spansih*/
+            "ko": "향수 제조기", //Korean
+            /*"de": "", //German
+            "fr": "", //French
+            "hu": "", //Hungarian
+            "it": "", //Italian
+            "ja": "", //Japanese
+            "pt": "", //Portuguese
+            "ru": "", //Russian
+            "tr": "", //Turkish*/
+            "zh": "香水机", //Chinese (Simplified)*/
+        },
+        "DescriptionLocalization": //Used for localization. 
+        { 
+            /*"es": "", //Spansih*/
+            "ko": "꽃을 향수로 만들어줍니다.", //Korean
+            /*"de": "", //German
+            "fr": "", //French
+            "hu": "", //Hungarian
+            "it": "", //Italian
+            "ja": "", //Japanese
+            "pt": "", //Portuguese
+            "ru": "", //Russian
+            "tr": "", //Turkish*/
+            "zh": "加工花来制造香水。", //Chinese (Simplified)*/
+        }
     }
-}
