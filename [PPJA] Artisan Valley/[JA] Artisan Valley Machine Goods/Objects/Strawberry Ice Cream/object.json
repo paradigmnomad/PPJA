@@ -9,7 +9,7 @@
     "GiftTastes":
     {
         "Love": ["Vincent", "Jas", "Haley", "Demetrius"],
-        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigial", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigail", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
         "Dislike": ["Emily", "Leah", "Krobus", "Sebastian", "Willy"]
     },
     "NameLocalization":

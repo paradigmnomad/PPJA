@@ -30,7 +30,7 @@
         }, ],
         "GiftTastes":
         {
-            "Love": ["Abigial", "Caroline", "Demetrius", "Evelyn", "Leah", "Wizard"],
+            "Love": ["Abigail", "Caroline", "Demetrius", "Evelyn", "Leah", "Wizard"],
             "Like": ["Penny", "Sebastian", "Elliott", "Haley", "Harvey", "Jodi", "Sandy"],
             "Neutral": ["Gus", "Marnie", "Emily", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam"],
             "Dislike": ["Clint", "George", "Alex", "Kent", "Krobus"],

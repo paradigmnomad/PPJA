@@ -7,7 +7,7 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Elliot"],
+        "Love": ["Elliott"],
         "Like": ["Abigail", "Demetrius", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane"],
         "Neutral": ["Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Sam", "Wizard"],
         "Dislike": ["Jas", "Vincent", "Willy"],

@@ -25,7 +25,7 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus", "Sebastian"],
-        "Neutral": ["Marnie", "Clint", "George", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },

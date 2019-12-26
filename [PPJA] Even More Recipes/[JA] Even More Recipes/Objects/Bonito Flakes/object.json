@@ -11,7 +11,7 @@
     {
         "Like": ["Linus", "Willy"],
         "Neutral": ["Demetrius", "Elliott", "Pam"],
-        "Dislike": ["Abigial", "Alex", "Caroline", "Dwarf", "Emily", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Dwarf", "Emily", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Hate": ["Evelyn"],
     },
     "Recipe":

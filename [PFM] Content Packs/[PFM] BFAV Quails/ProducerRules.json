@@ -14,7 +14,7 @@
 		"InputPriceBased": false, 
 		"OutputPriceIncrement": 200, 
 		"OutputPriceMultiplier": 2.5, 
-		"KeepInputQuanlity": false, 
+		"KeepInputQuality": false, 
 		"OutputQuality": 0, 
 		"OutputStack": 1, 
 		"Sounds": ["Ship"], 
