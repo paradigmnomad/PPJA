@@ -36,7 +36,7 @@
          "pt": "Extrusora",
         // "ru": "",
         // "tr": "",
-         "zh": "挤压机",
+         "zh": "模压机",
     },
     "DescriptionLocalization":
     {
@@ -50,6 +50,6 @@
          "pt": "Transforma farinha em macarrão e mel em cera!",
         // "ru": "",
         // "tr": "",
-         "zh": "把面粉变成面条，蜂蜜变成蜡！",
+         "zh": "把面粉变成面条，蜂蜜变成蜂蜡！",
     }
 }
