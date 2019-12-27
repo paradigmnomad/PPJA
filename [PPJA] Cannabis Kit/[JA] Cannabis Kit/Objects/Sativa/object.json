@@ -40,4 +40,10 @@
          // "tr": "",
          // "zh": "",
     }
+    "ContextTags": [
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ]
 }
