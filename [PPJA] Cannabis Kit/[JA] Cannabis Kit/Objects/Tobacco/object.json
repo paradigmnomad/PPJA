@@ -34,4 +34,8 @@
          // "tr": "",
          // "zh": "",
     }
+    "ContextTags": [
+        "season_spring",
+        "season_summer"
+    ]
 }
