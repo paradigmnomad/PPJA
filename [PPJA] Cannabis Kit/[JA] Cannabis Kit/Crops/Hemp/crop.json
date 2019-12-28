@@ -1,0 +1,53 @@
+{
+    "Name": "Hemp",
+    "Product": "Hemp",
+    "SeedName": "Hemp Starter",
+    "SeedDescription": "Plant these in the spring, summer, or fall. Takes 8 days to mature, afterwards it continues to produce every 2 days.",
+    "Type": "Flower",
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [1, 2, 3, 2, 2],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 6,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+    "SeedPurchaseFrom": "Pierre",
+    "SeedPurchasePrice": 3200,
+    "SeedPurchaseRequirements": [
+        "f Sebastian 250",
+    ],
+    "SeedNameLocalization":
+    {
+        "es": "Iniciador de cañamo",
+        "ko": "삼",
+        "de": "Hanf",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plantalo en la primavera, verano o otoño. Tarda 8 días en madurar, luego continua produciendo cada 2 días.",
+        "ko": "봄, 여름이나 가을에 심으세요. 성숙 기간은 8일이며, 그 후 생산은 2일마다 계속된다.",
+        "de": "Pflanzen Sie diese im Frühjahr, Sommer oder Herbst. Die Reifezeit beträgt 8 Tage. Danach wird die Produktion alle 2 Tage fortgesetzt.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

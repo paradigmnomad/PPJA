@@ -1,0 +1,13 @@
+{
+    "Name": "Cannabis Kit for JsonAssets",
+    "Description": "Adds cannabis to your farm.",
+    "Author": "PPJA & taintedwheat",
+    "Version": "2.0.0",
+    "MinimumApiVersion": "3.0.1",
+    "UniqueID": "PPJA.cannabiskit",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "UpdateKeys": ["Nexus:1741"],
+}

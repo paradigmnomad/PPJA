@@ -1,0 +1,51 @@
+{
+    "Name": "Blue Dream",
+    "Product": "Blue Dream",
+    "SeedName": "Blue Dream Starter",
+    "SeedDescription": "A sativa-dominant hybrid which will ease you gently into a calm euphoria. Plant these in the summer or fall. Takes 13 days to mature, afterwards it continues to produce every 3 days.",
+    "Type": "Flower",
+    "Seasons": ["summer", "fall"],
+    "Phases": [2, 3, 4, 4, 3],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 3,
+        "MaximumPerHarvest": 5,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchaseFrom": "Harvey",
+    "SeedPurchasePrice": 400,
+    "SeedPurchaseRequirements": [
+        "f Sebastian 250",
+    ],
+  "SeedNameLocalization": {
+    "es": "Iniciador de Sueño Azul",
+    "ko": "블루 드림",
+    "de": "Blauer Traum"
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+    // "zh": "",
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Una sativa dominante híbrida que te colocorá en una tranquila euforia. Planta estas en el verano o otoño, tarda 13 días en madurar, continúa produciendo cada 3 días.",
+    "ko": "사티바 우성 하이브리드인데, 이것은 여러분을 차분한 행복감으로 부드럽게 밀어넣다. 여름이나 가을에 심으세요. 성숙 기간은 13일이며, 그 후 생산은 3일마다 계속된다.",
+    "de": "Eine Sativa-dominante Hybride, die Sie sanft in eine ruhige Euphorie versetzt. Pflanzen Sie diese im Sommer oder Herbst. Die Reifezeit beträgt 13 Tage, danach wird die Produktion alle 3 Tage fortgesetzt"
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+    // "zh": "",
+  }
+}

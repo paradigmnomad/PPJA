@@ -1,0 +1,71 @@
+{
+    "Name": "Joint",
+    "Description": "Might as well.",
+    "Category": "Crafting",
+    "Edibility": 1,
+    "EdibleIsDrink": false,
+    "EdibleBuffs":
+    {
+        "Farming": 1,
+        "Foraging": 0,
+        "Mining": 0,
+        "Fishing": 0,
+        "Luck": 2,
+        "Speed": -1,
+        "Duration": 450,
+    },
+    "Price": 125,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 172,
+            "Count": 1,
+        },
+        {
+            "Object": "Sour Diesel",
+            "Count": 1,
+        },
+        {
+            "Object": "Blue Dream",
+            "Count": 2,
+        }],
+        "IsDefault": true,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Sebastian", "Kent", "Sam"],
+        "Neutral": ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+         "es": "Porro",
+         // "ko": "",
+         "de": "Joint",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+         "es": "También Podrías...",
+         // "ko": "",
+         "de": "Warum nicht",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    }
+}

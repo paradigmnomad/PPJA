@@ -1,0 +1,51 @@
+{
+    "Name": "Hemp",
+    "Description": "A variant of the sativa species with little to no THC, hemp can be used in a variety of industrial settings.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 70,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Robin", "Demetrius", "Emily", "Linus", "Clint", "Marnie"],
+        "Neutral": ["Sam", "Sebastian", "Pierre", "Penny", "Pam", "Kent", "Abigail", "Elliott", "Harvey", "Willy"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+         "es": "Cañamo",
+         // "ko": "",
+         "de": "Hanf",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+         "es": "Una variante de las especies sativas con a nada THC, el cañamo puede ser usado en una variedad de entornos industriales.",
+         // "ko": "",
+         "de": "Hanf ist eine Variante der Sativa-Art mit wenig bis gar keinem THC und kann in einer Vielzahl von industriellen Umgebungen eingesetzt werden.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    }
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ]
+}

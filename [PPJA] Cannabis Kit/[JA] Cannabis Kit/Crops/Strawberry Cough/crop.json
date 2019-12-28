@@ -1,0 +1,53 @@
+{
+    "Name": "Strawberry Cough",
+    "Product": "Strawberry Cough",
+    "SeedName": "Strawberry Cough Starter",
+    "SeedDescription": "A potent sativa blend with a skunky, berry flavors will capture your senses. Good for anxiety and restoring internal balance. Plant these in the summer or fall. Takes 14 days to mature, afterwards it continues to produce every 3 days.",
+    "Type": "Flower",
+    "Seasons": ["summer", "fall"],
+    "Phases": [2, 3, 4, 5, 3],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 3,
+        "MaximumPerHarvest": 5,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchaseFrom": "Harvey",
+    "SeedPurchasePrice": 350,
+    "SeedPurchaseRequirements": [
+        "f Sebastian 250"
+    ],
+    "SeedNameLocalization":
+    {
+         "es": "Iniciador de Tos de Frutilla",
+         "ko": "딸기 기침",
+         "de": "Erbeerhusten",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+         "es": "Una potente mezcla de sativa con sabores a bayas que capurará tus sentidos. Bueno para la anciedad y recuperar el balance interno. Plantalo en el verano o otoño. Tarda 14 días en madurar, continua produciendo cada 3 días.",
+         "ko": "당신을 감각을 포착하는 스컹크과 베리 맛의 있는 강력한 사티바 혼합물이다. 불안감과 내부 균형 회복에 좋다. 여름이나 가을에 심으세요. 성숙 기간은 14일이며, 그 후 생산은 3일마다 계속된다.",
+          "de": "Eine kraftvolle Sativamischung mit einem Hauch von Beeren wird Ihre Sinne erobern. Gut gegen Angstzustände und zur Wiederherstellung des inneren Gleichgewichts. Pflanzen Sie diese im Sommer oder Herbst. Die Reifezeit beträgt 14 Tage. Danach wird die Produktion alle 3 Tage fortgesetzt.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    }
+}

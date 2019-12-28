@@ -1,0 +1,50 @@
+{
+    "Name": "Blue Dream",
+    "Description": "A combination of stimulating sativa and relaxing indica, hybrid strains are the best of both worlds.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 40,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian", "Sam", "Abigail"],
+        "Neutral": ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Sueño Azul",
+        // "ko": "",
+        "de": "Blauer Traum",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una mezcla de sativa estimulante e indica relajante, cepas híbridas son lo mejor de ambos mundos.",
+        // "ko": "",
+        "de": "Hybrid-Sorten sind eine Kombination aus stimulierender Sativa und entspannender Indica, das Beste aus beiden.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+    "ContextTags": [
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ]
+}

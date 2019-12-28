@@ -1,0 +1,44 @@
+{
+    "Name": "CBD Oil",
+    "Description": "An oil with wonderful health benefits.",
+    "Category": "ArtisanGoods",
+    "Edibility": 18,
+    "Price": 60,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Harvey", "Kent"],
+        "Like": ["George"],
+        "Neutral": ["Krobus", "Evelyn", "Pierre", "Caroline", "Jodi", "Sam", "Sebastian", "Penny", "Pam", "Abigail", "Elliott", "Willy"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Aceite CBD",
+        // "ko": "",
+        "de": "Cannabis",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un aceite con maravillosos beneficios para la salud.",
+        // "ko": "",
+        "de": "Pelican Town hat vor kurzem Cannabis leagalisiert, Pierre verkauft jetzt Samen mit einer Prämie.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}
