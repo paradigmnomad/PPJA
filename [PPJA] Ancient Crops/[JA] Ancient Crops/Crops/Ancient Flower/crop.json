@@ -1,10 +1,10 @@
-{
+﻿{
     "Name": "Ancient Flower",
     "Product": "Ancient Flower",
     "SeedName": "Ancient Flower Seeds",
-    "SeedDescription": "Plant in spring. Takes 8 days to produce flowers.",
+    "SeedDescription": "Plant in spring, summer or fall. Takes 8 days to produce flowers.",
     "Type": "Flower",
-    "Seasons": ["spring"],
+    "Seasons": ["spring", "summer", "fall"],
     "Phases": [1, 2, 2, 2, 1],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
@@ -21,11 +21,14 @@
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.0,
     },
-    "CanPurchase": false,
+    "CanPurchase": true,
+	"SeedPurchasePrice": 300,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Semillas de Flores Antiguas",
+        "ko": "고대의 꽃 씨앗",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -38,8 +41,8 @@
     },
     "SeedDescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Plantalas en primavera, verano o otoño. Tarda 8 días en producir flores.",
+        "ko": "봄, 여름, 또는 가을 작물. 8일 후 자라서 꽃이 핍니다.",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -48,7 +51,7 @@
         //"pt": "",
         //"ru": "",
         //"tr": "",
-        "zh": "春天种植。花8天的时间才能开花。"
+        "zh": "在春季，夏季或秋季种一朵古老的花。花8天的时间才能开花。"
     },
     "ContextTags": [
         "season_spring",

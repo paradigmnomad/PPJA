@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Flower",
     "Description": "This flower was gifted to loved ones in ancient times.",
     "Category": "Flower",
@@ -13,8 +13,8 @@
     },
     "NameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Flor Antigua",
+        "ko": "고대의 꽃",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -27,8 +27,8 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Esta flor era regalada en tiempos antiguos a personas amadas.",
+        "ko": "먼 옛날, 사랑하는 이에게 선물하는 꽃이었다고 합니다.",
         //"de": "",
         //"fr": "",
         //"hu": "",

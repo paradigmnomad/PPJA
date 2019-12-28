@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Olive Plant",
     "Product": "Ancient Olive",
     "SeedName": "Ancient Olive Seeds",
@@ -17,11 +17,13 @@
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.6,
     },
-    "CanPurchase": false,
+    "SeedPurchasePrice": 300,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Semillas de Oliva Antiguas",
+        "ko": "고대의 올리브 씨앗",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -34,8 +36,8 @@
     },
     "SeedDescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Plantalas en primavera, verano u otoño para cultivar una antigua planta de oliva. Tarda 46 días en madurary continúa produciendo luego de la primer cosecha.",
+        "ko": "봄, 여름, 또는 가을 작물. 성장하려면 46일 소요되며, 수확한 후에도 계속 작물이 생산됩니다.",
         //"de": "",
         //"fr": "",
         //"hu": "",

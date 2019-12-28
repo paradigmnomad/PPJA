@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Olive",
     "Description": "An ancient type of olive that grows in a small plant.",
     "Category": "Vegetable",
@@ -9,12 +9,12 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Dwarf", "Gregory", "Wizard", "Krobus", "Linus", "Lewis", "Evelyn"],
+        "Love": ["Dwarf", "George", "Wizard", "Krobus", "Linus", "Lewis", "Evelyn"],
     },
     "NameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Oliva Antigua",
+        "ko": "고대의 올리브",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -27,8 +27,8 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Un antiguo tipo de oliva que crece en pequeñas plantas.",
+        "ko": "작은 크기로 자라는 고대 식물.",
         //"de": "",
         //"fr": "",
         //"hu": "",

@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Nut",
     "Description": "Ancient rodents would feed on this.",
     "Category": "Vegetable",
@@ -9,12 +9,12 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Dwarf", "Gregory", "Wizard", "Krobus", "Evelyn"],
+        "Love": ["Dwarf", "George", "Wizard", "Krobus", "Evelyn"],
     },
     "NameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Nuez Antigua",
+        "ko": "고대의 견과류",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -27,8 +27,8 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Antiguos roedores se alimentaban con ella.",
+        "ko": "고대의 다람쥐들이 먹고 살았을 것 같군요.",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -40,7 +40,7 @@
         "zh": "古代的啮齿动物就以这种动物为食。"
     },
     "ContextTags": [
-        "color_yellow"
+        "color_yellow",
         "nut_item"
     ]
 }

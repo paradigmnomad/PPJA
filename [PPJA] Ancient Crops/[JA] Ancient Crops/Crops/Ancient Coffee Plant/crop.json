@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Coffee Plant",
     "Product": "Ancient Coffee Bean",
     "SeedName": "Ancient Coffee Bean",
@@ -17,11 +17,14 @@
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.4,
     },
-    "CanPurchase": false,
+    "CanPurchase": true,
+	"SeedPurchasePrice": 125,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+	"SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Grano de Cafe Antiguo",
+        "ko": "고대의 커피콩",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -34,8 +37,8 @@
     },
     "SeedDescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Plantalo en primavera, verano u otoño para cultivar una antigua planta de cafe. Tarda 32 días en madurar y continúa produciendo luego de la primer cosecha. Coloca 5 granos de cafe antiguo en un barril de madera dura para obtener cafe antiguo.",
+        "ko": "봄, 여름, 또는 가을 작물. 성장하려면 32일이 걸리며, 수확한 후에도 계속 작물이 생산됩니다. 고대의 커피콩 5개를 단단한 나무 술통에 넣어 고대의 커피를 만들 수도 있습니다.",
         //"de": "",
         //"fr": "",
         //"hu": "",

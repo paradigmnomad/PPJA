@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Tuber",
     "Description": "This ancestor of the potato used to feed ancient sloth-like animals for millennia.",
     "Category": "Vegetable",
@@ -9,12 +9,12 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Dwarf", "Gregory", "Wizard", "Krobus"],
+        "Love": ["Dwarf", "George", "Wizard", "Krobus"],
     },
     "NameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Tubérculo Antiguo",
+        "ko": "고대의 뿌리",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -27,8 +27,8 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Este ancestro de la papa se usaba para alimentar antiguos animales perezosos por milenios.",
+        "ko": "감자의 조상으로, 고대에 살았던 나무늘보의 조상들의 주 먹잇감이었습니다.",
         //"de": "",
         //"fr": "",
         //"hu": "",

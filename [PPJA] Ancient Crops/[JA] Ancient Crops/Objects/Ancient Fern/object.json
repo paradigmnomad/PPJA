@@ -1,4 +1,4 @@
-{
+﻿{
     "Name": "Ancient Fern",
     "Description": "A fern that produces a beautiful and tasteful flower.",
     "Category": "Flower",
@@ -13,8 +13,8 @@
     },
     "NameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Helecho Antiguo",
+        "ko": "고대의 고사리",
         //"de": "",
         //"fr": "",
         //"hu": "",
@@ -27,8 +27,8 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Un helecho que produce una hermosa y sabrosa flor.",
+        "ko": "아름답고 맛 좋은 꽃이 열립니다.",
         //"de": "",
         //"fr": "",
         //"hu": "",
