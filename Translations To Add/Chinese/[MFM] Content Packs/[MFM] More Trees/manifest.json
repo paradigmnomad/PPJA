@@ -1,0 +1,17 @@
+﻿{
+	"Name": "[MFM] More Trees",
+	"Author": "Project Populate Json Assets",
+	"Version": "1.0.1",
+	"Description": "Allows recipes to be mailed to the player.",
+	"UniqueID": "ppja.MoreTreesforMFM",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [],
+	"Dependencies": [
+		{
+			"UniqueID": "ppja.moretrees"
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod"
+	}
+}
