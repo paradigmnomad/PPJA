@@ -9,7 +9,7 @@
     "GiftTastes":
     {
         "Love": ["Vincent", "Jas", "Haley", "Demetrius", "Gus"],
-        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigial", "Alex", "Dwarf", "Elliott", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigail", "Alex", "Dwarf", "Elliott", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
         "Neutral": ["Emily", "Leah", "Sebastian", "Willy"],
         "Dislike": ["Krobus"]
     },
@@ -21,7 +21,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "オレンジシャーベット",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -35,7 +35,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "違った味わい方を探している人向け。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

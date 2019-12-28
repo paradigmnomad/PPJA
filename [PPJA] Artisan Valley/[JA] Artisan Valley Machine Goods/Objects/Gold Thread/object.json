@@ -9,7 +9,7 @@
     "GiftTastes":
     {
         "Love": ["Emily", "Evelyn", "Clint", "Maru", "Krobus", "Willy"],
-        "Neutral": ["Marnie", "Gus", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Pierre", "Robin", "Sandy", "Wizard", "Pam", "Shane", "Penny", "Vincent", "Jas", "Leah"],
+        "Neutral": ["Marnie", "Gus", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Pierre", "Robin", "Sandy", "Wizard", "Pam", "Shane", "Penny", "Vincent", "Jas", "Leah"],
         "Dislike": ["Sam"]
     },
     "NameLocalization":
@@ -20,7 +20,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "金の糸",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -34,7 +34,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "金色の糸を巻き上げたもの。光り輝いている。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -1,0 +1,21 @@
+﻿{
+    "Name": "[CCM] Artisan Valley",
+    "Author": "Project Populate Json Assets",
+    "Version": "3.0.1",
+    "Description": "Lets you input certain Artisan Valley items into casks.",
+    "UniqueID": "ppja.artisanvalleyCCM",
+    "MinimumApiVersion": "3.0.1",
+    "UpdateKeys": [],
+    "Dependencies": [
+    {
+        "UniqueID": "ppja.artisanvalleymachinegoods"
+    },
+    {
+        "UniqueID": "ppja.artisanvalleyPFM"
+    }, 
+],
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.CustomCaskMod"
+    }
+}

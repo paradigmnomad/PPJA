@@ -23,7 +23,7 @@
     "GiftTastes":
     {
         "Love": ["Demetrius", "Jas", "Vincent"],
-        "Like": ["Abigial", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Evelyn", "Gus", "George", "Harvey", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Wizard", ],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Evelyn", "Gus", "George", "Harvey", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Wizard", ],
         "Dislike": ["Emily", "Leah", "Krobus", "Sebastian", "Willy"],
         "Hate": ["Haley"]
     },
@@ -35,7 +35,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "プリズムアイスクリーム",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -49,7 +49,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "それを味わう人に幸運をもたらすといわれている。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

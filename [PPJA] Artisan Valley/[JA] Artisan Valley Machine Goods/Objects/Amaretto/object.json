@@ -29,7 +29,7 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
@@ -41,7 +41,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "アマレット",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -51,11 +51,11 @@
     {
         "es": "Un destilado hecho de almendras. Beber con moderación.",
         "ko": "아몬드를 증류시켜 만든 술. 절제해서 드세요.",
-        "de": "Ein Schnaps aus Mandeln. Genieße Ihn in Maßen.",
+        "de": "Ein Schnaps aus Mandeln. Genieße ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "アーモンドから作られた蒸留酒。飲む時はほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

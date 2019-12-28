@@ -9,18 +9,18 @@
     "GiftTastes":
     {
         "Love": ["Vincent", "Jas", "Haley", "Demetrius"],
-        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigial", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Wizard", "Marnie"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigail", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Wizard", "Marnie"],
         "Dislike": ["Emily", "Leah", "Krobus", "Willy"]
     },
     "NameLocalization":
     {
         "es": "Helado con chispas de menta",
         "ko": "민트칩 아이스크림",
-        "de": "Minz-Chip-Eiscreme",
+        "de": "Minz-Schokostück-Eiscreme",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ミントチップアイスクリーム",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -34,7 +34,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "手作りチョコレートを少し加えましょう。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

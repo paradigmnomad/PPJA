@@ -1,0 +1,42 @@
+{
+    "Name": "Smoked Lake Fish",
+    "Description": "A simple dish of smoked lake fish. It was smoking for hours.",
+    "Category": "ArtisanGoods",
+    "Edibility": 60,
+    "Price": 100,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {   
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Emily", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Hate": ["Evelyn", "Haley", "Pierre"],
+    },
+    "NameLocalization":
+    {
+         // "es": "",
+         "ko": "호수 훈제어",
+         "de": "Geräucherter Seefisch",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+          "zh": "烟熏湖鱼",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         "ko": "간단한 훈제 호수어. 훈제하는데 몇 시간이 소요됩니다.",
+         "de": "Ein einfaches Gericht mit über Stunden geräuchertem Seefisch.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+          "zh": "一盘简单的熏湖鱼。它已经被熏制好几个小时了。",
+    }
+}

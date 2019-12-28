@@ -25,7 +25,7 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
@@ -33,11 +33,11 @@
     {
         "es": "Moonshine",
         "ko": "밀주",
-        "de": "Moonshine",
+        "de": "Mondschein",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ムーンシャイン",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -47,11 +47,11 @@
     {
         "es": "Una bebida muy fuerte destilada a partir del maíz. Beber con estricta moderación.",
         "ko": "옥수수를 증류시켜 만든 술. 절제해서 드세요.",
-        "de": "Ein starker Schnaps, der aus Mais destilliert wird. Genieße Ihn in Maßen.",
+        "de": "Ein starker Schnaps, der aus Mais destilliert wird. Genieße ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "トウモロコシの成分を蒸留してできた強めのスピリット。飲む時はほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -1,0 +1,30 @@
+{
+	// Traditional Alcohols
+
+	"Amaretto": 1.0,
+	"Bourbon": 1.0,
+	"Brandy": 1.0,
+	"Gin": 1.0,
+	"Mezcal": 1.0,
+	"Moonshine": 1.0,
+	"Rum": 1.0,
+	"Scotch": 1.0,
+	"Shochu": 1.0,
+	"Tequila": 1.0,
+	"Vermouth": 1.0,
+	"Vodka": 1.0,
+	"Whiskey": 1.0,
+
+	// Keg Alcohols
+
+	"Cauim": 4.0,
+	"Dark Ale": 4.0,
+	"Hard Apple Cider": 4.0,
+	"Perry": 4.0,
+	"Porter": 4.0,
+	"Pulque": 4.0,
+	"Sake": 2.0,
+	"Stout": 4.0,
+	"Umeshu": 4.0,
+
+} 

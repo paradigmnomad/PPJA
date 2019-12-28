@@ -10,18 +10,18 @@
     {
         "Love": ["Haley"],
         "Like": ["Gus"],
-        "Neutral": ["Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Clint", "George", "Sebastian"]
     },
     "NameLocalization":
     {
         "es": "Mantequilla de girasol",
         "ko": "해바라기 버터",
-        "de": "Sonnenblumebutter",
+        "de": "Sonnenblumenbutter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ヒマワリバター",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -35,7 +35,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "お日さま風味な、ピーナッツバターの代用品。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

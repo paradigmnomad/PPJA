@@ -25,7 +25,7 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
@@ -33,11 +33,11 @@
     {
         "es": "Aguardiente de melocotón",
         "ko": "복숭아 슈냅스",
-        "de": "Pfirsichschnapps",
+        "de": "Pfirsichschnaps",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ピーチシュナップス",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -47,11 +47,11 @@
     {
         "es": "Beber con moderación.",
         "ko": "절제해서 드세요.",
-        "de": "Trinken Sie in Maßen.",
+        "de": "Trink ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "適量を守って飲みましょう。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

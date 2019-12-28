@@ -25,7 +25,7 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
@@ -37,7 +37,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ブランデー",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -47,11 +47,11 @@
     {
         "es": "Un destilado hecho a partir vino. Beber con moderación.",
         "ko": "와인을 증류시켜 만든 술. 절제해서 드세요.",
-        "de": "Ein Schnaps, der durch Destillation von Wein entsteht. Genieße Ihn in Maßen.",
+        "de": "Ein Schnaps, der durch Destillation von Wein entsteht. Genieße ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ワインを蒸留することによって作られたスピリット。飲む時はほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

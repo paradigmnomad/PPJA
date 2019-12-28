@@ -14,7 +14,7 @@
     {
         "Love": ["Vincent"],
         "Like": ["Jas"],
-        "Neutral": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Emily", "Sandy", "Clint", "George", "Sebastian", "Abigial", "Alex", "Demetrius", "Dwarf", "Elliott", "Gus", "Haley", "Harvey", "Kent", "Krobus", "Leah", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Willy", "Wizard", "Marnie"],
+        "Neutral": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Emily", "Sandy", "Clint", "George", "Sebastian", "Abigail", "Alex", "Demetrius", "Dwarf", "Elliott", "Gus", "Haley", "Harvey", "Kent", "Krobus", "Leah", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Willy", "Wizard", "Marnie"],
     },
     "NameLocalization":
     {
@@ -24,7 +24,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "チューイングガム",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -38,7 +38,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "世界的な現象",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -24,7 +24,7 @@
     "SeedPurchasePrice": 100,
     "SeedNameLocalization": { 
     "es": "Semillas de rosa inglesa",
-    "ko": "잉글리쉬 로즈 씨앗",
+    "ko": "잉글리쉬 장미 씨앗",
     "de": "Englische Rosensamen",
      // "fr": "",
      // "hu": "",
@@ -46,7 +46,7 @@
     "pt": "Plante-a no outono. Demoram 12 dias para nascer uma flor delicada. Cores sortidas.",
      // "ru": "",
      // "tr": "",
-    "zh": "秋天播种。12天产出娇嫩的花，具有多种颜色。",
+    "zh": "秋天下种。12天产出娇嫩的花朵。多种颜色。",
     }
 
 }

@@ -29,7 +29,7 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
@@ -37,11 +37,11 @@
     {
         "es": "Mezcal",
         "ko": "메스칼",
-        "de": "Mezcal",
+        "de": "Meskal",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "メヒカル",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -51,11 +51,11 @@
     {
         "es": "Una bebida destilada del maguey. Beber con moderación.",
         "ko": "용설란을 증류시켜 만든 술. 절제해서 드세요.",
-        "de": "Ein Likör, der aus Maguey destilliert wurde. Genieße Ihn in Maßen.",
+        "de": "Ein alkoholisches Getränk, das aus Maguey destilliert wurde. Genieße ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "リュウゼツランから蒸留したスピリット。飲む時はほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

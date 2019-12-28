@@ -25,7 +25,7 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
@@ -37,7 +37,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ラム酒",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -47,11 +47,11 @@
     {
         "es": "No se nota pero el ron se agota.",
         "ko": "왜 럼주가 사라졌을까요? 찾으면 절제해서 드세요.",
-        "de": "Warum ist der Rum immer alle? Wenn du Ihn findest, genieße Ihn in Maßen.",
+        "de": "Warum ist der Rum weg? Wenn du Ihn findest, genieße ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "「なんでラム酒はいつもなくなってるんだ？」…見付けても飲むのはほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

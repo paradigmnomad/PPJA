@@ -40,12 +40,12 @@
         "pt": "Uma planta que cultiva flores ao longo de um caule grande e saliente. É venenoso,toma cuidado para não ingerir.",
          // "ru": "",
          // "tr": "",
-        "zh": "花茎大而突出，沿茎身密布花朵，有毒，不可食用。",
+        "zh": "一种硕大且突出花茎的花朵，有毒性。",
     },
     "ContextTags": [
     	"color_blue",
     	"season_spring",
-    	"flower_item",
-    	"flower_poisonous"
+    	"flower_poisonous",
+    	"flower_item"
     ]
 }

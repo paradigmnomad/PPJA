@@ -6,8 +6,8 @@
 	[
 		{
 			"id": 0,
-			"name": "건조기",
-			"description": "말린 꽃과 잎을 차로 만들거나, 야채를 칩으로 만들 수 있습니다.",
+			"name": "Dryer",
+			"description": "Used to dry flowers and leaves for tea making, and vegetables into chips.",
 			"category": "Crafting",
 			"texture": "drying rack.png",
 			"crafting": "709 30 771 20 334 1",
@@ -160,8 +160,8 @@
 		},
 		{
 			"id": 1,
-			"name": "향수 제조기",
-			"description": "꽃을 향수로 만들어줍니다.",
+			"name": "Perfumery",
+			"description": "Processes flowers to make perfume.",
 			"category": "Crafting",
 			"texture": "perfumery.png",
 			"crafting": "766 40 709 20 335 1",
@@ -186,8 +186,8 @@
 		},
 		{
 			"id": 2,
-			"name": "비누 제조기",
-			"description": "꽃과 기름을 섞어 비누 한 개를 만들 수 있습니다.",
+			"name": "Soap Maker",
+			"description": "Combines flowers and oil into a bar of soap.",
 			"texture": "soap maker.png",
 			"crafting": "709 20 382 5 336 1",
 			"pulsate": true,

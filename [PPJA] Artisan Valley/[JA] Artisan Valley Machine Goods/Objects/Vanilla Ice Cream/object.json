@@ -9,18 +9,18 @@
     "GiftTastes":
     {
         "Love": ["Haley", "Demetrius"],
-        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigial", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie", "Vincent", "Jas"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigail", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie", "Vincent", "Jas"],
         "Dislike": ["Emily", "Leah", "Krobus", "Sebastian", "Willy"]
     },
     "NameLocalization":
     {
         "es": "Helado de vainilla",
         "ko": "바닐라 아이스크림",
-        "de": "Vanille-Eiscreme",
+        "de": "Vanilleeis",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "バニラアイスクリーム",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -34,7 +34,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "定番を選んでおけば間違いありません。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

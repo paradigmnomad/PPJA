@@ -46,7 +46,7 @@
         "pt": "Cozido Verde",
          // "ru": "",
          // "tr": "",
-        "zh": "菊汁小白菜",
+        "zh": "煮青蔬",
     },
     "DescriptionLocalization":
     {
@@ -60,6 +60,6 @@
         "pt": "É amargo, mas é saudável.",
          // "ru": "",
          // "tr": "",
-        "zh": "其味苦涩，但很养生。",
+        "zh": "它很苦，但很健康。",
     }
 }

@@ -25,7 +25,7 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
@@ -33,11 +33,11 @@
     {
         "es": "Shochu",
         "ko": "쇼츄",
-        "de": "Shochu",
+        "de": "Shōchū",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "焼酎",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -47,11 +47,11 @@
     {
         "es": "Una bebida destilada preparada a partir del camote. Beber con moderación.",
         "ko": "고구마를 증류시켜 만든 술. 절제해서 드세요.",
-        "de": "Ein Schnaps aus Süßkartoffeln destilliert. Genieße Ihn in Maßen.",
+        "de": "Ein aus Süßkartoffeln destilliertes alkoholisches Getränk. Genieße ihn in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "サツマイモから蒸留したお酒。飲む時はほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

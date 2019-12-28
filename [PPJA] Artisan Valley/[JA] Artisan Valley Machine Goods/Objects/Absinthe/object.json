@@ -29,7 +29,7 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
@@ -41,7 +41,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "アブサン",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -51,11 +51,11 @@
     {
         "es": "También conocido como el hada verde. Beber en estricta moderación.",
         "ko": "초록 요정으로 알려져 있습니다. 절제해서 드세요.",
-        "de": "Wird auch grüne Fee genannt. Genieß ihn in maßen.",
+        "de": "Auch bekannt als grüne Fee. Genieß ihn in maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "「緑の妖精」という名でも知られている。節度を持って飲んでください。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -23,7 +23,7 @@
     "SeedNameLocalization":
     {
         "es": "Kit de clemátide",
-        "ko": "클레마티스 씨앗",
+        "ko": "클레머티스 씨앗",
         "de": "Klematis-Saat",
          // "fr": "",
          // "hu": "",
@@ -46,6 +46,6 @@
         "pt": "Plante-a no outono. Demoram 10 dias para crescerem, e continuam a produção após a primeira colheita. Crescem em uma treliça",
          // "ru": "",
          // "tr": "",
-        "zh": "秋天播种。10天成熟，在第一次收获后循环生产。生长在架子上。",
+        "zh": "秋天下种。10天成熟，之后循环生产。在架子上生长。",
     }
 }

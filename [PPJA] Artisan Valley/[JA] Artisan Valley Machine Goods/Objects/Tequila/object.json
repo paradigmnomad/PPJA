@@ -29,7 +29,7 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
@@ -41,7 +41,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "テキーラ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -51,11 +51,11 @@
     {
         "es": "Una bebida destilada a partir de agave. Beber con moderación.",
         "ko": "푸른 용설란을 증류시켜 만든 술. 절제해서 드세요.",
-        "de": "Ein Schnaps aus Agaven destilliert.",
+        "de": "Ein aus Agaven destillierter Schnaps.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "リュウゼツランから蒸留したスピリッツ。適度に飲んでください。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

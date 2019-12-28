@@ -1,0 +1,59 @@
+{
+    "Name": "Foreign Cask",
+    "Description": "This cask is of a foreign make. It can ferment soybeans.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 709,
+            "Count": 15,
+        },
+        {
+            "Object": 390,
+            "Count": 5,
+        },
+        {
+            "Object": 771,
+            "Count": 10,
+        },
+        {
+            "Object": 725,
+            "Count": 1,
+        }, ],
+        "CanPurchase": false,
+        "SkillUnlockName": "Farming",
+        "SkillUnlockLevel": 7,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "항아리",
+        "de": "Fremdländisches Fass",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Barril de Madeira Estrangeiro",
+        // "ru": "",
+        // "tr": "",
+        "zh": "进口木桶",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "콩을 발효시킬 수 있습니다.",
+        "de": "Dieses Fass ist aus fremdländischer Herstellung. Es kann Sojabohnen fermentieren.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Esse barril é de um produtor estrangeiro. Pode fermentar soja.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "这个桶是外国制造的。它可以发酵黄豆。",
+    }
+}

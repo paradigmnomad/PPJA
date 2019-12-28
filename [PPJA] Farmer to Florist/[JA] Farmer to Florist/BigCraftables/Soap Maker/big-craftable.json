@@ -1,0 +1,57 @@
+{
+    "Name": "Soap Maker",
+    "Description": "Combines flowers and oil into a bar of soap.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "CanPurchase": false,
+    "PurchaseFrom": null,
+    "PurchasePrice": 0,
+    "PurchaseRequirements": null,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 709,
+            "Count": 20,
+        },
+        {
+            "Object": 382,
+            "Count": 5,
+        },
+        {
+            "Object": 336,
+            "Count": 1,
+        }, ],
+    },
+    // Localization
+
+        "NameLocalization": //Used for localization. 
+       { 
+            /*"es": "", //Spansih*/
+            "ko": "비누 제조기", //Korean
+            /*"de": "", //German
+            "fr": "", //French
+            "hu": "", //Hungarian
+            "it": "", //Italian
+            "ja": "", //Japanese
+            "pt": "", //Portuguese
+            "ru": "", //Russian
+            "tr": "", //Turkish*/
+            "zh": "香皂制作机", //Chinese (Simplified)*/
+        },
+        "DescriptionLocalization": //Used for localization. 
+        { 
+            /*"es": "", //Spansih*/
+            "ko": "꽃과 오일을 섞어 비누 한 개를 만들 수 있습니다.", //Korean
+            /*"de": "", //German
+            "fr": "", //French
+            "hu": "", //Hungarian
+            "it": "", //Italian
+            "ja": "", //Japanese
+            "pt": "", //Portuguese
+            "ru": "", //Russian
+            "tr": "", //Turkish*/
+            "zh": "用花和有制作香皂", //Chinese (Simplified)*/
+        }
+    }

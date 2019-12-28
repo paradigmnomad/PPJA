@@ -32,7 +32,7 @@
     "pt": "Vaso de Rosa Inglesa",
      // "ru": "",
      // "tr": "",
-    "zh": "英伦玫瑰盆栽",
+    "zh": "英伦玫瑰",
      },
  "DescriptionLocalization": { 
     "es": "Una rosa en una pequeña maceta de madera. ¡Recuerda regarla!",
@@ -45,6 +45,6 @@
     "pt": "Uma rosa em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
      // "ru": "",
      // "tr": "",
-    "zh": "英伦玫瑰盆栽。一个小木盆里的英伦玫瑰。记得给它浇水！",
+    "zh": "一个小木盆里的英伦玫瑰。记得给它浇水！",
     }
 }

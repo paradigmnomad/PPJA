@@ -29,7 +29,7 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
@@ -37,11 +37,11 @@
     {
         "es": "Bitter",
         "ko": "비터",
-         // "de": "",
+         "de": "Bitter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ビターズ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -50,12 +50,12 @@
     "DescriptionLocalization":
     {
         "es": "Comúnmente utilizado en bebidas alcohólicas. Hecho de flores.",
-        "ko": "술로 만들어집니다. 꽃으로 만듭니다.",
-         // "de": "",
+        "ko": "일반적으로 주류에 사용됩니다. 꽃으로 만듭니다.",
+         "de": "Häufig in alkoholischen Getränken genutzt. Hergestellt aus Blumen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "アルコール飲料に足して使う。花から作られている。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

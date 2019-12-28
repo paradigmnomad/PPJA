@@ -1,0 +1,15 @@
+{
+    "Dehydrator.Fruit": "{inputName} (getrocknet)",
+    "DryingRack.Flower": "{inputName} (getrocknet)",
+    "DryingRack.Herb": "{inputName} (getrocknet)",
+    "DryingRack.Vegetable": "{inputName} (getrocknet)",
+    "DryingRack.Mushroom": "{inputName}  (getrocknet)",
+    "Grinder.Herb": "{inputName} (gemahlen)",
+    "Grinder.Vegetable": "{inputName} (gemahlen)",
+    "Infuser.Schnapps": "{inputName}-Schnaps",
+    "YogurtJar.Fruit": "{inputName}-Joghurt",
+    "Alembic.EssentialOil": "Ätherisches Öl aus {inputName}",
+    "Juice.Fruit": "{inputName}(n)saft",
+    "SoapPress.Soap": "Handgemachte Seife aus {inputName}",
+    "Smoker.Fish": "{inputName} (geräuchert)",
+}
