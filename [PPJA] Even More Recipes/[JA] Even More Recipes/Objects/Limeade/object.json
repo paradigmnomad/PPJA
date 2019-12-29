@@ -32,7 +32,7 @@
     {
         "es": "Limonada",
         "ko": "라임 에이드",
-         // "de": "",
+        "de": "Limonade",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -46,7 +46,7 @@
     {
         "es": "¡Limón recién exprimido!",
         "ko": "갓 짜낸 라임 에이드!",
-         // "de": "",
+        "de": "Frisch gepresste Limonade!",
          // "fr": "",
          // "hu": "",
          // "it": "",

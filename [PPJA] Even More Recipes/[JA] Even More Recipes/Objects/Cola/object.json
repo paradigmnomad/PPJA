@@ -31,7 +31,7 @@
     {
         "es": "Cola",
         "ko": "콜라",
-         // "de": "",
+        "de": "Cola",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -45,7 +45,7 @@
     {
         "es": "Sabe mejor que Joja Cola.",
         "ko": "조자 콜라보다 맛있어요.",
-         // "de": "",
+        "de": "Besser als Joja Cola.",
          // "fr": "",
          // "hu": "",
          // "it": "",
