@@ -28,7 +28,7 @@
     {
         "es": "Surimi",
         "ko": "수리미",
-         // "de": "",
+        "de": "Surimi",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -42,7 +42,7 @@
     {
         "es": "Pescado en pasta.",
         "ko": "페이스트로 만든 다진 생선.",
-         // "de": "",
+        "de": "Gehackter Fisch, der zu einer Paste verarbeitet wurde.",
          // "fr": "",
          // "hu": "",
          // "it": "",

@@ -22,7 +22,7 @@
     {
         "es": "Café con leche",
         "ko": "밀크 커피",
-         // "de": "",
+        "de": "Milchiger Kaffee",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -36,7 +36,7 @@
     {
         "es": "¡Café con leche enlatado!",
         "ko": "우유가 첨가된 캔 커피!",
-         // "de": "",
+        "de": "Kaffee mit Milch aus der Dose!",
          // "fr": "",
          // "hu": "",
          // "it": "",

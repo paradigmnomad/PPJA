@@ -37,7 +37,7 @@
     {
         "es": "Ramen",
         "ko": "라면",
-         // "de": "",
+        "de": "Ramen",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -51,7 +51,7 @@
     {
         "es": "Un plato sencillo con fideos ligeramente masticables.",
         "ko": "쫄깃쫄깃한 면 요리.",
-         // "de": "",
+        "de": "Eine traditionelle japanische Nudelsuppe.",
          // "fr": "",
          // "hu": "",
          // "it": "",
