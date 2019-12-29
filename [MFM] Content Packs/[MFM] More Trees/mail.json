@@ -2,7 +2,7 @@
     {
         "Id": "ppja.camphorsapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "안녕 얘야,^^ 난 항상 네 농장이 잘 되길 바란단다.^ 작은 케어 패키지를 보내줄게. 잘 사용했으면 좋겠구나.^^  -에블린", 
+        "Text": "Hello there dear,^^  I hope your farm is doing well.^ I'm sending you a little care package. I hope you can find a good use for it.^^  -Evelyn", 
         "Attachments": [{"Type": "Object", "Name":"Camphor Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "1 fall Y3", 
@@ -19,7 +19,7 @@
     {
         "Id": "ppja.breadfruitsapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "@,^^ 지금 계절에 안 맞는다는 걸 알지만, 겨울에 심으면 봄에 멋진 빵나무를 수확할 수 있을 거야.^^  -엘리엇", 
+        "Text": "@,^^ I know this isn't the season, but if you plant this over winter you'll have a nice Breadfruit tree to harvest from in the spring.^^  -Elliott", 
         "Attachments": [{"Type": "Object", "Name":"Breadfruit Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "12 fall Y2", 
@@ -45,7 +45,7 @@
     {
         "Id": "ppja.eucalyptussapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "안녕 @,^^ 난 네가 농장에서 이걸 기르고 그 잎을 팔아 좋은 이익을 내기 위해 팔고 싶어한다고 생각했어. 내가 직접 재배하려고 했는데 불안해서 말이야.^^  -마루", 
+        "Text": "Hey @,^^ I thought you might want to grow one of these on your farm and sell the leaves for a good profit I was going to try and grow it myself but got nervous.^^  -Maru", 
         "Attachments": [{"Type": "Object", "Name":"Eucalyptus Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "1 summer Y2", 
@@ -58,7 +58,7 @@
     {
         "Id": "ppja.figsapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "@에게,^^ 무화과나무는 가지에 꽃을 피운다는 걸 알고 있니? 직접 심어보렴!^^ -드미트리우스", 
+        "Text": "Dear @,^^ Did you know fig trees have so blossoms on their branches? See for yourself!^^ -Demetrius", 
         "Attachments": [{"Type": "Object", "Name":"Fig Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "10 summer Y2", 
@@ -71,7 +71,7 @@
     {
         "Id": "ppja.grapefruitsapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "@,^^  난 아침마다 자몽과 단백질 셰이크를 먹어. 균형 잡힌 아침식사를 해야지! 신선한 자몽이 좋다고 책 어디에서 읽었는데, 다 자라면 나한테 갖다 줄 수 있어?^^  -알렉스", 
+        "Text": "@,^^  Every morning I have a protein shake with a grapefruit. Gotta have that balanced breakfast! I read something that said fresh grapefruit are better for you so could you start being my supplier?^^  -Alex", 
         "Attachments": [{"Type": "Object", "Name":"Grapefruit Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "8 spring Y2", 
@@ -84,7 +84,7 @@
     {
         "Id": "ppja.melaleucasapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "@에게,^^  나하고 재스에게 친절하게 대해주곤 했지. 고마움의 뜻으로 이걸 주고 싶구나.^^  -마니", 
+        "Text": "Dear @,^^  You've been so very kind to me and Jas. I'd like you to have this as our way of saying thanks.^^  -Marnie", 
         "Attachments": [{"Type": "Object", "Name":"Melaleuca Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "1 fall Y1", 
@@ -93,7 +93,7 @@
     {
         "Id": "ppja.persimmonsapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "안녕.^^ 나 이거 찾았다, 알았쥐?^^ 너도 가질 수 있쥐.^^  -모자 쥐", 
+        "Text": "Hi.^^ Me found this. Okay, poke?^^ You can have it, poke.^^  -hat mouse", 
         "Attachments": [{"Type": "Object", "Name":"Persimmon Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "17 fall Y1", 
@@ -102,7 +102,7 @@
     {
         "Id": "ppja.pomelosapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "안녕 @!^^ 성장하려면 시간이 좀 걸리겠지만, 네가 잘 해낼거라 믿어. 얼마나 크게 자랄까? 빈센트가 와서 꼭대기까지 오를려고 할 지도 몰라!^^  -샘", 
+        "Text": "Hey @!^^ It'll take awhile to grow but I think you'll be able to manage. I wonder how tall it'll get? Maybe Vincent could come over and try to climb all the way to the top!^^  -Sam", 
         "Attachments": [{"Type": "Object", "Name":"Pomelo Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "10 spring Y2", 
@@ -115,7 +115,7 @@
     {
         "Id": "ppja.vanillasapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "좋은 아침일세,^^  이 묘목의 용도를 찾길 바라네. 나는 그것이 불가사의한 의미를 지닌 품목을 생산할 것이라고 믿는다네.^^ -라모디우스", 
+        "Text": "Greetings,^^  I hope you can find some use for this sapling. I believe it will produce an item of arcane significance.^^ -M. Rasmodius, Wizard", 
         "Attachments": [{"Type": "Object", "Name":"Vanilla Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "10 winter Y1", 
@@ -124,7 +124,7 @@
     {
         "Id": "ppja.fragrantwisteriasapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "@,^^  난 이 나무의 꽃이 좋더라. 날 위해 한 그루 심어줄래?^^  -애비게일", 
+        "Text": "Hey @,^^  I love the blooms from this tree. Could you plant one for me on the farm?^^  -Abigail", 
         "Attachments": [{"Type": "Object", "Name":"Fragrant Wisteria Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "1 fall Y1", 
@@ -133,7 +133,7 @@
     {
         "Id": "ppja.ylangylangsapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "@,^^ 이 나무의 꽃이 피부에 좋다고 책에서 읽었어. 게다가 꽃이 피면 엄청 아름답대. 한 번 심어보는 게 어때?^^ -애비게일", 
+        "Text": "Hey @,^^ I read that the flowers from this tree are good for helping your skin. Plus it's so beautiful when it blooms. Maybe you want to try planting one?^^ -Abigail", 
         "Attachments": [{"Type": "Object", "Name":"Ylang Ylang Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "8 spring Y3", 

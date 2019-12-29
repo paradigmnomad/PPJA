@@ -28,7 +28,7 @@
 
         "NameLocalization": //Used for localization. 
        { 
-            /*"es": "", //Spansih*/
+            /*"es": "", //Spanish*/
             "ko": "비누 제조기", //Korean
             /*"de": "", //German
             "fr": "", //French
@@ -42,7 +42,7 @@
         },
         "DescriptionLocalization": //Used for localization. 
         { 
-            /*"es": "", //Spansih*/
+            /*"es": "", //Spanish*/
             "ko": "꽃과 오일을 섞어 비누 한 개를 만들 수 있습니다.", //Korean
             /*"de": "", //German
             "fr": "", //French

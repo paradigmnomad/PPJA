@@ -37,7 +37,7 @@
     "NameLocalization":
     {
         "es": "Verduras hervidas",
-        "ko": "삶은 야채",
+        "ko": "삶은 채소",
         "de": "Gekochtes Grüns",
          // "fr": "",
          // "hu": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
         "es": "Amargo, pero saludable.",
-        "ko": "쓰지만 건강에 좋습니다.",
+        "ko": "쓴 맛이 있지만 건강합니다.",
         "de": "Es ist bitter, aber gesund.",
          // "fr": "",
          // "hu": "",

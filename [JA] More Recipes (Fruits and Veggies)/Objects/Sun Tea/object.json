@@ -34,7 +34,7 @@
         }, ],
         "GiftTastes":
         {
-            "Love": ["Abigial", "Caroline", "Vincent", "Jas", "Sandy", "Penny"],
+            "Love": ["Abigail", "Caroline", "Vincent", "Jas", "Sandy", "Penny"],
             "Like": ["Jodi", "Alex", "Shane", "Evelyn", "Lewis", "Linus"],
             "Neutral": ["Marnie", "Emily", "Maru", "Pierre", "Robin", "Sam", "Demetrius", "Sebastian", "Elliott", "Leah"],
             "Dislike": ["Clint", "George", "Kent", "Gus", "Harvey", "Haley", "Dwarf"],
@@ -51,7 +51,7 @@
     {
         "es": "Té del sol",
         "ko": "선 티",
-        "de": "Sun Tee",
+        "de": "Sonnentee",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -65,7 +65,7 @@
     {
         "es": "Té negro que se ha dejado preparar en el cálido sol del desierto.",
         "ko": "뜨거운 사막의 태양 아래에서 끓인 홍차.",
-        "de": "Schwarzer Tee, der in der heißen Wüstensonne gebrüht wird.",
+        "de": "Schwarzer Tee, der in der heißen Wüstensonne aufgebrüht wurde.",
          // "fr": "",
          // "hu": "",
          // "it": "",

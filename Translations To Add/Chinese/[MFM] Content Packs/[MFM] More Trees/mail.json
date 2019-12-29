@@ -1,0 +1,146 @@
+ [
+    {
+        "Id": "ppja.camphorsapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "你好，亲爱的@，^^  我希望你的农场一切顺利。^我寄给你一个小包裹。我希望你能充分利用它。^^  -艾芙琳", 
+        "Attachments": [{"Type": "Object", "Name":"Camphor Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "1 fall Y3", 
+        "Seasons":  ["fall"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Evelyn", "FriendshipLevel": 6 }
+        ],
+        /*"SkillConditions": 
+        [
+            { "SkillName": "Farming", "SkillLevel": 1 }
+        ]*/
+    },
+    {
+        "Id": "ppja.breadfruitsapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "@，^^ 我知道现在不是它收获的季节，但如果你在冬天种下它，你在春天就可以看到一棵漂亮的面包树。^^  -艾利欧特", 
+        "Attachments": [{"Type": "Object", "Name":"Breadfruit Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "12 fall Y2", 
+        "Seasons":  ["fall"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Elliott", "FriendshipLevel": 6 }
+        ],
+    },
+    /*{
+        "Id": "ppja.cassiasapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "Hello, @.^^  This was gathering dust in the toolshed. I figured if anyone in this town could make it grow you could.^^  -Kent", 
+        "Attachments": [{"Type": "Object", "Name":"Cassia Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "4 fall Y2", 
+        "Seasons":  ["fall"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Kent", "FriendshipLevel": 4 }
+        ],
+    },*/
+    {
+        "Id": "ppja.eucalyptussapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "嘿 @，^^ 我觉得你可能想在你的农场里种一棵这样的树，然后把叶子卖个好价钱。我本来想自己种它的，但是农场地块不够了。^^  -玛鲁", 
+        "Attachments": [{"Type": "Object", "Name":"Eucalyptus Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "1 summer Y2", 
+        "Seasons":  ["summer"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Maru", "FriendshipLevel": 8 }
+        ],
+    },
+    {
+        "Id": "ppja.figsapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "亲爱的 @，^^ 你知道无花果树的枝头上开满了花吗？你可以种下去自己看！^^ -德米特里厄斯", 
+        "Attachments": [{"Type": "Object", "Name":"Fig Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "10 summer Y2", 
+        "Seasons":  ["summer"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Demetirus", "FriendshipLevel": 6 }
+        ],
+    },
+    {
+        "Id": "ppja.grapefruitsapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "@，^^  每天早上我都要喝一杯西柚蛋白奶昔。早餐必须要营养均衡！我读到一篇文章说新鲜西柚对人体比较好，所以你可以成为我的西柚供应商吗？^^  -亚历克斯", 
+        "Attachments": [{"Type": "Object", "Name":"Grapefruit Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "8 spring Y2", 
+        "Seasons":  ["spring"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Alex", "FriendshipLevel": 7 }
+        ],
+    },
+    {
+        "Id": "ppja.melaleucasapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "亲爱的 @，^^  你对我和贾斯太好了。我想送你这个来表达我们的谢意。^^  -玛妮", 
+        "Attachments": [{"Type": "Object", "Name":"Melaleuca Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "1 fall Y1", 
+        "Seasons":  ["fall"], 
+    },
+    {
+        "Id": "ppja.persimmonsapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "嗨。^^ 我发现了这个。poke？^^你可以拿去，poke。^^  -帽子老鼠", 
+        "Attachments": [{"Type": "Object", "Name":"Persimmon Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "17 fall Y1", 
+        "Seasons":  ["fall"], 
+    },
+    {
+        "Id": "ppja.pomelosapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "嘿 @！^^ 这需要一段时间来成长，但我认为你能应对。我想知道它会有多高？也许文森特可以试着爬到树顶！^^  -山姆", 
+        "Attachments": [{"Type": "Object", "Name":"Pomelo Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "10 spring Y2", 
+        "Seasons":  ["spring"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Sam", "FriendshipLevel": 8 }
+        ],
+    },
+    {
+        "Id": "ppja.vanillasapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "你好，^^  我希望你能为这棵树苗找到一些用处。我相信它会产出一件神奇的物品。^^ -拉斯莫迪斯法师", 
+        "Attachments": [{"Type": "Object", "Name":"Vanilla Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "10 winter Y1", 
+        "Seasons":  ["winter"], 
+    },
+    {
+        "Id": "ppja.fragrantwisteriasapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "嘿 @，^^  我喜欢这种树上的花。你能帮我在农场种一棵吗？^^  -阿比盖尔", 
+        "Attachments": [{"Type": "Object", "Name":"Fragrant Wisteria Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "1 fall Y1", 
+        "Seasons":  ["fall"], 
+    },
+    {
+        "Id": "ppja.ylangylangsapling", 
+        "GroupID": "MoreTrees.sapling",
+        "Text": "嘿 @，^^ 我听说这棵树上的花对你的皮肤有好处。而且它开花的时候很漂亮。也许你想试着种一个？^^ -阿比盖尔", 
+        "Attachments": [{"Type": "Object", "Name":"Ylang Ylang Sapling", "Stack": 1},],         
+        "Repeatable": false,         
+        "Date": "8 spring Y3", 
+        "Seasons":  ["spring"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Abigail", "FriendshipLevel": 7 }
+        ],
+    },
+]

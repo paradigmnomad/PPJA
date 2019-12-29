@@ -1,0 +1,95 @@
+﻿[
+	// B E G I N  T R E N T S  N E W  A N I M A L S  P R O D U C T S
+
+	// Butter Churn
+	// Remind Trent to add context tags to Buffalo Milk etc.
+
+	{
+		"ProducerName": "Butter Churn", 
+		"InputIdentifier": "buffalo_milk_item", 
+		"InputStack": 1, 
+		"FuelIdentifier": null, 
+		"FuelStack": 1, 
+		"MinutesUntilReady": 180, 
+		"OutputIdentifier": "Ghee",  
+		"OutputName": null,
+		"PreserveType": null, 
+		"InputPriceBased": false, 
+		"OutputPriceIncrement": 200, 
+		"OutputPriceMultiplier": 2.5, 
+		"KeepInputQuality": false, 
+		"OutputQuality": 0, 
+		"OutputStack": 1, 
+		"Sounds": ["Ship"], 
+		"PlacingAnimation": null, 
+		"PlacingAnimationColorName": "White", 
+	},
+
+	// Loom
+
+	{
+		"ProducerName": "Loom", 
+		"InputIdentifier": "Black Yarn", 
+		"InputStack": 1, 
+		"FuelIdentifier": null, 
+		"FuelStack": 1, 
+		"MinutesUntilReady": 120, 
+		"OutputIdentifier": "Black Wool",  
+		"OutputName": null, 
+		"PreserveType": null, 
+		"InputPriceBased": false, 
+		"OutputPriceIncrement": 200, 
+		"OutputPriceMultiplier": 2.5, 
+		"KeepInputQuality": false, 
+		"OutputQuality": 0, 
+		"OutputStack": 1, 
+		"Sounds": ["Ship"], 
+		"PlacingAnimation": null, 
+		"PlacingAnimationColorName": "White", 
+	},
+	{
+		"ProducerName": "Loom", 
+		"InputIdentifier": "Silk Cocoon", 
+		"InputStack": 1, 
+		"FuelIdentifier": null, 
+		"FuelStack": 1, 
+		"MinutesUntilReady": 180, 
+		"OutputIdentifier": "Silk Thread",  
+		"OutputName": null,  
+		"PreserveType": null, 
+		"InputPriceBased": false, 
+		"OutputPriceIncrement": 200, 
+		"OutputPriceMultiplier": 2.5, 
+		"KeepInputQuality": false, 
+		"OutputQuality": 0, 
+		"OutputStack": 1, 
+		"Sounds": ["Ship"], 
+		"PlacingAnimation": null, 
+		"PlacingAnimationColorName": "White", 
+	},
+
+	// Yogurt Jar
+
+	{
+		"ProducerName": "Yogurt Jar", 
+		"InputIdentifier": "buffalo_milk_item", 
+		"InputStack": 1, 
+		"FuelIdentifier": null, 
+		"FuelStack": 1, 
+		"MinutesUntilReady": 1600, 
+		"OutputIdentifier": "Buffalo Milk Yogurt",  
+		"OutputName": null,  
+		"PreserveType": null, 
+		"InputPriceBased": false, 
+		"OutputPriceIncrement": 0, 
+		"OutputPriceMultiplier": 2, 
+		"KeepInputQuality": false, 
+		"OutputQuality": 0, 
+		"OutputStack": 1, 
+		"Sounds": ["Ship"], 
+		"PlacingAnimation": null, 
+		"PlacingAnimationColorName": "White", 
+	},
+
+	// E N D  T R E N T S  N E W  A N I M A L S  P R O D U C T S
+]

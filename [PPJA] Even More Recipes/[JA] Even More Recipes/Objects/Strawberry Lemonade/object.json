@@ -34,7 +34,7 @@
     {
         "Love": ["Maru", "Demetrius", "Sam", "Krobus"],
         "Like": ["Shane", "Pam", "Robin", "Sandy"],
-        "Neutral": ["Gus", "Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Pierre"],
+        "Neutral": ["Gus", "Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Pierre"],
         "Dislike": ["Penny", "Vincent", "Jas", "Harvey", "Willy", "Wizard"],
     },
     "NameLocalization":
