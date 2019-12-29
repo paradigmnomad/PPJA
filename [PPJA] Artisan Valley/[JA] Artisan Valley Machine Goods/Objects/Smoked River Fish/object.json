@@ -14,7 +14,7 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
+         "ko": "강 훈제어",
          "de": "Geräucherter Flussfisch",
          // "fr": "",
          // "hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
+         "ko": "간단한 강 훈제어. 훈제하는데 몇 시간이 소요됩니다.",
          "de": "Ein einfaches Gericht mit über Stunden geräuchertem Flussfisch.",
          // "fr": "",
          // "hu": "",

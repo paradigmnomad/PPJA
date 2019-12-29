@@ -1,0 +1,15 @@
+{
+    "Dehydrator.Fruit": "말린 {inputName}",
+    "DryingRack.Flower": "말린 {inputName}",
+    "DryingRack.Herb": "말린 {inputName}",
+    "DryingRack.Vegetable": "말린 {inputName}",
+    "DryingRack.Mushroom": "말린 {inputName}",
+    "Grinder.Herb": "{inputName} 가루",
+    "Grinder.Vegetable": "{inputName} 가루",
+    "Infuser.Schnapps": "{inputName} 슈냅스",
+    "YogurtJar.Fruit": "{inputName} 요거트",
+    "Alembic.EssentialOil": "{inputName} 에센셜 오일",
+    "Juice.Fruit": "{inputName} 주스",
+    "SoapPress.Soap": "Handmade {inputName} 비누",
+    "Smoker.Fish": "훈제 {inputName} ",
+}
