@@ -27,11 +27,12 @@
             "Object": "Chocolate",
             "Count": 1,
         },],
+"IsDefault": true,
     },
     "GiftTastes":
     {        
 	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-        "Dislike": ["Harvey", "Krobus", "Leah", "Wily],
+        "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
     "NameLocalization":
     {

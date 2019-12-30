@@ -1,6 +1,6 @@
 {
-    "Name": "Holly Decorated Cookie",
-    "Description": "It only took a few hours to decorate, but now you have a beautifully decorated cookie.",
+    "Name": "Iced Decorated Christmas Tree",
+    "Description": "It kinda looks like a Christmas tree. This one has ornaments on it.",
     "Category": "Cooking",
     "Edibility": 48,
     "EdibleIsDrink": false,
@@ -12,7 +12,7 @@
         "ResultCount": 1,
         "Ingredients": [
         {
-            "Object": 283,
+            "Object": 486,
             "Count": 1,
         },
         {
@@ -25,6 +25,10 @@
         },
 {
             "Object": 246,
+            "Count": 1,
+        },
+{
+            "Object": "Sprinkles",
             "Count": 1,
         },],"IsDefault": true,
     },

@@ -8,5 +8,23 @@
    "ContentPackFor": {
        "UniqueID": "spacechase0.JsonAssets"
     },
+"Dependencies": [
+   {
+      "UniqueID": "ppja.fruitsandveggies",
+      "IsRequired": true,
+   },   
+   {
+      "UniqueID": "paradigmnomad.morefood",
+      "IsRequired": true,
+   },
+ {
+      "UniqueID": "ppja.evenmorerecipes",
+      "IsRequired": true,
+   },   
+   {
+      "UniqueID": "ppja.artisanvalleymachinegoods",
+      "IsRequired": false,
+   },
+],
    "UpdateKeys": [ "Nexus:4950" ],
 }

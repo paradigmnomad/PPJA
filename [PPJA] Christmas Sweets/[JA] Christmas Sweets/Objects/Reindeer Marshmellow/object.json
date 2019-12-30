@@ -1,39 +1,34 @@
 {
-    "Name": "Holly Decorated Cookie",
-    "Description": "It only took a few hours to decorate, but now you have a beautifully decorated cookie.",
+    "Name": "Reindeer Marshmellow",
+    "Description": "A marshmellow dipped in chocolate with pretzel antlers. It's a cute treat!",
     "Category": "Cooking",
     "Edibility": 48,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 500,
+    "Price": 350,
     "IsColored": false,
     "Recipe":
     {
         "ResultCount": 1,
         "Ingredients": [
         {
-            "Object": 283,
+            "Object": "Marshmallow Fluff",
             "Count": 1,
         },
         {
-            "Object": 245,
+            "Object": "Soft Pretzel",
             "Count": 1,
         },
 {
-            "Object": -5,
-            "Count": 1,
-        },
-{
-            "Object": 246,
+            "Object": "Chocolate",
             "Count": 1,
         },],"IsDefault": true,
     },
     "GiftTastes":
     {
-        "Love": ["Abigail", "Haley", "Maru", "Sebastian"],
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Love": ["Vincent", "Jas"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Wizard"],
         "Neutral": ["Emily", "Krobus", "Willy"],
-        "Hate": ["Evelyn"],
     },
     "NameLocalization":
     {

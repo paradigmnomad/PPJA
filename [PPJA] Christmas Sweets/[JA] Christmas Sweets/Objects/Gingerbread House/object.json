@@ -31,10 +31,7 @@
             "Object": "Vanilla",
             "Count": 1,
         }],
-        "CanPurchase": true,
-        "PurchaseFrom": "Gus",
-        "PurchasePrice": 2555,
-        "PurchaseRequirements": ["y 2", ],
+        "IsDefault": true,
     },
     "GiftTastes":
     {
