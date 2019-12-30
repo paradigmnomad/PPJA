@@ -9,18 +9,18 @@
     "GiftTastes":
     {
         "Love": ["Vincent", "Jas", "Haley", "Demetrius"],
-        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigial", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigail", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
         "Dislike": ["Emily", "Leah", "Krobus", "Sebastian", "Willy"]
     },
     "NameLocalization":
     {
         "es": "Helado de fresa",
-         // "ko": "",
+        "ko": "딸기 아이스크림",
         "de": "Erdbeereis",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ストロベリーアイスクリーム",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Mmmm helado de fresa!",
-         // "ko": "",
+        "ko": "음 딸기 아이스크림이군요!",
         "de": "Mmmm Erdbeereis!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "これは…イチゴのアイスクリーム！",
          // "pt": "",
          // "ru": "",
          // "tr": "",

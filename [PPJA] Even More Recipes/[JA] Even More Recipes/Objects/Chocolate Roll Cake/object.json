@@ -45,7 +45,7 @@
     {
         "es": "Pastel enrollado de chocolate",
         "ko": "초콜릿 롤 케이크",
-         // "de": "",
+        "de": "Schokoladenkuchenrolle",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -59,11 +59,11 @@
     {
         "es": "Con una fresa encima.",
         "ko": "딸기가 장식된 케이크.",
-         // "de": "",
+        "de": "Gekrönt mit einer Erdbeere.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[チョコレートロールケーキ] イチゴがトッピングされている。",
+        "ja": "イチゴがトッピングされている。",
         "pt": "Tem um morango no topo.",
          // "ru": "",
          // "tr": "",

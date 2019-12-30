@@ -10,17 +10,17 @@
     {
         "Love": ["Emily", "Sandy"],
         "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny"],
-        "Neutral": ["Clint", "George", "Sebastian", "Abigial", "Alex", "Demetrius", "Dwarf", "Elliott", "Gus", "Haley", "Harvey", "Jas", "Kent", "Krobus", "Leah", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Vincent", "Willy", "Wizard", "Marnie"],
+        "Neutral": ["Clint", "George", "Sebastian", "Abigail", "Alex", "Demetrius", "Dwarf", "Elliott", "Gus", "Haley", "Harvey", "Jas", "Kent", "Krobus", "Leah", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Vincent", "Willy", "Wizard", "Marnie"],
     },
     "NameLocalization":
     {
         "es": "Candela",
-         // "ko": "",
+        "ko": "양초",
         "de": "Kerze",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ろうそく",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Una vela con aroma a flor.",
-         // "ko": "",
-        "de": "Eine Blume Duftkerze.",
+        "ko": "꽃내음 나는 양초",
+        "de": "Eine nach Blumen riechende Duftkerze.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "花の香りがするろうそく。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

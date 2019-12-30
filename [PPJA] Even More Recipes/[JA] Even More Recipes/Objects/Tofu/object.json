@@ -26,7 +26,7 @@
     {
         "es": "Tofu",
         "ko": "두부",
-         // "de": "",
+        "de": "Tofu",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -40,11 +40,11 @@
     {
         "es": "Elaborado con leche de soja. También conocido como cuajada de frijol.",
         "ko": "두유로 만듭니다.",
-         // "de": "",
+        "de": "Aus Sojamilch hergestellt. Auch als Bohnengallerte bekannt.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[豆腐] 豆乳から作られた。「ビーンカード」とも呼ばれる。",
+        "ja": "豆乳から作られた。「ビーンカード」とも呼ばれる。",
         "pt": "Feito a partir de leite de soja. Também conhecida como coalhada de feijão.",
          // "ru": "",
          // "tr": "",

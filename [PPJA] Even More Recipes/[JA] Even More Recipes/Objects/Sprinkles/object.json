@@ -26,7 +26,7 @@
     {
         "es": "Chispitas",
         "ko": "스프링클",
-         // "de": "",
+        "de": "Sträusel",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -40,11 +40,11 @@
     {
         "es": "¡Las chispitas añaden un poco de color a cualquier cosa!",
         "ko": "뿌려지는 모든 곳에 약간의 색감을 더해줍니다!",
-         // "de": "",
+        "de": "Streusel bringen Farbe in alles!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[スプリンクル] カラフルな色をトッピング！",
+        "ja": "カラフルな色をトッピング！",
         "pt": "Granulado adiciona um pouco de cor a qualquer coisa!",
          // "ru": "",
          // "tr": "",

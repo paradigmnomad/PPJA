@@ -33,7 +33,7 @@
     {
         "es": "Papas tostadas",
         "ko": "감자 칩",
-         // "de": "",
+        "de": "Salzige Chips",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -47,11 +47,11 @@
     {
         "es": "Papas fritas clásicas.",
         "ko": "평범한 감자 칩.",
-         // "de": "",
+        "de": "Klassische Kartoffelchips.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[ポテトチップスうすしお味] おなじみのポテトチップス。",
+        "ja": "おなじみのポテトチップス。",
         "pt": "Batatas fritas clássicas.",
          // "ru": "",
          // "tr": "",

@@ -43,7 +43,7 @@
     {
         "es": "Pastel de rollo de fresas",
         "ko": "딸기 롤 케이크",
-         // "de": "",
+        "de": "Erdbeerkuchenrolle",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -57,11 +57,11 @@
     {
         "es": "Delicioso sabor a fresa!",
         "ko": "맛있는 딸기 맛!",
-         // "de": "",
+        "de": "Göttliche Erdbeerleckerei.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[イチゴのロールケーキ] イチゴのおいしさが引き出されてる！",
+        "ja": "イチゴのおいしさが引き出されてる！",
          // "pt": "",
          // "ru": "",
          // "tr": "",

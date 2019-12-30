@@ -25,19 +25,19 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
     "NameLocalization":
     {
         "es": "Refresco oscuro",
-         // "ko": "",
+        "ko": "다크 에일",
         "de": "Dunkles Ale",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ダークエール",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Beber con moderación.",
-         // "ko": "",
+        "ko": "절제해서 드세요.",
         "de": "Genieß es in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "飲む時は適量を守ってほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

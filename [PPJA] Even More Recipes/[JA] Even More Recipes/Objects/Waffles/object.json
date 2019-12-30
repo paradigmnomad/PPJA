@@ -35,7 +35,7 @@
     {
         "es": "Waffles",
         "ko": "와플",
-         // "de": "",
+        "de": "Waffeln",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -49,11 +49,11 @@
     {
         "es": "Pasteles circulares para desayunar.",
         "ko": "동그란 모양의 조식 페이스트.",
-         // "de": "",
+        "de": "Kreisförmiges Frühstückswaffeln.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[ワッフル] 朝食によく食べる円形のペイストリー。",
+        "ja": "朝食によく食べる円形のペイストリー。",
         "pt": "Bolos de café da manhã em forma de círculo.",
          // "ru": "",
          // "tr": "",

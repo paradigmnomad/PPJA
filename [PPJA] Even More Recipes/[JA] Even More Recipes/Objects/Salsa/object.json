@@ -40,7 +40,7 @@
     {
         "es": "Salsa",
         "ko": "살사",
-         // "de": "",
+        "de": "Salsa",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -54,11 +54,11 @@
     {
         "es": "Tiene muchos usos.",
         "ko": "매콤한 맛이 납니다.",
-         // "de": "",
+        "de": "Es hat einen schönen Kick.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[サルサ] 辛さがかなり効いてます。",
+        "ja": "辛さがかなり効いてます。",
         "pt": "Isso parece dar um ótimo estimulo.",
          // "ru": "",
          // "tr": "",

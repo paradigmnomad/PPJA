@@ -42,7 +42,7 @@
     {
         "es": "Té negro",
         "ko": "홍차",
-        "de": "schwarzer Tee",
+        "de": "Schwarzer Tee",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -56,11 +56,11 @@
     {
         "es": "Ligeramente amargo, pero agregar azúcar puede ayudar.",
         "ko": "약간 쓰지만, 설탕을 넣으면 도움이 돼요.",
-        "de": "Perfekt gebrüht. Die Aromen des Tees sind ausgeprägter ohne Zucker!",
+        "de": "Leicht bitter, aber etwas Zucker kann helfen!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[紅茶] 少し苦いが、砂糖を加えるとましになる。",
+        "ja": "少し苦いが、砂糖を加えるとましになる。",
         "pt": "Um pouco amargo, mas se adicionar açúcar pode melhorar.",
          // "ru": "",
          // "tr": "",

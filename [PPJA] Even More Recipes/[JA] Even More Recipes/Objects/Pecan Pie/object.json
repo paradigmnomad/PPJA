@@ -46,7 +46,7 @@
     {
         "es": "Tarta de nuez",
         "ko": "피칸 파이",
-         // "de": "",
+        "de": "Pecankuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -60,11 +60,11 @@
     {
         "es": "Una tarta de nuez con una cobertura glaseada.",
         "ko": "피칸으로 필링을 얹은 고소한 파이.",
-         // "de": "",
+        "de": "Ein nussiger Kuchen mit glasiertem Belag.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[ペカンナッツパイ] つや出しをしたナッツパイ。",
+        "ja": "つや出しをしたナッツパイ。",
         "pt": "Uma torta de nozes com cobertura de glacé.",
          // "ru": "",
          // "tr": "",

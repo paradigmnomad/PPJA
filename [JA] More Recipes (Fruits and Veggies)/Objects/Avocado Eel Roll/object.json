@@ -44,7 +44,7 @@
     {
         "es": "Rollo de anguila con aguacate",
         "ko": "아보카도 장어 ",
-        "de": "Avocado-Aal-Sushi",
+        "de": "Avocado-Aal-Maki",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -58,11 +58,11 @@
     {
         "es": "Anguila envuelta en algas y arroz, cubierta con aguacate.",
         "ko": "김과 밥에 싸인 장어, 아보카도를 올렸습니다.",
-        "de": "Aal eingewickelt in Meeresalgen und Reis, mit Avocado.",
+        "de": "Aal, eingewickelt in Meeresalgen und Reis, mit Avocado.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[アボカドウナギロール] 海苔と米でウナギを巻き、アボカドをトッピング。",
+        "ja": "海苔と米でウナギを巻き、アボカドをトッピング。",
         "pt": "Enguia enrrolada em algas e arroz, coberto com abacate.",
          // "ru": "",
          // "tr": "",

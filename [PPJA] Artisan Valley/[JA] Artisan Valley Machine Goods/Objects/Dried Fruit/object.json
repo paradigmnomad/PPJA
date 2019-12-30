@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Fruta seca",
-         // "ko": "",
+        "ko": "말린 과일",
         "de": "Trockenfrüchte",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ドライフルーツ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Una caja de fruta deshidratada.",
-         // "ko": "",
+        "ko": "말린 과일 한 상자.",
         "de": "Eine Schachtel mit getrockneten Früchten.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "乾燥させたくだものの箱詰め。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

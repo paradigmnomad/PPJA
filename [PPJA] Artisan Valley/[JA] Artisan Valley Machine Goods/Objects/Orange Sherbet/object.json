@@ -9,19 +9,19 @@
     "GiftTastes":
     {
         "Love": ["Vincent", "Jas", "Haley", "Demetrius", "Gus"],
-        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigial", "Alex", "Dwarf", "Elliott", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigail", "Alex", "Dwarf", "Elliott", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
         "Neutral": ["Emily", "Leah", "Sebastian", "Willy"],
         "Dislike": ["Krobus"]
     },
     "NameLocalization":
     {
         "es": "Sorbete de naranja",
-         // "ko": "",
+        "ko": "오렌지 샤베트",
         "de": "Orangen-Sorbet",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "オレンジシャーベット",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -30,12 +30,12 @@
     "DescriptionLocalization":
     {
         "es": "Para aquellos que buscan una opción diferente.",
-         // "ko": "",
+        "ko": "다른 선택권을 찾는 사람들을 위해.",
         "de": "Für diejenigen, die nach einer anderen Option suchen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "違った味わい方を探している人向け。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

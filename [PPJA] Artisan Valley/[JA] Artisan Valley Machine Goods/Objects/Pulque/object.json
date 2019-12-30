@@ -29,19 +29,19 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
     "NameLocalization":
     {
         "es": "Pulque",
-         // "ko": "",
+        "ko": "풀케",
         "de": "Pulque",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "プルケ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -50,12 +50,12 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida fermentada hecha de maguey. Beber con moderación.",
-         // "ko": "",
-        "de": "Ein fermentiertes Getränk aus Maguey. Genieß es in Maßen.",
+        "ko": "용설란으로 만든 발효 음료. 절제해서 드세요.",
+        "de": "Ein fermentiertes Getränk aus Maguey. Genieße es in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "リュウゼツランの葉から作った発酵飲料。飲む時はほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -40,7 +40,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Crece en primavera y otoño. Toma 13 días para madurar, pero puede ser cosechado múltiples veces.",
-        "ko": "봄 또는 가을에 심으세요. 성장하려면 13일이 소요되며, 수확한 후에서 계속 생산됩니다.",
+        "ko": "봄과 가을에 심습니다. 성장하려면 13일이 소요되며, 수확한 후에서 계속 생산됩니다.",
         "de": "Wächst im Frühjahr und Herbst. Das Wachstum dauert 13 Tage, kann aber mehrmals geerntet werden.",
          // "fr": "",
          // "hu": "",
@@ -49,7 +49,7 @@
         "pt": "Plante-a na primavera e no outono. Demoram 13 dias para nascer, e continuam a produção após a primeira colheita",
          // "ru": "",
          // "tr": "",
-        "zh": "春天或秋天播种。13天成熟，在第一次收获后循环生产。",
+        "zh": "春天或秋天下种。 13天成熟，收获之后循环生产。",
     }
 
 }

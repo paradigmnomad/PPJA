@@ -25,19 +25,19 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
     "NameLocalization":
     {
         "es": "Cerveza negra",
-         // "ko": "",
+        "ko": "포터",
         "de": "Porter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ポーター",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida fermentada a base de malta de trigo. Beber con moderación.",
-         // "ko": "",
+        "ko": "밀 맥아로 만든 발효 음료. 절제해서 드세요.",
         "de": "Ein fermentiertes Getränk aus Weizenmalz. Genieß es in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "コムギ麦芽から作ったお酒。飲む時はほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

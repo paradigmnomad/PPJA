@@ -31,7 +31,7 @@
     {
         "es": "Algodón de azúcar",
         "ko": "솜사탕",
-         // "de": "",
+        "de": "Zuckerwatte",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -45,11 +45,11 @@
     {
         "es": "Es azúcar hilado.",
         "ko": "보드라운 솜사탕.",
-         // "de": "",
+        "de": "Feine Zuckerfäden zu etwas Leckerem verwoben.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[わたあめ] 糸状にした砂糖を紡いだもの。",
+        "ja": "糸状にした砂糖を紡いだもの。",
         "pt": "É tecido com açúcar.",
          // "ru": "",
          // "tr": "",

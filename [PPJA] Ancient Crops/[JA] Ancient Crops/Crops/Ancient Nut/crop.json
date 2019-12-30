@@ -17,7 +17,9 @@
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.5,
     },
-    "CanPurchase": false,
+    "SeedPurchasePrice": 250,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+	"SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semillas de Nuez Antigua",

@@ -1,0 +1,61 @@
+{
+    "Name": "Reindeer Marshmellow",
+    "Description": "A marshmellow dipped in chocolate with pretzel antlers. It's a cute treat!",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 350,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Marshmallow Fluff",
+            "Count": 1,
+        },
+        {
+            "Object": "Soft Pretzel",
+            "Count": 1,
+        },
+{
+            "Object": "Chocolate",
+            "Count": 1,
+        },],"IsDefault": true,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Vincent", "Jas"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Wizard"],
+        "Neutral": ["Emily", "Krobus", "Willy"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

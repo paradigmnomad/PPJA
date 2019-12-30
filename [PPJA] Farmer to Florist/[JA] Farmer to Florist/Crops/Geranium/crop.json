@@ -39,12 +39,12 @@
         "pt": "Semente de Gerânio",
          // "ru": "",
          // "tr": "",
-        "zh": "天竺葵种子",
+        "zh": "老鹳草种子",
     },
     "SeedDescriptionLocalization":
     {
         "es": "Plántalas en otoño. Toma 9 días para producir un racimo de flores.",
-        "ko": "가을에 심으세요. 9일 후 꽃송이가 핍니다.",
+        "ko": "가을에 심습니다. 9일후에 꽃이 핍니다.",
         "de": "Pflanze im Herbst. Es dauert 9 Tage, um eine Gruppe von Blumen zu produzieren.",
          // "fr": "",
          // "hu": "",
@@ -53,6 +53,6 @@
         "pt": "Plante-a no  outono. Demoram 9 dias para crescer um conjunto de flores",
          // "ru": "",
          // "tr": "",
-        "zh": "秋天播种。9天产出花束。",
+        "zh": "秋天下种。9天产出花束。",
     }
 }

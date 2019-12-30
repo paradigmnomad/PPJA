@@ -38,7 +38,7 @@
     {
         "es": "Smores",
         "ko": "스모어",
-         // "de": "",
+        "de": "Smores",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -52,11 +52,11 @@
     {
         "es": "Porque siempre quieres otros adicionales.",
         "ko": "더 먹고 싶어지게 만드는 맛.",
-         // "de": "",
+        "de": "Weil du immer mehr willst.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[スモア] どんどんおかわりが欲しくなる。",
+        "ja": "どんどんおかわりが欲しくなる。",
         "pt": "Porque você sempre quer mais.",
          // "ru": "",
          // "tr": "",

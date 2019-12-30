@@ -1,0 +1,54 @@
+{
+    "Name": "Yeast",
+    "Description": "Useful for brewing.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 5,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Barley Malt",
+            "Count": 1,
+        }, ],
+        "IsDefault": true,
+    },
+    "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 10,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Neutral": ["Emily", "Evelyn", "Leah", "Marnie", "Gus", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard", "Pam", "Shane", "Penny", "Vincent", "Jas"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Hefe",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "イースト",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //  "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        // "ko": "",
+        "de": "Nützlich beim Brauen.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "醸造に役立つ。",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

@@ -25,19 +25,19 @@
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
-        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
     "NameLocalization":
     {
         "es": "Stout",
-         // "ko": "",
+        "ko": "스타우트",
         "de": "Stout",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "スタウト",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Una oscura bebida fermentada, a partir de malta de cebada tostada. Beber con moderación.",
-         // "ko": "",
-        "de": "Ein obergäriges Bier. Genieß es in Maßen.",
+        "ko": "보리 맥아가 검게 될 때까지 볶아 발효시킨 스타우트 포터. 절제해서 드세요.",
+        "de": "Ein obergäriges Bier. Genieße es in Maßen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "大麦麦芽を発酵させた色の濃い香ばしいポーター。飲む時はほどほどに。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

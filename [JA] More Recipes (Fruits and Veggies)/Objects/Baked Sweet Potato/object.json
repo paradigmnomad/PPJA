@@ -28,7 +28,7 @@
     {
         "es": "Camote al horno",
         "ko": "군고구마",
-        "de": "gebackene Yam",
+        "de": "Gebackene Süßkartoffel",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -42,11 +42,11 @@
     {
         "es": "Un simple camote. ¡Sabroso en un día frío!",
         "ko": "간단하게 구운 고구마. 추운 날 먹으면 제격이죠!",
-        "de": "Eine einfache gebackene Yam. Lecker an kalten Tagen!",
+        "de": "Eine einfache gebackene Süßkartoffel. Lecker an kalten Tagen!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[焼き芋] シンプルな焼き芋。寒い日にはこれ！",
+        "ja": "シンプルな焼き芋。寒い日にはこれ！",
         "pt": "Uma simples batata-doce assada. Bem saborosa em um dia frio!",
          // "ru": "",
          // "tr": "",

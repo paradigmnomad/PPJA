@@ -9,18 +9,18 @@
     "GiftTastes":
     {
         "Love": ["Vincent", "Jas", "Haley", "Demetrius"],
-        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigial", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Wizard", "Marnie"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigail", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Wizard", "Marnie"],
         "Dislike": ["Emily", "Leah", "Krobus", "Willy"]
     },
     "NameLocalization":
     {
         "es": "Helado con chispas de menta",
-         // "ko": "",
-        "de": "Minz-Chip-Eiscreme",
+        "ko": "민트칩 아이스크림",
+        "de": "Minz-Schokostück-Eiscreme",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ミントチップアイスクリーム",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -29,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Tiene trocitos de chocolate hecho a mano.",
-         // "ko": "",
+        "ko": "조그마한 수제 초콜릿으로 완성됩니다.",
         "de": "Komplett mit Stücken von handgemachter Schokolade.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "手作りチョコレートを少し加えましょう。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

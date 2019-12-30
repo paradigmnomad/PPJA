@@ -30,7 +30,7 @@
     {
         "es": "Azúcar moreno",
         "ko": "흑설탕",
-        "de": "brauner Zucker",
+        "de": "Brauner Zucker",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -44,11 +44,11 @@
     {
         "es": "Es azúcar simple mezclada con melaza.",
         "ko": "당밀이 섞인 순설탕.",
-        "de": "Einfacher Zucker mit Melasse gemischt.",
+        "de": "Einfacher Zucker, gemischt mit Melasse.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[ブラウンシュガー] シロップを混ぜてある砂糖。",
+        "ja": "シロップを混ぜてある砂糖。",
         "pt": "É açúcar puro misturado com melaço.",
          // "ru": "",
          // "tr": "",

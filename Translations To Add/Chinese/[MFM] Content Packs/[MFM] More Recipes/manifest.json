@@ -1,0 +1,17 @@
+﻿{
+	"Name": "[MFM] More Recipes",
+	"Author": "Project Populate Json Assets",
+	"Version": "1.0.0",
+	"Description": "Allows recipes to be mailed to the player.",
+	"UniqueID": "ppja.MoreRecipesforMFM",
+	"MinimumApiVersion": "2.11.3",
+	"UpdateKeys": [],
+	"Dependencies": [
+		{
+			"UniqueID": "paradigmnomad.morefood"
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod"
+	}
+}

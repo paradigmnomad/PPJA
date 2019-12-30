@@ -42,7 +42,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plántalas en otoño. Toma 10 días para madurar de bulbo a flor.",
-        "ko": "가을에 심으세요. 10일 후 구근에서 자라 꽃이 핍니다.",
+        "ko": "가을에 심습니다. 10일후에 구근에서 자라 꽃이 핍니다.",
         "de": "Pflanze im Herbst. Wächst innerhalb von 10 Tagen von der Zwiebel zur Blüte.",
          // "fr": "",
          // "hu": "",
@@ -51,6 +51,6 @@
         "pt": "Plante-a no outono. Demoram 10 dias para crescer um bulbo para flor",
          // "ru": "",
          // "tr": "",
-        "zh": "秋天播种。从鳞茎萌芽到产生花朵需要10天时间。",
+        "zh": "秋天下种。10天产出花朵。",
     }
 }

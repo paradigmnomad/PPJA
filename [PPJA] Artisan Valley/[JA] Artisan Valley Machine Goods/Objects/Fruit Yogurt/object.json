@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Yogur frutal",
-         // "ko": "",
+        "ko": "과일 요거트",
         "de": "Fruchtjoghurt",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "フルーツヨーグルト",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Yogurt con sabor a fruta.",
-         // "ko": "",
-        "de": "Joghurt mit dem Geschmack einer Frucht.",
+        "ko": "과일 맛이 나는 요거트.",
+        "de": "Joghurt mit Fruchtgeschmack.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "フルーツ風味のヨーグルト。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -1,0 +1,58 @@
+{
+    "Name": "Perfumery",
+    "Description": "Processes flowers to make perfume.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "CanPurchase": false,
+    "PurchaseFrom": null,
+    "PurchasePrice": 0,
+    "PurchaseRequirements": null,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 766,
+            "Count": 40
+        },
+        {
+            "Object": 709,
+            "Count": 20
+        },
+        {
+            "Object": 335,
+            "Count": 1
+        }]
+    },
+
+   // Localization
+
+        "NameLocalization": //Used for localization. 
+        { 
+            /*"es": "", //Spansih*/
+            "ko": "향수 제조기", //Korean
+            /*"de": "", //German
+            "fr": "", //French
+            "hu": "", //Hungarian
+            "it": "", //Italian
+            "ja": "", //Japanese
+            "pt": "", //Portuguese
+            "ru": "", //Russian
+            "tr": "", //Turkish*/
+            "zh": "香水机", //Chinese (Simplified)*/
+        },
+        "DescriptionLocalization": //Used for localization. 
+        { 
+            /*"es": "", //Spansih*/
+            "ko": "꽃을 향수로 만들어줍니다.", //Korean
+            /*"de": "", //German
+            "fr": "", //French
+            "hu": "", //Hungarian
+            "it": "", //Italian
+            "ja": "", //Japanese
+            "pt": "", //Portuguese
+            "ru": "", //Russian
+            "tr": "", //Turkish*/
+            "zh": "加工花来制造香水。", //Chinese (Simplified)*/
+        }
+    }

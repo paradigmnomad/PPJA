@@ -34,14 +34,14 @@
     {
         "Love": ["Maru", "Demetrius", "Sam", "Krobus"],
         "Like": ["Shane", "Pam", "Robin", "Sandy"],
-        "Neutral": ["Gus", "Marnie", "Clint", "George", "Sebastian", "Abigial", "Alex", "Caroline", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Pierre"],
+        "Neutral": ["Gus", "Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Pierre"],
         "Dislike": ["Penny", "Vincent", "Jas", "Harvey", "Willy", "Wizard"],
     },
     "NameLocalization":
     {
         "es": "Limonada de fresa",
         "ko": "딸기에이드",
-         // "de": "",
+        "de": "Erdbeerlimonade",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -55,11 +55,11 @@
     {
         "es": "¡Limonada recién exprimida con un añadido de fresas!",
         "ko": "갓 짜낸 레모네이드와 딸기!",
-         // "de": "",
+        "de": "Frisch gepresste Limonade mit Erdbeeren!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[ストロベリーレモネード] 絞りたてのレモネードをイチゴと一緒に！",
+        "ja": "絞りたてのレモネードをイチゴと一緒に！",
         "pt": "Limonada espremida na hora com morangos!",
          // "ru": "",
          // "tr": "",

@@ -17,7 +17,9 @@
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.2,
     },
-    "CanPurchase": false,
+    "SeedPurchasePrice": 750,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semilla de tubérculo Antiguo",

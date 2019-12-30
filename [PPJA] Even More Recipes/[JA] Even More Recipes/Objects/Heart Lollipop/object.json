@@ -34,7 +34,7 @@
     {
         "es": "Paleta corazón",
         "ko": "하트 롤리팝",
-        // "de": "",
+        "de": "Herzlutscher",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -48,11 +48,11 @@
     {
         "es": "Una paleta con sabor a fresa, en forma de corazón.",
         "ko": "딸기맛이 나는, 하트 모양의 롤리팝.",
-        // "de": "",
+        "de": "Ein herzförmiger Lutscher mit Erdbeergeschmack.",
         // "fr": "",
         // "hu": "",
         // "it": "",
-       "ja": "[ハートのキャンディ] ハート形のイチゴのキャンディ。",
+       "ja": "ハート形のイチゴのキャンディ。",
         "pt": "Um pirulito com sabor de morango e em forma de coração.",
         // "ru": "",
         // "tr": "",

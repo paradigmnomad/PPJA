@@ -44,7 +44,7 @@
     {
         "es": "Pastel de miel",
         "ko": "허니 케이크",
-         // "de": "",
+        "de": "Honigkuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -58,11 +58,11 @@
     {
         "es": "¡Un dulce pegajoso!",
         "ko": "끈적끈적한 달콤함!",
-         // "de": "",
+        "de": "Eine klebrige Süßigkeit!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[ハニーケーキ] とろーり甘い！",
+        "ja": "とろーり甘い！",
         "pt": "Um doce pegajoso!",
          // "ru": "",
          // "tr": "",

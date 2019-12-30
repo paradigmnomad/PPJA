@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Flores secas",
-         // "ko": "",
-        "de": "Getrocknete Blume",
+        "ko": "말린 꽃",
+        "de": "Getrocknete Blumen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ドライフラワー",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Un paquete de flores secas.",
-         // "ko": "",
+        "ko": "한 꾸러미의 말린 꽃.",
         "de": "Ein Bündel getrocknete Blumen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "乾燥させた花を束ねたもの。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -14,17 +14,17 @@
     {
         "Love": ["Vincent"],
         "Like": ["Jas"],
-        "Neutral": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Emily", "Sandy", "Clint", "George", "Sebastian", "Abigial", "Alex", "Demetrius", "Dwarf", "Elliott", "Gus", "Haley", "Harvey", "Kent", "Krobus", "Leah", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Willy", "Wizard", "Marnie"],
+        "Neutral": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Emily", "Sandy", "Clint", "George", "Sebastian", "Abigail", "Alex", "Demetrius", "Dwarf", "Elliott", "Gus", "Haley", "Harvey", "Kent", "Krobus", "Leah", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Willy", "Wizard", "Marnie"],
     },
     "NameLocalization":
     {
         "es": "Chicle",
-         // "ko": "",
+        "ko": "츄잉 껌",
         "de": "Kaugummi",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "チューイングガム",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -33,12 +33,12 @@
     "DescriptionLocalization":
     {
         "es": "Un fenómeno mundial.",
-         // "ko": "",
+        "ko": "전세계적인 현상.",
         "de": "Das weltweite Phänomen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "世界的な現象",
          // "pt": "",
          // "ru": "",
          // "tr": "",

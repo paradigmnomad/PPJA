@@ -41,7 +41,7 @@
     },
 "SeedDescriptionLocalization": { 
     "es": "Plántalas en primavera. Toma 9 días para producir un gran racimo de flores azules.",
-    "ko": "봄에 심으세요. 9일 후 푸르고 큰 꽃송이들이 핍니다.",
+    "ko": "봄에 심습니다. 9일후에 푸른 꽃들이 핍니다.",
     "de": "Im Frühjahr pflanzen. Es dauert 9 Tage, um eine große Ansammlung blauer Blüten zu bilden.",
      // "fr": "",
      // "hu": "",
@@ -50,6 +50,6 @@
     "pt": "Plante-a na primavera. Demoram 9 dias para nascer um grande amontoado de flores azuis.",
      // "ru": "",
      // "tr": "",
-    "zh": "春天播种。9天收获茂盛的蓝色花簇。",
+    "zh": "春天下种。9天产出茂盛的蓝色花簇。",
     }
 }

@@ -41,7 +41,7 @@
     {
         "es": "Paleta napolitana",
         "ko": "나폴리탄 팝시클",
-         // "de": "",
+        "de": "Neapolitanisches Eis am Stiel",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -55,11 +55,11 @@
     {
         "es": "¡Tres sabores en uno!",
         "ko": "한 번에 세가지 맛!",
-         // "de": "",
+         "de": "Drei Geschmacksrichtungen in einem Eis vereint!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[ナポリタンアイスバー] 3つのフレーバーを1つに！",
+        "ja": "3つのフレーバーを1つに！",
         "pt": "Três sabores em um!",
          // "ru": "",
          // "tr": "",

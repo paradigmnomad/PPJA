@@ -45,7 +45,7 @@
     {
         "es": "Crepa de setas y pimienta",
         "ko": "후추 뿌린 버섯 크레페",
-         // "de": "",
+        "de": "Pilz-Pfeffer-Crêpe",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -59,11 +59,11 @@
     {
         "es": "Una crepa salada y ligeramente picante.",
         "ko": "짭짤하고 약간 매운 크레페.",
-         // "de": "",
+        "de": "Ein herzhafter und leicht würziger Crêpe.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[キノコとパプリカのクレープ] 香ばしく少し辛いクレープ。",
+        "ja": "香ばしく少し辛いクレープ。",
         "pt": "Um crepe salgado e levemente picante.",
          // "ru": "",
          // "tr": "",

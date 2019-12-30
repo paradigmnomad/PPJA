@@ -17,12 +17,12 @@
     "NameLocalization":
     {
         "es": "Extracto de whisky escocés",
-         // "ko": "",
-        "de": "Scotch Bonnet Extrakt",
+        "ko": "스카치 보넷 추출액",
+        "de": "Scotch Bonnet-Extrakt",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "スコッチ・ボンネットエキス",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -31,12 +31,12 @@
     "DescriptionLocalization":
     {
         "es": "Este líquido ha sido extraído de un pimiento.",
-         // "ko": "",
-        "de": "Diese Flüssigkeit wurde aus Scotch extrahiert.",
+        "ko": "고추에서 추출됐습니다.",
+        "de": "Diese Flüssigkeit wurde aus einem Pfeffer extrahiert.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "トウガラシから抽出された液体。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

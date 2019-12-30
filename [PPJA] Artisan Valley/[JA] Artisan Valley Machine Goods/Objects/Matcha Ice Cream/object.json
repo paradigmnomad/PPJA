@@ -9,19 +9,19 @@
     "GiftTastes":
     {
         "Love": ["Demetrius"],
-        "Like": ["Haley", "Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigial", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
+        "Like": ["Haley", "Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigail", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie"],
         "Dislike": ["Emily", "Leah", "Krobus", "Sebastian", "Willy"],
         "Hate": ["Jas", "Vincent"]
     },
     "NameLocalization":
     {
         "es": "Helado de matcha",
-         // "ko": "",
-        "de": "Matcha Ice Cream",
+        "ko": "말차 아이스크림",
+        "de": "Matcha-Eis",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "抹茶アイスクリーム",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -30,12 +30,12 @@
     "DescriptionLocalization":
     {
         "es": "Sabe a té.",
-         // "ko": "",
+        "ko": "차 맛이에요.",
         "de": "Es schmeckt wie Tee.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "お茶の味がする。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

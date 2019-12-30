@@ -45,7 +45,7 @@
     {
         "es": "Dona de fresa glaseada",
         "ko": "아이스 딸기 도넛",
-         // "de": "",
+        "de": "Gefrorener Erdbeerdonut",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -59,11 +59,11 @@
     {
         "es": "Simple, una dona de fresa glaseada.",
         "ko": "단순히 그냥 얼린 딸기 도넛이에요.",
-         // "de": "",
+        "de": "Ein einfacher Donut mit gefrorenen Erdbeerstücken.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[イチゴアイスドーナツ] シンプルなイチゴアイスドーナツ。",
+        "ja": "シンプルなイチゴアイスドーナツ。",
         "pt": "Um simples donut de morango gelado.",
          // "ru": "",
          // "tr": "",

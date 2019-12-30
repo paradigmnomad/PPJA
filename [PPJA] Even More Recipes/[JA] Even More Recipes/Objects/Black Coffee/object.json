@@ -35,7 +35,7 @@
     {
         "es": "Café negro",
         "ko": "블랙 커피",
-         // "de": "",
+        "de": "Schwarzer Kaffee",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -49,7 +49,7 @@
     {
         "es": "Es extremadamente amargo.",
         "ko": "엄청 써요.",
-         // "de": "",
+        "de": "Er ist verdammt bitter.",
          // "fr": "",
          // "hu": "",
          // "it": "",

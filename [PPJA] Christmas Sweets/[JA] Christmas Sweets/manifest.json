@@ -1,0 +1,30 @@
+{
+   "Name": "Christmas Sweets for Json Assets",
+   "Author": "Project Populate Json Assets",
+   "Description": "A set of delicious Christmas themed treats and snacks.",
+   "Version": "1.0.0",
+   "MinimumApiVersion": "3.0.1",
+   "UniqueID": "ppja.christmassweets",
+   "ContentPackFor": {
+       "UniqueID": "spacechase0.JsonAssets"
+    },
+"Dependencies": [
+   {
+      "UniqueID": "ppja.fruitsandveggies",
+      "IsRequired": true,
+   },   
+   {
+      "UniqueID": "paradigmnomad.morefood",
+      "IsRequired": true,
+   },
+ {
+      "UniqueID": "ppja.evenmorerecipes",
+      "IsRequired": true,
+   },   
+   {
+      "UniqueID": "ppja.artisanvalleymachinegoods",
+      "IsRequired": false,
+   },
+],
+   "UpdateKeys": [ "Nexus:4950" ],
+}

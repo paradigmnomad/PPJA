@@ -44,7 +44,7 @@
     {
         "es": "Dona de vainilla glaseada",
         "ko": "아이스 바닐라 도넛",
-         // "de": "",
+        "de": "Gefrorener Vanilledonut",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -58,11 +58,11 @@
     {
         "es": "Simple, una dona de vainilla glaseada.",
         "ko": "단순히 그냥 얼린 바닐라 도넛이에요.",
-         // "de": "",
+        "de": "Ein einfach Donut mit gefrorener Vanille.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[バニラアイスドーナツ] シンプルなアイスバニラドーナツ。",
+        "ja": "シンプルなアイスバニラドーナツ。",
         "pt": "Um donut simples e gelado de baunilha.",
          // "ru": "",
          // "tr": "",

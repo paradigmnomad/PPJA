@@ -17,7 +17,10 @@
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.0,
     },
-    "CanPurchase": false,
+    "CanPurchase": true,
+	"SeedPurchasePrice": 400,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semillas de Helecho Antiguas",

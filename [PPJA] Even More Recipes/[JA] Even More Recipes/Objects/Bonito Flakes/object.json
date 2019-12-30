@@ -11,7 +11,7 @@
     {
         "Like": ["Linus", "Willy"],
         "Neutral": ["Demetrius", "Elliott", "Pam"],
-        "Dislike": ["Abigial", "Alex", "Caroline", "Dwarf", "Emily", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Dwarf", "Emily", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Hate": ["Evelyn"],
     },
     "Recipe":
@@ -31,7 +31,7 @@
     {
         "es": "Copos bonito",
         "ko": "가쓰오부시",
-         // "de": "",
+        "de": "Bonitoflocken",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -45,11 +45,11 @@
     {
         "es": "Escamas finamente afeitadas de atún seco.",
         "ko": "얇게 썰어서 말린 가다랭이 조각.",
-         // "de": "",
+        "de": "Dünn geraspelte Flocken aus getrocknetem Thunfisch.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[かつおぶし] 乾燥させたツナを薄く削ったフレーク。",
+        "ja": "乾燥させたツナを薄く削ったフレーク。",
         "pt": "Flocos ralados em lascas finas de atum seco.",
          // "ru": "",
          // "tr": "",

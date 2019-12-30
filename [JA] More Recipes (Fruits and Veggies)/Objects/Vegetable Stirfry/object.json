@@ -44,7 +44,7 @@
     {
         "es": "Vegetales salteados",
         "ko": "야채 볶음",
-        "de": "Veggie Fritten",
+        "de": "Gebratenes Wokgemüse",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -58,11 +58,11 @@
     {
         "es": "Verduras salteadas.",
         "ko": "달구어 볶은 야채.",
-        "de": "Fritierte Gemüsestreifen.",
+        "de": "Angebratene Gemüsestreifen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[野菜炒め] 野菜を炒めたもの。",
+        "ja": "野菜を炒めたもの。",
         "pt": "Legumes salteados.",
          // "ru": "",
          // "tr": "",

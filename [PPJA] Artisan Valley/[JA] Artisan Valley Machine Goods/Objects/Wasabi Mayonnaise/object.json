@@ -17,12 +17,12 @@
     "NameLocalization":
     {
         "es": "Mayonesa de wasabi",
-         // "ko": "",
-        "de": "Wasabi Mayonnaise",
+        "ko": "와사비 마요네즈",
+        "de": "Wasabi-Mayonnaise",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ワサビマヨネーズ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -31,12 +31,12 @@
     "DescriptionLocalization":
     {
         "es": "Ligeramente teñida de verde.",
-         // "ko": "",
-        "de": "Es ist leicht grün getönt.",
+        "ko": "약간 엷은 녹색입니다.",
+        "de": "Es hat einen Hauch von Grün.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "わずかに緑色がかっている。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

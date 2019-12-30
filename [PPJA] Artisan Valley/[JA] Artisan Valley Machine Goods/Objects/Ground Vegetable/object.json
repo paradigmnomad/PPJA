@@ -13,12 +13,12 @@
     "NameLocalization":
     {
         "es": "Vegetales molidos",
-         // "ko": "",
-        "de": "gemahlenes Gemüse",
+        "ko": "야채 가루",
+        "de": "Gemahlenes Gemüse",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "粉末野菜",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -27,12 +27,12 @@
     "DescriptionLocalization":
     {
         "es": "Un tarro de vegetales molidas.",
-         // "ko": "",
-        "de": "Ein Glas gemahlenes Gemüse.",
+        "ko": "야채 가루 한 병.",
+        "de": "Ein Glas voll gemahlenem Gemüse.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "すりおろした野菜のビン詰め。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

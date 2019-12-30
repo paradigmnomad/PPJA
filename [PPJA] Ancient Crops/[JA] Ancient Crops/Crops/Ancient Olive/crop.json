@@ -17,7 +17,9 @@
         "MaxIncreasePerFarmLevel": 10,
         "ExtraChance": 0.6,
     },
-    "CanPurchase": false,
+    "SeedPurchasePrice": 300,
+	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
+    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semillas de Oliva Antiguas",
