@@ -67,7 +67,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "圣诞蛋酒",
     },
     "DescriptionLocalization":
     {
@@ -81,7 +81,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "在冬日星盛宴期间饮用的传统饮料。这个食谱需要波本威士忌。",
     },
 "EnableWithMod": "ppja.artisanvalleymachinegoods",
 }
