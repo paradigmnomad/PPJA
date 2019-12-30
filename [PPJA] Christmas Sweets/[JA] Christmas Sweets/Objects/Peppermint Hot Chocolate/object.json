@@ -18,7 +18,9 @@
         {
             "Object": "Candy Cane",
             "Count": 1,
-        },],"IsDefault": true,
+        },
+		],
+		"IsDefault": true,
     },
     "GiftTastes":
     {
@@ -39,7 +41,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "薄荷热巧克力",
     },
     "DescriptionLocalization":
     {
@@ -53,6 +55,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "在寒冷的日子里，没有什么比裹在毯子里来一份热巧克力更好的了。",
     }
 }
