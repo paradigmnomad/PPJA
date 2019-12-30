@@ -4,8 +4,7 @@
 	"Version": "1.0.0",
 	"Description": "Allows recipes to be mailed to the player.",
 	"UniqueID": "ppja.christmassweetsforMFM",
-	"MinimumApiVersion": "3.0.2",
-	"UpdateKeys": [],
+	"MinimumApiVersion": "3.0.1",
 	"Dependencies": [
 		{
 			"UniqueID": "ppja.christmassweets"
