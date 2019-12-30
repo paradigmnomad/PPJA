@@ -41,7 +41,7 @@
     {
         "es": "Dona de chocolate glaseada",
         "ko": "아이스 초콜릿 도넛",
-         // "de": "",
+        "de": "Gefrorener Schokoladendonut",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -55,7 +55,7 @@
     {
         "es": "Simple, una dona de chocolate glaseada.",
         "ko": "단순히 그냥 얼린 초콜릿 도넛이에요.",
-         // "de": "",
+        "de": "Ein einfacher Donut mit gefrorener Schokolade.",
          // "fr": "",
          // "hu": "",
          // "it": "",

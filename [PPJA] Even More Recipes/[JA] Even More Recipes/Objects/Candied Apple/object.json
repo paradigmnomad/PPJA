@@ -34,7 +34,7 @@
     {
         "es": "Manzana confitada",
         "ko": "캔디드 애플",
-         // "de": "",
+        "de": "Kandierter Apfel",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -48,7 +48,7 @@
     {
         "es": "Una manzana que ha sido saturada en azúcar. ¡No es nada buena para las venas!",
         "ko": "설탕에 흠뻑 절여진 사과.",
-         // "de": "",
+        "de": "Ein mit Zucker überzogener Apfel.",
          // "fr": "",
          // "hu": "",
          // "it": "",
