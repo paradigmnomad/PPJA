@@ -6,7 +6,7 @@
 			"Action": "EditData",
 			"Target": "Data/ObjectContextTags",
 			"Entries": {
-				"Daffodil": "color_yellow, forage_item, season_spring, flower_poisonous",
+				"Daffodil": "color_yellow, forage_item, season_spring, flower_item, flower_poisonous",
 				"Sweet Pea": "color_purple, forage_item, season_summer, flower_item, dye_medium, flower_poisonous",
 			},
 		}
