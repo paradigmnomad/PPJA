@@ -18,7 +18,7 @@
         }, ],
         "CanPurchase": false,
         "SkillUnlockName": "Foraging",
-        "SkillUnlockLevel": 3,
+        "SkillUnlockLevel": 2,
     },
     "NameLocalization":
     {
@@ -28,7 +28,7 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "乾燥棚",
         "pt": "Cremalheira de Secagem",
         // "ru": "",
         // "tr": "",
@@ -42,7 +42,7 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "花やハーブや野菜を入れてじっくり乾燥させる。",
         "pt": "Coloque flores, ervas ou vegetais para secá-los para mais tarde.",
         // "ru": "",
         // "tr": "",
