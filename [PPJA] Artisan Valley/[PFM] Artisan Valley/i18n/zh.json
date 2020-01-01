@@ -4,7 +4,7 @@
     "DryingRack.Herb": "{inputName}干",
     "DryingRack.Vegetable": "{inputName}干",
     "DryingRack.Mushroom": "{inputName}干",
-    "Grinder.Herb": "{inputName}粉末",
+    "Grinder.Herb": "研磨{inputName}粉",
     "Grinder.Vegetable": "{inputName}粉末",
     "Infuser.Schnapps": "{inputName}烈酒",
     "YogurtJar.Fruit": "{inputName}酸奶",
