@@ -10,13 +10,9 @@
     "Recipe":
     {
         "ResultCount": 1,
-        "Ingredients": [
+        "Ingredients": [        
         {
-            "Object": 245,
-            "Count": 3,
-        },
-        {
-            "Object": "Mint",
+            "Object": Peppermints,
             "Count": 1,
         },
 {

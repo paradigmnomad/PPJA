@@ -1,28 +1,33 @@
 {
-    "Name": "Peppermint Candy Cane",
-    "Description": "Crush them up and they'll go great in cookies.",
+    "Name": "Peppermints",
+    "Description": "Some homemade peppermint candies.",
     "Category": "Cooking",
-    "Edibility": 48,
+    "Edibility": 10,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 500,
+    "Price": 280,
     "IsColored": false,
     "Recipe":
     {
         "ResultCount": 1,
         "Ingredients": [
         {
-            "Object": 245,
-            "Count": 3,
+            "Object": "Mint",
+            "Count": 2,
         },
         {
-            "Object": "Peppermints",
+            "Object": 245,
             "Count": 1,
-        },],"IsDefault": true,
+        },
+		],
+		"IsDefault": true,
     },
     "GiftTastes":
-    {        
-        "Dislike": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Abigail", "Haley", "Maru", "Sebastian", "Evelyn", "Emily", "Krobus", "Willy"],
+    {
+        "Love": ["Abigail", "Haley", "Maru", "Sebastian", "Vincent", "Jas"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Wizard"],
+        "Neutral": ["Emily", "Krobus", "Willy"],
+        "Hate": ["Evelyn", "George"],
     },
     "NameLocalization":
     {
@@ -36,7 +41,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "薄荷手杖糖",
+        // "zh": "",
     },
     "DescriptionLocalization":
     {
@@ -50,6 +55,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "把它们压碎，加入饼干里会很好吃的。",
+        // "zh": "",
     }
 }
