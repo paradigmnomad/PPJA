@@ -2,7 +2,7 @@
     {
         "Id": "ppja.aloepod", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "@,^^  With all the time you spend outside you must get a sunburn occassionally. Here are some seeds to grow your own aloe. When it's ready to harvest it will help treat them.^^  -Harvey", 
+        "Text": "aloepod.text", 
         "Attachments": [{"Type": "Object", "Name":"Aloe Pod", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "25 spring Y2", 
@@ -19,7 +19,7 @@
     {
         "Id": "ppja.sweetcanarymelonseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "@,^^  Thanks for always being there to help me out! I know it isn't much but please take these seeds.^^  -Emily", 
+        "Text": "sweetcanarymelon.text", 
         "Attachments": [{"Type": "Object", "Name":"Sweet Canary Melon Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "5 spring Y2", 
@@ -32,7 +32,7 @@
     {
         "Id": "ppja.casavaseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "@,^^  In my travels I got my hands on some new seeds for you. Hope they grow on your farm.^^  -Willy", 
+        "Text": "cassava.text", 
         "Attachments": [{"Type": "Object", "Name":"Cassava Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "12 summer Y2", 
@@ -45,7 +45,7 @@
     {
         "Id": "ppja.chickpeaseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "Dear @,^^ This is a test to see if we can attach seeds.", 
+        "Text": "chickepea.text", 
         "Attachments": [{"Type": "Object", "Name":"Chickpea Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "13 summer Y4", 
@@ -58,7 +58,7 @@
     {
         "Id": "ppja.elderberryseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "Hello, friend.^^  The mountain has been kind to me lately. I'd like to share my good fortune with you.^^  -Linus", 
+        "Text": "elderberry.text", 
         "Attachments": [{"Type": "Object", "Name":"Elderberry Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "11 winter Y2", 
@@ -71,7 +71,7 @@
     {
         "Id": "ppja.fennelseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "Dear @,^^  Hope you're doing well on the farm. I thought you'd might like to have these to plant next season.^^  -Jodi", 
+        "Text": "fennel.text", 
         "Attachments": [{"Type": "Object", "Name":"Fennel Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "13 spring Y2", 
@@ -84,7 +84,7 @@
     {
         "Id": "ppja.gingerseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "Hey @,^^  I found this in a drawer somewhere. Thought you could use it next season.^^ -Pam", 
+        "Text": "ginger.text", 
         "Attachments": [{"Type": "Object", "Name":"Ginger Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "27 summer Y2", 
@@ -93,7 +93,7 @@
     {
         "Id": "ppja.gooseberryseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "Dear @,^^ Robins been talking nonstop about Pierre's gooseberry pie. ^Could you please bring us some when you get the chance? Thank you!^^ -Demetrius", 
+        "Text": "gooseberry.text", 
         "Attachments": [{"Type": "Object", "Name":"Gooseberry Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "5 summer Y1", 
@@ -106,7 +106,7 @@
     {
         "Id": "ppja.greenpeaseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "Hey,^^  It's still not to late to plant these! I'd love to have some to put in my salads. Thannk you @!^^  -Penny", 
+        "Text": "greenpea.text", 
         "Attachments": [{"Type": "Object", "Name":"Green Pea Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "7 summer Y4", 
@@ -119,7 +119,7 @@
     {
         "Id": "ppja.jalapenoseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "Hey @!^^  These taste great on pizza. You should plant some on your farm.^^  -Sam", 
+        "Text": "jalapeno.text", 
         "Attachments": [{"Type": "Object", "Name":"Jalapeno Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "13 fall Y2", 
@@ -132,7 +132,7 @@
     {
         "Id": "ppja.juniperseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "Hey @,^^  I found this in a cabinet somewhere. Thought you could use it.^^  -Pam", 
+        "Text": "juniper.text", 
         "Attachments": [{"Type": "Object", "Name":"Juniper Berry Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "3 winter Y1", 
@@ -141,7 +141,7 @@
     {
         "Id": "ppja.mintseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "Found some good quality seeds while going through a kitchen drawer. Maybe they'll still grow after all these years.^^  -George", 
+        "Text": "mint.text", 
         "Attachments": [{"Type": "Object", "Name":"Mint Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "26 fall Y1", 
@@ -150,7 +150,7 @@
     {
         "Id": "ppja.okraseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "Hey there!^^ I had a taste for Okra... I thought maybe you could plant some for me. Take care!^^ -Robin", 
+        "Text": "okra.text", 
         "Attachments": [{"Type": "Object", "Name":"Okra Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "9 fall Y3", 
@@ -163,7 +163,7 @@
     {
         "Id": "ppja.paddytaroseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "@,^^  Come visit me sometime soon! I have some new seeds in stock for the season. They won't grow in Calico Desert but they sure will on your farm.^^  -Sandy", 
+        "Text": "paddytaro.text", 
         "Attachments": [{"Type": "Object", "Name":"Paddy Taro Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "4 spring Y2", 
@@ -176,7 +176,7 @@
     {
         "Id": "ppja.passionfruitseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "Good Morning @,^^ Thank you for everything you've done so far for our little town. Please accept this as a token of my appreciation. I hope you'll find a nice sunny spot to plant it on the farm.^^  -Jodi", 
+        "Text": "passionfruit.text", 
         "Attachments": [{"Type": "Object", "Name":"Passion Fruit Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "7 spring Y3", 
@@ -189,7 +189,7 @@
     {
         "Id": "ppja.soybeanseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "@!^ Can you plant some of these on your farm and bring them to me? The saloon could use a good supply of fresh vegetables.^^  -Gus", 
+        "Text": "soybean.text", 
         "Attachments": [{"Type": "Object", "Name":"Soybean Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "7 fall Y2", 
@@ -215,7 +215,7 @@
     {
         "Id": "ppja.zucchiniseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "@,^^ I was helping Marnie clean up her ranch and she wanted to give these to you.^ I'm sure Pierre would appreciate it if you sold some to him when they're ripe.^^ Sincerely, Mr. Lewis", 
+        "Text": "zucchini.text", 
         "Attachments": [{"Type": "Object", "Name":"Zucchini Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "12 fall Y3", 
