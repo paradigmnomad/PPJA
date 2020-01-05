@@ -1,0 +1,71 @@
+{
+    "Name": "Breakfast Tea",
+    "Description": "A popular, sugared tea.",
+    "Category": "Cooking",
+    "Edibility": 33,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 490,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 4,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1490,
+        "PurchaseRequirements": null,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Elliott", "Pierre"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Dwarf", "Leah", "Lewis", "Sebastian"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té para desayunar",
+        "ko": "브랙퍼스트 티",
+        "de": "Frühstückstee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ブレックファストティー",
+        "pt": "Chá da manhã",
+         // "ru": "",
+         // "tr": "",
+        "zh": "早餐茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un popular té azucarado.",
+        "ko": "인기가 많은, 달달한 차 입니다.",
+        "de": "Ein beliebter, gezuckerter Tee.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ポピュラーな砂糖入りのお茶。",
+        "pt": "Um chá popular e açucarado.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "早餐茶。一种颇受好评的加糖的茶。",
+    },
+    "ContextTags": [
+        "color_gray",
+        "tea_item",
+    ],
+}

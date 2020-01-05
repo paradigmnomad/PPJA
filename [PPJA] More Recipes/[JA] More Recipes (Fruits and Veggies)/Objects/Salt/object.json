@@ -1,0 +1,47 @@
+{
+    "Name": "Salt",
+    "Description": "Always add a pinch of salt.",
+    "Edibility": -300,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 50,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 150,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Sal",
+        "ko": "소금",
+        "de": "Salz",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "塩",
+        "pt": "Sal",
+         // "ru": "",
+         // "tr": "",
+        "zh": "盐",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Siempre agregue una pizca de sal.",
+        "ko": "항상 약간의 소금을 넣으세요.",
+        "de": "Immer eine Prise Salz hinzufügen.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "塩を少々",
+        "pt": "Sempre adicione uma pitada de sal.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "总是加一点盐。",
+    }
+}

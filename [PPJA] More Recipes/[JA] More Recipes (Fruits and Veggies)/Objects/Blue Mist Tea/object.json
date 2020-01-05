@@ -1,0 +1,70 @@
+{
+    "Name": "Blue Mist Tea",
+    "Description": "A slighty sweet tea made from blue mist flowers.",
+    "Category": "Cooking",
+    "Edibility": 23,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 445,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Blue Mist",
+            "Count": 1,
+        },
+{
+            "Object": 815,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1445,
+        "PurchaseRequirements": [
+            "z spring fall winter",
+        ]
+    },
+    "GiftTastes":
+    {
+        "Love": ["Caroline", "Maru"],
+        "Like": ["Abigail", "Alex", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Penny", "Robin", "Sam", "Sandy", "Sebastian", "Wizard"],
+        "Neutral": ["Kent", "Pierre", "Vincent"],
+        "Dislike": ["George", "Pam", "Shane", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de niebla azul",
+        "ko": "블루 미스트 티",
+        "de": "Blaue Nebelblumen-Tee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ブルーミストティー",
+        "pt": "Chá azul da névoa",
+         // "ru": "",
+         // "tr": "",
+        "zh": "蓝雾花茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un té ligeramente dulce hecho de flores de niebla azul.",
+        "ko": "블루 미스트 꽃으로 만든 은은한 달콤한 차.",
+        "de": "Ein leicht süßer Tee aus blauen Nebelblumen.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ブルーミストの花から抽出した少し甘めのお茶。",
+        "pt": "Um chá levemente doce feito de flores de névoa azul.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "蓝雾花茶。一种由蓝雾花制成的带有轻微甜味的茶。",
+    },
+    "ContextTags": [
+        "color_blue",
+        "color_white",
+        "tea_item",
+    ],
+}

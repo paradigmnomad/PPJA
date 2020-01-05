@@ -1,0 +1,69 @@
+{
+    "Name": "Cucumber Sandwich",
+    "Description": "A plain, refreshing tea sandwich.",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 400,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 216,
+            "Count": 1,
+        },
+        {
+            "Object": "Cucumber",
+            "Count": 1,
+        },
+        {
+            "Object": 306,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2400,
+        "PurchaseRequirements": [
+            "f Evelyn 1250",
+            "y 2",
+        ]
+    },
+    "GiftTastes":
+    {
+        "Love": ["Elliott", "Jodi"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Harvey", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Sandwich de pepino",
+        "ko": "오이 샌드위치",
+        "de": "Gurkensandwich",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "キュウリのサンドイッチ",
+        "pt": "Sanduíche de pepino",
+         // "ru": "",
+         // "tr": "",
+        "zh": "黄瓜三明治",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un sándwich sencillo y refrescante.",
+        "ko": "평범하고, 신선한 샌드위치.",
+        "de": "Ein einfaches, erfrischendes Teesandwich.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "簡素だが爽やかみのあるサンドイッチ。",
+        "pt": "Um simples e saboroso sanduíche.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "黄瓜三明治。一个普通的，清爽的茶味三明治。",
+    }
+}

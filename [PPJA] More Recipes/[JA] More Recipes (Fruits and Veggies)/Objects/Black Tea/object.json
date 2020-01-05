@@ -1,0 +1,74 @@
+{
+    "Name": "Black Tea",
+    "Description": "Slightly bitter, but adding sugar can help.",
+    "Category": "Cooking",
+    "Edibility": 5,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 3,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 300,
+    },
+    "Price": 375,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 3,
+        }],
+        "IsDefault": true,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Harvey", "Kent", "Krobus"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jodi", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Dwarf"],
+        "Dislike": ["Jas", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té negro",
+        "ko": "홍차",
+        "de": "Schwarzer Tee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "紅茶",
+        "pt": "Chá preto",
+         // "ru": "",
+         // "tr": "",
+        "zh": "红茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Ligeramente amargo, pero agregar azúcar puede ayudar.",
+        "ko": "약간 쓰지만, 설탕을 넣으면 도움이 돼요.",
+        "de": "Leicht bitter, aber etwas Zucker kann helfen!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "少し苦いが、砂糖を加えるとましになる。",
+        "pt": "Um pouco amargo, mas se adicionar açúcar pode melhorar.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "红茶。有点苦，但加糖能够缓解苦味。",
+    },
+    "ContextTags": [
+        "color_blue",
+        "color_yellow",
+        "tea_item",
+    ],
+}

@@ -1,0 +1,39 @@
+{
+    "Name": "Banana Tree",
+    "Product": "Banana",
+    "SaplingName": "Banana Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Banana tree. Bears fruit in the summer. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "summer",
+    "SaplingPurchaseFrom": "Sandy",
+    "SaplingPurchasePrice": 7500,
+    "SaplingPurchaseRequirements": null,
+    "SaplingNameLocalization":
+    {
+        "es": "Brote de bananera",
+        "ko": "바나나 묘목",
+        "de": "Bananenpalmen-Setzling",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "バナナの苗",
+        "pt": "Muda de bananeira",
+         // "ru": "",
+         // "tr": "",
+        "zh": "香蕉树苗",
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "es": "Toma 28 días para producir una bananera. Da fruto en el verano. Solo crece si las 8 casillas que las rodean están vacías.",
+        "ko": "28일후에 성목이 됩니다. 여름에 열매가 멪힙니다. 주변 8칸이 비어있어야 자랍니다.",
+        "de": "Wächst in 28 Tagen zu einer reifen Bananenpalme heran. Trägt im Sommer Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "28日かけて成木にそだち、夏になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
+        "pt": "Demora até 28 dias para produzir uma bananeira madura. Dá frutas na verão. Só cresce se os 8 espaços adjacentes estiverem vazios",
+         // "ru": "",
+         // "tr": "",
+        "zh": "香蕉树苗。28天成熟为成年香蕉树。夏天结果。只有在附近8块地块都空置的情况下才会成长。",
+    }
+}

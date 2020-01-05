@@ -1,0 +1,71 @@
+{
+    "Name": "Vegetable Stirfry",
+    "Description": "Sauteed veggies.",
+    "Category": "Cooking",
+    "Edibility": 42,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 660,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Bell Pepper",
+            "Count": 1,
+        },
+        {
+            "Object": "Carrot",
+            "Count": 1,
+        },
+        {
+            "Object": 247,
+            "Count": 1,
+        },
+        {
+            "Object": "Onion",
+            "Count": 1,
+        },
+        {
+            "Object": 281,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Leah", "Lewis", "Marnie", "Kent", "Jodi"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Emily", "Evelyn", "George", "Gus", "Harvey", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Dwarf", "Elliott", "Krobus"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Vegetales salteados",
+        "ko": "야채 볶음",
+        "de": "Gebratenes Wokgemüse",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "野菜炒め",
+        "pt": "Salteados de legumes",
+         // "ru": "",
+         // "tr": "",
+        "zh": "炒时蔬",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Verduras salteadas.",
+        "ko": "달구어 볶은 야채.",
+        "de": "Angebratene Gemüsestreifen.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "野菜を炒めたもの。",
+        "pt": "Legumes salteados.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "炒时蔬。简单的炒蔬菜。",
+    }
+}

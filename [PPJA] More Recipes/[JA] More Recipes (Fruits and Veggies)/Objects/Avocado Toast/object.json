@@ -1,0 +1,63 @@
+{
+    "Name": "Avocado Toast",
+    "Description": "You just don't understand it!",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 410,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Avocado",
+            "Count": 1,
+        },
+        {
+            "Object": 216,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2410,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Alex", "Emily", "Leah", "Sam", "Sebastian"],
+        "Like": ["Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Krobus", "Willy"],
+        "Dislike": ["Lewis", "Pierre"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Tostada de aguacate",
+        "ko": "아보카도 토스트",
+        "de": "Avocadotoast",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "アボカドトースト",
+        "pt": "Torrada com Abacate",
+         // "ru": "",
+         // "tr": "",
+        "zh": "鳄梨面包",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Simplemente no lo entiendes!",
+        "ko": "이해가 안 가는 음식!",
+        "de": "Toast mit Avocadoaufstrich.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "食べてみないとわからない！",
+        "pt": "Você simplesmente não entende!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "鳄梨面包。你就是不明白它！",
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "Name": "Crab Roll",
+    "Description": "Imitation crab is for the weak.",
+    "Category": "Cooking",
+    "Edibility": 110,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 680,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Avocado",
+            "Count": 1,
+        },
+        {
+            "Object": "Cucumber",
+            "Count": 1,
+        },
+        {
+            "Object": 423,
+            "Count": 1,
+        },
+        {
+            "Object": 717,
+            "Count": 1,
+        },
+        {
+            "Object": 152,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2660,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "GiftTastes":
+    {
+        "Love": ["Elliott", "Sebastian"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Willy"],
+        "Dislike": ["Krobus"],
+        "Hate": ["Emily", "Evelyn"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Rollo de cangrejo",
+        "ko": "게살 롤",
+        "de": "Krabben-Maki",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "クラブロール",
+        "pt": "Rolo de caranguejo",
+         // "ru": "",
+         // "tr": "",
+        "zh": "蟹肉卷",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "La imitación de cangrejo es para débiles.",
+        "ko": "게맛살은 빈곤한 자들을 위한 것이에요.",
+        "de": "Nachgemachte Krabbe ist für die Schwachen.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "カニが苦手ならかにかまで代用しよう。",
+        "pt": "Caranguejo de imitação é para os fracos.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "蟹肉卷。假螃蟹是为弱者准备的。",
+    }
+}

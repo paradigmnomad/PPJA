@@ -1,0 +1,45 @@
+{
+    "Name": "Nutmeg",
+    "Description": "A spice with a piney, camphorlike aroma with feelings of bitter, sweet, and spicy flavors with hints of clove.",
+    "Edibility": -300,
+    "Price": 50,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 180,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Nuez moscada",
+        "ko": "넛맥",
+        "de": "Muskatnuss",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ナツメグパウダー",
+        "pt": "Noz-moscada",
+         // "ru": "",
+         // "tr": "",
+        "zh": "肉豆蔻",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una especia con un aroma a pino y alcanfor con sensaciones de sabores amargos, dulces y picantes con toques de clavo.",
+        "ko": "쓴맛, 단맛, 매운맛의 감성을 담은 소나무 향이 나는 향신료.",
+        "de": "Ein Gewürz mit einem kiefernartigen, kampferartigen Aroma mit bitteren, süßen und würzigen Aromen mit einem Hauch von Gewürznelke.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ショウノウのような苦味と甘味のあるスパイシーな風味の香辛料。",
+        "pt": "Uma especiaria com um aroma de pinheiro e cânfora, com sensações de sabores amargos, doces e picantes e com pitadas de cravo.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "一种带有一种松树芳香的香料，带有苦涩、甜蜜和辛辣的味道，还带有少许丁香的味道。",
+    }
+}

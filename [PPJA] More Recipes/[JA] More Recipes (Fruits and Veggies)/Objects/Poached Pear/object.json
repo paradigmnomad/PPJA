@@ -1,0 +1,67 @@
+{
+    "Name": "Poached Pear",
+    "Description": "Peeled pears drowned in honey.",
+    "Category": "Cooking",
+    "Edibility": 54,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 735,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Pear",
+            "Count": 1,
+        },
+        {
+            "Object": 724,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": 340,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Sandy"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Maru", "Shane", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Pera escalfada",
+        "ko": "졸인 배",
+        "de": "Pochierte Birne",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ナシのコンポート",
+        "pt": "Pêra escalfada",
+         // "ru": "",
+         // "tr": "",
+        "zh": "水煮梨",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Peras peladas ahogadas en miel.",
+        "ko": "껍질을 벗기고 꿀을 적신 배.",
+        "de": "Geschälte Birnen, mit Honig getränkt.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "皮をむいたナシをたっぷりのハチミツに浸します。",
+        "pt": "Peras descascadas afogadas em mel.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "水煮梨。去皮的梨腌渍在蜂蜜里。",
+    }
+}

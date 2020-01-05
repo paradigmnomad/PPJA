@@ -1,0 +1,46 @@
+{
+    "Name": "Chili Powder",
+    "Description": "Adds that extra kick to your chili.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 80,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 230,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Chile en polvo",
+        "ko": "칠리 파우더",
+        "de": "Chilipulver",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "チリパウダー",
+        "pt": "Pimenta em pó",
+         // "ru": "",
+         // "tr": "",
+        "zh": "辣椒粉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Agrega ese sabor extra.",
+        "ko": "칠리에 더 강한 맛을 더해줍니다.",
+        "de": "Fügt den Extra-Kick hinzu.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "トウガラシの刺激を付け足す。",
+        "pt": "Adicione um sabor extra ao seu chili.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "在品尝料理中，用辣椒粉给你加上额外的冲击。",
+    }
+}

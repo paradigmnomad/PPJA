@@ -1,0 +1,67 @@
+{
+    "Name": "Chocolate",
+    "Description": "Decadent!",
+    "Category": "Cooking",
+    "Edibility": 34,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 435,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cocoa Pod",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1435,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "GiftTastes":
+    {
+        "Love": ["Jas", "Vincent"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+        "Neutral": ["Leah"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Chocolate",
+        "ko": "초콜릿",
+        "de": "Schokolade",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "チョコレート",
+        "pt": "Chocolate",
+         // "ru": "",
+         // "tr": "",
+        "zh": "巧克力",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Decadente!",
+        "ko": "황홀한 맛!",
+        "de": "Dekadent!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "魅惑的！",
+        "pt": "Decadente!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "巧克力。吃多了会颓废的！",
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "Name": "Pepper",
+    "Description": "It'll make you sneeze.",
+    "Edibility": -300,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 50,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 150,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Pimienta",
+        "ko": "후추",
+        "de": "Pfeffer",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "コショウ",
+        "pt": "Pimenta",
+         // "ru": "",
+         // "tr": "",
+        "zh": "胡椒粉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Te hará estornudar.",
+        "ko": "재채기를 유발시켜요.",
+        "de": "Er wird dich zum Niesen bringen.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "くしゃみが出ます。",
+        "pt": "Ela vai fazer você espirrar.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "它会让你打喷嚏。",
+    }
+}

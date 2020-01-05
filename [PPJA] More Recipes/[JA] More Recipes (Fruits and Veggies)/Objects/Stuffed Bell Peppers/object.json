@@ -1,0 +1,67 @@
+{
+    "Name": "Stuffed Bell Peppers",
+    "Description": "Bell peppers stuffed with cheese.",
+    "Category": "Cooking",
+    "Edibility": 70,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 580,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Bell Pepper",
+            "Count": 2,
+        },
+        {
+            "Object": 424,
+            "Count": 1,
+        },
+        {
+            "Object": 423,
+            "Count": 1,
+        },
+        {
+            "Object": 260,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Shane"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Abigail", "Haley", "Leah", "Sam", "Sebastian"],
+        "Dislike": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Pimientos rellenos",
+        "ko": "속을 채운 피망",
+        "de": "Gefüllte Paprika",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "パプリカの詰め物",
+        "pt": "Pimentões recheados",
+         // "ru": "",
+         // "tr": "",
+        "zh": "酿甜椒",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Pimientos rellenos de queso.",
+        "ko": "치즈로 속을 채운 피망.",
+        "de": "Paprika gefüllt mit Käse.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "パプリカにチーズを詰めたもの。",
+        "pt": "Pimentão recheado com queijo.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "酿甜椒。甜椒里塞满了奶酪。",
+    }
+}

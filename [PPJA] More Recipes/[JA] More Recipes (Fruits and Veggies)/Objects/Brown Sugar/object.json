@@ -1,0 +1,57 @@
+{
+    "Name": "Brown Sugar",
+    "Description": "It's plain sugar mixed with molasses.",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 400,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 724,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Like": ["Pam", "Lewis", "Caroline", "Pierre", "Gus"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Azúcar moreno",
+        "ko": "흑설탕",
+        "de": "Brauner Zucker",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ブラウンシュガー",
+        "pt": "Açúcar mascavo",
+         // "ru": "",
+         // "tr": "",
+        "zh": "红糖",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Es azúcar simple mezclada con melaza.",
+        "ko": "당밀이 섞인 순설탕.",
+        "de": "Einfacher Zucker, gemischt mit Melasse.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "シロップを混ぜてある砂糖。",
+        "pt": "É açúcar puro misturado com melaço.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "红糖。糖和枫糖浆混合后的产物。",
+    }
+}

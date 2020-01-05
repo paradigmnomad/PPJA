@@ -1,0 +1,43 @@
+{
+    "Name": "Mutton",
+    "Description": "A rich, tough cut from a sheep.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Cordero",
+        "ko": "양고기",
+        "de": "Ziegenfleisch",
+        "fr": "Viande de Mouton",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "山羊肉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un rico corte de cordero.",
+        "ko": "양에게서 얻는 고기",
+        "de": "Ein schönes Stück von der Ziege.",
+        "fr": "Une coupe riche et dure d'un mouton.",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "从一个山羊里得来的肉。",
+    },
+    "DisableWithMod": "DIGUS.ANIMALHUSBANDRYMOD"
+}

@@ -1,0 +1,71 @@
+{
+    "Name": "Tropical Fruit Salad",
+    "Description": "A medley of tropical fruits.",
+    "Category": "Cooking",
+    "Edibility": 96,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1005,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Banana",
+            "Count": 1,
+        },
+        {
+            "Object": "Dragon Fruit",
+            "Count": 1,
+        },
+        {
+            "Object": "Papaya",
+            "Count": 1,
+        },
+        {
+            "Object": "Persimmon",
+            "Count": 1,
+        },
+        {
+            "Object": "Pineapple",
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Haley", "Sandy", "Vincent", "Lewis"],
+        "Like": ["Abigail", "Alex", "Caroline", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", ],
+        "Neutral": ["Clint", "Wizard"],
+        "Dislike": ["Dwarf", "Krobus", "Willy"],
+    },
+    "NameLocalization":
+    {
+        "es": "Ensalada de frutas tropicales",
+        "ko": "열대 과일 샐러드",
+        "de": "Tropischer Fruchtsalat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "トロピカルフルーツサラダ",
+        "pt": "Salada de Frutas Tropicais",
+         // "ru": "",
+         // "tr": "",
+        "zh": "热带水果沙拉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una mezcla de frutas tropicales.",
+        "ko": "열대 과일의 향연",
+        "de": "Eine Mischung tropischer Früchten.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "トロピカルフルーツメドレー。",
+        "pt": "Uma mistura de frutas tropicais.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "热带水果沙拉。一种热带水果的混合。",
+    }
+}

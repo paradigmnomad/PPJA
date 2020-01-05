@@ -1,0 +1,71 @@
+{
+    "Name": "Boba Tea",
+    "Description": "A sweet flavored Milk tea with tapioca pearls.",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 625,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 3,
+        },
+        {
+            "Object": "Tapioca",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": -79,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Haley", "Marnie", "Penny", ],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Krobus", "Leah", "Linus", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy"],
+        "Dislike": ["Dwarf", "Elliott", "Kent", "Lewis", "Sebastian", "Wizard"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de baba",
+        "ko": "버블티",
+        "de": "Bubble Tea",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "タピオカミルクティー",
+        "pt": "Chá de bolhas",
+         // "ru": "",
+         // "tr": "",
+        "zh": "珍珠奶茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un té con leche y perlas de tapioca, tiene un sabor dulce.",
+        "ko": "타피오카를 넣은 달콤한 맛의 밀크 티.",
+        "de": "Ein süßer aromatisierter Milchtee mit Tapioka-Perlen.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "タピオカ入りの甘いミルクティー。",
+        "pt": "Um chá de leite com sabor doce e pérolas de tapioca.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "珍珠奶茶。一种带有木薯珍珠的甜味奶茶。",
+    }
+}

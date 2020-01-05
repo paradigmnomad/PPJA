@@ -1,0 +1,62 @@
+{
+    "Name": "Celery and Peanut Butter",
+    "Description": "An easy snack that’s light but savory.",
+    "Category": "Cooking",
+    "Edibility": 26,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 380,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Celery",
+            "Count": 1,
+        },
+        {
+            "Object": "Peanut Butter",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1380,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Willy", "Wizard"],
+        "Neutral": ["Shane", "Pam", ],
+        "Dislike": ["Abigail", "Sam", "Jas", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Apio con mantequilla de maní",
+        "ko": "셀러리와 땅콩 버터",
+        "de": "Sellerie mit Erdnussbutter",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "セロリとピーナッツバター",
+        "pt": "Aipo e Manteiga de Amendoim",
+         // "ru": "",
+         // "tr": "",
+        "zh": "芹菜花生酱",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un snack fácil y ligero, pero sabroso.",
+        "ko": "쉽고 간편한 고소한 간식.",
+        "de": "Ein einfacher Snack, leicht und herzhaft.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "簡単だが風味を味わえるスナック。",
+        "pt": "Um lanche fácil, leve, mas saboroso.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "芹菜花生酱。这是一种清淡但十分美味的零食。",
+    }
+}

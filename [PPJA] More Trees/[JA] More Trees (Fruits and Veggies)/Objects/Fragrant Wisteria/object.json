@@ -1,0 +1,50 @@
+{
+    "Name": "Fragrant Wisteria",
+    "Description": "An especially fragrant cluster of purple flowers.",
+    "Category": "Flower",
+    "Edibility": 10,
+    "Price": 60,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Sandy", "Abigail",],
+        "Like": ["Caroline", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Linus", "Pierre", "Vincent", ],
+        "Neutral": ["Alex", "Clint", "Demetrius", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Robin"],
+        "Dislike": ["Dwarf", "Elliott", "Krobus", "Sam", "Sebastian", "Shane", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Glicina fragante",
+        "ko": "향기로운 등나무 꽃",
+        "de": "Duftender Blauregen",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "藤の花",
+        "pt": "Glicínias perfumadas",
+         // "ru": "",
+         // "tr": "",
+        "zh": "芳香紫藤",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un racimo de flores púrpuras especialmente fragantes.",
+        "ko": "향기로운 보라색 꽃 송이.",
+        "de": "Besonders angenehm duftend, mit lila Blüten.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "とてもいい香りのする紫色の花の房。",
+        "pt": "Um conjunto especialmente perfumado de flores roxas.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "一朵特别芬芳的紫色花簇。观赏作用。",
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_purple",
+        "fruit_tree_item",
+        "flower_item",
+    ]
+}

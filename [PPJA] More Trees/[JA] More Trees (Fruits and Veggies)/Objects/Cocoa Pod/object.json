@@ -1,0 +1,51 @@
+{
+    "Name": "Cocoa Pod",
+    "Description": "The pod obtained from a cocoa tree. Mmm! Who's ready to make some chocolate?",
+    "Category": "Vegetable",
+    "Edibility": -300,
+    "Price": 125,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Krobus"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Cacao",
+        "ko": "카카오",
+        "de": "Kakaobohne",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "カカオの実",
+        "pt": "Vagens de cacau",
+         // "ru": "",
+         // "tr": "",
+        "zh": "可可豆",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "La vaina obtenida de un árbol de cacao. ¡Mmm! ¿Quién está listo para hacer un poco de chocolate?",
+        "ko": "카카오 나무에서 얻은 열매. 초콜릿 만들 준비가 됐나요?",
+        "de": "Die Bohne des Kakaobaums. Mmm! Wer hat Lust, Schokolade zu machen?",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "カカオの木から収穫した果実。ぬぬっ！チョコレートを作る準備は誰かやってる？",
+        "pt": "A vagem obtida de um cacaueiro. Mmm! Quem está pronto para fazer um pouco de chocolate?",
+         // "ru": "",
+         // "tr": "",
+        "zh": "从一棵可可树中获得的豆。嗯！谁准备好做巧克力了？",
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_brown",
+        "fruit_tree_item",
+        "dye_medium",
+        "fruit_tree_year_2",
+        "crop_year_2",
+        "nut_item"
+    ]
+}

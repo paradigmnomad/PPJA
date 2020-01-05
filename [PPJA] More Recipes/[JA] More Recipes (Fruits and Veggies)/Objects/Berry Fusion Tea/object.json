@@ -1,0 +1,82 @@
+{
+    "Name": "Berry Fusion Tea",
+    "Description": "Infused with the tastes of spring and summer, you'll get a kick out it!",
+    "Category": "Cooking",
+    "Edibility": 21,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 2,
+        "Duration": 300,
+    },
+    "Price": 525,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 296,
+            "Count": 1,
+        },
+        {
+            "Object": 481,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1525,
+        "PurchaseRequirements": [
+            "z summer fall winter",
+        ]
+    },
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Elliott", "Jodi", "Leah", "Maru", "Sandy"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Kent", "Lewis", "Linus", "Marnie", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Vincent"],
+        "Neutral": ["Pam", "Shane"],
+        "Dislike": ["Krobus", "Willy", "Wizard"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de fusión de bayas",
+        "ko": "베리 퓨전 티",
+        "de": "Beerenmischung-Tee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ベリーフュージョンティー",
+        "pt": "Chá de Fusão de amora",
+         // "ru": "",
+         // "tr": "",
+        "zh": "混合浆果茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Infundido con los sabores de la primavera y el verano, ¡lo echarás de menos!",
+        "ko": "차에서 봄과 여름의 맛이 느껴져요, 이 차에 푹 빠질 거예요!",
+        "de": "Durchdrungen von den Geschmäckern von Frühling und Sommer, wirst du einen Kick bekommen!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "春と夏の風味を楽しもう！",
+        "pt": "Infundido com os gostos da primavera e do verão, você vai curtir",
+         // "ru": "",
+         // "tr": "",
+        "zh": "混合浆果茶。充满了春天和夏天的味道，你会被它深深吸引的！",
+    },
+    "ContextTags": [
+        "color_white",
+        "tea_item",
+    ],
+}

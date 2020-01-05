@@ -1,0 +1,71 @@
+{
+    "Name": "Chef Salad",
+    "Description": "The chef's choice of salads.",
+    "Category": "Cooking",
+    "Edibility": 132,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 565,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cucumber",
+            "Count": 1,
+        },
+        {
+            "Object": 176,
+            "Count": 1,
+        },
+        {
+            "Object": "Lettuce",
+            "Count": 1,
+        },
+        {
+            "Object": 424,
+            "Count": 1,
+        },
+        {
+            "Object": 256,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Leah"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Ensalada del chef",
+        "ko": "셰프의 샐러드",
+        "de": "Chefsalat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "シェフサラダ",
+        "pt": "Salada do chefe",
+         // "ru": "",
+         // "tr": "",
+        "zh": "主厨沙拉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "La elección del chef en ensaladas.",
+        "ko": "셰프가 선택한 샐러드.",
+        "de": "Ein grüner Salat. Chefsache!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "シェフ厳選のサラダ。",
+        "pt": "A escolha de saladas do chef.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "主厨沙拉。主厨选择的沙拉。",
+    }
+}

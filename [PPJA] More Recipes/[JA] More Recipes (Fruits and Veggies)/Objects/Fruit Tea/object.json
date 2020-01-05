@@ -1,0 +1,65 @@
+{
+    "Name": "Fruit Tea",
+    "Description": "Tea hinted with the sweet flavor of fruit.",
+    "Category": "Cooking",
+    "Edibility": 22,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 425,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 2,
+        },
+        {
+            "Object": -79,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1425,
+        "PurchaseRequirements": null,
+    },
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de frutas",
+        "ko": "과일 티",
+        "de": "Fruchttee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "フルーツティー",
+        "pt": "Chá de frutas",
+         // "ru": "",
+         // "tr": "",
+        "zh": "水果茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Té hecho con el dulce sabor de la fruta.",
+        "ko": "과일의 달콤한 맛이 담긴 차.",
+        "de": "Tee mit dem angedeuteten, süßen Geschmack von Früchten.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "くだものの甘い香りを移したお茶。",
+        "pt": "Chá com pequenas pintadas do sabor das frutas doces.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "水果茶。这种茶带着水果的甜味。",
+    },
+    "ContextTags": [
+        "color_brown",
+        "tea_item",
+    ],
+}
