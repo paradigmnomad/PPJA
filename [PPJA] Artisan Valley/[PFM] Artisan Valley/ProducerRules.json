@@ -1996,7 +1996,7 @@
     },
     {
         "ProducerName": "Grinder",
-        "InputIdentifier": "721",
+        "InputIdentifier": "271",
         "InputStack": 1,
         "FuelIdentifier": null,
         "FuelStack": 1,
@@ -2039,7 +2039,7 @@
         "ProducerName": "Grinder",
         "InputIdentifier": "-75",
         "InputStack": 1,
-        "ExcludeIdentifiers": ["270","284","721"], 
+        "ExcludeIdentifiers": ["270","284","271"], 
         "FuelIdentifier": null,
         "FuelStack": 1,
         "MinutesUntilReady": 360,
