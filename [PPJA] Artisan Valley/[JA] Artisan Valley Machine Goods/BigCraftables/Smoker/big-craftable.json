@@ -17,8 +17,7 @@
             "Count": 20,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Fishing",
-        "SkillUnlockLevel": 4,
+        "IsDefault": true,
     },
     "NameLocalization":
     {
