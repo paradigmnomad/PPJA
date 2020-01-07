@@ -2,8 +2,8 @@
    "Name": "Even More Recipes - Meat for JsonAssets",
    "Description": "Adds even more new recipes for JsonAssets. Requires Fresh Meat to work.",
    "Author": "Project Populate Json Assets",
-   "Version": "1.5.5",
-   "MinimumApiVersion": "3.0.0",
+   "Version": "1.5.6",
+   "MinimumApiVersion": "3.0.1",
    "UniqueID": "ppja.MoreRecipesMeat",
   "ContentPackFor": {
        "UniqueID": "spacechase0.JsonAssets"
