@@ -7,8 +7,8 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Sebastian"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard", "Andy", "Marlon", "Morris", "Olivia", "Sophia", "Victor"],
+        "Hate": ["Sebastian", "Susan"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -16,7 +16,7 @@
         "es": "Conejo",
         "ko": "토끼고기",
         "de": "Hasenfleisch",
-        "fr": "Lapin",
+        // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
@@ -30,7 +30,7 @@
         "es": "Un corte de conejo.",
         "ko": "토끼에게서 얻는 고기",
         "de": "Fleisch vom Hasen.",
-        "fr": "Une coupe de viande de lapin",
+        // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",

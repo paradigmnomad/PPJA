@@ -7,8 +7,9 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Andy"],
+        "Neutral": ["Susan", "Morris", "Marlon"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent", "Victor", "Sophia", "Olivia"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -29,7 +30,7 @@
     {
         "es": "El pimiento más dócil en la escala. ¡Una deliciosa adición a muchas comidas!",
         "ko": "고추가 개량된 작물. 많은 음식에 들어가는 맛있는 재료입니다!",
-        "de": "Der mildeste Pfeffer. Eine wohlschmeckende Beilage bei vielen Gerichten.",
+        "de": "Eine wohlschmeckende Beilage, bei vielen Gerichten.",
          // "fr": "",
          // "hu": "",
          // "it": "",

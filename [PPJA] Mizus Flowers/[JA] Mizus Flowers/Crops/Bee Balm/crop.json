@@ -28,8 +28,8 @@
     {
         "es": "Semillas de monarda",
         "ko": "멜리사 씨앗",
-        "de": "Monarda-Saat",
-        "fr": "Graines de Monarde",
+        "de": "BeeBalm-Saat",
+         // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "タイマツバナの種",
@@ -42,8 +42,8 @@
     {
         "es": "Plántalas en otoño. Toma 9 días para producir una flor atractiva.",
         "ko": "가을에 심으세요. 9일후 매력적인 꽃이 핍니다.",
-        "de": "Pflanze sie im Herbst. Wächst in 9 Tagen zu einer schönen Blume heran.",
-        "fr": "Plantez à l'automne. Prend 9 jours pour produire une jolie fleur.",
+        "de": "Pflanzen sie im Herbst. Wächst in 10 Tagen heran.",
+         // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "秋植えの花。9日かけて魅惑的な花を咲かせる。色は咲いてのおたのしみ。",

@@ -8,14 +8,16 @@
     "GiftTastes":
     {
         "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+        "Neutral": ["Andy", "Marlon", "Morris", "Susan"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent", "Olivia", "Sophia"],
+        "Hate": ["Victor"],
     },
     "Recipe": null,
     "NameLocalization":
     {
          // "es": "",
         "ko": "타바스코 고추",
-        "de": "Tabasko-Pfeffer",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -29,7 +31,7 @@
     {
          // "es": "",
         "ko": "고추 품종 중 유일하게 수분이 많습니다. 스코빌 지수는 40,000입니다.",
-        "de": "Die einzige saftige Form des Chilipfeffers. 40.000 Einheiten auf der Scoville-Skala.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

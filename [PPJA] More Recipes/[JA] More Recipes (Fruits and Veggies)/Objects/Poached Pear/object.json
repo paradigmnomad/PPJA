@@ -39,12 +39,12 @@
     "NameLocalization":
     {
         "es": "Pera escalfada",
-        "ko": "졸인 배",
-        "de": "Pochierte Birne",
+        "ko": "조린 배",
+        "de": "pochierte Birne",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ナシのコンポート",
+         // "ja": "",
         "pt": "Pêra escalfada",
          // "ru": "",
          // "tr": "",
@@ -53,12 +53,12 @@
     "DescriptionLocalization":
     {
         "es": "Peras peladas ahogadas en miel.",
-        "ko": "껍질을 벗기고 꿀을 적신 배.",
-        "de": "Geschälte Birnen, mit Honig getränkt.",
+        "ko": "껍질이 벗겨진 배들이 꿀에 잠겼다.",
+        "de": "Geschälte Birnen mit Honig getränkt.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "皮をむいたナシをたっぷりのハチミツに浸します。",
+         // "ja": "",
         "pt": "Peras descascadas afogadas em mel.",
          // "ru": "",
          // "tr": "",

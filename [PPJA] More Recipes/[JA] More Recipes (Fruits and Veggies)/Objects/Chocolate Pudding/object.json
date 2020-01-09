@@ -35,12 +35,12 @@
     "NameLocalization":
     {
         "es": "Pudin de chocolate",
-        "ko": "초콜릿 푸딩",
+        "ko": "초콜렛 푸딩",
         "de": "Schokoladenpudding",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "チョコレートプリン",
+         // "ja": "",
         "pt": "Pudim de chocolate",
          // "ru": "",
          // "tr": "",
@@ -49,12 +49,12 @@
     "DescriptionLocalization":
     {
         "es": "Un favorito de la infancia.",
-        "ko": "어릴때 가장 좋아했던 것.",
-        "de": "Kinder lieben ihn!",
+        "ko": "어린 시절 좋아했던 것.",
+        "de": "Kinder lieben es!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "小さかった頃のお気に入り。",
+         // "ja": "",
         "pt": "Um favorito da infância.",
          // "ru": "",
          // "tr": "",

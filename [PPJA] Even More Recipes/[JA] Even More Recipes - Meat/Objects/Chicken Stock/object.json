@@ -44,7 +44,7 @@
     {
         "es": "Caldo de pollo",
         "ko": "닭고기 육수",
-        "de": "Hühnerbrühe",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -58,7 +58,7 @@
     {
         "es": "A menudo se usa como base para la sopa.",
         "ko": "수프의 기본으로 자주 사용되는 닭고기 국물.",
-        "de": "Gedünstete Hühnerbrühe, die oft als Grundlage für Suppe verwendet wird.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

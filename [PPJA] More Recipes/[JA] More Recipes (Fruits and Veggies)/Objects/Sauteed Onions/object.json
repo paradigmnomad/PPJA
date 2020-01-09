@@ -41,7 +41,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "オニオンソテー",
+         // "ja": "",
         "pt": "Cebolas salteadas",
          // "ru": "",
          // "tr": "",
@@ -50,12 +50,12 @@
     "DescriptionLocalization":
     {
         "es": "A menudo se usa como guarnición. ¡Sutil, pero satisfactorio!",
-        "ko": "반찬으로 종종 사용됩니다. 끈적하지만 맛있어요!",
+        "ko": "종종 반찬으로 사용됩니다. 끈적하지만 괜찮습니다!",
         "de": "Oft als Beilage verwendet. Sehr lecker!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "おかずによく出される。「…のどごし…さわやかだねぇ！」",
+         // "ja": "",
         "pt": "Freqüentemente usado como acompanhamento. Pegajoso, mas satisfatório!",
          // "ru": "",
          // "tr": "",

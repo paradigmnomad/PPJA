@@ -7,8 +7,8 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Sebastian"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard", "Andy", "Marlon", "Morris", "Olivia", "Sophia", "Victor"],
+        "Hate": ["Sebastian", "Susan"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -16,7 +16,7 @@
         "es": "Cordero",
         "ko": "양고기",
         "de": "Ziegenfleisch",
-        "fr": "Viande de Mouton",
+        // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
@@ -30,7 +30,7 @@
         "es": "Un rico corte de cordero.",
         "ko": "양에게서 얻는 고기",
         "de": "Ein schönes Stück von der Ziege.",
-        "fr": "Une coupe riche et dure d'un mouton.",
+        // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",

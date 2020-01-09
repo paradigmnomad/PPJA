@@ -30,7 +30,7 @@
         }, ],
         "GiftTastes":
         {
-            "Love": ["Abigail", "Caroline", "Demetrius", "Evelyn", "Leah", "Wizard"],
+            "Love": ["Abigial", "Caroline", "Demetrius", "Evelyn", "Leah", "Wizard"],
             "Like": ["Penny", "Sebastian", "Elliott", "Haley", "Harvey", "Jodi", "Sandy"],
             "Neutral": ["Gus", "Marnie", "Emily", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam"],
             "Dislike": ["Clint", "George", "Alex", "Kent", "Krobus"],
@@ -42,11 +42,11 @@
     {
         "es": "Té blanco",
         "ko": "백차",
-        "de": "Weißer Tee",
+        "de": "weißer Tee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "白茶",
+         // "ja": "",
         "pt": "Chá branco",
          // "ru": "",
          // "tr": "",
@@ -60,14 +60,10 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ひかえ目に発酵させた淡い黄色みがかったお茶。",
+         // "ja": "",
         "pt": "Uma bebida mais fraca com uma leve cor amarela.",
          // "ru": "",
          // "tr": "",
         "zh": "白茶。一种淡黄色的酿造品。",
-    },
-    "ContextTags": [
-        "color_white",
-        "tea_item",
-    ],
+    }
 }

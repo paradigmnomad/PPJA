@@ -7,9 +7,11 @@
     "IsColored": false,
     "GiftTastes":
     {
-	"Love": ["Marnie", "Lewis"],
-        "Like": ["Caroline", "Evelyn", "Gus", "Harvey", "Jodi", "Leah", "Linus", "Sandy", ],
-        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+        "Love": ["Marnie", "Lewis", "Susan"],
+        "Like": ["Caroline", "Evelyn", "Gus", "Harvey", "Jodi", "Leah", "Linus", "Sandy", "Morris", "Olivia", "Sophia"],
+        "Neutral": ["Marlon"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent", "Victor"],
+        "Hate": ["Andy"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -30,7 +32,7 @@
     {
         "es": "Tiene sabor a nuez. Su aceite puede ser utilizado en una gran cantidad de productos.",
         "ko": "견과류같은 맛이 납니다. 기름이 많아 많은 생산물에 사용될 수 있습니다.",
-        "de": "Nussig im Geschmack. Ihr Öl kann in einer Vielzahl von Produkten verwendet werden.",
+        "de": "Nussig im Geschmack. Sein Öl kann in einer Vielzahl von Produkten verwendet werden.",
          // "fr": "",
          // "hu": "",
          // "it": "",

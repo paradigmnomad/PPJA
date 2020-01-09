@@ -49,12 +49,12 @@
     "NameLocalization":
     {
         "es": "Té blanco de azafrán",
-        "ko": "크로커스 화이트 티",
-        "de": "Krokus-Weißtee",
+        "ko": "크로커스 화이트 차",
+        "de": "Krokustee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "クロッカス白茶",
+         // "ja": "",
         "pt": "Chá branco de açafrão",
          // "ru": "",
          // "tr": "",
@@ -68,15 +68,10 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "クロッカスから作られたお茶。",
+         // "ja": "",
         "pt": "Um chá feito com açafrão.",
          // "ru": "",
          // "tr": "",
         "zh": "番红花白茶。一种用番红花做的茶。",
-    },
-    "ContextTags": [
-        "color_white",
-        "color_purple",
-        "tea_item",
-    ],
+    }
 }

@@ -8,7 +8,7 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Caroline", "Jas"],
+        "Love": ["Caroline", "Jas", "Sophia"],
         "Like": ["Abigail", "Alex", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
     "NameLocalization":
@@ -16,7 +16,7 @@
         "es": "Rosa primaveral",
         "ko": "봄 장미",
         "de": "Frühlingsrose",
-        "fr": "Rose de Printemps",
+         // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "春バラ",
@@ -29,8 +29,8 @@
     {
         "es": "Ninguna opta rosa con cualquier otro nombre olería tan dulce como esta.",
         "ko": "장미는 이름이 장미가 아니더라도 향기롭기는 매한가지일 것입니다.",
-        "de": "Mit einem anderen Namen würde sie genauso süß riechen.",
-        "fr": "Une rose sous un autre nom aurait une odeur aussi douce.",
+        "de": "Eine Rose mit einem anderen Namen würde so süß riechen.",
+         // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "「バラと呼ばれている花を別の名前にしても、甘く美しい香りはそのままだわ。」",

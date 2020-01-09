@@ -8,8 +8,8 @@
   "Price": 380,
   "IsColored": false,
   "GiftTastes": {
-    "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-	"Hate": ["Sebastian"],
+    "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard", "Andy", "Marlon", "Morris", "Olivia", "Sophia", "Victor"],
+	"Hate": ["Sebastian", "Susan"],
   },
   "Recipe": {
     "ResultCount": 1,
@@ -29,7 +29,7 @@
     "es": "Jamón",
     "ko": "햄",
     "de": "Schinken",
-    "fr": "Jambon",
+     // "fr": "",
      // "hu": "",
      // "it": "",
      // "ja": "",
@@ -42,7 +42,7 @@
     "es": "Un suculento corte de cerdo.",
     "ko": "육즙이 많은 돼지 고기",
     "de": "Das saftigste vom Schwein.",
-    "fr": "Une succulente coupe de porc.",
+     // "fr": "",
      // "hu": "",
      // "it": "",
      // "ja": "",

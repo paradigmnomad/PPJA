@@ -34,16 +34,16 @@
     "NameLocalization":
     {
         "es": "Apio con mantequilla de maní",
-        "ko": "셀러리와 땅콩 버터",
-        "de": "Sellerie mit Erdnussbutter",
+        "ko": "샐러리와 땅콩 버터",
+        "de": "Sellerie und Erdnussbutter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "セロリとピーナッツバター",
+         // "ja": "",
         "pt": "Aipo e Manteiga de Amendoim",
          // "ru": "",
          // "tr": "",
-        "zh": "芹菜花生酱",
+        "zh": "芹菜配花生酱",
     },
     "DescriptionLocalization":
     {
@@ -53,10 +53,10 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "簡単だが風味を味わえるスナック。",
+         // "ja": "",
         "pt": "Um lanche fácil, leve, mas saboroso.",
          // "ru": "",
          // "tr": "",
-        "zh": "芹菜花生酱。这是一种清淡但十分美味的零食。",
+        "zh": "芹菜配花生酱。这是一种清淡但十分美味的零食。",
     }
 }

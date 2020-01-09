@@ -7,8 +7,8 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Sebastian"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard", "Andy", "Marlon", "Morris", "Olivia", "Sophia", "Victor"],
+        "Hate": ["Sebastian", "Susan"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -16,7 +16,7 @@
         "es": "Pollo",
         "ko": "닭고기",
         "de": "Hühnerfleisch",
-        "fr": "Poulette",
+        // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
@@ -30,7 +30,7 @@
         "es": "Un pollo entero, listo para cocinar.",
         "ko": "닭 한 마리, 요리 준비 완료.",
         "de": "Ein ganzes Huhn, bereit zum kochen.",
-        "fr": "Un poulet entier, prêt pour la cuisson.",
+        // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",

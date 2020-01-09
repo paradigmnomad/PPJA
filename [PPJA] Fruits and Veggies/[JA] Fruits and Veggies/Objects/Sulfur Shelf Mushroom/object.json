@@ -7,8 +7,9 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Like": ["Harvey", "Leah", "Linus"],
-        "Dislike": ["Caroline", "Dwarf", "Elliott", "Haley", "Jas", "Jodi", "Krobus", "Pierre", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Like": ["Harvey", "Leah", "Linus", "Andy", "Marlon", "Morris"],
+        "Dislike": ["Caroline", "Dwarf", "Elliott", "Haley", "Jas", "Jodi", "Krobus", "Pierre", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard", "Olivia", "Susan"],
+        "Hate": ["Victor"],
     },
     "Recipe": null,
     "CanPurchase": false,
@@ -16,7 +17,7 @@
     {
          // "es": "",
         "ko": "붉은덕다리버섯",
-         "de": "Gemeiner Schwefelporling",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -30,7 +31,7 @@
     {
          // "es": "",
         "ko": "다른 이름: 숲속의 닭고기.",
-         "de": "Auch unter dem Namen 'Huhn des Waldes' bekannt.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

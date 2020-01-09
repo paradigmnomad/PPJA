@@ -2,7 +2,7 @@
     "Name": "Cheeseburger",
     "Description": "A hamburger, but with cheese.",
     "Category": "Cooking",
-    "Edibility": 118,
+    "Edibility": 50,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
     "Price": 325,
@@ -10,8 +10,8 @@
     "GiftTastes":
     {
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Emily", "Haley", "Harvey", "Jas", "Leah", "Marnie", "Vincent"],
-        "Hate": ["Sebastian"],
+        "Dislike": ["Emily", "Haley", "Harvey", "Jas", "Leah", "Marnie", "Vincent", "Olivia"],
+        "Hate": ["Sebastian", "Susan"],
     },
     "Recipe":
     {
@@ -39,7 +39,7 @@
         "es": "Quesoburguesa",
         "ko": "치즈버거",
         "de": "Cheeseburger",
-        "fr": "Hamburger au Fromage",
+        // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
@@ -53,7 +53,7 @@
         "es": "Una hamburguesa con queso.",
         "ko": "햄버거에 치즈가 들어갔습니다.",
         "de": "Ein Hamburger, mit Käse.",
-        "fr": "Un hamburger, mais avec du fromage.",
+        // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",

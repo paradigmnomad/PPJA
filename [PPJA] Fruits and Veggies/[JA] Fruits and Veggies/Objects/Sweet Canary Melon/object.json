@@ -7,8 +7,9 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Like": ["Demetrius", "Dwarf", "Elliott", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Penny", "Robin", "Sandy", "Shane"],
-        "Neutral": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+        "Love": ["Victor"],
+        "Like": ["Demetrius", "Dwarf", "Elliott", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Penny", "Robin", "Sandy", "Shane", "Andy", "Olivia"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Pierre", "Sam", "Sebastian", "Willy", "Wizard", "Marlon", "Morris", "Sophia", "Susan"],
         "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
     },
     "Recipe": null,
@@ -30,7 +31,7 @@
     {
         "es": "Un melón amarillo brillante, es distintivamente dulce y picante.",
         "ko": "밝은 노란색으로, 달콤하고 톡 쏘는 맛이 있습니다.",
-        "de": "Eine leuchtend gelbe Melone, unverwechselbar süß und würzig.",
+        "de": "Eine leuchtend gelbe Melone, sie ist unverwechselbar süß und würzig.",
          // "fr": "",
          // "hu": "",
          // "it": "",

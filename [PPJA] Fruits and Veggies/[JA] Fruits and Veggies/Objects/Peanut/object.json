@@ -7,16 +7,18 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Harvey", "Kent", "Leah", "Linus"],
-        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Love": ["Harvey", "Kent", "Leah", "Linus", "Andy"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard", "Morris", "Susan"],
+        "Neutral": ["Olivia"],
         "Dislike": ["Krobus", "Willy"],
+        "Hate": ["Marlon", "Sophia", "Victor"],
     },
     "Recipe": null,
     "NameLocalization":
     {
         "es": "Maní",
         "ko": "땅콩",
-        "de": "Erdnuss",
+        "de": "Erdnuß",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -30,7 +32,7 @@
     {
         "es": "Una nuez ligeramente salada que se puede batir en mantequilla de maní.",
         "ko": "땅콩버터로 만들 수 있는 약간 짭조름한 견과류.",
-        "de": "Eine leicht salzige Nuss, die zu Erdnussbutter verabeitet werden kann.",
+        "de": "Salzig, knusprig der ideale TV Snack.",
          // "fr": "",
          // "hu": "",
          // "it": "",

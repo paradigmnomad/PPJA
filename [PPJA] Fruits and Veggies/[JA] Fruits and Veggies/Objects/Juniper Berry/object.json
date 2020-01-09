@@ -7,9 +7,11 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Neutral": ["Demetrius", "Gus", "Leah", "Linus", "Maru", "Pam", "Robin", "Sandy", "Shane"],
-        "Dislike": ["Abigail", "Alex", "Clint", "Dwarf", "Emily", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Penny", "Pierre", "Sam", "Sebastian", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Caroline", "Elliott", "Evelyn"],
+        "Love": ["Olivia"],
+        "Like": ["Pam", "Andy", "Victor", "Shane"],
+        "Neutral": ["Demetrius", "Gus", "Leah", "Linus", "Maru", "Robin", "Sandy", "Marlon"],
+        "Dislike": ["Abigail", "Alex", "Clint", "Dwarf", "Emily", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Penny", "Pierre", "Sam", "Sebastian", "Vincent", "Willy", "Wizard", "Susan"],
+        "Hate": ["Caroline", "Elliott", "Evelyn", "Sophia"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -30,7 +32,7 @@
     {
         "es": "No se suele comer sola, sino que la fermentan en ginebra.",
         "ko": "주니퍼 베리 자체로 타르트를 만들거나 베리 자체로 먹지는 않지만, 보통 진으로 발효시킵니다.",
-        "de": "Er wird in der Regel nicht gegessen, sondern zu Gin vergärt.",
+        "de": "Er wird in der Regel nicht gegessen, aber zu Gin vergärt.",
          // "fr": "",
          // "hu": "",
          // "it": "",

@@ -7,8 +7,9 @@
     "IsColored": false,
     "GiftTastes":
     {
-	"Love": ["Penny"],
-        "Like": ["Alex", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "Gus", "Harvey", "Jodi", "Leah", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Love": ["Penny"],
+        "Like": ["Alex", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "Gus", "Harvey", "Jodi", "Leah", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Andy", "Morris", "Susan", "Victor"],
+        "Neutral": ["Marlon", "Olivia", "Sophia"],
         "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
     },
     "Recipe": null,

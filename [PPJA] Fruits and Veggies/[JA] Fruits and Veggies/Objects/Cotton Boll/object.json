@@ -7,8 +7,11 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Love":["Sandy", "Sophia"],
+        "Like": ["Emily", "Morris", "Susan"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Willy", "Wizard", "Marlon", "Olivia", "Victor"],
         "Dislike": ["Jas", "Vincent"],
+        "Hate": ["Andy"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -29,7 +32,7 @@
     {
         "es": "Esponjoso y blanco, puede ser utilizado para hacer hilo.",
         "ko": "푹신하고 흰 목화 솜은, 실을 만드는데 이용됩니다.",
-        "de": "Weiß und flauschig, wird zu Garn gesponnen.",
+        "de": "Weiß und flauschig, es wird zu Garn gesponnen.",
          // "fr": "",
          // "hu": "",
          // "it": "",

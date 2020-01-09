@@ -6,9 +6,11 @@
     "Price": 120,
     "IsColored": false,
     "GiftTastes":
-    {
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    {   
+        "Love": ["Andy"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Marlon", "Morris", "Susan"],
+        "Neutral": ["Olivia", "Victor"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent", "Sophia"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -29,7 +31,7 @@
     {
         "es": "La parte superior de este vegetal es frondosa y es esponjosa.",
         "ko": "브로콜리의 송이부분은 잎이 많고 푹신합니다.",
-        "de": "Er hat einen weichen, fluffigen Kopf.",
+        "de": "Es hat einen weichen, fluffigen Kopf, es sieht aus wie ein kleiner Baum.",
          // "fr": "",
          // "hu": "",
          // "it": "",

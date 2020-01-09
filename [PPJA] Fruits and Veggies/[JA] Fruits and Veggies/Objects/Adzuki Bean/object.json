@@ -2,15 +2,16 @@
     "Name": "Adzuki Bean",
     "Description": "Mash it and it becomes a paste.",
     "Category": "Vegetable",
-    "Edibility": 22,
-    "Price": 90,
+    "Edibility": 20,
+    "Price": 100,
     "IsColored": false,
     "Recipe": null,
     "GiftTastes":
     {
         "Love": ["Harvey"],
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Marlon", "Olivia", "Susan", "Victor"],
+        "Neutral": ["Morris", "Andy"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Sophia"],
         "Hate": ["Lewis"]
     },
     "NameLocalization":
@@ -31,7 +32,7 @@
     {
         "es": "Si lo trituras se convierte en pasta.",
         "ko": "으깨면 페이스트가 됩니다.",
-        "de": "Zerdrücke sie und du hast eine Paste.",
+        "de": "Zerdrück sie und es wird eine Paste.",
          // "fr": "",
          // "hu": "",
          // "it": "",

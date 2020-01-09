@@ -10,9 +10,9 @@
     "GiftTastes":
     {
         "Love": ["Abigail"],
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
-        "Neutral": ["Leah"],
-        "Dislike": ["Krobus", "Leah", "Willy"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Sophia", "Susan"],
+        "Neutral": ["Leah", "Marlon", "Morris", "Olivia", "Victor"],
+        "Dislike": ["Krobus", "Leah", "Willy", "Andy"],
     },
     "Recipe":
     {
@@ -40,11 +40,11 @@
     {
         "es": "Galleta de amatista",
         "ko": "자수정 쿠키",
-        "de": "Amethyst-Plätzchen",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "アメジストクッキー",
+         // "ja": "",
         "pt": "Biscoito de ametista",
          // "ru": "",
          // "tr": "",
@@ -54,12 +54,11 @@
     {
         "es": "Una galleta chispeante con un crujido único.",
         "ko": "독특한 크런치가 있는 스파클링 쿠키.",
-        "de": "Ein funkelnder Keks mit einem einzigartigen Biss.
-",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "独特なクランチがきらめくクッキー。",
+         // "ja": "",
         "pt": "Um biscoito brilhante com uma crocancia única.",
          // "ru": "",
          // "tr": "",

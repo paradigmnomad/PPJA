@@ -43,12 +43,12 @@
     "NameLocalization":
     {
         "es": "Vegetales salteados",
-        "ko": "야채 볶음",
-        "de": "Gebratenes Wokgemüse",
+        "ko": "채소 볶음",
+        "de": "Veggie Fritten",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "野菜炒め",
+         // "ja": "",
         "pt": "Salteados de legumes",
          // "ru": "",
          // "tr": "",
@@ -57,12 +57,12 @@
     "DescriptionLocalization":
     {
         "es": "Verduras salteadas.",
-        "ko": "달구어 볶은 야채.",
-        "de": "Angebratene Gemüsestreifen.",
+        "ko": "달구어 볶은 채소.",
+        "de": "Fritierte Gemüsestreifen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "野菜を炒めたもの。",
+         // "ja": "",
         "pt": "Legumes salteados.",
          // "ru": "",
          // "tr": "",

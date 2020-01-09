@@ -7,8 +7,10 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Like": ["Harvey", "Leah", "Linus"],
-        "Dislike": ["Caroline", "Dwarf", "Elliott", "Haley", "Jas", "Jodi", "Krobus", "Pierre", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Like": ["Harvey", "Leah", "Linus", "Andy", "Marlon", "Morris", "Susan"],
+        "Neutral": ["Olivia"],
+        "Dislike": ["Caroline", "Dwarf", "Elliott", "Haley", "Jas", "Jodi", "Krobus", "Pierre", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard", "Sophia"],
+        "Hate": ["Victor"],
     },
     "Recipe": null,
     "CanPurchase": false,
@@ -16,7 +18,7 @@
     {
          // "es": "",
         "ko": "표고버섯",
-        "de": "Shiitake-Pilz",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -30,7 +32,7 @@
     {
          // "es": "",
         "ko": "향과 맛이 좋습니다.",
-        "de": "Leckere Pilze!",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

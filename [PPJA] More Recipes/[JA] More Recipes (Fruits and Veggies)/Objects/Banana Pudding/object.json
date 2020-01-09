@@ -37,7 +37,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "バナナプリン",
+         // "ja": "",
         "pt": "Pudim de banana",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Agregue galletas para obtener un sabroso regalo.",
-        "ko": "맛있는 간식을 위해 쿠키를 추가해 주세요.",
+        "ko": "맛있는 간식을 위해 쿠키를 더해라.",
         "de": "Am besten passen Kekse dazu.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "クッキーを足しておいしいおやつに。",
+         // "ja": "",
         "pt": "Adicione cookies para um deleite saboroso.",
          // "ru": "",
          // "tr": "",

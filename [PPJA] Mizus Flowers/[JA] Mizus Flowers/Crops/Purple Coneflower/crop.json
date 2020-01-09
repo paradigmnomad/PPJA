@@ -28,8 +28,8 @@
     {
         "es": "Semillas de echinacea",
         "ko": "자주루드베키아 씨앗",
-        "de": "Purpurner Sonnenhut-Saat",
-        "fr": "Graines de Echinacea",
+        "de": "Coneblumen-Saat",
+         // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "ムラサキバレンギクの種",
@@ -42,8 +42,8 @@
     {
         "es": "Plántalas en otoño. Toma 9 días para producir una flor morada.",
         "ko": "가을에 심으세요. 9일 후 보라색 꽃이 핍니다.",
-        "de": "Pflanze sie im Herbst. Wächst in 9 Tagen zu einer lilafarbenen Blume heran.",
-        "fr": "Plantez à l'automne. Prend 9 jours pour produire une fleur violette.",
+        "de": "Pflanzen sie im Herbst. Wächst in 10 Tagen heran.",
+         // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "秋植えの花。9日かけて紫色の花を咲かせる。",

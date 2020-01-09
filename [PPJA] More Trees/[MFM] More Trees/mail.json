@@ -2,7 +2,7 @@
     {
         "Id": "ppja.camphorsapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "camphor.text", 
+        "Text": "Hello there dear,^^  I hope your farm is doing well.^ I'm sending you a little care package. I hope you can find a good use for it.^^  -Evelyn", 
         "Attachments": [{"Type": "Object", "Name":"Camphor Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "1 fall Y3", 
@@ -19,7 +19,7 @@
     {
         "Id": "ppja.breadfruitsapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "breadfruit.text", 
+        "Text": "@,^^ I know this isn't the season, but if you plant this over winter you'll have a nice Breadfruit tree to harvest from in the spring.^^  -Elliott", 
         "Attachments": [{"Type": "Object", "Name":"Breadfruit Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "12 fall Y2", 
@@ -45,7 +45,7 @@
     {
         "Id": "ppja.eucalyptussapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "eucalyptus.text", 
+        "Text": "Hey @,^^ I thought you might want to grow one of these on your farm and sell the leaves for a good profit I was going to try and grow it myself but got nervous.^^  -Maru", 
         "Attachments": [{"Type": "Object", "Name":"Eucalyptus Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "1 summer Y2", 
@@ -58,7 +58,7 @@
     {
         "Id": "ppja.figsapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "fig.text", 
+        "Text": "Dear @,^^ Did you know fig trees have so blossoms on their branches? See for yourself!^^ -Demetrius", 
         "Attachments": [{"Type": "Object", "Name":"Fig Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "10 summer Y2", 
@@ -71,7 +71,7 @@
     {
         "Id": "ppja.grapefruitsapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "grapefruit.text", 
+        "Text": "@,^^  Every morning I have a protein shake with a grapefruit. Gotta have that balanced breakfast! I read something that said fresh grapefruit are better for you so could you start being my supplier?^^  -Alex", 
         "Attachments": [{"Type": "Object", "Name":"Grapefruit Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "8 spring Y2", 
@@ -84,7 +84,7 @@
     {
         "Id": "ppja.melaleucasapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "melaleuca.text", 
+        "Text": "Dear @,^^  You've been so very kind to me and Jas. I'd like you to have this as our way of saying thanks.^^  -Marnie", 
         "Attachments": [{"Type": "Object", "Name":"Melaleuca Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "1 fall Y1", 
@@ -93,7 +93,7 @@
     {
         "Id": "ppja.persimmonsapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "persimmon.text", 
+        "Text": "Hi.^^ Me found this. Okay, poke?^^ You can have it, poke.^^  -hat mouse", 
         "Attachments": [{"Type": "Object", "Name":"Persimmon Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "17 fall Y1", 
@@ -102,7 +102,7 @@
     {
         "Id": "ppja.pomelosapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "pomelo.text", 
+        "Text": "Hey @!^^ It'll take awhile to grow but I think you'll be able to manage. I wonder how tall it'll get? Maybe Vincent could come over and try to climb all the way to the top!^^  -Sam", 
         "Attachments": [{"Type": "Object", "Name":"Pomelo Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "10 spring Y2", 
@@ -115,7 +115,7 @@
     {
         "Id": "ppja.vanillasapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "vanilla.text", 
+        "Text": "Greetings,^^  I hope you can find some use for this sapling. I believe it will produce an item of arcane significance.^^ -M. Rasmodius, Wizard", 
         "Attachments": [{"Type": "Object", "Name":"Vanilla Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "10 winter Y1", 
@@ -124,7 +124,7 @@
     {
         "Id": "ppja.fragrantwisteriasapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "fragrantwisteria.text", 
+        "Text": "Hey @,^^  I love the blooms from this tree. Could you plant one for me on the farm?^^  -Abigail", 
         "Attachments": [{"Type": "Object", "Name":"Fragrant Wisteria Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "1 fall Y1", 
@@ -133,7 +133,7 @@
     {
         "Id": "ppja.ylangylangsapling", 
         "GroupID": "MoreTrees.sapling",
-        "Text": "ylangylang.text", 
+        "Text": "Hey @,^^ I read that the flowers from this tree are good for helping your skin. Plus it's so beautiful when it blooms. Maybe you want to try planting one?^^ -Abigail", 
         "Attachments": [{"Type": "Object", "Name":"Ylang Ylang Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "8 spring Y3", 

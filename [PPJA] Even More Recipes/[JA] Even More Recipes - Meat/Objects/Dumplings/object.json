@@ -47,7 +47,7 @@
     {
         "es": "Empanadillas",
         "ko": "만두",
-        "de": "Knödel",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -61,7 +61,7 @@
     {
         "es": "Una empanada frita con cerdo y cebolletas.",
         "ko": "돼지고기와 부추 튀김.",
-        "de": "Eine gebratene Tasche mit Schweinefleisch und Frühlingszwiebeln.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

@@ -8,9 +8,11 @@
     "Price": 600,
     "IsColored": false,
     "GiftTastes":
-    {
-        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+    {   
+        "Love": ["Susan"], 
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard", "Andy", "Marlon", "Morris", "Olivia", "Victor"],
         "Dislike": ["Krobus", "Willy"],
+        "Neutral": ["Sophia"],
     },
     "Recipe":
     {
@@ -45,11 +47,11 @@
     {
         "es": "Tarta de manzana",
         "ko": "애플 파이",
-         "de": "Apfelkuchen",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "アップルパイ",
+         // "ja": "",
         "pt": "Torta de maçã",
          // "ru": "",
          // "tr": "",
@@ -59,11 +61,11 @@
     {
         "es": "Un delicioso pastel hecho con manzana y canela.",
         "ko": "사과와 시나몬으로 만든 맛있는 파이.",
-        "de": "Ein schmackhafter Kuchen mit Äpfeln und Zimt.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "リンゴとシナモンで作ったおいしいパイ。",
+         // "ja": "",
         "pt": "Uma deliciosa torta feita com maçãs e canela.",
          // "ru": "",
          // "tr": "",

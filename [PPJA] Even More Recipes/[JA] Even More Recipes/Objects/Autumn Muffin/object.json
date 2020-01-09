@@ -2,16 +2,16 @@
     "Name": "Autumn Muffin",
     "Description": "A decadent muffin that's topped with powdered sugar.",
     "Category": "Cooking",
-    "Edibility": 50,
+    "Edibility": 54,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
     "Price": 945,
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Leah", "Penny"],
-        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-        "Dislike": ["Krobus", "Willy"],
+        "Love": ["Leah", "Penny", "Olivia", "Susan"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard", "Marlon", "Morris", "Sophia", "Victor"],
+        "Dislike": ["Krobus", "Willy", "Andy"],
     },
     "Recipe":
     {
@@ -49,11 +49,11 @@
     {
         "es": "Muffin otoñal",
         "ko": "가을 머핀",
-        "de": "Herbst Muffin",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "オータムマフィン",
+         // "ja": "",
         "pt": "Muffin de Outono",
          // "ru": "",
          // "tr": "",
@@ -63,11 +63,11 @@
     {
         "es": "Un panecillo que está cubierto con azúcar en polvo.",
         "ko": "슈가 파우더를 뿌린 머핀.",
-        "de": "Ein dekadenter Muffin bedeckt mit Puderzucker.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "粉砂糖をトッピングした魅惑的なマフィン。",
+         // "ja": "",
         "pt": "Um bolinho decadente coberto com açúcar em pó.",
          // "ru": "",
          // "tr": "",

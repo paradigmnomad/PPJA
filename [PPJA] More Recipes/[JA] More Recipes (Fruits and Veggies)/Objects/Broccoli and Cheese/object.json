@@ -32,12 +32,12 @@
     "NameLocalization":
     {
         "es": "Brócoli y queso",
-        "ko": "브로콜리 치즈",
-        "de": "Brokkoli mit Käse",
+        "ko": "브로콜리와 치즈",
+        "de": "Broccoli und Käse",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ブロッコリーのチーズがけ",
+         // "ja": "",
         "pt": "Brócolis e Queijo",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "Brócoli al vapor cubierto de queso pegajoso.",
-        "ko": "삶은 브로콜리 위에 치즈를 얹었습니다.",
-        "de": "Gedämpfter Brokkoli, überbacken mit Käse.",
+        "ko": "부드럽고 끈적한 치즈를 올린, 쪄진 브로콜리.",
+        "de": "Gedämpfter Brokkoli überbacken mit Käse.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "蒸したブロッコリーにとろとろのチーズをかけて。",
+         // "ja": "",
         "pt": "Brócolis cozido no vapor coberto de queijo pegajoso.",
          // "ru": "",
          // "tr": "",

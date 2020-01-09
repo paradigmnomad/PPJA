@@ -41,12 +41,12 @@
     "NameLocalization":
     {
         "es": "Té de diente de león",
-        "ko": "민들레 티",
-        "de": "Löwenzahntee",
+        "ko": "민들레 차",
+        "de": "Wiesentee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "タンポポ茶",
+         // "ja": "",
         "pt": "Chá de dente de leão",
          // "ru": "",
          // "tr": "",
@@ -56,20 +56,14 @@
     {
         "es": "¿Quién diría que una hierba podría saber tan bien?",
         "ko": "들꽃이 이렇게 맛이 좋단 걸 누가 알았을까요?",
-        "de": "Wer wusste, dass Unkraut so gut schmecken könnte?",
+        "de": "Wer wusste, dass Gras so gut schmecken könnte?",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "雑草がこんなにおいしくなるなんて知ってた？",
+         // "ja": "",
         "pt": "Quem sabia que uma erva poderia ter um sabor tão bom?",
          // "ru": "",
          // "tr": "",
         "zh": "蒲公英茶。谁知道这种野草的味道这么好？",
-    },
-    "ContextTags": [
-        "color_yellow",
-        "color_white",
-        "color_pink",
-        "tea_item",
-    ],
+    }
 }

@@ -8,8 +8,10 @@
     "GiftTastes":
     {
         "Love": ["Evelyn"],
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Andy", "Morris", "Susan"],
+        "Neutral": ["Marlon", "Victor"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent", "Sophia"],
+        "Hate": ["Olivia"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -30,7 +32,7 @@
     {
         "es": "Este tubérculo tiene un alta concentración de sacarosa. Es bueno para procesar en azúcar!",
         "ko": "이 작물은 당도가 높습니다. 설탕 가공에 좋습니다!",
-        "de": "Diese Knolle hat eine hohe Konzentration von Saccharose und kann gut zu Zucker verarbeitet werden!",
+        "de": "Diese Knolle hat eine hohe Konzentration von Saccharose. Sie kann gut zu Zucker verarbeitet werden!",
          // "fr": "",
          // "hu": "",
          // "it": "",

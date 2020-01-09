@@ -24,8 +24,8 @@
     {
         "es": "Semillas de pasionaria",
         "ko": "시계꽃 씨앗",
-        "de": "Passionsblumen-Saat",
-        "fr": "Graines de Passiflore",
+        "de": "Passionsblume-Saat",
+         // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "トケイソウの種",
@@ -38,8 +38,8 @@
     {
         "es": "Plántalas en verano. Toma 8 días para producir una hermosa flor.",
         "ko": "여름에 심으세요. 8일 후 사랑스러운 꽃이 핍니다.",
-        "de": "Pflanze sie im Sommer. Wächst in 8 Tagen heran.",
-        "fr": "Plantez en été. Prend 8 jours pour produire une jolie fleur.",
+        "de": "Pflanzen sie im Sommer. Wächst in 10 Tagen heran.",
+         // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "夏植えの花。8日かけてかわいらしい花を咲かせる。",

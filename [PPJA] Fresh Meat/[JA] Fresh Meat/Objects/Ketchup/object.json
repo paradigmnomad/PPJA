@@ -9,7 +9,7 @@
   "IsColored": false,
   "GiftTastes": {
     "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
-	"Neutral": ["Krobus", "Willy"],
+	"Neutral": ["Krobus", "Willy", "Olivia", "Sophia"],
   },
   "Recipe": {
     "ResultCount": 1,
@@ -37,7 +37,7 @@
     "es": "Salsa de tomate",
     "ko": "케챱",
     "de": "Ketchup",
-    "fr": "Ketchup",
+     // "fr": "",
      // "hu": "",
      // "it": "",
      // "ja": "",
@@ -50,7 +50,7 @@
     "es": "Una salsa de tomate endulzada con azúcar.",
     "ko": "설탕으로 달인 토마토 페이스트.",
     "de": "Tomatenpaste mit Zucker.",
-    "fr": "Une pâte de tomates sucrée au sucre.",
+     // "fr": "",
      // "hu": "",
      // "it": "",
      // "ja": "",

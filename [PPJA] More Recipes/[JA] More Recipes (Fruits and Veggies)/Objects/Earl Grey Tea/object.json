@@ -34,33 +34,29 @@
     "NameLocalization":
     {
         "es": "Té earl grey",
-        "ko": "얼 그레이 티",
-        "de": "Earl Grey-Tee",
+        "ko": "얼그레이 차",
+        "de": "Earl Grey Tee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "アールグレイティー",
+         // "ja": "",
         "pt": "Chá Earl Grey",
          // "ru": "",
          // "tr": "",
-        "zh": "格雷伯爵红茶",
+        "zh": "格雷伯爵茶",
     },
     "DescriptionLocalization":
     {
         "es": "Una bebida caliente con limón.",
-        "ko": "뜨거운 얼 그레이.",
-        "de": "Tee. Earl Grey. Heiß.",
+        "ko": "차. 얼그레이. 뜨거운.",
+        "de": "Tee. Earl Grey. Heiz.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "お茶。アールグレイ。熱々。",
+         // "ja": "",
         "pt": "Chá. Earl Grey. Quente.",
          // "ru": "",
          // "tr": "",
-        "zh": "格雷伯爵红茶，烫。",
-    },
-    "ContextTags": [
-        "color_yellow",
-        "tea_item",
-    ],
+        "zh": "格雷伯爵茶。茶，格雷伯爵，烫。",
+    }
 }

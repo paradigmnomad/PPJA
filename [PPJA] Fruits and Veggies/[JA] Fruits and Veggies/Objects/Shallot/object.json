@@ -8,8 +8,8 @@
     "GiftTastes":
     {
         "Love": ["Krobus"],
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Jodi", "Sam", "Vincent"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Andy", "Marlon", "Olivia", "Susan", "Victor"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Jodi", "Sam", "Vincent", "Morris", "Sophia"],
         "Hate": ["Evelyn", "Pierre"],
     },
     "Recipe": null,
@@ -21,7 +21,7 @@
     {
          // "es": "",
         "ko": "샬롯",
-        "de": "Schalotte",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -35,7 +35,7 @@
     {
          // "es": "",
         "ko": "양파의 작은 버전.",
-        "de": "Eine mildere Unterart der Zwiebel.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

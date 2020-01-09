@@ -8,14 +8,16 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Elliott", "Emily", "Haley"],
+        "Love": ["Elliott", "Emily", "Haley", "Marlon", "Olivia", "Susan"],
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Neutral": ["Andy", "Morris", "Victor"],
+        "Dislike": ["Sophia"],
     },
     "NameLocalization":
     {
          // "es": "",
         "ko": "퀴노아",
-        "de": "Quinoa",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -29,7 +31,7 @@
     {
          // "es": "",
         "ko": "단백질, 식이섬유, 비타민B, 그리고 미네랄이 다른 곡물들보다 풍부합니다.",
-        "de": "Reicher an Proteinen, Ballaststoffen, Vitamin B und Mineralstoffen als die meisten anderen Getreide.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

@@ -51,12 +51,12 @@
     "NameLocalization":
     {
         "es": "Té de limón",
-        "ko": "레몬 티",
+        "ko": "레몬 차",
         "de": "Zitronentee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "レモンティー",
+         // "ja": "",
         "pt": "Chá de Limão siciliano",
          // "ru": "",
          // "tr": "",
@@ -65,19 +65,15 @@
     "DescriptionLocalization":
     {
         "es": "Té endulzado con limón.",
-        "ko": "레몬을 넣어 달콤하게 만든 차.",
+        "ko": "달콤한 차와 레몬.",
         "de": "Gesüßter Tee mit Zitrone.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "レモンを添えた甘いお茶。",
+         // "ja": "",
         "pt": "Chá adoçado com Limão siciliano.",
          // "ru": "",
          // "tr": "",
         "zh": "柠檬茶。柠檬茶加糖。",
-    },
-    "ContextTags": [
-        "color_yellow",
-        "tea_item",
-    ],
+    }
 }

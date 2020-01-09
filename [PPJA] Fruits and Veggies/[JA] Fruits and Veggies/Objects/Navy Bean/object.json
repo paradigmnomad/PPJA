@@ -7,15 +7,16 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Elliott", "Haley", "Jas", "Sam", "Vincent"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Susan"],
+        "Dislike": ["Abigail", "Elliott", "Haley", "Jas", "Sam", "Vincent", "Andy", "Morris"],
+        "Hate": ["Marlon", "Olivia", "Sophia", "Victor"]
     },
     "Recipe": null,
     "NameLocalization":
     {
         "es": "Frijoles blancos",
         "ko": "흰 강낭콩",
-        "de": "Weiße Bohnen",
+        "de": "weiße Bohnen",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -29,7 +30,7 @@
     {
         "es": "Un puñado de frijoles.",
         "ko": "흰 강낭콩 한 줌.",
-        "de": "Eine Handvoll Bohnen.",
+        "de": "Eine Hand voll Bohnen.",
          // "fr": "",
          // "hu": "",
          // "it": "",

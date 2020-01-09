@@ -10,7 +10,7 @@
   "GiftTastes": {
     "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
 	"Dislike": ["Abigail", "Emily", "Haley", "Jas", "Leah", "Marnie", "Sam", "Vincent" ],
-	"Hate": ["Sebastian"],
+	"Hate": ["Sebastian". "Susan"],
   },
   "Recipe": {
     "ResultCount": 1,
@@ -39,7 +39,7 @@
     "es": "Brocheta a la parrilla",
     "ko": "꼬치 구이",
     "de": "Gegrillter Spieß",
-    "fr": "Brochette Grillée",
+     // "fr": "",
      // "hu": "",
      // "it": "",
      // "ja": "",
@@ -52,7 +52,7 @@
     "es": "Un pincho de verduras y carnes a la parilla.",
     "ko": "구운 채소와 고기 꼬챙이.",
     "de": "Ein Spieß mit gegrilltem Gemüse und Fleisch.",
-    "fr": "Une brochette de légumes grillés et de viande.",
+     // "fr": "",
      // "hu": "",
      // "it": "",
      // "ja": "",

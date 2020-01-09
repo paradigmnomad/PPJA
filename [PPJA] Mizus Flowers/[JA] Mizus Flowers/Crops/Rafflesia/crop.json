@@ -2,7 +2,7 @@
     "Name": "Rafflesia",
     "Product": "Rafflesia",
     "SeedName": "Rafflesia Seeds",
-    "SeedDescription": "Plant in spring, harvest in fall. Takes 2 full seasons to produce a large red flower.",
+    "SeedDescription": "Plant in spring, harvest in fall. Takes 2 full seasons to produce a large, foul smelling red flower.",
     "Type": "Flower",
 
     "Seasons": ["spring", "summer", "fall"],
@@ -28,8 +28,8 @@
     {
         // "es": "",
         "ko": "라플레시아 씨앗",
-        "de": "Rafflesie",
-        "fr": "Graines de Rafflesia",
+        // "de": "",
+        // "fr": "",
         // "hu": "",
         // "it": "",
         "ja": "ラフレシアの種",
@@ -42,8 +42,8 @@
     {
         // "es": "",
         "ko": "봄에 심고, 가을에 수확합니다. 큰 빨간색 꽃을 피우기 위해 2계절이 소요됩니다.",
-        "de": "Pflanze sie im Frühling, dann ernte sie im Herbst. Braucht 2 Jahreszeiten, um eine große, rote Blüte zu bilden.",
-        "fr": "Plantez au printemps, récoltez à l'automne. Prend 2 saisons complètes pour produire une grande fleur rouge.",
+        // "de": "",
+        // "fr": "",
         // "hu": "",
         // "it": "",
         "ja": "春に植えて秋に収穫する花。2シーズンかけて赤く巨大な花を咲かせる",

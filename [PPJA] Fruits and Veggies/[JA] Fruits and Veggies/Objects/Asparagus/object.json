@@ -7,16 +7,17 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Like": ["Gus", "Harvey", "Leah", "Linus"],
-        "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+        "Like": ["Gus", "Harvey", "Leah", "Linus", "Andy", "Marlon", "Susan"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Morris", "Victor"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent", "Sophia"],
+        "Hate": ["Olivia"]
     },
     "Recipe": null,
     "NameLocalization":
     {
          // "es": "",
         "ko": "아스파라거스",
-        "de": "Spargel",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -30,7 +31,7 @@
     {
          // "es": "",
         "ko": "어린 싹은 봄 요리에 쓰입니다.",
-        "de": "Seine jungen Triebe werden als Frühlingsgemüse gegessen.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

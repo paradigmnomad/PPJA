@@ -7,8 +7,11 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Love": ["Marlon"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Andy", "Olivia", "Susan" ],
+        "Neutral": ["Morris", "Victor"],
         "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+        "Hate": ["Sophia"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -29,7 +32,7 @@
     {
         "es": "El cuento de las viejas esposas dice que comer zanahorias ayuda a mejorar la vista.",
         "ko": "노인들의 말에 따르면 당근을 먹으면 시력이 좋아진다네요.",
-        "de": "Eine alte Bauernweisheit besagt, Karotten zu essen verbessere die Sehleistung.",
+        "de": "Eine alte Bauernweisheit besagt, sie verbessern die Sehleistung.",
          // "fr": "",
          // "hu": "",
          // "it": "",

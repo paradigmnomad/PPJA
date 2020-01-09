@@ -7,17 +7,17 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Sandy", "Abigail",],
-        "Like": ["Caroline", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Linus", "Pierre", "Vincent", ],
+        "Love": ["Sandy", "Abigail"],
+        "Like": ["Caroline", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Linus", "Pierre", "Vincent", "Sophia" ],
         "Neutral": ["Alex", "Clint", "Demetrius", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Robin"],
-        "Dislike": ["Dwarf", "Elliott", "Krobus", "Sam", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Dwarf", "Elliott", "Krobus", "Sam", "Sebastian", "Shane", "Willy", "Wizard", "Morris"],
     },
     "Recipe": null,
     "NameLocalization":
     {
         "es": "Glicina fragante",
         "ko": "향기로운 등나무 꽃",
-        "de": "Duftender Blauregen",
+        "de": "duftender Blauregen",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -31,7 +31,7 @@
     {
         "es": "Un racimo de flores púrpuras especialmente fragantes.",
         "ko": "향기로운 보라색 꽃 송이.",
-        "de": "Besonders angenehm duftend, mit lila Blüten.",
+        "de": "Ein besonders duftende Ast mit lila Blüten.",
          // "fr": "",
          // "hu": "",
          // "it": "",

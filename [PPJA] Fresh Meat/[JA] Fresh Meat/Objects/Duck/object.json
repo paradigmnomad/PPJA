@@ -7,8 +7,8 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Sebastian"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard" "Andy", "Marlon", "Morris", "Olivia", "Sophia", "Victor"],
+        "Hate": ["Sebastian", "Susan"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -16,7 +16,7 @@
         "es": "Pato",
         "ko": "오리고기",
         "de": "Entenfleisch",
-        "fr": "Canard",
+        // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
@@ -30,7 +30,7 @@
         "es": "Un muslo de pato.",
         "ko": "오리에게서 얻는 고기.",
         "de": "Eine schöne Keule.",
-        "fr": "Un pilon de canard.",
+        // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",

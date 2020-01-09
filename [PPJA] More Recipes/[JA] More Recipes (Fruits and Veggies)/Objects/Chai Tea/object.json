@@ -35,12 +35,12 @@
     "NameLocalization":
     {
         "es": "Té chai",
-        "ko": "차이 티",
+        "ko": "Chai Tea",
         "de": "Chai Tee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "チャイ",
+         // "ja": "",
         "pt": "Chá Chai",
          // "ru": "",
          // "tr": "",
@@ -49,20 +49,15 @@
     "DescriptionLocalization":
     {
         "es": "Un té cremoso con un ligero sabor a canela.",
-        "ko": "시나몬 향이 약간 나는 크림 티.",
+        "ko": "약간의 계피 향이 나는 크림색 차.",
         "de": "Ein cremiger Tee mit leichtem Zimtgeschmack.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "かすかなシナモン風味のクリーミーなお茶。",
+         // "ja": "",
         "pt": "Um chá cremoso com um leve sabor de canela.",
          // "ru": "",
          // "tr": "",
         "zh": "印度香茶。一种带有少许肉桂味道的奶油茶。",
-    },
-    "ContextTags": [
-        "recipe_year_2",
-        "color_white",
-        "tea_item",
-    ],
+    }
 }

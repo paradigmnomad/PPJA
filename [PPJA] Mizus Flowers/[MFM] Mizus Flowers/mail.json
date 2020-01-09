@@ -1,8 +1,7 @@
 [
     {
         "Id": "ppja.chamomileseeds", 
-        "GroupID": "MizusFlowers.Seeds",
-        "Text": "chamomile.text", 
+        "Text": "Dear @,^^ Here's some seeds from the little garden I keep out back. You probably already have some of these but they make a great tea.^^  -Caroline", 
         "Attachments": [{"Type": "Object", "Name":"Chamomile Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "24 winter Y1", 
@@ -14,8 +13,7 @@
     },
     {
         "Id": "ppja.fairydusterseeds", 
-        "GroupID": "MizusFlowers.Seeds",
-        "Text": "fairyduster.text", 
+        "Text": "Greetings from Calico Desert!^ Come visit me soon @, I'm really bored out here :(. I've included some seeds from one of my favorite flowers. You can come and thank me in person!^^  -Sandy", 
         "Attachments": [{"Type": "Object", "Name":"Fairy Duster Pod", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "7 fall Y2", 
@@ -27,8 +25,7 @@
     },
     {
         "Id": "ppja.honeysucklestarter", 
-        "GroupID": "MizusFlowers.Seeds",
-        "Text": "honeysuckle.text", 
+        "Text": "Good morning @,^^ Marnie dropped by last week and gave me these seeds. I think you'll get more use out of them than I will. Make sure you pick more up next Spring to grow for me.^^  -Leah", 
         "Attachments": [{"Type": "Object", "Name":"Honeysuckle Starter", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "6 summer Y1", 
@@ -36,8 +33,7 @@
     },
     {
         "Id": "ppja.herballavenderseeds", 
-        "GroupID": "MizusFlowers.Seeds",
-        "Text": "herballavender.text", 
+        "Text": "Good Morning @,^^ Thank you for everything you've done so far for our little town. Please accept this as a token of my appreciation. I hope you'll find a nice sunny spot to plant it on the farm.^^  -Penny", 
         "Attachments": [{"Type": "Object", "Name":"Herbal Lavender Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "4 summer Y2", 
@@ -49,8 +45,7 @@
     },
     {
         "Id": "ppja.fragrantlilacseeds", 
-        "GroupID": "MizusFlowers.Seeds",
-        "Text": "fragrantlilac.text", 
+        "Text": "@,^^ In my dreams I saw myself giving you this.^ I don't know what it means but maybe you do?^^  -Emily", 
         "Attachments": [{"Type": "Object", "Name":"Fragrant Lilac Pod", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "19 spring Y2", 
@@ -62,8 +57,7 @@
     },
     {
         "Id": "ppja.passionflowerseeds", 
-        "GroupID": "MizusFlowers.Seeds",
-        "Text": "passionflower.text", 
+        "Text": "Good Morning @,^^ It might not be ores, but these may come in handy. Come visit me at the shop whenever you get a chance.^^  -Clint", 
         "Attachments": [{"Type": "Object", "Name":"Passion Flower Seeds", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "26 spring Y2", 
@@ -75,8 +69,7 @@
     },
     {
         "Id": "ppja.pitcherplantstarter", 
-        "GroupID": "MizusFlowers.Seeds",
-        "Text": "pitcherplant.text", 
+        "Text": "Hey @,^^  Dad won't let me try to cultivate this plant in the house. Would you mind bringing one to me so I can convince him to study it?^^  -Maru", 
         "Attachments": [{"Type": "Object", "Name":"Pitcher Plant Starter", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "5 fall Y4", 
@@ -88,8 +81,7 @@
     },
     {
         "Id": "ppja.rafflesiaseeds", 
-        "GroupID": "MizusFlowers.Seeds",
-        "Text": "rafflesia.text", 
+        "Text": "Dear @,^^  I was conducting a field study the other day and I found these seeds. Let me know your findings.^^ -Demetrius", 
         "Attachments": [{"Type": "Object", "Name":"Rafflesia Seeds", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "3 summer Y4", 
@@ -101,8 +93,7 @@
     },
     {
         "Id": "ppja.rosestarter", 
-        "GroupID": "MizusFlowers.Seeds",
-        "Text": "rose.text", 
+        "Text": "@,^^  Do you think you could plant some of these for me? They're my favorite kind because they're nearly as beautiful as I am. ^^ -Haley", 
         "Attachments": [{"Type": "Object", "Name":"Rose Starter", "Stack": 5},],         
         "Repeatable": false,         
         "Date": "12 summer Y1", 

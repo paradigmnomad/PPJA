@@ -7,8 +7,8 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Sebastian"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard", "Andy", "Marlon", "Morris", "Olivia", "Sophia", "Victor"],
+        "Hate": ["Sebastian", "Susan"],
     },
     "Recipe":
     {
@@ -43,9 +43,9 @@
     "NameLocalization":
     {
         "es": "",
-        "ko": "구운 돼지고기",
+        "ko": "",
         "de": "",
-        "fr": "Porc Cuit",
+        "fr": "",
         "hu": "",
         "it": "",
         "ja": "",
@@ -57,9 +57,9 @@
     "DescriptionLocalization":
     {
         "es": "",
-        "ko": "두툼한 돼지고기. 한시간동안 구웠습니다. 조리될 준비가 되었습니다.",
+        "ko": "",
         "de": "",
-        "fr": "Un morceau de porc gras. Ça cuit depuis des heures. Il est prêt à être utilisé dans une recette maintenant.",
+        "fr": "",
         "hu": "",
         "it": "",
         "ja": "",

@@ -9,11 +9,11 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Gus", "Krobus"],
-        "Like": ["Leah", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Love": ["Gus", "Krobus", "Morris", "Susan"],
+        "Like": ["Leah", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Willy", "Wizard", "Olivia", "Sophia"],
         "Neutral": ["Demetrius", "Emily", "Evelyn", "George", "Harvey", "Jodi", "Kent", "Maru", "Penny", "Sandy"],
-        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", ],
-        "Hate": ["Haley", "Jas", "Vincent"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Victor"],
+        "Hate": ["Haley", "Jas", "Vincent", "Andy", "Marlon"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -34,7 +34,7 @@
     {
         "es": "Es un agente aromatizante en cervezas, refrescos, dulces, una especia y condimento básico en muchos países.",
         "ko": "많은 나라에서 맥주, 청량음료, 사탕 그리고 향신료 및 조미료로 사용됩니다.",
-        "de": "Er wird in vielen Ländern auf mannigfaltige Art verwendet; in Süßigkeiten, in Bieren, als Gewürz und als Heilkräuter.",
+        "de": "Er wird in vielen Produkten verwendet, in Süßigkeiten, in Bieren, als Gewürz und als Heilkräuter, in vielen Ländern.",
          // "fr": "",
          // "hu": "",
          // "it": "",

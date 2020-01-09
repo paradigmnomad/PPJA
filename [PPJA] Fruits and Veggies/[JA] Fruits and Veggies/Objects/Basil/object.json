@@ -9,8 +9,9 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Gus"],
-        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Love": ["Gus", "Susan"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard", "Andy", "Marlon", "Morris", "Olivia", "Victor"],
+        "Dislike": ["Sophia"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -31,7 +32,7 @@
     {
         "es": "En términos generales: es dulce, ligeramente mentolada y ligeramente picante.",
         "ko": "일반적으로, 약간 시원하고 알싸한 맛이 납니다.",
-        "de": "Es schmeckt süß,etwas pfeffrig und nach Minze.",
+        "de": "Es schmeckt, süß,etwas pfeffrig und nach Minze.",
          // "fr": "",
          // "hu": "",
          // "it": "",

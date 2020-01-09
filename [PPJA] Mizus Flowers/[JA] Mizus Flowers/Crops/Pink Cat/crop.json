@@ -24,8 +24,8 @@
     {
         "es": "Semillas de Pink Cat",
         "ko": "핑크 캣 씨앗",
-        "de": "Geaderte Katzenminzen-Saat",
-        "fr": "Graines de Népète",
+        "de": "Pink Cat-Saat",
+         // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "ピンクキャット",
@@ -38,8 +38,8 @@
     {
         "es": "Plántalas en primavera. Toma 6 días para producir una flor rosa menta.",
         "ko": "봄에 심으세요. 6일 후 박하향이 나는 분홍색 꽃이 핍니다.",
-        "de": "Pflanze sie im Sommer. Wächst in 6 Tagen heran.",
-        "fr": "Plantez au printemps. Prend 6 jours pour produire une fleur rose.",
+        "de": "Pflanzen sie im Sommer. Wächst in 6 Tagen heran.",
+         // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "春植えの花。6日かけてミントの香りのピンクの花を咲かせる。",

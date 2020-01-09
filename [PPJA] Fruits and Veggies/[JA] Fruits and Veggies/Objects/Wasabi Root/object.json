@@ -7,11 +7,11 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Krobus"],
-        "Like": ["Harvey", "Leah", "Linus", "Shane"],
-        "Neutral": ["Demetrius", "Emily", "Jodi", "Kent", "Maru", "Penny", "Sandy"],
-        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Lewis", "Marnie", "Pam", "Pierre", "Robin", "Sam", "Sebastian", "Willy", "Wizard"],
-        "Hate": ["Haley", "Jas", "Vincent"],
+        "Love": ["Krobus", "Susan"],
+        "Like": ["Harvey", "Leah", "Linus", "Shane", "Marlon", "Sophia"],
+        "Neutral": ["Demetrius", "Emily", "Jodi", "Kent", "Maru", "Penny", "Sandy", "Andy", "Morris"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Lewis", "Marnie", "Pam", "Pierre", "Robin", "Sam", "Sebastian", "Willy", "Wizard", "Olivia"],
+        "Hate": ["Haley", "Jas", "Vincent", "Victor"],
     },
     "Recipe": null,
     "NameLocalization":

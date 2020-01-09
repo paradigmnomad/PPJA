@@ -19,29 +19,29 @@
     "NameLocalization":
     {
         "es": "Crema de malvavisco",
-        "ko": "마시멜로 플러프",
+        "ko": "마시멜로 스프레드",
         "de": "Marshmallowcreme",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "マシュマロ",
+         // "ja": "",
         "pt": "Cotão de marshmallow",
          // "ru": "",
          // "tr": "",
-        "zh": "棉花糖",
+        "zh": "棉花糖酱",
     },
     "DescriptionLocalization":
     {
         "es": "Es ligero y esponjoso!",
-        "ko": "가볍고 푹신해요!",
+        "ko": "가볍고 퐁신해!",
         "de": "Ein fluffiger Brotaufstrich!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "軽くてふわふわ！",
+         // "ja": "",
         "pt": "É leve e fofo!",
          // "ru": "",
          // "tr": "",
-        "zh": "一罐棉花糖，轻若无骨！",
+        "zh": "一种做棉花糖的催化剂。它很轻，毛茸茸的！",
     }
 }

@@ -2,20 +2,23 @@
     "Name": "Habanero",
     "Description": "A popular ingredient in hot sauces and other spicy foods. Scoville heat units of 200,000.",
     "Category": "Vegetable",
-    "Edibility": -50,
+    "Edibility": 3,
     "Price": 120,
     "IsColored": false,
     "GiftTastes":
     {
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+        "Love": ["Shane"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Willy", "Wizard"],
+        "Neutral": ["Andy", "Marlon", "Morris"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent", "Olivia", "Sophia", "Victor"],
+        "Hate": ["Susan"],
     },
     "Recipe": null,
     "NameLocalization":
     {
          // "es": "",
         "ko": "하바네로",
-        "de": "Habanero",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -29,7 +32,7 @@
     {
          // "es": "",
         "ko": "매운 소스와 다른 매운 음식에 사용되는 인기있는 재료. 스코빌 지수는 20만 입니다.",
-        "de": "Eine häufig genutzte Zutat in Saucen und scharfem Essen. 200.000 Einheiten auf der Scoville-Skala.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

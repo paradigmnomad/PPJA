@@ -8,15 +8,16 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Sam", "Sebastian", "Kent", "Gus", "Sandy"],
-        "Like": ["Alex", "Caroline", "Clint", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jodi", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+        "Love": ["Sam", "Sebastian", "Kent", "Gus", "Shane"],
+        "Like": ["Alex", "Caroline", "Clint", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jodi", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Willy", "Wizard", "Susan"],
+        "Neutral": ["Andy", "Marlon", "Morris"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent", "Olivia", "Sophia", "Victor"],
     },
     "NameLocalization":
     {
          // "es": "",
         "ko": "할라페뇨",
-        "de": "Jalapeno",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -30,7 +31,7 @@
     {
          // "es": "",
         "ko": "적당히 매운 고추. 축제의 필수품.",
-        "de": "Ein mittelscharfer Pfeffer.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

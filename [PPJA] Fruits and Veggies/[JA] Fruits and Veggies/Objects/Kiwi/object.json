@@ -2,15 +2,15 @@
     "Name": "Kiwi",
     "Description": "A juicy, fresh kiwi.",
     "Category": "Fruit",
-    "Edibility": 12,
+    "Edibility": 15,
     "Price": 100,
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Penny", ],
-        "Like": ["Demetrius", "Dwarf", "Elliott", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Shane"],
-        "Neutral": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+        "Love": ["Penny", "Victor", "Sophia"],
+        "Like": ["Demetrius", "Dwarf", "Elliott", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Shane", "Andy", "Susan"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Pierre", "Sam", "Sebastian", "Willy", "Wizard", "Morris"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent", "Marlon"],
     },
     "Recipe": null,
     "NameLocalization":

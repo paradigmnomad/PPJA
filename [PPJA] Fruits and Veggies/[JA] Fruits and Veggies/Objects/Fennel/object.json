@@ -9,8 +9,10 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Like": ["Alex", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
+        "Love": ["Marlon", "Susan"],
+        "Like": ["Alex", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Andy", "Morris", "Olivia", "Victor"],
         "Dislike": ["Abigail", "Caroline", "Haley", "Jas", "Sam", "Sebastian", "Vincent"],
+        "Hate": ["Sophia"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -31,7 +33,7 @@
     {
         "es": "¡Una planta que se puede comer como un vegetal!",
         "ko": "야채로 먹을 수 있습니다!",
-        "de": "Eine Pflanze, die als Tee und Gewürz zum Einsatz kommt!",
+        "de": "Eine Pflanze die als Tee und Gewürz zum Einsatz kommt!",
          // "fr": "",
          // "hu": "",
          // "it": "",

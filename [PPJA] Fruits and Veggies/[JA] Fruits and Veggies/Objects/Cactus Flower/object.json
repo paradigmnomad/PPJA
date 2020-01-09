@@ -9,13 +9,14 @@
     "GiftTastes":
     {
         "Love": ["Krobus"],
-        "Hate": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Harvey", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Lewis"],
+        "Like": ["Sophia"],
+        "Hate": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Harvey", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Lewis", "Andy", "Susan", "Victor", "Marlon", "Morris", "Olivia"],
     },
     "NameLocalization":
     {
          // "es": "",
         "ko": "선인장 꽃",
-        "de": "Kaktusblüte",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -29,7 +30,7 @@
     {
          // "es": "",
         "ko": "아름다운 선인장 꽃.",
-        "de": "Eine wunderschöne Kaktusblüte.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

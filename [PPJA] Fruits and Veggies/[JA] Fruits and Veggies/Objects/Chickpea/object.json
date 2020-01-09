@@ -9,13 +9,15 @@
     "GiftTastes":
     {
         "Love": ["Krobus"],
-        "Hate": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Harvey", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Lewis"],
+        "Like": ["Susan"],
+        "Dislike": ["Andy", "Victor", "Morris"],
+        "Hate": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Harvey", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Lewis", "Olivia", "Marlon", "Sophia"],
     },
     "NameLocalization":
     {
          // "es": "",
         "ko": "병아리콩",
-        "de": "Kichererbsen",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -29,7 +31,7 @@
     {
          // "es": "",
         "ko": "굽거나 삶은 병아리콩은, 약간 고소하고 짭잘한 맛이 납니다.",
-        "de": "Geröstet oder gekocht haben sie einen leicht nussigen und salzigen Geschmack.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

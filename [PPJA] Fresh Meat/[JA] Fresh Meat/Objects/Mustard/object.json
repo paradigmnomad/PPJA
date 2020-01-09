@@ -9,7 +9,7 @@
   "IsColored": false,
   "GiftTastes": {
     "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-	"Neutral": ["Abigail", "George", "Haley", "Jas", "Vincent"],
+	"Neutral": ["Abigail", "George", "Haley", "Jas", "Vincent", "Olivia", "Sophia", "Victor"],
   },
   "Recipe": {
     "ResultCount": 1,
@@ -37,7 +37,7 @@
     "es": "Mostaza",
     "ko": "머스타드",
     "de": "Senf",
-    "fr": "Moutarde",
+     // "fr": "",
      // "hu": "",
      // "it": "",
      // "ja": "",
@@ -50,7 +50,7 @@
     "es": "Otro elemento básico para llevar al picnic.",
     "ko": "피크닉 필수 요소.",
     "de": "Passt zu Ketchup.",
-    "fr": "Un incontournable du pique-nique!",
+     // "fr": "",
      // "hu": "",
      // "it": "",
      // "ja": "",

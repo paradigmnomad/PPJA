@@ -34,12 +34,12 @@
     "NameLocalization":
     {
         "es": "Té de rosas",
-        "ko": "로즈 티",
-        "de": "Rosentee",
+        "ko": "장미차",
+        "de": "Rose Tee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ローズティー",
+         // "ja": "",
         "pt": "Chá de rosas",
          // "ru": "",
          // "tr": "",
@@ -48,20 +48,15 @@
     "DescriptionLocalization":
     {
         "es": "Un popular regalo de temporada que se ha convertido en una locura.",
-        "ko": "인기있는 계절 간식.",
+        "ko": "유행되고 있는 매우 인기 있는 계절 음식.",
         "de": "Ein beliebter saisonaler Leckerbissen, der Wahnsinn.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "一時期流行っていたお茶。",
+         // "ja": "",
         "pt": "Um tratamento sazonal popular que se tornou uma paixão.",
          // "ru": "",
          // "tr": "",
-        "zh": "玫瑰茶。一种流行的季节性食物，已经成为一种潮流。",
-    },
-    "ContextTags": [
-        "color_red",
-        "color_pink",
-        "tea_item",
-    ],
+        "zh": "玫瑰茶。一种流行的季节性食物，已经成为一种狂热。",
+    }
 }

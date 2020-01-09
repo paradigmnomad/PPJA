@@ -53,7 +53,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "クラブロール",
+         // "ja": "",
         "pt": "Rolo de caranguejo",
          // "ru": "",
          // "tr": "",
@@ -62,12 +62,12 @@
     "DescriptionLocalization":
     {
         "es": "La imitación de cangrejo es para débiles.",
-        "ko": "게맛살은 빈곤한 자들을 위한 것이에요.",
+        "ko": "꽃게는 약자를 위한 것이다.",
         "de": "Nachgemachte Krabbe ist für die Schwachen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "カニが苦手ならかにかまで代用しよう。",
+         // "ja": "",
         "pt": "Caranguejo de imitação é para os fracos.",
          // "ru": "",
          // "tr": "",

@@ -7,16 +7,18 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Like": ["Demetrius", "Dwarf", "Elliott", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Penny", "Robin", "Sandy", "Shane"],
-        "Neutral": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+        "Love": ["Morris"],
+        "Like": ["Demetrius", "Dwarf", "Elliott", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Penny", "Robin", "Sandy", "Shane", "Marlon", "Susan"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Pierre", "Sam", "Sebastian", "Willy", "Wizard", "Andy",],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent", "Olivia", "Victor"],
+        "Hate": ["Sophia"],
     },
     "Recipe": null,
     "NameLocalization":
     {
         "es": "Melón musk",
         "ko": "머스크멜론",
-        "de": "Zuckermelone",
+        "de": "Warzenmelone",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -30,7 +32,7 @@
     {
         "es": "Sabe mejor con una pizca de sal.",
         "ko": "소금을 조금 뿌려 먹으면 맛이 더 달콤해집니다.",
-        "de": "Sie schmeckt besser mit einer Prise Salz.",
+        "de": "Es schmeckt besser mit einer Prise Salz.",
          // "fr": "",
          // "hu": "",
          // "it": "",

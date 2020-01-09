@@ -50,7 +50,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "バナナブレッド",
+         // "ja": "",
         "pt": "Pão de banana",
          // "ru": "",
          // "tr": "",
@@ -60,14 +60,14 @@
     {
         "es": "¡Es rico y húmedo!",
         "ko": "풍부하고 촉촉한 맛!",
-        "de": "Es ist reichhaltig und saftig!",
+        "de": "Es ist sehr Reichhaltig!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "リッチでしっとり！",
+         // "ja": "",
         "pt": "É rico em nutrientes e úmido!",
          // "ru": "",
          // "tr": "",
-        "zh": "香蕉面包。营养丰富，有着绵润口感的面包！",
+        "zh": "香蕉面包。营养丰富，有着湿润口感的面包！",
     }
 }

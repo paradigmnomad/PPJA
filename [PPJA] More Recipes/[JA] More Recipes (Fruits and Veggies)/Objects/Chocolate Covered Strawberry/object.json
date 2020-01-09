@@ -35,12 +35,12 @@
     "NameLocalization":
     {
         "es": "Fresa cubierta de chocolate",
-        "ko": "초콜릿을 입은 딸기",
+        "ko": "딸기 초콜렛",
         "de": "Schokoerdbeere",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "イチゴチョコ",
+         // "ja": "",
         "pt": "Morango coberto de chocolate",
          // "ru": "",
          // "tr": "",
@@ -49,12 +49,12 @@
     "DescriptionLocalization":
     {
         "es": "¡A un paso de la dicha!",
-        "ko": "행복에 가까워 지는 한 걸음!",
+        "ko": "행복에 도달하는 맛!",
         "de": "Erdbeere mit Schokoüberzug!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "「One step away from bliss!」",
+         // "ja": "",
         "pt": "A um passo da felicidade!",
          // "ru": "",
          // "tr": "",

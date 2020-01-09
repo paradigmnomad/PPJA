@@ -7,14 +7,16 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Like": ["Victor"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard", "Andy", "Marlon", "Morris", "Olivia", "Susan"],
+        "Dislike": ["Sophia"],
     },
     "Recipe": null,
     "NameLocalization":
     {
          // "es": "",
         "ko": "듀럼밀",
-        "de": "Hartweizen",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -28,7 +30,7 @@
     {
          // "es": "",
         "ko": "단단한 밀은 파스타와 쿠스쿠스를 만드는데 사용됩니다.",
-        "de": "Wird für Nudeln und Couscous genutzt.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

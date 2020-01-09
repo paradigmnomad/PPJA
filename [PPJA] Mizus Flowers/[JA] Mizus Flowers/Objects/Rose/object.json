@@ -8,7 +8,7 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Evelyn", "Jodi", "Penny", "Haley"],
+        "Love": ["Evelyn", "Jodi", "Penny", "Haley", "Olivia"],
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Harvey", "Jas", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
     "NameLocalization":
@@ -16,7 +16,7 @@
         "es": "Rosa",
         "ko": "장미",
         "de": "Rose",
-        "fr": "Rose",
+         // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "バラ",
@@ -30,7 +30,7 @@
         "es": "Una dulce flor, con un olor irresistible.",
         "ko": "장미는 이름이 장미가 아니더라도 향기롭기는 매한가지일 것입니다.",
         "de": "Frauen lieben sie, pass aber auf die Dornen auf.",
-        "fr": "Une rose sous un autre nom aurait une odeur aussi douce.",
+         // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "「バラと呼ばれている花を別の名前にしても、甘く美しい香りはそのままだわ。」",

@@ -8,16 +8,16 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Harvey"],
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent"],
-        "Hate": ["Lewis"]
+        "Love": ["Harvey", "Olivia", "Susan"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Andy", "Marlon", "Morris", "Victor"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Sophia"],
+        "Hate": ["Lewis"],
     },
     "NameLocalization":
     {
         // "es": "",
         "ko": "주키니",
-        "de": "Zucchini",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -31,7 +31,7 @@
     {
         // "es": "",
        "ko": "애호박의 사촌으로, 야채요리에 사용됩니다. 구우면 맛이 더 좋아집니다.",
-       "de": "Eine Verwandte des Kürbis, in Gemüsemahlzeiten genutzt. Hat viel Geschmack nach dem Rösten.",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",

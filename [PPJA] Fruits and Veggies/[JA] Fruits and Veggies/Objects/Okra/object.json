@@ -8,15 +8,17 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Krobus", "Robin", "Sebastian"],
-	"Like": ["Demetrius", "Maru", "Linus"],
-        "Hate": ["Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Harvey", "Leah", "Marnie", "Pam", "Penny", "Pierre", "Sandy", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Lewis"],
+        "Love": ["Krobus", "Robin", "Sebastian", "Olivia", "Susan"],
+	"Like": ["Demetrius", "Maru", "Linus", "Marlon", "Morris"],
+        "Neutral": ["Andy"],
+        "Dislike": ["Victor"],
+        "Hate": ["Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Harvey", "Leah", "Marnie", "Pam", "Penny", "Pierre", "Sandy", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Lewis", "Sophia"],
     },
     "NameLocalization":
     {
          // "es": "",
         "ko": "오크라",
-        "de": "Okra",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -30,7 +32,7 @@
     {
          // "es": "",
         "ko": "속은 축축하고 물렁물렁하지만, 튀지만 맛있습니다.",
-        "de": "Weich und breiig im Inneren, aber köstlich nach dem Braten.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",

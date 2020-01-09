@@ -52,12 +52,12 @@
     "NameLocalization":
     {
         "es": "Té de granada y arándano",
-        "ko": "크랜베리 석류 티",
-        "de": "Cranberry-Granatapfel-Tee",
+        "ko": "크랜베리 석류 차",
+        "de": "Cranberry Granatapfel Tee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "クランベリーザクロティー",
+         // "ja": "",
         "pt": "Chá de romã e amora",
          // "ru": "",
          // "tr": "",
@@ -66,19 +66,15 @@
     "DescriptionLocalization":
     {
         "es": "Rico en antioxidantes.",
-        "ko": "항산화제와 좋은 성분들이 풍부하게 들어있어요.",
+        "ko": "산화 방지제와 기타 좋은 것이 풍부합니다.",
         "de": "Reich an Antioxidantien und anderen guten Inhaltsstoffe.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "抗酸化作用のある栄養素が豊富。",
+         // "ja": "",
         "pt": "Rico em antioxidantes e outras guloseimas.",
          // "ru": "",
          // "tr": "",
         "zh": "蔓越莓石榴茶。富含抗氧化剂和其他物质。",
-    },
-    "ContextTags": [
-        "color_white",
-        "tea_item",
-    ],
+    }
 }

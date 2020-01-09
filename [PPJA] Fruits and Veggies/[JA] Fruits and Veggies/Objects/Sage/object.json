@@ -9,8 +9,10 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Neutral": ["Jas", "Vincent"],
+        "Love": ["Wizard", "Marlon"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Sophia", "Victor"],
+        "Neutral": ["Jas", "Vincent", "Andy", "Olivia", "Susan"],
+        "Hate": ["Morris"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -31,7 +33,7 @@
     {
         "es": "Quemado ceremonialmente para limpiar el espíritu y recibir pensamientos positivos.",
         "ko": "정신을 맑게 하고, 긍정적인 생각을 나게 하기 위해 의례적으로 태웁니다.",
-        "de": "Wird zeremoniell verbrannt, um den Geist zu reinigen und für angenehme Gedanken zu sorgen.",
+        "de": "Reinigt und erfrischt den Geist und Körper.",
          // "fr": "",
          // "hu": "",
          // "it": "",

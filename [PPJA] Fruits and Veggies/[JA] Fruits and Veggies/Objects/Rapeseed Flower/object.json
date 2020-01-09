@@ -7,8 +7,9 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Sebastian"],
+        "Love": ["Morris"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard", "Andy", "Marlon", "Susan", "Victor"],
+        "Hate": ["Sebastian", "Sophia"],
     },
     "Recipe": null,
     "CanPurchase": true,
@@ -19,7 +20,7 @@
     {
         // "es": "",
         "ko": "유채꽃",
-        "de": "Rapsblüte",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -33,7 +34,7 @@
     {
         // "es": "",
         "ko": "유채의 꽃 부분.",
-        "de": "Die Blüte einer Rapspflanze.",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",

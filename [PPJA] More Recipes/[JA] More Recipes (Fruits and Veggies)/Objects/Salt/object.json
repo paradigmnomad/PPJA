@@ -24,7 +24,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "塩",
+         // "ja": "",
         "pt": "Sal",
          // "ru": "",
          // "tr": "",
@@ -33,12 +33,12 @@
     "DescriptionLocalization":
     {
         "es": "Siempre agregue una pizca de sal.",
-        "ko": "항상 약간의 소금을 넣으세요.",
+        "ko": "언제나 소금은 조금씩 사용하세요.",
         "de": "Immer eine Prise Salz hinzufügen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "塩を少々",
+         // "ja": "",
         "pt": "Sempre adicione uma pitada de sal.",
          // "ru": "",
          // "tr": "",

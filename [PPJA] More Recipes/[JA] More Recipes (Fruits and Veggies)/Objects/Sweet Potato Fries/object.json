@@ -31,11 +31,11 @@
     {
         "es": "Camote frito",
         "ko": "고구마 튀김",
-        "de": "Süßkartoffelpommes",
+        "de": "Yamfritten",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "揚げサツマイモ",
+         // "ja": "",
         "pt": "Batata doce frita",
          // "ru": "",
          // "tr": "",
@@ -44,15 +44,15 @@
     "DescriptionLocalization":
     {
         "es": "Como papas fritas normales, solo que dulces.",
-        "ko": "감자튀김 같지만, 달달해요.",
-        "de": "Wie normale Pommes, nur süß.",
+        "ko": "감자튀김 같지만, 달달하다.",
+        "de": "Wie normale Fritten, nur süß.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "見た目フライドポテトだが、ひたすら甘い。",
+         // "ja": "",
         "pt": "Como batatas fritas regulares, apenas doces.",
          // "ru": "",
          // "tr": "",
-        "zh": "红薯条。像一般的薯条，但只有甜味。",
+        "zh": "红薯条。像一般的薯条，但只有甜。",
     }
 }

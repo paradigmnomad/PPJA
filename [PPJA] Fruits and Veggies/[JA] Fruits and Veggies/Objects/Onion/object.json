@@ -8,8 +8,9 @@
     "GiftTastes":
     {
         "Love": ["Krobus"],
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Jodi", "Sam", "Vincent"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Andy", "Marlon", "Susan"],
+        "Neutral": ["Morris"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Jodi", "Sam", "Vincent", "Olivia", "Sophia", "Victor"],
         "Hate": ["Evelyn", "Pierre"],
     },
     "Recipe": null,

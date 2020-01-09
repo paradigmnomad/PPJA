@@ -46,7 +46,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "キュウリのサンドイッチ",
+         // "ja": "",
         "pt": "Sanduíche de pepino",
          // "ru": "",
          // "tr": "",
@@ -55,12 +55,12 @@
     "DescriptionLocalization":
     {
         "es": "Un sándwich sencillo y refrescante.",
-        "ko": "평범하고, 신선한 샌드위치.",
+        "ko": "평범하고, 산뜻한 차 샌드위치.",
         "de": "Ein einfaches, erfrischendes Teesandwich.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "簡素だが爽やかみのあるサンドイッチ。",
+         // "ja": "",
         "pt": "Um simples e saboroso sanduíche.",
          // "ru": "",
          // "tr": "",

@@ -7,7 +7,9 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard", "Andy", "Marlon", "Morris", "Susan", "Victor"],
+        "Dislike": ["Sophia"],
+        "Hate": ["Olivia"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -28,7 +30,7 @@
     {
         "es": "Un grano oscuro que cuando se procesa tiene un sabor más terroso que el trigo.",
         "ko": "가공하면 밀보다 흙맛이 나는 짙은 곡식.",
-        "de": "Ein dunkles Korn, das nach der Verarbeitung einen erdigeren Geschmack als Weizen hat.",
+        "de": "Ein dunkles Korn, das bei der Verarbeitung einen erdigeren Geschmack als Weizen hat.",
          // "fr": "",
          // "hu": "",
          // "it": "",

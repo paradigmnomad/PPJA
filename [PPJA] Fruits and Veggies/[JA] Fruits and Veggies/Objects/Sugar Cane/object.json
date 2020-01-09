@@ -7,8 +7,9 @@
     "IsColored": false,
     "GiftTastes":
     {
-        "Nautral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Jas", "Vincent"],
+        "Like": ["Morris", "Susan"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Andy", "Marlon", "Olivia", "Victor"],
+        "Dislike": ["Jas", "Vincent", "Sophia"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -29,7 +30,7 @@
     {
         "es": "Sus estacas pueden ser procesados en azúcar.",
         "ko": "사탕수수 줄기는 설탕으로 가공 할 수 있습니다.",
-        "de": "Es kann zu Zucker verarbeitet werden.",
+        "de": "Es kann in Zucker verarbeitet werden.",
          // "fr": "",
          // "hu": "",
          // "it": "",

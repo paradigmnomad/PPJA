@@ -7,17 +7,18 @@
     "IsColored": false,
     "Recipe": null,
     "GiftTastes":
-    {
-        "Like": ["Clint", "Demetrius", "Harvey", "Jodi", "Leah", "Linus", "Maru", "Robin"],
-        "Neutral": ["Alex", "Caroline", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Kent", "Lewis", "Marnie", "Pam", "Pierre", "Penny", "Sandy", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "George", "Krobus", "Sam", "Sebastian"],
+    { 
+        "Love": ["Olivia"],
+        "Like": ["Clint", "Demetrius", "Harvey", "Jodi", "Leah", "Linus", "Maru", "Robin", "Andy", "Susan"],
+        "Neutral": ["Alex", "Caroline", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Kent", "Lewis", "Marnie", "Pam", "Pierre", "Penny", "Sandy", "Shane", "Willy", "Wizard", "Morris", "Marlon"],
+        "Dislike": ["Abigail", "George", "Krobus", "Sam", "Sebastian", "Sophia", "Victor"],
         "Hate": ["Jas", "Vincent"]
     },
     "NameLocalization":
     {
          // "es": "",
         "ko": "땅콩호박",
-        "de": "Butternusskürbis",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -31,7 +32,7 @@
     {
          // "es": "",
         "ko": "달콤한 맛이 나며, 고소한 맛은 호박과 비슷합니다.",
-        "de": "Er hat einen süßen, nussigen Geschmack ähnlich einem Kürbis.",
+         // "de": "",
          // "fr": "",
          // "hu": "",
          // "it": "",
