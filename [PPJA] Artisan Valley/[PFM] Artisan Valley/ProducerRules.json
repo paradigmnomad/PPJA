@@ -286,9 +286,9 @@
 
     {
         "ProducerName": "Keg",
-        "InputIdentifier": "613",
+        "InputIdentifier": "Wine Yeast",
         "InputStack": 1,
-        "FuelIdentifier": "Wine Yeast",
+        "FuelIdentifier": "613",
         "FuelStack": 1,
         "MinutesUntilReady": 2360,
         "OutputIdentifier": "Apple Cider",
@@ -526,7 +526,7 @@
     },
     {
         "ProducerName": "Keg",
-        "InputIdentifier": "398",
+        "InputIdentifier": "348",
         "InputStack": 1,
         "FuelIdentifier": "Wine Yeast",
         "FuelStack": 1,
@@ -2320,7 +2320,8 @@
         "FuelStack": 1,
         "MinutesUntilReady": 360,
         "OutputIdentifier": "Candle",
-        "OutputName": null,
+        "OutputName": "{inputName} Candle",
+        "OutputTranslationKey": "WaxBarrel.Candle",
         "PreserveType": null,
         "InputPriceBased": true,
         "OutputPriceIncrement": 0,
