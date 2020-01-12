@@ -116,6 +116,7 @@
         "Id": "ppja.vanillasapling", 
         "GroupID": "MoreTrees.sapling",
         "Text": "vanilla.text", 
+        "WhichBG": 3,
         "Attachments": [{"Type": "Object", "Name":"Vanilla Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "10 winter Y1", 
