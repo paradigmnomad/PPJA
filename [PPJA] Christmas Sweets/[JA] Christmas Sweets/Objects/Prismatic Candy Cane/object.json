@@ -12,7 +12,7 @@
         "ResultCount": 1,
         "Ingredients": [        
         {
-            "Object": Peppermints,
+            "Object": "Peppermints",
             "Count": 1,
         },
 {
