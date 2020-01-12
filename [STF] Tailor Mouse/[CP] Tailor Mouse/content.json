@@ -1,0 +1,65 @@
+{
+    "Format": "1.11",
+    "Changes": [
+    {
+        "Action": "EditMap",
+        "Target": "Maps/Forest",
+        "FromFile": "assets/Flower Valley/flowervalley_clothingstand.tbin",
+        "ToArea":
+        {
+            "X": 46,
+            "Y": 66,
+            "Width": 4,
+            "Height": 5
+        },
+        "FromArea":
+        {
+            "X": 46,
+            "Y": 66,
+            "Width": 4,
+            "Height": 5
+        },
+        "When":
+        {
+            // "HasReadLetter:tailormouseletter": true,
+            "HasMod:kaya.floralvalley": true
+        },
+    },
+    {
+        "Action": "EditMap",
+        "Target": "Maps/Forest",
+        "FromFile": "assets/Vanilla/clothingstand.tbin",
+        "ToArea":
+        {
+            "X": 46,
+            "Y": 66,
+            "Width": 4,
+            "Height": 5
+        },
+         "FromArea":
+        {
+            "X": 46,
+            "Y": 66,
+            "Width": 4,
+            "Height": 5
+        },
+        "When":
+        {
+            // "HasReadLetter:tailormouseletter": true,
+            "HasMod:kaya.floralvalley": false
+        },
+    },
+    /*{
+        "Action": "EditData",
+        "Target": "Data/Mail",
+        "Entries":
+        {
+            "tailormouseletter": "Hi.^^Me sell clothes. Okay, poke?^^Come to arrow shape island, poke. Near old old old haus, poke. Bring many coines. New cloth every day.^^-tailor mouse",
+        },
+        "When":
+        {
+            "HasReadLetter:hatter": true,
+        },
+    },*/ 
+    ]
+}

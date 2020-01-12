@@ -1,0 +1,25 @@
+{
+    "Shops": [
+    {
+        "ShopName": "ClothingStand",
+        "PortraitPath": "assets/Portrait.png",
+        "Quote": "Hiya, poke! Me sell clothes, lots and lots. oke poke!",
+        "ShopPrice": 1000,
+        "MaxNumItemsSoldInStore": 30,
+        "ItemStocks": [
+        {
+            "ItemType": "Clothing",
+            "JAPacks": [
+                "missy.shirtsja",
+                "bb.shirtsmodja",
+                "coii.shirtsandgirlssetcollectionja",
+                "Sydney.SydsPlaidsJA",
+                "tacodevourer.cuteshirtsja",
+                "alicedafox.newshirtsja",
+                "ran.suitstuxedosja",
+                "ran.weddingflowerdanceattireja",
+            ],
+            "MaxNumItemsSoldInItemStock": 20,
+        }, ]
+    }, ]
+}
