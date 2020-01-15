@@ -1,0 +1,73 @@
+{
+    "Name": "White Tea",
+    "Description": "A weaker brew with a faint yellow color.",
+    "Category": "Cooking",
+    "Edibility": 6,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 1,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 300,
+    },
+    "Price": 195,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 1,
+        }, ],
+        "GiftTastes":
+        {
+            "Love": ["Abigail", "Caroline", "Demetrius", "Evelyn", "Leah", "Wizard"],
+            "Like": ["Penny", "Sebastian", "Elliott", "Haley", "Harvey", "Jodi", "Sandy"],
+            "Neutral": ["Gus", "Marnie", "Emily", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam"],
+            "Dislike": ["Clint", "George", "Alex", "Kent", "Krobus"],
+            "Hate": ["Vincent", "Jas", "Pam", "Shane", "Dwarf", "Willy"],
+        },
+        "IsDefault": true,
+    },
+    "NameLocalization":
+    {
+        "es": "Té blanco",
+        "ko": "백차",
+        "de": "Weißer Tee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "白茶",
+        "pt": "Chá branco",
+         // "ru": "",
+         // "tr": "",
+        "zh": "白茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un brebaje suave con un débil color amarillo.",
+        "ko": "약하게 우려낸 은은한 노란 빛.",
+        "de": "Leicht gebrüht aus jungen Teeblättern, hat einen frischen Geschmack.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ひかえ目に発酵させた淡い黄色みがかったお茶。",
+        "pt": "Uma bebida mais fraca com uma leve cor amarela.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "白茶。一种淡黄色的酿造品。",
+    },
+    "ContextTags": [
+        "color_white",
+        "tea_item",
+    ],
+}

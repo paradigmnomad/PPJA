@@ -1,0 +1,71 @@
+{
+    "Name": "Cooked Rabbit",
+    "Description": "A gamey cut from a rabbit, fully cooked and ready to be used in a recipe.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 150,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Rabbit",
+            "Count": 1,
+        },
+        {
+            "Object": "Thyme",
+            "Count": 1,
+        },
+        {
+            "Object": 248,
+            "Count": 1,
+        },
+        {
+            "Object": 247,
+            "Count": 1,
+        },
+        {
+            "Object": "Onion",
+            "Count": 1,
+        }],
+        "IsDefault": true,
+    },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 105,
+    "PurchaseRequirements": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "구운 토끼고기",
+        // "de": "",
+        "fr": "Lapin Cuit",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "熟兔肉",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "냄새나는 구운 토끼 조각. 완전히 구워져서 조리될 준비가 되었습니다.",
+        // "de": "",
+        "fr": "Une coupe de lapin, entièrement cuite et prête à l'emploi dans une recette.",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "从兔子身上切下的肉，煮熟后可用于烹饪。",
+    }
+}

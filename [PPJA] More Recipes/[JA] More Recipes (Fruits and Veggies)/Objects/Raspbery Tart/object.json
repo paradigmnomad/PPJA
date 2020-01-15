@@ -1,0 +1,69 @@
+{
+    "Name": "Raspberry Tart",
+    "Description": "A raspberry filled tart.",
+    "Category": "Cooking",
+    "Edibility": 36,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 280,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Raspberry",
+            "Count": 1,
+        },
+        {
+            "Object": 176,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1280,
+        "PurchaseRequirements": [
+            "f Robin 750",
+            "y 2",
+        ],
+
+    },
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Tarta de frambuesa",
+        "ko": "라즈베리 타르트",
+        "de": "Himbeertörtchen",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ラズベリータルト",
+        "pt": "Torta de framboesa8",
+         // "ru": "",
+         // "tr": "",
+        "zh": "树莓馅饼",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una tarta rellena de frambuesa.",
+        "ko": "라즈베리로 채워진 타르트.",
+        "de": "Ein Törtchen gefüllt mit frischen Himbeeren.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ラズベリー入りのタルト。",
+        "pt": "Uma torta cheia de framboesa.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "树莓馅饼。一种被树莓填满的馅饼。",
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "Name": "Avocado Eel Roll",
+    "Description": "Eel wrapped in seaweed and rice, topped with avocado.",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 555,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Avocado",
+            "Count": 1,
+        },
+        {
+            "Object": 148,
+            "Count": 1,
+        },
+        {
+            "Object": 423,
+            "Count": 1,
+        },
+        {
+            "Object": 152,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2555,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Haley", "Maru", "Sebastian"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Emily", "Krobus", "Willy"],
+        "Hate": ["Evelyn"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Rollo de anguila con aguacate",
+        "ko": "아보카도 장어 ",
+        "de": "Avocado-Aal-Maki",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "アボカドウナギロール",
+        "pt": "Rolo de enguia com abacate",
+         // "ru": "",
+         // "tr": "",
+        "zh": "鳄梨鳗鱼卷",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Anguila envuelta en algas y arroz, cubierta con aguacate.",
+        "ko": "김과 밥에 싸인 장어, 아보카도를 올렸습니다.",
+        "de": "Aal, eingewickelt in Meeresalgen und Reis, mit Avocado.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "海苔と米でウナギを巻き、アボカドをトッピング。",
+        "pt": "Enguia enrrolada em algas e arroz, coberto com abacate.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "鳄梨鳗鱼卷。用海带和米饭包裹的鳗鱼，上面放着鳄梨。",
+    }
+}

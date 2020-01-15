@@ -1,0 +1,47 @@
+{
+    "Name": "Marshmallow Fluff",
+    "Description": "It's light and fluffy!",
+    "Category": "ArtisanGoods",
+    "Edibility": 5,
+    "Price": 30,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 50,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Crema de malvavisco",
+        "ko": "마시멜로 플러프",
+        "de": "Marshmallowcreme",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "マシュマロ",
+        "pt": "Cotão de marshmallow",
+         // "ru": "",
+         // "tr": "",
+        "zh": "棉花糖",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Es ligero y esponjoso!",
+        "ko": "가볍고 푹신해요!",
+        "de": "Ein fluffiger Brotaufstrich!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "軽くてふわふわ！",
+        "pt": "É leve e fofo!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "一罐棉花糖，轻若无骨！",
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "Name": "Rice Pilaf",
+    "Description": "Spicy and southern!",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 450,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Onion",
+            "Count": 1,
+        },
+        {
+            "Object": 260,
+            "Count": 1,
+        },
+        {
+            "Object": "Parsley",
+            "Count": 1,
+        },
+        {
+            "Object": 423,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["George", "Lewis", "Gus"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Elliott", "Pierre"],
+        "Dislike": ["Abigail", "Haley", "Sam", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Arroz Pilaf",
+        "ko": "라이스 필라프",
+        "de": "Pilaw",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ピラフ",
+        "pt": "Arroz pilaf",
+         // "ru": "",
+         // "tr": "",
+        "zh": "卤肉饭",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Picante y sureño!",
+        "ko": "남부의 매운맛!",
+        "de": "Würzig und orientalisch!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "スパイシーで南国風。",
+        "pt": "Picante e do sul!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "卤肉饭。南部的辣味菜！",
+    }
+}

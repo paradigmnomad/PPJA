@@ -1,0 +1,75 @@
+{
+    "Name": "Dandelion Tea",
+    "Description": "Who knew a weed could taste so good?",
+    "Category": "Cooking",
+    "Edibility": 27,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 2,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 300,
+    },
+    "Price": 245,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 22,
+            "Count": 2,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Linus"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Jas", "Vincent"],
+        "Dislike": ["George", "Jodi"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de diente de león",
+        "ko": "민들레 티",
+        "de": "Löwenzahntee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "タンポポ茶",
+        "pt": "Chá de dente de leão",
+         // "ru": "",
+         // "tr": "",
+        "zh": "蒲公英茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¿Quién diría que una hierba podría saber tan bien?",
+        "ko": "들꽃이 이렇게 맛이 좋단 걸 누가 알았을까요?",
+        "de": "Wer wusste, dass Unkraut so gut schmecken könnte?",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "雑草がこんなにおいしくなるなんて知ってた？",
+        "pt": "Quem sabia que uma erva poderia ter um sabor tão bom?",
+         // "ru": "",
+         // "tr": "",
+        "zh": "蒲公英茶。谁知道这种野草的味道这么好？",
+    },
+    "ContextTags": [
+        "color_yellow",
+        "color_white",
+        "color_pink",
+        "tea_item",
+    ],
+}

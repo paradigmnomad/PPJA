@@ -1,0 +1,66 @@
+{
+    "Name": "Earl Grey Tea",
+    "Description": "Tea. Earl Grey. Hot.",
+    "Category": "Cooking",
+    "Edibility": 20,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 380,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 4,
+        },
+        {
+            "Object": "Lemon",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1380,
+        "PurchaseRequirements": null,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Gus"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Jas", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té earl grey",
+        "ko": "얼 그레이 티",
+        "de": "Earl Grey-Tee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "アールグレイティー",
+        "pt": "Chá Earl Grey",
+         // "ru": "",
+         // "tr": "",
+        "zh": "格雷伯爵红茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una bebida caliente con limón.",
+        "ko": "뜨거운 얼 그레이.",
+        "de": "Tee. Earl Grey. Heiß.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "お茶。アールグレイ。熱々。",
+        "pt": "Chá. Earl Grey. Quente.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "格雷伯爵红茶，烫。",
+    },
+    "ContextTags": [
+        "color_yellow",
+        "tea_item",
+    ],
+}

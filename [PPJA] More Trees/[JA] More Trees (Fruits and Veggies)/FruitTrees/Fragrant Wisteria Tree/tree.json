@@ -1,0 +1,39 @@
+{
+    "Name": "Fragrant Wisteria Tree",
+    "Product": "Fragrant Wisteria",
+    "SaplingName": "Fragrant Wisteria Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Wisteria tree. Blossoms in the spring. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "spring",
+
+    "SaplingPurchasePrice": 2500,
+    "SaplingPurchaseRequirements": null,
+    "SaplingNameLocalization":
+    {
+        "es": "Brote de glicina fragante",
+        "ko": "향기로운 등나무 묘목",
+        "de": "Blauregenbaum-Setzling",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "藤の苗",
+        "pt": "Mudas de glicínias perfumadas",
+         // "ru": "",
+         // "tr": "",
+        "zh": "芳香紫藤树苗",
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "es": "Toma 28 días para producir un árbol de glicina fragante maduro. Da fruto en primavera. Solo crece si las 8 casillas que las rodean están vacías.",
+        "ko": "28일후에 성목이 됩니다. 봄에 꽃이 핍니다. 주변 8칸이 비어있어야 자랍니다.",
+        "de": "Wächst in 28 Tagen zu einem reifen Blauregenbaum heran. Trägt im Frühling Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "28日かけて成木にそだち、春になると花を咲かせる。となりあった周囲の「8マス」が空いてないとそだたない。",
+        "pt": "Demora até 28 dias para produzir uma árvore de glicínia perfumada madura. Dá flores na primavera. Só cresce se os 8 espaços adjacentes estiverem vazios.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "28天成熟为成年芳香紫藤树。春天开花。只有在附近8块地块都空置的情况下才会成长。",
+    }
+}

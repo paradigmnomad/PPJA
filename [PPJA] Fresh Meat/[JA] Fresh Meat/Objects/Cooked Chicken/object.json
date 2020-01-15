@@ -1,0 +1,63 @@
+{
+    "Name": "Cooked Chicken",
+    "Description": "A whole rotisserie chicken, ready to be used in recipes.",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "Price": 160,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Chicken",
+            "Count": 1,
+        },
+        {
+            "Object": 306,
+            "Count": 1,
+        },
+        {
+            "Object": 248,
+            "Count": 1,
+        }, ],
+        "IsDefault": true,
+    },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 160,
+    "PurchaseRequirements": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "구운 닭고기",
+        // "de": "",
+        "fr": "Poulet Cuit",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "熟鸡肉",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "통째로 구운 닭고기. 조리될 준비가 되었습니다.",
+        // "de": "",
+        "fr": "Un poulet entier de rôtisserie, prêt à être utilisé dans les recettes.",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "一整只熟鸡，可以用于烹饪。",
+    }
+}

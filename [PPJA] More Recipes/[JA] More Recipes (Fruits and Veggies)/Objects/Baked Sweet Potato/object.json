@@ -1,0 +1,55 @@
+{
+    "Name": "Baked Sweet Potato",
+    "Description": "A simple baked sweet potato. Tasty on a cold day!",
+    "Category": "Cooking",
+    "Edibility": 20,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 270,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Sweet Potato",
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Linus"],
+        "Like": ["Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Clint", "Haley", "Jas", "Sam", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Camote al horno",
+        "ko": "군고구마",
+        "de": "Gebackene Süßkartoffel",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "焼き芋",
+        "pt": "Batata Doce Assada",
+         // "ru": "",
+         // "tr": "",
+        "zh": "烤红薯",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un simple camote. ¡Sabroso en un día frío!",
+        "ko": "간단하게 구운 고구마. 추운 날 먹으면 제격이죠!",
+        "de": "Eine einfache gebackene Süßkartoffel. Lecker an kalten Tagen!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "シンプルな焼き芋。寒い日にはこれ！",
+        "pt": "Uma simples batata-doce assada. Bem saborosa em um dia frio!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "烤红薯。一个简单的烤红薯，最适合在一个寒冷的日子里吃！",
+    }
+}

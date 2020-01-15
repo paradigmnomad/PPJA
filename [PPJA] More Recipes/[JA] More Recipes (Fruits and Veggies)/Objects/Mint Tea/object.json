@@ -1,0 +1,65 @@
+{
+    "Name": "Mint Tea",
+    "Description": "The perfect tea for winter.",
+    "Category": "Cooking",
+    "Edibility": 16,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 260,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Mint",
+            "Count": 2,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1260,
+        "PurchaseRequirements": [
+            "z spring summer fall",
+        ],
+    },
+    "GiftTastes":
+    {
+        "Love": ["Harvey"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Dwarf", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de menta",
+        "ko": "민트 티",
+        "de": "Pfefferminztee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ミントティー",
+        "pt": "Chá de hortelã",
+         // "ru": "",
+         // "tr": "",
+        "zh": "薄荷茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "El té perfecto para el invierno.",
+        "ko": "겨울에 마시기 좋은 완벽한 차.",
+        "de": "Der perfekte Tee im Winter.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "寒い冬にぴったりのお茶。",
+        "pt": "O chá perfeito para o inverno.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "薄荷茶。这是冬天最完美的茶。",
+    },
+    "ContextTags": [
+        "color_white",
+        "color_red",
+        "tea_item",
+    ],
+}

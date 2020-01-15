@@ -1,0 +1,64 @@
+{
+  "Name": "Grilled Skewer",
+  "Description": "A skewer of grilled vegetables and meat.",
+  "Category": "Cooking",
+  "Edibility": 73,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 150,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
+	"Dislike": ["Abigail", "Emily", "Haley", "Jas", "Leah", "Marnie", "Sam", "Vincent" ],
+	"Hate": ["Sebastian"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Cooked Beef",
+        "Count": 1,
+      },
+      {
+        "Object": "Bell Pepper",
+        "Count": 1,
+      },
+  {
+        "Object": "Onion",
+        "Count": 1,
+      },
+  {
+        "Object": 404,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": false,
+  },
+
+ "NameLocalization": { 
+    "es": "Brocheta a la parrilla",
+    "ko": "꼬치 구이",
+    "de": "Gegrillter Spieß",
+    "fr": "Brochette Grillée",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+     // "ru": "",
+     // "tr": "",
+    "zh": "串烧",
+  },
+ "DescriptionLocalization": { 
+    "es": "Un pincho de verduras y carnes a la parilla.",
+    "ko": "구운 채소와 고기 꼬챙이.",
+    "de": "Ein Spieß mit gegrilltem Gemüse und Fleisch.",
+    "fr": "Une brochette de légumes grillés et de viande.",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+     // "ru": "",
+     // "tr": "",
+    "zh": "串烧。由蔬菜和肉组成的串烧。",
+  }
+}

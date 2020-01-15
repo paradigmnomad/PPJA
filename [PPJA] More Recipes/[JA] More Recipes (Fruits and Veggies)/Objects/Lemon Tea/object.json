@@ -1,0 +1,83 @@
+{
+    "Name": "Lemon Tea",
+    "Description": "Sweetened tea with Lemon.",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 1,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 300,
+    },
+    "Price": 375,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 2,
+        },
+        {
+            "Object": "Lemon",
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1375,
+        "PurchaseRequirements": null,
+
+    },
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de limón",
+        "ko": "레몬 티",
+        "de": "Zitronentee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "レモンティー",
+        "pt": "Chá de Limão siciliano",
+         // "ru": "",
+         // "tr": "",
+        "zh": "柠檬茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Té endulzado con limón.",
+        "ko": "레몬을 넣어 달콤하게 만든 차.",
+        "de": "Gesüßter Tee mit Zitrone.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "レモンを添えた甘いお茶。",
+        "pt": "Chá adoçado com Limão siciliano.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "柠檬茶。柠檬茶加糖。",
+    },
+    "ContextTags": [
+        "color_yellow",
+        "tea_item",
+    ],
+}

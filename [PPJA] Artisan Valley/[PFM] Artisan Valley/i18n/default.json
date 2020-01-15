@@ -8,6 +8,7 @@
     "Grinder.Vegetable": "Ground {inputName}",
     "Infuser.Schnapps": "{inputName} Schnapps",
     "YogurtJar.Fruit": "{inputName} Yogurt",
+    "WaxBarrel.Candle": "{inputName} Candle",
     "Alembic.EssentialOil": "{inputName} Essential Oil",
     "Juice.Fruit": "{inputName} Juice",
     "SoapPress.Soap": "Handmade {inputName} Soap",

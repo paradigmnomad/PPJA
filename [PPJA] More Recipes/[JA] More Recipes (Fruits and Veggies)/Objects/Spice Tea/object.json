@@ -1,0 +1,78 @@
+{
+    "Name": "Spice Tea",
+    "Description": "A warming blend of cinnamon and lemon.",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 565,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 1,
+        },
+        {
+            "Object": "Cinnamon Sticks",
+            "Count": 1,
+        },
+        {
+            "Object": "Lemon",
+            "Count": 1,
+        },
+        {
+            "Object": 635,
+            "Count": 1,
+        },
+        {
+            "Object": 396,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1565,
+        "PurchaseRequirements": null,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Linus"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de especias",
+        "ko": "스파이스 티",
+        "de": "Gewürztee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "スパイスティー",
+        "pt": "Chá de especiarias",
+         // "ru": "",
+         // "tr": "",
+        "zh": "香料茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una mezcla caliente de canela y limón.",
+        "ko": "시나몬과 레몬의 따스한 만남.",
+        "de": "Eine wärmende Mischung aus Zimt und Zitrone.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "シナモンとレモンのブレンドティー。。",
+        "pt": "Uma mistura quente de canela e Limão siciliano.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "香料茶。肉桂和柠檬的混合。",
+    },
+    "ContextTags": [
+        "color_red",
+        "color_pink",
+        "tea_item",
+    ],
+}

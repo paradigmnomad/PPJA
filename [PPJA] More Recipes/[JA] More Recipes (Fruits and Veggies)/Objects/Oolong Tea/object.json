@@ -1,0 +1,62 @@
+{
+    "Name": "Oolong Tea",
+    "Description": "A dark tea popular in foreign lands.",
+    "Category": "Cooking",
+    "Edibility": 6,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 375,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 4,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1375,
+        "PurchaseRequirements": null,
+    },
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Haley", "Jas", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de oolong",
+        "ko": "우롱차",
+        "de": "Oolong-Tee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ウーロン茶",
+        "pt": "Chá Oolong",
+         // "ru": "",
+         // "tr": "",
+        "zh": "乌龙茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un té oscuro popular en el extranjero.",
+        "ko": "동양의 인기 차.",
+        "de": "Ein dunkler Tee, der in fremden Ländern populär ist.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "外国で一般的な濃い色をしたお茶。",
+        "pt": "Um chá escuro popular em terras estrangeiras.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "乌龙茶。一种在异国他乡流行的红茶。",
+    },
+    "ContextTags": [
+        "color_yellow",
+        "color_green",
+        "tea_item",
+    ],
+}

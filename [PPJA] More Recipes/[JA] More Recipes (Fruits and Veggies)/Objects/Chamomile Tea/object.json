@@ -1,0 +1,64 @@
+{
+    "Name": "Chamomile Tea",
+    "Description": "An herbal tea brewed from chamomile.",
+    "Category": "Cooking",
+    "Edibility": 41,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 275,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Chamomile",
+            "Count": 2,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1275,
+        "PurchaseRequirements": null,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Emily", "Evelyn"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Wizard"],
+        "Neutral": ["Jas", "Vincent"],
+        "Dislike": ["Pam", "Shane", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de manzanilla",
+        "ko": "캐모마일 티",
+        "de": "Kamillentee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "カモミールティー",
+        "pt": "Chá de camomila",
+         // "ru": "",
+         // "tr": "",
+        "zh": "甘菊茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un té de hierbas preparado a partir de manzanilla.",
+        "ko": "캐모마일에서 추출한 허브 티.",
+        "de": "Ein Kräutertee, der aus Kamille gebrüht wird.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "カモミールから抽出したハーブティー。",
+        "pt": "Um chá de ervas fabricado a partir de camomila.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "甘菊茶。一种由甘菊酿造的草药茶。",
+    },
+    "ContextTags": [
+        "color_white",
+        "color_purple",
+        "tea_item",
+    ],
+}

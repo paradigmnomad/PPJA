@@ -1,0 +1,43 @@
+{
+    "Name": "Pork",
+    "Description": "A fatty cut of pork.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 80,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Puerco",
+        "ko": "돼지고기",
+        "de": "Schweinefleisch",
+        "fr": "Porc",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "猪肉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un corte grasiento de cerdo.",
+        "ko": "돼지에게서 얻는 고기.",
+        "de": "Ein fettes Stück vom Schwein.",
+        "fr": "Un morceau de porc gras.",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "一份猪肉。",
+    },
+    "DisableWithMod": "DIGUS.ANIMALHUSBANDRYMOD"
+}

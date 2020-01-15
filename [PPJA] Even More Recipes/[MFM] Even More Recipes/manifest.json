@@ -1,10 +1,10 @@
 ﻿{
 	"Name": "[MFM] Even More Recipes",
 	"Author": "Project Populate Json Assets",
-	"Version": "1.0.0",
+	"Version": "1.0.1",
 	"Description": "Allows recipes to be mailed to the player.",
 	"UniqueID": "ppja.EvenMoreRecipesforMFM",
-	"MinimumApiVersion": "2.11.3",
+	"MinimumApiVersion": "3.0.1",
 	"UpdateKeys": [],
 	"Dependencies": [
 		{

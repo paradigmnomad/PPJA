@@ -1,0 +1,63 @@
+{
+    "Name": "PB&J Sandwich",
+    "Description": "The classic sandwich treat.",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 530,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Peanut Butter",
+            "Count": 1,
+        },
+        {
+            "Object": 216,
+            "Count": 1,
+        },
+        {
+            "Object": 344,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Jas", "Vincent"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Wizard"],
+        "Dislike": ["George", "Krobus", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Sándwich de mantequilla de maní y jalea",
+        "ko": "땅콩버터 젤리 샌드위치",
+        "de": "Erdnussbutter-Gelee-Sandwich",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "PB&Jサンドイッチ",
+        "pt": "Sanduíche de manteiga de amendoim e geleia",
+         // "ru": "",
+         // "tr": "",
+        "zh": "花生酱果酱三明治",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un bocadillo clásico.",
+        "ko": "클래식한 샌드위치.",
+        "de": "Der Klassiker unter den Sandwiches.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "古典的なサイドイッチ。",
+        "pt": "O sanduíche clássico.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "花生酱果酱三明治。经典的三明治。",
+    }
+}

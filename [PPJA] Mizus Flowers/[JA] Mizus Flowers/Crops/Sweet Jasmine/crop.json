@@ -1,0 +1,55 @@
+{
+    "Name": "Sweet Jasmine",
+    "Product": "Sweet Jasmine",
+    "SeedName": "Sweet Jasmine Seeds",
+    "SeedDescription": "Plant in the fall. Takes 7 days to produce bright flowers.",
+    "Type": "Flower",
+
+    "Seasons": ["fall"],
+    "Phases": [1, 2, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": [
+        "255, 253, 241, 255",
+        "255, 253, 150, 255",
+        "255, 253, 196, 255"
+    ],
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 40,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de jazmín dulce",
+        "ko": "스위트 자스민 씨앗",
+        "de": "Jasmin-Saat",
+        "fr": "Graines de Jasmin Doux",
+         // "hu": "",
+         // "it": "",
+        "ja": "ジャスミンの種",
+        "pt": "Sementes de jasmim doce",
+         // "ru": "",
+         // "tr": "",
+        "zh": "甜茉莉种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 7 días para producir flores brillantes.",
+        "ko": "가을에 심으세요. 7일 후 밝은 꽃이 핍니다.",
+        "de": "Pflanze sie im Herbst. Wächst in 7 Tagen zu einer hellen Blume heran.",
+        "fr": "Plantez à l'automne. Prend 7 jours pour produire des fleurs colorées.",
+         // "hu": "",
+         // "it": "",
+        "ja": "秋植えの花。7日かけて明るい色の花を咲かせる。色は咲いてのおたのしみ。",
+        "pt": "Plante-as no outono. Demoram 7 dias para produzirem algumas flores brilhantes.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "秋天播种。7天后收获纯净的花。",
+    }
+}

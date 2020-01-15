@@ -1,0 +1,58 @@
+{
+    "Name": "Sweet Potato Fries",
+    "Description": "Like regular fries, only sweet.",
+    "Category": "Cooking",
+    "Edibility": 30,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 490,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Sweet Potato",
+            "Count": 2,
+        },
+        {
+            "Object": 247,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Pam", "Linus"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Elliott", "Harvey", "Sam", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Camote frito",
+        "ko": "고구마 튀김",
+        "de": "Süßkartoffelpommes",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "揚げサツマイモ",
+        "pt": "Batata doce frita",
+         // "ru": "",
+         // "tr": "",
+        "zh": "红薯条",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Como papas fritas normales, solo que dulces.",
+        "ko": "감자튀김 같지만, 달달해요.",
+        "de": "Wie normale Pommes, nur süß.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "見た目フライドポテトだが、ひたすら甘い。",
+        "pt": "Como batatas fritas regulares, apenas doces.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "红薯条。像一般的薯条，但只有甜味。",
+    }
+}

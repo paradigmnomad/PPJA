@@ -1,0 +1,45 @@
+{
+    "Name": "Paprika",
+    "Description": "A jar of ground bell peppers that has a smoky taste.",
+    "Edibility": -300,
+    "Price": 50,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 150,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Paprika",
+        "ko": "파프리카",
+        "de": "Paprikapulver",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "パプリカパウダー",
+        "pt": "Páprica",
+         // "ru": "",
+         // "tr": "",
+        "zh": "红辣椒粉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Pimientos molidos que tienen un sabor ahumado.",
+        "ko": "매캐한 맛이 나는 갈은 피망 한 병.",
+        "de": "Ein Glas gemahlener Paprika mit einem rauchigen Geschmack.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "スモーキーな風味がする、パプリカを粉末にした香辛料。",
+        "pt": "Um pote de pimentão moído que tem um sabor defumado.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "一罐磨碎的灯笼椒，有烟熏味。",
+    }
+}

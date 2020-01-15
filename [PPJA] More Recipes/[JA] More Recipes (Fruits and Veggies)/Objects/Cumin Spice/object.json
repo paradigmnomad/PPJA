@@ -1,0 +1,45 @@
+{
+    "Name": "Cumin Spice",
+    "Description": "It adds an earthy and warming feeling to food",
+    "Edibility": -300,
+    "Price": 50,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 150,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Especia de comino",
+        "ko": "커민 향신료",
+        "de": "Kreuzkümmel",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "クミンスパイス",
+        "pt": "Cominho",
+         // "ru": "",
+         // "tr": "",
+        "zh": "孜然香料",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Esto añade un sentimiento terroso y calentador al alimento.",
+        "ko": "음식에 흙 같고 따뜻한 느낌을 더해줍니다.",
+        "de": "Es verleiht dem Essen ein erdiges und wärmendes Gefühl.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "料理に素朴な風味を加える。",
+        "pt": "Acrescenta uma sensação de terra e aquecimento à comida",
+         // "ru": "",
+         // "tr": "",
+        "zh": "它给食物增添了一种温暖的感觉。",
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "Name": "Granny Smith Apple",
+    "Description": "The flavor is tart and acidic, but it makes for a good baking apple.",
+    "Category": "Fruit",
+    "Edibility": 17,
+    "Price": 100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Caroline", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Linus", "Pierre", "Vincent", "Sandy", "Abigail", "Alex", "Clint", "Demetrius", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Robin", "Dwarf", "Elliott", "Krobus", "Sam", "Sebastian", "Shane", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Manzano Granny Smith",
+        "ko": "그래니 스미스",
+        "de": "Granny Smith-Apfel",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "グラニースミスアップル",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "澳洲青苹果",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "El sabor es agrio y acido, pero es una buena manzana de reposteria.",
+        "ko": "시큼한 맛이 나지만, 사과 파이로 만들기에 좋습니다.",
+        "de": "Ein Apfel, vorwiegend verwendet beim Backen.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "酸味のある風味だが、おいしい焼きリンゴをつくれる。",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "它的味道酸涩，但很适合用来烤苹果。",
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_yellow_green",
+        "fruit_tree_item",
+        "fruit_item",
+    ]
+}

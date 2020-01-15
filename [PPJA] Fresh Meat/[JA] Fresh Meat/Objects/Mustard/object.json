@@ -1,0 +1,62 @@
+{
+  "Name": "Mustard",
+  "Description": "Another picnic staple.",
+  "Category": "Cooking",
+  "Edibility": -300,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 100,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Abigail", "George", "Haley", "Jas", "Vincent"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 346,
+        "Count": 1,
+      },
+      {
+        "Object": 419,
+        "Count": 1,
+      },
+      {
+        "Object": 340,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 250,
+    "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Mostaza",
+    "ko": "머스타드",
+    "de": "Senf",
+    "fr": "Moutarde",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+     // "ru": "",
+     // "tr": "",
+    "zh": "芥末",
+  },
+ "DescriptionLocalization": { 
+    "es": "Otro elemento básico para llevar al picnic.",
+    "ko": "피크닉 필수 요소.",
+    "de": "Passt zu Ketchup.",
+    "fr": "Un incontournable du pique-nique!",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+     // "ru": "",
+     // "tr": "",
+    "zh": "芥末。另一个野餐主食。",
+  }
+}

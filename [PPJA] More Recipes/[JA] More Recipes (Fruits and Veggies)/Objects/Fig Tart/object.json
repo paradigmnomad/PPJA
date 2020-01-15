@@ -1,0 +1,63 @@
+{
+    "Name": "Fig Tart",
+    "Description": "Simple snacks that beg you to eat more than one.",
+    "Category": "Cooking",
+    "Edibility": 36,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 350,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Fig",
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Robin", "Sebastian"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Tarta de higo",
+        "ko": "무화과 타르트",
+        "de": "Feigentörtchen",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "イチジクタルト",
+        "pt": "Torta de figo",
+         // "ru": "",
+         // "tr": "",
+        "zh": "无花果馅饼",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Refrigerio simple que te obliga a comer más de uno.",
+        "ko": "둘이 먹다 하나가 죽어도 모르는 맛.",
+        "de": "Einfache Snacks- eins ist nie genug.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ついもう一切れおかわりをしてしまう。",
+        "pt": "Lanches simples que imploram para você comer mais de um.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "无花果馅饼。简单的零食，一次根本吃不够。",
+    }
+}

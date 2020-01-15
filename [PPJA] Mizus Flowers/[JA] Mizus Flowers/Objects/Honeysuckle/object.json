@@ -1,0 +1,49 @@
+{
+    "Name": "Honeysuckle",
+    "Description": "Fragrant yellow flowers with a sweet dew inside.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 65,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+	"Love": ["Leah", "Marnie", "Sandy"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Madreselva",
+        "ko": "허니서클",
+        "de": "Geißblatt",
+        "fr": "Chèvrefeuille",
+         // "hu": "",
+         // "it": "",
+        "ja": "スイカズラ",
+        "pt": "Madressilva",
+         // "ru": "",
+         // "tr": "",
+        "zh": "金银花",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Fragantes flores amarillas con un dulce rocío en el interior.",
+        "ko": "달콤한 이슬이 맺힌 향기로운 노란 꽃들.",
+        "de": "Duftende, gelbe Blume mit einem süßen Tau im Inneren.",
+        "fr": "Fleurs jaunes parfumées avec une douce rosée à l'intérieur.",
+         // "hu": "",
+         // "it": "",
+        "ja": "甘い露を生み出す香りのよい黄色い花。",
+        "pt": "Flores bem perfumadas e amarelas com uma espécie de mel dentro.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "芳香的黄色花朵，里面蕴藏甘露。",
+    },
+    "ContextTags": [
+        "season_summer",
+        "season_spring",
+        "color_yellow",
+        "flower_item",
+        "trellis_item"
+    ]
+}

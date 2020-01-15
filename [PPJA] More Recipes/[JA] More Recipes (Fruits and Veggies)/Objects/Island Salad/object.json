@@ -1,0 +1,71 @@
+{
+    "Name": "Island Salad",
+    "Description": "A refreshing salad made with lots of olives and dressed in vinegar.",
+    "Category": "Cooking",
+    "Edibility": 80,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 570,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 419,
+            "Count": 1,
+        },
+        {
+            "Object": "Cucumber",
+            "Count": 1,
+        },
+        {
+            "Object": "Lettuce",
+            "Count": 1,
+        },
+        {
+            "Object": "Olive",
+            "Count": 1,
+        },
+        {
+            "Object": "Onion",
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Harvey", "Leah"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Ensalada isleña",
+        "ko": "아일랜드 샐러드",
+        "de": "Inselsalat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "アイランドサラダ",
+        "pt": "Salada da Ilha",
+         // "ru": "",
+         // "tr": "",
+        "zh": "小岛沙拉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una ensalada refrescante hecha con muchas aceitunas y aderezada con vinagre.",
+        "ko": "올리브를 넣고 식초를 뿌려서 만든 신선한 샐러드.",
+        "de": "Ein erfrischender Salat mit vielen Oliven und mit Essigdressing.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "沢山のオリーブにお酢をたっぷりかけて食べる爽やかなサラダ。",
+        "pt": "Uma salada refrescante feita com muitas azeitonas e coberta de vinagre.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "小岛沙拉。一份新鲜的沙拉，里面有很多橄榄和醋。",
+    }
+}

@@ -21,7 +21,7 @@
     "NameLocalization":
     {
         // "es": "",
-        "ko": "술을 만드는데 사용되는 증류장치.",
+        "ko": "증류 가마",
         "de": "Destille",
         // "fr": "",
         // "hu": "",
@@ -35,7 +35,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        "ko": "증류 가마",
+        "ko": "술을 만드는데 사용되는 증류장치.",
         "de": "Ein Destillationssystem, das für die Likörherstellung genutzt wird.",
         // "fr": "",
         // "hu": "",

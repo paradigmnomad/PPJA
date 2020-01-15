@@ -1,0 +1,51 @@
+{
+    "Name": "Grapefruit",
+    "Description": "A large bitter fruit, high in Vitamin C. Are you a salty or sugary kind of person?",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 140,
+    "IsColored": false,
+    "GiftTastes":
+    {
+	"Love": ["Alex"],
+        "Like": ["Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Toronja",
+        "ko": "자몽",
+        "de": "Grapefruit",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "グレープフルーツ",
+        "pt": "Toranja",
+         // "ru": "",
+         // "tr": "",
+        "zh": "西柚",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un primo muy grande y no tan amargo, del pomelo.",
+        "ko": "비타민 C가 많이 함유 된 크고 쓴맛의 과일.",
+        "de": "Eine große bittere Frucht, mit viel Vitamin C. Isst du sie mit Salz oder Zucker?",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ビタミンCを沢山含む大きな苦い果物。あなたは塩派？砂糖派？",
+        "pt": "Uma fruta grande e amarga, rica em vitamina C. Você é uma pessoa salgada ou açucarada?",
+         // "ru": "",
+         // "tr": "",
+        "zh": "一种苦涩的水果，富含维生素c。你是咸党还是甜党？",
+    },
+    "ContextTags": [
+        "season_fall",
+        "crop_year_two",
+        "fruit_tree_year_two",
+        "color_orange",
+        "fruit_tree_item",
+        "fruit_item",
+    ]
+}
