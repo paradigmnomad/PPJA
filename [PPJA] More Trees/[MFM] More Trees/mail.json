@@ -116,6 +116,7 @@
         "Id": "ppja.vanillasapling", 
         "GroupID": "MoreTrees.sapling",
         "Text": "Greetings,^^  I hope you can find some use for this sapling. I believe it will produce an item of arcane significance.^^ -M. Rasmodius, Wizard", 
+        "WhichBG": 3,
         "Attachments": [{"Type": "Object", "Name":"Vanilla Sapling", "Stack": 1},],         
         "Repeatable": false,         
         "Date": "10 winter Y1", 

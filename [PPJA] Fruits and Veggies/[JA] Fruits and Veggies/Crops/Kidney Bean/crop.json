@@ -2,7 +2,7 @@
     "Name": "Kidney Bean",
     "Product": "Kidney Bean",
     "SeedName": "Kidney Bean Starter",
-    "SeedDescription": "Plant these in summer. Takes 10 days to mature, and continues to produce after the first harvest. Grows on a trellis.",
+    "SeedDescription": "Plant these in fall. Takes 10 days to mature, and continues to produce after the first harvest. Grows on a trellis.",
     "Type": "Vegetable",
 
     "Seasons": ["fall"],
