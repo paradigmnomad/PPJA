@@ -8,6 +8,7 @@
     "Grinder.Vegetable": "{inputName}粉末",
     "Infuser.Schnapps": "{inputName}烈酒",
     "YogurtJar.Fruit": "{inputName}酸奶",
+	"WaxBarrel.Candle": "{inputName}蜡烛",
     "Alembic.EssentialOil": "{inputName}精油",
     "Juice.Fruit": "{inputName}果汁",
     "SoapPress.Soap": "手制{inputName}香皂",
