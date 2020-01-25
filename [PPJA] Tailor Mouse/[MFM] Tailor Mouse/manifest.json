@@ -1,0 +1,17 @@
+﻿{
+	"Name": "Tailor Mouse MFM Component",
+	"Author": "Project Populate Json Assets",
+	"Version": "2.2.0",
+	"Description": "Me sell clothes. Okey poke?",
+	"UniqueID": "ppja.MFM.tailormouse",
+	"MinimumApiVersion": "2.11.3",
+	"UpdateKeys": [],
+	"Dependencies": [
+		{
+			"UniqueID": "ppja.tailormouse"
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod"
+	}
+}

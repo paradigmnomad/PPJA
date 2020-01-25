@@ -1,0 +1,17 @@
+﻿{
+	"Name": "[MFM] Khadija's Recipe Shop",
+	"Author": "Hadi",
+	"Version": "1.0.0",
+	"Description": "Introduction letter for KRS.",
+	"UniqueID": "ppja.MFMKRS",
+	"MinimumApiVersion": "2.11.3",
+	"UpdateKeys": [ "5245" ],
+	"Dependencies": [
+		{
+			"UniqueID": "ppja.TMX.KRS"
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod"
+	}
+}
