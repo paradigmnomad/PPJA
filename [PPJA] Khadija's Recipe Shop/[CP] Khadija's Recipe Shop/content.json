@@ -1,0 +1,115 @@
+{
+    "Format": "1.11.0",
+    // "DynamicTokens": [
+    // 	{
+    // 		"Name": "Stand-Recolor",
+    // 		"Value": ""
+    // 	},
+    // 	{
+    // 		"Name": "Stand-Recolor",
+    // 		"Value": "_Soft",
+    // 	}
+    // ],
+    "Changes": [
+    {
+    	"LogName": "KRS Mail Background",
+    	"Action": "Load",
+    	"Target": "LooseSprites/LetterBG",
+    	"FromFile": "assets/{{TargetWithoutPath}}.png",
+    },
+    // {
+    // 	"LogName": "Khadija Tilesheets",
+    // 	"Action": "Load",
+    // 	"Target": "Maps/spring_recipes, Maps/spring_recipes_Sat, Maps/summer_recipes, Maps/summer_recipes_Sat, Maps/fall_recipes, Maps/fall_recipes_Sat, Maps/winter_recipes, Maps/winter_recipes_Sat",
+    // 	"FromFile": "assets/Tilesheets/{{TargetWithoutPath}}.png"
+    // },
+    // {
+    // 	"LogName": "Khadija Map Patch",
+    //     "Action": "EditMap",
+    //     "Target": "Maps/Town",
+    //     "FromFile": "assets/RecipeShop.tbin",
+    //     "ToArea":
+    //     {
+    //         "X": 86,
+    //         "Y": 89,
+    //         "Width": 4,
+    //         "Height": 4
+    //     },
+    //     "When": {
+    //             "Season": "Spring, Fall, Winter",
+    //             "DayOfWeek": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday"
+    //         }
+    // },
+    // {
+    //     "LogName": "Khadija Summer Map Patch",
+    //     "Action": "EditMap",
+    //     "Target": "Maps/Desert",
+    //     "FromFile": "assets/RecipeShop_Summer.tbin",
+    //     "ToArea":
+    //     {
+    //         "X": 5,
+    //         "Y": 20,
+    //         "Width": 4,
+    //         "Height": 2
+    //     },
+    //     "When": {
+    //             "Season": "Summer",
+    //             "DayOfWeek": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday"
+    //         }
+    // },
+    // {
+    //     "LogName": "Khadija Saturday Map Patch",
+    //     "Action": "EditMap",
+    //     "Target": "Maps/Town",
+    //     "FromFile": "assets/RecipeShop_Saturday.tbin",
+    //     "ToArea":
+    //     {
+    //         "X": 86,
+    //         "Y": 89,
+    //         "Width": 4,
+    //         "Height": 4
+    //     },
+    //     "When": {
+    //             "Season": "Spring, Fall, Winter",
+    //             "DayOfWeek": "Saturday"
+    //         }
+    // },
+    // {
+    //     "LogName": "Khadija Summer Saturday Map Patch",
+    //     "Action": "EditMap",
+    //     "Target": "Maps/Desert",
+    //     "FromFile": "assets/RecipeShop_SummerSaturday.tbin",
+    //     "ToArea":
+    //     {
+    //         "X": 5,
+    //         "Y": 20,
+    //         "Width": 4,
+    //         "Height": 2
+    //     },
+    //     "When": {
+    //             "Season": "Summer",
+    //             "DayOfWeek": "Saturday"
+    //         }
+    // },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromMaps",
+      "Entries": {
+      "Zamir.1": "Zamir: My sister looks after the shop on Saturday so I can go into the city and restock. If you have any requests, put in an order on the catalogue and I'll do my best to procure your items.",
+      "Zamir.2": "It's Khadija's jar! She really loves hiding in it...",
+      "Zamir.3": "KHADIJA'S RECIPE SHOP - PELICAN TOWN^Open from 8 AM to 7 PM Sun-Fri, Except Summer^New wares daily!",
+      "Nasira.1": "It's Nasira's catalogue. She's crossed out all the fields for vegetables and recipes furiously in bright red pen.",
+      "Nasira.2": "There's a little velvet pillow inside! Khadija probably snuggles up in there when it's time to go home.",
+      "Nasira.3": "KHADIJA'S EQUIPMENT SHOP - PELICAN TOWN^Open from 8 AM to 7 PM Saturdays, Except Summer^New wares weekly!",
+      "Nasira.4": "Nasira's Meats and Weapons - Saturdays Only",
+      "Summer.1": "What a cute ja- GAH! Oh, it's just Khadija! Hello to you too!",
+      "Summer.2": "An ice chest packed full of fresh meat. Curiously, there's no ice inside, but you can definitely feel a sharp chill emanating from it.",
+      "Summer.3": "KHADIJA'S RECIPE SHOP - DESERT LOCATION^Open from 8 AM to 7 PM Sun-Fri, Summer Only^New wares daily!",
+      "SummerSat.1": "Khadija is wiggling excitedly at you. Maybe you should blep back?",
+      "SummerSat.2": "Nasira: My brother enchanted that chest so it's always cold. I'm not very good at magic so I have to haul it in myself every weekend.",
+      "SummerSat.3": "KHADIJA'S EQUIPMENT SHOP - DESERT LOCATION^Open from 8 AM to 7 PM Saturdays, Summer Only^New wares weekly!",
+      "SummerSat.4": "Nasira's Meats and Weapons - Saturdays Only",
+    }
+    },
+    ]
+}
