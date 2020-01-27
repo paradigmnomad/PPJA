@@ -17,7 +17,7 @@
 		"Title": "Nasira's Meats and Weapons",
 		"Text": "Dear @, ^^My name is Nasira, and while we have not yet met, you may have seen my brother and his familiar Khadija at our stall in town.^^I'm writing to inform you that from now on, I will be minding the shop on Saturdays while Zamir goes into the city to resupply for the week. I'm afraid I'm of no use in the kitchen, so instead of recipes, I plan to sell freshly hunted meats, weapons, and blueprints for a variety of different machines.^^I hope you will find this service useful, at least until my brother returns each Sunday.^^-Nasira, Huntress of the Clan of Ridha",
 		"Date": "5 spring Y1",
-	},
+	},	
 	{
 		"Id": "KRS.Summer",
 		"GroupID": "KRS.Mail",
