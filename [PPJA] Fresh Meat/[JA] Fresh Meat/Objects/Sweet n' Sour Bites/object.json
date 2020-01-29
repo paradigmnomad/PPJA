@@ -1,0 +1,60 @@
+{
+    "Name": "Sweet n' Sour Bites",
+    "Description": "Chunks of succulent dragon meat sauteed with a thick, sweet and sour glaze.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 175,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cooked Dragon Meat",
+            "Count": 1,
+        },
+        {
+            "Object": 340,
+            "Count": 1,
+        },
+        {
+            "Object": 360,
+            "Count": 1,
+        },
+        {
+            "Object": 635,
+            "Count": 1,
+        }, ],
+    },
+    "PurchasePrice": 200,
+    "PurchaseRequirements": null,
+
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

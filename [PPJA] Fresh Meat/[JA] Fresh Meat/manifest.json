@@ -14,5 +14,13 @@
     {
         "UniqueID": "ppja.fruitsandveggies",
         "IsRequired": true,
-    }, ]
+    },
+{
+        "UniqueID": "ppja.evenmorerecipes",
+        "IsRequired": false,
+    }, 
+{
+        "UniqueID": "ppja.moretrees",
+        "IsRequired": false,
+    },]
 }

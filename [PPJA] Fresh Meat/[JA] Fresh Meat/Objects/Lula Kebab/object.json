@@ -32,11 +32,7 @@
         {
             "Object": 248,
             "Count": 1,
-        },
-        {
-            "Object": "Lemon",
-            "Count": 1,
-        }],
+        },],
         "CanPurchase": false,
     },
 

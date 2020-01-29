@@ -1,0 +1,60 @@
+{
+    "Name": "Phoenix Au Vin",
+    "Description": "Braised phoenix cooked in wine and paired with hearty boar meat. It stays hot no matter how long you leave it out.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 175,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cooked Boar",
+            "Count": 1,
+        },
+        {
+            "Object": "Cooked Phoenix",
+            "Count": 1,
+        },
+        {
+            "Object": 348,
+            "Count": 1,
+        },
+        {
+            "Object": 192,
+            "Count": 1,
+        }, ],
+    },
+    "PurchasePrice": 200,
+    "PurchaseRequirements": null,
+
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

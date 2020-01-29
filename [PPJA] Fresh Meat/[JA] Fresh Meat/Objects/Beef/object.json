@@ -1,7 +1,7 @@
 {
     "Name": "Beef",
     "Description": "A thick, juicy slab of beef.",
-    "Category": "ArtisanGoods",
+    "Category": "AnimalGoods",
     "Edibility": -300,
     "Price": 75,
     "IsColored": false,

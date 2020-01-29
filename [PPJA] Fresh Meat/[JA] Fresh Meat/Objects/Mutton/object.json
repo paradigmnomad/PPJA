@@ -1,7 +1,7 @@
 {
     "Name": "Mutton",
     "Description": "A rich, tough cut from a sheep.",
-    "Category": "ArtisanGoods",
+    "Category": "AnimalGoods",
     "Edibility": -300,
     "Price": 100,
     "IsColored": false,

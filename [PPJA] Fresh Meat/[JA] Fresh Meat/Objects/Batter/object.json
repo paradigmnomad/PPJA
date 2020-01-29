@@ -1,0 +1,63 @@
+{
+    "Name": "Batter",
+    "Description": "The first step to a beautiful pastry.",
+    "Category": "Cooking",
+    "Edibility": 5,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 235,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": -5,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": 184,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchasePrice": 735,
+        "PurchaseRequirements": ["y 3"],
+    },
+    "GiftTastes":
+    {
+        "Hate": ["Abigail", "Krobus", "Maru", "Shane", "Willy", "Sandy", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Vincent", "Wizard"],
+    },
+    "DisableWithMod": "Zosa.eatums",
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}
