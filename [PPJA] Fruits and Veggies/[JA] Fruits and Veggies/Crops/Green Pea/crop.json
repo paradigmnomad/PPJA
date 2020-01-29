@@ -32,7 +32,7 @@
          // "it": "",
         "ja": "グリーンピースのタネ",
         "pt": "Sementes de ervilhas verdes",
-         // "ru": "",
+        "ru": "Семена зелёного гороха",
          // "tr": "",
         "zh": "青豌豆种子",
     },
@@ -46,7 +46,7 @@
          // "it": "",
         "ja": "夏植えの作物。そだつのに8日かかるが、そのあともくりかえし収穫できる。支柱にからみながらそだつ。",
         "pt": "Plante-as no verão. Demora 8 dias para amadurecer e continua produzindo após a primeira colheira. Cresce em uma treliça.",
-         // "ru": "",
+        "ru": "Сажайте летом. Вырастает через 8 дней, но затем продолжает давать урожай. Растут на шпалере.",
          // "tr": "",
         "zh": "夏天播种。8天成熟，在第一次收获后循环生产。生长在架子上。",
     }

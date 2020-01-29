@@ -12,14 +12,21 @@
       ],
       "PortraitPath": "assets/WeekdayIcon.png",
       "Quote": "Welcome! Khadija's happy to see you too!", 
-      "MaxNumItemsSoldInStore": 19,
+      "MaxNumItemsSoldInStore": 25,
       "ItemStocks": [
           {
           	"ItemType": "Object",
           	"MaxNumItemsSoldInItemStock": 6,
           	"ItemNames": [
-          		"Peppercorn",
+          		"Pepper",
           		"Salt",
+              "Seasonings",
+              "Brown Sugar",
+              "Chili Powder",
+              "Cumin Spice",
+              "Curry Powder",
+              "Nutmeg",
+              "Paprika",
           		"Garlic",
           		"Vanilla Extract",
           		"Buckwheat Flour",
@@ -37,7 +44,6 @@
           		"Milk",
           		"Cheese",
           		"Cinnamon Sticks",
-          		"Curry Powder",
           		"Spring Onion",
           		"Cocoa Powder",
           		"Coconut",
@@ -74,8 +80,19 @@
                 "HadiZosa.BFAVnewmeat",
                 "Bonster.Adv.Recipes",
                 "Bonster.Recipes",
-                "amburr.spoopyvalley",
+                "Zosa.eatums",
               ],
+            },
+            {
+            "ItemType": "Object",
+            "IsRecipe": true,
+            "MaxNumItemsSoldInItemStock": 2,
+            "JAPacks": [
+                "amburr.spoopyvalley"
+              ],
+            "When": [ 
+                "!z fall",
+                ],
             },
             {
           	"ItemType": "Object",
@@ -109,7 +126,7 @@
       ],
       "PortraitPath": "assets/SaturdayIcon.png",
       "Quote": "I bring a few different things to sell on Saturdays.", 
-      "MaxNumItemsSoldInStore": 17, 
+      "MaxNumItemsSoldInStore": 25, 
       "ItemStocks": [
         {
           "ItemType": "Object",
@@ -128,7 +145,7 @@
       {
           "ItemType": "Object",
           "StockPrice": 500,
-          "MaxNumItemsSoldInItemStock": 2,
+          "MaxNumItemsSoldInItemStock": 3,
           "ItemNames": [
           	"Alpaca Meat",
           	"Beast Meat",
@@ -138,7 +155,8 @@
           	"Phoenix Meat",
           	"Reptile Meat",
           	"Turkey",
-          	"Venison"
+          	"Venison",
+            "Wild Boar Meat"
           ],
       },
       {
@@ -146,6 +164,27 @@
           "MaxNumItemsSoldInItemStock": 3,
           "JAPacks": [
             "Immort.Weap",
+          ],
+        },
+        {
+          "ItemType": "BigCraftable",
+          "StockPrice": 8000,
+          "MaxNumItemsSoldInItemStock": 1,
+          "JAPacks": [
+            "ppja.artisanvalleymachinegoods",
+          ],
+        },
+        {
+          "ItemType": "BigCraftable",
+          "StockPrice": 8000,
+          "MaxNumItemsSoldInItemStock": 1,
+          "JAPacks": [
+            "Hadi.JASoda",
+            "deffiliation.JAKimchiMaker",
+            "xiaobaishu.JA.fenjieji",
+            "furyx639.ComposterJA",
+            "Ritsune.BakersLifeJA",
+            "MelindaC.FizzyDrinks",
           ],
         },
          {
@@ -160,6 +199,7 @@
             "xiaobaishu.JA.fenjieji",
             "furyx639.ComposterJA",
             "Ritsune.BakersLifeJA",
+            "MelindaC.FizzyDrinks",
           ],
         },
       ],
@@ -167,7 +207,8 @@
           "t 800 1900",
         ],
       "ClosedMessage": "Nasira: We're closed. Come back later."
-      }
+      
+      },
 	],
 	
 	//Chinese Translations
@@ -186,14 +227,21 @@
       ],
       "PortraitPath": "assets/WeekdayIcon.png",
       "Quote": "欢迎！卡迪亚也很高兴见到你", 
-      "MaxNumItemsSoldInStore": 19,
+      "MaxNumItemsSoldInStore": 25,
       "ItemStocks": [
           {
           	"ItemType": "Object",
           	"MaxNumItemsSoldInItemStock": 6,
           	"ItemNames": [
-          		"Peppercorn",
+          		"Pepper",
           		"Salt",
+              "Seasonings",
+              "Brown Sugar",
+              "Chili Powder",
+              "Cumin Spice",
+              "Curry Powder",
+              "Nutmeg",
+              "Paprika",
           		"Garlic",
           		"Vanilla Extract",
           		"Buckwheat Flour",
@@ -211,7 +259,6 @@
           		"Milk",
           		"Cheese",
           		"Cinnamon Sticks",
-          		"Curry Powder",
           		"Spring Onion",
           		"Cocoa Powder",
           		"Coconut",
@@ -248,7 +295,18 @@
                 "HadiZosa.BFAVnewmeat",
                 "Bonster.Adv.Recipes",
                 "Bonster.Recipes",
-                "amburr.spoopyvalley",
+                "Zosa.eatums",
+              ],
+            },
+            {
+            "ItemType": "Object",
+            "IsRecipe": true,
+            "MaxNumItemsSoldInItemStock": 2,
+            "JAPacks": [
+                "amburr.spoopyvalley"
+              ],
+            "When": [ 
+                "!z fall",
               ],
             },
             {
@@ -283,7 +341,7 @@
       ],
       "PortraitPath": "assets/SaturdayIcon.png",
       "Quote": "星期六我带了一些不同的东西来售卖。", 
-      "MaxNumItemsSoldInStore": 17, 
+      "MaxNumItemsSoldInStore": 25, 
       "ItemStocks": [
         {
           "ItemType": "Object",
@@ -302,7 +360,7 @@
       {
           "ItemType": "Object",
           "StockPrice": 500,
-          "MaxNumItemsSoldInItemStock": 2,
+          "MaxNumItemsSoldInItemStock": 3,
           "ItemNames": [
           	"Alpaca Meat",
           	"Beast Meat",
@@ -312,7 +370,8 @@
           	"Phoenix Meat",
           	"Reptile Meat",
           	"Turkey",
-          	"Venison"
+          	"Venison",
+            "Wild Boar Meat"
           ],
       },
       {
@@ -320,6 +379,27 @@
           "MaxNumItemsSoldInItemStock": 3,
           "JAPacks": [
             "Immort.Weap",
+          ],
+        },
+        {
+          "ItemType": "BigCraftable",
+          "StockPrice": 8000,
+          "MaxNumItemsSoldInItemStock": 1,
+          "JAPacks": [
+            "ppja.artisanvalleymachinegoods",
+          ],
+        },
+        {
+          "ItemType": "BigCraftable",
+          "StockPrice": 8000,
+          "MaxNumItemsSoldInItemStock": 1,
+          "JAPacks": [
+            "Hadi.JASoda",
+            "deffiliation.JAKimchiMaker",
+            "xiaobaishu.JA.fenjieji",
+            "furyx639.ComposterJA",
+            "Ritsune.BakersLifeJA",
+            "MelindaC.FizzyDrinks",
           ],
         },
          {
@@ -334,6 +414,7 @@
             "xiaobaishu.JA.fenjieji",
             "furyx639.ComposterJA",
             "Ritsune.BakersLifeJA",
+            "MelindaC.FizzyDrinks",
           ],
         },
       ],
