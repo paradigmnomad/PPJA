@@ -1,18 +1,42 @@
 {
-    "Format": "1.11",
+    "Format": "1.12",
     "Changes": [
-    {
-        "Action": "EditData",
-        "Target": "Data/ObjectContextTags",
-        "Entries":
         {
-            "Common Mushroom": "color_dark_brown, forage_item, season_spring, season_fall, mushroom_item",
-            "Red Mushroom": "color_red, forage_item, season_summer, season_fall, forage_item_mines, forage_item_secret, mushroom_item",
-            "Purple Mushroom": "color_purple, forage_item, forage_item_mines, mushroom_item",
-            "Chanterelle": "color_brown, forage_item, forage_item_cave, forage_item_secret, season_fall, mushroom_item",
-            "Morel": "color_brown, forage_item, forage_item_secret, forage_item_cave, season_spring, mushroom_item",
-            "Cheese": "color_yellow, cheese_item",
-            "Goat Cheese": "color_yellow, cheese_item",
+            "Action": "EditData",
+            "Target": "Data/ObjectContextTags",
+            "Entries":
+            {
+                "Common Mushroom": "color_dark_brown, forage_item, season_spring, season_fall, mushroom_item",
+                "Red Mushroom": "color_red, forage_item, season_summer, season_fall, forage_item_mines, forage_item_secret, mushroom_item",
+                "Purple Mushroom": "color_purple, forage_item, forage_item_mines, mushroom_item",
+                "Chanterelle": "color_brown, forage_item, forage_item_cave, forage_item_secret, season_fall, mushroom_item",
+                "Morel": "color_brown, forage_item, forage_item_secret, forage_item_cave, season_spring, mushroom_item",
+                "Cheese": "color_yellow, cheese_item",
+                "Goat Cheese": "color_yellow, cheese_item",
+            },
         },
-    }]
+        {
+            "LogName": "Alembic",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/BigCraftableSpriteTilesheet:Alembic}}",
+            "FromFile": "assets/AlembicAnimation.png",
+            "FromArea":
+            {
+                "X": "0",
+                "Y": "0",
+                "Width": "16",
+                "Height": "32"
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/BigCraftableSpriteX:Alembic}}",
+                "Y": "{{spacechase0.JsonAssets/BigCraftableSpriteY:Alembic}}",
+                "Width": "16",
+                "Height": "32"
+            },
+            "AnimationFrameTime": 4,
+            "AnimationFrameCount": 6
+        },
+
+    ]
 }

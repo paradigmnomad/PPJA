@@ -1073,8 +1073,8 @@
     {
         "ProducerName": "Foreign Cask",
         "InputIdentifier": "Soybean",
-        "InputStack": 1,
-        "FuelIdentifier": "Soybean",
+        "InputStack": 2,
+        "FuelIdentifier": null,
         "FuelStack": 1,
         "MinutesUntilReady": 2360,
         "OutputIdentifier": "Soy Sauce",
