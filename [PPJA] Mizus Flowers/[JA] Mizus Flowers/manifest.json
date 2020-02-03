@@ -2,8 +2,8 @@
    "Name": "Mizu's Flowers for JsonAssets",
    "Author": "ParadigmNomad & Eemie (Port) & Mizu (Sprites)",
    "Description": "A port of Mizu's sprites for JsonAssets.",
-   "Version": "1.6.4",
-   "MinimumApiVersion": "3.0.1",
+   "Version": "1.6.5",
+   "MinimumApiVersion": "3.2.0",
    "UniqueID": "mizu.flowers",
 "UpdateKeys": ["Nexus:2028"],
    "ContentPackFor": {
