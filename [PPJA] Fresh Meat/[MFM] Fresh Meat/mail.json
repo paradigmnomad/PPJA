@@ -4,7 +4,7 @@
 		"GroupID": "FreshMeat.CookingRecipe",
 		"Text": "grilledskewer.text",
 		"Recipe": "Grilled Skewer",
-		"WhichBG": 0,
+		"WhichBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
