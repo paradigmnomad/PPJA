@@ -17,7 +17,7 @@
      // "it": "",
      // "ja": "",
     "pt": "Muda de Jasmim",
-     // "ru": "",
+    "ru": "Саженец жасминового дерева",
      // "tr": "",
     "zh": "茉莉树苗Sapling",
     },
@@ -30,7 +30,7 @@
      // "it": "",
      // "ja": "",
     "pt": "Demora até 28 dias para produzir uma jasmim madura. Dá flores no outono. Só cresce se os 8 espaços adjacentes estiverem vazios.",
-     // "ru": "",
+    "ru": "Становится взрослым жасминовым деревом через 28 дней. Цветет осенью. Растeт только если 8 «клеток» вокруг него не заняты.",
      // "tr": "",
     "zh": "28天成熟为成年茉莉花树。秋天开花。只有在附近8块地块都空置的情况下才会成长。",
     }

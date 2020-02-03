@@ -45,7 +45,7 @@
          // "it": "",
          // "ja": "",
         "pt": "Leite com Café",
-         // "ru": "",
+        "ru": "Латте",
          // "tr": "",
         "zh": "拿铁咖啡",
     },
@@ -59,7 +59,7 @@
          // "it": "",
          // "ja": "",
         "pt": "É uma dose de expresso e um litro de leite, misturado em uma mistura espumante.",
-         // "ru": "",
+        "ru": "Это эспрессо с пинтой молока, взбитое в пенистую смесь.",
          // "tr": "",
         "zh": "拿铁咖啡。由咖啡和牛奶搅拌制成。",
     }
