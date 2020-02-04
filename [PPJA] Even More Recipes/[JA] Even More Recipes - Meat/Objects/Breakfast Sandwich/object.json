@@ -1,0 +1,63 @@
+{
+    "Name": "Breakfast Sandwich",
+    "Description": "A hot sandwich piled with eggs, melted cheese, and nice, crispy bacon.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1000,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 216,
+            "Count": 1,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        },
+        {
+            "Object": 424,
+            "Count": 1,
+        },
+        {
+            "Object": "Bacon",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1000,
+        "PurchaseRequirements": null,
+    },
+    "NameLocalization":
+    {
+        "es": "Sandwich de desayuno",
+        // "ko": "",
+        "de": "Frühstücks Sandwich",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "早餐三明治",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un sándwich caliente con huevo, queso derretido y tocino crujiente.",
+        // "ko": "",
+        "de": "Ein heißes Sandwich mit Eiern, geschmolzenem Käse und schönem, knusprigem Speck.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "早餐三明治。一份热三明治，里面有鸡蛋、融化的奶酪和香脆的培根。",
+    }
+}
