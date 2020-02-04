@@ -40,7 +40,7 @@
         "pt": "Uma planta que cultiva flores ao longo de um caule grande e saliente. É venenoso,toma cuidado para não ingerir.",
         "ru": "Растение с большим выпуклым стеблем, вдоль которого растут цветы. Ядовито.",
          // "tr": "",
-        "zh": "一种硕大且突出花茎的花朵，有毒性。",
+        "zh": "花茎大而突出，沿茎身密布花朵，有毒，不可食用。",
     },
     "ContextTags": [
     	"color_blue",
