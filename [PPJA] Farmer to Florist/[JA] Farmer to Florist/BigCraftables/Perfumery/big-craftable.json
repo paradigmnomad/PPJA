@@ -39,7 +39,7 @@
             //"pt": "", //Portuguese
             "ru": "Парфюмерная машина", //Russian
             //"tr": "", //Turkish
-            "zh": "香水制造器", //Chinese (Simplified)
+            "zh": "香水制造机", //Chinese (Simplified)
         },
         "DescriptionLocalization": //Used for localization. 
         { 
