@@ -38,7 +38,7 @@
             "pt": "Máquina de Sabão", //Portuguese
             "ru": "Мыловарка", //Russian
             //"tr": "", //Turkish
-            "zh": "香皂制作机", //Chinese (Simplified)
+            "zh": "香皂制造机", //Chinese (Simplified)
         },
         "DescriptionLocalization": //Used for localization. 
         { 
@@ -52,6 +52,6 @@
             "pt": "Combina flores e óleo em uma barra de sabonete.", //Portuguese
             "ru": "Смешивает цветы и масло в кусок мыла", //Russian
             //"tr": "", //Turkish
-            "zh": "用花和有制作香皂", //Chinese (Simplified)
+            "zh": "将花和油混合加工制成香皂", //Chinese (Simplified)
         }
     }
