@@ -28,30 +28,30 @@
 
         "NameLocalization": //Used for localization. 
        { 
-            /*"es": "", //Spanish*/
-            "ko": "비누 제조기", //Korean
-            /*"de": "", //German
-            "fr": "", //French
-            "hu": "", //Hungarian
-            "it": "", //Italian
-            "ja": "", //Japanese
-            "pt": "", //Portuguese
-            "ru": "", //Russian
-            "tr": "", //Turkish*/
-            "zh": "香皂制作机", //Chinese (Simplified)*/
+            //"es": "", //Spansih
+            //"ko": "", //Korean
+            //"de": "", //German
+            //"fr": "", //French
+            //"hu": "", //Hungarian
+            //"it": "",, //Italian
+            //"ja": "", //Japanese
+            //"pt": "", //Portuguese
+            "ru": "Мыловарка", //Russian
+            //"tr": "", //Turkish
+            "zh": "香皂制造机", //Chinese (Simplified)
         },
         "DescriptionLocalization": //Used for localization. 
         { 
-            /*"es": "", //Spanish*/
-            "ko": "꽃과 오일을 섞어 비누 한 개를 만들 수 있습니다.", //Korean
-            /*"de": "", //German
-            "fr": "", //French
-            "hu": "", //Hungarian
-            "it": "", //Italian
-            "ja": "", //Japanese
-            "pt": "", //Portuguese
-            "ru": "", //Russian
-            "tr": "", //Turkish*/
-            "zh": "用花和有制作香皂", //Chinese (Simplified)*/
+            //"es": "", //Spansih
+            "ko": "비누 제조기", //Korean
+            //"de": "", //German
+            //"fr": "", //French
+            //"hu": "", //Hungarian
+            //"it": "",, //Italian
+            //"ja": "", //Japanese
+            //"pt": "", //Portuguese
+            "ru": "Смешивает цветы и масло в кусок мыла", //Russian
+            //"tr": "", //Turkish
+            "zh": "将花和油混合加工制成香皂。", //Chinese (Simplified)
         }
     }

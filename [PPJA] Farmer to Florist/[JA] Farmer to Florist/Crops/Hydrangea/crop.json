@@ -35,9 +35,9 @@
      // "it": "",
      // "ja": "",
     "pt": "Semente de Hortênsia",
-     // "ru": "",
+    "ru": "Семена гортензии",
      // "tr": "",
-    "zh": "绣球花种子",
+    "zh": "八仙花种子",
     },
 "SeedDescriptionLocalization": { 
     "es": "Plántalas en verano. Toma 10 días para producir un grupo de flores redondas.",
@@ -48,8 +48,8 @@
      // "it": "",
      // "ja": "",
     "pt": "Plante-a no verão. Demoram 10 dias para crescer conjuntos redondos de flores.",
-     // "ru": "",
+    "ru": "Сажайте летом. Через 10 дней вырастает круглый пучок цветов.",
      // "tr": "",
-    "zh": "夏天下种。10天产出圆形花簇。",
+    "zh": "夏天播种。10天产出圆形花簇。",
     }
 }
