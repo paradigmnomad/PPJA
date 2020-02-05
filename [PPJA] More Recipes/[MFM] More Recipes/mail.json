@@ -4,7 +4,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "bakedsweetpotato.text",
 		"Recipe": "Baked Sweet Potato",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "25 fall Y1",
 		"Seasons":  ["fall", "winter"],
 		"Repeatable": false,
@@ -22,7 +22,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "bananapudding.text",
 		"Recipe": "Banana Pudding",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -35,7 +35,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "broccoliandcheese.text",
 		"Recipe": "Broccoli and Cheese",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "6 summer Y2",
 		"Repeatable": false,
 		"Weather":  "rainy",
@@ -49,7 +49,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "brownsugar.text",
 		"Recipe": "Brown Sugar",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"SkillConditions": 
@@ -62,7 +62,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "carrotcake.text",
 		"Recipe": "Carrot Cake",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -75,7 +75,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "cassavacake.text",
 		"Recipe": "Cassava Cake",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "19 summer Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -88,7 +88,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "chefsalad.text",
 		"Recipe": "Chef Salad",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -101,7 +101,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "farofa.text",
 		"Recipe": "Farofa",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 fall Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -114,7 +114,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "figtart.text",
 		"Recipe": "Fig Tart",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 winter Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -127,7 +127,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "gooseberrypie.text",
 		"Recipe": "Gooseberry Pie",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 summer Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -140,7 +140,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "islandsalad.text",
 		"Recipe": "Island Salad",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -153,7 +153,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "melonsalad.text",
 		"Recipe": "Melon Salad",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "8 spring Y3",
 		"Repeatable": false,
 		"Weather":  "rainy",
@@ -167,7 +167,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "pbjsandwich.text",
 		"Recipe": "PB&J Sandwich",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"SkillConditions": 
@@ -180,7 +180,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "poachedpear.text",
 		"Recipe": "Poached Pear",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -193,7 +193,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "raspberrytart.text",
 		"Recipe": "Raspberry Tart",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 summer Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -206,7 +206,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "ricepilaf.text",
 		"Recipe": "Rice Pilaf",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -219,7 +219,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "sauteedonions.text",
 		"Recipe": "Sauteed Onions",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -232,7 +232,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "stuffedbellpeppers.text",
 		"Recipe": "Stuffed Bell Peppers",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -245,7 +245,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "sweetpotatofries.text",
 		"Recipe": "Sweet Potato Fries",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -258,7 +258,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "tropicalfruitsalad.text",
 		"Recipe": "Tropical Fruit Salad",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Seasons":  ["spring", "summer"],
 		"Repeatable": false,
@@ -272,7 +272,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "vegetablestirfry.text",
 		"Recipe": "Vegetable Stirfry",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -285,7 +285,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "bobatea.text",
 		"Recipe": "Boba Tea",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -298,7 +298,7 @@
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "dandeliontea.text",
 		"Recipe": "Dandelion Tea",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Seasons":  ["spring", "fall"],
 		"Repeatable": false,

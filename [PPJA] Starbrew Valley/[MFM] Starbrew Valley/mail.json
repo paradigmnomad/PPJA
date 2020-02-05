@@ -5,7 +5,7 @@
 		"Title": "Americano Recipe",
 		"Text": "americano.text",
 		"Recipe": "Americano",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -19,7 +19,7 @@
 		"Title": "Brandy Alexander Recipe",
 		"Text": "brandyalexander.text",
 		"Recipe": "Brandy Alexander",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -33,7 +33,7 @@
 		"Title": "Cosmo Recipe",
 		"Text": "cosmo.text",
 		"Recipe": "Cosmo",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -47,7 +47,7 @@
 		"Title": "Dark and Stormy Recipe",
 		"Text": "darkandstormy.text",
 		"Recipe": "Dark and Stormy",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -61,7 +61,7 @@
 		"Title": "Espresso Martini Recipe",
 		"Text": "espressomartini.text",
 		"Recipe": "Espresso Martini",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -75,7 +75,7 @@
 		"Title": "French 75 Recipe",
 		"Text": "french75.text",
 		"Recipe": "French 75",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -89,7 +89,7 @@
 		"Title": "Hemingway Special Recipe",
 		"Text": "hemingwayspecial.text",
 		"Recipe": "Hemingway Special",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -103,7 +103,7 @@
 		"Title": "Mint Julep Recipe",
 		"Text": "mintjulep.text",
 		"Recipe": "Mint Julep",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -117,7 +117,7 @@
 		"Title": "Moonshine Cherries Recipe",
 		"Text": "moonshinecherries.text",
 		"Recipe": "Moonshine Cherries",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -131,7 +131,7 @@
 		"Title": "Night on the Beach Recipe",
 		"Text": "nightonthebeach.text",
 		"Recipe": "Night on the Beach",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 summer Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -145,7 +145,7 @@
 		"Title": "Paradise Recipe",
 		"Text": "paradise.text",
 		"Recipe": "Paradise",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -159,7 +159,7 @@
 		"Title": "Pina Colada Recipe",
 		"Text": "pinacolada.text",
 		"Recipe": "Pina Colada",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -173,7 +173,7 @@
 		"Title": "Planters Punch Recipe",
 		"Text": "planterspunch.text",
 		"Recipe": "Planters Punch",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -187,7 +187,7 @@
 		"Title": "Sea Breeze Recipe",
 		"Text": "seabreeze.text",
 		"Recipe": "Sea Breeze",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y2", 
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -201,7 +201,7 @@
 		"Title": "Vampiro Recipe",
 		"Text": "vampiro.text",
 		"Recipe": "Vampiro",
-		"WhichBG": "NicteLetterBackground.png",
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
