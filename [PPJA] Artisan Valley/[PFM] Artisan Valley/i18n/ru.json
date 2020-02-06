@@ -1,0 +1,16 @@
+{
+    "Dehydrator.Fruit": "Сухофрукт ({inputName})",
+    "DryingRack.Flower": "Сушёный цветок ({inputName})",
+    "DryingRack.Herb": "Сушёные травы ({inputName})",
+    "DryingRack.Vegetable": "Сушёные овощи({inputName})",
+    "DryingRack.Mushroom": "Сушёные грибы ({inputName})",
+    "Grinder.Herb": "Измельч. ({inputName})",
+    "Grinder.Vegetable": "Измельч. ({inputName})",
+    "Infuser.Schnapps": "Шнапс ({inputName})",
+    "YogurtJar.Fruit": "Йогурт ({inputName})",
+    "WaxBarrel.Candle": "Свеча ({inputName})",
+    "Alembic.EssentialOil": "Масло ({inputName})",
+    "Juice.Fruit": "Сок ({inputName})",
+    "SoapPress.Soap": "Домашнее мыло ({inputName})",
+    "Smoker.Fish": "Копчёная рыба ({inputName}) ",
+}

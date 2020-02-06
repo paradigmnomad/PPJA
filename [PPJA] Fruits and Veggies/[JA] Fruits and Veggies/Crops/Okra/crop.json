@@ -22,33 +22,33 @@
     "SeedPurchaseRequirements": [
         "y 3",
     ],
-    
+
     "SeedNameLocalization":
     {
-         // "es": "",
+        // "es": "",
         "ko": "오크라 씨앗",
         "de": "Okra-Saat",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
         "ja": "オクラのタネ",
         "pt": "Sementes de Quiabo",
-        "ru": "Семена бамии",
-         // "tr": "",
-          "zh": "秋葵荚种子",
+        "ru": "Семена окры",
+        // "tr": "",
+        "zh": "秋葵荚种子",
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+        // "es": "",
         "ko": "여름 또는 가을 작물. 성장하려먼 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
         "de": "Pflanze sie im Sommer oder Herbst. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden.",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
         "ja": "夏または秋植えの作物。そだつのに10日かかる。最初の収穫のあともくりかえし収穫できる。",
         "pt": "Plante-as no verão ou no outono. Leva 10 dias para amadurecer e continua a produzir após a primeira colheita",
         "ru": "Сажайте летом или осенью. Вырастает через 10 дней и продолжает давать урожай после первого сбора.",
-         // "tr": "",
-          "zh": "夏天或秋天播种。10天成熟，在第一次收获后循环生产。",
+        // "tr": "",
+        "zh": "夏天或秋天播种。10天成熟，在第一次收获后循环生产。",
     }
 }

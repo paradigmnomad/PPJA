@@ -20,7 +20,7 @@
          // "it": "",
         "ja": "そば粉",
         "pt": "Farinha de Trigo Sarraceno",
-         // "ru": "",
+        "ru": "Гречневая мука",
          // "tr": "",
         "zh": "荞麦粉",
     },
@@ -34,7 +34,7 @@
          // "it": "",
         "ja": "ソバの実を粉砕して作った料理材料。",
         "pt": "Um ingrediente de cozinha feito de sementes de trigo sarraceno trituradas.",
-         // "ru": "",
+        "ru": "Кулинарный ингредиент, изготовленный из измёльченных семян гречихи.",
          // "tr": "",
         "zh": "一种用荞麦种子制成的烹饪原料。",
     }

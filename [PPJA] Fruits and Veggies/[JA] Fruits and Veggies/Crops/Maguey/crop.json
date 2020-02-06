@@ -22,33 +22,33 @@
     "SeedPurchaseRequirements": [
         "y 4",
     ],
-    
+
     "SeedNameLocalization":
     {
-         // "es": "",
+        // "es": "",
         "ko": "용설란 씨앗",
         "de": "Agaven-Saat",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
         "ja": "マゲイのタネ",
         "pt": "Sementes de Agave",
-         "ru": "Семена агавы",
-         // "tr": "",
-          "zh": "龙舌兰种子",
+        "ru": "Семена агавы",
+        // "tr": "",
+        "zh": "龙舌兰种子",
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+        // "es": "",
         "ko": "봄 또는 여름 작물. 성장하려면 8일이 소요됩니다.",
         "de": "Pflanze sie im Frühling oder Sommer. Wächst in 8 Tagen heran.",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
         "ja": "春または夏植えの作物。そだつのに8日かかる。",
         "pt": "Plante-as na primavera ou no verão. Leva 8 dias para amadurecer.",
-        "ru": "Сажайте летом. Вырастает через 8 дней.",
-         // "tr": "",
-          "zh": "在春天或夏天播种。8天成熟。",
+        "ru": "Сажайте весной или летом. Вырастает через 8 дней.",
+        // "tr": "",
+        "zh": "在春天或夏天播种。8天成熟。",
     }
 }
