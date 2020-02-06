@@ -1,4 +1,7 @@
 {
+
+// Text
+
 "icedchristmastree.text": "Dear @,^I was just thinking of you as I thought of how to spread a little holiday cheer this year. This is a very easy sugar cookie recipe that even the busiest of us can find time to make. Happy holidays, dearie!^   -Evelyn",
 "iceddecoratedchristmastree.text": "Dear @,^I've enclosed a cookie recipe that's based on an old family recipe. Rather, I've improved that recipe over the years so that its decorations look so pretty and balanced, your friends and family can't help but love them.^Or maybe make one for that special someone! Hee hee!    -Evelyn",
 "icedgreenchristmastree.text": "Dear @,^I hope you're making some cookies this month! The holidays just wouldn't be the same without them.^Anyway, I've entrusted to you one of my most beloved cookie recipes. The design on this one won me first prize in a bake-off some twenty years ago! May your winter be merry and bright!^   -Evelyn",
@@ -11,5 +14,21 @@
 "stardropcookie.text": "Dear @,^We all know that Stardrops are on our minds when we think of the Winter Star.^It may not be the real deal, but it's just about the closest thing you'll find! I've yet to find anyone who's been disappointed by this recipe.^Happy feasting!^   -Evelyn",
 "stockingcookie.text": "Dear @,^Ho ho ho! What do you want to find in your stocking this year for the Winter Star, dearie?^Whatever you're hoping for, these little stocking cookies will be sure to put you in the holiday spirit. Why don't you make yourself a nice little treat?^   -Evelyn",
 "christmaschocolatecandiecookies.text": "Dear @,^Happy holidays! I wanted to share this recipe with you.^It's just like my normal cookie recipe, but you use red and green chocolate candies instead of chocolate chips.^If you want to add a fun little twist, you can use peanut butter chocolate candies, too!^    -Evelyn",
+
+// Titles
+
+"icedchristmastree.title": "Iced Christmas Tree Cookie Recipe",
+"iceddecoratedchristmastree.title": "Iced Decorated Christmas Tree Cookie Recipe",
+"icedgreenchristmastree.title": "Iced Green Christmas Tree Cookie Recipe",
+"jamfilledcookie.title": "Jam-Filled Cookie Recipe",
+"mittencookie.title": "Mitten Shaped Cookie Recipe",
+"pufferchickcookie.title": "Pufferchick Cookie Recipe",
+"snowmancookie.title": "Snowman Cookie Recipe",
+"hollydecoratedcookie.title": "Holly Decorated Cookie Recipe",
+"snowmanscenerycookie.title": "Snowman Scenery Cookie Recipe",
+"stardropcookie.title": "Stardrop Shaped Cookie Recipe",
+"stockingcookie.title": "Stocking Shaped Cookie Recipe",
+"christmaschocolatecandiecookies.title": "Christmas Chocolate Candie Cookies Recipe"
+
 }
 

@@ -2,7 +2,7 @@
 	{
 		"Id": "ppja.icedchristmastreerecipe",
 		"GroupID": "ChristmasSweets.RandomCookieRecipe",
-		"Title": "Iced Christmas Tree Recipe",
+		"Title": "icedchristmastreerecipe.title",
 		"Text": "icedchristmastree.text",
 		"Recipe": "Iced Christmas Tree",
 		"WhichBG": 2,
@@ -18,7 +18,7 @@
 	{
 		"Id": "ppja.icedecoratedchristmastree",
 		"GroupID": "ChristmasSweets.RandomCookieRecipe",
-		"Title": "Iced Decorated Christmas Tree Recipe",
+		"Title": "icedecoratedchristmastree.title",
 		"Text": "iceddecoratedchristmastree.text",
 		"Recipe": "Iced Decorated Christmas Tree",
 		"WhichBG": 2,
@@ -34,7 +34,7 @@
 	{
 		"Id": "ppja.icedgreenchristmastree",
 		"GroupID": "ChristmasSweets.RandomCookieRecipe",
-		"Title": "Iced Green Christmas Tree Recipe",
+		"Title": "icedgreenchristmastree.title",
 		"Text": "icedgreenchristmastree.text",
 		"Recipe": "Iced Green Christmas Tree",
 		"WhichBG": 2,
@@ -50,7 +50,7 @@
 	{
 		"Id": "ppja.jamfilledcookie",
 		"GroupID": "ChristmasSweets.RandomCookieRecipe",
-		"Title": "Jam-Filled Cookie Recipe",
+		"Title": "jamfilledcookie.title",
 		"Text": "jamfilledcookie.text",
 		"Recipe": "Jam-Filled Cookie",
 		"WhichBG": 2,
@@ -66,7 +66,7 @@
 	{
 		"Id": "ppja.mittencookie",
 		"GroupID": "ChristmasSweets.RandomCookieRecipe",
-		"Title": "Mitten Cookie Recipe",
+		"Title": "mittencookie.title",
 		"Text": "mittencookie.text",
 		"Recipe": "Mitten Cookie",
 		"WhichBG": 2,
@@ -82,7 +82,7 @@
 	{
 		"Id": "ppja.pufferchickcookie",
 		"GroupID": "ChristmasSweets.RandomCookieRecipe",
-		"Title": "Pufferchick Cookie Recipe",
+		"Title": "pufferchickcookie.title",
 		"Text": "pufferchickcookie.text",
 		"Recipe": "Pufferchick Cookie",
 		"WhichBG": 2,
@@ -98,7 +98,7 @@
 	{
 		"Id": "ppja.snowmancookie",
 		"GroupID": "ChristmasSweets.RandomCookieRecipe",
-		"Title": "Snowman Cookie Recipe",
+		"Title": "snowmancookie.title",
 		"Text": "snowmancookie.text",
 		"Recipe": "Snowman Cookie",
 		"WhichBG": 2,
@@ -114,7 +114,7 @@
 	{
 		"Id": "ppja.holydecoratedcookie",
 		"GroupID": "ChristmasSweets.RandomCookieRecipe",
-		"Title": "Holly Decorated Cookie Recipe",
+		"Title": "holydecoratedcookie.title",
 		"Text": "hollydecoratedcookie.text",
 		"Recipe": "Holly Decorated Cookie",
 		"WhichBG": 2,
@@ -130,7 +130,7 @@
 	{
 		"Id": "ppja.snowmanscenerycookie",
 		"GroupID": "ChristmasSweets.RandomCookieRecipe",
-		"Title": "Snowman Scenery Cookie Recipe",
+		"Title": "snowmanscenerycookie.title",
 		"Text": "snowmanscenerycookie.text",
 		"Recipe": "Snowman Scenery Cookie",
 		"WhichBG": 2,
@@ -146,7 +146,7 @@
 	{
 		"Id": "ppja.stardrop",
 		"GroupID": "ChristmasSweets.RandomCookieRecipe",
-		"Title": "Stardrop Cookie Recipe",
+		"Title": "stardropcookie.title",
 		"Text": "stardropcookie.text",
 		"Recipe": "Stardrop Cookie",
 		"WhichBG": 2,
@@ -162,7 +162,7 @@
 	{
 		"Id": "ppja.stockingcookie",
 		"GroupID": "ChristmasSweets.RandomCookieRecipe",
-		"Title": "Stocking Cookie Recipe",
+		"Title": "stockingcookie.title",
 		"Text": "stockingcookie.text",
 		"Recipe": "Stocking Cookie",
 		"WhichBG": 2,
@@ -178,7 +178,7 @@
 	{
 		"Id": "ppja.christmaschocolatecandiecookies",
 		"GroupID": "ChristmasSweets.RandomCookieRecipe",
-		"Title": "Christmas Chocolate Candie Cookies Recipe",
+		"Title": "christmaschocolatecandiecookies.title",
 		"Text": "christmaschocolatecandiecookies.text",
 		"Recipe": "Christmas Chocolate Candie Cookies",
 		"WhichBG": 2,
