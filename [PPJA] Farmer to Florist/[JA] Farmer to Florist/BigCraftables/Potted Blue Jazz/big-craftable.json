@@ -1,50 +1,52 @@
 {
-  "Name": "Potted Blue Jazz",
-  "Description": "A blue jazz potted in a little wooden pot. Remember to water it!",
-  "Price": 1,
-  "ProvidesLight": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 597,
-        "Count": 1,
-      },
-	  {
-		  "Object": 388,
-		  "Count": 10
-	  },
-	  {
-		  "Object": 330,
-		  "Count": 10
-	  },
-    ],
-	  "CanPurchase": false, 
-  },
-   "NameLocalization": { 
-    "es": "Jazz azul en maceta",
-    "ko": "실내용 화초 블루 재즈",
-    "de": "Eingemachter Blue Jazz",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",,
-     //"ja": "",
-    "pt": "Vaso de Jasmins Azuis",
-    "ru": "Синий яркоцвет в горшке",
-     //"tr": "",
-    "zh": "蓝爵士盆栽",
-     },
- "DescriptionLocalization": { 
-    "es": "Un jazz azul en una pequeña maceta de madera. ¡Recuerda regarlo!",
-    "ko": "작은 나무 화분에 심겨진 블루 재즈입니다. 물을 줘야 합니다.",
-    "de": "Ein Blue Jazz in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",,
-     //"ja": "",
-    "pt": "Uma jasmim azul em um vaso pequeno de madeira. Lembre-se sempre de regá-la!",
-    "ru": "Синий яркоцвет в маленьком деревянном горшочке. Не забывайте поливать!",
-     //"tr": "",
-    "zh": "一个小木盆里的蓝爵士。记得给它浇水！",
+    "Name": "Potted Blue Jazz",
+    "Description": "A blue jazz potted in a little wooden pot. Remember to water it!",
+    "Price": 1,
+    "ProvidesLight": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 597,
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 10
+        },
+        {
+            "Object": 330,
+            "Count": 10
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Jazz azul en maceta",
+        "ko": "실내용 화초 블루 재즈",
+        "de": "Eingemachter Blue Jazz",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        "pt": "Vaso de Jasmins Azuis",
+        "ru": "Синий яркоцвет в горшке",
+        //"tr": "",
+        "zh": "蓝爵士盆栽",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un jazz azul en una pequeña maceta de madera. ¡Recuerda regarlo!",
+        "ko": "작은 나무 화분에 심겨진 블루 재즈입니다. 물을 줘야 합니다.",
+        "de": "Ein Blue Jazz in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        "pt": "Uma jasmim azul em um vaso pequeno de madeira. Lembre-se sempre de regá-la!",
+        "ru": "Синий яркоцвет в маленьком деревянном горшочке. Не забывайте поливать!",
+        //"tr": "",
+        "zh": "一个小木盆里的蓝爵士。记得给它浇水！",
     }
 }
