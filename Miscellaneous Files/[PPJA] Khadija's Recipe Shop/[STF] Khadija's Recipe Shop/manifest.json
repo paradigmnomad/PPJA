@@ -5,7 +5,7 @@
   "Description": "Shop for selling modded recipes, materials, and objects from JA packs.",
   "UniqueID": "ppja.recipeshop",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [ "5245" ],
+  "UpdateKeys": [ "Nexus:5245" ],
   "Dependencies": [
     {
       "UniqueID": "ppja.TMX.KRS"
