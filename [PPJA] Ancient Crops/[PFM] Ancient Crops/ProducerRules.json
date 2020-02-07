@@ -19,9 +19,9 @@
 		"KeepInputQuanlity": false, 
 		"OutputQuality": 0, 
 		"OutputStack": 1, 
-		"Sounds": ["Ship"], 
-		"PlacingAnimation": null, 
-		"PlacingAnimationColorName": "White", 
+		"Sounds": ["Ship","bubbles"],
+		"PlacingAnimation": "bubbles", 
+		"PlacingAnimationColorName": "Black", 
 	},
 
 	// Butter Churn
@@ -65,8 +65,8 @@
 		"KeepInputQuanlity": false, 
 		"OutputQuality": 0, 
 		"OutputStack": 1, 
-		"Sounds": ["Ship"], 
-		"PlacingAnimation": null, 
+		"Sounds": ["sipTea","bubbles"],  
+		"PlacingAnimation": "bubbles", 
 		"PlacingAnimationColorName": "White", 
 	},
 	{
@@ -85,9 +85,9 @@
 		"KeepInputQuanlity": false, 
 		"OutputQuality": 0, 
 		"OutputStack": 1, 
-		"Sounds": ["Ship"], 
-		"PlacingAnimation": null, 
-		"PlacingAnimationColorName": "White", 
+		"Sounds": ["sipTea","bubbles"], 
+		"PlacingAnimation": "bubbles", 
+		"PlacingAnimationColorName": "Green", 
 	},
 
 	// Grinder
