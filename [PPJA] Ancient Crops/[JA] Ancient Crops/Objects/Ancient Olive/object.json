@@ -9,7 +9,7 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Dwarf", "George", "Wizard", "Krobus", "Linus", "Lewis", "Evelyn"],
+        "Love": ["Dwarf", "Gregory", "Wizard", "Krobus", "Linus", "Lewis", "Evelyn"],
     },
     "NameLocalization":
     {
@@ -20,8 +20,8 @@
         //"hu": "",
         //"it": "",
         //"ja": "",
-        "pt": "Azeitona Antiga",
-        "ru": "Древняя оливка",
+        //"pt": "",
+        //"ru": "",
         //"tr": "",
         "zh": "远古橄榄"
     },
@@ -34,8 +34,8 @@
         //"hu": "",
         //"it": "",
         //"ja": "",
-        "pt": "Um antigo tipo de azeitona que cresce em plantas pequenas.",
-        "ru": "Древний вид оливок, растущий на небольших растениях",
+        //"pt": "",
+        //"ru": "",
         //"tr": "",
         "zh": "一种古老的橄榄，生长在一种小植物中。"
     },

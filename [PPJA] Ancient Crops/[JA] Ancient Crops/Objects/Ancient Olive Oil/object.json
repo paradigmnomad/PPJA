@@ -9,7 +9,7 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Gus", "Evelyn", "Marnie", "Caroline", "Lewis", "Jodi"],
+        "Love": ["Gus", "Evelyn", "Marnie", "Caroline", "Lewis", "Jody"],
     },
     "NameLocalization":
     {
@@ -20,8 +20,8 @@
         //"hu": "",
         //"it": "",
         //"ja": "",
-        "pt": "Azeite de Oliva Antigo",
-        "ru": "Древнее оливковое масло",
+        //"pt": "",
+        //"ru": "",
         //"tr": "",
         "zh": "远古橄榄油"
     },
@@ -34,8 +34,8 @@
         //"hu": "",
         //"it": "",
         //"ja": "",
-        "pt": "Este azeite de oliva extra-virgem tem mais sabor que qualquer outro que você já provou.",
-        "ru": "Вкус этого оливкового масла высшей категории в разы насыщеннее, чем у любого другого, что Вам доводилось пробовать",
+        //"pt": "",
+        //"ru": "",
         //"tr": "",
         "zh": "这种特级初榨橄榄油比你吃过的任何一种都更有味道。"
     },

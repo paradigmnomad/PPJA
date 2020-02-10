@@ -9,7 +9,7 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Dwarf", "George", "Wizard", "Krobus"],
+        "Love": ["Dwarf", "Gregory", "Wizard", "Krobus"],
     },
     "NameLocalization":
     {
@@ -20,8 +20,8 @@
         //"hu": "",
         //"it": "",
         //"ja": "",
-        "pt": "Tubérculo Antigo",
-        "ru": "Древний клубень",
+        //"pt": "",
+        //"ru": "",
         //"tr": "",
         "zh": "古老的根茎"
     },
@@ -34,8 +34,8 @@
         //"hu": "",
         //"it": "",
         //"ja": "",
-        "pt": "Este antecessor da batata era usado na alimentação de bichos-preguiça antigos durante milênios.",
-        "ru": "Этот предок картофеля тысячелетиями кормил древних ленивцеподобных животных.",
+        //"pt": "",
+        //"ru": "",
         //"tr": "",
         "zh": "这种根茎的祖先几千年来一直是古代树懒类动物的食物。"
     },
