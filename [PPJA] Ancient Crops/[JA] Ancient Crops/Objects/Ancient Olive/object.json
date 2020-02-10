@@ -9,7 +9,7 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Dwarf", "Gregory", "Wizard", "Krobus", "Linus", "Lewis", "Evelyn"],
+        "Love": ["Dwarf", "George", "Wizard", "Krobus", "Linus", "Lewis", "Evelyn"],
     },
     "NameLocalization":
     {
@@ -21,7 +21,7 @@
         //"it": "",
         //"ja": "",
         //"pt": "",
-        //"ru": "",
+        "ru": "Древняя оливка",
         //"tr": "",
         "zh": "远古橄榄"
     },
@@ -35,7 +35,7 @@
         //"it": "",
         //"ja": "",
         //"pt": "",
-        //"ru": "",
+        "ru": "Древний вид оливок, растущий на небольших растениях",
         //"tr": "",
         "zh": "一种古老的橄榄，生长在一种小植物中。"
     },
