@@ -1,7 +1,7 @@
 {
   "Name": "Khadija's Recipe Shop",
   "Author": "Project Populate Json Assets",
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "Description": "Adds a shop to the ice cream stand every season except summer, when it relocates to the desert.",
   "UniqueID": "ppja.TMX.KRS",
   "UpdateKeys": [ "Nexus:5245" ],

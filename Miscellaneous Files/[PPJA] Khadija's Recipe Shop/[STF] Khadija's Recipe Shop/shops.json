@@ -31,7 +31,9 @@
           		"Vanilla Extract",
           		"Buckwheat Flour",
           		"Buckwheat Noodles",
-              //"MelindaC.FizzyDrinks",
+              "Chinotto Extract",
+              "Birch Extract",
+              "Ginger Extract",
           	]
           },
           {
@@ -55,6 +57,9 @@
           		"Mint",
           		"Ginger",
           		"Onion",
+              "Black Tea Bag",
+              "Chewing Gum",
+              "Sesame Seeds",
           	]
           },
           {
@@ -82,6 +87,8 @@
                 "Bonster.Adv.Recipes",
                 "Bonster.Recipes",
                 "Zosa.eatums",
+                "Hadi.FrozenTreatsJA",
+                "Minakie.JA.recipes",
               ],
             },
             {
@@ -185,6 +192,7 @@
             "xiaobaishu.JA.fenjieji",
             "furyx639.ComposterJA",
             "Ritsune.BakersLifeJA",
+            "Hadi.FrozenTreatsJA",
           ],
         },
          {
@@ -199,6 +207,7 @@
             "xiaobaishu.JA.fenjieji",
             "furyx639.ComposterJA",
             "Ritsune.BakersLifeJA",
+            "Hadi.FrozenTreatsJA",
           ],
         },
         {
