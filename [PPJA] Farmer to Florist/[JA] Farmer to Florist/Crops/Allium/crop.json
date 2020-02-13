@@ -36,7 +36,7 @@
         "pt": "Semente de Alho Ornamental",
         "ru": "Семена декоративного лука",
          // "tr": "",
-        "zh": "青葱种子",
+        "zh": "大花葱种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -50,6 +50,6 @@
         "pt": "Plante-a no verão. Demoram 4 dias para nascer uma flor roxa",
         "ru": "Сажайте летом. Через 4 дня вырастает фиолетовый пушистый шарообразный цветок.",
          // "tr": "",
-        "zh": "夏天下种。4天后开出紫色的花。",
+        "zh": "夏天播种。4天后开出紫色的花。",
     }
 }
