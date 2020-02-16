@@ -4,7 +4,7 @@
    "Description": "Adds a clothing stand to purchase items from Json Assets.",
    "Version": "2.2.0",
    "UniqueID": "ppja.tailormouse",
-"MinimumApiVersion": "3.0.1",
+"MinimumApiVersion": "3.2.0",
    "ContentPackFor": {
        "UniqueID": "Pathoschild.ContentPatcher"
     },
