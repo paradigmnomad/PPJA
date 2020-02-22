@@ -18,38 +18,39 @@
         {
             "Object": "Peppermints",
             "Count": 1,
-        },],"IsDefault": true,
+        }, ],
+        "IsDefault": true,
     },
     "GiftTastes":
-    {        
+    {
         "Dislike": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Abigail", "Haley", "Maru", "Sebastian", "Evelyn", "Emily", "Krobus", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "페퍼민트 사탕지팡이",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Doces de Hortelã",
+        "pt": "Doces de Hortelã",
         // "ru": "",
         // "tr": "",
-         "zh": "薄荷手杖糖",
+        "zh": "薄荷手杖糖",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "부숴서 쿠키에 넣어도 좋습니다.",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Quebre-os e então eles ficarão ótimos em biscoitos!",
+        "pt": "Quebre-os e então eles ficarão ótimos em biscoitos!",
         // "ru": "",
         // "tr": "",
-         "zh": "把它们压碎，加入饼干里会很好吃的。",
+        "zh": "把它们压碎，加入饼干里会很好吃的。",
     }
 }

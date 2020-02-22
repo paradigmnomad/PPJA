@@ -43,29 +43,29 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "진저브레드 하우스",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Casa de Gengibre",
+        "pt": "Casa de Gengibre",
         // "ru": "",
         // "tr": "",
-         "zh": "姜饼屋",
+        "zh": "姜饼屋",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "크리스마스에 주로 굽는 생강빵으로 만든 집. 알록달록하게 꾸며져있다.",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Um homem-biscoito entra numa casa de gengibre. Sua casa é de carne ou ele é feito de casa???",
+        "pt": "Um homem-biscoito entra numa casa de gengibre. Sua casa é de carne ou ele é feito de casa???",
         // "ru": "",
         // "tr": "",
-         "zh": "一个姜饼人坐在他的姜饼屋里。他的房子是姜饼做的呢，还是他自身做的呢？",
+        "zh": "一个姜饼人坐在他的姜饼屋里。他的房子是姜饼做的呢，还是他自身做的呢？",
     }
 }

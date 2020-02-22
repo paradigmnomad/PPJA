@@ -23,42 +23,42 @@
             "Object": -5,
             "Count": 1,
         },
-{
+        {
             "Object": 344,
             "Count": 1,
-        },],
+        }, ],
     },
     "GiftTastes":
-    {        
-	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "잼을 채운 쿠키",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Maslenki",
+        "pt": "Maslenki",
         // "ru": "",
         // "tr": "",
-         "zh": "果酱饼干",
+        "zh": "果酱饼干",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "달콤한 잼으로 속을 채운 쿠키",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Um biscoito duro cheio de geléia deliciosa.",
+        "pt": "Um biscoito duro cheio de geléia deliciosa.",
         // "ru": "",
         // "tr": "",
-         "zh": "装满美味果酱的硬饼干。",
+        "zh": "装满美味果酱的硬饼干。",
     }
 }

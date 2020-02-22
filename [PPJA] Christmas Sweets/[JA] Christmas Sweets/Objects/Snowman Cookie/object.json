@@ -22,39 +22,39 @@
         {
             "Object": -5,
             "Count": 1,
-        },],
+        }, ],
     },
     "GiftTastes":
-    {        
-	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "눈사람 쿠키",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Biscoito de Boneco de Neve",
+        "pt": "Biscoito de Boneco de Neve",
         // "ru": "",
         // "tr": "",
-         "zh": "雪人饼干",
+        "zh": "雪人饼干",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "눈사람모양으로 장식한 딱딱한 쿠키",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Um biscoito duro decorado em formato de boneco de neve.",
+        "pt": "Um biscoito duro decorado em formato de boneco de neve.",
         // "ru": "",
         // "tr": "",
-         "zh": "一块雪人形状的硬饼干。",
+        "zh": "一块雪人形状的硬饼干。",
     }
 }

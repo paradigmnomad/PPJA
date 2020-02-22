@@ -19,10 +19,10 @@
             "Object": 384,
             "Count": 1,
         },
-{
+        {
             "Object": 380,
             "Count": 1,
-        },],
+        }, ],
         "IsDefault": true,
     },
     "GiftTastes":
@@ -35,29 +35,29 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "징글벨 케이크팝",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Pirulitos de Sino Natalino",
+        "pt": "Pirulitos de Sino Natalino",
         // "ru": "",
         // "tr": "",
-         "zh": "圣诞铃铛棒棒糖",
+        "zh": "圣诞铃铛棒棒糖",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "은색과 금색의 종 모양으로 장식된 초콜릿 케이크 팝.",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Dois alfajores decorados à aparência de sinos prateado e dourado.",
+        "pt": "Dois alfajores decorados à aparência de sinos prateado e dourado.",
         // "ru": "",
         // "tr": "",
-         "zh": "两个装饰得像银铃和金铃的巧克力蛋糕棒棒糖。",
+        "zh": "两个装饰得像银铃和金铃的巧克力蛋糕棒棒糖。",
     }
 }

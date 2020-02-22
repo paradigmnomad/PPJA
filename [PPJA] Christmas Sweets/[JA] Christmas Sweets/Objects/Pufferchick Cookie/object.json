@@ -22,39 +22,39 @@
         {
             "Object": -5,
             "Count": 1,
-        },],
+        }, ],
     },
     "GiftTastes":
-    {        
-	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "복어닭 쿠키",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Biscoito de Frango de Pelúcia",
+        "pt": "Biscoito de Frango de Pelúcia",
         // "ru": "",
         // "tr": "",
-         "zh": "豚鸡饼干",
+        "zh": "豚鸡饼干",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "복어닭모양으로 장식한 딱딱한 쿠키",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Um biscoito duro decorado em formato de frango de pelúcia.",
+        "pt": "Um biscoito duro decorado em formato de frango de pelúcia.",
         // "ru": "",
         // "tr": "",
-         "zh": "嗯，如你所见，一个外形酷似游戏吉祥物豚鸡的饼干。",
+        "zh": "嗯，如你所见，一个外形酷似游戏吉祥物豚鸡的饼干。",
     }
 }

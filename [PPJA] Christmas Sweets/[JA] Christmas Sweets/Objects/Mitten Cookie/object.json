@@ -22,39 +22,39 @@
         {
             "Object": -5,
             "Count": 1,
-        },],
+        }, ],
     },
     "GiftTastes":
-    {        
-	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "장갑 쿠키",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Biscoito de Luva",
+        "pt": "Biscoito de Luva",
         // "ru": "",
         // "tr": "",
-         "zh": "圣诞手套饼干",
+        "zh": "圣诞手套饼干",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "장갑모양으로 장식한 딱딱한 쿠키",
         // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Um biscoito duro decorado em forma de luva.",
+        "pt": "Um biscoito duro decorado em forma de luva.",
         // "ru": "",
         // "tr": "",
-         "zh": "一块圣诞手套形状的硬饼干。",
+        "zh": "一块圣诞手套形状的硬饼干。",
     }
 }
