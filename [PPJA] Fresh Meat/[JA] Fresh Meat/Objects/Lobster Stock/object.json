@@ -1,0 +1,75 @@
+{
+    "Name": "Lobster Stock",
+    "Description": "Stewed down chicken broth that's often used as a base for soup.",
+    "Category": "Cooking",
+    "Edibility": 66,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 460,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Harvey"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Willy", "Wizard"],
+        "Neutral": ["Emily", "Leah", "Marnie"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Shane", "Vincent"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 715,
+            "Count": 4,
+        },
+	{
+            "Object": 247,
+            "Count": 1,
+        },
+        {
+            "Object": 348,
+            "Count": 1,
+        },
+        {
+            "Object": 20,
+            "Count": 2,
+        },
+        {
+            "Object": 248,
+            "Count": 6,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2460,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        // "zh": "",
+    }
+}
