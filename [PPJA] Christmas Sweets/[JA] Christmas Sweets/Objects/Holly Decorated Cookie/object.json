@@ -39,8 +39,13 @@
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Verzierter Keks",
+=======
         "ko": "호랑가시나무 장식 쿠키",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -53,8 +58,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Das Dekorieren dauerte nur ein paar Stunden, aber jetzt haben Sie einen wunderschön dekorierten Keks.",
+=======
         "ko": "호랑가시나무 모양으로 장식된 아름다운 쿠키.",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",

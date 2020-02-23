@@ -43,8 +43,13 @@
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Gefrorener verzierter Weihnachtsbaum",
+=======
         "ko": "장식된 크리스마스 트리 쿠키",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -57,8 +62,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Es sieht irgendwie aus wie ein Weihnachtsbaum. Dieser hat Ornamente drauf.",
+=======
         "ko": "색색으로 장식된 트리모양 쿠키",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",

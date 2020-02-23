@@ -35,8 +35,13 @@
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Jingle Bells Schokoladenkuchen - Kugeln",
+=======
         "ko": "징글벨 케이크팝",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -49,8 +54,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Zwei Schokoladenkuchen-Kugeln, die so dekoriert sind, dass sie wie Silber- und Goldglocken aussehen.",
+=======
         "ko": "은색과 금색의 종 모양으로 장식된 초콜릿 케이크 팝.",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",

@@ -31,8 +31,13 @@
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Heiße Pfefferminzschokolade",
+=======
         "ko": "페퍼민트 핫초코",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -45,8 +50,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Es gibt nichts schöneres, als an einem kalten Tag in eine Decke, mit einer schönen, warmen, heißen Schokolade gekuschelt zu sein.",
+=======
         "ko": "추운 날 이불 속에서 마시는 핫초코만큼 따뜻한 것이 없죠.",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",

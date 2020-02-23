@@ -30,14 +30,23 @@
     },
     "GiftTastes":
     {
+<<<<<<< HEAD
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+=======
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Mit Marmelade gefüllter Keks",
+=======
         "ko": "잼을 채운 쿠키",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -50,8 +59,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Ein harter Keks gefüllt mit leckerer Marmelade.",
+=======
         "ko": "달콤한 잼으로 속을 채운 쿠키",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",

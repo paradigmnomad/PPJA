@@ -28,8 +28,13 @@
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Pfefferminz-Zuckerstange",
+=======
         "ko": "페퍼민트 사탕지팡이",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -42,8 +47,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Zerquetsche sie und sie passen hervorragend zu Keksen.",
+=======
         "ko": "부숴서 쿠키에 넣어도 좋습니다.",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",

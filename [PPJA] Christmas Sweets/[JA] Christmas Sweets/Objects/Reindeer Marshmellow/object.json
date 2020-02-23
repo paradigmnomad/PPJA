@@ -34,8 +34,13 @@
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Rentier Marshmellow",
+=======
         "ko": "순록 마쉬멜로우",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -48,8 +53,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Ein in Schokolade getauchter Marshmellow mit Brezelgeweih. Es ist ein süßer Genuss!",
+=======
         "ko": "초코를 입힌 마시멜로에 프레첼 뿔이 났습니다. 귀여워서 어떻게 먹죠?",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",

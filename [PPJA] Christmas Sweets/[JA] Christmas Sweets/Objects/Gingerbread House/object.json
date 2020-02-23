@@ -43,8 +43,13 @@
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Lebkuchenhaus",
+=======
         "ko": "진저브레드 하우스",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -57,8 +62,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Ein Lebkuchenmann sitzt in seinem Lebkuchenhaus. Ist sein Haus aus Lebkuchen oder ist er aus Lebkuchen?",
+=======
         "ko": "크리스마스에 주로 굽는 생강빵으로 만든 집. 알록달록하게 꾸며져있다.",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",

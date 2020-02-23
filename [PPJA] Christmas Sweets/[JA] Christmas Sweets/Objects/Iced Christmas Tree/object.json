@@ -1,6 +1,6 @@
 {
     "Name": "Iced Christmas Tree",
-    "Description": "It kinda looks like a Christmas tree.",
+    "Description": "Es sieht irgendwie aus wie ein Weihnachtsbaum.",
     "Category": "Cooking",
     "Edibility": 48,
     "EdibleIsDrink": false,
@@ -39,8 +39,13 @@
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Gefrorener Weihnachtsbaum",
+=======
         "ko": "크리스마스 트리 쿠키",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -53,8 +58,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Es sieht irgendwie aus wie ein Weihnachtsbaum.",
+=======
         "ko": "트리모양 쿠키",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",

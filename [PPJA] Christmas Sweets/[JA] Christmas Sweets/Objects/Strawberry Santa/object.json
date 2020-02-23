@@ -31,8 +31,13 @@
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Erdbeer Santa",
+=======
         "ko": "딸기 산타",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -45,8 +50,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Eine reife Erdbeere, die so dekoriert ist, dass sie wie der Weihnachtsmann aussieht!",
+=======
         "ko": "잘 익은 딸기를 산타모양으로 장식했습니다!",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",

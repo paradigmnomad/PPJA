@@ -40,8 +40,13 @@
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Fruchtkuchen",
+=======
         "ko": "과일케이크",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -54,8 +59,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Das schlimmste Geschenk ist ein Obstkuchen. Es gibt nur einen Obstkuchen auf der ganzen Welt, und die Leute schicken ihn sich gegenseitig.",
+=======
         "ko": "과일케이크는 선물론 최악이야. 다들 선물 돌려막기용으로 쓰거든!",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",

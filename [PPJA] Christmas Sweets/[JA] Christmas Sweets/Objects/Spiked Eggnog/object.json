@@ -57,8 +57,13 @@
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Eierlikör mit Schuss",
+=======
         "ko": "에그노그",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -71,8 +76,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Ein Getränk, das traditionell während der Winter Star-Saison konsumiert wird. Dieses Rezept erfordert Bourbon",
+=======
         "ko": "크리스마스 시즌에 마시는 전통음료. 버번이 들어간다.",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -82,5 +92,10 @@
         // "tr": "",
         "zh": "在冬日星盛宴期间饮用的传统饮料。这个食谱需要波本威士忌。",
     },
+<<<<<<< HEAD
+"EnableWithMod": "ppja.artisanvalleymachinegoods",
+}
+=======
     "EnableWithMod": "ppja.artisanvalleymachinegoods",
 }
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc

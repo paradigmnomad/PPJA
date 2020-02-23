@@ -43,8 +43,13 @@
     "NameLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Gefrorener grüner Weihnachtsbaum",
+=======
         "ko": "녹색 크리스마스 트리",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -57,8 +62,13 @@
     "DescriptionLocalization":
     {
         // "es": "",
+<<<<<<< HEAD
+        // "ko": "",
+         "de": "Es sieht irgendwie aus wie ein Weihnachtsbaum - mit einem Schuss grüner Glasur.",
+=======
         "ko": "녹색아이싱으로 장식한 트리모양 쿠키",
         // "de": "",
+>>>>>>> 0ff5770dd0d18dbd445ea13529cfbe6a5519eefc
         // "fr": "",
         // "hu": "",
         // "it": "",
