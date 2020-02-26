@@ -1,0 +1,52 @@
+﻿[
+    // Canning Machine   
+
+    {
+        "ProducerName": "Canning Machine",
+        "InputIdentifier": "-79",
+        "InputStack": 1,
+        "ExcludeIdentifiers": ["398"],
+        "MinutesUntilReady": 2250,
+        "OutputIdentifier": "Dried Fruit",
+        "OutputName": "Canned {inputName}",
+        "OutputTranslationKey": "CanningMachine.Fish",
+        "InputPriceBased": true,
+        "OutputPriceIncrement": 0,
+        "OutputPriceMultiplier": 2,
+        "Sounds": ["Ship"],
+    },
+   
+   // DNA Synthesizer
+
+   {
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "-79",
+        "InputStack": 1,
+        "ExcludeIdentifiers": ["398"],
+        "MinutesUntilReady": 2250,
+        "OutputIdentifier": "Dried Fruit",
+        "OutputName": "{inputName} DNA",
+        "OutputTranslationKey": "DNASynthesizer.AnimalGoods",
+        "InputPriceBased": true,
+        "OutputPriceIncrement": 0,
+        "OutputPriceMultiplier": 2,
+        "Sounds": ["powerup"],
+    },
+
+    // Meat Press
+
+    {
+        "ProducerName": "Meat Press",
+        "InputIdentifier": "-79",
+        "InputStack": 1,
+        "ExcludeIdentifiers": ["398"],
+        "MinutesUntilReady": 2250,
+        "OutputIdentifier": "Dried Fruit",
+        "OutputName": "{inputName} DNA",
+        "OutputTranslationKey": "DNASynthesizer.AnimalGoods",
+        "InputPriceBased": true,
+        "OutputPriceIncrement": 0,
+        "OutputPriceMultiplier": 2,
+        "Sounds": ["fishSlap"],
+    },
+]

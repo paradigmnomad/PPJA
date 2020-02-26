@@ -9,12 +9,7 @@
 		"InputPriceBased": true,
 		"OutputPriceIncrement": 25,
 		"OutputPriceMultiplier": 1.35,
-		"KeepInputQuality": false,
-		"OutputQuality": 0,
-		"OutputStack": 1,
 		"Sounds": ["Ship"],
-		"PlacingAnimation": null,
-		"PlacingAnimationColorName": "White"
 	},
 	{
 		"ProducerName": "Dryer",
@@ -26,12 +21,7 @@
 		"InputPriceBased": true,
 		"OutputPriceIncrement": 25,
 		"OutputPriceMultiplier": 1.85,
-		"KeepInputQuality": false,
-		"OutputQuality": 0,
-		"OutputStack": 1,
 		"Sounds": ["Ship"],
-		"PlacingAnimation": null,
-		"PlacingAnimationColorName": "White"
 	},
 	{
 		"ProducerName": "Dryer",
@@ -40,16 +30,10 @@
 		"MinutesUntilReady": 2000,
 		"OutputIdentifier": "Tea Bag",
 		"OutputName": "{inputName} Tea Bag",
-		"PreserveType": null,
 		"InputPriceBased": true,
 		"OutputPriceIncrement": 25,
 		"OutputPriceMultiplier": 2,
-		"KeepInputQuality": false,
-		"OutputQuality": 0,
-		"OutputStack": 1,
 		"Sounds": ["Ship"],
-		"PlacingAnimation": null,
-		"PlacingAnimationColorName": "White"
 	},
 	{
 		"ProducerName": "Perfumery",
@@ -61,9 +45,6 @@
 		"InputPriceBased": true,
 		"OutputPriceIncrement": 75,
 		"OutputPriceMultiplier": 2.25,
-		"KeepInputQuality": false,
-		"OutputQuality": 0,
-		"OutputStack": 1,
 		"Sounds": ["Ship", "bubbles"],
 		"PlacingAnimation": "Bubbles",
 		"PlacingAnimationColorName": "White"
@@ -80,9 +61,6 @@
 		"InputPriceBased": true,
 		"OutputPriceIncrement": 150,
 		"OutputPriceMultiplier": 1.45,
-		"KeepInputQuality": false,
-		"OutputQuality": 0,
-		"OutputStack": 1,
 		"Sounds": ["Ship"],
 		"PlacingAnimation": "Bubbles",
 		"PlacingAnimationColorName": "White"
@@ -99,9 +77,6 @@
 		"InputPriceBased": true,
 		"OutputPriceIncrement": 75,
 		"OutputPriceMultiplier": 1.45,
-		"KeepInputQuality": false,
-		"OutputQuality": 0,
-		"OutputStack": 1,
 		"Sounds": ["Ship"],
 		"PlacingAnimation": "Bubbles",
 		"PlacingAnimationColorName": "White"

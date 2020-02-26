@@ -3,6 +3,15 @@
 		"ProducerName": "Alembic", //Name of the producer
 		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
 		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"DisableBouncingAnimationWhileWorking": true,
+		"ProducingAnimation": { 
+            "RelativeFrameIndex": [1,2,3,4,5,6], 
+            "FrameInterval": 10 
+        },
+        "ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [7],
+   		},
 	},
 	{
 		"ProducerName": "Butter Churn", //Only 1 frame
@@ -20,14 +29,32 @@
 		"AlternateFrameWhenReady": false, 
 	},
 	{
-		"ProducerName": "Espresso Machine", //Name of the producer
-		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
-		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"ProducerName": "Espresso Machine", 
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+		"DisableBouncingAnimationWhileWorking": true,
+		"ProducingAnimation": { 
+            "RelativeFrameIndex": [1,2,3,4,5,6], 
+            "FrameInterval": 10 
+        },
+        "ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [7],
+   		},
 	},
 	{
-		"ProducerName": "Extruder", //Name of the producer
-		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
-		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"ProducerName": "Extruder", 
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+		"DisableBouncingAnimationWhileWorking": true,
+		"ProducingAnimation": { 
+            "RelativeFrameIndex": [1,2,3,4,5,6], 
+            "FrameInterval": 10 
+        },
+        "ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [7],
+   		},
 	},
 	{
 		"ProducerName": "Foreign Cask", //Only 1 frame
@@ -45,14 +72,23 @@
 		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
 	},
 	{
-		"ProducerName": "Ice Cream Machine", //Name of the producer
-		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
-		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"ProducerName": "Ice Cream Machine", 
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+		"DisableBouncingAnimationWhileWorking": true,
+		"ProducingAnimation": { 
+            "RelativeFrameIndex": [1,2,3,4,5,6], 
+            "FrameInterval": 10 
+        },
+        "ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [7],
+   		},
 	},
 	{
 		"ProducerName": "Infuser", //Name of the producer
-		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
-		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"AlternateFrameProducing": true, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": true, //If the producer should use the alternate frame and ready for harvest.
 	},
 	{
 		"ProducerName": "Juicer", //Only 1 frame
@@ -60,19 +96,37 @@
 		"AlternateFrameWhenReady": false, 
 	},
 	{
-		"ProducerName": "Pepper Blender", //Name of the producer
-		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
-		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"ProducerName": "Pepper Blender", 
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false,
+		"DisableBouncingAnimationWhileWorking": true,
+		"ProducingAnimation": { 
+            "RelativeFrameIndex": [1,2,3,4,5,6], 
+            "FrameInterval": 10 
+        },
+        "ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [7],
+   		},
 	},
 	{
 		"ProducerName": "Smoker", //Name of the producer
-		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
-		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"AlternateFrameProducing": true, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": true, //If the producer should use the alternate frame and ready for harvest.
 	},
 	{
-		"ProducerName": "Soap Press", //Name of the producer
-		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
-		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"ProducerName": "Soap Press", 
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false,
+		"DisableBouncingAnimationWhileWorking": true,
+		"ProducingAnimation": { 
+            "RelativeFrameIndex": [1,2,3,4,5,6], 
+            "FrameInterval": 10 
+        },
+        "ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [7],
+   		},
 	},
 	{
 		"ProducerName": "Still", //Only 1 frame
@@ -86,12 +140,12 @@
 	},
 	{
 		"ProducerName": "Wax Barrel", //Name of the producer
-		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
-		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"AlternateFrameProducing": true, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": true, //If the producer should use the alternate frame and ready for harvest.
 	},
 	{
 		"ProducerName": "Yogurt Jar", //Name of the producer
-		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
-		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"AlternateFrameProducing": true, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": true, //If the producer should use the alternate frame and ready for harvest.
 	},
 ]
