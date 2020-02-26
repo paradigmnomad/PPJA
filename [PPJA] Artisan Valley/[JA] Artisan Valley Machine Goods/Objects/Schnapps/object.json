@@ -19,7 +19,7 @@
         "Duration": 180,
     },
     "Price": 300,
-    "IsColored": false,
+    "IsColored": true,
     "Recipe": null,
     "GiftTastes":
     {

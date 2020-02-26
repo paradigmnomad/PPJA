@@ -4,7 +4,7 @@
     "Category": "ArtisanGoods",
     "Edibility": -300,
     "Price": 175,
-    "IsColored": false,
+    "IsColored": true,
     "Recipe": null,
     "GiftTastes":
     {
