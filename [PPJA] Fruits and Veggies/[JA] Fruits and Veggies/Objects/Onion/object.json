@@ -40,5 +40,11 @@
         "ru": "Будьте осторожны при резке!",
          // "tr": "",
         "zh": "切它的时候小心点！",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_light_brown",
+        "color_white",
+        "vegetable_item",
+    ],
 }

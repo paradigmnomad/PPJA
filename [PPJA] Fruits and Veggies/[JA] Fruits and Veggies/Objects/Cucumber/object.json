@@ -38,5 +38,11 @@
         "ru": "Вкусная водянистая закуска.",
          // "tr": "",
         "zh": "这是一种美味多汁的零嘴小吃。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_green",
+        "vegetable_item",
+        "crop_year_2",
+    ],
 }

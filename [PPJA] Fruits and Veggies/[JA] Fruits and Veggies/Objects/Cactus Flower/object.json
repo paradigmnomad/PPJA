@@ -38,5 +38,13 @@
         "ru": "Красивый цветок кактуса.",
          // "tr": "",
           "zh": "一朵盛开的仙人掌花。",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "season_fall",
+        "color_pink",
+        "flower_item",
+        "crop_year_3",
+    ],
 }

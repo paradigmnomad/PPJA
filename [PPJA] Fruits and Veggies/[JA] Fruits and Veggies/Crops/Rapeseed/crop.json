@@ -3,7 +3,7 @@
     "Product": "Rapeseed Flower",
     "SeedName": "Rapeseed Seeds",
     "SeedDescription": "Plant these in spring or summer. Takes 8 days to mature.",
-    "Type": "ArtisanGoods",
+    "Type": "Flower",
 
     "Seasons": ["spring", "summer"],
     "Phases": [1, 2, 1, 2, 2],

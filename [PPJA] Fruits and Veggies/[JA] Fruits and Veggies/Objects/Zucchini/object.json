@@ -40,5 +40,11 @@
         "ru": "Родственник кабачков. Очень вкусный после обжарки.",
         // "tr": "",
         "zh": "南瓜的近亲，用来做菜。烤的时候味道很好。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_green",
+        "vegetable_item",
+        "crop_year_3",
+    ],
 }

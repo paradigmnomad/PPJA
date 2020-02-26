@@ -39,5 +39,12 @@
         "ru": "Вкуснее с щепоткой соли.",
          // "tr": "",
         "zh": "加一点盐，味道会更好。",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_tan",
+        "color_orange",
+        "fruit_item",
+        "crop_year_2",
+    ],
 }

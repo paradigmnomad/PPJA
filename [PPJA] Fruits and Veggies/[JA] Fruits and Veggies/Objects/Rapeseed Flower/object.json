@@ -42,5 +42,12 @@
         "ru": "Цветок рапсового растения.",
         // "tr": "",
         "zh": "油菜开的花。",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "color_yellow",
+        "flower_item",
+        "crop_year_3",
+    ],
 }

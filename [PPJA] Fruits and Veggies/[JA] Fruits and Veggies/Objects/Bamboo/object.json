@@ -33,5 +33,12 @@
         "ru": "Побеги этого растения съедобны. Растет невероятно быстро.",
         // "tr": "",
         "zh": "这种植物的嫩芽是可食用的。它长得非常快。",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "color_yellow_green",
+        "vegetable_item",
+        "crop_year_4",
+    ],
 }

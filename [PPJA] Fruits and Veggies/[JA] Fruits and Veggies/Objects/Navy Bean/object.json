@@ -38,5 +38,10 @@
         "ru": "Горсть фасоли.",
          // "tr": "",
         "zh": "一把菜豆。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_light_pink",
+        "vegetable_item",
+    ],
 }

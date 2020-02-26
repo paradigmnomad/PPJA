@@ -39,5 +39,11 @@
         "ru": "Её молодые побеги исползуются как весенний овощ.",
         // "tr": "",
         "zh": "它的嫩芽用作春季蔬菜",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_green",
+        "vegetable_item",
+        "crop_year_4",
+    ],
 }

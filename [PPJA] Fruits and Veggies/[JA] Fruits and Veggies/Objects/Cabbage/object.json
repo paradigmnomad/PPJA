@@ -38,5 +38,11 @@
         "ru": "Вы когда-нибудь пробовали играть в боулинг капустой?",
          // "tr": "",
         "zh": "你吃过一整碗卷心菜吗？",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_fall",
+        "color_green",
+        "vegetable_item",
+    ],
 }

@@ -40,5 +40,11 @@
         "ru": "Похожа на обычную тыкву, но со сладким, будто ореховым, вкусом.",
         // "tr": "",
         "zh": "它有一种甜甜的坚果味，类似于南瓜的味道。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_pale_yellow",
+        "vegetable_item",
+        "crop_year_3",
+    ],
 }
