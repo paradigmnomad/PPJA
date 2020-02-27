@@ -34,7 +34,7 @@
         "pt": "Iniciador de Cânhamo",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "工业大麻种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -48,6 +48,6 @@
         "pt": "Plante-a na primavera, verão ou outono. Leva 8 dias para amadurecer e continua produzindo a cada 2 dias",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "春天、夏天或秋天播种。8天成熟，之后每两天收获一次。",
     }
 }

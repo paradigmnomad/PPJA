@@ -55,7 +55,7 @@
          "pt": "Pau de Mel",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "蜂蜜棒",
     },
     "DescriptionLocalization":
     {
@@ -69,6 +69,6 @@
          "pt": "Mel doce e pegajoso.",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "甜而黏的蜂蜜。",
     }
 }

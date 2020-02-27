@@ -55,7 +55,7 @@
         "pt": "Brownie de Maconha",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "大麻布朗尼",
     },
     "DescriptionLocalization":
     {
@@ -69,6 +69,6 @@
         "pt": "Alguém não gostou muito de todo deste brownie.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "这个布朗尼有些不对劲。",
     }
 }

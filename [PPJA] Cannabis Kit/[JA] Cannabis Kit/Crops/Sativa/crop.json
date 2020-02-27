@@ -34,7 +34,7 @@
          "pt": "Iniciador de Sativa",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "苜蓿大麻种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -48,6 +48,6 @@
          "pt": "Plante-as no outono. Leva 13 dias para amadurecer e continua a produzir a cada 3 dias.",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "夏天或秋天播种。13天成熟，之后每3天收获一次。",
     }
 }

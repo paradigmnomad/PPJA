@@ -24,7 +24,7 @@
          "pt": "Cânhamo",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "工业大麻",
     },
     "DescriptionLocalization":
     {
@@ -38,7 +38,7 @@
          "pt": "Uma variante das espécies de maconha que não interfere no THC. Pode ser usado em uma variedade de produtos industriais.",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "一种几乎不含四氢大麻酚的苜蓿大麻变种，可被用于各种各样的工业环境。",
     },
     "ContextTags": [
         "season_spring",
