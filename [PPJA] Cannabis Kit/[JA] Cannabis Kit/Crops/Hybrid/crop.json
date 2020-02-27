@@ -35,7 +35,7 @@
          // "pt": "Iniciador Híbrido",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "混合大麻",
     },
     "SeedDescriptionLocalization":
     {
@@ -49,6 +49,6 @@
          "pt": "Plante-o no verão ou outono. Leva 13 dias para amadurecer e continua produzindo a cada 3 dias.",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "夏天或秋天播种。13天成熟，之后每3天收获一次。",
     }
 }

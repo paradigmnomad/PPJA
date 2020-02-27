@@ -34,7 +34,7 @@
          "pt": "Iniciador de Crack Verde",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "绿色裂纹种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -48,6 +48,6 @@
          "pt": "Um forte sabor frutal de manga, é um bom relaxante diurno. Plante-o no verão ou outono. Leva 13 dias para amadurecer e continua produzindo a cada 3 dias.",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "带有强烈的芒果香气，适合白天使用的品系。夏天或秋天播种。13天成熟，之后每3天收获一次。",
     }
 }

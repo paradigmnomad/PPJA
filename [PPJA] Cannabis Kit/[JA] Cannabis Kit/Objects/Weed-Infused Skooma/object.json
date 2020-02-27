@@ -59,7 +59,7 @@
         // "pt": "Skooma Infundido em Ervas",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "大麻斯古玛",
     },
     "DescriptionLocalization":
     {
@@ -73,6 +73,6 @@
         "pt": "Provêm de uma terra cheia de dragões.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "它来自一片遍布着龙的大地。（可能出梗自上古卷轴）",
     }
 }

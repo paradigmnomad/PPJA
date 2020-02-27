@@ -26,7 +26,7 @@
          "pt": "Maconha",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "大麻",
     },
     "DescriptionLocalization":
     {
@@ -40,7 +40,7 @@
          "pt": "A Vila Pelicanos legalizou a maconha recentemente, agora Pierre vende as sementes como artigo de luxo.",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "鹈鹕镇最近合法化了大麻，可以在皮埃尔处高价购买种子。",
     },
     "ContextTags": [
         "season_spring",
