@@ -29,7 +29,7 @@
 
         "NameLocalization": //Used for localization. 
         { 
-            //"es": "", //Spansih
+            //"es": "", //Spanish
             "ko": "향수 제조기", //Korean
             //"de": "", //German
             //"fr": "", //French
@@ -43,7 +43,7 @@
         },
         "DescriptionLocalization": //Used for localization. 
         { 
-            //"es": "", //Spansih
+            //"es": "", //Spanish
             "ko": "꽃을 향수로 만들어줍니다.", //Korean
             //"de": "", //German
             //"fr": "", //French

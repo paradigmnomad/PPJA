@@ -30,7 +30,7 @@
 
         "NameLocalization": //Used for localization. 
         { 
-            //"es": "", //Spansih
+            //"es": "", //Spanish
             "ko": "건조기", //Korean
             //"de": "", //German
             //"fr": "", //French
@@ -44,7 +44,7 @@
         },
         "DescriptionLocalization": //Used for localization. 
         { 
-            //"es": "", //Spansih
+            //"es": "", //Spanish
             "ko": "말린 꽃과 잎을 차로 만들거나, 야채를 칩으로 만들 수 있습니다.", //Korean
             //"de": "", //German
             //"fr": "", //French
