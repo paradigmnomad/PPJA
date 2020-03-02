@@ -1,10 +1,10 @@
 ﻿{
 	"Name": "[PFM] Sweet Tooth - Artisan Valley Add-on",
 	"Author": "PPJA",
-	"Version": "1.0.2",
+	"Version": "1.0.3",
 	"Description": "Adds producing rules for Sweet Tooth products to Artisan Valley machines.",
 	"UniqueID": "PPJA.SweetToothAddOn",
-	"MinimumApiVersion": "3.0.0",
+	"MinimumApiVersion": "3.2.2",
 	"UpdateKeys": [],
 	"Dependencies": [
 		{
