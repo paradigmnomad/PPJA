@@ -1,6 +1,6 @@
 {
-    "Name": "DNA",
-    "Description": "Some animal DNA extracted from a product.",
+    "Name": "Cow DNA",
+    "Description": "Some cow DNA extracted from milk.",
     "Category": "AnimalGoods",
     "Edibility": -300,
     "Price": 85,

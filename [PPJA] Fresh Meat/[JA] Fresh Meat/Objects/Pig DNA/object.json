@@ -1,0 +1,43 @@
+{
+    "Name": "Pig DNA",
+    "Description": "Some pig DNA extracted from a truffle. You're not quite sure how this worked but it did.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 85,
+    "IsColored": false,
+    "GiftTastes":
+    {
+	"Love": ["Demetrius", "Maru"],
+	"Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+}
