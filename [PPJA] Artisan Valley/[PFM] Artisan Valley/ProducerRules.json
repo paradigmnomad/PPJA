@@ -1065,6 +1065,8 @@
         "ProducerName": "Yogurt Jar",
         "InputIdentifier": "-79",
         "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
         "MinutesUntilReady": 1600,
         "OutputIdentifier": "Fruit Yogurt",
         "OutputName": "{inputName} Yogurt",
