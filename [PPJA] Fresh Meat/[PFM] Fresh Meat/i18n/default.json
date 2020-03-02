@@ -1,4 +1,3 @@
 {
-    "CanningMachine.Fish": "Canned {inputName}",
-    "DNASynthesizer.AnimalGoods": "{inputName} DNA",
+    "CanningMachine.Fish": "Canned {inputName}",    
 }
