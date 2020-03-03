@@ -19,10 +19,11 @@
             "Object": "Soft Pretzel",
             "Count": 1,
         },
-{
+        {
             "Object": "Chocolate",
             "Count": 1,
-        },],"IsDefault": true,
+        }, ],
+        "IsDefault": true,
     },
     "GiftTastes":
     {
@@ -33,29 +34,29 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "순록 마쉬멜로우",
+         "de": "Rentier Marshmellow",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Marshmallow de Rena",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "圣诞鹿角饼",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "초코를 입힌 마시멜로에 프레첼 뿔이 났습니다. 귀여워서 어떻게 먹죠?",
+         "de": "Ein in Schokolade getauchter Marshmellow mit Brezelgeweih. Es ist ein süßer Genuss!",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Um marshmellow banhado em chocolate com chifres de pretzel. É um deliciosa mistura!",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "圣诞鹿角形状的饼干，用蝴蝶圈饼和蘸满热巧克力的棉花糖加工而成，可爱极了！",
     }
 }

@@ -20,10 +20,10 @@
          // "hu": "",
          // "it": "",
          // "ja": "",
-         // "pt": "",
+         "pt": "Manteiga de Cânhamo",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "工业大麻黄油",
     },
     "DescriptionLocalization":
     {
@@ -34,9 +34,9 @@
          // "hu": "",
          // "it": "",
          // "ja": "",
-         // "pt": "",
+         "pt": "Uma manteiga caseira com cânhamo adicionado.",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "一种加入了工业大麻的自制黄油。",
     }
 }

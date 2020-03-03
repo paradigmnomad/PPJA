@@ -23,7 +23,7 @@
          // "it": "",
         "ja": "キウイ",
         "pt": "Kiwi",
-         // "ru": "",
+        "ru": "Киви",
          // "tr": "",
         "zh": "猕猴桃",
     },
@@ -37,8 +37,15 @@
          // "it": "",
         "ja": "フレッシュでジューシーなキウイ。",
         "pt": "Um kiwi suculento e fresco.",
-         // "ru": "",
+        "ru": "Сочное, свежее киви.",
          // "tr": "",
         "zh": "多汁又新鲜的猕猴桃。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "season_fall",
+        "color_green",
+        "color_brown",
+        "fruit_item",
+    ],
 }

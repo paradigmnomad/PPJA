@@ -1,0 +1,60 @@
+{
+    "Name": "Meaty Burrito Wrap",
+    "Description": "So juicy, so tender! A completely different experience from regular beef burritos.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 175,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cooked Alpaca Meat",
+            "Count": 1,
+        },
+        {
+            "Object": 229,
+            "Count": 1,
+        },
+        {
+            "Object": 256,
+            "Count": 1,
+        },
+        {
+            "Object": 424,
+            "Count": 1,
+        }, ],
+    },
+    "PurchasePrice": 200,
+    "PurchaseRequirements": null,
+
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "多肉墨西哥卷饼",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "如此多汁，如此柔软！和普通的牛肉墨西哥卷饼完全不同的体验。",
+    }
+}

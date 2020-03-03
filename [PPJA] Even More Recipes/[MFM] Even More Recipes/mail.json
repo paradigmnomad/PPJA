@@ -2,8 +2,9 @@
 	{
 		"Id": "ppja.amethystcookierecipe",
 		"Text": "amethystcookie.text",
+		"Title": "amethystcookie.title",
 		"Recipe": "Amethyst Cookie",
-		"WhichBG": 0, 
+		"LetterBG": "NicteLetterBackground.png", 
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -18,8 +19,9 @@
 	{
 		"Id": "ppja.bananaandstrawberrycakerecipe",
 		"Text": "bananaandstrawberrycake.text",
+		"Title": "bananaandstrawberrycake.title",
 		"Recipe": "Banana Strawberry Cake",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -30,8 +32,9 @@
 	{
 		"Id": "ppja.chocolatemousebreadrecipe",
 		"Text": "chocolatemousebread.text",
+		"Title": "chocolatemousebread.title",
 		"Recipe": "Chocolate Mouse Bread",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -42,8 +45,9 @@
 	{
 		"Id": "ppja.chocolatestrawberrycakerecipeg",
 		"Text": "chocolatestrawberrycake.text",
+		"Title": "chocolatestrawberrycake.title",
 		"Recipe": "Chocolate Strawberry Cake",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -54,8 +58,9 @@
 	{
 		"Id": "ppja.bananachocolatecreperecipe",
 		"Text": "bananachocolatecrepe.text",
+		"Title": "bananachocolatecrepe.title",
 		"Recipe": "Chocolate and Banana Crepe",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 summer Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -66,8 +71,9 @@
 	{
 		"Id": "ppja.deviledeggsrecipe",
 		"Text": "deviledeggs.text",
+		"Title": "deviledeggs.title",
 		"Recipe": "Deviled Eggs",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -78,8 +84,9 @@
 	{
 		"Id": "ppja.icedchocolatedonutrecipe",
 		"Text": "icedchocolatedonut.text",
+		"Title": "icedchocolatedonut.title",
 		"Recipe": "Iced Chocolate Donut",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "14 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -90,8 +97,9 @@
 	{
 		"Id": "ppja.keylimepierecipe",
 		"Text": "keylimepie.text",
+		"Title": "keylimepie.title",
 		"Recipe": "Key Lime Pie",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 summer Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -102,8 +110,9 @@
 	{
 		"Id": "ppja.seaweedchipsrecipe",
 		"Text": "seaweedchips.text",
+		"Title": "seaweedchips.title",
 		"Recipe": "Seaweed Chips",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -114,8 +123,9 @@
 	{
 		"Id": "ppja.strawberrypuddingrecipe",
 		"Text": "strawberrypudding.text",
+		"Title": "strawberrypudding.title",
 		"Recipe": "Strawberry Pudding",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -126,8 +136,9 @@
 	{
 		"Id": "ppja.tofurecipe",
 		"Text": "tofu.text",
+		"Title": "tofu.title",
 		"Recipe": "Tofu",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":

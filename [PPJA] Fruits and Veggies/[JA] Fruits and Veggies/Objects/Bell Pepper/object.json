@@ -21,7 +21,7 @@
          // "it": "",
         "ja": "パプリカ",
         "pt": "Pimentão",
-         // "ru": "",
+        "ru": "Болгарский перец",
          // "tr": "",
         "zh": "甜椒",
     },
@@ -35,8 +35,13 @@
          // "it": "",
         "ja": "品種改良されたトウガラシの仲間。　色んなおいしい料理に！",
         "pt": "Na escala de ardência, é a pimenta mais fraca. Uma deliciosa adição a muitas refeições!",
-         // "ru": "",
+        "ru": "Самый мирный перец в плане остроты. Вкусное дополнение ко многим блюдам!",
          // "tr": "",
         "zh": "温和辣味程度的辣椒。很多菜单里的美味佳肴！",
-    }
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_red",
+        "vegetable_item",
+    ],
 }

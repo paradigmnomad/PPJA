@@ -29,22 +29,22 @@
          // "it": "",
         "ja": "アズキ豆のタネ",
         "pt": "Sementes de feijão-azuqui",
-         // "ru": "",
+        "ru": "Семена фасоли адзуки",
          // "tr": "",
         "zh": "红豆种子",
     },
     "SeedDescriptionLocalization":
     {
-        "es": "Plántalas en verano. Toma 10 días para madurar",
-        "ko": "여름 작물. 성장하려면 10일이 소요됩니다.",
+        "es": "Plántalas en verano. Toma 9 días para madurar",
+        "ko": "여름 작물. 성장하려면 9일이 소요됩니다.",
         "de": "Pflanze sie im Sommer. Wächst in 9 Tagen heran.",
          // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "夏植えの作物。そだつのに9日かかる。",
-        "pt": "Plante-as no verão. Demora 10 dias para amadurecer.",
-         // "ru": "",
+        "pt": "Plante-as no verão. Demora 9 dias para amadurecer.",
+        "ru": "Сажайте летом. Вырастает через 9 дней.",
          // "tr": "",
-        "zh": "夏天播种。10天成熟。",
+        "zh": "夏天播种。9天成熟。",
     }
 }

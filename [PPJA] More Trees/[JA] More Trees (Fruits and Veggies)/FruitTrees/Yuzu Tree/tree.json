@@ -1,0 +1,39 @@
+{
+    "Name": "Yuzu Tree",
+    "Product": "Yuzu",
+    "SaplingName": "Yuzu Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Yuzu tree. Bears fruit in the winter. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "winter",
+
+    "SaplingPurchasePrice": 2000,
+    "SaplingPurchaseRequirements": null,
+      "SaplingNameLocalization":
+    {
+        //"es": "",
+        "ko": "유자 묘목",
+        //"de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        //"zh": "",
+    },
+    "SaplingDescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "28일후에 성목이 됩니다. 겨울에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
+        //"de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        //"zh": "",
+    }
+}

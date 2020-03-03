@@ -23,47 +23,47 @@
             "Object": 246,
             "Count": 1,
         },
-{
+        {
             "Object": 635,
             "Count": 1,
         },
-{
+        {
             "Object": "Cinnamon Sticks",
             "Count": 1,
-        },],
-"IsDefault": true,
+        }, ],
+        "IsDefault": true,
     },
     "GiftTastes":
-    {        
-	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "장식된 진저브레드맨",
+         "de": "Verzierter Lebkuchenmann",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Homem de Gengibre Decorado",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "姜饼人",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "작은 사람모양의 생강쿠키. 매우 전통적인 모양이다.",
+         "de": "Ein klassischer Keks in Form eines kleinen Mannes.",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Um clássico biscoito em formato de um homem pequeno.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "一块小人形状的经典饼干。",
     }
 }

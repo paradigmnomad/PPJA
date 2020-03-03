@@ -21,10 +21,10 @@
          // "hu": "",
          // "it": "",
          // "ja": "",
-         // "pt": "",
+         "pt": "Sativa",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "苜蓿大麻",
     },
     "DescriptionLocalization":
     {
@@ -35,10 +35,10 @@
          // "hu": "",
          // "it": "",
          // "ja": "",
-         // "pt": "",
+         "pt": "Com um efeito distintivo de estimulante cerebral, o alto cultivo de sativa prospera nos climas quentes e é ótimo para criatividade.",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "高大的苜蓿大麻可以在温暖的环境中茁壮成长，其具有明显的提神作用，非常适合创造。",
     },
     "ContextTags": [
         "season_fall",

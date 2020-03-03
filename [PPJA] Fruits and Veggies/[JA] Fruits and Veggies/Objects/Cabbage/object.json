@@ -21,7 +21,7 @@
          // "it": "",
         "ja": "キャベツ",
         "pt": "Repolho",
-         // "ru": "",
+        "ru": "Капуста",
          // "tr": "",
         "zh": "卷心菜",
     },
@@ -35,8 +35,14 @@
          // "it": "",
         "ja": "キャベツボーリングやった事ある？",
         "pt": "Você já tentou boliche de repolho?",
-         // "ru": "",
+        "ru": "Вы когда-нибудь пробовали играть в боулинг капустой?",
          // "tr": "",
         "zh": "你吃过一整碗卷心菜吗？",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_fall",
+        "color_green",
+        "vegetable_item",
+    ],
 }

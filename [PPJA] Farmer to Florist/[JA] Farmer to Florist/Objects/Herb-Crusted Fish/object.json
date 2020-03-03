@@ -47,9 +47,9 @@
      // "it": "",
      // "ja": "",
     "pt": "Peixe com Crosta de Ervas",
-     // "ru": "",
+    "ru": "Пряная рыба",
      // "tr": "",
-    "zh": "香草鱼",
+    "zh": "酥炸香草鱼",
      },
  "DescriptionLocalization": { 
     "es": "Un pescado frito cubierto de hierbas.",
@@ -60,8 +60,8 @@
      // "it": "",
      // "ja": "",
     "pt": "Um peixe a milanesa coberto de ervas e selado.",
-     // "ru": "",
+    "ru": "Панированная рыба, покрытая зеленью и обжаренная.",
      // "tr": "",
-    "zh": "香草鱼。包裹着面包和香草的鱼，炸制酥脆。",
+    "zh": "酥炸香草鱼。给鱼裹上面包糠后外覆薰衣草入锅炸制而成。",
     }
 }

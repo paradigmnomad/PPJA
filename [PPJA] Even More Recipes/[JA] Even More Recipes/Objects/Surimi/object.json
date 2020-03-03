@@ -2,10 +2,10 @@
     "Name": "Surimi",
     "Description": "Minced fish that have been worked into a paste.",
     "Category": "Cooking",
-    "Edibility": 56,
+    "Edibility": 35,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 250,
+    "Price": 80,
     "IsColored": false,
     "GiftTastes":
     {

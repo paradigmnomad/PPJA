@@ -1,0 +1,129 @@
+[
+    {
+        "Id": "ppja.chamomileseeds", 
+        "GroupID": "MizusFlowers.Seeds",
+        "Text": "chamomile.text", 
+        "Title": "chamomile.title",
+        "Attachments": [{"Type": "Object", "Name":"Chamomile Seeds", "Stack": 5},],  
+        "LetterBG": "NicteLetterBackground.png",              
+        "Repeatable": false,         
+        "Date": "24 winter Y1", 
+        "Seasons":  ["winter"], 
+        /*"SkillConditions": 
+        [
+            { "SkillName": "Farming", "SkillLevel": 1 }
+        ]*/
+    },
+    {
+        "Id": "ppja.fairydusterseeds", 
+        "GroupID": "MizusFlowers.Seeds",
+        "Text": "fairyduster.text", 
+        "Title": "fairyduster.title",
+        "Attachments": [{"Type": "Object", "Name":"Fairy Duster Pod", "Stack": 5},],    
+        "LetterBG": "NicteLetterBackground.png",            
+        "Repeatable": false,         
+        "Date": "7 fall Y2", 
+        "Seasons":  ["fall"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Sandy", "FriendshipLevel": 4 }
+        ],
+    },
+    {
+        "Id": "ppja.honeysucklestarter", 
+        "GroupID": "MizusFlowers.Seeds",
+        "Text": "honeysuckle.text", 
+        "Title": "honeysuckle.title",
+        "Attachments": [{"Type": "Object", "Name":"Honeysuckle Starter", "Stack": 5},],  
+        "LetterBG": "NicteLetterBackground.png",              
+        "Repeatable": false,         
+        "Date": "6 summer Y1", 
+        "Seasons":  ["summer"], 
+    },
+    {
+        "Id": "ppja.herballavenderseeds", 
+        "GroupID": "MizusFlowers.Seeds",
+        "Text": "herballavender.text", 
+        "Title": "herballavender.title",
+        "Attachments": [{"Type": "Object", "Name":"Herbal Lavender Seeds", "Stack": 5},],  
+        "LetterBG": "NicteLetterBackground.png",              
+        "Repeatable": false,         
+        "Date": "4 summer Y2", 
+        "Seasons":  ["summer"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Penny", "FriendshipLevel": 8 }
+        ],
+    },
+    {
+        "Id": "ppja.fragrantlilacseeds", 
+        "GroupID": "MizusFlowers.Seeds",
+        "Text": "fragrantlilac.text", 
+        "Title": "fragrantlilac.title",
+        "Attachments": [{"Type": "Object", "Name":"Fragrant Lilac Pod", "Stack": 5},],     
+        "LetterBG": "NicteLetterBackground.png",           
+        "Repeatable": false,         
+        "Date": "19 spring Y2", 
+        "Seasons":  ["spring"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Emily", "FriendshipLevel": 6 }
+        ],
+    },
+    {
+        "Id": "ppja.passionflowerseeds", 
+        "GroupID": "MizusFlowers.Seeds",
+        "Text": "passionflower.text", 
+        "Title": "passionflower.title",
+        "Attachments": [{"Type": "Object", "Name":"Passion Flower Seeds", "Stack": 5},],     
+        "LetterBG": "NicteLetterBackground.png",           
+        "Repeatable": false,         
+        "Date": "26 spring Y2", 
+        "Seasons":  ["spring"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Clint", "FriendshipLevel": 6 }
+        ],
+    },
+    {
+        "Id": "ppja.pitcherplantstarter", 
+        "GroupID": "MizusFlowers.Seeds",
+        "Text": "pitcherplant.text", 
+        "Title": "pitcherplant.title",
+        "Attachments": [{"Type": "Object", "Name":"Pitcher Plant Starter", "Stack": 1},],    
+        "LetterBG": "NicteLetterBackground.png",            
+        "Repeatable": false,         
+        "Date": "5 fall Y4", 
+        "Seasons":  ["fall"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Maru", "FriendshipLevel": 5 }
+        ],
+    },
+    {
+        "Id": "ppja.rafflesiaseeds", 
+        "GroupID": "MizusFlowers.Seeds",
+        "Text": "rafflesia.text", 
+        "Title": "rafflesia.title",
+        "Attachments": [{"Type": "Object", "Name":"Rafflesia Seeds", "Stack": 1},],   
+        "LetterBG": "NicteLetterBackground.png",             
+        "Repeatable": false,         
+        "Date": "3 summer Y4", 
+        "Seasons":  ["summer"], 
+        "FriendshipConditions":
+        [
+            { "NpcName": "Demetrius", "FriendshipLevel": 6 }
+        ],
+    },
+    {
+        "Id": "ppja.rosestarter", 
+        "GroupID": "MizusFlowers.Seeds",
+        "Text": "rose.text", 
+        "Title": "rose.title",
+        "Attachments": [{"Type": "Object", "Name":"Rose Starter", "Stack": 5},],    
+        "LetterBG": "NicteLetterBackground.png",            
+        "Repeatable": false,         
+        "Date": "12 summer Y1", 
+        "Seasons":  ["summer"], 
+    },
+]

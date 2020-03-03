@@ -23,7 +23,7 @@
          // "it": "",
         "ja": "パッションフルーツ",
         "pt": "Maracujá",
-         // "ru": "",
+        "ru": "Маракуйя",
          // "tr": "",
         "zh": "百香果",
     },
@@ -37,8 +37,13 @@
          // "it": "",
         "ja": "ベリーに近いウリの仲間。種がぎっしり詰まっている。とてもジューシー。",
         "pt": "O maracujá é um fruto carnoso, do tipo baga com interior suculento cheio de sementes.",
-         // "ru": "",
+        "ru": "Сочная ягода, наполненная многочисленными семенами",
          // "tr": "",
         "zh": "百香果是一种瓠果，浆果的一种，里面有多汁的内部和很多种子。瓠果是具有坚硬外果皮的浆果。",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_pink",
+        "fruit_item",
+    ],
 }

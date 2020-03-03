@@ -1,0 +1,62 @@
+{
+  "Name": "Ketchup",
+  "Description": "A paste of tomatoes sweetened with sugar.",
+  "Category": "Cooking",
+  "Edibility": -300,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 50,
+  "IsColored": false,
+  "GiftTastes": {
+    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+	"Neutral": ["Krobus", "Willy"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 256,
+        "Count": 1,
+      },
+      {
+        "Object": 245,
+        "Count": 1,
+      },
+{
+        "Object": 419,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 100,
+    "PurchaseRequirements": null,
+  },
+
+ "NameLocalization": { 
+    "es": "Salsa de tomate",
+    "ko": "케챱",
+    "de": "Ketchup",
+    "fr": "Ketchup",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+    "ru": "Кетчуп",
+     // "tr": "",
+    "zh": "番茄酱",
+  },
+ "DescriptionLocalization": { 
+    "es": "Una salsa de tomate endulzada con azúcar.",
+    "ko": "설탕으로 달인 토마토 페이스트.",
+    "de": "Tomatenpaste mit Zucker.",
+    "fr": "Une pâte de tomates sucrée au sucre.",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+    "ru": "Томатная паста со специями.",
+     // "tr": "",
+    "zh": "番茄酱。这其实是一种加糖的西红柿。",
+  }
+}

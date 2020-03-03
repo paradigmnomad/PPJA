@@ -1,7 +1,0 @@
-﻿[
-	{
-		"ProducerName": "Mayonnaise Machine", //Only 1 frame
-		"AlternateFrameProducing": false, 
-		"AlternateFrameWhenReady": false, 
-	},
-]

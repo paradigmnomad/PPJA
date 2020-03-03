@@ -21,7 +21,7 @@
          // "it": "",
         "ja": "キャッサバ",
         "pt": "Mandioca",
-         // "ru": "",
+        "ru": "Маниок",
          // "tr": "",
         "zh": "木薯",
     },
@@ -35,8 +35,14 @@
          // "it": "",
         "ja": "熱帯気候の丈夫な芋。食べると木っぽい味がする。",
         "pt": "Um tubérculo resistente de climas tropicais, tem um sabor amadeirado.",
-         // "ru": "",
+        "ru": "Выносливый тропический клубень, имеющий древесный аромат.",
          // "tr": "",
         "zh": "这是一种来自热带气候的耐寒植物，它有一种木质的味道。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_brown",
+        "vegetable_item",
+        "crop_year_2",
+    ],
 }

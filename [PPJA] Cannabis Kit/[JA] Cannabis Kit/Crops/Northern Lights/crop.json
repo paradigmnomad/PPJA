@@ -31,10 +31,10 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Iniciador de Luzes do Norte",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "北极光种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -45,9 +45,9 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Uma variedade popular de maconha que alivia a dor e insônio enquanto te deixa tranquilo. Plente-a no verão. Leva 10 dias para amadurecer e continua produzindo a cada 3 dias.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "一种印度大麻的流行品系，味道醇厚，可以缓解疼痛和失眠。夏季播种。10天成熟，之后每3天收获一次。",
     }
 }

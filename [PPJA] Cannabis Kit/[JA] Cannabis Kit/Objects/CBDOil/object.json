@@ -22,10 +22,10 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Óleo de Canabidiol",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "大麻二酚油",
     },
     "DescriptionLocalization":
     {
@@ -36,9 +36,9 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Um óleo com maravilhosos benefícios à saúde.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "一种有益健康的油。",
     }
 }

@@ -22,7 +22,7 @@
          // "it": "", 
         "ja": "エルダーベリー",
         "pt": "Sabugueiro",
-         // "ru": "",
+        "ru": "Ягоды бузины",
          // "tr": "",
         "zh": "接骨木",
     },
@@ -36,8 +36,14 @@
          // "it": "",
         "ja": "「Your mother was a hamster and your father smelt of elderberries!」",
         "pt": "Sua mãe era um hamster e seu pai cheirava a sabugueiro!",
-         // "ru": "",
+        "ru": "Твоя мать была хомяком, а отец пах бузиной!",
          // "tr": "",
         "zh": "你妈妈是一只仓鼠，那你的父亲闻起来有一股接骨木的气味！（原句的英文这是一句在外国骂人的话）接骨木主要具有中医药用途。",
-    }
+    },
+    "ContextTags": [
+        "season_winter",
+        "color_dark_blue",
+        "fruit_item",
+        "crop_year_2",
+    ],
 }

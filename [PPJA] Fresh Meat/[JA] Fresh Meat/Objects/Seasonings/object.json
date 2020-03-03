@@ -1,0 +1,39 @@
+{
+    "Name": "Seasonings",
+    "Description": "A collection of spices for preparing a delicious meat rub.",
+    "Category": "ArtisanGoods",
+    "Edibility": 60,
+    "Price": 175,
+    "IsColored": false,
+    "PurchasePrice": 200,
+    "PurchaseRequirements": null,
+    
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "调料品",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "为腌制肉类而准备的各种调料合集。",
+    }
+}

@@ -21,10 +21,10 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Janela Branca",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "白寡妇",
     },
     "DescriptionLocalization":
     {
@@ -35,10 +35,10 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Uma combinação de maconha estimulante e índica relaxante, as cepas híbridas são o melhor dos dois mundos.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "刺激的苜蓿大麻和放松的印度大麻的组合，杂交品系可以做到两全其美。",
     },
     "ContextTags": [
         "season_summer",

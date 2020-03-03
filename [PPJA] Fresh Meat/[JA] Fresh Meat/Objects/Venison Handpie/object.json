@@ -1,0 +1,60 @@
+{
+    "Name": "Venison Handpie",
+    "Description": "A fried pasty stuffed with soft, garlicky deer meat and vegetables.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 175,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cooked Venison",
+            "Count": 1,
+        },
+        {
+            "Object": 20,
+            "Count": 1,
+        },
+        {
+            "Object": 248,
+            "Count": 1,
+        },
+        {
+            "Object": "Batter",
+            "Count": 1,
+        }, ],
+    },
+    "PurchasePrice": 200,
+    "PurchaseRequirements": null,
+
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "鹿肉手馅饼",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "一种油炸的馅饼，里面塞有柔软的蒜香鹿肉和蔬菜。",
+    }
+}

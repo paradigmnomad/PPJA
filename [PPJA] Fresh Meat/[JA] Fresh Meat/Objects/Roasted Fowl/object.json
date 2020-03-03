@@ -1,0 +1,57 @@
+{
+    "Name": "Roasted Fowl",
+    "Description": "Marinated game fowl roasted in the oven and served with rice and slaw.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 175,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Fowl",
+            "Count": 1,
+        },
+        {
+            "Object": 232,
+            "Count": 2,
+        },
+        {
+            "Object": 648,
+            "Count": 1,
+        },
+        ],
+    },
+    "PurchasePrice": 200,
+    "PurchaseRequirements": null,
+
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "烤飞禽",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "腌制好的飞禽送入烤箱烤制，配合米饭和卷心菜沙拉食用。",
+    }
+}

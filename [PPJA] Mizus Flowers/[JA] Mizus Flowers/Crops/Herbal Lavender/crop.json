@@ -1,0 +1,55 @@
+{
+    "Name": "Herbal Lavender",
+    "Product": "Herbal Lavender",
+    "SeedName": "Herbal Lavender Seeds",
+    "SeedDescription": "Plant in summer. Takes 6 days to produce a soft purple flower.",
+    "Type": "Flower",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 1, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": [
+        "136, 116, 248, 1",
+        "217, 140, 255, 1",
+        "151, 88, 198, 1"
+    ],
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 20,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de lavanda",
+        "ko": "허브 라벤더 씨앗",
+        "de": "Lavendel-Saat",
+        "fr": "Graines de Lavande",
+         // "hu": "",
+         // "it": "",
+        "ja": "ラベンダーの種",
+        "pt": "Sementes de lavanda",
+        "ru": "Семена травяной лаванды",
+         // "tr": "",
+        "zh": "草本薰衣草种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 6 días para producir una flor morada suave.",
+        "ko": "여름에 심으세요. 6일 후 연보라색 꽃이 핍니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 6 Tagen zu einer zartlilanen Blume heran.",
+        "fr": "Plantez en été. Prend 6 jours pour produire une fleur mauve douce.",
+         // "hu": "",
+         // "it": "",
+        "ja": "夏植えの花。6日かけて淡い紫色の花を咲かせる。",
+        "pt": "Plante-as no verão. Demoram 6 dias para produzirem um flor suavemente roxa.",
+        "ru": "Сажайте летом. Через 6 дней вырастает мягкий фиолетовый цветок.",
+         // "tr": "",
+        "zh": "夏天播种。6天后产出柔软的紫色的花。",
+    }
+}

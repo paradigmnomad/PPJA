@@ -1,0 +1,13 @@
+{
+    "Name": "More Trees for JsonAssets",
+    "Author": "Project Populate JsonAssets",
+    "Description": "A collection of new trees for JsonAssets",
+    "Version": "1.6.7",
+    "MinimumApiVersion": "3.2.0",
+    "UniqueID": "ppja.moretrees",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "UpdateKeys": ["Nexus:1671"],
+}

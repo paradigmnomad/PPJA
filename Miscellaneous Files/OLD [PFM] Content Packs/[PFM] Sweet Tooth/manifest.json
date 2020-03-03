@@ -1,0 +1,22 @@
+﻿{
+	"Name": "[PFM] Sweet Tooth - Artisan Valley Add-on",
+	"Author": "PPJA",
+	"Version": "1.0.3",
+	"Description": "Adds producing rules for Sweet Tooth products to Artisan Valley machines.",
+	"UniqueID": "PPJA.SweetToothAddOn",
+	"MinimumApiVersion": "3.2.2",
+	"UpdateKeys": [],
+	"Dependencies": [
+		{
+			"UniqueID": "ppja.artisanvalleyPFM",
+      "IsRequired": true,
+		},
+{
+			"UniqueID": "Aquilegia.SweetTooth",
+      "IsRequired": true,
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	}
+}

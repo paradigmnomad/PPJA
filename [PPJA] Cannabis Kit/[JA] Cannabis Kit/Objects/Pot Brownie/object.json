@@ -49,13 +49,13 @@
         // "ko": "",
         "de": "Marihuana Brownie",
         // "fr": "",
-        // "hu": "",
+        // "hu": 
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Brownie de Maconha",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "大麻布朗尼",
     },
     "DescriptionLocalization":
     {
@@ -66,9 +66,9 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Alguém não gostou muito de todo deste brownie.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "这个布朗尼有些不对劲。",
     }
 }

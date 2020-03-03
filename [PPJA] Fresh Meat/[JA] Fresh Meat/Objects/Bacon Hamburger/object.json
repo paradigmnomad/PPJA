@@ -1,0 +1,76 @@
+{
+  "Name": "Bacon Hamburger",
+  "Description": "The classic version of the popular meal but with bacon.",
+  "Category": "Cooking",
+  "Edibility": 164,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 950,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Alex"],
+	"Like": ["Abigail", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+	"Neutral": ["Vincent"],
+	"Dislike": ["Emily", "Haley", "Harvey", "Jas", "Leah"],
+	"Hate": ["Marnie", "Sebastian"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Bacon",
+        "Count": 1,
+      },
+      {
+        "Object": "Cooked Beef",
+        "Count": 1,
+      },
+      
+ {
+        "Object": "Ketchup",
+        "Count": 1,
+      },
+ {
+        "Object": "Mustard",
+        "Count": 1,
+      },
+ {
+        "Object": 216,
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 680,
+    "PurchaseRequirements": [
+      "r 0.25",
+    ]
+  },
+
+ "NameLocalization": { 
+    "es": "Hamburguesa de tocino",
+    "ko": "베이컨 햄버거",
+    "de": "Bacon Hamburger",
+    "fr": "Hamburger au Bacon",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+    "ru": "Гамбургер с беконом",
+     // "tr": "",
+    "zh": "培根汉堡",
+  },
+ "DescriptionLocalization": { 
+    "es": "La versión clásica de la comida popular... pero con tocino.",
+    "ko": "베이컨을 곁들인 인기있는 고전적인 식사.",
+    "de": "Ein Hamburger mit Bacon.",
+    "fr": "La version classique du hamburger mais avec du bacon.",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+    "ru": "Классическая версия популярного блюда, но с беконом.",
+     // "tr": "",
+    "zh": "培根汉堡。这是经典的流行快餐，但是里面有培根。",
+  }
+}
