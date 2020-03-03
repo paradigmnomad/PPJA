@@ -1,9 +1,9 @@
 {
    "Name": "Artisan Valley Machine Goods",
    "Author": "Project Populate JsonAssets",
-   "Description": "Adds new items to the game via CFR machines. Requires CFR and JA to work properly.",
-   "Version": "3.0.4",
-   "MinimumApiVersion": "3.0.1",
+   "Description": "Adds new items to the game via PFM machines. Requires PFM and JA to work properly.",
+   "Version": "3.0.10",
+   "MinimumApiVersion": "3.2.2",
    "UniqueID": "ppja.artisanvalleymachinegoods",
    "ContentPackFor": {
        "UniqueID": "spacechase0.JsonAssets"

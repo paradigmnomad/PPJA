@@ -2,10 +2,10 @@
 	{
 		"Id": "ppja.alembicrecipe",
 		"GroupID": "ppja.MachineRecipes",
-		"Title": "Alembic Recipe",
+		"Title": "alembic.title",
 		"Text": "alembic.text",
 		"Recipe": "Alembic",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"SkillConditions": 
@@ -16,10 +16,10 @@
 	{
 		"Id": "ppja.butterchurnrecipe",
 		"GroupID": "ppja.MachineRecipes",
-		"Title": "Butter Churn Recipe",
+		"Title": "butterchurn.title",
 		"Text": "butterchurn.text",
 		"Recipe": "Butter Churn",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -34,10 +34,10 @@
 	{
 		"Id": "ppja.infuserrecipe",
 		"GroupID": "ppja.MachineRecipes",
-		"Title": "Infuser Recipe",
+		"Title": "infuser.title",
 		"Text": "infuser.text",
 		"Recipe": "Infuser",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y3",
 		"Repeatable": false,
 		"SkillConditions": 
@@ -48,15 +48,15 @@
 	{
 		"Id": "ppja.stillrecipe",
 		"GroupID": "ppja.Machine Recipes",
-		"Title": "Still Recipe",
+		"Title": "still.title",
 		"Text": "still.text",
 		"Recipe": "Still",
-		"WhichBG": 0,
+		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 fall Y3",
 		"Repeatable": false,
 		"SkillConditions": 
 		[
 			{ "SkillName": "Farming", "SkillLevel": 10 }
 		]
-	},
+	},	
 ]

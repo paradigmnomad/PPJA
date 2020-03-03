@@ -1,4 +1,5 @@
 {
+    "Dehydrator.Tea": "Dried {inputName} Leaves",
     "Dehydrator.Fruit": "Dried {inputName}",
     "DryingRack.Flower": "Dried {inputName}",
     "DryingRack.Herb": "Dried {inputName}",
@@ -8,6 +9,7 @@
     "Grinder.Vegetable": "Ground {inputName}",
     "Infuser.Schnapps": "{inputName} Schnapps",
     "YogurtJar.Fruit": "{inputName} Yogurt",
+    "WaxBarrel.Candle": "{inputName} Candle",
     "Alembic.EssentialOil": "{inputName} Essential Oil",
     "Juice.Fruit": "{inputName} Juice",
     "SoapPress.Soap": "Handmade {inputName} Soap",

@@ -10,6 +10,6 @@
     "YogurtJar.Fruit": "{inputName} 요거트",
     "Alembic.EssentialOil": "{inputName} 에센셜 오일",
     "Juice.Fruit": "{inputName} 주스",
-    "SoapPress.Soap": "Handmade {inputName} 비누",
+    "SoapPress.Soap": "수제 {inputName} 비누",
     "Smoker.Fish": "훈제 {inputName} ",
 }
