@@ -2,10 +2,10 @@
    "Name": "Khadija's Recipe Shop",
    "Author": "Project Populate Json Assets",
    "Description": "Map strings.",
-   "Version": "1.0.4",
+   "Version": "1.0.5",
    "UniqueID": "ppja.KRSCP",
    "UpdateKeys": [ "Nexus:5245" ],
-"MinimumApiVersion": "3.0.1",
+"MinimumApiVersion": "3.3.2",
    "ContentPackFor": {
        "UniqueID": "Pathoschild.ContentPatcher"
     },
