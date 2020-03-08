@@ -32,7 +32,7 @@
         { 
             //"es": "", //Spanish
             "ko": "건조기", //Korean
-            //"de": "", //German
+            "de": "Trockner", //German
             //"fr": "", //French
             //"hu": "", //Hungarian
             //"it": "", //Italian
@@ -46,7 +46,7 @@
         { 
             //"es": "", //Spanish
             "ko": "말린 꽃과 잎을 차로 만들거나, 야채를 칩으로 만들 수 있습니다.", //Korean
-            //"de": "", //German
+            "de": "Zum Trocknen von Blumen und Blättern für die Teezubereitung und von Gemüse zu Pommes.", //German
             //"fr": "", //French
             //"hu": "", //Hungarian
             //"it": "", //Italian

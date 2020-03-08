@@ -31,7 +31,7 @@
         { 
             //"es": "", //Spanish
             "ko": "향수 제조기", //Korean
-            //"de": "", //German
+            "de": "Parfümerie", //German
             //"fr": "", //French
             //"hu": "", //Hungarian
             //"it": "", //Italian
@@ -45,7 +45,7 @@
         { 
             //"es": "", //Spanish
             "ko": "꽃을 향수로 만들어줍니다.", //Korean
-            //"de": "", //German
+            "de": "Verarbeitet Blumen zu Parfüm.", //German
             //"fr": "", //French
             //"hu": "", //Hungarian
             //"it": "", //Italian
