@@ -36,8 +36,14 @@
          // "it": "",
         "ja": "清々しく爽やかでいて、少し独特な味わい。",
         "pt": "Crocante e refrescante, possui um sabor especial.",
-        "ru": "Хрустящий и освежающий, сам по себе имеет незначительный привкус.",
+        "ru": "Хрустящий и освежающий, сам по себе практически безвкусный.",
          // "tr": "",
         "zh": "清爽提神，本身就没有什么内在的味道。",
-    }
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_green",
+        "vegetable_item",
+        "crop_year_2",
+    ],
 }

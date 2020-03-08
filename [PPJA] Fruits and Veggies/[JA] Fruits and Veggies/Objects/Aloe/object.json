@@ -39,7 +39,7 @@
          // "it": "",
         "ja": "日焼けの治療として利用できる。",
         "pt": "Pode ser usada para tratar queimaduras de sol.",
-        "ru": "Может использоваться для лечения солнечных ожогов.",
+        "ru": "Может использоваться для лечения ожогов.",
          // "tr": "",
         "zh": "它可以用来治疗晒伤。",
     },
@@ -47,5 +47,6 @@
         "season_summer",
         "color_green",
         "herb_item",
+        "crop_year_2",
     ],
 }

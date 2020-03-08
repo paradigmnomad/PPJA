@@ -40,5 +40,12 @@
         "ru": "Сочное, свежее киви.",
          // "tr": "",
         "zh": "多汁又新鲜的猕猴桃。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "season_fall",
+        "color_green",
+        "color_brown",
+        "fruit_item",
+    ],
 }

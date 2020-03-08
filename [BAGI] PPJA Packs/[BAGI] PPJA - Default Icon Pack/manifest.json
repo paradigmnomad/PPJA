@@ -1,10 +1,10 @@
 {
     "Name": "PPJA Better Artisan Goods Default Icon Pack",
     "Author": "Project Populate Json Assets",
-    "Version": "1.2.0",
+    "Version": "1.2.1",
     "Description": "A collection of default artisan good sprites that pair with the PPJA collection.",
     "UniqueID": "ppja.defaultbagip",
-    "MinimumApiVersion": "2.11.3",
+    "MinimumApiVersion": "3.2.0",
     "ContentPackFor":
     {
         "UniqueID": "cat.betterartisangoodicons",

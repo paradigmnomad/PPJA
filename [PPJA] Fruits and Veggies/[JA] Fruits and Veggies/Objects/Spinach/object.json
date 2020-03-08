@@ -38,5 +38,11 @@
         "ru": "Он так силён, потому что он ест свой шпинат!",
          // "tr": "",
         "zh": "他很强壮，因为他吃了他的菠菜！",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_fall",
+        "color_green",
+        "vegetable_item",
+    ],
 }

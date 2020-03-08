@@ -35,8 +35,13 @@
          // "it": "",
         "ja": "「A handful of beans.」",
         "pt": "Um punhado de feijões.",
-        "ru": "Горсть бобов.",
+        "ru": "Горсть фасоли.",
          // "tr": "",
         "zh": "一把菜豆。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_light_pink",
+        "vegetable_item",
+    ],
 }

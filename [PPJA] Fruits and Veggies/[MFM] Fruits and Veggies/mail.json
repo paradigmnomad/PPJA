@@ -3,6 +3,7 @@
         "Id": "ppja.aloepod", 
         "GroupID": "FruitsandVeggies.Seeds",
         "Text": "aloepod.text", 
+        "Title": "aloepod.title",
         "Attachments": [{"Type": "Object", "Name":"Aloe Pod", "Stack": 5},],
         "LetterBG": "NicteLetterBackground.png",         
         "Repeatable": false,         
@@ -20,7 +21,8 @@
     {
         "Id": "ppja.sweetcanarymelonseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "sweetcanarymelon.text", 
+        "Text": "sweetcanarymelon.text",  
+        "Title": "sweetcanarymelon.title",
         "Attachments": [{"Type": "Object", "Name":"Sweet Canary Melon Seeds", "Stack": 5},], 
         "LetterBG": "NicteLetterBackground.png",        
         "Repeatable": false,         
@@ -34,7 +36,8 @@
     {
         "Id": "ppja.casavaseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "cassava.text", 
+        "Text": "cassava.text",  
+        "Title": "cassava.title",
         "Attachments": [{"Type": "Object", "Name":"Cassava Seeds", "Stack": 5},], 
         "LetterBG": "NicteLetterBackground.png",        
         "Repeatable": false,         
@@ -48,7 +51,8 @@
     {
         "Id": "ppja.chickpeaseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "chickepea.text", 
+        "Text": "chickepea.text",  
+        "Title": "chickepea.title",
         "Attachments": [{"Type": "Object", "Name":"Chickpea Seeds", "Stack": 5},],  
         "LetterBG": "NicteLetterBackground.png",       
         "Repeatable": false,         
@@ -62,7 +66,8 @@
     {
         "Id": "ppja.elderberryseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "elderberry.text", 
+        "Text": "elderberry.text",  
+        "Title": "elderberry.title",
         "Attachments": [{"Type": "Object", "Name":"Elderberry Seeds", "Stack": 5},],    
         "LetterBG": "NicteLetterBackground.png",            
         "Repeatable": false,         
@@ -76,7 +81,8 @@
     {
         "Id": "ppja.fennelseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "fennel.text", 
+        "Text": "fennel.text",  
+        "Title": "fennel.title",
         "Attachments": [{"Type": "Object", "Name":"Fennel Seeds", "Stack": 5},],  
         "LetterBG": "NicteLetterBackground.png",              
         "Repeatable": false,         
@@ -90,7 +96,8 @@
     {
         "Id": "ppja.gingerseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "ginger.text", 
+        "Text": "ginger.text",  
+        "Title": "ginger.title",
         "Attachments": [{"Type": "Object", "Name":"Ginger Seeds", "Stack": 5},],    
         "LetterBG": "NicteLetterBackground.png",            
         "Repeatable": false,         
@@ -100,7 +107,8 @@
     {
         "Id": "ppja.gooseberryseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "gooseberry.text", 
+        "Text": "gooseberry.text",  
+        "Title": "gooseberry.title",
         "Attachments": [{"Type": "Object", "Name":"Gooseberry Seeds", "Stack": 5},],  
         "LetterBG": "NicteLetterBackground.png",              
         "Repeatable": false,         
@@ -114,7 +122,8 @@
     {
         "Id": "ppja.greenpeaseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "greenpea.text", 
+        "Text": "greenpea.text",  
+        "Title": "greenpea.title",
         "Attachments": [{"Type": "Object", "Name":"Green Pea Seeds", "Stack": 5},],    
         "LetterBG": "NicteLetterBackground.png",            
         "Repeatable": false,         
@@ -128,7 +137,8 @@
     {
         "Id": "ppja.jalapenoseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "jalapeno.text", 
+        "Text": "jalapeno.text",  
+        "Title": "jalapeno.title",
         "Attachments": [{"Type": "Object", "Name":"Jalapeno Seeds", "Stack": 5},],    
         "LetterBG": "NicteLetterBackground.png",            
         "Repeatable": false,         
@@ -142,7 +152,8 @@
     {
         "Id": "ppja.juniperseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "juniper.text", 
+        "Text": "juniper.text",  
+        "Title": "juniper.title",
         "Attachments": [{"Type": "Object", "Name":"Juniper Berry Seeds", "Stack": 5},], 
         "LetterBG": "NicteLetterBackground.png",               
         "Repeatable": false,         
@@ -152,7 +163,8 @@
     {
         "Id": "ppja.mintseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "mint.text", 
+        "Text": "mint.text",  
+        "Title": "mint.title",
         "Attachments": [{"Type": "Object", "Name":"Mint Seeds", "Stack": 5},],     
         "LetterBG": "NicteLetterBackground.png",           
         "Repeatable": false,         
@@ -162,7 +174,8 @@
     {
         "Id": "ppja.okraseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "okra.text", 
+        "Text": "okra.text",  
+        "Title": "aloepod.title",
         "Attachments": [{"Type": "Object", "Name":"Okra Seeds", "Stack": 5},],   
         "LetterBG": "NicteLetterBackground.png",             
         "Repeatable": false,         
@@ -176,7 +189,8 @@
     {
         "Id": "ppja.paddytaroseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "paddytaro.text", 
+        "Text": "paddytaro.text",  
+        "Title": "paddytaro.title",
         "Attachments": [{"Type": "Object", "Name":"Paddy Taro Seeds", "Stack": 5},],    
         "LetterBG": "NicteLetterBackground.png",            
         "Repeatable": false,         
@@ -190,7 +204,8 @@
     {
         "Id": "ppja.passionfruitseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "passionfruit.text", 
+        "Text": "passionfruit.text",  
+        "Title": "passionfruit.title",
         "Attachments": [{"Type": "Object", "Name":"Passion Fruit Seeds", "Stack": 5},],    
         "LetterBG": "NicteLetterBackground.png",            
         "Repeatable": false,         
@@ -204,7 +219,8 @@
     {
         "Id": "ppja.soybeanseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "soybean.text", 
+        "Text": "soybean.text",  
+        "Title": "soybean.title",
         "Attachments": [{"Type": "Object", "Name":"Soybean Seeds", "Stack": 5},],     
         "LetterBG": "NicteLetterBackground.png",           
         "Repeatable": false,         
@@ -218,7 +234,8 @@
     /*{
         "Id": "ppja.wormwoodseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "Dear @,^This is a test to see if we can attach seeds.", 
+        "Text": "wormwood.text",  
+        "Title": "wormwood.title",
         "Attachments": [{"Type": "Object", "Name":"Wormwood Seeds", "Stack": 5},],   
         "LetterBG": "NicteLetterBackground.png",             
         "Repeatable": false,         
@@ -232,7 +249,8 @@
     {
         "Id": "ppja.zucchiniseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "zucchini.text", 
+        "Text": "zucchini.text",  
+        "Title": "zucchini.title",
         "Attachments": [{"Type": "Object", "Name":"Zucchini Seeds", "Stack": 5},],   
         "LetterBG": "NicteLetterBackground.png",             
         "Repeatable": false,         

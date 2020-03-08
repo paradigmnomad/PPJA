@@ -35,8 +35,13 @@
          // "it": "",
         "ja": "ニンジンを食べると視力がよくなるという迷信がある。",
         "pt": "Os contos de velhas esposas dizem que comer cenoura ajuda a melhorar a visão.",
-        "ru": "Старая мудрость говорит о том, что употребление моркови улучшает зрение.",
+        "ru": "Народная мудрость гласит, что упортребление моркови способствует улучшению зрения.",
          // "tr": "",
         "zh": "老巫婆的故事说吃胡萝卜有助于提高视力。",
-    }
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_orange",
+        "vegetable_item",
+    ],
 }

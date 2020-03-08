@@ -22,33 +22,33 @@
     "SeedPurchaseRequirements": [
         "y 3",
     ],
-    
+
     "SeedNameLocalization":
     {
-         // "es": "",
+        // "es": "",
         "ko": "땅콩호박 씨앗",
         "de": "Butternusskürbis-Saat",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
         "ja": "バターナッツスクワッシュのタネ",
         "pt": "Sementes de Abóbora Tropical",
-        "ru": "Семена баттернатной тыквы",
-         // "tr": "",
-          "zh": "冬南瓜种子",
+        "ru": "Семена мускатной тыквы",
+        // "tr": "",
+        "zh": "冬南瓜种子",
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+        // "es": "",
         "ko": "여름 작물. 성장하려면 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
         "de": "Planze sie im Sommer. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden.",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
         "ja": "夏植えの作物。そだつのに10日かかる。最初の収穫のあともくりかえし収穫できる。",
         "pt": "Plante-as no verão. Leva 10 dias para amadurecer e continua produzindo após a primeira colheita.",
         "ru": "Сажайте летом. Вырастает через 10 дней и продолжает давать урожай после первого сбора.",
-         // "tr": "",
-          "zh": "夏天播种，10天成熟，在第一次收获后循环生产（虽然叫冬南瓜，但并不在冬季播种）。",
+        // "tr": "",
+        "zh": "夏天播种，10天成熟，在第一次收获后循环生产（虽然叫冬南瓜，但并不在冬季播种）。",
     }
 }

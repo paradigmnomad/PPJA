@@ -1,0 +1,49 @@
+{
+    "Name": "Meat Press",
+    "Description": "A machine used for pressing animal DNA into meat.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 7,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 335,
+            "Count": 10,
+        },
+        {
+            "Object": 334,
+            "Count": 5,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

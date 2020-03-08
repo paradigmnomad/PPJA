@@ -19,18 +19,19 @@
             "Object": 245,
             "Count": 1,
         },
-{
+        {
             "Object": -5,
             "Count": 1,
         },
-{
+        {
             "Object": 246,
             "Count": 1,
         },
-{
+        {
             "Object": "Sprinkles",
             "Count": 1,
-        },],"IsDefault": true,
+        }, ],
+        "IsDefault": true,
     },
     "GiftTastes":
     {
@@ -42,29 +43,29 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "장식된 크리스마스 트리 쿠키",
+         "de": "Gefrorener verzierter Weihnachtsbaum",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Árvore Natalina Decorada Congelada",
+        "pt": "Árvore Natalina Decorada Congelada",
         // "ru": "",
         // "tr": "",
-         "zh": "冰镇缀彩圣诞树",
+        "zh": "冰镇缀彩圣诞树",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "색색으로 장식된 트리모양 쿠키",
+         "de": "Es sieht irgendwie aus wie ein Weihnachtsbaum. Dieser hat Ornamente drauf.",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "É um pouco parecido com uma árvore de Natal. Este é ornamentado.",
+        "pt": "É um pouco parecido com uma árvore de Natal. Este é ornamentado.",
         // "ru": "",
         // "tr": "",
-         "zh": "它有点像圣诞树。上面点缀着装饰品。",
+        "zh": "它有点像圣诞树。上面点缀着装饰品。",
     }
 }

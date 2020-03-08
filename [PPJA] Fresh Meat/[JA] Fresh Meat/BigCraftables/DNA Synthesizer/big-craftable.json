@@ -1,0 +1,53 @@
+{
+    "Name": "DNA Synthesizer",
+    "Description": "It's the most high-tech machine on the farm. Use it to create animal DNA from products.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 7,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 337,
+            "Count": 5,
+        },
+        {
+            "Object": 112,
+            "Count": 1,
+        },
+	{
+            "Object": 72,
+            "Count": 5,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

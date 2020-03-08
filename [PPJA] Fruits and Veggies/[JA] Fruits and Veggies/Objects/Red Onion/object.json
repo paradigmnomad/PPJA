@@ -44,5 +44,11 @@
         "ru": "Красная версия лука.",
          // "tr": "",
           "zh": "红色的洋葱，就只是这样。",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_dark_purple",
+        "vegetable_item",
+        "crop_year_3",
+    ],
 }

@@ -1,4 +1,5 @@
 {
+    "Dehydrator.Tea": "Dried {inputName} Leaves",
     "Dehydrator.Fruit": "Dried {inputName}",
     "DryingRack.Flower": "Dried {inputName}",
     "DryingRack.Herb": "Dried {inputName}",

@@ -2,6 +2,7 @@
 	{
 		"Id": "ppja.grilledskewerrecipe",
 		"GroupID": "FreshMeat.CookingRecipe",
+		"Title": "grilledskewer.title",
 		"Text": "grilledskewer.text",
 		"Recipe": "Grilled Skewer",
 		"LetterBG": "NicteLetterBackground.png",

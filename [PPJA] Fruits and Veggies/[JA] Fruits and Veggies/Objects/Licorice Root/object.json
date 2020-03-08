@@ -40,5 +40,11 @@
         "ru": "Используется как популярная конфетная специя.",
          // "tr": "",
           "zh": "天然生长的植物，是流行糖果的调味料",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_brown",
+        "vegetable_item",
+        "crop_year_4",
+    ],
 }

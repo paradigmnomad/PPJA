@@ -15,12 +15,12 @@
     {
         "es": "Leche de Nuez Antigua",
         "ko": "고대의 견과 우유",
-        //"de": "",
+        "de": "Alet Nussmilch",
         //"fr": "",
         //"hu": "",
         //"it": "",
         //"ja": "",
-        "pt": "Leite de Noz Antigo",
+        //"pt": "",
         "ru": "Древнее ореховое молоко",
         //"tr": "",
         "zh": "远古坚果牛奶"
@@ -29,12 +29,12 @@
     {
         "es": "No tiene le mismo sabor que la leche regular.",
         "ko": "범상치 않은 우유 맛이 납니다.",
-        //"de": "",
+        "de": "Schmeckt nicht nach normaler Milch.",
         //"fr": "",
         //"hu": "",
         //"it": "",
         //"ja": "",
-        "pt": "Não tem o mesmo sabor do leite normal.",
+        //"pt": "",
         "ru": "На вкус совсем не как обычное молоко",
         //"tr": "",
         "zh": "不像普通牛奶的味道"

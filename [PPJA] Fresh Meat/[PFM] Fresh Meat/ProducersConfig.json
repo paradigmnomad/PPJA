@@ -1,0 +1,44 @@
+﻿[
+	{
+		"ProducerName": "Canning Machine", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"DisableBouncingAnimationWhileWorking": true,
+		"ProducingAnimation": { 
+            "RelativeFrameIndex": [1,2,3,4,5], 
+            "FrameInterval": 10 
+        },
+        "ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [6],
+   		},
+	},
+	{
+		"ProducerName": "DNA Synthesizer", 
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+		"DisableBouncingAnimationWhileWorking": true,
+		"ProducingAnimation": { 
+            "RelativeFrameIndex": [1,2,3,4,5], 
+            "FrameInterval": 10 
+        },
+        "ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [6],
+   		},
+	},
+	{
+		"ProducerName": "Meat Press", 
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+		"DisableBouncingAnimationWhileWorking": true,
+		"ProducingAnimation": { 
+            "RelativeFrameIndex": [1,2,3,4,5], 
+            "FrameInterval": 10 
+        },
+        "ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [6],
+   		},
+	},
+]

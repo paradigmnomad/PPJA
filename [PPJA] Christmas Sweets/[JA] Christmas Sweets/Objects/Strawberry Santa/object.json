@@ -18,7 +18,8 @@
         {
             "Object": 245,
             "Count": 1,
-        },],"IsDefault": true,
+        }, ],
+        "IsDefault": true,
     },
     "GiftTastes":
     {
@@ -30,29 +31,29 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "딸기 산타",
+         "de": "Erdbeer Santa",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Papai Noel de Morango",
+        "pt": "Papai Noel de Morango",
         // "ru": "",
         // "tr": "",
-         "zh": "草莓圣诞老人",
+        "zh": "草莓圣诞老人",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "잘 익은 딸기를 산타모양으로 장식했습니다!",
+         "de": "Eine reife Erdbeere, die so dekoriert ist, dass sie wie der Weihnachtsmann aussieht!",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Um morango maduro decorado em forma de Papai Noel!",
+        "pt": "Um morango maduro decorado em forma de Papai Noel!",
         // "ru": "",
         // "tr": "",
-         "zh": "一个圣诞老人形状的成熟草莓！",
+        "zh": "一个圣诞老人形状的成熟草莓！",
     }
 }

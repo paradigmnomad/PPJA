@@ -28,12 +28,12 @@
 
         "NameLocalization": //Used for localization. 
        { 
-            //"es": "", //Spansih
+            //"es": "", //Spanish
             //"ko": "", //Korean
-            //"de": "", //German
+            "de": "Seifenmacher", //German
             //"fr": "", //French
             //"hu": "", //Hungarian
-            //"it": "",, //Italian
+            //"it": "", //Italian
             //"ja": "", //Japanese
             "pt": "Máquina de Sabão", //Portuguese
             "ru": "Мыловарка", //Russian
@@ -42,12 +42,12 @@
         },
         "DescriptionLocalization": //Used for localization. 
         { 
-            //"es": "", //Spansih
+            //"es": "", //Spanish
             "ko": "비누 제조기", //Korean
-            //"de": "", //German
+            "de": "Kombiniert Blumen und Öl zu einem Stück Seife.", //German
             //"fr": "", //French
             //"hu": "", //Hungarian
-            //"it": "",, //Italian
+            //"it": "", //Italian
             //"ja": "", //Japanese
             "pt": "Combina flores e óleo em uma barra de sabonete.", //Portuguese
             "ru": "Смешивает цветы и масло в кусок мыла", //Russian

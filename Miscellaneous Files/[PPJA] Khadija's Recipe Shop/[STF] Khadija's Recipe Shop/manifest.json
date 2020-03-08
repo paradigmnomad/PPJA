@@ -1,11 +1,10 @@
 {
   "Name": "[STF] Khadija's Recipe Shop",
   "Author": "Project Populate Json Assets",
-  "Version": "1.0.3",
+  "Version": "1.0.5",
   "Description": "Shop for selling modded recipes, materials, and objects from JA packs.",
   "UniqueID": "ppja.recipeshop",
-  "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [ "5245" ],
+  "MinimumApiVersion": "3.3.2",
   "Dependencies": [
     {
       "UniqueID": "ppja.TMX.KRS"

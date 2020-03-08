@@ -15,12 +15,12 @@
     {
         "es": "Oliva Antigua",
         "ko": "고대의 올리브",
-        //"de": "",
+        "de": "Alte Olvie",
         //"fr": "",
         //"hu": "",
         //"it": "",
         //"ja": "",
-        "pt": "Azeitona Antiga",
+        //"pt": "",
         "ru": "Древняя оливка",
         //"tr": "",
         "zh": "远古橄榄"
@@ -29,12 +29,12 @@
     {
         "es": "Un antiguo tipo de oliva que crece en pequeñas plantas.",
         "ko": "작은 크기로 자라는 고대 식물.",
-        //"de": "",
+        "de": "Eine alte Olivensorte, die in einer kleinen Pflanze wächst.",
         //"fr": "",
         //"hu": "",
         //"it": "",
         //"ja": "",
-        "pt": "Um antigo tipo de azeitona que cresce em plantas pequenas.",
+        //"pt": "",
         "ru": "Древний вид оливок, растущий на небольших растениях",
         //"tr": "",
         "zh": "一种古老的橄榄，生长在一种小植物中。"

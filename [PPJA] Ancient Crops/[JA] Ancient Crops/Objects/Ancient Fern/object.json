@@ -15,12 +15,12 @@
     {
         "es": "Helecho Antiguo",
         "ko": "고대의 고사리",
-        //"de": "",
+        "de": "Alter Farn",
         //"fr": "",
         //"hu": "",
         //"it": "",
         //"ja": "",
-        "pt": "Samambaia Antiga",
+        //"pt": "",
         "ru": "Древний папоротник",
         //"tr": "",
         "zh": "远古蕨"
@@ -29,12 +29,12 @@
     {
         "es": "Un helecho que produce una hermosa y sabrosa flor.",
         "ko": "아름답고 맛 좋은 꽃이 열립니다.",
-        //"de": "",
+        "de": "Ein Farn, der eine schöne und geschmackvolle Blume hervorbringt.",
         //"fr": "",
         //"hu": "",
         //"it": "",
         //"ja": "",
-        "pt": "Uma samambaia que produz uma flor bonita e saborosa.",
+        //"pt": "",
         "ru": "Папоротник, из которого получается красивый и вкусный цветок.",
         //"tr": "",
         "zh": "一种蕨类植物，能开出美丽而有品味的花。"

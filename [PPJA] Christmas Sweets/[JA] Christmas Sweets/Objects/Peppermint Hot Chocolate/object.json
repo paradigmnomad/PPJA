@@ -18,9 +18,8 @@
         {
             "Object": "Peppermint Candy Cane",
             "Count": 1,
-        },
-		],
-		"IsDefault": true,
+        }, ],
+        "IsDefault": true,
     },
     "GiftTastes":
     {
@@ -32,29 +31,29 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "페퍼민트 핫초코",
+         "de": "Heiße Pfefferminzschokolade",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Hortelã Picante Quente",
+        "pt": "Hortelã Picante Quente",
         // "ru": "",
         // "tr": "",
-         "zh": "薄荷热巧克力",
+        "zh": "薄荷热巧克力",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "추운 날 이불 속에서 마시는 핫초코만큼 따뜻한 것이 없죠.",
+         "de": "Es gibt nichts schöneres, als an einem kalten Tag in eine Decke, mit einer schönen, warmen, heißen Schokolade gekuschelt zu sein.",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Nos dias frios não há nada melhor do que embrulhar-se e tomar um picante chocolate quente.",
+        "pt": "Nos dias frios não há nada melhor do que embrulhar-se e tomar um picante chocolate quente.",
         // "ru": "",
         // "tr": "",
-         "zh": "在寒冷的日子里，没有什么比裹在毯子里来一份热巧克力更好的了。",
+        "zh": "在寒冷的日子里，没有什么比裹在毯子里来一份热巧克力更好的了。",
     }
 }

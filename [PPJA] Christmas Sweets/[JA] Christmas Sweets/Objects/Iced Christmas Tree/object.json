@@ -19,14 +19,15 @@
             "Object": 245,
             "Count": 1,
         },
-{
+        {
             "Object": -5,
             "Count": 1,
         },
-{
+        {
             "Object": 246,
             "Count": 1,
-        },],"IsDefault": true,
+        }, ],
+        "IsDefault": true,
     },
     "GiftTastes":
     {
@@ -38,29 +39,29 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "크리스마스 트리 쿠키",
+         "de": "Gefrorener Weihnachtsbaum",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Árvore de Natal Congelada",
+        "pt": "Árvore de Natal Congelada",
         // "ru": "",
         // "tr": "",
-         "zh": "冰纷圣诞树",
+        "zh": "冰纷圣诞树",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "트리모양 쿠키",
+         "de": "Es sieht irgendwie aus wie ein Weihnachtsbaum.",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "É um pouco similar a uma árvore de Natal.",
+        "pt": "É um pouco similar a uma árvore de Natal.",
         // "ru": "",
         // "tr": "",
-         "zh": "它有点像圣诞树。",
+        "zh": "它有点像圣诞树。",
     }
 }

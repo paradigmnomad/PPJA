@@ -18,7 +18,7 @@
          "pt": "Tabaco",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "烟草",
     },
     "DescriptionLocalization":
     {
@@ -32,7 +32,7 @@
          "pt": "Uma planta que é cultivada para o fumo.",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "一种以吸烟为目的才被耕种的植物。",
     },
     "ContextTags": [
         "season_spring",

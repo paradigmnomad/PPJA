@@ -39,5 +39,11 @@
         "ru": "Ярко-желтая дыня, очень сладкая и пряная.",
          // "tr": "",
         "zh": "一个亮黄色的瓜，它有独特的浓郁甜味。",
-    } 
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_yellow",
+        "fruit_item",
+        "crop_year_2",
+    ], 
 }

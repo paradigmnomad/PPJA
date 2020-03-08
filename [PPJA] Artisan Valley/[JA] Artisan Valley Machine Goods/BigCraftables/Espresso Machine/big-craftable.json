@@ -3,7 +3,7 @@
     "Description": "Whip up delicious coffee creations.",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveNextIndex": true,
+    "ReserveExtraIndexCount": 7,
     "Recipe":
     {
         "ResultCount": 1,
@@ -33,7 +33,7 @@
         // "it": "",
         "ja": "エスプレッソマシン",
         "pt": "Máquina de Café Espresso",
-        // "ru": "",
+        "ru": "Эспрессо-машина",
         // "tr": "",
         "zh": "浓缩咖啡机",
     },
@@ -47,7 +47,7 @@
         // "it": "",
         "ja": "おいしいコーヒーを作りましょう。",
         "pt": "Prepapre vários tipos de café deliciosos.",
-        // "ru": "",
+        "ru": "Взбейте вкуснейшие виды кофе.",
         // "tr": "",
         "zh": "制作美味的咖啡。",
     }

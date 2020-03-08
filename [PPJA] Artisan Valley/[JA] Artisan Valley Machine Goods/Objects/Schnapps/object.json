@@ -19,7 +19,7 @@
         "Duration": 180,
     },
     "Price": 300,
-    "IsColored": false,
+    "IsColored": true,
     "Recipe": null,
     "GiftTastes":
     {
@@ -39,7 +39,7 @@
          // "it": "",
         "ja": "シュナップス",
         "pt": "Aguardente",
-         // "ru": "",
+        "ru": "Шнапс",
          // "tr": "",
         "zh": "烈性干酒",
     },
@@ -53,7 +53,7 @@
          // "it": "",
         "ja": "飲む時は適量を守ってほどほどに。",
         "pt": "Beba com moderação!",
-         // "ru": "",
+        "ru": "Пейте в меру.",
          // "tr": "",
         "zh": "适量饮酒。",
     }

@@ -1,11 +1,11 @@
 {
    "Name": "Khadija's Recipe Shop",
    "Author": "Project Populate Json Assets",
-   "Description": "Snek mail and map strings.",
-   "Version": "1.0.3",
+   "Description": "Map strings.",
+   "Version": "1.0.5",
    "UniqueID": "ppja.KRSCP",
-   "UpdateKeys": [ "5245" ],
-"MinimumApiVersion": "3.0.1",
+   "UpdateKeys": [ "Nexus:5245" ],
+"MinimumApiVersion": "3.3.2",
    "ContentPackFor": {
        "UniqueID": "Pathoschild.ContentPatcher"
     },

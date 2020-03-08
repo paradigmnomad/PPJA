@@ -39,5 +39,11 @@
         "ru": "Обычный зелёный горох. Сам по себе не очень вкусный.",
          // "tr": "",
         "zh": "每个豌豆大小都一样。它本身不是受所有人喜欢。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_green",
+        "vegetable_item",
+        "crop_year_4",
+    ],
 }

@@ -4,7 +4,7 @@
     "Category": "ArtisanGoods",
     "Edibility": -300,
     "Price": 200,
-    "IsColored": false,
+    "IsColored": true,
     "Recipe": null,
     "GiftTastes":
     {
@@ -20,7 +20,7 @@
          // "it": "",
         "ja": "干し野菜",
         "pt": "Vegetais Secos",
-         // "ru": "",
+        "ru": "Сушёные овощи",
          // "tr": "",
         "zh": "蔬菜干",
     },
@@ -34,7 +34,7 @@
          // "it": "",
         "ja": "乾燥させた野菜の袋詰め。",
         "pt": "Uma sacola de verduras secas.",
-         // "ru": "",
+        "ru": "Мешок с сушёными овощами.",
          // "tr": "",
         "zh": "一包蔬菜干。",
     }

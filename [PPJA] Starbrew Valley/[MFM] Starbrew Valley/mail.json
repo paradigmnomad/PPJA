@@ -2,7 +2,7 @@
 	{
 		"Id": "ppja.americanorecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Americano Recipe",
+		"Title": "americano.title",
 		"Text": "americano.text",
 		"Recipe": "Americano",
 		"LetterBG": "NicteLetterBackground.png",
@@ -16,7 +16,7 @@
 	{
 		"Id": "ppja.brandyalexanderrecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Brandy Alexander Recipe",
+		"Title": "brandyalexander.title",
 		"Text": "brandyalexander.text",
 		"Recipe": "Brandy Alexander",
 		"LetterBG": "NicteLetterBackground.png",
@@ -30,7 +30,7 @@
 	{
 		"Id": "ppja.cosmorecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Cosmo Recipe",
+		"Title": "cosmo.title",
 		"Text": "cosmo.text",
 		"Recipe": "Cosmo",
 		"LetterBG": "NicteLetterBackground.png",
@@ -44,7 +44,7 @@
 	{
 		"Id": "ppja.darkandstormyrecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Dark and Stormy Recipe",
+		"Title": "darkandstormy.title",
 		"Text": "darkandstormy.text",
 		"Recipe": "Dark and Stormy",
 		"LetterBG": "NicteLetterBackground.png",
@@ -58,7 +58,7 @@
 	{
 		"Id": "ppja.espressomartinirecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Espresso Martini Recipe",
+		"Title": "espressomartini.title",
 		"Text": "espressomartini.text",
 		"Recipe": "Espresso Martini",
 		"LetterBG": "NicteLetterBackground.png",
@@ -72,7 +72,7 @@
 	{
 		"Id": "ppja.french75recipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "French 75 Recipe",
+		"Title": "french75.title",
 		"Text": "french75.text",
 		"Recipe": "French 75",
 		"LetterBG": "NicteLetterBackground.png",
@@ -86,7 +86,7 @@
 	{
 		"Id": "ppja.hemingwayspecialrecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Hemingway Special Recipe",
+		"Title": "hemingwayspecial.title",
 		"Text": "hemingwayspecial.text",
 		"Recipe": "Hemingway Special",
 		"LetterBG": "NicteLetterBackground.png",
@@ -100,7 +100,7 @@
 	{
 		"Id": "ppja.mintjuleprecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Mint Julep Recipe",
+		"Title": "mintjulep.title",
 		"Text": "mintjulep.text",
 		"Recipe": "Mint Julep",
 		"LetterBG": "NicteLetterBackground.png",
@@ -114,7 +114,7 @@
 	{
 		"Id": "ppja.moonshinecherriesrecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Moonshine Cherries Recipe",
+		"Title": "moonshinecherries.title",
 		"Text": "moonshinecherries.text",
 		"Recipe": "Moonshine Cherries",
 		"LetterBG": "NicteLetterBackground.png",
@@ -128,7 +128,7 @@
 	{
 		"Id": "ppja.nightonthebeachrecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Night on the Beach Recipe",
+		"Title": "nightonthebeach.title",
 		"Text": "nightonthebeach.text",
 		"Recipe": "Night on the Beach",
 		"LetterBG": "NicteLetterBackground.png",
@@ -142,7 +142,7 @@
 	{
 		"Id": "ppja.paradiserecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Paradise Recipe",
+		"Title": "paradise.title",
 		"Text": "paradise.text",
 		"Recipe": "Paradise",
 		"LetterBG": "NicteLetterBackground.png",
@@ -156,7 +156,7 @@
 	{
 		"Id": "ppja.pinacoladarecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Pina Colada Recipe",
+		"Title": "pinacolada.title",
 		"Text": "pinacolada.text",
 		"Recipe": "Pina Colada",
 		"LetterBG": "NicteLetterBackground.png",
@@ -170,7 +170,7 @@
 	{
 		"Id": "ppja.planterspunchrecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Planters Punch Recipe",
+		"Title": "planterspunch.title",
 		"Text": "planterspunch.text",
 		"Recipe": "Planters Punch",
 		"LetterBG": "NicteLetterBackground.png",
@@ -184,7 +184,7 @@
 	{
 		"Id": "ppja.seabreezerecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Sea Breeze Recipe",
+		"Title": "seabreeze.title",
 		"Text": "seabreeze.text",
 		"Recipe": "Sea Breeze",
 		"LetterBG": "NicteLetterBackground.png",
@@ -198,7 +198,7 @@
 	{
 		"Id": "ppja.vampirorecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "Vampiro Recipe",
+		"Title": "vampiro.title",
 		"Text": "vampiro.text",
 		"Recipe": "Vampiro",
 		"LetterBG": "NicteLetterBackground.png",

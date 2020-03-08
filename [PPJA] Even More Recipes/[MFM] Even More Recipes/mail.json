@@ -2,6 +2,7 @@
 	{
 		"Id": "ppja.amethystcookierecipe",
 		"Text": "amethystcookie.text",
+		"Title": "amethystcookie.title",
 		"Recipe": "Amethyst Cookie",
 		"LetterBG": "NicteLetterBackground.png", 
 		"Date": "1 spring Y1",
@@ -18,6 +19,7 @@
 	{
 		"Id": "ppja.bananaandstrawberrycakerecipe",
 		"Text": "bananaandstrawberrycake.text",
+		"Title": "bananaandstrawberrycake.title",
 		"Recipe": "Banana Strawberry Cake",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
@@ -30,6 +32,7 @@
 	{
 		"Id": "ppja.chocolatemousebreadrecipe",
 		"Text": "chocolatemousebread.text",
+		"Title": "chocolatemousebread.title",
 		"Recipe": "Chocolate Mouse Bread",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y3",
@@ -42,6 +45,7 @@
 	{
 		"Id": "ppja.chocolatestrawberrycakerecipeg",
 		"Text": "chocolatestrawberrycake.text",
+		"Title": "chocolatestrawberrycake.title",
 		"Recipe": "Chocolate Strawberry Cake",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y3",
@@ -54,6 +58,7 @@
 	{
 		"Id": "ppja.bananachocolatecreperecipe",
 		"Text": "bananachocolatecrepe.text",
+		"Title": "bananachocolatecrepe.title",
 		"Recipe": "Chocolate and Banana Crepe",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 summer Y2",
@@ -66,6 +71,7 @@
 	{
 		"Id": "ppja.deviledeggsrecipe",
 		"Text": "deviledeggs.text",
+		"Title": "deviledeggs.title",
 		"Recipe": "Deviled Eggs",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
@@ -78,6 +84,7 @@
 	{
 		"Id": "ppja.icedchocolatedonutrecipe",
 		"Text": "icedchocolatedonut.text",
+		"Title": "icedchocolatedonut.title",
 		"Recipe": "Iced Chocolate Donut",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "14 spring Y2",
@@ -90,6 +97,7 @@
 	{
 		"Id": "ppja.keylimepierecipe",
 		"Text": "keylimepie.text",
+		"Title": "keylimepie.title",
 		"Recipe": "Key Lime Pie",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 summer Y1",
@@ -102,6 +110,7 @@
 	{
 		"Id": "ppja.seaweedchipsrecipe",
 		"Text": "seaweedchips.text",
+		"Title": "seaweedchips.title",
 		"Recipe": "Seaweed Chips",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
@@ -114,6 +123,7 @@
 	{
 		"Id": "ppja.strawberrypuddingrecipe",
 		"Text": "strawberrypudding.text",
+		"Title": "strawberrypudding.title",
 		"Recipe": "Strawberry Pudding",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
@@ -126,6 +136,7 @@
 	{
 		"Id": "ppja.tofurecipe",
 		"Text": "tofu.text",
+		"Title": "tofu.title",
 		"Recipe": "Tofu",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",

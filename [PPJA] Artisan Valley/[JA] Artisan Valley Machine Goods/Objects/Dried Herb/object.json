@@ -4,7 +4,7 @@
     "Category": "ArtisanGoods",
     "Edibility": -300,
     "Price": 175,
-    "IsColored": false,
+    "IsColored": true,
     "Recipe": null,
     "GiftTastes":
     {
@@ -21,7 +21,7 @@
          // "it": "",
         "ja": "ドライハーブ",
         "pt": "Ervas Secas",
-         // "ru": "",
+        "ru": "Сушёные травы",
          // "tr": "",
         "zh": "干草药",
     },
@@ -35,7 +35,7 @@
          // "it": "",
         "ja": "乾燥ハーブを束にしたもの。",
         "pt": "Um agrupamento de ervas secas.",
-         // "ru": "",
+        "ru": "Пучок сушёных трав.",
          // "tr": "",
         "zh": "一束干草药。",
     }

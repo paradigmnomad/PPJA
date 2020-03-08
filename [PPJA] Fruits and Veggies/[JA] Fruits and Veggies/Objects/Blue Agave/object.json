@@ -23,7 +23,7 @@
         "pt": "Agave Azul",
         "ru": "Агава голубая",
          // "tr": "",
-          "zh": "蓝色龙舌兰叶",
+        "zh": "蓝色龙舌兰叶",
     },
     "DescriptionLocalization":
     {
@@ -37,6 +37,12 @@
         "pt": "Um corte frontal de uma agave azul. Pode ser usada no processo de fermentação de álcool,",
         "ru": "Срезанный лист агавы голубой. Может быть использован дл производства алкоголя.",
          // "tr": "",
-          "zh": "从蓝色龙舌兰上切下的叶子。它可以用来制造酒精。",
-    }
+        "zh": "从蓝色龙舌兰上切下的叶子。它可以用来制造酒精。",
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_blue",
+        "vegetable_item",
+        "crop_year_3",
+    ],
 }

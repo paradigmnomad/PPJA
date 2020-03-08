@@ -39,5 +39,11 @@
         "ru": "Терпкая ягода с приятным послевкусием.",
          // "tr": "",
         "zh": "一种极酸的浆果，它散发着一种温暖的光泽。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_dark_red",
+        "fruit_item",
+        "crop_year_2",
+    ],
 }
