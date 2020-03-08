@@ -132,6 +132,32 @@
             "When":
             {
                 "Language:ko": true
+			}	
+        },
+		{
+            "LogName": "Portuguese Strings",
+            "Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries":
+            {
+                "Zamir.1": "Zamir: Minha irmã cuida da loja no sábado para que eu possa ir à cidade e reabastecer. Se você tiver algum pedido, faça um pedido no catálogo e farei o possível para adquirir seus itens.",
+                "Zamir.2": "É o pote de Khadija! Ela realmente adora se esconder ... ",
+                "Zamir.3": "LOJA DE RECEITA DE KHADIJA - VILA PELICANOS^Aberto das 8:00 às 19:00 Dom-Sex, exceto no verão^Novos produtos diariamente!",
+                "Nasira.1": "É o catálogo de Nasira. Ela atravessou bravamente todos os campos de legumes e receitas com uma caneta vermelha brilhante.",
+                "Nasira.2": "Há um pequeno travesseiro de veludo dentro! Khadija provavelmente aconchega-se lá quando é hora de ir para casa.",
+                "Nasira.3": "LOJA DE EQUIPAMENTOS DE KHADIJA - VILA PELICANOS^Aberto das 8:00 às 19:00 aos Sábados, exceto no verão^Novos produtos semanalmente!",
+                "Nasira.4": "Carnes e armas de Nasira - apenas aos sábados",
+                "Summer.1": "É uma jarra fofa! Oh,é só a Khadija! Oi!",
+                "Summer.2": "Um baú de gelo cheio de carne fresca. Curiosamente, não há gelo dentro, mas você pode definitivamente sentir um calafrio emanando dele.",
+                "Summer.3": "LOJA DE RECEITAS DA KHADIJA - DESERTO^Aberto das 8:00 às 19:00 Dom-Sex, Somente no Verão^Novos produtos diariamente!.",
+                "SummerSat.1": "Khadija está acenando animadamente para você. Talvez você deva acenar de volta?",
+                "SummerSat.2": "Nasira: Meu irmão encantou aquele baú, então está sempre frio. Eu não sou muito boa em magia, então tenho que transportá-lo para mim todo fim de semana..",
+                "SummerSat.3": "LOJA DE EQUIPAMENTOS DA KHADIJA - DESERTO^Aberto das 8:00 às 19:00 Sábados, somente no verão^Novos produtos semanalmente!",
+                "SummerSat.4": "Carnes e armas de Nasira - apenas aos sábados",
+            },
+            "When":
+            {
+                "Language:pt": true
             },
         },
     ]
