@@ -1,0 +1,41 @@
+{
+    "Name": "Soy Sauce Pickle",
+    "Description": "Vegetables & friut preserved with Soy Sauce.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 250,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        //"es": "",
+        "ko": "간장 장아찌",
+        //"de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        //"ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "야채나 과일을 간장에 절여 발효한 보존식품",
+        //"de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        //"ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        //"zh": "",
+    }
+}

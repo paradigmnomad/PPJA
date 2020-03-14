@@ -1,0 +1,17 @@
+﻿{
+	"Name": "[MFM] Regional Cuisine",
+	"Author": "Project Populate Json Assets",
+	"Version": "1.0.0",
+	"Description": "Adds letters to Regional Cuisine.",
+	"UniqueID": "ppja.RegionalCuisineMFM",
+	"MinimumApiVersion": "3.3.2",
+	"UpdateKeys": ["Nexus:5233"],
+	"Dependencies": [
+		{
+			"UniqueID": "ppja.RegionalCuisineJA"
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod"
+	}
+}

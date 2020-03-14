@@ -1,0 +1,56 @@
+{
+    "Name": "Preserve Pottery",
+    "Description": "Preserve fruit with honey, or Pickle vegetables and seafood with Salt.", 
+    "Price": 1,
+    "ProvidesLight": false, 
+    "CanPurchase": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 330, //Clay
+            "Count": 50,
+        },
+        {
+            "Object": 382, //Coal
+            "Count": 8,
+        },
+        {
+            "Object": 388, //Wood
+            "Count": 20,
+        },
+      ],
+	  "CanPurchase": true,
+	  "PurchaseFrom": "Dwarf",
+      "PurchasePrice": 2000,
+    },
+        "NameLocalization":
+        { 
+            //"es": "", //Spanish
+            "ko": "장독대",
+            //"de": "", //German
+            //"fr": "", //French
+            //"hu": "", //Hungarian
+            //"it": "", //Italian
+            //"ja": "", //Japanese
+            //"pt": "", //Portuguese
+            //"ru": "", //Russian
+            //"tr": "", //Turkish
+            //"zh": "", //Chinese (Simplified)
+        },
+        "DescriptionLocalization": //Used for localization. 
+        { 
+            //"es": "", //Spanish
+            "ko": "과일청을 만들거나, 생선이나 야채를 소금에 절일 수 있습니다.",
+            //"de": "", //German
+            //"fr": "", //French
+            //"hu": "", //Hungarian
+            //"it": "", //Italian
+            //"ja": "", //Japanese
+            //"pt": "", //Portuguese
+            //"ru": "", //Russian
+            //"tr": "", //Turkish
+            //"zh": "", //Chinese (Simplified)
+        }
+    }
