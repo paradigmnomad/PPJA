@@ -1,0 +1,54 @@
+{
+    "Name": "Espresso Machine",
+    "Description": "Whip up delicious coffee creations.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 7,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 768,
+            "Count": 10,
+        },
+        {
+            "Object": 335,
+            "Count": 5,
+        },
+        {
+            "Object": 787,
+            "Count": 1,
+        }, ],
+        "CanPurchase": false,
+        "IsDefault": true,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "에스프레소 머신",
+        "de": "Espressomaschine",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "エスプレッソマシン",
+        "pt": "Máquina de Café Espresso",
+        "ru": "Эспрессо-машина",
+        // "tr": "",
+        "zh": "浓缩咖啡机",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "맛있는 커피를 만들어 보세요.",
+        "de": "Zaubert leckere Kaffeekreationen.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "おいしいコーヒーを作りましょう。",
+        "pt": "Prepapre vários tipos de café deliciosos.",
+        "ru": "Взбейте вкуснейшие виды кофе.",
+        // "tr": "",
+        "zh": "制作美味的咖啡。",
+    }
+}

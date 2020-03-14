@@ -1,0 +1,54 @@
+{
+    "Name": "Yogurt Jar",
+    "Description": "A jar to allow milk to ferment into yogurt.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": true,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 390,
+            "Count": 40,
+        },
+        {
+            "Object": 186,
+            "Count": 5,
+        },
+        {
+            "Object": 337,
+            "Count": 2,
+        }, ],
+        "CanPurchase": false,
+        "IsDefault": true,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "요거트 단지",
+        "de": "Joghurtglas",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "ヨーグルト瓶",
+        "pt": "Iogurteira",
+        "ru": "Йогуртница",
+        // "tr": "",
+        "zh": "酸奶罐",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "우유를 요거트로 발효시키는 단지.",
+        "de": "Ein großes Glas, um Milk zu Joghurt zu fermentieren.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+       "ja": "ミルクを発酵させてヨーグルトにするための瓶。",
+        "pt": "Iogurteira top therm, fermenta leite para fazer iogurte.",
+        "ru": "Сосуд, в котором можно заквасить молоко в йогурт.",
+        // "tr": "",
+        "zh": "这个罐子能够将牛奶与其它东西发酵成酸奶。",
+    }
+}

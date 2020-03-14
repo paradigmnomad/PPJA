@@ -1,0 +1,49 @@
+{
+    "Name": "Still",
+    "Description": "A distillation system used to make liquor.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 335,
+            "Count": 5,
+        },
+        {
+            "Object": 334,
+            "Count": 10,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "증류 가마",
+        "de": "Destille",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "蒸留器",
+        "pt": "Destilador",
+        "ru": "Дистиллятор",
+        // "tr": "",
+        "zh": "酒蒸馏器",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "술을 만드는데 사용되는 증류장치.",
+        "de": "Ein Destillationssystem, das für die Likörherstellung genutzt wird.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "蒸留の仕組みでお酒を造るのに使う。",
+        "pt": "Usado para destilar bebidas alcoólicas.",
+        "ru": "Система дистилляции, используемая для приготовления ликера.",
+        // "tr": "",
+        "zh": "一种用来酿酒的蒸馏系统。",
+    }
+}
