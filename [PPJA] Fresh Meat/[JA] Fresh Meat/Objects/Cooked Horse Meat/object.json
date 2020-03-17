@@ -1,0 +1,30 @@
+{
+    "Name": "Cooked Horse Meat",
+    "Description": "Meat from a horse, already cooked and ready to be used in recipes.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 480,
+    "IsColored": false,
+    "GiftTastes":
+    {
+		"Love": ["Gregory"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian", "Sheila"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Horse Meat",
+            "Count": 1,
+        },
+        {
+            "Object": "Seasonings",
+            "Count": 1,
+        },
+        ],
+    },
+    "PurchasePrice": 550,
+    "PurchaseRequirements": null,
+}
