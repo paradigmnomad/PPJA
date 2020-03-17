@@ -154,7 +154,7 @@
 	{
 		"Id": "PPJA.PottedTulipRecipe",
 		"GroupID": "F2F.CraftingRecipe",
-		"Text": "pottedtulipe.text",
+		"Text": "pottedtulip.text",
 		"Recipe": "Potted Tulip",
 		"SkillConditions": 
 		[
