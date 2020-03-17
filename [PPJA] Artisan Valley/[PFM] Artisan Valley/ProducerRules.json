@@ -124,6 +124,46 @@
         "OutputIdentifier": "Whiskey",
         "Sounds": ["Ship"],
     },
+    {
+        "ProducerName": "Still",
+        "InputIdentifier": "Bitter Orange",
+        "InputStack": 1,
+        "MinutesUntilReady": 2360,
+        "OutputIdentifier":"Campari",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Still",
+        "InputIdentifier": 635,
+        "InputStack": 1,
+        "MinutesUntilReady": 2360,
+        "OutputIdentifier":"Cointreau",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Still",
+        "InputIdentifier": "Raspberry",
+        "InputStack": 1,
+        "MinutesUntilReady": 2360,
+        "OutputIdentifier":"Chambord",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Still",
+        "InputIdentifier": 408,
+        "InputStack": 1,
+        "MinutesUntilReady": 2360,
+        "OutputIdentifier":"Frangelico",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Still",
+        "InputIdentifier": "Cocoa Pod",
+        "InputStack": 1,
+        "MinutesUntilReady": 2360,
+        "OutputIdentifier":"Creme de Cacao",
+        "Sounds": ["Ship"],
+    },
 
     // Keg
 
@@ -253,6 +293,24 @@
         "FuelStack": 1,
         "MinutesUntilReady": 6000,
         "OutputIdentifier": "Umeshu",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Keg",
+        "InputIdentifier": "Champagne Grape",
+        "InputStack": 1,
+        "MinutesUntilReady": 6000,
+        "OutputIdentifier": "Champagne",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Keg",
+        "InputIdentifier": "Raspberry",
+        "InputStack": 1,
+        "FuelIdentifier": "Yeast",
+        "FuelStack": 1,
+        "MinutesUntilReady": 6000,
+        "OutputIdentifier": "Framboise Lambic",
         "Sounds": ["Ship"],
     },
 
@@ -970,6 +1028,31 @@
         "Sounds": ["Ship"],
     },
 
+    {
+        "ProducerName": "Grinder",
+        "InputIdentifier": "635",
+        "InputStack": 1,
+        "MinutesUntilReady": 60,
+        "OutputIdentifier": "Orange Peel",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Grinder",
+        "InputIdentifier": "Lemon",
+        "InputStack": 1,
+        "MinutesUntilReady": 60,
+        "OutputIdentifier": "Lemon Peel",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Grinder",
+        "InputIdentifier": "Lime",
+        "InputStack": 1,
+        "MinutesUntilReady": 60,
+        "OutputIdentifier": "Lime Peel",
+        "Sounds": ["Ship"],
+    },
+
     // Infuser
 
     {
@@ -1281,6 +1364,14 @@
         "InputStack": 1,
         "MinutesUntilReady": 2360,
         "OutputIdentifier": "419",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Vinegar Cask",
+        "InputIdentifier": "Champagne Grape",
+        "InputStack": 1,
+        "MinutesUntilReady": 2360,
+        "OutputIdentifier": "Champagne Vinegar",
         "Sounds": ["Ship"],
     },
 
