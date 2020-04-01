@@ -1,0 +1,48 @@
+{
+    "Name": "Ume",
+    "Description": "A sweet and sour green fruit. It used to preserved with sugar or salt.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 50,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Gus", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Vincent"]
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        //"es": "",
+        "ko": "매실",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "설탕이나 소금에 절여서 먹는 새콤달콤한 녹색 과일.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_Green",
+        "fruit_tree_item",
+        "fruit_item",
+        "dye_medium"
+    ]
+}

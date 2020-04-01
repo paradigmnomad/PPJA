@@ -1,0 +1,25 @@
+{
+    // Text
+
+    "chamomile.text": "Dear @,^^ Here's some seeds from the little garden I keep out back. You probably already have some of these but they make a great tea.^^  -Caroline",
+    "fairyduster.text": "Hi there, sweetie!^^There's an older fellow who makes deliveries to my store, and I think he's got a little crush.^He didn't have any flowers, so instead he gave me these seeds right off his truck. So sweet!^Anyway, I wasn't going to plant them, but maybe you would? ;)^^  -Sandy",
+    "honeysuckle.text": "Good morning @,^^ Marnie dropped by last week and gave me these seeds. I think you'll get more use out of them than I will. Make sure you pick more up next spring to grow for me.^^  -Leah",
+    "herballavender.text": "Good Morning @,^^ Thank you for everything you've done so far for our little town. Please accept this as a token of my appreciation. I hope you'll find a nice sunny spot to plant it on the farm.^^  -Penny",
+    "fragrantlilac.text": "Dear @,^^ I had a dream the other night where I gave you this bag of seeds. You planted them and then the next thing I knew, I was standing in a field of lilacs. They kept changing colors from purple to white and back again.^I don't know what it means, but maybe you do?^^  -Emily",
+    "passionflower.text": "Good Morning @,^^ It might not be ores, but these may come in handy. Come visit me at the shop whenever you get a chance.^^  -Clint",
+    "pitcherplant.text": "Hey @,^^  I managed to get my hands on some seeds for this really cool carnivorous plant. Dad's worried it might attract too many flies into the house and ruin his experiments, though.^I think I can convince him otherwise if you grow one and bring it to me.^It'd be a big favor, thanks!^^  -Maru",
+    "rafflesia.text": "Dear @,^^  An old colleague of mine sent me this exotic seed. It's one of the largest flowers in the world with an astonishing appearance, and I'm interested to see how big it can grow.^However, be careful of the aroma it emits while in bloom. Shall we say... Robin has forbidden me from planting them at home.^^ -Demetrius",
+    "rose.text": "@,^^  Do you think you could plant some of these for me? They're my favorite kind because they're nearly as beautiful as I am. ^^ -Haley",
+
+    // Titles
+
+    "chamomile.title": "Chamomile Seeds",
+    "fairyduster.title": "Fairy Duster Seeds",
+    "honeysuckle.title": "Honeysuckle Starter",
+    "herballavender.title": "Herbal Lavender Seeds",
+    "fragrantlilac.title": "Fragrant Lilac Seeds",
+    "passionflower.title": "Passion Flower Seeds",
+    "pitcherplant.title": "Pitcher Plant Seeds",
+    "rafflesia.title": "Rafflesia Seeds",
+    "rose.title": "Rose Starter"
+}

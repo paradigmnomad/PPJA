@@ -19,14 +19,15 @@
             "Object": 245,
             "Count": 1,
         },
-{
+        {
             "Object": -5,
             "Count": 1,
         },
-{
+        {
             "Object": 246,
             "Count": 1,
-        },],"IsDefault": true,
+        }, ],
+        "IsDefault": true,
     },
     "GiftTastes":
     {
@@ -38,29 +39,29 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "호랑가시나무 장식 쿠키",
+         "de": "Verzierter Keks",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Biscoitos Decorados de Azevinho",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "冬青装饰饼干",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "호랑가시나무 모양으로 장식된 아름다운 쿠키.",
+         "de": "Das Dekorieren dauerte nur ein paar Stunden, aber jetzt haben Sie einen wunderschön dekorierten Keks.",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Leva apenas poucas horas para decorar, mas ao final você tem um biscoito bem decorado.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "只需花几个小时的时间，你就可以拥有一块装饰精美的饼干。",
     }
 }

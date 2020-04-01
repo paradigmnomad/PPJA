@@ -31,10 +31,10 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Iniciador de Diesel Azedo",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "酸柴油种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -45,9 +45,9 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Esta variedade dá efeitos cerebrais sonhadores energizantes. Uma das maiores escolhas entre pacientes médicos. Plante-as no outono. Leva 12 dias para amadurecer e continua produzindo a cada 3 dias.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "这种品系提供充满活力、白日梦般的效果，是医疗患者的首选。秋天播种。12天成熟，之后每3天收获一次。",
     }
 }

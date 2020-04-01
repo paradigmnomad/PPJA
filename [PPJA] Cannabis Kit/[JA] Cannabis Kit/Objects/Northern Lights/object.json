@@ -21,10 +21,10 @@
          // "hu": "",
          // "it": "",
          // "ja": "",
-         // "pt": "",
+         "pt": "Luzes do Norte",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "北极光",
     },
     "DescriptionLocalization":
     {
@@ -35,10 +35,10 @@
          // "hu": "",
          // "it": "",
          // "ja": "",
-         // "pt": "",
+         "pt": "Esta planta pequena e espessa é ideal para relaxamento completo do corpo com sua alta produção de resina e curto tempo de floração.",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "这种矮而多叶的植物，因树脂产量高、花期短，非常适合全身放松。",
     },
     "ContextTags": [
         "season_summer",

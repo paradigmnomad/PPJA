@@ -1,0 +1,34 @@
+{
+
+// Text
+
+"icedchristmastree.text": "Dear @,^I was just thinking of you as I thought of how to spread a little holiday cheer this year. This is a very easy sugar cookie recipe that even the busiest of us can find time to make. Happy holidays, dearie!^   -Evelyn",
+"iceddecoratedchristmastree.text": "Dear @,^I've enclosed a cookie recipe that's based on an old family recipe. Rather, I've improved that recipe over the years so that its decorations look so pretty and balanced, your friends and family can't help but love them.^Or maybe make one for that special someone! Hee hee!    -Evelyn",
+"icedgreenchristmastree.text": "Dear @,^I hope you're making some cookies this month! The holidays just wouldn't be the same without them.^Anyway, I've entrusted to you one of my most beloved cookie recipes. The design on this one won me first prize in a bake-off some twenty years ago! May your winter be merry and bright!^   -Evelyn",
+"jamfilledcookie.text": "Dear @,^This cookie recipe is an old holiday classic. Some of my earliest Winter Star memories are about eating them.^And to this day, even little ones like Vincent and Jas can't resist these on a platter of different cookies. It's such a treat to see!^   -Evelyn",
+"mittencookie.text": "Dear @,^Since you're in your off season with all your fields frozen over, I figured I'd give you something fun to do in the kitchen that'll warm you up.^This is my mitten cookie recipe. Be patient with how you pipe the icing to get a nice, even zigzag, and it's sure to put a smile on the face of whoever eats it.^   -Evelyn",
+"pufferchickcookie.text": "Dear @,^This cookie recipe isn't exactly holiday themed, but it never hurts to have a couple of fun or silly cookies on your spread.^When it comes to spreading joy, some of us just love thinking outside the box and modifying the task at hand to suit what we love!^   -Evelyn",
+"snowmancookie.text": "Dear @,^Happy feasting! I've enclosed how to bring this jolly, happy soul to life one day.^Sometimes these little snowmen look so cute, it's a shame to eat them. Luckily, they taste taste so good that we never wind up with any regrets.^Have fun with this one, dearie!^   -Evelyn",
+"hollydecoratedcookie.text": "Dear @,^This cookie is a beauty, so why don't you give it a try?^You can always use royal icing for the holly leaves and berries, but if you want a more three-dimensional look, a little fondant icing goes a long way.^George certainly loves these. And I hope you do, too!^   -Evelyn",
+"snowmanscenerycookie.text": "Dear @,^Oh, let it snow!^I know you're not one to shy away from a challenge, dearie, so I've enclosed step-by-step drawings for how to make the most beautiful snowman scenery cookie.^It looks a little bit like Stardew Valley, wouldn't you say?^Let me know if this one gives you trouble -- I'm happy to help!^   -Evelyn",
+"stardropcookie.text": "Dear @,^We all know that Stardrops are on our minds when we think of the Winter Star.^It may not be the real deal, but it's just about the closest thing you'll find! I've yet to find anyone who's been disappointed by this recipe.^Happy feasting!^   -Evelyn",
+"stockingcookie.text": "Dear @,^Ho ho ho! What do you want to find in your stocking this year for the Winter Star, dearie?^Whatever you're hoping for, these little stocking cookies will be sure to put you in the holiday spirit. Why don't you make yourself a nice little treat?^   -Evelyn",
+"christmaschocolatecandiecookies.text": "Dear @,^Happy holidays! I wanted to share this recipe with you.^It's just like my normal cookie recipe, but you use red and green chocolate candies instead of chocolate chips.^If you want to add a fun little twist, you can use peanut butter chocolate candies, too!^    -Evelyn",
+
+// Titles
+
+"icedchristmastree.title": "Iced Christmas Tree Cookie Recipe",
+"iceddecoratedchristmastree.title": "Iced Decorated Christmas Tree Cookie Recipe",
+"icedgreenchristmastree.title": "Iced Green Christmas Tree Cookie Recipe",
+"jamfilledcookie.title": "Jam-Filled Cookie Recipe",
+"mittencookie.title": "Mitten Shaped Cookie Recipe",
+"pufferchickcookie.title": "Pufferchick Cookie Recipe",
+"snowmancookie.title": "Snowman Cookie Recipe",
+"hollydecoratedcookie.title": "Holly Decorated Cookie Recipe",
+"snowmanscenerycookie.title": "Snowman Scenery Cookie Recipe",
+"stardropcookie.title": "Stardrop Shaped Cookie Recipe",
+"stockingcookie.title": "Stocking Shaped Cookie Recipe",
+"christmaschocolatecandiecookies.title": "Christmas Chocolate Candie Cookies Recipe"
+
+}
+

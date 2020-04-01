@@ -1,0 +1,50 @@
+{
+    "Name": "Ylang Ylang",
+    "Description": "A highly appreciated flower in perfumery and aromatherapy.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 75,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Haley", "Sandy", "Abigail"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Ylang Ylang",
+        "ko": "일랑일랑",
+        "de": "Ylang Ylang",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "イランイラン",
+        "pt": "Ilangue-ilangue",
+        "ru": "Иланг-иланг",
+         // "tr": "",
+        "zh": "依兰依兰",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una flor muy apreciada en perfumería y aromaterapia.",
+        "ko": "향수 및 아로마 테라피 분야에서 높이 평가되는 꽃입니다.",
+        "de": "Eine sehr geschätzte Blume in der Parfümerie und Aromatherapie.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "香水とアロマオイルで高く評価されている花。",
+        "pt": "Uma flor muito apreciada em perfumaria e aromaterapia.",
+        "ru": "Высоко ценится в области парфюмерии и ароматерапии.",
+         // "tr": "",
+        "zh": "在香水和芳香疗法中，这是一种非常受欢迎的花。依兰依兰是香水最重要的原料之一",
+    },
+    "ContextTags": [
+        "season_summer",
+        "crop_year_two",
+        "fruit_tree_year_two",
+        "color_yellow_green",
+        "fruit_tree_item",
+        "flower_item",
+    ]
+}

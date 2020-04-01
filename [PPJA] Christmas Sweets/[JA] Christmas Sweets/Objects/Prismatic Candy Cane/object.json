@@ -12,56 +12,53 @@
         "ResultCount": 1,
         "Ingredients": [
         {
-            "Object": 245,
-            "Count": 3,
-        },
-        {
-            "Object": "Mint",
+            "Object": "Peppermints",
             "Count": 1,
         },
-{
+        {
             "Object": 635,
             "Count": 1,
         },
-{
+        {
             "Object": 638,
             "Count": 1,
         },
-{
+        {
             "Object": 258,
             "Count": 1,
-        },],"IsDefault": true,
+        }, ],
+        "IsDefault": true,
     },
     "GiftTastes":
-    {        
+    {
         "Dislike": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Abigail", "Haley", "Maru", "Sebastian", "Evelyn", "Emily", "Krobus", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "무지개빛 사탕지팡이",
+         "de": "Prismatische Zuckerstange",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Bastão Doce Prismático",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "五彩手杖糖",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "이 사탕을 만든다고 무지개빛파편이 손상되진 않았습니다.",
+         "de": "Bei der Herstellung dieser Zuckerstange wurden keine prismatischen Scherben verletzt.",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Nenhum fragmento prismático foi quebrado na fabricação deste biscoito.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "在制作这根手杖糖的过程中，可以发誓没有五彩碎片受到伤害。",
     }
 }

@@ -1,0 +1,14 @@
+﻿[
+	// B E G I N  B F A V  Q U A I L  P R O D U C T S
+
+	{
+		"ProducerName": "Mayonnaise Machine", 
+		"InputIdentifier": "quail_egg_item", 
+		"InputStack": 1, 
+		"MinutesUntilReady": 360, 
+		"OutputIdentifier":"Quail Mayonnaise",  
+		"Sounds": ["Ship"], 
+	},
+
+	// E N D  B F A V  Q U A I L  P R O D U C T S
+]

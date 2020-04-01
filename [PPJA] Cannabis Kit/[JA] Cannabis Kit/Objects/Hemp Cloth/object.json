@@ -21,10 +21,10 @@
          // "hu": "",
          // "it": "",
          // "ja": "",
-         // "pt": "",
+         "pt": "Pano de Cânhamo",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "工业大麻布料",
     },
     "DescriptionLocalization":
     {
@@ -35,9 +35,9 @@
          // "hu": "",
          // "it": "",
          // "ja": "",
-         // "pt": "",
+         "pt": "Uma espécie sustentável de pano.",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+         "zh": "一种更可持续的布料。",
     }
 }

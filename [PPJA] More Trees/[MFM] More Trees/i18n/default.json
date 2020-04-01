@@ -1,0 +1,30 @@
+{
+    // Text
+    "camphor.text": "Hello there dear,^^  As George and I get older, we've had to take extra care with our health. I've found that camphor does wonders with the joints and the skin.^I don't know whether you have space on your farm to grow this sapling, but I thought you might be interested.^^  -Evelyn",
+    "breadfruit.text": "Dear @,^^ I received this from Willy, who somehow acquired it from a sailing trip down south.^I know this isn't the season, but if you plant this over winter, you'll have a nice Breadfruit tree to harvest from in the spring.^^  -Elliott",
+    // "cassia.text": "Hello, @.^^ Some sort of veterans' charity gifted this to me for my service. It was a symbolic gift and I know it's the thought that counts, but I have to admit I don't think I'll actually plant this.^I'd hate to see the thing die, though. Think you can make it grow?^^  -Kent",
+    "eucalyptus.text": "Hey @,^^ Ever wondered what it'd be like to have koalas on your farm?^Well, neither did I, until Dad and I recently collaborated on some research. It looks like koalas can't live in Stardew Valley, but their only source of food can!^Here's a leftover eucalyptus sapling from our research in case you're interested.^^  -Maru",
+    "fig.text": "Dear @,^^ I'm currently studying the natural evolution of fig trees. My hypothesis is that this sapling will yield extra large fruit, but there's only one way to find out!^If you are able to plant it, I'll check on it routinely to collect data. All the figs would be yours to keep, though!^^ -Demetrius",
+    "grapefruit.text": "@,^^  Every morning I have a protein shake with a grapefruit. Gotta have that balanced breakfast!^I read an article saying that locally grown grapefruit are fresher and better for you, so... I dunno, I'm kind of on a grapefruit kick right now. Think you could become my supplier?^^  -Alex",
+    "melaleuca.text": "Dear @,^^  Some environmentalists sent me this sapling and told me to plant it. Maybe they got my name from a list; I guess they didn't know that I don't grow trees on my farm. Would you be interested, though?^I've heard these trees are very beautiful.^^  -Marnie",
+    "persimmon.text": "Hi.^^ Me found this. Okay, poke?^^ You can have it, poke.^^  -hat mouse",
+    "pomelo.text": "Hey @!^^ Back when we lived in Zuzu City, my mom would get pomelos all the time, but out here, Vincent's never even tried one.^My idea is that you could grow this and then we'll all be able to enjoy the fruit that grows on it. Maybe Vincent could climb the tree, too! I'm sure it'd be really special for him.^^  -Sam",
+    "vanilla.text": "Greetings,^^  I hope you can find some use for this sapling. The vanilla bean houses many arcane properties, and Wizards around the world have used it for centuries in potions and hermetics.^The fact that it tastes delicious in ice cream is a mere coincidence.^^ -M. Rasmodius, Wizard",
+    "fragrantwisteria.text": "Hey @,^^ How do I describe this? These trees smell really magical.^It's kind of random for me to send this, I know, but trust me -- you're gonna like it.^^  -Abigail",
+    "ylangylang.text": "Hey @,^^ I read that the flowers from this tree are good for helping your skin. Plus it's so beautiful when it blooms. Maybe you want to try planting one?^^ -Abigail",
+
+    // Titles
+
+    "camphor.title": "Camphor Sapling",
+    "breadfruit.title": "Breadfruit Sapling",
+    // "cassia.title": "Cassia Sapling",
+    "eucalyptus.title": "Eucalyptus Sapling",
+    "fig.title": "Fig Sapling",
+    "grapefruit.title": "Grapefruit Sapling",
+    "melaleuca.title": "Melaleuca Sapling",
+    "persimmon.title": "Persimmon Sapling",
+    "pomelo.title": "Pomelo Sapling",
+    "vanilla.title": "Vanilla Sapling",
+    "fragrantwisteria.title": "Fragrant Wisteria Sapling",
+    "ylangylang.title": "Ylang Ylang Sapling",
+}

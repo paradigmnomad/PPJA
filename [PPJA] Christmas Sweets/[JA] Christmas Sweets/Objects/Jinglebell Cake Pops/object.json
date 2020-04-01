@@ -19,10 +19,10 @@
             "Object": 384,
             "Count": 1,
         },
-{
+        {
             "Object": 380,
             "Count": 1,
-        },],
+        }, ],
         "IsDefault": true,
     },
     "GiftTastes":
@@ -35,29 +35,29 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "징글벨 케이크팝",
+         "de": "Jingle Bells Schokoladenkuchen - Kugeln",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Pirulitos de Sino Natalino",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "圣诞铃铛棒棒糖",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "은색과 금색의 종 모양으로 장식된 초콜릿 케이크 팝.",
+         "de": "Zwei Schokoladenkuchen-Kugeln, die so dekoriert sind, dass sie wie Silber- und Goldglocken aussehen.",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Dois alfajores decorados à aparência de sinos prateado e dourado.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "两个装饰得像银铃和金铃的巧克力蛋糕棒棒糖。",
     }
 }

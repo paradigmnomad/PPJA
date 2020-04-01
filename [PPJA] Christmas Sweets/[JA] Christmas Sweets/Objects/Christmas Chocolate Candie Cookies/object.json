@@ -23,43 +23,43 @@
             "Object": -5,
             "Count": 1,
         },
-{
+        {
             "Object": "Chocolate",
             "Count": 1,
-        },],
-"IsDefault": true,
+        }, ],
+        "IsDefault": true,
     },
     "GiftTastes":
-    {        
-	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "크리스마스 초콜렛 캔디 쿠키",
+        "de": "Weihnachts-Pralinenplätzchen",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Biscoito Doce Natalino",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "圣诞巧克力糖果饼干",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "초콜렛이 들어간 쫄깃한 쿠키",
+         "de": "Sehr zähe Kekse mit Schokoladenstücken.",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Biscoitos mastigáveis com pedacinhos de chocolate dentro.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "很有嚼劲的饼干，内含巧克力。",
     }
 }

@@ -1,0 +1,51 @@
+{
+    "Name": "Pomelo",
+    "Description": "A really large, not so bitter, cousin of the grapefruit.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 80,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Gus"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Pomelo",
+        "ko": "포멜로",
+        "de": "Pomelo",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ブンタン",
+        "pt": "Pomelo",
+        "ru": "Помело",
+         // "tr": "",
+        "zh": "柚子",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una gran fruta amarga, rica en vitamina C. ¿Eres más de lo salado o azucarado?",
+        "ko": "자몽의 사촌이고 크기가 크지만, 그렇게 쓰지는 않아요.",
+        "de": "Ein wirklich großer, nicht so bitterer Cousin der Grapefruit.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "とても大きな、それほど苦くはないグレープフルーツのいとこ。",
+        "pt": "Um primo realmente grande, não tão amargo, da toranja.",
+        "ru": "Довольно большой, но не такой горький, двоюродный брат грейпфрута.",
+         // "tr": "",
+        "zh": "一个非常大的，但不那么苦的柚子，是西柚的近亲。",
+    },
+    "ContextTags": [
+        "season_winter",
+        "crop_year_two",
+        "fruit_tree_year_two",
+        "color_green",
+        "fruit_tree_item",
+        "fruit_item",
+        "dye_medium"
+    ]
+}

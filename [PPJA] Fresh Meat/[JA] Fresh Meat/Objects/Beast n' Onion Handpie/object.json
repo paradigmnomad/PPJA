@@ -1,0 +1,57 @@
+{
+    "Name": "Beast n' Onion Handpie",
+    "Description": "A crisp pasty stuffed with delicious minced beast meat.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 175,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cooked Beast Meat",
+            "Count": 1,
+        },
+        {
+            "Object": 399,
+            "Count": 1,
+        },
+        {
+            "Object": "Batter",
+            "Count": 1,
+        },
+        ],
+    },
+    "PurchasePrice": 200,
+    "PurchaseRequirements": null,
+
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "野兽洋葱手馅饼",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "一个酥脆的馅饼，里面塞满了美味的绞碎的野兽肉。",
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "Name": "Coconut Curry",
+    "Description": "Curry simmered with fresh coconut milk and tender reptile meat.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 175,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cooked Reptile Meat",
+            "Count": 1,
+        },
+        {
+            "Object": 88,
+            "Count": 2,
+        },
+        {
+            "Object": 256,
+            "Count": 1,
+        },
+        {
+            "Object": 270,
+            "Count": 1,
+        }, ],
+    },
+    "PurchasePrice": 200,
+    "PurchaseRequirements": null,
+
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "椰子咖喱",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "用新鲜椰汁和鲜嫩的爬行动物肉炖制而成的咖喱",
+    }
+}

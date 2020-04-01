@@ -1,0 +1,62 @@
+{
+  "Name": "Bacon n Eggs",
+  "Description": "Nothing like bacon and eggs on a cold morning.",
+  "Category": "Cooking",
+  "Edibility": 67,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Price": 245,
+  "IsColored": false,
+  "GiftTastes": {
+	"Love": ["Alex"],
+	"Like": ["Abigail", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+	"Neutral": ["Harvey", "Leah"],
+	"Dislike": ["Emily", "Haley", "Jas", "Marnie"],
+	"Hate": ["Sebastian"],
+  },
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Bacon",
+        "Count": 1,
+      },
+{
+        "Object": -5,
+        "Count": 2,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 800,
+    "PurchaseRequirements": [
+      "z winter"]
+  },
+
+ "NameLocalization": { 
+    "es": "Huevos con tocino",
+    "ko": "베이컨과 계란후라이",
+    "de": "Eier und Speck",
+    "fr": "Bacon et Oeufs",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+    "ru": "Бекон и яйца",
+     // "tr": "",
+    "zh": "熏肉培根和鸡蛋",
+  },
+ "DescriptionLocalization": { 
+    "es": "Nada como el tocino y los huevos en una fría mañana.",
+    "ko": "추운 아침에 베이컨이나 계란후라이만 있으면 아무 문제 없습니다.",
+    "de": "Es gibt nichts besseres.",
+    "fr": "Tout le monde aime le bacon et les œufs par une froide matinée.",
+     // "hu": "",
+     // "it": "",
+     // "ja": "",
+     // "pt": "",
+    "ru": "Нет ничего лучше бекона и яиц холодным утром.",
+     // "tr": "",
+    "zh": "熏肉培根和鸡蛋。没有比熏肉培根和鸡蛋更棒的早餐了。",
+  }
+}

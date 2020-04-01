@@ -1,0 +1,17 @@
+﻿{
+	"Name": "[MFM] Mizu's Flowers",
+	"Author": "Project Populate Json Assets",
+	"Version": "1.0.5",
+	"Description": "Allows recipes to be mailed to the player.",
+	"UniqueID": "ppja.MizusFlowersforMFM",
+	"MinimumApiVersion": "3.2.0",
+	"UpdateKeys": [],
+	"Dependencies": [
+		{
+			"UniqueID": "mizu.flowers"
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod"
+	}
+}

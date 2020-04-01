@@ -21,7 +21,7 @@
          // "it": "",
         "ja": "キュウリ",
         "pt": "Pepino",
-         // "ru": "",
+        "ru": "Огурец",
          // "tr": "",
         "zh": "黄瓜",
     },
@@ -35,8 +35,14 @@
          // "it": "",
         "ja": "多くの水分を含んでいて、かりっとしておいしい。",
         "pt": "Um lanche delicioso e aguado.",
-         // "ru": "",
+        "ru": "Вкусная водянистая закуска.",
          // "tr": "",
         "zh": "这是一种美味多汁的零嘴小吃。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_green",
+        "vegetable_item",
+        "crop_year_2",
+    ],
 }

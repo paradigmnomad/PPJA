@@ -30,30 +30,30 @@
 
         "NameLocalization": //Used for localization. 
         { 
-            /*"es": "", //Spansih*/
+            //"es": "", //Spanish
             "ko": "건조기", //Korean
-            /*"de": "", //German
-            "fr": "", //French
-            "hu": "", //Hungarian
-            "it": "", //Italian
-            "ja": "", //Japanese
-            "pt": "", //Portuguese
-            "ru": "", //Russian
-            "tr": "", //Turkish*/
-            "zh": "烘干机", //Chinese (Simplified)*/
+            //"de": "", //German
+            //"fr": "", //French
+            //"hu": "", //Hungarian
+            //"it": "", //Italian
+            //"ja": "", //Japanese
+            "pt": "Secador", //Portuguese
+            "ru": "Сушилка", //Russian
+            //"tr": "", //Turkish/
+            "zh": "晾晒架", //Chinese (Simplified)
         },
         "DescriptionLocalization": //Used for localization. 
         { 
-            /*"es": "", //Spansih*/
+            //"es": "", //Spanish
             "ko": "말린 꽃과 잎을 차로 만들거나, 야채를 칩으로 만들 수 있습니다.", //Korean
-            /*"de": "", //German
-            "fr": "", //French
-            "hu": "", //Hungarian
-            "it": "", //Italian
-            "ja": "", //Japanese
-            "pt": "", //Portuguese
-            "ru": "", //Russian
-            "tr": "", //Turkish*/
-            "zh": "用来把花和叶子晒干，把蔬菜做成薯片。", //Chinese (Simplified)*/
+            //"de": "", //German
+            //"fr": "", //French
+            //"hu": "", //Hungarian
+            //"it": "", //Italian
+            //"ja": "", //Japanese
+            "pt": "É usado para secar folhas e flores para fazer chá e seca legumes para fazer frituras.", //Portuguese
+            "ru": "Используется для сушки цветов и листьев для последующего приготовления чая и сушки овощей в чипсы.", //Russian
+            //"tr": "", //Turkish
+            "zh": "用来把花和叶子晒干，把蔬菜做成蔬菜脆片。", //Chinese (Simplified)
         }
 }

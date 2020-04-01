@@ -1,10 +1,10 @@
 ﻿{
 	"Name": "[MFM] Christmas Sweets",
 	"Author": "Project Populate Json Assets",
-	"Version": "1.0.0",
+	"Version": "1.0.2",
 	"Description": "Allows recipes to be mailed to the player.",
 	"UniqueID": "ppja.christmassweetsforMFM",
-	"MinimumApiVersion": "3.0.1",
+	"MinimumApiVersion": "3.2.0",
 	"Dependencies": [
 		{
 			"UniqueID": "ppja.christmassweets"

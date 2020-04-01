@@ -22,7 +22,7 @@
          // "it": "",
         "ja": "マスクメロン",
         "pt": "Melão",
-         // "ru": "",
+        "ru": "Дыня-канталупа",
          // "tr": "",
         "zh": "香瓜",
     },
@@ -36,8 +36,15 @@
          // "it": "",
         "ja": "塩をひとつまみ振りかけると甘みが引き立つ。",
         "pt": "Tem um gosto melhor com uma pitada de sal.",
-         // "ru": "",
+        "ru": "Вкуснее с щепоткой соли.",
          // "tr": "",
         "zh": "加一点盐，味道会更好。",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_tan",
+        "color_orange",
+        "fruit_item",
+        "crop_year_2",
+    ],
 }

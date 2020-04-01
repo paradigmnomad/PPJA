@@ -15,10 +15,10 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Snuff",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "鼻烟",
     },
     "DescriptionLocalization":
     {
@@ -29,9 +29,9 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Bom para fazer cigarro e fumá-los sozinho",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "适合制成卷烟或者独自吸烟。",
     }
 }

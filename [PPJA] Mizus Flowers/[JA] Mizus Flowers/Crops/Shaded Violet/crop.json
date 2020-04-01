@@ -1,0 +1,55 @@
+{
+    "Name": "Shaded Violet",
+    "Product": "Shaded Violet",
+    "SeedName": "Shaded Violet Seeds",
+    "SeedDescription": "Plant in spring. Takes 8 days to produce a rich purple flower.",
+    "Type": "Flower",
+
+    "Seasons": ["spring"],
+    "Phases": [1, 1, 3, 3],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": [
+        "151, 80, 217, 255",
+        "247, 214, 255, 255",
+        "217, 140, 255, 255"
+    ],
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 30,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de violeta africana",
+        "ko": "짙은 제비꽃 씨앗",
+        "de": "Veilchen-Saat",
+        "fr": "Graines de Violette",
+         // "hu": "",
+         // "it": "",
+        "ja": "スミレの種",
+        "pt": "Semente de violeta sombreada",
+        "ru": "Семена теневой фиалки",
+         // "tr": "",
+        "zh": "紫罗兰种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera. Toma 6 días para producir una rica flor morada.",
+        "ko": "봄에 심으세요. 8일 후 진한 보라빛의 꽃이 핍니다.",
+        "de": "Pflanze sie im Frühling. Wächst in 8 Tagen zu einer kräftig-lilafarbenen Blume heran.",
+        "fr": "Planter au printemps. Prend 8 jours pour produire une fleur pourpre riche.",
+         // "hu": "",
+         // "it": "",
+        "ja": "春植えの花。8日かけて高貴な色の花を咲かせる。色は咲いてのおたのしみ。",
+        "pt": "Plante-as na primavera. Demoram 8 dias para produzir uma rica flor roxa.",
+        "ru": "Сажайте весной. Через 8 дней вырастает ярко-фиолетовый цветок.",
+         // "tr": "",
+        "zh": "春天播种。8天后可收获很多紫色的花。",
+    }
+}

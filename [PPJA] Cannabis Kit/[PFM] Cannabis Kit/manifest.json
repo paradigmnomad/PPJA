@@ -4,7 +4,7 @@
 	"Version": "2.0.0",
 	"Description": "Adds producing rules for Cannabis Kit products to Artisan Valley machines.",
 	"UniqueID": "PPJA.CannabisKitAddOn",
-	"MinimumApiVersion": "3.0.0",
+	"MinimumApiVersion": "3.1.0",
 	"UpdateKeys": [],
 	"Dependencies": [
 		{

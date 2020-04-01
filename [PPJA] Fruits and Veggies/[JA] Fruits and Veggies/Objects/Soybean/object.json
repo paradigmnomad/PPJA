@@ -22,7 +22,7 @@
          // "it": "",
         "ja": "ダイズ",
         "pt": "Soja",
-         // "ru": "",
+        "ru": "Соя",
          // "tr": "",
         "zh": "黄豆",
     },
@@ -36,8 +36,14 @@
          // "it": "",
         "ja": "味わい深い。これを油にしたものは、あらゆる製品に用いられている。",
         "pt": "Noz em sabor. Seu óleo pode ser usado em uma infinidade de produtos.",
-         // "ru": "",
+        "ru": "Имеет ореховый вкус. Масло сои можно использовать в самых различных продуктах.",
          // "tr": "",
         "zh": "坚果的味道。它的油可以用于大量的产品。",
-    }
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_green",
+        "vegetable_item",
+        "crop_year_2",
+    ],
 }

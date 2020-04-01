@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.1" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="4" height="4" tilewidth="16" tileheight="16" infinite="0" nextlayerid="18" nextobjectid="21">
+ <tileset firstgid="1" name="spring_recipes" tilewidth="16" tileheight="16" tilecount="44" columns="4">
+  <image source="spring_recipes.png" width="64" height="176"/>
+  <tile id="16">
+   <animation>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="18" duration="100"/>
+    <frame tileid="19" duration="100"/>
+    <frame tileid="19" duration="100"/>
+    <frame tileid="18" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="18" duration="100"/>
+    <frame tileid="18" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="18" duration="100"/>
+    <frame tileid="19" duration="100"/>
+    <frame tileid="19" duration="100"/>
+    <frame tileid="18" duration="100"/>
+    <frame tileid="19" duration="100"/>
+    <frame tileid="19" duration="100"/>
+    <frame tileid="18" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="6" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="17">
+   <animation>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="20" duration="85"/>
+    <frame tileid="21" duration="85"/>
+    <frame tileid="22" duration="85"/>
+    <frame tileid="24" duration="85"/>
+    <frame tileid="26" duration="85"/>
+    <frame tileid="26" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="32" duration="85"/>
+    <frame tileid="24" duration="85"/>
+    <frame tileid="22" duration="85"/>
+    <frame tileid="21" duration="85"/>
+    <frame tileid="20" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+    <frame tileid="9" duration="85"/>
+   </animation>
+  </tile>
+  <tile id="25">
+   <animation>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="16" duration="85"/>
+    <frame tileid="16" duration="85"/>
+    <frame tileid="16" duration="85"/>
+    <frame tileid="16" duration="85"/>
+    <frame tileid="25" duration="85"/>
+    <frame tileid="23" duration="85"/>
+    <frame tileid="27" duration="85"/>
+    <frame tileid="29" duration="85"/>
+    <frame tileid="31" duration="85"/>
+    <frame tileid="33" duration="85"/>
+    <frame tileid="31" duration="85"/>
+    <frame tileid="29" duration="85"/>
+    <frame tileid="35" duration="85"/>
+    <frame tileid="37" duration="85"/>
+    <frame tileid="35" duration="85"/>
+    <frame tileid="39" duration="85"/>
+    <frame tileid="35" duration="85"/>
+    <frame tileid="41" duration="85"/>
+    <frame tileid="27" duration="85"/>
+    <frame tileid="29" duration="85"/>
+    <frame tileid="31" duration="85"/>
+    <frame tileid="33" duration="85"/>
+    <frame tileid="31" duration="85"/>
+    <frame tileid="29" duration="85"/>
+    <frame tileid="27" duration="85"/>
+    <frame tileid="23" duration="85"/>
+    <frame tileid="25" duration="85"/>
+    <frame tileid="17" duration="85"/>
+    <frame tileid="17" duration="85"/>
+    <frame tileid="17" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="17" duration="85"/>
+    <frame tileid="42" duration="85"/>
+    <frame tileid="42" duration="85"/>
+   </animation>
+  </tile>
+ </tileset>
+ <layer id="11" name="Back" width="4" height="4">
+  <data encoding="csv">
+0,0,0,0,
+0,0,0,0,
+0,0,0,0,
+0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="2" name="Back"/>
+ <layer id="12" name="Buildings" width="4" height="4">
+  <data encoding="csv">
+0,0,0,0,
+5,6,0,8,
+9,10,11,12,
+13,14,15,16
+</data>
+ </layer>
+ <objectgroup id="8" name="Buildings">
+  <object id="13" name="TileData" x="32" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value=""/>
+    <property name="Shop" value="RecipeShop"/>
+   </properties>
+  </object>
+  <object id="14" name="TileData" x="16" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message Zamir.3"/>
+   </properties>
+  </object>
+  <object id="19" name="TileData" x="48" y="16" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message Zamir.2"/>
+   </properties>
+  </object>
+  <object id="20" name="TileData" x="0" y="32" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message Zamir.1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <layer id="13" name="Paths" width="4" height="4">
+  <data encoding="csv">
+0,0,0,0,
+0,0,0,0,
+0,0,0,0,
+0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="6" name="Paths" locked="1"/>
+ <layer id="14" name="Front" width="4" height="4">
+  <data encoding="csv">
+1,2,0,0,
+0,0,17,0,
+0,18,26,0,
+0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="4" name="Front"/>
+ <layer id="15" name="AlwaysFront" width="4" height="4">
+  <data encoding="csv">
+0,0,0,0,
+0,0,0,0,
+0,0,0,0,
+0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="10" name="AlwaysFront"/>
+</map>

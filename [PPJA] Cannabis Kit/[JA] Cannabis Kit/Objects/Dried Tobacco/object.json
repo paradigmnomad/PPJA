@@ -15,10 +15,10 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Tabaco Seco",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "干烟草",
     },
     "DescriptionLocalization":
     {
@@ -29,9 +29,9 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Bom para fazer cigarros e fumar sozinho.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+        "zh": "适合制成卷烟或者独自吸烟。",
     }
 }
