@@ -3,7 +3,7 @@
     "Description": "Use it to grind produce into valuable goods and spices.",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveNextIndex": true,
+    "ReserveExtraIndexCount": 7,
     "Recipe":
     {
         "ResultCount": 1,
@@ -49,7 +49,7 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        "ja": "米を磨いたり、作物を貴重なスパイスに挽いたりする。",
+        "ja": "米を磨いたり、作物を貴重なスパイスにひいたりする。",
         "pt": "Use para moer produtos em bens valiosos ou temperos.",
         "ru": "Используйте его для измельчения продуктов в ценные товары и специи.",
         // "tr": "",
