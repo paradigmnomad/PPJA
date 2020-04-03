@@ -3,7 +3,7 @@
     "Author": "Project Populate JsonAssets",
     "Description": "A collection of new trees for JsonAssets",
     "Version": "1.6.7",
-    "MinimumApiVersion": "3.2.0",
+    "MinimumApiVersion": "3.3.2",
     "UniqueID": "ppja.moretrees",
     "ContentPackFor":
     {

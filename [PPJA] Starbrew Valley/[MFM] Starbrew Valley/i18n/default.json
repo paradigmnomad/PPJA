@@ -17,6 +17,17 @@
     "seabreeze.text": "I guess it's time I shared with you one of my favorite drinks. No fun going out together when we don't know what each other likes!^^  -Haley",
     "vampiro.text": "...^^ Please, have this. It was floating in the sewers. You might get use out of it...^^  -Krobus",
 
+    // New Additions
+
+    "atomiccocktail.text": "Dear @,^^ This recipe is out of this world! I hope you enjoy it.^^  -Maru",
+    "frangelicosour.text": "Dear @,^^ I just love the fresh flavors in this recipe.^^ I hope you do too.^^  -Leah",
+    "harlemmugger.text": "@,^^ Don't let the name fool you.^^ You'll like this one.^^  -Sebastian",
+    "lemonadococktail.text": "Dear @,^^ This is a perfect recipe for summer!^^ I hope you enjoy making it as much as I do.^^  -Gus",
+    "negroni.text": "Farmer @,^^ Used to like this drink.^^ Maybe you might like it too.^^ -George",
+    "poinsettiacocktail.text": "Dear @,^^ I was looking through my old recipe cards and found this delightful drink I used to enjoy.^^ It's just perfect to warm you up in this cold weather.^^  -Evelyn",
+    "spritzveneziano.text": "Hello Farmer @,^^ Used to enjoy this drink with my wife.^^ Thought you might like it.^^  -Kent",
+    "sweetpinkcocktail.text": "Hey there @,^^ This cocktail is super delicious.^^ Hope you can make me one soon!  -Haley",
+
     // Titles
 
     "americano.title": "Americano Recipe",
@@ -34,4 +45,15 @@
     "planterspunch.title": "Planters Punch Recipe",
     "seabreeze.title": "Sea Breeze Recipe",
     "vampiro.title": "Vampiro Recipe",
+
+    // New Additions
+
+     "atomiccocktail.title": "Atomic Cocktail Recipe",
+    "frangelicosour.title": "Frangelico Sour Recipe",
+    "harlemmugger.title": "Harlem Mugger Recipe",
+    "lemonadococktail.title": "Lemonado Cocktail Recipe",
+    "negroni.title": "Negroni Recipe",
+    "poinsettiacocktail.title": "Poinsettia Cocktail Recipe",
+    "spritzveneziano.title": "Spritz Veneziano Recipe",
+    "sweetpinkcocktail.title": "Sweet Pink Cocktail Recipe",
 }

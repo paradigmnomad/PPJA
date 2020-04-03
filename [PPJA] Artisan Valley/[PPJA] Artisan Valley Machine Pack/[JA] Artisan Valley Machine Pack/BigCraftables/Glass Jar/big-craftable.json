@@ -1,0 +1,51 @@
+{
+    "Name": "Glass Jar",
+    "Description": "A jar to ferment non-alcoholic beverages. Turns mushrooms and various teas into kombucha.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 388,
+            "Count": 20,
+        },
+        {
+            "Object": 766,
+            "Count": 100,
+        }, ],
+        "CanPurchase": false,
+        "SkillUnlockName": "Foraging",
+        "SkillUnlockLevel": 2,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "유리 항아리",
+        "de": "Glaskrug",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "ガラス瓶",
+        "pt": "Jarra de Vidro",
+        "ru": "Стеклянная банка",
+        // "tr": "",
+        "zh": "玻璃罐",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "무알콜 음료를 발효시키는 병. 버섯과 다양한 차를 콤부차로 만들 수 있습니다.",
+        "de": "Ein Krug, um nicht-alkoholische Getränke zu fermentieren. Macht aus Pilzen und verschiedenen Teesorten Kombucha. ",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "ノンアルコール飲料を発酵させるための瓶。キノコや様々なお茶をコンブチャにする。",
+        "pt": "Uma jarra para fermentar bebidas não alcoólicas. Transforma cogumelos em diversos tipos de kombuchas.",
+        "ru": "Баночка для брожения безалкогольных напитков. Перерабатывает грибы и разные чаи в комбучу.",
+        // "tr": "",
+        "zh": "发酵非酒精饮料的罐子。把蘑菇和各种茶变成康普茶。",
+    }
+}

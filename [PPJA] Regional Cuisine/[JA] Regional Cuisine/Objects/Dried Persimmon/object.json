@@ -1,0 +1,42 @@
+{
+    "Name": "Dried Persimmon",
+    "Description": "Dried persimmones that make for a tasty snack!",
+    "Category": "ArtisanGoods",
+    "Edibility": 22,
+    "Price": 150,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Penny"],
+    },
+    "NameLocalization":
+    {
+        //"es": "",
+        "ko": "곶감",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "맛있는 간식인 곶감!",
+        //"de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        //"ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+        //"zh": "",
+    }
+}

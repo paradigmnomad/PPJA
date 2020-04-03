@@ -1,10 +1,10 @@
 ﻿{
 	"Name": "[PFM] Farmer to Florist",
 	"Author": "Kildarien (Original) + SpringsSong (Port)",
-	"Version": "1.0.0",
+	"Version": "3.0.7",
 	"Description": "Enables machines for Farmer to Florist.",
 	"UniqueID": "kildarien.PFM.FarmerToFlorist",
-	"MinimumApiVersion": "3.0.0",
+	"MinimumApiVersion": "3.2.0",
 	"UpdateKeys": [],
 	"Dependencies": [
 		{

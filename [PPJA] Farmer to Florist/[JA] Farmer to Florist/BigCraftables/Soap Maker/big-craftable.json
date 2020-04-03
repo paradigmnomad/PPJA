@@ -30,7 +30,7 @@
        { 
             //"es": "", //Spanish
             //"ko": "", //Korean
-            //"de": "", //German
+            "de": "Seifenmacher", //German
             //"fr": "", //French
             //"hu": "", //Hungarian
             //"it": "", //Italian
@@ -44,7 +44,7 @@
         { 
             //"es": "", //Spanish
             "ko": "비누 제조기", //Korean
-            //"de": "", //German
+            "de": "Kombiniert Blumen und Öl zu einem Stück Seife.", //German
             //"fr": "", //French
             //"hu": "", //Hungarian
             //"it": "", //Italian

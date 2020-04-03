@@ -1,0 +1,49 @@
+{
+    "Name": "Butter Churn",
+    "Description": "Turns milk or nuts into butter.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 388,
+            "Count": 40,
+        },
+        {
+            "Object": 726,
+            "Count": 1,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "버터 교반기",
+        "de": "Butterfass",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "かくはん器",
+        "pt": "Batedeira de Manteiga",
+        "ru": "Маслобойка",
+        // "tr": "",
+        "zh": "黄油搅拌器",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "우유나 견과류를 버터로 만들어줍니다.",
+        "de": "Stampft Milch oder Nüsse zu Butter.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "ミルクやナッツを混ぜてバターにする。",
+        "pt": "Transforma leite ou castanhas em manteiga.",
+        "ru": "Перерабатывает молоко или орехи в масло.",
+        // "tr": "",
+        "zh": "把牛奶或坚果变成黄油。",
+    }
+}
