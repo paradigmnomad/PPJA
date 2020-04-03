@@ -212,7 +212,6 @@
 
 	// New Additions
 
-	[
 	{
 		"Id": "ppja.atomiccocktailrecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
@@ -325,5 +324,4 @@
 			{ "NpcName": "Haley", "FriendshipLevel": 6 }
 		],
 	},
-]
 ]
