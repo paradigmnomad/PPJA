@@ -1,0 +1,44 @@
+{
+    "Name": "Orange Peel",
+    "Description": "The perfect zesty garnish.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 100,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": [ "Gus"],
+        "Neutral": ["Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Marnie", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "オレンジピール",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "完璧なかんきつの風味の付け合わせ。",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }
+
+}

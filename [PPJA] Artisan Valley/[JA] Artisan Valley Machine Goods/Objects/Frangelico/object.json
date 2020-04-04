@@ -1,0 +1,66 @@
+{
+  "Name": "Frangelico",
+  "Description": "A spirit brewed from hazelnuts, named after the famous friar.",
+  "Category": "ArtisanGoods",
+  "Edibility": 6,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 180,
+    },
+  "Price": 265,
+  "IsColored": false,
+  "Recipe": null,
+  "CanPurchase": true,
+  "PurchaseFrom": "Gus",
+  "PurchasePrice": 265,
+  "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": ["Pam", "Shane", "Gus", "Leah"],
+        "Like": ["Caroline", "Jodi", "Lewis", "Pierre", "Robin"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Harvey", "Kent", "Krobus", "Linus", "Maru", "Sam", "Sandy", "Willy", "Wizard"],
+        "Dislike": ["Haley", "Penny"],
+        "Hate": ["Vincent", "Jas"]
+  },
+
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "フランジェリコ",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "高名な画家である修道士の名前にちなんだ、ヘーゼルナッツを醸造したスピリッツ。",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }
+
+}
