@@ -1,0 +1,49 @@
+{
+    "Name": "Lotus root",
+    "Description": "The texture is crispy, light and slightly sweet.",
+    "Category": "Vegetable",
+    "Edibility": 20,
+    "Price": 70,
+    "IsColored": false,
+    "GiftTastes":
+    {
+	"Love": ["Dwarf"],
+    "Like": ["George", "Evelyn", "Gus", "Lewis", "Linus", "Harvey", "Maru"],
+	"Neutral" : ["Alex", "Caroline", "Clint", "Demetrius", "Emily",  "Jodi", "Kent", "Leah", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Willy", "Wizard"],
+    "Dislike": ["Elliott", "Abigail", "Haley", "Sam", "Sandy", "Sebastian", "Shane"],
+	"Hate": ["Krobus", "Jas", "Vincent"]
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        //"es": "",
+        "ko": "연근",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "レンコン",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "아삭하고 담백한 연근.",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "食感はサクサク、あっさりした味でやや甘め。",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "ContextTags": [
+        "color_white",
+        "vegetable_item",
+    ],
+}
