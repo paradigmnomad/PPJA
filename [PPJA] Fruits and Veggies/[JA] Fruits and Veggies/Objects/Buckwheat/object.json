@@ -6,4 +6,31 @@
   "Price": 25,
   "IsColored": false,
   "Recipe": null,
+  "NameLocalization": { 
+		// "es": "",
+		"ko": "메밀",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "밀보다 거칠고 쌉쌀한 맛이 난다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }  
 }

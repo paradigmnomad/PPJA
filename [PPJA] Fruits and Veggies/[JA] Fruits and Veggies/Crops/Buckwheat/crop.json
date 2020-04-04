@@ -23,7 +23,7 @@
     "SeedNameLocalization":
     {
         //"es": "",
-        //"ko": "",
+        "ko": "메밀 씨앗",
         //"de": "",
         // "fr": "",
         // "hu": "",
@@ -37,7 +37,7 @@
     "SeedDescriptionLocalization":
     {
         //"es": "",
-        //"ko": "",
+        "ko": "봄 작물. 성장하려면 4일이 소요됩니다. 낫으로 수확합니다.",
         //"de": "",
         // "fr": "",
         // "hu": "",
