@@ -35,7 +35,7 @@
     "NameLocalization":
     {
         "es": "Sandwich de desayuno",
-        "ko": "아침특선 샌드위치",
+        // "ko": "",
         "de": "Frühstücks Sandwich",
         // "fr": "",
         // "hu": "",
@@ -49,7 +49,7 @@
     "DescriptionLocalization":
     {
         "es": "Un sándwich caliente con huevo, queso derretido y tocino crujiente.",
-        "ko": "계란, 녹은 치즈, 싱싱하고 바삭한 베이컨이 들어간 핫 샌드위치.",
+        // "ko": "",
         "de": "Ein heißes Sandwich mit Eiern, geschmolzenem Käse und schönem, knusprigem Speck.",
         // "fr": "",
         // "hu": "",

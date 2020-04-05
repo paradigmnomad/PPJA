@@ -29,7 +29,7 @@
         "NameLocalization": //Used for localization. 
        { 
             //"es": "", //Spanish
-            "ko": "비누제조기", //Korean
+            //"ko": "", //Korean
             "de": "Seifenmacher", //German
             //"fr": "", //French
             //"hu": "", //Hungarian
@@ -43,7 +43,7 @@
         "DescriptionLocalization": //Used for localization. 
         { 
             //"es": "", //Spanish
-            "ko": "꽃과 기름으로 비누를 만듭니다.", //Korean
+            "ko": "비누 제조기", //Korean
             "de": "Kombiniert Blumen und Öl zu einem Stück Seife.", //German
             //"fr": "", //French
             //"hu": "", //Hungarian
