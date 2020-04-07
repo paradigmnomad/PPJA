@@ -1,0 +1,60 @@
+{
+    "Name": "Broccoli and Cheese",
+    "Description": "Steamed broccoli covered in gooey cheese.",
+    "Category": "Cooking",
+    "Edibility": 70,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 420,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Broccoli",
+            "Count": 2,
+        },
+        {
+            "Object": 424,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Maru"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Wizard"],
+        "Neutral": ["Dwarf", "Lewis"],
+        "Dislike": ["Jas", "Krobus", "Sam", "Sebastian", "Vincent", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Brócoli y queso",
+        "ko": "브로콜리 치즈",
+        "de": "Brokkoli mit Käse",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ブロッコリーのチーズがけ",
+        "pt": "Brócolis e Queijo",
+         // "ru": "",
+         // "tr": "",
+        "zh": "奶酪烩西兰花",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Brócoli al vapor cubierto de queso pegajoso.",
+        "ko": "삶은 브로콜리 위에 치즈를 얹었습니다.",
+        "de": "Gedämpfter Brokkoli, überbacken mit Käse.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "蒸したブロッコリーにとろとろのチーズをかけて。",
+        "pt": "Brócolis cozido no vapor coberto de queijo pegajoso.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "奶酪烩西兰花。煮熟的西兰花上面覆盖着黏黏的奶酪。",
+    }
+}

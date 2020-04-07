@@ -1,0 +1,37 @@
+{
+    "Name": "Breadfruit",
+    "Description": "A relative of the jackfruit. It has a robust flavor that is surprisingly fruity and sweet.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 200,
+    "IsColored": false,
+    "Recipe": null,
+    "NameLocalization":
+    {
+        //"es": "",
+        "ko": "빵나무 열매",
+        "de": "Brotfrucht",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "パンノキ",
+        //"pt": "",
+        "ru": "Хлебный плод",
+        //"tr": "",
+        "zh": "面包果",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "잭푸르트의 친척. 놀라울만큼 과일맛과 단맛이 강하게 납니다.",
+        "de": "Eine Verwandte der Jackfrucht. Hat einen kräftigen Geschmack, der erstaunlich fruchtig und süß ist.",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "ジャックフルーツの近縁。驚くほどフルーティーで強い甘味を持つ。",
+        //"pt": "",
+        "ru": "Родственник джекфрута. Имеет яркий вкус, удивительно фруктовый и сладкий.",
+        //"tr": "",
+        "zh": "菠萝蜜的亲戚。它有着浓郁的果香和甜味。",
+    }
+}

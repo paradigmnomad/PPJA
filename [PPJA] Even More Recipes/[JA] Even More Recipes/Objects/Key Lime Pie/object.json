@@ -34,7 +34,7 @@
     {
         "es": "Tarta de lima",
         "ko": "키 라임 파이",
-         // "de": "",
+        "de": "Limettenkuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -42,20 +42,20 @@
         "pt": "Torta de limão",
          // "ru": "",
          // "tr": "",
-        "zh": "青柠派",
+        "zh": "墨西哥莱檬派",
     },
     "DescriptionLocalization":
     {
         "es": "Un refrescante postre.",
         "ko": "신선한 파스텔 색상의 디저트.",
-         // "de": "",
+        "de": "Ein erfrischendes Pastelldessert.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[キーライムパイ] パステル調のさわやかなデザート。",
+        "ja": "パステル調のさわやかなデザート。",
         "pt": "Uma sobremesa refrescante na cor pastel.",
          // "ru": "",
          // "tr": "",
-        "zh": "青柠派。味道清爽、柔和的甜点。",
+        "zh": "一份味道清爽、柔和的甜点。",
     }
 }

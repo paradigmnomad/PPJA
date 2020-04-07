@@ -1,0 +1,67 @@
+{
+    "Name": "Gooseberry Pie",
+    "Description": "A pie made from wild berries and topped with a streusel crumble.",
+    "Category": "Cooking",
+    "Edibility": 54,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 410,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Gooseberry",
+            "Count": 1,
+        },
+        {
+            "Object": 254,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Maru", "Robin", "Demetrius", "Pierre"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Pastel de grosella",
+        "ko": "구스베리 파이",
+        "de": "Stachelbeerkuchen",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "グーズベリーパイ",
+        "pt": "Torta de Groselha",
+         // "ru": "",
+         // "tr": "",
+        "zh": "醋栗派",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un pastel hecho de bayas silvestres y cubierto con un crumble streusel.",
+        "ko": "산딸기와 스트로이젤 크럼블로 만든 파이.",
+        "de": "Ein Kuchen aus wilden Beeren und mit Streuseln.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "野になっているベリーで作ったパイ。食べようとすると表面のシュトロイゼルがぼろぼろくずれてしまう。",
+        "pt": "Uma torta feita com frutas silvestres com uma cobertura pedaços quebradiços.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "醋栗派。这是一种由野生浆果制成的馅饼，上面撒上了奶油和面包屑。",
+    }
+}

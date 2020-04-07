@@ -39,9 +39,9 @@
      // "it": "",
      // "ja": "",
     "pt": "Bolinhos de Lilás",
-     // "ru": "",
+    "ru": "Булочка с сиренью",
      // "tr": "",
-    "zh": "紫丁香茶饼",
+    "zh": "紫丁香烤饼",
      },
  "DescriptionLocalization": { 
     "es": "Ligeramente endulzado, estos van muy bien con una taza de té.",
@@ -52,8 +52,8 @@
      // "it": "",
      // "ja": "",
     "pt": "Levemente adoçados, estes vão muito bem com uma xícara de chá.",
-     // "ru": "",
+    "ru": "Слегка подслащенная и прекрасно сочетается с чашкой чая.",
      // "tr": "",
-    "zh": "紫丁香茶饼。稍加冲泡，就能得到一杯好茶。",
+    "zh": "微甜，配上一杯茶再好不过了。",
     }
 }

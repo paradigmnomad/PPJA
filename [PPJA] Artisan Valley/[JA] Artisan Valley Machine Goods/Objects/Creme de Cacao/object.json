@@ -1,0 +1,66 @@
+{
+  "Name": "Creme de Cacao",
+  "Description": "Smooth, chocolatey liquor.",
+  "Category": "ArtisanGoods",
+  "Edibility": 6,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 180,
+    },
+  "Price": 285,
+  "IsColored": false,
+  "Recipe": null,
+  "CanPurchase": true,
+  "PurchaseFrom": "Gus",
+  "PurchasePrice": 285,
+  "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": ["Pam", "Shane", "Gus"],
+        "Like": ["Caroline", "Jodi", "Lewis", "Pierre", "Robin"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Harvey", "Kent", "Krobus", "Leah", "Linus", "Maru", "Sam", "Sandy", "Willy", "Wizard"],
+        "Dislike": ["Haley", "Penny"],
+        "Hate": ["Vincent", "Jas"]
+  },
+
+    "NameLocalization":
+    {
+        //"es": "",
+        "ko": "크렘 드 카카오",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "부드럽고 초콜릿 향이 나는 술.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }
+
+}

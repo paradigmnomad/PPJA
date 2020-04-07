@@ -35,7 +35,7 @@
 
  "NameLocalization": { 
     "es": "Huevos con tocino",
-    "ko": "베이컨과 계란후라이",
+    "ko": "베이컨과 계란 프라이",
     "de": "Eier und Speck",
      // "fr": "",
      // "hu": "",
@@ -48,7 +48,7 @@
   },
  "DescriptionLocalization": { 
     "es": "Nada como el tocino y los huevos en una fría mañana.",
-    "ko": "추운 아침에 베이컨이나 계란후라이만 있으면 아무 문제 없습니다.",
+    "ko": "추운 아침, 베이컨과 계란 프라이만 한 게 없습니다.",
     "de": "Es gibt nichts besseres.",
      // "fr": "",
      // "hu": "",

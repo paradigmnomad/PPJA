@@ -45,7 +45,7 @@
     {
         "es": "Tarta de manzana",
         "ko": "애플 파이",
-         // "de": "",
+         "de": "Apfelkuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -59,11 +59,11 @@
     {
         "es": "Un delicioso pastel hecho con manzana y canela.",
         "ko": "사과와 시나몬으로 만든 맛있는 파이.",
-         // "de": "",
+        "de": "Ein schmackhafter Kuchen mit Äpfeln und Zimt.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[アップルパイ] リンゴとシナモンで作ったおいしいパイ。",
+        "ja": "リンゴとシナモンで作ったおいしいパイ。",
         "pt": "Uma deliciosa torta feita com maçãs e canela.",
          // "ru": "",
          // "tr": "",

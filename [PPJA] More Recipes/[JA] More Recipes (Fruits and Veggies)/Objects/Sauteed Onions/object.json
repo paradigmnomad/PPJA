@@ -1,0 +1,64 @@
+{
+    "Name": "Sauteed Onions",
+    "Description": "Often used as a side dish. Slimy, yet satisfying!",
+    "Category": "Cooking",
+    "Edibility": 28,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 100,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 248,
+            "Count": 2,
+        },
+        {
+            "Object": "Onion",
+            "Count": 8,
+        },
+        {
+            "Object": 247,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+	"Love": ["Marnie", "Lewis", "Shane"],
+        "Like": ["Abigail", "Caroline", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Pierre", "Robin", "Sandy", "Sebastian", "Willy", "Wizard"],
+        "Dislike": ["Haley", "Sam"],
+        "Hate": ["Jas", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Cebollas salteadas",
+        "ko": "볶은 양파",
+        "de": "Röstzwiebeln",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "オニオンソテー",
+        "pt": "Cebolas salteadas",
+         // "ru": "",
+         // "tr": "",
+        "zh": "炒洋葱",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "A menudo se usa como guarnición. ¡Sutil, pero satisfactorio!",
+        "ko": "반찬으로 종종 사용됩니다. 끈적하지만 맛있어요!",
+        "de": "Oft als Beilage verwendet. Sehr lecker!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "おかずによく出される。「…のどごし…さわやかだねぇ！」",
+        "pt": "Freqüentemente usado como acompanhamento. Pegajoso, mas satisfatório!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "炒洋葱。常被用作配菜。粘糊糊的，然而令人满意！",
+    }
+}

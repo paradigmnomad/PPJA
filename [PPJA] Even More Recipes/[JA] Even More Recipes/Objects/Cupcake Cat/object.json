@@ -39,8 +39,8 @@
     "NameLocalization":
     {
         "es": "Magdalena gatuna",
-       "ko": "고양이 컵케이크",
-         // "de": "",
+        "ko": "고양이 컵케이크",
+        "de": "Katzencupcake",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -54,11 +54,11 @@
     {
         "es": "¡Es casi demasiado lindo para comer!... ¡casi!",
         "ko": "먹기엔 너무 귀여워요!",
-         // "de": "",
+        "de": "Wer würde es wagen ihn zu essen!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[ネコのカップケーキ] かわい過ぎて食べられない！",
+        "ja": "かわい過ぎて食べられない！",
         "pt": "É fofo demais para se comer!",
          // "ru": "",
          // "tr": "",

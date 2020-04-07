@@ -3,7 +3,7 @@
     "Description": "Use it to grind produce into valuable goods and spices.",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveNextIndex": true,
+    "ReserveExtraIndexCount": 7,
     "Recipe":
     {
         "ResultCount": 1,
@@ -25,8 +25,7 @@
             "Count": 1,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Farming",
-        "SkillUnlockLevel": 7,
+        "IsDefault": true,
     },
     "NameLocalization":
     {
@@ -36,9 +35,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "グラインダー",
         "pt": "Moedor",
-        // "ru": "",
+        "ru": "Измельчитель",
         // "tr": "",
         "zh": "研磨机",
     },
@@ -50,9 +49,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "米を磨いたり、作物を貴重なスパイスにひいたりする。",
         "pt": "Use para moer produtos em bens valiosos ou temperos.",
-        // "ru": "",
+        "ru": "Используйте его для измельчения продуктов в ценные товары и специи.",
         // "tr": "",
         "zh": "用它把农产品磨成贵重的商品和香料。",
     }

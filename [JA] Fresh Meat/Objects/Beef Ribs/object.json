@@ -33,7 +33,7 @@
 
  "NameLocalization": { 
     "es": "Costilla de ternera",
-    "ko": "소고기 갈비",
+    "ko": "소 갈비",
     "de": "Rippchen",
      // "fr": "",
      // "hu": "",
@@ -46,7 +46,7 @@
   },
  "DescriptionLocalization": { 
     "es": "¡Tan suaves, que se desprenden del hueso!",
-    "ko": "뼈에서 살점이 잘 발라 집니다.",
+    "ko": "살이 잘 발라집니다!",
     "de": "Es fällt vom Knochen ab, so zart!",
      // "fr": "",
      // "hu": "",

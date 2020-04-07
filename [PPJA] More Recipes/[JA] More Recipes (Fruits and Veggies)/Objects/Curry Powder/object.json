@@ -1,0 +1,45 @@
+{
+    "Name": "Curry Powder",
+    "Description": "The integral mix of herbs and seasonings for dishes all across the world.",
+    "Edibility": -300,
+    "Price": 50,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 150,
+    "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Curry en polvo",
+        "ko": "카레 파우더",
+        "de": "Currypulver",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "カレーパウダー",
+        "pt": "Pó de caril",
+         // "ru": "",
+         // "tr": "",
+        "zh": "咖喱粉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "La combinación integral de hierbas y condimentos para platos en todo el mundo.",
+        "ko": "전 세계의 요리에 필요한 허브와 양념을 섞은 것.",
+        "de": "Der Mix aus Kräutern und Gewürzen für Gerichte aus der ganzen Welt.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "世界中の料理に欠かせない、香辛料を組み合わせた調味料。",
+        "pt": "A mistura integral de ervas e temperos para pratos de todo o mundo.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "世界各地的菜与这个调味料的有机混合。",
+    }
+}

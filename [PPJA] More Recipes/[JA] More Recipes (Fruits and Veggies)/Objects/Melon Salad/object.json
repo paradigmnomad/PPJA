@@ -1,0 +1,62 @@
+{
+    "Name": "Melon Salad",
+    "Description": "A fruit salad consisting of tasty melons.",
+    "Category": "Cooking",
+    "Edibility": 146,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 925,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Watermelon",
+            "Count": 1,
+        },
+        {
+            "Object": "Sweet Canary Melon",
+            "Count": 1,
+        },
+        {
+            "Object": 254,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Haley", "Penny"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Ensalada de melón",
+        "ko": "멜론 샐러드",
+        "de": "Melonensalat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "メロンサラダ",
+        "pt": "Salada de Melão",
+         // "ru": "",
+         // "tr": "",
+        "zh": "蜜瓜沙拉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una ensalada de frutas que consiste en melones sabrosos.",
+        "ko": "맛있는 멜론이 포함된 과일 샐러드.",
+        "de": "Ein Fruchtsalat, der aus leckeren Melonen besteht.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "いろんなメロンで作ったフルーツサラダ。",
+        "pt": "Salada de frutas com melões saborosos.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "蜜瓜沙拉。一份水果沙拉，由美味的瓜组成。",
+    }
+}

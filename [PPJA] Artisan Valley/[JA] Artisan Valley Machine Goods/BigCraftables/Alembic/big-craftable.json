@@ -3,7 +3,7 @@
     "Description": "Distills flowers, fruits, herbs, and vegetables into essential oils.",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveNextIndex": true,
+    "ReserveExtraIndexCount": 7,
     "Recipe":
     {
         "ResultCount": 1,
@@ -21,8 +21,6 @@
             "Count": 10,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Farming",
-        "SkillUnlockLevel": 8,
     },
     "NameLocalization":
     {
@@ -32,9 +30,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "アランビック",
         "pt": "Alambique",
-        // "ru": "",
+        "ru": "Перегонный куб",
         // "tr": "",
         "zh": "精油蒸馏器",
     },
@@ -46,9 +44,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "花や果物やハーブ、野菜を精油に蒸留する。",
         "pt": "Destila flores, frutas, ervas e vegetais em óleos essenciais.",
-        // "ru": "",
+        "ru": "Дистиллирует цветы, фрукты, травы и овощи в эфирные масла.",
         // "tr": "",
         "zh": "将花、水果、香草和蔬菜提炼成精油。",
     }

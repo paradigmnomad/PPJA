@@ -39,7 +39,7 @@
     {
         "es": "Mochi",
         "ko": "모찌",
-         // "de": "",
+        "de": "Mochi",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -53,11 +53,11 @@
     {
         "es": "Una tradicional golosina japonesa.",
         "ko": "일본 전통 간식.",
-         // "de": "",
+        "de": "Eine traditionelle japanische Süßigkeit.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[お餅] 伝統的な日本のおやつ",
+        "ja": "伝統的な日本のおやつ",
         "pt": "Um deleite japonês bem tradicional.",
          // "ru": "",
          // "tr": "",

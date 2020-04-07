@@ -4,7 +4,7 @@
     "Category": "ArtisanGoods",
     "Edibility": 8,
     "Price": 200,
-    "IsColored": false,
+    "IsColored": true,
     "Recipe": null,
     "GiftTastes":
     {
@@ -20,8 +20,8 @@
          // "hu": "",
          // "it": "",
         "ja": "ドライフルーツ",
-         // "pt": "",
-         // "ru": "",
+        "pt": "Fruta Seca",        
+        "ru": "Сухофрукт",
          // "tr": "",
         "zh": "水果干",
     },
@@ -34,8 +34,8 @@
          // "hu": "",
          // "it": "",
         "ja": "乾燥させたくだものの箱詰め。",
-         // "pt": "",
-         // "ru": "",
+        "pt": "Uma caixa de frutas desidratadas",
+        "ru": "Коробка с обезвоженными фруктами.",
          // "tr": "",
         "zh": "一盒水果干。",
     }

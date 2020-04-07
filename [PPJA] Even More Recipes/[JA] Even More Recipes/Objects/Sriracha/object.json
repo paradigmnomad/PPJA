@@ -42,7 +42,7 @@
     {
         "es": "Sriracha",
         "ko": "스리라차",
-         // "de": "",
+        "de": "Sriracha",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -56,11 +56,11 @@
     {
         "es": "Una salsa aún más picante.",
         "ko": "더 매운 소스.",
-         // "de": "",
+        "de": "Eine pikante Sauce.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[シラチャーソース] より辛いソース。",
+        "ja": "より辛いソース。",
         "pt": "Um molho ainda mais picante.",
          // "ru": "",
          // "tr": "",

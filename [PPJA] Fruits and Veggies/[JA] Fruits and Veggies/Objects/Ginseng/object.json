@@ -1,0 +1,49 @@
+{
+    "Name": "Ginseng",
+    "Description": "Very precious root for good health. it used for medicine.",
+    "Category": "Vegetable",
+    "Edibility": 20,
+    "Price": 2000,
+    "IsColored": false,
+    "GiftTastes":
+    {
+	"Love": ["Dwarf", "George", "Evelyn", "Gus", "Lewis", "Linus", "Harvey", "Willy", "Wizard" ],
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Emily",  "Jodi", "Kent", "Leah", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin"],
+    "Dislike": ["Elliott", "Abigail", "Haley", "Sam", "Sandy", "Sebastian", "Shane"],
+	"Hate": ["Krobus", "Jas", "Vincent"]
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        //"es": "",
+        "ko": "인삼",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "건강에 좋지만 매우 귀한 뿌리식물. 주로 약용으로 사용합니다.",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "ContextTags": [
+        "season_all",
+        "color_tam",
+        "vegetable_item",
+    ],
+}

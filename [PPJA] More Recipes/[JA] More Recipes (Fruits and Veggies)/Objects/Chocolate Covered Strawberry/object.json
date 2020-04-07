@@ -1,0 +1,63 @@
+{
+    "Name": "Chocolate Covered Strawberry",
+    "Description": "One step away from bliss!",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 695,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Chocolate",
+            "Count": 1,
+        },
+        {
+            "Object": 400,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2695,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Elliott", "Jodi"],
+        "Like": ["Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Abigail", "Haley"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Fresa cubierta de chocolate",
+        "ko": "초콜릿을 입은 딸기",
+        "de": "Schokoerdbeere",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "イチゴチョコ",
+        "pt": "Morango coberto de chocolate",
+         // "ru": "",
+         // "tr": "",
+        "zh": "草莓巧克力",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡A un paso de la dicha!",
+        "ko": "행복에 가까워 지는 한 걸음!",
+        "de": "Erdbeere mit Schokoüberzug!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "「One step away from bliss!」",
+        "pt": "A um passo da felicidade!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "草莓巧克力。离幸福只有一步之遥！",
+    }
+}

@@ -39,7 +39,7 @@
     {
         "es": "Pan de ajo",
         "ko": "마늘 빵",
-         // "de": "",
+        "de": "Knoblauchbrot",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -53,11 +53,11 @@
     {
         "es": "Pan de ajo mantecoso. Servirlo en la cena.",
         "ko": "버터가 들어간 마늘 빵. 저녁 식사와 함께 제공됩니다.",
-         // "de": "",
+        "de": "Buttriges Knoblauchbrot. Wird gerne zum Abendessen serviert.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[ガーリックブレッド] ガーリックバターのブレッド。夕食に添えて。",
+        "ja": "ガーリックバターのブレッド。夕食に添えて。",
         "pt": "Pão de alho amanteigado. Sirva junto do jantar.",
          // "ru": "",
          // "tr": "",

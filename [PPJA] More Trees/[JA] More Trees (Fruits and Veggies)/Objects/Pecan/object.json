@@ -1,0 +1,53 @@
+{
+    "Name": "Pecan",
+    "Description": "A savory nut with a striped seed. Do you own a nutcracker?",
+    "Category": "Vegetable",
+    "CategoryTextOverride": "Nut",
+    "CategoryColorOverride": "107, 70, 30, 255",
+    "Edibility": 20,
+    "Price": 125,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Leah"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Pecan",
+        "ko": "피칸",
+        "de": "Pekannuss",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ペカンナッツ",
+        "pt": "Pecã",
+        "ru": "Пекан",
+         // "tr": "",
+        "zh": "核桃",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una nuez sabrosa con una semilla rayada. ¿Eres dueño de un cascanueces?",
+        "ko": "줄무늬 씨앗을 가진 고소한 견과류. 호두까기를 가지고 있나요?",
+        "de": "Eine wohlschmeckende Nuss. Besitzt du einen Nussknacker?",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "縦じま模様の種のおいしいナッツ。くるみ割り人形は持ってる？",
+        "pt": "Uma noz saborosa com uma semente listrada. Você tem um quebra-nozes?",
+        "ru": "Вкусный орех с полосатым семечком.",
+         // "tr": "",
+        "zh": "一种种子带条纹的美味坚果。你有核桃夹吗？",
+    },
+    "ContextTags": [
+        "season_fall",
+        "crop_year_two",
+        "fruit_tree_year_2",
+        "color_brown",
+        "fruit_tree_item",
+        "nut_item",
+        "dye_medium"
+    ]
+}

@@ -21,8 +21,7 @@
             "Count": 50,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Foraging",
-        "SkillUnlockLevel": 4,
+        "IsDefault": true,
     },
     "NameLocalization":
     {
@@ -32,9 +31,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "ワックスバレル",
         "pt": "Barril de Cera",
-        // "ru": "",
+        "ru": "Восковой бочонок",
         // "tr": "",
         "zh": "制蜡桶",
     },
@@ -46,9 +45,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "ロウソクを漬けるためのタル。",
         "pt": "Um barril para mergulhar velas.",
-        // "ru": "",
+        "ru": "Бочка для превращения воска в свечи.",
         // "tr": "",
         "zh": "将蜂蜡倒入其中，制作蜡烛。",
     }

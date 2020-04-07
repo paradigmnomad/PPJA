@@ -21,7 +21,7 @@
     "SeedNameLocalization":
     {
         "es": "Semillas de... ¡¿puerco?!",
-        "ko": "돼지고기덩굴 씨앗",
+        "ko": "돼지고기 덩굴 씨앗",
         "de": "Schweinefleisch-Saat",
          // "fr": "",
          // "hu": "",
@@ -35,7 +35,7 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plántalas en verano o otoño. Tardan 8 días en madurar.",
-        "ko": "여름과 가을 작물. 성장하려면 8일이 소요됩니다.",
+        "ko": "여름 또는 가을 작물. 성장하려면 8일이 소요됩니다.",
         "de": "Pflanzen sie im Sommer oder Herbst. Wächst in 8 Tagen heran",
          // "fr": "",
          // "hu": "",

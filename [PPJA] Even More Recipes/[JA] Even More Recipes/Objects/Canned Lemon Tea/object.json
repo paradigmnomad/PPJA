@@ -35,7 +35,7 @@
     {
         "es": "Té de limón enlatado",
         "ko": "캔 레몬티",
-        // "de": "",
+        "de": "Zitronentee aus der Dose",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -49,11 +49,11 @@
     {
         "es": "¡Té con sabor a limón, en una lata!",
         "ko": "캔에 든 레몬맛 티!",
-        // "de": "",
+        "de": "Wohlschmeckender Zitronentee aus der Dose.",
         // "fr": "",
         // "hu": "",
         // "it": "",
-       "ja": "[レモンティー缶] 缶入りのレモン風味の紅茶！",
+       "ja": "缶入りのレモン風味の紅茶！",
         "pt": "Chá com sabor de limão, dentro de um lata!",
         // "ru": "",
         // "tr": "",

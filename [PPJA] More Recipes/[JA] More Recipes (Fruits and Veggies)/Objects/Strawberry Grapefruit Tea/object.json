@@ -1,0 +1,84 @@
+{
+    "Name": "Strawberry Grapefruit Tea",
+    "Description": "With hints of coconut and lemon, this tea will make you wish you were on vacation.",
+    "Category": "Cooking",
+    "Edibility": 58,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 2,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Duration": 300,
+    },
+    "Price": 1000,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 3,
+        },
+        {
+            "Object": "Lemon",
+            "Count": 1,
+        },
+        {
+            "Object": 88,
+            "Count": 1,
+        },
+        {
+            "Object": 400,
+            "Count": 1,
+        },
+        {
+            "Object": "Grapefruit",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Sandy",
+        "PurchasePrice": 2500,
+        "PurchaseRequirements": [
+            "d mon wed fri",
+            "z fall winter",
+        ]
+    },
+    "GiftTastes":
+    {
+        "Love": ["Gus", "Sandy"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Harvey", "Jas", "Jodi", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sam", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Vincent"],
+        "Dislike": ["Kent", "Krobus", "Pierre"],
+    },
+    "NameLocalization":
+    {
+        "es": "Té de pomelo de fresa",
+        "ko": "딸기 자몽 티",
+        "de": "Erdbeer-Grapefruit-Tee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "イチゴグレープフルーツティー",
+        "pt": "Chá de toranja de morango",
+         // "ru": "",
+         // "tr": "",
+        "zh": "草莓西柚茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Con toques de coco y limón, este té hará que desees estar de vacaciones.",
+        "ko": "코코넛과 레몬 조금 넣은, 이 차는 멀리 여행을 떠나고 싶게 만드는 마음을 만듭니다.",
+        "de": "Mit einem Hauch von Kokosnuss und Zitrone. Wie im Urlaub.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ココナッツとレモンの風味があなたをバケーションにいざないます。",
+        "pt": "Com notas de coco e Limão siciliano, este chá fará com que você deseje estar de férias.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "草莓西柚茶。有了椰子和柠檬的味道，这种茶会让你希望你在度假。",
+    }
+}

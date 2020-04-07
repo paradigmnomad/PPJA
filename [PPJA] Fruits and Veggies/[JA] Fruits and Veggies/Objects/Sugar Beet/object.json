@@ -22,7 +22,7 @@
          // "it": "",
         "ja": "テンサイ",
         "pt": "Beterraba",
-         // "ru": "",
+        "ru": "Сахарная свёкла",
          // "tr": "",
         "zh": "甜菜",
     },
@@ -36,8 +36,14 @@
          // "it": "",
         "ja": "このカブは高濃度のショトウを含有している。砂糖に加工するのにちょうどいい！",
         "pt": "Este tubérculo tem uma alta concentração de sacarose. É bom para processamento em açúcar!",
-         // "ru": "",
+        "ru": "Этот клубень содержит высокую концентрацию сахарозы, что хорошо для производства сахара!",
          // "tr": "",
         "zh": "这个块茎有高浓度的糖分。把它加工成糖很棒！",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_white",
+        "vegetable_item",
+        "crop_year_2",
+    ],
 }

@@ -34,7 +34,7 @@
     {
         "es": "Limonada fresca",
         "ko": "신선한 레모네이드",
-         // "de": "",
+        "de": "Frische Limonade",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -48,11 +48,11 @@
     {
         "es": "¡Limonada recién exprimida!",
         "ko": "갓 짜낸 레모네이드!",
-         // "de": "",
+        "de": "Frisch gepresste Limonade!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[フレッシュレモネード] 絞りたてのレモネード！",
+        "ja": "絞りたてのレモネード！",
         "pt": "Limonada espremida na hora!",
          // "ru": "",
          // "tr": "",

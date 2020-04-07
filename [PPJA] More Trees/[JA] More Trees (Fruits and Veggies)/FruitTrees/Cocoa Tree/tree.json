@@ -1,0 +1,41 @@
+{
+    "Name": "Cocoa Tree",
+    "Product": "Cocoa Pod",
+    "SaplingName": "Cocoa Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Cocoa tree. Bears fruit in the spring. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "spring",
+
+    "SaplingPurchasePrice": 5000,
+    "SaplingPurchaseRequirements": [
+    "y 2",
+    ],
+    "SaplingNameLocalization":
+    {
+        "es": "Árbol de Cacao",
+        "ko": "카카오 묘목",
+        "de": "Kakaobaum-Setzling",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "カカオの苗",
+        "pt": "Muda de cacau",
+        "ru": "Саженец какао",
+         // "tr": "",
+        "zh": "可可豆树苗",
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "es": "Toma 28 días para producir un árbol de cacao maduro. Da fruta en la primavera. Solo crece si las 8 casillas circundantes están vacías.",
+        "ko": "28일후에 성목이 됩니다. 봄에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
+        "de": "Wächst in 28 Tagen zu einem reifen Kakaobaum heran. Trägt im Frühling Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "28日かけて成木にそだち、春になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
+        "pt": "Demora até 28 dias para produzir uma árvore de cacau maduro. Dá frutas na primavera. Só cresce se os 8 espaços adjacentes estiverem vazios.",
+        "ru": "Становится взрослым какао-деревом через 28 дней. Плодоносит весной. Растет только если 8 «клеток» вокруг него не заняты.",
+         // "tr": "",
+        "zh": "28天成熟为成年可可豆树。春天结果。只有在附近8块地块都空置的情况下才会成长。",
+    }
+}

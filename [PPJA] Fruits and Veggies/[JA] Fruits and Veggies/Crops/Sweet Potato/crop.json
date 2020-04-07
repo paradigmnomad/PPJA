@@ -2,7 +2,6 @@
     "Name": "Sweet_Potato",
     "Product": "Sweet Potato",
     "SeedName": "Sweet Potato Seeds",
-
     "SeedDescription": "Plant these in the fall. Takes 8 days to mature.",
     "Type": "Vegetable",
 
@@ -30,7 +29,7 @@
          // "it": "",
         "ja": "サツマイモのタネ",
         "pt": "Sementes de batata doce",
-         // "ru": "",
+        "ru": "Семена сладкого картофеля",
          // "tr": "",
         "zh": "红薯种子",
     },
@@ -44,7 +43,7 @@
          // "it": "",
         "ja": "秋植えの作物。そだつのに8日かかる。",
         "pt": "Plante-as no outono. Demora 8 dias para amadurecer.",
-         // "ru": "",
+        "ru": "Сажайте осенью. Вырастает через 8 дней.",
          // "tr": "",
         "zh": "秋天播种。8天成熟。",
     }

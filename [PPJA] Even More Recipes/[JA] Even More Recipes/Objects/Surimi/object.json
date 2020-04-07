@@ -2,10 +2,10 @@
     "Name": "Surimi",
     "Description": "Minced fish that have been worked into a paste.",
     "Category": "Cooking",
-    "Edibility": 56,
+    "Edibility": 35,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 250,
+    "Price": 80,
     "IsColored": false,
     "GiftTastes":
     {
@@ -28,7 +28,7 @@
     {
         "es": "Surimi",
         "ko": "수리미",
-         // "de": "",
+        "de": "Surimi",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -42,11 +42,11 @@
     {
         "es": "Pescado en pasta.",
         "ko": "페이스트로 만든 다진 생선.",
-         // "de": "",
+        "de": "Gehackter Fisch, der zu einer Paste verarbeitet wurde.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[かにかま] ペースト状に加工された魚のすり身。",
+        "ja": "ペースト状に加工された魚のすり身。",
         "pt": "Um peixe picado que foi transformado em pasta.",
          // "ru": "",
          // "tr": "",

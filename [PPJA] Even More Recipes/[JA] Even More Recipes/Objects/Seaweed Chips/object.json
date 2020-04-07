@@ -30,7 +30,7 @@
     {
         "es": "Chips de algas",
         "ko": "해초 칩",
-         // "de": "",
+        "de": "Seetangchips",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -44,11 +44,11 @@
     {
         "es": "Saben como el océano.",
         "ko": "바다 맛이 나요.",
-         // "de": "",
+        "de": "Sie schmecken nach dem Meer.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[ポテトチップスのり塩味] 海の香りがする。",
+        "ja": "海の香りがする。",
         "pt": "Eles têm gosto do oceano.",
          // "ru": "",
          // "tr": "",

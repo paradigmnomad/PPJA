@@ -18,7 +18,7 @@
         }, ],
         "CanPurchase": false,
         "SkillUnlockName": "Foraging",
-        "SkillUnlockLevel": 7,
+        "SkillUnlockLevel": 2,
     },
     "NameLocalization":
     {
@@ -28,9 +28,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "ガラス瓶",
         "pt": "Jarra de Vidro",
-        // "ru": "",
+        "ru": "Стеклянная банка",
         // "tr": "",
         "zh": "玻璃罐",
     },
@@ -42,9 +42,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "ノンアルコール飲料を発酵させるための瓶。キノコや様々なお茶をコンブチャにする。",
         "pt": "Uma jarra para fermentar bebidas não alcoólicas. Transforma cogumelos em diversos tipos de kombuchas.",
-        // "ru": "",
+        "ru": "Баночка для брожения безалкогольных напитков. Перерабатывает грибы и разные чаи в комбучу.",
         // "tr": "",
         "zh": "发酵非酒精饮料的罐子。把蘑菇和各种茶变成康普茶。",
     }

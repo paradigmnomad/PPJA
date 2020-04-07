@@ -3,7 +3,7 @@
     "Description": "Turns flour into noodles and honey into wax!",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveNextIndex": true,
+    "ReserveExtraIndexCount": 7,
     "Recipe":
     {
         "ResultCount": 1,
@@ -21,8 +21,7 @@
             "Count": 1,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Farming",
-        "SkillUnlockLevel": 4,
+        "IsDefault": true,
     },
     "NameLocalization":
     {
@@ -32,9 +31,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "押出機",
         "pt": "Extrusora",
-        // "ru": "",
+        "ru": "Экструдер",
         // "tr": "",
         "zh": "模压机",
     },
@@ -46,9 +45,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "コムギ粉を麺に、ハチミツをワックスに変えます！",
         "pt": "Transforma farinha em macarrão e mel em cera!",
-        // "ru": "",
+        "ru": "Превращает муку в лапшу, а мед в воск!",
         // "tr": "",
         "zh": "把面粉变成面条，蜂蜜变成蜂蜡！",
     }

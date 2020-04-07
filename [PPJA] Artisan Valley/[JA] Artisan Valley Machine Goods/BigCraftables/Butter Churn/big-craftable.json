@@ -17,8 +17,6 @@
             "Count": 1,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Farming",
-        "SkillUnlockLevel": 5,
     },
     "NameLocalization":
     {
@@ -28,9 +26,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "かくはん器",
         "pt": "Batedeira de Manteiga",
-        // "ru": "",
+        "ru": "Маслобойка",
         // "tr": "",
         "zh": "黄油搅拌器",
     },
@@ -42,9 +40,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "ミルクやナッツを混ぜてバターにする。",
         "pt": "Transforma leite ou castanhas em manteiga.",
-        // "ru": "",
+        "ru": "Перерабатывает молоко или орехи в масло.",
         // "tr": "",
         "zh": "把牛奶或坚果变成黄油。",
     }

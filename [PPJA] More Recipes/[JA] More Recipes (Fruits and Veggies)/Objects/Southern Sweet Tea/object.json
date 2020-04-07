@@ -1,0 +1,77 @@
+{
+    "Name": "Southern Sweet Tea",
+    "Description": "Can't go wrong with adding sugar to this summer time beverage.",
+    "Category": "Cooking",
+    "Edibility": 28,
+    "EdibleIsDrink": false,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 1,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 350,
+    },
+    "Price": 430,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 4,
+        },
+        {
+            "Object": 245,
+            "Count": 2,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1430,
+        "PurchaseRequirements": [
+            "z spring fall winter",
+        ]
+    },
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Dwarf", "Harvey"],
+        "Dislike": ["Krobus", "Leah", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té dulce sureño",
+        "ko": "남부식 스위트 티",
+        "de": "Südstaaten-Eistee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "サザンスイートティー",
+        "pt": "Chá doce do sul",
+         // "ru": "",
+         // "tr": "",
+        "zh": "南方的甜茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "No seria una equivocación agregar azúcar a esta bebida de verano.",
+        "ko": "여름철, 이 음료에 설탕을 넣는건 잘못 된 게 아닙니다.",
+        "de": "Keine schlechte Idee, diesem Sommerzeitgetränk Zucker hinzuzufügen.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "この夏にぴったりなお茶に砂糖を入れるのは問題ありません。",
+        "pt": "Não pode dar errado ao adicionar açúcar a esta bebida no horário de verão.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "南方的甜茶。在这个夏天的饮料中加入糖是不会错的。",
+    }
+}

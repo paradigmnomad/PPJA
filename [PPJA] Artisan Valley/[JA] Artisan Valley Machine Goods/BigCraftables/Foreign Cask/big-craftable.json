@@ -25,8 +25,7 @@
             "Count": 1,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Farming",
-        "SkillUnlockLevel": 7,
+        "IsDefault": true,
     },
     "NameLocalization":
     {
@@ -36,9 +35,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "東洋ダル",
         "pt": "Barril de Madeira Estrangeiro",
-        // "ru": "",
+        "ru": "Иностранная бочка",
         // "tr": "",
         "zh": "进口木桶",
     },
@@ -50,9 +49,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "外国のタル。大豆を発酵させることができる。",
         "pt": "Esse barril é de um produtor estrangeiro. Pode fermentar soja.",
-        // "ru": "",
+        "ru": "Бочка зарубежного производства. В ней можно ферментировать соевые бобы.",
         // "tr": "",
         "zh": "这个桶是外国制造的。它可以发酵黄豆。",
     }

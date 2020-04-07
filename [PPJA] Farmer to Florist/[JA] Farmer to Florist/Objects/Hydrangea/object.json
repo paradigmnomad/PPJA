@@ -15,9 +15,9 @@
      // "it": "",
      // "ja": "",
     "pt": "Hortênsia",
-     // "ru": "",
+    "ru": "Гортензия",
      // "tr": "",
-    "zh": "绣球花",
+    "zh": "八仙花",
      },
  "DescriptionLocalization": { 
     "es": "Con grandes grupos de flores redondas, este arbusto es increíblemente popular entre los jardineros.",
@@ -28,9 +28,9 @@
      // "it": "",
      // "ja": "",
     "pt": "Com grandes conjuntos de flores redondas, este arbusto é incrivelmente popular entre os jardineiros.",
-     // "ru": "",
+    "ru": "Куст, невероятно популярный среди садоводов благодаря своим большим скоплениям цветов.",
      // "tr": "",
-    "zh": "拥有圆形的大花簇，很受园丁们的欢迎。",
+    "zh": "俗名绣球花或紫阳花，这种灌木有大而圆的花簇，备受花匠和园丁们的欢迎。",
     },
     "ContextTags": [
     	"flower_poisonous",

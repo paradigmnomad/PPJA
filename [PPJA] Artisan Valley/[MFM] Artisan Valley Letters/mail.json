@@ -1,0 +1,62 @@
+[
+	{
+		"Id": "ppja.alembicrecipe",
+		"GroupID": "ppja.MachineRecipes",
+		"Title": "alembic.title",
+		"Text": "alembic.text",
+		"Recipe": "Alembic",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y2",
+		"Repeatable": false,
+		"SkillConditions": 
+		[
+			{ "SkillName": "Farming", "SkillLevel": 8 }
+		]
+	},
+	{
+		"Id": "ppja.butterchurnrecipe",
+		"GroupID": "ppja.MachineRecipes",
+		"Title": "butterchurn.title",
+		"Text": "butterchurn.text",
+		"Recipe": "Butter Churn",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y1",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Marnie", "FriendshipLevel": 4 }
+		],
+		"SkillConditions": 
+		[
+			{ "SkillName": "Farming", "SkillLevel": 5 }
+		]
+	},
+	{
+		"Id": "ppja.infuserrecipe",
+		"GroupID": "ppja.MachineRecipes",
+		"Title": "infuser.title",
+		"Text": "infuser.text",
+		"Recipe": "Infuser",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y3",
+		"Repeatable": false,
+		"SkillConditions": 
+		[
+			{ "SkillName": "Farming", "SkillLevel": 9 }
+		]
+	},
+	{
+		"Id": "ppja.stillrecipe",
+		"GroupID": "ppja.MachineRecipes",
+		"Title": "still.title",
+		"Text": "still.text",
+		"Recipe": "Still",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 fall Y3",
+		"Repeatable": false,
+		"SkillConditions": 
+		[
+			{ "SkillName": "Farming", "SkillLevel": 10 }
+		]
+	},	
+]

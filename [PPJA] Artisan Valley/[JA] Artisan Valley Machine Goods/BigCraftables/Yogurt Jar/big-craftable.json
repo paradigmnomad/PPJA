@@ -21,8 +21,7 @@
             "Count": 2,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Farming",
-        "SkillUnlockLevel": 1,
+        "IsDefault": true,
     },
     "NameLocalization":
     {
@@ -32,9 +31,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "ヨーグルト瓶",
         "pt": "Iogurteira",
-        // "ru": "",
+        "ru": "Йогуртница",
         // "tr": "",
         "zh": "酸奶罐",
     },
@@ -46,9 +45,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+       "ja": "ミルクを発酵させてヨーグルトにするための瓶。",
         "pt": "Iogurteira top therm, fermenta leite para fazer iogurte.",
-        // "ru": "",
+        "ru": "Сосуд, в котором можно заквасить молоко в йогурт.",
         // "tr": "",
         "zh": "这个罐子能够将牛奶与其它东西发酵成酸奶。",
     }

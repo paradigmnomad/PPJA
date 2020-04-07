@@ -42,7 +42,7 @@
 
  "NameLocalization": { 
     "es": "Tabla de quesos",
-    "ko": "치즈 보드",
+    "ko": "치즈 모듬",
     "de": "Kässeplatte",
      // "fr": "",
      // "hu": "",
@@ -55,7 +55,7 @@
   },
  "DescriptionLocalization": { 
     "es": "¡Un plato perfecto para las fiestas!",
-    "ko": "완벽한 파티 접시!",
+    "ko": "완벽한 파티 모듬!",
     "de": "Pefekt für Party's!",
      // "fr": "",
      // "hu": "",

@@ -1,0 +1,310 @@
+[
+	{
+		"Id": "ppja.bakedsweetpotatorecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "bakedsweetpotato.text",
+		"Recipe": "Baked Sweet Potato",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "25 fall Y1",
+		"Seasons":  ["fall", "winter"],
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Linus", "FriendshipLevel": 5 }
+		],
+		/*"SkillConditions": 
+		[
+			{ "SkillName": "Farming", "SkillLevel": 1 }
+		]*/
+	},
+	{
+		"Id": "ppja.bananapuddingrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "bananapudding.text",
+		"Recipe": "Banana Pudding",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y1",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "George", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "ppja.broccoliandcheeserecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "broccoliandcheese.text",
+		"Recipe": "Broccoli and Cheese",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "6 summer Y2",
+		"Repeatable": false,
+		"Weather":  "rainy",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Pierre", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "ppja.brownsugarrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "brownsugar.text",
+		"Recipe": "Brown Sugar",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y1",
+		"Repeatable": false,
+		"SkillConditions": 
+		[
+			{ "SkillName": "Foraging", "SkillLevel": 3 }
+		]
+	},
+	{
+		"Id": "ppja.carrotcakerecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "carrotcake.text",
+		"Recipe": "Carrot Cake",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y2",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Caroline", "FriendshipLevel": 3 }
+		],
+	},
+	{
+		"Id": "ppja.cassavacakerecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "cassavacake.text",
+		"Recipe": "Cassava Cake",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "19 summer Y2",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 3 }
+		],
+	},
+	{
+		"Id": "ppja.chefsaladrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "chefsalad.text",
+		"Recipe": "Chef Salad",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y2",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Demetrius", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "ppja.farofarecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "farofa.text",
+		"Recipe": "Farofa",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 fall Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 10 }
+		],
+	},
+	{
+		"Id": "ppja.figtartrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "figtart.text",
+		"Recipe": "Fig Tart",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 winter Y2",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Robin", "FriendshipLevel": 7 }
+		],
+	},
+	{
+		"Id": "ppja.gooseberrypierecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "gooseberrypie.text",
+		"Recipe": "Gooseberry Pie",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 summer Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Pierre", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "ppja.islandsaladrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "islandsalad.text",
+		"Recipe": "Island Salad",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y2",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Jodi", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "ppja.melonsalad",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "melonsalad.text",
+		"Recipe": "Melon Salad",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "8 spring Y3",
+		"Repeatable": false,
+		"Weather":  "rainy",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Emily", "FriendshipLevel": 8 }
+		],
+	},
+	{
+		"Id": "ppja.pbjsandwichrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "pbjsandwich.text",
+		"Recipe": "PB&J Sandwich",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y1",
+		"Repeatable": false,
+		"SkillConditions": 
+		[
+			{ "SkillName": "Farming", "SkillLevel": 4 }
+		]
+	},
+	{
+		"Id": "ppja.poachedpearrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "poachedpear.text",
+		"Recipe": "Poached Pear",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y2",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Gus", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "ppja.raspberrytartrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "raspberrytart.text",
+		"Recipe": "Raspberry Tart",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 summer Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Robin", "FriendshipLevel": 10 }
+		],
+	},
+	{
+		"Id": "ppja.ricepilaf",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "ricepilaf.text",
+		"Recipe": "Rice Pilaf",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y2",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Gus", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "ppja.sauteedonionsrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "sauteedonions.text",
+		"Recipe": "Sauteed Onions",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Marnie", "FriendshipLevel": 8 }
+		],
+	},
+	{
+		"Id": "ppja.stuffedbellpeppersrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "stuffedbellpeppers.text",
+		"Recipe": "Stuffed Bell Peppers",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y2",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Shane", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "ppja.sweetpotatofriesrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "sweetpotatofries.text",
+		"Recipe": "Sweet Potato Fries",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y1",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Pam", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "ppja.tropicalfruitsaladrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "tropicalfruitsalad.text",
+		"Recipe": "Tropical Fruit Salad",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y1",
+		"Seasons":  ["spring", "summer"],
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Lewis", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "ppja.vegetablestirfryrecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "vegetablestirfry.text",
+		"Recipe": "Vegetable Stirfry",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Kent", "FriendshipLevel": 5 }
+		],
+	},
+	{
+		"Id": "ppja.bobatearecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "bobatea.text",
+		"Recipe": "Boba Tea",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y1",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sebastian", "FriendshipLevel": 3 }
+		],
+	},
+	{
+		"Id": "ppja.dandeliontearecipe",
+        "GroupID": "MoreRecipes.CookingRecipe",
+		"Text": "dandeliontea.text",
+		"Recipe": "Dandelion Tea",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 spring Y1",
+		"Seasons":  ["spring", "fall"],
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Linus", "FriendshipLevel": 2 }
+		],
+	},
+]

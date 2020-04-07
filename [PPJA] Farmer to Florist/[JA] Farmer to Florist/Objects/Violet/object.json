@@ -15,9 +15,9 @@
      // "it": "",
      // "ja": "",
     "pt": "Violeta",
-     // "ru": "",
+    "ru": "Фиалка",
      // "tr": "",
-    "zh": "紫罗兰花",
+    "zh": "紫罗兰",
      },
  "DescriptionLocalization": { 
     "es": "Una planta resistente que florece en la primavera. Tiene muchos usos.",
@@ -28,9 +28,9 @@
      // "it": "",
      // "ja": "",
     "pt": "Uma planta resistente que floresce na primavera. Tem uma variedade de usos.",
-     // "ru": "",
+    "ru": "Выносливое растение, цветущее весной. Имеет множество применений.",
      // "tr": "",
-    "zh": "一种在春天开花的耐寒植物。有多种用途。",
+    "zh": "一种春天开花的耐寒植物。有多种用途。",
     },
     "ContextTags": [
     	"color_purple",

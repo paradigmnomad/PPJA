@@ -36,7 +36,7 @@
     {
         "es": "Manzana caramelizada",
         "ko": "캐러멜 애플",
-         // "de": "",
+        "de": "Karamel Apfel",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -50,11 +50,11 @@
     {
         "es": "Una manzana dulce que se ha sumergido en caramelo caliente.",
         "ko": "따뜻한 캐러멜에 담근 달콤한 사과.",
-         // "de": "",
+        "de": "Ein süßer Apfel, der in heißes Karamell getaucht wurde.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[リンゴのキャラメルがけ] 熱々のキャラメルに浸した甘いリンゴ。",
+        "ja": "熱々のキャラメルに浸した甘いリンゴ。",
         "pt": "Uma maçã doce que foi mergulhada em caramelo quente.",
          // "ru": "",
          // "tr": "",

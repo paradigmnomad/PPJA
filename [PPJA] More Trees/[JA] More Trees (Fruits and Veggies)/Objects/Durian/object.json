@@ -1,0 +1,52 @@
+{
+    "Name": "Durian",
+    "Description": "A smelly fruit with a spiky husk.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 200,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Krobus"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Durian",
+        "ko": "두리안",
+        "de": "Durian",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ドリアン",
+        "pt": "Durião",
+        "ru": "Дуриан",
+         // "tr": "",
+        "zh": "榴莲",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una fruta maloliente con una cáscara espinosa.",
+        "ko": "뾰족한 껍질을 가진 냄새 나는 과일.",
+        "de": "Eine stinkende Frucht mit einer stacheligen Schale.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "先端のとがった殻をもつとても臭い果物。",
+        "pt": "Uma fruta fedorenta com uma casca espetada.",
+        "ru": "Вонючий фрукт с колючей кожицей.",
+         // "tr": "",
+        "zh": "一种有刺激的水果味的水果。",
+    },
+    "ContextTags": [
+        "season_summer",
+        "crop_year_two",
+        "fruit_tree_year_two",
+        "color_yellow_green",
+        "fruit_tree_item",
+        "fruit_item",
+        "dye_medium"
+    ]
+}

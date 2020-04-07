@@ -1,0 +1,59 @@
+{
+    "Name": "Peanut Butter",
+    "Description": "The classic staple. Do you like smooth or crunchy? ",
+    "Category": "Cooking",
+    "Edibility": 14,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 160,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Peanut",
+            "Count": 2,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 650,
+        "PurchaseRequirements": [
+            "r 0.50",
+        ]
+    },
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["George", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Mantequilla de maní",
+        "ko": "땅콩 버터",
+        "de": "Erdnussbutter",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ピーナッツバター",
+        "pt": "Manteiga de amendoim",
+         // "ru": "",
+         // "tr": "",
+        "zh": "花生酱",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "El añadido clásico. ¿Te gusta suave o crujiente?",
+        "ko": "부드러운 것과 바삭한 것 중 어느 게 좋나요?",
+        "de": "Der Klassiker. Mit Stückchen, für Feinere benötigst du eine Mühle.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "定番の調味料。なめらかなタイプと砕いた粒が残ってるタイプ、どちらがお好み？",
+        "pt": "The classic staple. Do you like smooth or crunchy?",
+         // "ru": "",
+         // "tr": "",
+        "zh": "花生酱。经典的主食。你喜欢粘稠的还是里面带点脆脆的花生的？",
+    }
+}

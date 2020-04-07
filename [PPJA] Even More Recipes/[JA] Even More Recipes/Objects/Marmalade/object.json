@@ -30,7 +30,7 @@
     {
         "es": "Mermelada",
         "ko": "마멀레이드",
-         // "de": "",
+        "de": "Marmelade",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -44,11 +44,11 @@
     {
         "es": "Una conserva de frutas hecha con cáscaras de cítricos y azúcar.",
         "ko": "감귤 껍질과 설탕으로 만든 잼.",
-         // "de": "",
+        "de": "Eine Obstkonfitüre aus Zitrusschalen und Zucker.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[マーマレード] かんきつ類の皮と砂糖から作られたくだものの保存食。",
+        "ja": "かんきつ類の皮と砂糖から作られたくだものの保存食。",
         "pt": "Conserva de frutas feita de cascas de frutas cítricas e açúcar.",
          // "ru": "",
          // "tr": "",

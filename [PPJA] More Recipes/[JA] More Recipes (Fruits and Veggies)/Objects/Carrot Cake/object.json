@@ -1,0 +1,68 @@
+{
+    "Name": "Carrot Cake",
+    "Description": "A light and fluffy cake, it’s a spring treat.",
+    "Category": "Cooking",
+    "Edibility": 58,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 490,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Carrot",
+            "Count": 2,
+        },
+        {
+            "Object": -5,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Clint", "Robin"],
+        "Like": ["Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Leah"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Pastel de zanahoria",
+        "ko": "당근 케이크",
+        "de": "Karottenkuchen",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ニンジンケーキ",
+        "pt": "Bolo de cenoura",
+         // "ru": "",
+         // "tr": "",
+        "zh": "胡萝卜蛋糕",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un pastel ligero y esponjoso, es un regalo de primavera.",
+        "ko": "가볍고 푹신한 케이크, 봄맞이 요리입니다.",
+        "de": "Ein leichter und luftiger Kuchen, so schmeckt der Frühling.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "軽くふわふわしているケーキ。春のご馳走。",
+        "pt": "Um bolo leve e fofo, é uma delícia.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "胡萝卜蛋糕。春天最好的甜点。",
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "More Food: A Collection of Recipes for JsonAssets",
+    "Author": "Project Populate Json Assets",
+    "Description": "A port of Mizu's recipe sprites for JsonAssets",
+    "Version": "1.9.11",
+    "UniqueID": "paradigmnomad.morefood",
+    "MinimumApiVersion": "3.2.0",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "UpdateKeys": ["Nexus:1670"],
+    "Dependencies": [
+    {
+        "UniqueID": "ppja.fruitsandveggies",
+        "IsRequired": true,
+    },
+    {
+        "UniqueID": "ppja.moretrees",
+        "IsRequired": true,
+    },
+    {
+        "UniqueID": "mizu.flowers",
+        "IsRequired": true,
+    }, ]
+}

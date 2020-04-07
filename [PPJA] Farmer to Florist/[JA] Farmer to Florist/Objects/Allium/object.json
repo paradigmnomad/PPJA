@@ -23,9 +23,9 @@
          // "it": "",
          // "ja": "",
         "pt": "Alho Ornamental",
-         // "ru": "",
+        "ru": "Декоративный лук",
          // "tr": "",
-        "zh": "青葱",
+        "zh": "大花葱",
     },
     "DescriptionLocalization":
     {
@@ -37,9 +37,9 @@
          // "it": "",
          // "ja": "",
         "pt": "A flor cresce em uma esfera para atrair o máximo de borboleta possíveis.",
-         // "ru": "",
+        "ru": "Цветок растет в форме сферы, чтобы привлечь как можно больше бабочек.",
          // "tr": "",
-        "zh": "花在球形內生長，以吸引盡可能多的蝴蝶。",
+        "zh": "花朵长成球形，以吸引尽可能多的蝴蝶。",
     },
     "ContextTags": [
     	"season_summer",

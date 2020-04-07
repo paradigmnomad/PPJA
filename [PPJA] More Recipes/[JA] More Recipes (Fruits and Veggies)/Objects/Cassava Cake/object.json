@@ -1,0 +1,66 @@
+{
+    "Name": "Cassava Cake",
+    "Description": "Delicious and custardy!",
+    "Category": "Cooking",
+    "Edibility": 34,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 490,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cassava",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": 88,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Abigail", "Dwarf", "Krobus", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Pastel de yuca",
+        "ko": "카사바 케이크",
+        "de": "Maniokkuchen",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "キャッサバケーキ",
+        "pt": "Bolo de Mandioca",
+         // "ru": "",
+         // "tr": "",
+        "zh": "木薯蛋糕",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Delicioso y sabroso!",
+        "ko": "맛있고 군침도는 케이크!",
+        "de": "Lecker und schmackhaft!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "なめらかでおいしい！",
+        "pt": "Delicioso e cremoso!",
+         // "ru": "",
+         // "tr": "",
+        "zh": "木薯蛋糕。尝起来是美味的、黏糊糊的！",
+    }
+}

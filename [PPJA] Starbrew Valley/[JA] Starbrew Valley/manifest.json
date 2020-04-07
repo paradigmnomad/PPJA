@@ -2,8 +2,8 @@
    "Name": "Starbrew Valley: A Collection of Alcoholic Drinks and Recipes",
    "Author": "Project Populate JsonAssets",
    "Description": "Adds new alcoholic drinks to the Stardrop Saloon and new recipes, please see dependencies.",
-   "Version": "1.3.5",
-   "MinimumApiVersion": "3.0.1",
+   "Version": "1.3.11",
+   "MinimumApiVersion": "3.2.0",
    "UniqueID": "ppja.starbrewvalley",
    "ContentPackFor": {
        "UniqueID": "spacechase0.JsonAssets"

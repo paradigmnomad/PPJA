@@ -1,0 +1,67 @@
+{
+    "Name": "Jasmine Tea",
+    "Description": "An exotic tea made with jasmine petals.",
+    "Category": "Cooking",
+    "Edibility": 24,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 425,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 2,
+        },
+        {
+            "Object": "Sweet Jasmine",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1425,
+        "PurchaseRequirements": null,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Elliott", "Jas"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Krobus", "Pierre"],
+        "Dislike": ["George", "Lewis", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de jazmín",
+        "ko": "자스민 티",
+        "de": "Jasmintee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ジャスミンティー",
+        "pt": "Chá de jasmim",
+         // "ru": "",
+         // "tr": "",
+        "zh": "甜茉莉花茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un té exótico hecho con pétalos de jazmín.",
+        "ko": "자스민 꽃잎으로 만든 이국적인 차.",
+        "de": "Ein exotischer Tee aus Jasminblättern.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ジャスミンの花びらでいれるエキゾチックなお茶。",
+        "pt": "Um chá exótico feito com pétalas de jasmim.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "甜茉莉花茶。一种带有茉莉花香的异国茶。",
+    },
+    "ContextTags": [
+        "color_white",
+        "tea_item",
+    ],
+}

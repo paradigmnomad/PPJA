@@ -1,0 +1,66 @@
+{
+    "Name": "Farofa",
+    "Description": "A toasted mix of ground cassava and other veggies.",
+    "Category": "Cooking",
+    "Edibility": 34,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 535,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cassava",
+            "Count": 2,
+        },
+        {
+            "Object": 248,
+            "Count": 1,
+        },
+        {
+            "Object": "Olive",
+            "Count": 1,
+        },
+        {
+            "Object": "Onion",
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+    },
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Farofa",
+        "ko": "파로파",
+        "de": "Farofa",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ファロファ",
+        "pt": "Farofa",
+         // "ru": "",
+         // "tr": "",
+        "zh": "奶油木薯粉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una mezcla tostada de mandioca molida y otras verduras.",
+        "ko": "갈아놓은 카사바와 다른 야채들을 구워 섞은 것.",
+        "de": "Eine geröstete Mischung aus gemahlenem Maniok und anderem Gemüse.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "キャッサバの粉末をあぶって他の野菜とあえたもの。",
+        "pt": "Uma mistura torrada de mandioca moída e outros vegetais.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "奶油木薯粉。一种混合了磨碎的木薯和其他蔬菜。",
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "Name": "Chai Tea",
+    "Description": "A creamy tea with a slight cinnamon flavor.",
+    "Category": "Cooking",
+    "Edibility": 5,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 600,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 4,
+        },
+        {
+            "Object": "Cinnamon Sticks",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1600,
+        "PurchaseRequirements": ["z spring summer winter",
+            "y 2",
+        ],
+    },
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Caroline", "Demetrius", "Pierre"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té chai",
+        "ko": "차이 티",
+        "de": "Chai Tee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "チャイ",
+        "pt": "Chá Chai",
+         // "ru": "",
+         // "tr": "",
+        "zh": "印度香茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un té cremoso con un ligero sabor a canela.",
+        "ko": "시나몬 향이 약간 나는 크림 티.",
+        "de": "Ein cremiger Tee mit leichtem Zimtgeschmack.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "かすかなシナモン風味のクリーミーなお茶。",
+        "pt": "Um chá cremoso com um leve sabor de canela.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "印度香茶。一种带有少许肉桂味道的奶油茶。",
+    },
+    "ContextTags": [
+        "recipe_year_2",
+        "color_white",
+        "tea_item",
+    ],
+}

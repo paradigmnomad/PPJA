@@ -1,0 +1,66 @@
+{
+    "Name": "Barley Tea",
+    "Description": "Also known as mugicha.",
+    "Category": "Cooking",
+    "Edibility": 21,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 325,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Barley",
+            "Count": 2,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1325,
+        "PurchaseRequirements": [
+            "z spring fall winter",
+            "y 2",
+        ]
+    },
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Alex", "Clint", "Haley", "Sam"],
+        "Dislike": ["Jas", "Pam", "Vincent"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de cebada",
+        "ko": "보리차",
+        "de": "Gerstentee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "麦茶",
+        "pt": "Chá de cevada",
+         // "ru": "",
+         // "tr": "",
+        "zh": "大麦茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "También conocido como mugicha.",
+        "ko": "무기차 라고도 합니다.",
+        "de": "Auch bekannt als Mugicha.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "「むぎちゃ」の名前で知られている。",
+        "pt": "Também conhecido como mugicha.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "大麦茶。也称为mugicha。",
+    },
+    "ContextTags": [
+        "recipe_year_2",
+        "color_brown",
+        "tea_item",
+    ],
+}

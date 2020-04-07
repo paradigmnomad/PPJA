@@ -41,7 +41,7 @@
     {
         "es": "Cheesecake",
         "ko": "치즈 케이크",
-         // "de": "",
+        "de": "Käsekuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -55,11 +55,11 @@
     {
         "es": "Un postre clásico.",
         "ko": "클래식한 디저트.",
-         // "de": "",
+         // "de": "Ein klassischer Kuchen für den Nachtisch.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[チーズケーキ] 定番のデザート。",
+        "ja": "定番のデザート。",
         "pt": "Uma sobremesa clássica.",
          // "ru": "",
          // "tr": "",

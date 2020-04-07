@@ -1,0 +1,50 @@
+{
+    "Name": "Lemon",
+    "Description": "A tangy citrus fruit that is used to make lemonade.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 50,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Gus"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Limón",
+        "ko": "레몬",
+        "de": "Zitrone",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "レモン",
+        "pt": "Limão siciliano",
+        "ru": "Лимон",
+         // "tr": "",
+        "zh": "柠檬",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una fruta ácida que se usa para hacer limonada.",
+        "ko": "레모네이드를 만드는 데 사용되는 톡 쏘는 감귤류 과일.",
+        "de": "Eine sehr saure Frucht mit viel Vitamin C.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "レモネードの材料に使うすごく酸っぱい柑橘系の果物。",
+        "pt": "Um citrino picante usado para fazer limonada.",
+        "ru": "Цитрусовый фрукт, который используется для приготовления лимонада.",
+         // "tr": "",
+        "zh": "一种用来制作柠檬水的柑橘类水果。",
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_yellow",
+        "fruit_tree_item",
+        "fruit_item",
+        "dye_medium"
+    ]
+}

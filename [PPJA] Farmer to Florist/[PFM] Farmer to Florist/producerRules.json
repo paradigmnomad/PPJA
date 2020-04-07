@@ -13,7 +13,7 @@
 		"OutputQuality": 0,
 		"OutputStack": 1,
 		"Sounds": ["Ship"],
-		"PlacingAnimation": "Bubbles",
+		"PlacingAnimation": null,
 		"PlacingAnimationColorName": "White"
 	},
 	{
@@ -30,7 +30,7 @@
 		"OutputQuality": 0,
 		"OutputStack": 1,
 		"Sounds": ["Ship"],
-		"PlacingAnimation": "Bubbles",
+		"PlacingAnimation": null,
 		"PlacingAnimationColorName": "White"
 	},
 	{
@@ -39,7 +39,7 @@
 		"InputStack": 1,
 		"MinutesUntilReady": 2000,
 		"OutputIdentifier": "Tea Bag",
-		"OutputName": null,
+		"OutputName": "{inputName} Tea Bag",
 		"PreserveType": null,
 		"InputPriceBased": true,
 		"OutputPriceIncrement": 25,
@@ -48,7 +48,7 @@
 		"OutputQuality": 0,
 		"OutputStack": 1,
 		"Sounds": ["Ship"],
-		"PlacingAnimation": "Bubbles",
+		"PlacingAnimation": null,
 		"PlacingAnimationColorName": "White"
 	},
 	{

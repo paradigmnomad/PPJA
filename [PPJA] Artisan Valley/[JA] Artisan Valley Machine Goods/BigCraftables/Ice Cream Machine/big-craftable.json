@@ -3,7 +3,7 @@
     "Description": "A machine for making delicious ice cream at home.",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveNextIndex": true,
+    "ReserveExtraIndexCount": 7,
     "Recipe":
     {
         "ResultCount": 1,
@@ -21,8 +21,7 @@
             "Count": 1,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Farming",
-        "SkillUnlockLevel": 9,
+        "IsDefault": true,
     },
     "NameLocalization":
     {
@@ -32,9 +31,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "アイスクリームマシン",
         "pt": "Máquina de Sorvete",
-        // "ru": "",
+        "ru": "Мороженица",
         // "tr": "",
 
         "zh": "冰淇淋机",
@@ -47,9 +46,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "この機械でおいしいお手製アイスクリームを作れる。",
         "pt": "Uma máquina para fazer sorvete delicioso em casa.",
-        // "ru": "",
+        "ru": "Машина для приготовления вкусного мороженого в домашних условиях.",
         // "tr": "",
         "zh": "有了它在家中即可自制美味冰淇淋。",
     }

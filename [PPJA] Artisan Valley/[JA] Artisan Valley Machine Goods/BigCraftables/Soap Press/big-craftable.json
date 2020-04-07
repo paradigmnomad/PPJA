@@ -3,7 +3,7 @@
     "Description": "A press designed for molding soap.",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveNextIndex": true,
+    "ReserveExtraIndexCount": 7,
     "Recipe":
     {
         "ResultCount": 1,
@@ -25,8 +25,7 @@
             "Count": 1,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Farming",
-        "SkillUnlockLevel": 6,
+        "IsDefault": true,
     },
     "NameLocalization":
     {
@@ -36,9 +35,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "ソーププレス",
         "pt": "Prensa de Sabonete",
-        // "ru": "",
+        "ru": "Пресс для мыла",
         // "tr": "",
         "zh": "压皂机",
     },
@@ -50,9 +49,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "石けんをプレスしかたどる機械。",
         "pt": "Um prensa feita para moldar sabonete.",
-        // "ru": "",
+        "ru": "Пресс, используемый для формирования мыла.",
         // "tr": "",
         "zh": "一种用来制作肥皂的压力机。",
     }

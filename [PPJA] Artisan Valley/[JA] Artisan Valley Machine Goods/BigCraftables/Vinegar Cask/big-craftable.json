@@ -21,8 +21,7 @@
             "Count": 3,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Farming",
-        "SkillUnlockLevel": 8,
+        "IsDefault": true,
     },
     "NameLocalization":
     {
@@ -32,9 +31,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "酢造ダル",
         "pt": "Barril de Vinagre",
-        // "ru": "",
+        "ru": "Уксусная бочка",
         // "tr": "",
         "zh": "醋桶",
     },
@@ -46,9 +45,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "ブドウやリンゴや米を酢に変えるために設計されたタル。",
         "pt": "Um barril para fazer vinagre com uvas, maçãs ou arroz não moído.",
-        // "ru": "",
+        "ru": "Бочка, предназначенная для превращения винограда, яблока и не измельченного риса в уксус.",
         // "tr": "",
         "zh": "往桶里倒入葡萄、苹果和未碾碎的大米以酿醋。",
     }

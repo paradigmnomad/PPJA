@@ -21,7 +21,7 @@
          // "it": "",
         "ja": "スイカ",
         "pt": "Melancia",
-         // "ru": "",
+        "ru": "Арбуз",
          // "tr": "",
         "zh": "西瓜",
     },
@@ -35,8 +35,13 @@
          // "it": "",
         "ja": "ジューシーで甘い、おいしい夏のおやつ。皆、海水浴によく持っていく。",
         "pt": "Suculenta e doce, é deliciosa para comer no verão. Muitas vezes é levada em viagens para a praia!",
-         // "ru": "",
+        "ru": "Сочное и сладкое летнее лакомство. Отличный вариант для жарких дней!",
          // "tr": "",
         "zh": "甜美多汁，是一种美味的夏日水果。海滩之旅必不可少！",
-    }
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_green",
+        "fruit_item",
+    ],
 }

@@ -3,7 +3,7 @@
     "Description": "Blends peppers into a delicious spicy liquid.",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveNextIndex": true,
+    "ReserveExtraIndexCount": 7,
     "Recipe":
     {
         "ResultCount": 1,
@@ -21,8 +21,7 @@
             "Count": 3,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Foraging",
-        "SkillUnlockLevel": 6,
+        "IsDefault": true,
     },
     "NameLocalization":
     {
@@ -32,9 +31,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "ペッパーブレンダー",
         "pt": "Liquidificador de Pimenta",
-        // "ru": "",
+        "ru": "Смешиватель перцев",
         // "tr": "",
         "zh": "辣椒搅拌机",
     },
@@ -46,9 +45,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "トウガラシをスパイシーでおいしいエキスにする。",
         "pt": "Usado para transformar pimenta em um extrato picante.",
-        // "ru": "",
+        "ru": "Молотит перцы в вкусную пряную жидкость.",
         // "tr": "",
         "zh": "把辣椒搅拌成美味的辣味液体。",
     }

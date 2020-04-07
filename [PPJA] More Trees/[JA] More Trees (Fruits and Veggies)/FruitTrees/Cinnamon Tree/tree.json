@@ -1,0 +1,41 @@
+{
+    "Name": "Cinnamon Tree",
+    "Product": "Cinnamon Sticks",
+    "SaplingName": "Cinnamon Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Cassia tree. Ready to harvest in the winter. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "winter",
+
+    "SaplingPurchasePrice": 6000,
+    "SaplingPurchaseRequirements": [
+    "y 2",
+    ],
+     "SaplingNameLocalization":
+    {
+        "es": "Brote de canela",
+        "ko": "시나몬 묘목",
+        "de": "Zimtbaum-Setzling",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "シナモンの苗",
+        "pt": "Muda de canela",
+        "ru": "Саженец коричного дерева",
+         // "tr": "",
+        "zh": "肉桂树苗",
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "es": "Toma 28 días para producir un árbol maduro de canela. Listo para cosechar en invierno. Solo crece si las 8 casillas circundantes están vacías.",
+        "ko": "28일후에 성목이 됩니다. 겨을에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
+        "de": "Wächst in 28 Tagen zu einem reifen Zimtbaum heran. Trägt im Winter Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "28日かけて成木にそだち、冬になると樹皮をはがせるようになる。となりあった周囲の「8マス」が空いてないとそだたない。",
+        "pt": "Demora até 28 dias para produzir uma árvore de canela madura. Dá frutas no inverno. Só cresce se os 8 espaços adjacentes estiverem vazios.",
+        "ru": "Становится взрослым коричным деревом через 28 дней. Плодоносит зимой. Растет только если 8 «клеток» вокруг него не заняты.",
+         // "tr": "",
+        "zh": "28天成熟为成年肉桂树。冬天结果。只有在附近8块地块都空置的情况下才会成长。",
+    }
+}

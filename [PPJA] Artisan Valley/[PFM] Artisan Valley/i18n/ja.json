@@ -1,0 +1,17 @@
+{
+    "Dehydrator.Tea": "{inputName}のティーバッグ",
+    "Dehydrator.Fruit": "干し {inputName}",
+    "DryingRack.Flower": "乾燥 {inputName}",
+    "DryingRack.Herb": "乾燥 {inputName}",
+    "DryingRack.Vegetable": "干し {inputName}",
+    "DryingRack.Mushroom": "干し {inputName}",
+    "Grinder.Herb": "粉末 {inputName}",
+    "Grinder.Vegetable": "粉末 {inputName}",
+    "Infuser.Schnapps": "{inputName} シュナップス",
+    "YogurtJar.Fruit": "{inputName} ヨーグルト",
+    "WaxBarrel.Candle": "{inputName} ろうそく",
+    "Alembic.EssentialOil": "{inputName} 精油",
+    "Juice.Fruit": "{inputName} ジュース",
+    "SoapPress.Soap": "{inputName} 製石けん",
+    "Smoker.Fish": "{inputName} のくん製",
+}

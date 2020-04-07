@@ -1,0 +1,69 @@
+{
+    "Name": "Lavender Milk Tea",
+    "Description": "Milk, sugar, and lavender in just the right proportions.",
+    "Category": "Cooking",
+    "Edibility": 52,
+    "EdibleIsDrink": true,
+    "EdibleBuffs": null,
+    "Price": 600,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 815,
+            "Count": 1,
+        },
+        {
+            "Object": "Herbal Lavender",
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1600,
+        "PurchaseRequirements": null,
+    },
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Vincent", "Wizard"],
+        "Dislike": ["Alex", "Kent", "Sebastian", "Shane", "Willy"],
+    },
+
+    "NameLocalization":
+    {
+        "es": "Té de lavanda con leche",
+        "ko": "라벤더 밀크 티",
+        "de": "Lavendel-Milch-Tee",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ラベンダーミルクティー",
+        "pt": "Chá de Leite com Lavanda",
+         // "ru": "",
+         // "tr": "",
+        "zh": "薰衣草奶茶",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Leche, azúcar y lavanda en las proporciones adecuadas.",
+        "ko": "우유, 설탕, 그리고 라벤더가 적절하게 섞인 차.",
+        "de": "Milch, Zucker und Lavendel in genau den richtigen Verhältnissen.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ミルク、砂糖、ラベンダーをちょうどいい割合で。",
+        "pt": "Leite, açúcar e lavanda nas proporções certas.",
+         // "ru": "",
+         // "tr": "",
+        "zh": "薰衣草奶茶。牛奶、糖和薰衣草的比例恰到好处。",
+    }
+}

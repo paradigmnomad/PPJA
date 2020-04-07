@@ -10,8 +10,7 @@
     "GiftTastes":
     {
         "Love": ["Abigail"],
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
-        "Neutral": ["Leah"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Krobus", "Leah", "Willy"],
     },
     "Recipe":
@@ -40,7 +39,7 @@
     {
         "es": "Galleta de amatista",
         "ko": "자수정 쿠키",
-         // "de": "",
+        "de": "Amethyst-Plätzchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -54,11 +53,11 @@
     {
         "es": "Una galleta chispeante con un crujido único.",
         "ko": "독특한 크런치가 있는 스파클링 쿠키.",
-         // "de": "",
+        "de": "Ein funkelnder Keks mit einem einzigartigen Biss.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[アメジストクッキー] 独特なクランチがきらめくクッキー。",
+        "ja": "独特なクランチがきらめくクッキー。",
         "pt": "Um biscoito brilhante com uma crocancia única.",
          // "ru": "",
          // "tr": "",

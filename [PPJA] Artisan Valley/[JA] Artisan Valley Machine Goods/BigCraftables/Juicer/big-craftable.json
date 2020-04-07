@@ -21,8 +21,7 @@
             "Count": 1,
         }, ],
         "CanPurchase": false,
-        "SkillUnlockName": "Foraging",
-        "SkillUnlockLevel": 9,
+        "IsDefault": true,
     },
     "NameLocalization":
     {
@@ -32,9 +31,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "ジューサー",
         "pt": "Espremedor",
-        // "ru": "",
+        "ru": "Соковыжималка",
         // "tr": "",
         "zh": "榨汁机",
     },
@@ -46,9 +45,9 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "くだものを搾りたてのジュースにする。",
         "pt": "Esprema frutas e consiga suco fresquinho.",
-        // "ru": "",
+        "ru": "Превращает фрукты в свежевыжатый сок.",
         // "tr": "",
         "zh": "把水果制成鲜榨果汁。",
     }

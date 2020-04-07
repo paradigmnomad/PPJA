@@ -21,7 +21,7 @@
          // "it": "",
         "ja": "白インゲン豆",
         "pt": "Feijão branco",
-         // "ru": "",
+        "ru": "Белая фасоль",
          // "tr": "",
         "zh": "菜豆",
     },
@@ -35,8 +35,13 @@
          // "it": "",
         "ja": "「A handful of beans.」",
         "pt": "Um punhado de feijões.",
-         // "ru": "",
+        "ru": "Горсть фасоли.",
          // "tr": "",
         "zh": "一把菜豆。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_light_pink",
+        "vegetable_item",
+    ],
 }

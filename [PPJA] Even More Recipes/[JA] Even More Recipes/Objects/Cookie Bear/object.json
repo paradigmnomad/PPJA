@@ -41,7 +41,7 @@
     {
         "es": "Galleta con forma de oso",
         "ko": "곰돌이 쿠키",
-         // "de": "",
+        "de": "Bärenplätzchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -55,11 +55,11 @@
     {
         "es": "Una linda galleta con forma de oso.",
         "ko": "귀여운 곰 모양 쿠키에요.",
-         // "de": "",
+        "de": "Ein süßes Plätzchen in Form eines Bären.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[クマクッキー] クマをかたどったかわいいクッキー。",
+        "ja": "クマをかたどったかわいいクッキー。",
         "pt": "Um biscoito fofo em forma de urso.",
          // "ru": "",
          // "tr": "",

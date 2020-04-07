@@ -34,7 +34,7 @@
     {
         "es": "Paleta de coco",
         "ko": "코코넛 팝시클",
-         // "de": "",
+        "de": "Kokoseis am Stiel",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -48,11 +48,11 @@
     {
         "es": "Sabor a isla (o desierto) fresco.",
         "ko": "신선한 섬 (또는 사막)이 느껴지는 맛.",
-         // "de": "",
+        "de": "Der Geschmack von Urlaub.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "[ココナッツアイスバー] 島または砂漠産の新鮮な味。",
+        "ja": "島または砂漠産の新鮮な味。",
         "pt": "Sabor fresco da ilha (ou deserto).",
          // "ru": "",
          // "tr": "",
