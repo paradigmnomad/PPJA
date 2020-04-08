@@ -6,7 +6,7 @@
     "Type": "ArtisanGoods",
 
     "Seasons": ["fall"],
-    "Phases": [ 2, 2, 3, 3, 3, ],
+    "Phases": [ 2, 2, 3, 3, 3],
     "RegrowthPhase": 6,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
@@ -15,7 +15,7 @@
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 1,
         "MaxIncreasePerFarmLevel": 5,
-        "ExtraChance": 0.0,
+        "ExtraChance": 0.0
     },
 "SeedPurchaseFrom": "Krobus",
   "SeedPurchasePrice": 250,
@@ -29,9 +29,9 @@
     "it": "Semi di doubloon",
     "ja": "ダブロンの種",
     "pt": "Sementes de Dobrão",
-    "ru": "Семена Дублона",
+    "ru": "Семена дублона",
     "tr": "Doubloon Tohumları",
-    "zh": "钱币种子",
+    "zh": "钱币种子"
 
     },
 "SeedDescriptionLocalization": { 
@@ -43,8 +43,8 @@
     "it": "Piantali in autunno. Richiede 13 giorni per maturare e continua a produrre dopo il primo raccolto.",
     "ja": "秋にこれらを植えます。 熟すのに13日かかり、最初の収穫後も生産を続けます。",
     "pt": "Plante-as no outono. Leva 13 dias para amadurecer e continua produzindo após a primeira colheita.",
-    "ru": "Сажайте осенью. Вырастает через 13 дней и продолжает давать урожай после первого сбора.",
+    "ru": "Высаживайте их осенью. Созревают за 13 дней, продолжая давать урожай после первого сбора.",
     "tr": "Bunları sonbaharda ekin. Olgunlaşması 13 gün sürer ve ilk hasattan sonra üretime devam eder.",
-    "zh": "秋天播种。13天成熟，在第一次收获后循环生产。",
+    "zh": "秋天播种。13天成熟，在第一次收获后循环生产。"
     }
 }
