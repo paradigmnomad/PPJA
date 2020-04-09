@@ -1,0 +1,57 @@
+{
+    "Name": "Toast",
+    "Description": "A plain slice of Toast",
+    "Category": "Cooking",
+    "Edibility": 10,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 20,
+    "IsColored": false,
+    "GiftTastes":
+    {
+       "Like": ["Abigail","Harvey", "Gus", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Pam"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 5,
+        "Ingredients": [
+        
+        {
+            "Object": 246,
+            "Count": 2,
+	}],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 700,
+        "PurchaseRequirements": ["y 1", ],
+    },
+    "NameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+        "de": "Toast",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+        "de": "Eine ordinäre Scheibe Toast",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    }
+}
