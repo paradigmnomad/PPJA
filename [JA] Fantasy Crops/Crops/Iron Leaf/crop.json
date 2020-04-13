@@ -15,7 +15,7 @@
         "MinimumPerHarvest": 2,
         "MaximumPerHarvest": 3,
         "MaxIncreasePerFarmLevel": 5,
-        "ExtraChance": 0.2,
+        "ExtraChance": 0.2
     },
 "SeedPurchaseFrom": "Krobus",
   "SeedPurchasePrice": 100,
@@ -29,9 +29,9 @@
     "it": "Semi di ferro",
     "ja": "鉄の種",
     "pt": "Sementes de Ferro",
-    "ru": "Железные cемена",
+    "ru": "Семена железа",
     "tr": "Demir Çekirdeği",
-    "zh": "铁矿种子",
+    "zh": "铁矿种子"
     },
 "SeedDescriptionLocalization": { 
     "es": "Plantalas en verano. Toma 15 dias para madurar.",
@@ -42,8 +42,8 @@
     "it": "Piantali in estate. Ci vogliono 15 giorni per maturare.",
     "ja": "これらを夏に植えてください。 成熟するには15日かかります。",
     "pt": "Plante-as no verão. Leva 15 dias para amadurecer.",
-    "ru": "Посади их летом. Требуется 15 дней для созревания.",
+    "ru": "Высаживайте их летом. Созревание занимает 15 дней.",
     "tr": "Bunları yazın yazın. Olgunlaşması 15 gün sürer.",
-    "zh": "夏天播种。15天成熟。",
+    "zh": "夏天播种。15天成熟。"
     }
 }

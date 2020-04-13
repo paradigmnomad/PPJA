@@ -15,12 +15,12 @@
         "MinimumPerHarvest": 2,
         "MaximumPerHarvest": 3,
         "MaxIncreasePerFarmLevel": 5,
-        "ExtraChance": 0.2,
+        "ExtraChance": 0.2
     },
 "SeedPurchaseFrom": "Clint",
   "SeedPurchasePrice": 30,
   "SeedPurchaseRequirements": [
-	"z summer, z fall, z winter",
+	"z summer, z fall, z winter"
 ],
 
 "SeedNameLocalization": { 
@@ -34,7 +34,7 @@
     "pt": "Sementes de carvão",
     "ru": "Cемена угля",
     "tr": "Kömür tohumları",
-    "zh": "煤炭种子",
+    "zh": "煤炭种子"
     },
 "SeedDescriptionLocalization": { 
     "es": "Plantalas en primavera. Toma 10 dias para madurar",
@@ -45,9 +45,8 @@
     "it": "Piantali in primavera o in estate. Ci vogliono 10 giorni per maturare.",
     "ja": "これらを春または夏に植えます。 成熟するのに10日かかります。",
     "pt": "Plante-as na primavera ou no verão. Leva 10 dias para amadurecer.",
-    "ru": "Сажайте весной или летом. Вырастает через 10 дней.",
+    "ru": "Высаживайте их весной или летом. Созревание занимает 10 дней.",
     "tr": "Bunları ilkbahar veya yaz aylarında dikin. Olgunlaşması 10 gün sürer.",
-    "zh": "春天或夏天播种。10天成熟。",
+    "zh": "春天或夏天播种。10天成熟。"
     }
-
 }

@@ -19,7 +19,7 @@
         "pt": "Dobrão",
         "ru": "Дублон",
         "tr": "İspanyol altını",
-        "zh": "钱币",
+        "zh": "钱币"
     },
     "DescriptionLocalization":
     {
@@ -31,8 +31,8 @@
         "it": "Una moneta con un solo scopo: essere venduta.",
         "ja": "目的が1つしかないコイン：販売する。",
         "pt": "Uma moeda com apenas um objetivo: ser vendida.",
-        "ru": "Монета только с одной целью: быть проданной.",
+        "ru": "Монета, имеющая только одно назначение: продажа.",
         "tr": "Sadece bir amacı olan bir madeni para: satılmak.",
-        "zh": "生产这个硬币只有一个目的：被卖掉",
+        "zh": "生产这个硬币只有一个目的：被卖掉。"
     }
 }

@@ -15,7 +15,7 @@
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 5,
         "MaxIncreasePerFarmLevel": 5,
-        "ExtraChance": 2.0,
+        "ExtraChance": 2.0
     },
 "SeedPurchaseFrom": "Krobus",
   "SeedPurchasePrice": 50,
@@ -29,9 +29,9 @@
     "it": "Semi di rame",
     "ja": "銅の種",
     "pt": "Sementes de cobre",
-    "ru": "Медные семена",
+    "ru": "Семена меди",
     "tr": "Bakır Tohumlar",
-    "zh": "铜矿种子",
+    "zh": "铜矿种子"
     },
 "SeedDescriptionLocalization": { 
     "es": "Plantalas en primavera. Toma 10 dias para madurar.",
@@ -42,9 +42,8 @@
     "it": "Piantali in primavera. Ci vogliono 10 giorni per maturare.",
     "ja": "これらを春に植えます。 成熟するのに10日かかります。",
     "pt": "Plante-as na primavera. Leva 10 dias para amadurecer.",
-    "ru": "Сажайте весной. Вырастает через 10 дней.",
+    "ru": "Высаживайте их весной. Вырастают за 10 дней.",
     "tr": "Bunları ilkbaharda dikin. Olgunlaşması 10 gün sürer.",
-    "zh": "春天播种。10天成熟。",
+    "zh": "春天播种。10天成熟。"
     }
-
 }
