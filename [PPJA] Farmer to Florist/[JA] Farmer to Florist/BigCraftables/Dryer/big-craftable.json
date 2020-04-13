@@ -36,7 +36,7 @@
             //"fr": "", //French
             //"hu": "", //Hungarian
             //"it": "", //Italian
-            //"ja": "", //Japanese
+            "ja": "乾燥ラック", //Japanese
             "pt": "Secador", //Portuguese
             "ru": "Сушилка", //Russian
             //"tr": "", //Turkish/
@@ -50,7 +50,7 @@
             //"fr": "", //French
             //"hu": "", //Hungarian
             //"it": "", //Italian
-            //"ja": "", //Japanese
+            "ja": "草花を乾燥させてお茶にしたり、野菜チップスを作るのに使われる。", //Japanese
             "pt": "É usado para secar folhas e flores para fazer chá e seca legumes para fazer frituras.", //Portuguese
             "ru": "Используется для сушки цветов и листьев для последующего приготовления чая и сушки овощей в чипсы.", //Russian
             //"tr": "", //Turkish
