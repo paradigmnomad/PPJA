@@ -2,7 +2,7 @@
    "Name": "Artisan Valley Machine Goods",
    "Author": "Project Populate JsonAssets",
    "Description": "Adds new items to the game via PFM machines. Requires PFM and JA to work properly.",
-   "Version": "3.0.13",
+   "Version": "3.0.14",
    "MinimumApiVersion": "3.3.2",
    "UniqueID": "ppja.artisanvalleymachinegoods",
    "ContentPackFor": {
