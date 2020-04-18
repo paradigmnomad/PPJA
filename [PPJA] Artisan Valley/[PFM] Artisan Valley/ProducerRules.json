@@ -919,6 +919,14 @@
     },
     {
         "ProducerName": "Extruder",
+        "InputIdentifier": "Buckwheat Flour",
+        "InputStack": 1,
+        "MinutesUntilReady": 360,
+        "OutputIdentifier": "Buckwheat Noodles",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Extruder",
         "InputIdentifier": "Cassava",
         "InputStack": 1,
         "MinutesUntilReady": 1600,
@@ -998,6 +1006,14 @@
         "InputStack": 1,
         "MinutesUntilReady": 1600,
         "OutputIdentifier": "Rice Flour",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Grinder",
+        "InputIdentifier": "Buckwheat",
+        "InputStack": 1,
+        "MinutesUntilReady": 1600,
+        "OutputIdentifier": "Buckwheat Flour",
         "Sounds": ["Ship"],
     },
     {
