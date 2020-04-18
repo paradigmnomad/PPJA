@@ -1,4 +1,5 @@
 {
+	"Dehydrator.Tea": "말린 {inputName} 찻잎",
     "Dehydrator.Fruit": "말린 {inputName}",
     "DryingRack.Flower": "말린 {inputName}",
     "DryingRack.Herb": "말린 {inputName}",
@@ -8,6 +9,7 @@
     "Grinder.Vegetable": "{inputName} 가루",
     "Infuser.Schnapps": "{inputName} 슈냅스",
     "YogurtJar.Fruit": "{inputName} 요거트",
+	"WaxBarrel.Candle": "{inputName} 양초",
     "Alembic.EssentialOil": "{inputName} 에센셜 오일",
     "Juice.Fruit": "{inputName} 주스",
     "SoapPress.Soap": "수제 {inputName} 비누",
