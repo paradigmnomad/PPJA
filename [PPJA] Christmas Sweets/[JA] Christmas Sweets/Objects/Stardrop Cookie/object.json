@@ -22,39 +22,39 @@
         {
             "Object": -5,
             "Count": 1,
-        },],
+        }, ],
     },
     "GiftTastes":
-    {        
-	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "별방울 쿠키",
+         "de": "Stardrop Keks",
         // "fr": "",
         // "hu": "",
         // "it": "",
         "ja": "スタードロップクッキー",
-        // "pt": "",
+        "pt": "Biscoito de Fruta Estrela",
         // "ru": "",
         // "tr": "",
-         "zh": "星之果实饼干",
+        "zh": "星之果实饼干",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "별방울모양으로 장식한 딱딱한 쿠키",
+         "de": "Ein harter Keks, dekoriert wie ein Stardrop.",
         // "fr": "",
         // "hu": "",
         // "it": "",
         "ja": "スタードロップの形に焼いたクッキー。",
-        // "pt": "",
+        "pt": "Um biscoito duro decorado em forma de fruta estrela.",
         // "ru": "",
         // "tr": "",
-         "zh": "一块星之果实形状的硬饼干。",
+        "zh": "一块星之果实形状的硬饼干。",
     }
 }

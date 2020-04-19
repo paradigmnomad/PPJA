@@ -36,16 +36,15 @@
             "Object": 245,
             "Count": 1,
         },
-{
+        {
             "Object": "Nutmeg",
             "Count": 1,
         },
-{
+        {
             "Object": "Bourbon",
             "Count": 1,
-        },
-],
-"IsDefault": true,
+        }, ],
+        "IsDefault": true,
     },
     "GiftTastes":
     {
@@ -58,30 +57,30 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "에그노그",
+         "de": "Eierlikör mit Schuss",
         // "fr": "",
         // "hu": "",
         // "it": "",
         "ja": "バーボンエッグノッグ",
-        // "pt": "",
+        "pt": "Gemada Natalina",
         // "ru": "",
         // "tr": "",
-         "zh": "圣诞蛋酒",
+        "zh": "圣诞蛋酒",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
+        "ko": "크리스마스 시즌에 마시는 전통음료. 버번이 들어간다.",
+         "de": "Ein Getränk, das traditionell während der Winter Star-Saison konsumiert wird. Dieses Rezept erfordert Bourbon",
         // "fr": "",
         // "hu": "",
         // "it": "",
         "ja": "冬星祭の時期に飲まれる伝統的な飲み物。このレシピではお酒を足して飲む。",
-        // "pt": "",
+        "pt": "Uma bebida geralmente consumida no inverno. Essa receita pede por um Bourbon.",
         // "ru": "",
         // "tr": "",
-         "zh": "在冬日星盛宴期间饮用的传统饮料。这个食谱需要波本威士忌。",
+        "zh": "在冬日星盛宴期间饮用的传统饮料。这个食谱需要波本威士忌。",
     },
-"EnableWithMod": "ppja.artisanvalleymachinegoods",
+    "EnableWithMod": "ppja.artisanvalleymachinegoods",
 }
