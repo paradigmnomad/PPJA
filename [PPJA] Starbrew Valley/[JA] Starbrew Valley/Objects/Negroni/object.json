@@ -57,13 +57,13 @@
     "NameLocalization":
     {
         //"es": "",
-        "ko": "네그로니",
+        //"ko": "",
         //"de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Negroni",
         // "ru": "",
         // "tr": "",
         //"zh": "“",
@@ -71,13 +71,13 @@
     "DescriptionLocalization":
     {
         //"es": "",
-        "ko": "전통적으론 얼음과 함께 나옵니다.",
+        //"ko": "",
         //"de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Tradicionalmente servido com gelo.",
         // "ru": "",
         // "tr": "",
         //"zh": "",

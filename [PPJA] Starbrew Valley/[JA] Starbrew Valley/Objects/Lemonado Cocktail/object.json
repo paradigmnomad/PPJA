@@ -60,13 +60,13 @@
     "NameLocalization":
     {
         //"es": "",
-        "ko": "레모네이드 칵테일",
+        //"ko": "",
         //"de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Coquetel de Limonada",
         // "ru": "",
         // "tr": "",
         //"zh": "“",
@@ -74,13 +74,13 @@
     "DescriptionLocalization":
     {
         //"es": "",
-        "ko": "샹보르 보드카 레모네이드라고도 합니다.",
+        //"ko": "",
         //"de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Também conhecida como Limonada de Vodka.",
         // "ru": "",
         // "tr": "",
         //"zh": "",

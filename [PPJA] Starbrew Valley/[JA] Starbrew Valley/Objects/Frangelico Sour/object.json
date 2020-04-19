@@ -56,13 +56,13 @@
     "NameLocalization":
     {
         //"es": "",
-        "ko": "프란젤리코 사워",
+        //"ko": "",
         //"de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Frangelico Azedo",
         // "ru": "",
         // "tr": "",
         //"zh": "“",
@@ -70,13 +70,13 @@
     "DescriptionLocalization":
     {
         //"es": "",
-        "ko": "가볍고 산뜻하지만 마무리가 풍성하다.",
+        //"ko": "",
         //"de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Apesar de arejado e leve, tem um acabamento rico",
         // "ru": "",
         // "tr": "",
         //"zh": "",

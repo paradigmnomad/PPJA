@@ -56,13 +56,13 @@
     "NameLocalization":
     {
         //"es": "",
-        "ko": "아토믹 칵테일",
+        //"ko": "",
         //"de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Coquetel Atômico",
         // "ru": "",
         // "tr": "",
         //"zh": "",
@@ -70,13 +70,13 @@
     "DescriptionLocalization":
     {
         //"es": "",
-        "ko": "미래의 음료!",
+        //"ko": "",
         //"de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "A bebida do futuro!",
         // "ru": "",
         // "tr": "",
         //"zh": "",

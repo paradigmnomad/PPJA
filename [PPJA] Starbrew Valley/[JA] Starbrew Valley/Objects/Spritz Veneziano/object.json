@@ -57,13 +57,13 @@
     "NameLocalization":
     {
         //"es": "",
-        "ko": "스프리츠 베네치아노",
+        //"ko": "",
         //"de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Spritz",
         // "ru": "",
         // "tr": "",
         //"zh": "",
@@ -71,13 +71,13 @@
     "DescriptionLocalization":
     {
         //"es": "",
-        "ko": "경찰관들이 휴식시간 중 가장 좋아하는 것.",
+        //"ko": "",
         //"de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Um favorito dos executivos no seu tempo livre.",
         // "ru": "",
         // "tr": "",
         //"zh": "",
