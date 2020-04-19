@@ -1,0 +1,9 @@
+{
+  "Name": "Buckwheat",
+  "Description": "A more wild kind of wheat, it is somewhat bitter.",
+  "Category": "Vegetable",
+  "Edibility": 8,
+  "Price": 25,
+  "IsColored": false,
+  "Recipe": null,
+}
