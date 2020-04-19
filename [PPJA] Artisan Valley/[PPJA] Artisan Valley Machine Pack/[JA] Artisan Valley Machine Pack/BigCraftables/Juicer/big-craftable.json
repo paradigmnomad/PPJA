@@ -1,0 +1,54 @@
+{
+    "Name": "Juicer",
+    "Description": "Turns fruit into freshly squeezed juice.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 709,
+            "Count": 10,
+        },
+        {
+            "Object": 335,
+            "Count": 20,
+        },
+        {
+            "Object": 575,
+            "Count": 1,
+        }, ],
+        "CanPurchase": false,
+        "IsDefault": true,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "과즙추출기",
+        "de": "Saftpresse",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "ジューサー",
+        "pt": "Espremedor",
+        "ru": "Соковыжималка",
+        // "tr": "",
+        "zh": "榨汁机",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "과일을 갓 짜낸 주스로 만들어줍니다.",
+        "de": "Presst aus Früchten frische Säfte.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "くだものを搾りたてのジュースにする。",
+        "pt": "Esprema frutas e consiga suco fresquinho.",
+        "ru": "Превращает фрукты в свежевыжатый сок.",
+        // "tr": "",
+        "zh": "把水果制成鲜榨果汁。",
+    }
+}

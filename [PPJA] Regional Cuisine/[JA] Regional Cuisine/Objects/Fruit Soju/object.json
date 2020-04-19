@@ -1,0 +1,60 @@
+{
+    "Name": "Fruit Soju",
+    "Description": "Fresh aroma and taste of the fruit in the Soju. Drink in moderation.",
+    "Category": "ArtisanGoods",
+    "Edibility": 20,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 180,
+    },
+    "Price": 225,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Pam", "Shane","Gus", "Leah"],
+        "Like": ["George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Elliott", "Evelyn", "Harvey", "Jodi", "Lewis", "Linus", "Maru", "Pierre", "Robin", ],
+        "Neutral": ["Marnie", "Clint", "Emily", "Krobus", "Kent", "Dwarf", "Sam", "Sandy", "Willy", "Wizard"],
+        "Dislike": ["Penny", "Haley",],
+        "Hate": ["Vincent", "Jas"]
+    },
+    "NameLocalization":
+    {
+        //"es": "",
+        "ko": "과일 소주",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "소주에 과일의 향과 맛이 우러났다. 절제해서 드세요.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }
+}

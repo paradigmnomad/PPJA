@@ -1,0 +1,60 @@
+{
+    "Name": "GochuJang Pottery",
+    "Description": "Pickle vegetables, fruits and seafood with GochuJang.", 
+    "Price": 1,
+    "ProvidesLight": false, 
+    "CanPurchase": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 330, //Clay
+            "Count": 50,
+        },
+        {
+            "Object": 382, //Coal
+            "Count": 8,
+        },
+        {
+            "Object": 388, //Wood
+            "Count": 20,
+		},
+		{
+            "Object": "GochuJang",
+            "Count": 10,
+        },
+      ],
+	  "CanPurchase": true,
+	  "PurchaseFrom": "Dwarf",
+      "PurchasePrice": 2000,
+    },
+        "NameLocalization":
+        { 
+            //"es": "", //Spanish
+            "ko": "고추장 항아리",
+            //"de": "", //German
+            //"fr": "", //French
+            //"hu": "", //Hungarian
+            //"it": "", //Italian
+            //"ja": "", //Japanese
+            //"pt": "", //Portuguese
+            //"ru": "", //Russian
+            //"tr": "", //Turkish
+            //"zh": "", //Chinese (Simplified)
+        },
+        "DescriptionLocalization": //Used for localization. 
+        { 
+            //"es": "", //Spanish
+            "ko": "고추장이 가득찬 장독대. 과일과 야채 장아찌를 만들 수 있습니다.",
+            //"de": "", //German
+            //"fr": "", //French
+            //"hu": "", //Hungarian
+            //"it": "", //Italian
+            //"ja": "", //Japanese
+            //"pt": "", //Portuguese
+            //"ru": "", //Russian
+            //"tr": "", //Turkish
+            //"zh": "", //Chinese (Simplified)
+        }
+}

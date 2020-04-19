@@ -11,7 +11,15 @@
 	},
 	{
 		"ProducerName": "Dryer", //Name of the producer
-		"AlternateFrameProducing": true, //If the producer should use the alternate frame when producing.
-		"AlternateFrameWhenReady": true, //If the producer should use the alternate frame and ready for harvest.
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"DisableBouncingAnimationWhileWorking": false,
+		"ProducingAnimation": { 
+            "RelativeFrameIndex": [1], 
+        },
+        "ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [2],
+   		},
 	}
 ]

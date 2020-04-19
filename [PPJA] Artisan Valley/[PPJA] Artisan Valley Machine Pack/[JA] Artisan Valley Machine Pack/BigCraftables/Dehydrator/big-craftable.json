@@ -1,0 +1,51 @@
+{
+    "Name": "Dehydrator",
+    "Description": "Put fruit in here to dry them for later.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 390,
+            "Count": 45,
+        },
+        {
+            "Object": 766,
+            "Count": 20,
+        }, ],
+        "CanPurchase": false,
+        "SkillUnlockName": "Foraging",
+        "SkillUnlockLevel": 3,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "과일 건조기",
+        "de": "Dörrgerät",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "脱水乾燥器",
+        "pt": "Desidratador",
+        "ru": "Дегидратор",
+        // "tr": "",
+        "zh": "脱水器",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "과일을 넣어서 건조시킬 수 있습니다.",
+        "de": "Trocknet Früchte.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "くだものを入れてじっくりと乾燥させる。",
+        "pt": "Coloque frutas aqui para desidratá-las para mais tarde.",
+        "ru": "Положите сюда фрукты, чтобы засушить их.",
+        // "tr": "",
+        "zh": "把水果放在这里晾干待用。",
+    }
+}

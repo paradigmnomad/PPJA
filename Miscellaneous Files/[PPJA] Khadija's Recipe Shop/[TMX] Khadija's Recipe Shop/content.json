@@ -5,7 +5,7 @@
       "file": "assets/RecipeShop.tmx",
       "sourceArea": [ 0, 0, 4, 4 ],
       "position": [ 86, 89 ],
-      "conditions": "z summer/d Sat",
+      "conditions": "z summer/d Sat Sun",
       "removeEmpty": false,
     },
     {
@@ -13,7 +13,7 @@
       "file": "assets/RecipeShop_Saturday.tmx",
       "sourceArea": [ 0, 0, 4, 4 ],
       "position": [ 86, 89 ],
-      "conditions": "z summer/d Mon Tue Wed Thu Fri Sun",
+      "conditions": "z summer/d Mon Tue Wed Thu Fri",
       "removeEmpty": false,
     },
   	{
@@ -21,7 +21,7 @@
       "file": "assets/RecipeShopSummer.tmx",
       "sourceArea": [ 0, 0, 4, 2 ],
       "position": [ 5, 20 ],
-      "conditions": "z spring/z fall/z winter/d Sat",
+      "conditions": "z spring/z fall/z winter/d Sat Sun",
       "removeEmpty": false,
     },
     {
@@ -29,7 +29,7 @@
       "file": "assets/RecipeShopSummer_Saturday.tmx",
       "sourceArea": [ 0, 0, 4, 2 ],
       "position": [ 5, 20 ],
-      "conditions": "z spring/z fall/z winter/d Mon Tue Wed Thu Fri Sun",
+      "conditions": "z spring/z fall/z winter/d Mon Tue Wed Thu Fri",
       "removeEmpty": false
     },
 

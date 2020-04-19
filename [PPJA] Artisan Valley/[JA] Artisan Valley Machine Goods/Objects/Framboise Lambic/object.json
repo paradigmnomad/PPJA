@@ -1,0 +1,66 @@
+{
+  "Name": "Framboise Lambic",
+  "Description": "A beer brewed with raspberries.",
+  "Category": "ArtisanGoods",
+  "Edibility": 8,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 180,
+    },
+  "Price": 400,
+  "IsColored": false,
+  "Recipe": null,
+  "CanPurchase": true,
+  "PurchaseFrom": "Gus",
+  "PurchasePrice": 400,
+  "PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": ["Pam", "Shane", "Gus", "Robin"],
+        "Like": ["Caroline", "Jodi", "Lewis", "Pierre", "Leah"],
+        "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Harvey", "Kent", "Krobus", "Linus", "Maru", "Sam", "Sandy", "Willy", "Wizard"],
+        "Dislike": ["Haley", "Penny"],
+        "Hate": ["Vincent", "Jas"]
+  },
+
+    "NameLocalization":
+    {
+        //"es": "",
+        "ko": "프람보아즈 람빅",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "フランボワーズランビック",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "산딸기로 만든 맥주.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "ラズベリーを使って醸造したビール。",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }
+
+}

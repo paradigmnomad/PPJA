@@ -16,9 +16,9 @@
         "MinutesUntilReady": 2360,
         "OutputIdentifier": "Bitter",
         "OutputName": "{inputName} Bitter",
-        "ColorConfig":
+        "OutputColorConfig":
         {
-            "Type": "InputDyeColor",
+            "Type": "ObjectDyeColor",
             "Red": 204,
             "Green": 203,
             "Blue": 243
@@ -122,6 +122,46 @@
         "InputStack": 1,
         "MinutesUntilReady": 6000,
         "OutputIdentifier": "Whiskey",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Still",
+        "InputIdentifier": "Bitter Orange",
+        "InputStack": 1,
+        "MinutesUntilReady": 2360,
+        "OutputIdentifier":"Campari",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Still",
+        "InputIdentifier": 635,
+        "InputStack": 1,
+        "MinutesUntilReady": 2360,
+        "OutputIdentifier":"Cointreau",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Still",
+        "InputIdentifier": "Raspberry",
+        "InputStack": 1,
+        "MinutesUntilReady": 2360,
+        "OutputIdentifier":"Chambord",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Still",
+        "InputIdentifier": 408,
+        "InputStack": 1,
+        "MinutesUntilReady": 2360,
+        "OutputIdentifier":"Frangelico",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Still",
+        "InputIdentifier": "Cocoa Pod",
+        "InputStack": 1,
+        "MinutesUntilReady": 2360,
+        "OutputIdentifier":"Creme de Cacao",
         "Sounds": ["Ship"],
     },
 
@@ -253,6 +293,24 @@
         "FuelStack": 1,
         "MinutesUntilReady": 6000,
         "OutputIdentifier": "Umeshu",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Keg",
+        "InputIdentifier": "Champagne Grape",
+        "InputStack": 1,
+        "MinutesUntilReady": 6000,
+        "OutputIdentifier": "Champagne",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Keg",
+        "InputIdentifier": "Raspberry",
+        "InputStack": 1,
+        "FuelIdentifier": "Yeast",
+        "FuelStack": 1,
+        "MinutesUntilReady": 6000,
+        "OutputIdentifier": "Framboise Lambic",
         "Sounds": ["Ship"],
     },
 
@@ -621,9 +679,9 @@
         "OutputIdentifier": "Dried Fruit",
         "OutputName": "Dried {inputName}",
         "OutputTranslationKey": "Dehydrator.Fruit",
-        "ColorConfig":
+        "OutputColorConfig":
         {
-            "Type": "InputDyeColor",
+            "Type": "ObjectDyeColor",
             "Red": 235,
             "Green": 72,
             "Blue": 71
@@ -678,6 +736,26 @@
     },
     {
         "ProducerName": "Drying Rack",
+        "InputIdentifier": "Dried Flower",
+        "InputStack": 1,
+        "FuelIdentifier": "Essential Oil",
+        "FuelStack": 1,
+        "MinutesUntilReady": 1600,
+        "AdditionalOutputs": [
+            {
+                "OutputProbability": 1,
+                "OutputIdentifier": "Potpourri",
+                "RequiredInputParentIdentifier": [ "-80" ]
+            },
+        ],
+        "KeepInputParentIndex": true,
+        "InputPriceBased": true,
+        "OutputPriceIncrement": 100,
+        "OutputPriceMultiplier": 1.25,
+        "Sounds": ["snowyStep"],
+    },
+    {
+        "ProducerName": "Drying Rack",
         "InputIdentifier": "270",
         "InputStack": 1,
         "MinutesUntilReady": 1600,
@@ -692,9 +770,9 @@
         "OutputIdentifier": "Dried Flower",
         "OutputName": "Dried {inputName}",
         "OutputTranslationKey": "DryingRack.Flower",
-        "ColorConfig":
+        "OutputColorConfig":
         {
-            "Type": "InputDyeColor",
+            "Type": "ObjectDyeColor",
             "Red": 203,
             "Green": 170,
             "Blue": 79
@@ -712,9 +790,9 @@
         "OutputIdentifier": "Dried Herb",
         "OutputName": "Dried {inputName}",
         "OutputTranslationKey": "DryingRack.Herb",
-        "ColorConfig":
+        "OutputColorConfig":
         {
-            "Type": "InputDyeColor",
+            "Type": "ObjectDyeColor",
             "Red": 128,
             "Green": 147,
             "Blue": 49
@@ -732,9 +810,9 @@
         "OutputIdentifier": "Dried Vegetable",
         "OutputName": "Dried {inputName}",
         "OutputTranslationKey": "DryingRack.Vegetable",
-        "ColorConfig":
+        "OutputColorConfig":
         {
-            "Type": "InputDyeColor",
+            "Type": "ObjectDyeColor",
             "Red": 178,
             "Green": 134,
             "Blue": 107
@@ -765,9 +843,9 @@
         "OutputIdentifier": "Dried Tea Leaves",
         "OutputName": "Dried {inputName} Leaves",
         "OutputTranslationKey": "Dehydrator.Tea",
-        "ColorConfig":
+        "OutputColorConfig":
         {
-            "Type": "InputDyeColor",
+            "Type": "ObjectDyeColor",
             "Red": 124,
             "Green": 202,
             "Blue": 202
@@ -837,6 +915,14 @@
         "InputStack": 1,
         "MinutesUntilReady": 360,
         "OutputIdentifier": "Rice Noodles",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Extruder",
+        "InputIdentifier": "Buckwheat Flour",
+        "InputStack": 1,
+        "MinutesUntilReady": 360,
+        "OutputIdentifier": "Buckwheat Noodles",
         "Sounds": ["Ship"],
     },
     {
@@ -924,6 +1010,14 @@
     },
     {
         "ProducerName": "Grinder",
+        "InputIdentifier": "Buckwheat",
+        "InputStack": 1,
+        "MinutesUntilReady": 1600,
+        "OutputIdentifier": "Buckwheat Flour",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Grinder",
         "InputIdentifier": "herb_item",
         "InputStack": 1,
         "MinutesUntilReady": 360,
@@ -950,6 +1044,31 @@
         "Sounds": ["Ship"],
     },
 
+    {
+        "ProducerName": "Grinder",
+        "InputIdentifier": "635",
+        "InputStack": 1,
+        "MinutesUntilReady": 60,
+        "OutputIdentifier": "Orange Peel",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Grinder",
+        "InputIdentifier": "Lemon",
+        "InputStack": 1,
+        "MinutesUntilReady": 60,
+        "OutputIdentifier": "Lemon Peel",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Grinder",
+        "InputIdentifier": "Lime",
+        "InputStack": 1,
+        "MinutesUntilReady": 60,
+        "OutputIdentifier": "Lime Peel",
+        "Sounds": ["Ship"],
+    },
+
     // Infuser
 
     {
@@ -961,9 +1080,9 @@
         "OutputIdentifier": "Schnapps",
         "OutputName": "{inputName} Schnapps",
         "OutputTranslationKey": "Infuser.Schnapps",
-        "ColorConfig":
+        "OutputColorConfig":
         {
-            "Type": "InputDyeColor",
+            "Type": "ObjectDyeColor",
             "Red": 204,
             "Green": 203,
             "Blue": 243
@@ -1186,9 +1305,9 @@
         "InputPriceBased": true,
         "OutputPriceIncrement": 0,
         "OutputPriceMultiplier": 2,
-        "ColorConfig":
+        "OutputColorConfig":
         {
-            "Type": "InputDyeColor",
+            "Type": "ObjectDyeColor",
             "Red": 210,
             "Green": 175,
             "Blue": 47
@@ -1206,9 +1325,9 @@
         "InputPriceBased": true,
         "OutputPriceIncrement": 0,
         "OutputPriceMultiplier": 2,
-        "ColorConfig":
+        "OutputColorConfig":
         {
-            "Type": "InputDyeColor",
+            "Type": "ObjectDyeColor",
             "Red": 210,
             "Green": 175,
             "Blue": 47
@@ -1227,9 +1346,9 @@
         "InputPriceBased": true,
         "OutputPriceIncrement": 0,
         "OutputPriceMultiplier": 2,
-        "ColorConfig":
+        "OutputColorConfig":
         {
-            "Type": "InputDyeColor",
+            "Type": "ObjectDyeColor",
             "Red": 210,
             "Green": 175,
             "Blue": 47
@@ -1261,6 +1380,14 @@
         "InputStack": 1,
         "MinutesUntilReady": 2360,
         "OutputIdentifier": "419",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Vinegar Cask",
+        "InputIdentifier": "Champagne Grape",
+        "InputStack": 1,
+        "MinutesUntilReady": 2360,
+        "OutputIdentifier": "Champagne Vinegar",
         "Sounds": ["Ship"],
     },
 

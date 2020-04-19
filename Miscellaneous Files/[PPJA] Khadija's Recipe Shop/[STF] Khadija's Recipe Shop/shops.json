@@ -34,6 +34,9 @@
               "Chinotto Extract",
               "Birch Extract",
               "Ginger Extract",
+              "Cocoa Butter",
+              "Powdered Milk",
+              "Chocolatier Cocoa Powder",
               "Ice",
           	]
           },
@@ -58,7 +61,7 @@
           		"Mint",
           		"Ginger",
           		"Onion",
-              "Black Tea Bag",
+              "Black Tea",
               "Chewing Gum",
               "Sesame Seeds",
           	]
@@ -94,6 +97,16 @@
             },
             {
             "ItemType": "Object",
+            "MaxNumItemsSoldInItemStock": 2,
+            "JAPacks": [
+                "Ritsune.ChocolatierJA",
+              ],
+            "When": [ 
+                "!z spring",
+                ],
+            },
+            {
+            "ItemType": "Object",
             "IsRecipe": true,
             "MaxNumItemsSoldInItemStock": 2,
             "JAPacks": [
@@ -115,8 +128,8 @@
                 ],
             },
           ],
-        "When": [ //only open the store from 8AM to 7PM
-          "t 800 1900",
+        "When": [ //only open the store from 9AM to 6PM
+          "t 900 1800",
         ],
         "ClosedMessage": "Zamir: Sorry, we're closed right now."
       },
@@ -133,7 +146,7 @@
         -8,
         -9
       ],
-      "PortraitPath": "assets/SaturdayIcon.png",
+      "PortraitPath": "assets/WeekendIcon.png",
       "Quote": "I bring a few different things to sell on Saturdays.", 
       "MaxNumItemsSoldInStore": 25, 
       "ItemStocks": [
@@ -169,6 +182,14 @@
           ],
       },
       {
+          "ItemType": "Object",
+          "StockPrice": 10000,
+          "MaxNumItemsSoldInItemStock": 1,
+          "ItemNames": [
+            "Pterodactyl Egg"
+          ]
+        },
+      {
           "ItemType": "Weapon",
           "MaxNumItemsSoldInItemStock": 3,
           "JAPacks": [
@@ -177,23 +198,18 @@
         },
         {
           "ItemType": "BigCraftable",
-          "StockPrice": 8000,
-          "MaxNumItemsSoldInItemStock": 1,
+          "StockPrice": 10000,
+          "MaxNumItemsSoldInItemStock": 2,
           "JAPacks": [
-            "ppja.artisanvalleymachinegoods",
-          ],
-        },
-        {
-          "ItemType": "BigCraftable",
-          "StockPrice": 8000,
-          "MaxNumItemsSoldInItemStock": 1,
-          "JAPacks": [
+          	"ppja.artisanvalleymachinegoods",
             "Hadi.JASoda",
             "deffiliation.JAKimchiMaker",
             "xiaobaishu.JA.fenjieji",
             "furyx639.ComposterJA",
             "Ritsune.BakersLifeJA",
             "Hadi.FrozenTreatsJA",
+            "Ritsune.ChocolatierJA",
+            "Ivycrowned.JARealisticLooms",
           ],
         },
          {
@@ -202,13 +218,14 @@
           "IsRecipe": true,
           "MaxNumItemsSoldInItemStock": 5,
           "JAPacks": [
-            "ppja.artisanvalleymachinegoods",
             "Hadi.JASoda",
             "deffiliation.JAKimchiMaker",
             "xiaobaishu.JA.fenjieji",
             "furyx639.ComposterJA",
             "Ritsune.BakersLifeJA",
             "Hadi.FrozenTreatsJA",
+            "Ritsune.ChocolatierJA",
+            "Ivycrowned.JARealisticLooms",
           ],
         },
         {
@@ -221,8 +238,8 @@
           ]
         },
       ],
-      "When": [ //only open the store from 8AM to 7PM
-          "t 800 1900",
+      "When": [ //only open the store from 9AM to 6PM
+          "t 900 1800",
         ],
       "ClosedMessage": "Nasira: We're closed. Come back later."
       

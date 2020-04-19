@@ -1,0 +1,51 @@
+{
+    "Name": "Drying Rack",
+    "Description": "Put flowers, herbs, or vegetables in here to dry them for later.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 388,
+            "Count": 50,
+        },
+        {
+            "Object": 771,
+            "Count": 20,
+        }, ],
+        "CanPurchase": false,
+        "SkillUnlockName": "Foraging",
+        "SkillUnlockLevel": 2,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "건조장",
+        "de": "Trockenständer",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "乾燥棚",
+        "pt": "Cremalheira de Secagem",
+        "ru": "Сушилка",
+        // "tr": "",
+        "zh": "干燥架",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "꽃, 허브 또는 야채를 넣어 건조시킬 수 있습니다.",
+        "de": "Trocknet Blumen, Kräuter oder Gemüse.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "花やハーブや野菜を入れてじっくり乾燥させる。",
+        "pt": "Coloque flores, ervas ou vegetais para secá-los para mais tarde.",
+        "ru": "Положите сюда цветы, травы или овощи, чтобы засушить их.",
+        // "tr": "",
+        "zh": "把花、香草或蔬菜放在这里晾干。",
+    }
+}
