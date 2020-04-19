@@ -19,19 +19,18 @@
             "Object": 245,
             "Count": 1,
         },
-        {
+{
             "Object": -5,
             "Count": 1,
         },
-        {
+{
             "Object": 246,
             "Count": 1,
         },
-        {
+{
             "Object": "Spinach",
             "Count": 1,
-        }, ],
-        "IsDefault": true,
+        },],"IsDefault": true,
     },
     "GiftTastes":
     {
@@ -43,29 +42,29 @@
     "NameLocalization":
     {
         // "es": "",
-        "ko": "녹색 크리스마스 트리",
-         "de": "Gefrorener grüner Weihnachtsbaum",
+        // "ko": "",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-        "pt": "Biscoito de Árvore de Natal",
+        "ja": "ツリーアイシングクッキー(緑)",
+        // "pt": "",
         // "ru": "",
         // "tr": "",
-        "zh": "冰绿圣诞树",
+         "zh": "冰绿圣诞树",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        "ko": "녹색아이싱으로 장식한 트리모양 쿠키",
-         "de": "Es sieht irgendwie aus wie ein Weihnachtsbaum - mit einem Schuss grüner Glasur.",
+        // "ko": "",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-        "pt": "É um pouco parecido com uma árvore de Natal - mergulhado em gelo verde.",
+        "ja": "緑のアイシングをトッピングしてクリスマスツリーの形に。",
+        // "pt": "",
         // "ru": "",
         // "tr": "",
-        "zh": "它看起来有点像一棵圣诞树——点缀着绿色的糖霜。",
+         "zh": "它看起来有点像一棵圣诞树——点缀着绿色的糖霜。",
     }
 }

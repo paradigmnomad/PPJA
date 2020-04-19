@@ -18,8 +18,9 @@
         {
             "Object": 245,
             "Count": 1,
-        }, ],
-        "IsDefault": true,
+        },
+		],
+		"IsDefault": true,
     },
     "GiftTastes":
     {
@@ -31,29 +32,29 @@
     "NameLocalization":
     {
         // "es": "",
-        "ko": "페퍼민트 캔디",
-         "de": "Pfefferminzbonbons",
+        // "ko": "",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-        "pt": "Hortelã Picante",
+        "ja": "ペパーミントキャンディ",
+        // "pt": "",
         // "ru": "",
         // "tr": "",
-        "zh": "薄荷糖",
+        // "zh": "",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        "ko": "수제 페퍼민트 캔디",
-         "de": "Einige hausgemachte Pfefferminzbonbons.",
+        // "ko": "",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-        "pt": "Alguns doces caseiros de Hortelã Picante.",
+        "ja": "自家製ペパーミントキャンディ。",
+        // "pt": "",
         // "ru": "",
         // "tr": "",
-        "zh": "一些自制的薄荷糖。",
+        // "zh": "",
     }
 }

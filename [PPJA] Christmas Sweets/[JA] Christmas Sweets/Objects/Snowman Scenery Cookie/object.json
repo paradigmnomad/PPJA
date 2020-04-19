@@ -22,39 +22,39 @@
         {
             "Object": -5,
             "Count": 1,
-        }, ],
+        },],
     },
     "GiftTastes":
-    {
-        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+    {        
+	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
-        "ko": "눈사람 겨울쿠키",
-         "de": "Schneemann Landschaftsplätzchen",
+        // "ko": "",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-        "pt": "Biscoito de Neve",
+        "ja": "雪だるまの風景画のクッキー",
+        // "pt": "",
         // "ru": "",
         // "tr": "",
-        "zh": "雪景饼干",
+         "zh": "雪景饼干",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        "ko": "겨울풍경으로 장식한 딱딱한 쿠키",
-         "de": "Ein harter Keks, der mit einer Winterlandschaft verziert wird.",
+        // "ko": "",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-        "pt": "Um biscoito duro decorado em formato de cenário de neve.",
+        "ja": "冬の景色が描かれているクッキー。",
+        // "pt": "",
         // "ru": "",
         // "tr": "",
-        "zh": "一块硬饼干，冬日雪景跃然其上。",
+         "zh": "一块硬饼干，冬日雪景跃然其上。",
     }
 }
