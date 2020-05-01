@@ -9,14 +9,14 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Dwarf", "Linus", "Leah", "George"],
+        "Love": ["Dwarf", "Linus", "Leah", "George"]
     },
     "NameLocalization":
     {
         "es": "Helecho Antiguo",
         "ko": "고대의 고사리",
         "de": "Alter Farn",
-        //"fr": "",
+        "fr": "Fougère Ancienne",
         //"hu": "",
         //"it": "",
         "ja": "古代のシダ",
@@ -30,7 +30,7 @@
         "es": "Un helecho que produce una hermosa y sabrosa flor.",
         "ko": "아름답고 맛 좋은 꽃이 열립니다.",
         "de": "Ein Farn, der eine schöne und geschmackvolle Blume hervorbringt.",
-        //"fr": "",
+        "fr": "Une fougère qui produit une belle fleur délicieuse.",
         //"hu": "",
         //"it": "",
         "ja": "美しく上品な花を咲かせるシダ植物。",

@@ -9,14 +9,14 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Gus", "Evelyn", "Marnie", "Caroline", "Lewis", "Jodi"],
+        "Love": ["Gus", "Evelyn", "Marnie", "Caroline", "Lewis", "Jodi"]
     },
     "NameLocalization":
     {
         "es": "Aceite de Oliva Antiguo",
         "ko": "고대의 올리브유",
         "de": "Altes Olivenöl",
-        //"fr": "",
+        "fr": "Huile D'Olive Ancienne",
         //"hu": "",
         //"it": "",
         "ja": "古代のオリーブオイル",
@@ -30,7 +30,7 @@
         "es": "Este aceite extra-virgen de oliva tiene más sabor que cualquier otro que hayas probado.",
         "ko": "이 엑스트라-버진 올리브유는 여태껏 맛본 그 어느 것보다도 맛이 풍부합니다. ",
         "de": "Dieses Olivenöl hat mehr Geschmack als jedes andere, das duprobiert hast.",
-        //"fr": "",
+        "fr": "Cette huile d'olive extra vierge a plus de saveur que toutes les autres que vous avez goûtées.",
         //"hu": "",
         //"it": "",
         "ja": "今まで味わったことがないほど風味豊かなエキストラバージンオイル。",

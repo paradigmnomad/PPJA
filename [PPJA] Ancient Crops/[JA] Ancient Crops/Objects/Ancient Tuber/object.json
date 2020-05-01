@@ -9,14 +9,14 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Dwarf", "George", "Wizard", "Krobus"],
+        "Love": ["Dwarf", "George", "Wizard", "Krobus"]
     },
     "NameLocalization":
     {
         "es": "Tubérculo Antiguo",
         "ko": "고대의 뿌리",
         "de": "Alte Knolle",
-        //"fr": "",
+        "fr": "Tubercule Ancien",
         //"hu": "",
         //"it": "",
         "ja": "古代の塊茎",
@@ -30,7 +30,7 @@
         "es": "Este ancestro de la papa se usaba para alimentar antiguos animales perezosos por milenios.",
         "ko": "감자의 조상으로, 고대에 살았던 나무늘보의 조상들의 주 먹잇감이었습니다.",
         "de": "Dieser Vorfahr der Kartoffel wurde seit Jahrtausenden an alte faultierähnliche Tiere verfüttert.",
-        //"fr": "",
+        "fr": "Cet ancêtre de la pomme de terre servait à nourrir d'anciens animaux paresseux pendant des millénaires.",
         //"hu": "",
         //"it": "",
         "ja": "ジャガイモの祖先。何千年もの昔はナマケモノが食べていた。",
