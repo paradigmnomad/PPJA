@@ -11,8 +11,8 @@
 	"Dependencies": [
 {
       "UniqueID": "PPJA.AncientCropsAddOn",
-      "IsRequired": true,
-   },
+      "IsRequired": true
+   }
    ],
     "UpdateKeys": [ "Nexus:4472" ]
 }

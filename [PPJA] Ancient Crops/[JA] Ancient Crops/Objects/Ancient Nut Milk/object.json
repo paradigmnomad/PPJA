@@ -9,14 +9,14 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Alex", "Evelyn", "George", "Leah", "Lewis", "Linus"],
+        "Love": ["Alex", "Evelyn", "George", "Leah", "Lewis", "Linus"]
     },
     "NameLocalization":
     {
         "es": "Leche de Nuez Antigua",
         "ko": "고대의 견과 우유",
         "de": "Alet Nussmilch",
-        //"fr": "",
+        "fr": "Lait De Noix Ancien",
         //"hu": "",
         //"it": "",
         "ja": "古代ナッツのミルク",
@@ -30,7 +30,7 @@
         "es": "No tiene le mismo sabor que la leche regular.",
         "ko": "범상치 않은 우유 맛이 납니다.",
         "de": "Schmeckt nicht nach normaler Milch.",
-        //"fr": "",
+        "fr": "N'a pas le goût du lait ordinaire.",
         //"hu": "",
         //"it": "",
         "ja": "牛乳とは違う味。",
