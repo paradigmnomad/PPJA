@@ -9,14 +9,14 @@
 	"EnableWithMod": "ppja.artisanvalleymachinegoods",
     "GiftTastes":
     {
-        "Love": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Vincent", "Jas"],
+        "Love": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Vincent", "Jas"]
     },
     "NameLocalization":
     {
         "es": "Manteca de Nuez Antigua",
         "ko": "고대의 견과 버터",
         "de": "Alte Nussbutter",
-        //"fr": "",
+        "fr": "Beurre De Noix Ancien",
         //"hu": "",
         //"it": "",
         //"ja": "",
@@ -30,7 +30,7 @@
         "es": "El sabor es tan único que ningúna lengua humana ha podido describirlo.",
         "ko": "너무나도 독특한 맛이어서 그 어떤 인간의 말로도 설명할 수 없습니다.",
         "de": "Der Geschmack ist so einzigartig, dass keine menschliche Sprache ihn beschreiben konnte.",
-        //"fr": "",
+        "fr": "Le goût est si unique qu'aucun langage humain n'a pu le décrire.",
         //"hu": "",
         //"it": "",
         //"ja": "",

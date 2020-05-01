@@ -9,14 +9,14 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": ["Haley", "Emily", "Leah", "Evelyn", "Elliott"],
+        "Love": ["Haley", "Emily", "Leah", "Evelyn", "Elliott"]
     },
     "NameLocalization":
     {
         "es": "Flor Antigua",
         "ko": "고대의 꽃",
         "de": "Alte Blume",
-        //"fr": "",
+        "fr": "Fleur Ancienne",
         //"hu": "",
         //"it": "",
         "ja": "古代の花",
@@ -30,7 +30,7 @@
         "es": "Esta flor era regalada en tiempos antiguos a personas amadas.",
         "ko": "먼 옛날, 사랑하는 이에게 선물하는 꽃이었다고 합니다.",
         "de": "Diese Blume wurde in der Antike geliebten Menschen geschenkt.",
-        //"fr": "",
+        "fr": "Cette fleur était offerte aux êtres chers dans les temps anciens.",
         //"hu": "",
         //"it": "",
         "ja": "いにしえの時代、この花は彼らの最愛の人に贈られた。",
