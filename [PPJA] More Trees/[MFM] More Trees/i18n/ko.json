@@ -1,6 +1,7 @@
 {
 "camphor.text": "안녕 얘야,^^ 난 항상 네 농장이 잘 되길 바란단다.^ 작은 케어 패키지를 보내줄게. 잘 사용했으면 좋겠구나.^^  -에블린",
 "breadfruit.text": "@,^^ 지금 계절에 안 맞는다는 걸 알지만, 겨울에 심으면 봄에 멋진 빵나무를 수확할 수 있을 거야.^^  -엘리엇",
+// "cassia.text": "Hello, @.^^ Some sort of veterans' charity gifted this to me for my service. It was a symbolic gift and I know it's the thought that counts, but I have to admit I don't think I'll actually plant this.^I'd hate to see the thing die, though. Think you can make it grow?^^  -Kent",
 "eucalyptus.text": "안녕 @,^^ 난 네가 농장에서 이걸 기르고 그 잎을 팔아 좋은 이익을 내기 위해 팔고 싶어한다고 생각했어. 내가 직접 재배하려고 했는데 불안해서 말이야.^^  -마루",
 "fig.text": "@에게,^^ 무화과나무는 가지에 꽃을 피운다는 걸 알고 있니? 직접 심어보렴!^^ -드미트리우스",
 "grapefruit.text": "@,^^  난 아침마다 자몽과 단백질 셰이크를 먹어. 균형 잡힌 아침식사를 해야지! 신선한 자몽이 좋다고 책 어디에서 읽었는데, 다 자라면 나한테 갖다 줄 수 있어?^^  -알렉스",
@@ -9,6 +10,19 @@
 "pomelo.text": "안녕 @!^^ 성장하려면 시간이 좀 걸리겠지만, 네가 잘 해낼거라 믿어. 얼마나 크게 자랄까? 빈센트가 와서 꼭대기까지 오를려고 할 지도 몰라!^^  -샘",
 "vanilla.text": "좋은 아침일세,^^  이 묘목의 용도를 찾길 바라네. 나는 그것이 불가사의한 의미를 지닌 품목을 생산할 것이라고 믿는다네.^^ -라모디우스",
 "fragrantwisteria.text": "@,^^  난 이 나무의 꽃이 좋더라. 날 위해 한 그루 심어줄래?^^  -애비게일",
-"ylangylang.text": "@,^^ 이 나무의 꽃이 피부에 좋다고 책에서 읽었어. 게다가 꽃이 피면 엄청 아름답대. 한 번 심어보는 게 어때?^^ -애비게일"
+"ylangylang.text": "@,^^ 이 나무의 꽃이 피부에 좋다고 책에서 읽었어. 게다가 꽃이 피면 엄청 아름답대. 한 번 심어보는 게 어때?^^ -애비게일",
+
+    "camphor.title": "녹나무 묘목",
+    "breadfruit.title": "빵나무 묘목",
+    // "cassia.title": "Cassia Sapling",
+    "eucalyptus.title": "유칼립투스 묘목",
+    "fig.title": "무화과 묘목",
+    "grapefruit.title": "자몽 묘목",
+    "melaleuca.title": "멜라루카 묘목",
+    "persimmon.title": "감 묘목",
+    "pomelo.title": "포멜로 묘목",
+    "vanilla.title": "바닐라 묘목",
+    "fragrantwisteria.title": "향기로운 등나무 묘목",
+    "ylangylang.title": "일랑일랑 묘목",
 }
 
