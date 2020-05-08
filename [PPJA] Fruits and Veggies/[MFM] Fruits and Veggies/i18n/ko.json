@@ -17,5 +17,23 @@
 "soybean.text": "친애하는 @,^ 신선한 콩을 필요로 하는 보기 좋은 레시피를 몇 가지 가지고 있어. 하지만 냉동된 걸 사용할 바엔, 그냥 사용하지 않는 게 낫겠어. 전혀 효과가 없을 거야. ^어쨌든, 네가 재배하는 걸 고려해 볼 거란 생각이 든다네. 내킨다면 몇 개 가져와줘, 그 외 나머지는 원하는 대로 해!^^  -거스",
 // "wormwood.text": "@,^^ I've been strangely fascinated by this 'wormwood' stuff for years and I finally got some seeds.^Can you grow 'em? You don't have to if you don't want to. Maybe it's kinda weird, hehe.^^  -Shane",
 "zucchini.text": "@,^^ 펠리컨 타운에 생긴 비극을 전하게 되어 유감이네.^거스는 더 이상 살롱에서 주키니 튀김과 매콤한 마리나라를 제공하지 않네.^본인의 높은 기준을 도매상들이 충족시킬 수 없기 때문이라고 하더군.^부디, 자네가 이걸 해결해주세.^^  -루이스",
+    "aloepod.title": "알로에 씨앗",
+    "sweetcanarymelon.tetitlext": "카나리아 멜론 씨앗",
+    "cassava.title": "카사바 씨앗",
+    "chickpea.title": "병아리콩 씨앗",
+    "elderberry.title": "엘더베리 씨앗",
+    "fennel.title": "회향 씨앗",
+    "ginger.title": "생강 씨앗",
+    "gooseberry.title": "구스베리 씨앗",
+    "greenpea.title": "그린 피스 씨앗",
+    "jalapeno.title": "할라페뇨 씨앗",
+    "juniper.title": "주니퍼 베리 씨앗",
+    "mint.title": "민트 씨앗",
+    "okra.title": "오크라 씨앗",
+    "paddytaro.title": "토란 씨앗",
+    "passionfruit.title": "패션 푸르트 씨앗",
+    "soybean.title": "대두 씨앗",
+    // "wormwood.title": "Wormwood Seeds",
+    "zucchini.title": "주키니 씨앗"
 }
 
