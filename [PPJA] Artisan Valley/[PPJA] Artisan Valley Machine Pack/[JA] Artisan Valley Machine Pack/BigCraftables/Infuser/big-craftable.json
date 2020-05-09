@@ -4,50 +4,47 @@
     "Price": 1,
     "ProvidesLight": false,
     "ReserveNextIndex": true,
-    "Recipe":
-    {
+    "Recipe": {
         "ResultCount": 1,
-        "Ingredients": [
-        {
-            "Object": 338,
-            "Count": 5,
-        },
-        {
-            "Object": 388,
-            "Count": 40,
-        },
-        {
-            "Object": 335,
-            "Count": 10,
-        }, ],
-        "CanPurchase": false,
+        "Ingredients": [{
+                "Object": 338,
+                "Count": 5
+            },
+            {
+                "Object": 388,
+                "Count": 40
+            },
+            {
+                "Object": 335,
+                "Count": 10
+            }
+        ],
+        "CanPurchase": false
     },
-    "NameLocalization":
-    {
+    "NameLocalization": {
         // "es": "",
         "ko": "인퓨저",
         "de": "Infusor",
-        // "fr": "",
+        "fr": "Infuseur",
         // "hu": "",
         // "it": "",
         "ja": "インフューザー",
         "pt": "Infusor",
         "ru": "Инфьюзер",
         // "tr": "",
-        "zh": "浸煮瓶",
+        "zh": "浸煮瓶"
     },
-    "DescriptionLocalization":
-    {
+    "DescriptionLocalization": {
         // "es": "",
         "ko": "보드카에 향미를 주입하기 위해 사용되는 화학 장치. 리큐어와 슈냅스를 만들 수 있습니다.",
         "de": "Ein Apparat, der dazu genutzt wird, Wodka Geschmack zu geben, um Likör und Schnäpse herzustellen.",
-        // "fr": "",
+        "fr": "Dispositif qui permet de parfumer la vodka pour faire des liqueurs et du schnaps.",
         // "hu": "",
         // "it": "",
         "ja": "香りや風味を蒸留酒に注入し、リキュールやシュナップスを作るのに使われる化学装置。",
         "pt": "Um aparelho químico usado para infundir sabores em vodca criando liquores e schanpps.",
         "ru": "Устройство для ароматизации водки и создания из неё ликеров и шнапсов.",
         // "tr": "",
-        "zh": "一种化学仪器，用于将香料注入伏特加，制成利口酒和杜松子酒。",
+        "zh": "一种化学仪器，用于将香料注入伏特加，制成利口酒和杜松子酒。"
     }
 }

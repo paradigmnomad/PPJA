@@ -4,51 +4,48 @@
     "Price": 1,
     "ProvidesLight": false,
     "ReserveNextIndex": true,
-    "Recipe":
-    {
+    "Recipe": {
         "ResultCount": 1,
-        "Ingredients": [
-        {
-            "Object": 390,
-            "Count": 40,
-        },
-        {
-            "Object": 186,
-            "Count": 5,
-        },
-        {
-            "Object": 337,
-            "Count": 2,
-        }, ],
+        "Ingredients": [{
+                "Object": 390,
+                "Count": 40
+            },
+            {
+                "Object": 186,
+                "Count": 5
+            },
+            {
+                "Object": 337,
+                "Count": 2
+            }
+        ],
         "CanPurchase": false,
-        "IsDefault": true,
+        "IsDefault": true
     },
-    "NameLocalization":
-    {
+    "NameLocalization": {
         // "es": "",
         "ko": "요거트 단지",
         "de": "Joghurtglas",
-        // "fr": "",
+        "fr": "Yaourtière",
         // "hu": "",
         // "it": "",
         "ja": "ヨーグルト瓶",
         "pt": "Iogurteira",
         "ru": "Йогуртница",
         // "tr": "",
-        "zh": "酸奶罐",
+        "zh": "酸奶罐"
     },
-    "DescriptionLocalization":
-    {
+    "DescriptionLocalization": {
         // "es": "",
         "ko": "우유를 요거트로 발효시키는 단지.",
         "de": "Ein großes Glas, um Milk zu Joghurt zu fermentieren.",
-        // "fr": "",
+        "fr": "Un bocal pour fermenter le lait en yaourt.",
         // "hu": "",
         // "it": "",
-       "ja": "ミルクを発酵させてヨーグルトにするための瓶。",
+        "ja": "ミルクを発酵させてヨーグルトにするための瓶。",
         "pt": "Iogurteira top therm, fermenta leite para fazer iogurte.",
         "ru": "Сосуд, в котором можно заквасить молоко в йогурт.",
         // "tr": "",
-        "zh": "这个罐子能够将牛奶与其它东西发酵成酸奶。",
+        "zh": "这个罐子能够将牛奶与其它东西发酵成酸奶。"
     }
 }

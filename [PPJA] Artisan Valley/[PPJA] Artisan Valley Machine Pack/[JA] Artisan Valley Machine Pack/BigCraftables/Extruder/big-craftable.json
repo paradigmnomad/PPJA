@@ -4,51 +4,48 @@
     "Price": 1,
     "ProvidesLight": false,
     "ReserveExtraIndexCount": 7,
-    "Recipe":
-    {
+    "Recipe": {
         "ResultCount": 1,
-        "Ingredients": [
-        {
-            "Object": 709,
-            "Count": 5,
-        },
-        {
-            "Object": 335,
-            "Count": 2,
-        },
-        {
-            "Object": 787,
-            "Count": 1,
-        }, ],
+        "Ingredients": [{
+                "Object": 709,
+                "Count": 5
+            },
+            {
+                "Object": 335,
+                "Count": 2
+            },
+            {
+                "Object": 787,
+                "Count": 1
+            }
+        ],
         "CanPurchase": false,
-        "IsDefault": true,
+        "IsDefault": true
     },
-    "NameLocalization":
-    {
+    "NameLocalization": {
         // "es": "",
         "ko": "압출기",
         "de": "Strangpresse",
-        // "fr": "",
+        "fr": "Extrudeuse",
         // "hu": "",
         // "it": "",
         "ja": "押出機",
         "pt": "Extrusora",
         "ru": "Экструдер",
         // "tr": "",
-        "zh": "模压机",
+        "zh": "模压机"
     },
-    "DescriptionLocalization":
-    {
+    "DescriptionLocalization": {
         // "es": "",
         "ko": "밀가루를 국수로, 꿀을 밀랍으로 만들어줍니다.",
         "de": "Verarbeitet Mehl zu Nudeln und Honig zu Wachs!",
-        // "fr": "",
+        "fr": "Transforme la farine en nouilles et le miel en cire.",
         // "hu": "",
         // "it": "",
         "ja": "コムギ粉を麺に、ハチミツをワックスに変えます！",
         "pt": "Transforma farinha em macarrão e mel em cera!",
         "ru": "Превращает муку в лапшу, а мед в воск!",
         // "tr": "",
-        "zh": "把面粉变成面条，蜂蜜变成蜂蜡！",
+        "zh": "把面粉变成面条，蜂蜜变成蜂蜡！"
     }
 }
