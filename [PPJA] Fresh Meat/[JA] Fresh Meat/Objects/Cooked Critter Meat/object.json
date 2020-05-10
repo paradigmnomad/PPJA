@@ -27,4 +27,31 @@
     },
     "PurchasePrice": 220,
     "PurchaseRequirements": null,
+  "NameLocalization": { 
+		// "es": "",
+		"ko": "구운 크리쳐 고기",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "크리쳐의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }  
 }
