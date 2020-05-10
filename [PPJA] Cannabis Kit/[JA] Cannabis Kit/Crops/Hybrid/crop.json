@@ -20,9 +20,6 @@
 
     "SeedPurchaseFrom": "Harvey",
     "SeedPurchasePrice": 200,
-    "SeedPurchaseRequirements": [
-        "f Sebastian 250",
-    ],
     "SeedNameLocalization":
     {
          "es": "Iniciador de Híbrido",

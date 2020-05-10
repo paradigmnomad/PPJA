@@ -18,10 +18,7 @@
         "ExtraChance": 0.2,
     },
     "SeedPurchaseFrom": "Pierre",
-    "SeedPurchasePrice": 3200,
-    "SeedPurchaseRequirements": [
-        "f Sebastian 250",
-    ],
+    "SeedPurchasePrice": 320,
     "SeedNameLocalization":
     {
         "es": "Iniciador de cañamo",

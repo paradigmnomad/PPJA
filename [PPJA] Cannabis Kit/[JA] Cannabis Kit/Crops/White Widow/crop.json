@@ -19,9 +19,6 @@
     },
     "SeedPurchaseFrom": "Pierre",
     "SeedPurchasePrice": 400,
-    "SeedPurchaseRequirements": [
-        "f Sebastian 250"
-    ],
     "SeedNameLocalization":
     {
         "es": "Iniciador de Viuda blanca",

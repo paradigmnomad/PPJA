@@ -19,9 +19,6 @@
     },
     "SeedPurchaseFrom": "Harvey",
     "SeedPurchasePrice": 300,
-    "SeedPurchaseRequirements": [
-        "f Sebastian 250",
-    ],
     "SeedNameLocalization":
     {
          "es": "Inciador de Grieta Verde",

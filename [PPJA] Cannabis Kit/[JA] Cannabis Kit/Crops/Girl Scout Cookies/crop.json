@@ -19,9 +19,6 @@
     },
     "SeedPurchaseFrom": "Harvey",
     "SeedPurchasePrice": 400,
-    "SeedPurchaseRequirements": [
-        "f Sebastian 250",
-    ],
     "SeedNameLocalization":
     {
         "es": "Iniciador de Galleta de Chica Exploradora",
