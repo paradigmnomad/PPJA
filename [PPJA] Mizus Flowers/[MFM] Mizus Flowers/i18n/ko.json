@@ -7,6 +7,19 @@
 "passionflower.text": "안녕 @,^^ 광석은 아니지만, 유용할 거야. 틈날 때마다 가게로 놀러 와.^^  -클린트",
 "pitcherplant.text": "안녕 @,^^  아빠는 내가 집에서 이 식물을 재배하는걸 허락하지 않으셔. 아빠가 연구하도록 설득할 수 있게 가져와 줄래?^^  -마루",
 "rafflesia.text": "@에게,^^  일전에 현장 조사를 하다가 이 씨앗을 발견했어. 심고 난 뒤 결과를 알려줘.^^ -드미트리우스",
-"rose.text": "@,^^  이것 좀 심을 수 있겠니? 내가 제일 좋아하는 거야. 왜냐면 나만큼 아름다워서! ^^ -헤일리"
+"rose.text": "@,^^  이것 좀 심을 수 있겠니? 내가 제일 좋아하는 거야. 왜냐면 나만큼 아름다워서! ^^ -헤일리",
+
+    // Titles
+
+    "chamomile.title": "캐모마일 씨앗",
+    "fairyduster.title": "칼리안드라 에마르기나타 씨앗",
+    "honeysuckle.title": "허니서클 씨앗",
+    "herballavender.title": "허브 라벤더 씨앗",
+    "fragrantlilac.title": "향기로운 라일락 씨앗",
+    "passionflower.title": "시계꽃 씨앗",
+    "pitcherplant.title": "벌레잡이풀 씨앗",
+    "rafflesia.title": "라플레시아 씨앗",
+    "rose.title": "장미 씨앗"
+
 }
 

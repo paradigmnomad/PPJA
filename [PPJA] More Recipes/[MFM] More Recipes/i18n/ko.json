@@ -21,6 +21,32 @@
 "tropicalfruitsalad.text": "@,^^ 건강에 좋은 음식을 먹는 걸 잊지 말게, 그렇지 않으면 열심히 일할 에너지가 부족할 걸세! 내가 좋아하는 레시피 중 하나를 주겠네.^^  -루이스",
 "vegetablestirfry.text": "좋은 아침 @,^^  내가 떠나기 전 조디는 이걸 만들어 주곤 했지. 너도 한번 해보고 싶어할 것 같았어.^^  -켄트",
 "bobatea.text": "@,^^ 이상하게 보일지도 모르지만, 내가 마지막으로 주주 시티에 갔을 때 처음으로 이걸 마셔봤어. 너도 아마 좋아할 거야.^^  -세바스찬",
-"dandeliontea.text": "@에게,^^  자연은 몇 년동안 나에게 친절하게 대해주었다네. 자연이 가르쳐준 레시피가 자네에게도 친절했으면 한다네. 정직한 생활을 하는 사람을 만나서 반갑다네.^^ -라이너스"
+"dandeliontea.text": "@에게,^^  자연은 몇 년동안 나에게 친절하게 대해주었다네. 자연이 가르쳐준 레시피가 자네에게도 친절했으면 한다네. 정직한 생활을 하는 사람을 만나서 반갑다네.^^ -라이너스",
+
+    // Titles
+
+    "bakedsweetpotato.title": "군고구마 레시피",
+    "bananapudding.title": "바나나 푸딩 레시피",
+    "broccoliandcheese.title": "브로콜리 치즈 레시피",
+    "brownsugar.title": "흑설탕 레시피",
+    "carrotcake.title": "당근 케이크 레시피",
+    "cassavacake.title": "카사바 케이크 레시피",
+    "chefsalad.title": "셰프의 샐러드 레시피",
+    "farofa.title": "파로파 레시피",
+    "figtart.title": "무화과 타르트 레시피",
+    "gooseberrypie.title": "구스베리 파이 레시피",
+    "islandsalad.title": "아일랜드 샐러드 레시피",
+    "melonsalad.title": "멜론 샐러드 레시피",
+    "pbjsandwich.title": "땅콩버터 젤리 샌드위치 레시피",
+    "poachedpear.title": "졸인 배 레시피",
+    "raspberrytart.title": "라즈베리 타르트 레시피",
+    "ricepilaf.title": "라이스 필라프 레시피",
+    "sauteedonions.title": "볶은 양파 레시피",
+    "stuffedbellpeppers.title": "속을 채운 피망 레시피",
+    "sweetpotatofries.title": "고구마 튀김 레시피",
+    "tropicalfruitsalad.title": "열대 과일 샐러드 레시피",
+    "vegetablestirfry.title": "야채 볶음 레시피",
+    "bobatea.title": "버블티 레시피",
+    "dandeliontea.title": "민들레 티 레시피",
 }
 

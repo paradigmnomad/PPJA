@@ -1,16 +1,41 @@
 {
-    "Name": "Phoenix Meat",
-    "Description": "It's raw, but this meat cut from a phoenix is sizzling hot.",
+    "Name": "Bird Meat",
+    "Description": "A little hunk of bird meat.",
     "Category": "Meat",
     "Edibility": 200,
-    "Price": 9500,
+    "Price": 75,
     "IsColored": false,
     "GiftTastes":
     {
-		"Love": ["Gregory"],
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Sebastian", "Sheila"],
+        "Hate": ["Sebastian"],
     },
     "Recipe": null,
-    "PurchasePrice": 9750,
+  "NameLocalization": { 
+		// "es": "",
+		"ko": "새고기",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "작은 덩어리의 새 고기.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }  
 }

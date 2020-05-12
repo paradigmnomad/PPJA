@@ -27,4 +27,31 @@
     },
     "PurchasePrice": 550,
     "PurchaseRequirements": null,
+  "NameLocalization": { 
+		// "es": "",
+		"ko": "구운 말고기",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "말의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }  
 }
