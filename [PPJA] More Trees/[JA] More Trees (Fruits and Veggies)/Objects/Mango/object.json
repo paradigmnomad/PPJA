@@ -9,22 +9,14 @@
     {
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
-    "Recipe": null,
-
-    "NameLocalization":
-    {
-        "es": "Mango"
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Una fruta tropical irresistiblemente dulce que tiene una carne anaranjada ácida."
-    },
+    "Recipe": null
+    
     "NameLocalization":
     {
         "es": "Mango",
         "ko": "망고",
         "de": "Mango",
-         // "fr": "",
+        "fr": "Mangue",
          // "hu": "",
          // "it": "",
         "ja": "マンゴー",
@@ -38,7 +30,7 @@
         "es": "Una fruta tropical irresistiblemente dulce que tiene una carne anaranjada ácida.",
         "ko": "톡 쏘는 오렌지색 껍질을 가진 거부할 수 없을 정도로 달콤한 열대 과일.",
         "de": "Eine unwiderstehlich süße, tropische Frucht mit würzigem, orangenem Fleisch.",
-         // "fr": "",
+        "fr": "Un fruit tropical irrésistiblement doux à la pulpe orange et acidulé.",
          // "hu": "",
          // "it": "",
         "ja": "たまらなく甘い香りのする甘酸っぱいオレンジ色の実の南国の果物。",
