@@ -1192,7 +1192,7 @@
         "OutputTranslationKey": "YogurtJar.Fruit",
         "InputPriceBased": true,
         "OutputPriceIncrement": 0,
-        "OutputPriceMultiplier": 1.25,
+        "OutputPriceMultiplier": 1.75,
         "Sounds": ["Ship"],
     },
 
