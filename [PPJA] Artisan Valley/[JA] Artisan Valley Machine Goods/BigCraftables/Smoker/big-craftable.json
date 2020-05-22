@@ -1,6 +1,6 @@
 {
     "Name": "Smoker",
-    "Description": "A smoker used to smoke fish and cheese.",
+    "Description": "A smoker used to smoke fish.",
     "Price": 1,
     "ProvidesLight": false,
     "ReserveNextIndex": true,
