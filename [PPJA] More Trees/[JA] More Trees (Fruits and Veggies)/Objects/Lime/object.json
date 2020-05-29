@@ -10,7 +10,6 @@
         "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
         "Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
     },
-    "Recipe": null,
     "NameLocalization":
     {
         "es": "Lima",

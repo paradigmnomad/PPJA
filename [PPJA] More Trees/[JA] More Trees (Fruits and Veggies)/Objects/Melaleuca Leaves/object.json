@@ -12,7 +12,6 @@
         "Like": ["Harvey", "Leah", "Linus"],
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
-    "Recipe": null,
     "NameLocalization":
     {
         "es": "Hojas de melaleuca",

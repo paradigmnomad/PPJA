@@ -11,7 +11,6 @@
         "Like": ["Krobus", "Evelyn", "Elliott"],
         "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "George", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Willy", "Wizard", "Abigail", "Jas", "Vincent"],
     },
-    "Recipe": null,
     "NameLocalization":
     {
         "es": "Lichi",

@@ -5,7 +5,6 @@
     "Edibility": 15,
     "Price": 200,
     "IsColored": false,
-    "Recipe": null,
     "NameLocalization":
     {
         //"es": "",

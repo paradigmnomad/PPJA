@@ -12,7 +12,6 @@
         "Neutral": ["Alex", "Clint", "Demetrius", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Robin"],
         "Dislike": ["Dwarf", "Elliott", "Krobus", "Sam", "Sebastian", "Shane", "Willy", "Wizard"],
     },
-    "Recipe": null,
     "NameLocalization":
     {
         "es": "Glicina fragante",

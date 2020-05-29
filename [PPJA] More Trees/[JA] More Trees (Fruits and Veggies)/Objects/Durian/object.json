@@ -11,7 +11,6 @@
         "Neutral": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
         "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
     },
-    "Recipe": null,
     "NameLocalization":
     {
         "es": "Durian",
