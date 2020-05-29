@@ -19,7 +19,7 @@
         "fr": "Viande de Chèvre",
         // "hu": "",
         // "it": "",
-         "ja": "ヤギ肉",
+        "ja": "ヤギ肉",
         // "pt": "",
         "ru": "Козлятина",
         // "tr": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         "es": "Un corte  de cabra, sin grasa.",
-        "ko": "염소에게서 얻는 고기",
+        "ko": "염소에게서 얻는 살코기.",
         "de": "Ein Stück vom Schaff.",
         "fr": "Une coupe maigre de viande de chèvre.",
         // "hu": "",

@@ -1,50 +1,52 @@
 {
-  "Name": "Potted Daisy",
-  "Description": "A daisy potted in a little wooden pot. Remember to water it!",
-  "Price": 1,
-  "ProvidesLight": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-		  "Object": "Daisy",
-		  "Count": 1,
-      },
-      {
-		  "Object": 388,
-		  "Count": 10,
-      },
-	  {
-		  "Object": 330,
-		  "Count": 10,
-	  },
-    ],
-	"CanPurchase": false,
-  },
-  "NameLocalization": { 
-    "es": "Margarita en maceta",
-    "ko": "실내 화초 데이지",
-    "de": "Eingemachtes Gänseblümchen",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",
-    "ja": "デイジーの鉢植え",
-    "pt": "Vaso de Margarida",
-    "ru": "Маргаритка в горшке",
-     //"tr": "",
-    "zh": "雏菊盆栽",
-     },
- "DescriptionLocalization": { 
-    "es": "Una margarita en una pequeña maceta de madera. ¡Recuerda regarla!",
-    "ko": "작은 나무 화분에 심겨진 데이지 입니다. 물 주는거 잊지마세요!",
-    "de": "Ein Gänseblümchen in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",
-    "ja": "デイジーが植えられた木製の小さな鉢。水やりを忘れずに。",
-    "pt": "Uma margarida em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
-    "ru": "Маргаритка в маленьком деревянном горшочке. Не забывайте поливать!",
-     //"tr": "",
-    "zh": "一个小木盆里的雏菊。记得给它浇水！",
+    "Name": "Potted Daisy",
+    "Description": "A daisy potted in a little wooden pot. Remember to water it!",
+    "Price": 1,
+    "ProvidesLight": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Daisy",
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 10,
+        },
+        {
+            "Object": 330,
+            "Count": 10,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Margarita en maceta",
+        "ko": "실내 화초 데이지",
+        "de": "Eingemachtes Gänseblümchen",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "デイジーの鉢植え",
+        "pt": "Vaso de Margarida",
+        "ru": "Маргаритка в горшке",
+        //"tr": "",
+        "zh": "雏菊盆栽",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una margarita en una pequeña maceta de madera. ¡Recuerda regarla!",
+        "ko": "작은 나무 화분에 심겨진 데이지 입니다. 물 주는거 잊지마세요!",
+        "de": "Ein Gänseblümchen in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "デイジーが植えられた木製の小さな鉢。水やりを忘れずに。",
+        "pt": "Uma margarida em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
+        "ru": "Маргаритка в маленьком деревянном горшочке. Не забывайте поливать!",
+        //"tr": "",
+        "zh": "一个小木盆里的雏菊。记得给它浇水！",
     }
 }

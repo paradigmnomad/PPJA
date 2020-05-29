@@ -3,25 +3,23 @@
     "Product": "Fig",
     "SaplingName": "Fig Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Fig tree. Bears fruit in the winter. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "winter",
-
     "SaplingPurchasePrice": 4000,
     "SaplingPurchaseRequirements": [
-    "y 2",
+        "y 2",
     ],
-      "SaplingNameLocalization":
+    "SaplingNameLocalization":
     {
         "es": "Brote de higo",
         "ko": "무화과 묘목",
         "de": "Feigenbaum-Setzling",
         "fr": "Jeune figuier",
-         // "hu": "",
-         // "it": "",
+        // "hu": "",
+        // "it": "",
         "ja": "イチジクの苗",
         "pt": "Muda de figo",
         "ru": "Саженец инжира",
-         // "tr": "",
+        // "tr": "",
         "zh": "无花果树苗",
     },
     "SaplingDescriptionLocalization":
@@ -30,12 +28,12 @@
         "ko": "28일후에 성목이 됩니다. 겨울에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
         "de": "Wächst in 28 Tagen zu einem reifen Feigenbaum heran. Trägt im Winter Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
         "fr": "Il faut 28 jours pour produire un figuier mature. Porte des fruits en hiver. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
-         // "hu": "",
-         // "it": "",
+        // "hu": "",
+        // "it": "",
         "ja": "28日かけて成木にそだち、冬になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
         "pt": "Demora até 28 dias para produzir uma figueira madura. Dá frutas no inverno. Só cresce se os 8 espaços adjacentes estiverem vazios.",
         "ru": "Становится взрослым инжирным деревом через 28 дней. Плодоносит зимой. Растет только если 8 «клеток» вокруг него не заняты.",
-         // "tr": "",
+        // "tr": "",
         "zh": "28天成熟为成年无花果树。冬天结果。只有在附近8块地块都空置的情况下才会成长。",
     }
 }

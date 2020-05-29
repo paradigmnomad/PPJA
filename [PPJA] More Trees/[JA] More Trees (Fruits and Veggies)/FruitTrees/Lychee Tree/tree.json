@@ -3,9 +3,7 @@
     "Product": "Lychee",
     "SaplingName": "Lychee Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Lychee tree. Bears fruit in the summer. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "summer",
-
     "SaplingPurchasePrice": 5000,
     "SaplingPurchaseFrom": "Sandy",
     "SaplingPurchaseRequirements": [
@@ -13,30 +11,30 @@
     ],
     "SaplingNameLocalization":
     {
-         // "es": "",
+        // "es": "",
         "ko": "열매 묘목",
         "de": "Litschibaum-Setzling",
         "fr": "Jeune litchi",
-         // "hu": "",
-         // "it": "",
+        // "hu": "",
+        // "it": "",
         "ja": "ライチの苗",
-         // "pt": "",
+        // "pt": "",
         "ru": "Саженец личи",
-         // "tr": "",
+        // "tr": "",
         "zh": "荔枝树苗",
     },
     "SaplingDescriptionLocalization":
     {
-         // "es": "",
+        // "es": "",
         "ko": "성숙한 열매 나무를 생산하는 데 28 일이 걸립니다. 여름에 열매를 맺습니다. 8 개의 주변 타일이 비어있는 경우에만 자랍니다.",
         "de": "Wächst in 28 zu einem ausgewachsenen Litschibaum heran. Trägt im Sommer Früchte. Wächst nur, wenn die 8 umliegenden Kacheln leer sind.",
         "fr": "Il faut 28 jours pour produire un litchi mature. Porte des fruits en été. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
-         // "hu": "",
-         // "it": "",
+        // "hu": "",
+        // "it": "",
         "ja": "28日かけて成木にそだち、夏になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
-         // "pt": "",
+        // "pt": "",
         "ru": "Становится взрослым деревом личи через 28 дней. Плодоносит летом. Растет только если 8 «клеток» вокруг него не заняты.",
-         // "tr": "",
+        // "tr": "",
         "zh": "28天成熟为成年荔枝树。夏天结果。只有在附近8块地块都空置的情况下才会成长。",
     }
 }

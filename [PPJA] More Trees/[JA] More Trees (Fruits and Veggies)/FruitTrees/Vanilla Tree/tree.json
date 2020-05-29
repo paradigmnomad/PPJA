@@ -3,9 +3,7 @@
     "Product": "Vanilla",
     "SaplingName": "Vanilla Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Vanilla tree. Ready to harvest in the spring. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "spring",
-
     "SaplingPurchasePrice": 5000,
     "SaplingPurchaseRequirements": null,
     "SaplingNameLocalization":

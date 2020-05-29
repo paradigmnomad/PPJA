@@ -3,9 +3,7 @@
     "Product": "Pecan",
     "SaplingName": "Pecan Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Pecan tree. Ready to harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "fall",
-
     "SaplingPurchasePrice": 5000,
     "SaplingPurchaseRequirements": ["y 3",
 ],

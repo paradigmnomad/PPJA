@@ -8,14 +8,14 @@
     "Recipe": null,
     "GiftTastes":
     {
-        "Love": [ "Gus"],
+        "Love": ["Gus"],
         "Neutral": ["Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Marnie", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
     },
 
     "NameLocalization":
     {
         //"es": "",
-        "ko": "라임 필",
+        "ko": "라임 껍질",
         //"de": "",
         // "fr": "",
         // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         //"es": "",
-        "ko": "열대 풍미의 가니쉬.",
+        "ko": "화려한 색의 껍질.",
         //"de": "",
         // "fr": "",
         // "hu": "",

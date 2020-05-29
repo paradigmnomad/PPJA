@@ -1,65 +1,66 @@
 {
-  "Name": "Harlem Mugger Cocktail",
-  "Description": "So named because it kicks you in the head and takes your money.",
-  "Category": "Cooking",
-  "Edibility": 85,
-  "EdibleIsDrink": true,
-  "EdibleBuffs": {
+    "Name": "Harlem Mugger Cocktail",
+    "Description": "So named because it kicks you in the head and takes your money.",
+    "Category": "Cooking",
+    "Edibility": 85,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
         "Luck": 0,
-	"Foraging": 0,
-	"MaxStamina": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
         "MagnetRadius": 0,
-	"Speed": -1,
-	"Defense": 0,
-	"Attack": 0,
+        "Speed": -1,
+        "Defense": 0,
+        "Attack": 0,
         "Duration": 100,
-  },
-  "Price": 1400,
-  "IsColored": false,
-  "CanPurchase": true,
-  "PurchaseFrom": "Gus",
-  "PurchasePrice": 1400,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Vodka",
-        "Count": 1,
-      },
-      {
-        "Object": "Gin",
-        "Count": 1,
-      },
-      {
-        "Object": "Rum",
-        "Count": 1,
-      },
-      {
-        "Object": "Champagne",
-        "Count": 1,
-      },
-      {
-        "Object": "Lime Peel",
-        "Count": 1,
-      },
-      {
-        "Object": 282,
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": false,
-    "GiftTastes":
+    },
+    "Price": 1400,
+    "IsColored": false,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1400,
+    "Recipe":
     {
-        "Love": ["Shane", "Gus", "Pam", "Sebastian", "Willy"],
-        "Like": ["Pierre", "Clint", "George", "Elliott", "Kent", "Lewis", "Pierre", "Caroline", "Jodi", "Robin", "Sandy"],
-        "Neutral": ["Marnie", "Demetrius", "Dwarf", "Emily", "Evelyn", "Harvey", "Leah", "Maru", "Krobus", "Linus", "Wizard"],
-        "Dislike": ["Haley", "Penny", "Sam", "Abigail", "Alex"],
-        "Hate": ["Vincent", "Jas"]
-    }
-  },
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Vodka",
+            "Count": 1,
+        },
+        {
+            "Object": "Gin",
+            "Count": 1,
+        },
+        {
+            "Object": "Rum",
+            "Count": 1,
+        },
+        {
+            "Object": "Champagne",
+            "Count": 1,
+        },
+        {
+            "Object": "Lime Peel",
+            "Count": 1,
+        },
+        {
+            "Object": 282,
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+        "GiftTastes":
+        {
+            "Love": ["Shane", "Gus", "Pam", "Sebastian", "Willy"],
+            "Like": ["Pierre", "Clint", "George", "Elliott", "Kent", "Lewis", "Pierre", "Caroline", "Jodi", "Robin", "Sandy"],
+            "Neutral": ["Marnie", "Demetrius", "Dwarf", "Emily", "Evelyn", "Harvey", "Leah", "Maru", "Krobus", "Linus", "Wizard"],
+            "Dislike": ["Haley", "Penny", "Sam", "Abigail", "Alex"],
+            "Hate": ["Vincent", "Jas"]
+        }
+    },
 
     "NameLocalization":
     {

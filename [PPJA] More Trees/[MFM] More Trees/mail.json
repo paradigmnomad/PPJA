@@ -23,6 +23,7 @@
         "GroupID": "MoreTrees.sapling",
         "Text": "breadfruit.text",
         "Title": "breadfruit.title",  
+        "Text": "breadfruit.text", 
         "Attachments": [{"Type": "Object", "Name":"Breadfruit Sapling", "Stack": 1},],     
         "LetterBG": "NicteLetterBackground.png",           
         "Repeatable": false,         
@@ -38,6 +39,7 @@
         "GroupID": "MoreTrees.sapling",
         "Text": "cassia.text"
         "Title": "cassia.title", , 
+        "Text": "Hello, @.^^  This was gathering dust in the toolshed. I figured if anyone in this town could make it grow you could.^^  -Kent", 
         "Attachments": [{"Type": "Object", "Name":"Cassia Sapling", "Stack": 1},],         
         "LetterBG": "NicteLetterBackground.png",       
         "Repeatable": false,         

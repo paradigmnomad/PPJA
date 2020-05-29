@@ -3,7 +3,6 @@
     "Product": "Durian",
     "SaplingName": "Durian Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Durian tree. Ready to harvest in the summer. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "summer",
     "SaplingPurchaseFrom": "Sandy",
     "SaplingPurchasePrice": 8000,

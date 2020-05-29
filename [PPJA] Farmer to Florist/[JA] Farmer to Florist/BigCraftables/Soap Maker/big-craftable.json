@@ -26,32 +26,32 @@
     },
     // Localization
 
-        "NameLocalization": //Used for localization. 
-       { 
-            //"es": "", //Spanish
-            "ko": "비누제조기", //Korean
-            "de": "Seifenmacher", //German
-            //"fr": "", //French
-            //"hu": "", //Hungarian
-            //"it": "", //Italian
-            "ja": "ソープメーカー", //Japanese
-            "pt": "Máquina de Sabão", //Portuguese
-            "ru": "Мыловарка", //Russian
-            //"tr": "", //Turkish
-            "zh": "香皂制造机", //Chinese (Simplified)
-        },
-        "DescriptionLocalization": //Used for localization. 
-        { 
-            //"es": "", //Spanish
-            "ko": "꽃과 기름으로 비누를 만듭니다.", //Korean
-            "de": "Kombiniert Blumen und Öl zu einem Stück Seife.", //German
-            //"fr": "", //French
-            //"hu": "", //Hungarian
-            //"it": "", //Italian
-            "ja": "花とオイルで石けんバーを作る。", //Japanese
-            "pt": "Combina flores e óleo em uma barra de sabonete.", //Portuguese
-            "ru": "Смешивает цветы и масло в кусок мыла", //Russian
-            //"tr": "", //Turkish
-            "zh": "将花和油混合加工制成香皂", //Chinese (Simplified)
-        }
+    "NameLocalization": //Used for localization. 
+    {
+        //"es": "", //Spanish
+        "ko": "비누제조기", //Korean
+        "de": "Seifenmacher", //German
+        //"fr": "", //French
+        //"hu": "", //Hungarian
+        //"it": "", //Italian
+        "ja": "ソープメーカー", //Japanese
+        "pt": "Máquina de Sabão", //Portuguese
+        "ru": "Мыловарка", //Russian
+        //"tr": "", //Turkish
+        "zh": "香皂制造机", //Chinese (Simplified)
+    },
+    "DescriptionLocalization": //Used for localization. 
+    {
+        //"es": "", //Spanish
+        "ko": "비누 제조기", //Korean
+        "de": "Kombiniert Blumen und Öl zu einem Stück Seife.", //German
+        //"fr": "", //French
+        //"hu": "", //Hungarian
+        //"it": "", //Italian
+        "ja": "花とオイルで石けんバーを作る。", //Japanese
+        "pt": "Combina flores e óleo em uma barra de sabonete.", //Portuguese
+        "ru": "Смешивает цветы и масло в кусок мыла", //Russian
+        //"tr": "", //Turkish
+        "zh": "将花和油混合加工制成香皂", //Chinese (Simplified)
     }
+}

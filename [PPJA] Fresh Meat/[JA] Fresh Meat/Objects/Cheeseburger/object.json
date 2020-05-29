@@ -42,7 +42,7 @@
         "fr": "Hamburger au Fromage",
         // "hu": "",
         // "it": "",
-         "ja": "チーズバーガー",
+        "ja": "チーズバーガー",
         // "pt": "",
         "ru": "Чизбургер",
         // "tr": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
         "es": "Una hamburguesa con queso.",
-        "ko": "햄버거에 치즈가 들어갔습니다.",
+        "ko": "치즈가 들어있는 햄버거.",
         "de": "Ein Hamburger, mit Käse.",
         "fr": "Un hamburger, mais avec du fromage.",
         // "hu": "",

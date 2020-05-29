@@ -3,9 +3,7 @@
     "Product": "Persimmon",
     "SaplingName": "Persimmon Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Persimmon tree. Bears fruit in the winter. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "winter",
-
     "SaplingPurchasePrice": 7000,
     "SaplingPurchaseRequirements": null,
        "SaplingNameLocalization":

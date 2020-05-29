@@ -3,9 +3,7 @@
     "Product": "Pomelo",
     "SaplingName": "Pomelo Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Pomelo tree. Bears fruit in the winter. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "winter",
-
     "SaplingPurchasePrice": 3400,
     "SaplingPurchaseRequirements": [
         "y 2",

@@ -3,9 +3,7 @@
     "Product": "Melaleuca Leaves",
     "SaplingName": "Melaleuca Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Melaleuca tree. Ready to harvest in the spring. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "spring",
-
     "SaplingPurchasePrice": 4000,
     "SaplingPurchaseRequirements": null,
       "SaplingNameLocalization":
