@@ -1,6 +1,6 @@
 ﻿{
     "name": "Kimchi Crock",
-    "Description": "Making Kimchi from various vegetables and fruits.",
+    "Description": "Make Kimchi from various vegetables and fruits.",
     "price": 200,
     "provideslight": false,
     "ReserveNextIndex": true,

@@ -1,6 +1,6 @@
 {
     "Name": "Fruit Soju",
-    "Description": "Fresh aroma and taste of the fruit in the Soju. Drink in moderation.",
+    "Description": "Soju infused with the flavor of the fruit. Drink in moderation.",
     "Category": "ArtisanGoods",
     "Edibility": 20,
     "EdibleIsDrink": true,
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         //"es": "",
-        "ko": "소주에 과일의 향과 맛이 우러났다. 절제해서 드세요.",
+        "ko": "과일의 맛을 우려낸 소주. 절제해서 드세요.",
         //"de": "",
         // "fr": "",
         // "hu": "",
