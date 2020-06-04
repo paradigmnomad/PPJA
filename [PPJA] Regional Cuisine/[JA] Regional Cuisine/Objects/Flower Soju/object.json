@@ -1,6 +1,6 @@
 {
     "Name": "Flower Soju",
-    "Description": "Fresh aroma of the flower in the Soju. Drink in moderation.",
+    "Description": "Soju infused with the scent of the flower. Drink in moderation.",
     "Category": "ArtisanGoods",
     "Edibility": 20,
     "EdibleIsDrink": true,
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         //"es": "",
-        "ko": "소주에 꽃향기가 우러났다. 절제해서 드세요.",
+        "ko": "꽃향기를 우려낸 소주. 절제해서 드세요.",
         //"de": "",
         // "fr": "",
         // "hu": "",

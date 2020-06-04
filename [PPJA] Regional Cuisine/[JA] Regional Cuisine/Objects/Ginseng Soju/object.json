@@ -1,6 +1,6 @@
 {
     "Name": "Ginseng Soju",
-    "Description": "Healthy ingredients of ginseng in the Soju. Drink in moderation.",
+    "Description": "Soju infused with flavor of ginseng. Drink in moderation.",
     "Category": "ArtisanGoods",
     "Edibility": 20,
     "EdibleIsDrink": true,
@@ -46,7 +46,7 @@
     "DescriptionLocalization":
     {
         //"es": "",
-        "ko": "소주에 인삼의 좋은 성분이 우러났다. 절제해서 드세요.",
+        "ko": "인삼의 약효를 우려낸 소주. 절제해서 드세요.",
         //"de": "",
         // "fr": "",
         // "hu": "",
