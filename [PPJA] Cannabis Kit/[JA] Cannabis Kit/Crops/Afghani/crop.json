@@ -1,0 +1,50 @@
+{
+    "Name": "Afghani",
+    "Product": "Afghani",
+    "SeedName": "Afghani Starter",
+    "SeedDescription": "An indica strain that delivers a deep relaxation and euphoria with a sweet, earthy aroma. Plant these in the summer or fall. Takes 13 days to mature, afterwards it continues to produce every 3 days.",
+    "Type": "Flower",
+    "Seasons": ["summer", "fall"],
+    "Phases": [2, 3, 4, 4, 3],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 3,
+        "MaximumPerHarvest": 5,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchaseFrom": "Harvey",
+    "SeedPurchasePrice": 400,
+    "SeedNameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}
