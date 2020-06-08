@@ -17,7 +17,7 @@
     "NameLocalization":
     {
         "es": "Base de miso",
-        "ko": "발효 미소",
+        "ko": "미소 스타터",
         "de": "Miso-Starter",
          // "fr": "",
          // "hu": "",
@@ -31,7 +31,7 @@
     "DescriptionLocalization":
     {
         "es": "Utilizada para preparar comidas.",
-        "ko": "종균배양은 미소 생산을 장려하기 위해 사용됩니다.",
+        "ko": "미소 발효를 시작하기 위해 사용하는 종균.",
         "de": "Eine Startkultur, die zur Förderung der Miso-Produktion genutzt wird.",
          // "fr": "",
          // "hu": "",

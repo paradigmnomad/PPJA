@@ -1,6 +1,6 @@
 {
-    "Name": "Candied Fruit",
-    "Description": "Fresh fruit Pickled in sweet honey.",
+    "Name": "Fruit Preserve",
+    "Description": "Fruit slices preserved in sweet honey.",
     "Category": "ArtisanGoods",
     "Edibility": -300,
     "Price": 225,
