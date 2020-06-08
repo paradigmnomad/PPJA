@@ -1,4 +1,34 @@
 {
+	"RemovePacksFromVanilla": [
+        "paradigmnomad.morefood",
+        "ppja.evenmorerecipes",
+        "ppja.MoreRecipesMeat",
+        "paradigmnomad.freshmeat",
+        "ppja.starbrewvalley",
+        "Aquilegia.SweetTooth",
+        "Ryck215.StardripsCoffeeCompatible",
+        "HadiZosa.BFAVnewmeat",
+        "Bonster.Adv.Recipes",
+        "Bonster.Recipes",
+        "Zosa.eatums",
+        "Hadi.FrozenTreatsJA",
+        "Minakie.JA.recipes",
+        "amburr.spoopyvalley",
+        "Ritsune.ChocolatierJA",
+        "ppja.christmassweets",
+        "Immort.Weap",
+        "ppja.artisanvalleymachinegoods",
+        "Hadi.JASoda",
+        "deffiliation.JAKimchiMaker",
+        "xiaobaishu.JA.fenjieji",
+        "furyx639.ComposterJA",
+        "Ritsune.BakersLifeJA",
+        "Ivycrowned.JARealisticLooms",
+        "KAYA.CherryBlossomCafe",
+        "KAYA.JACandyMachine",
+        "KAYA.JAMoreMead",
+
+      ],
   "Shops": [
     {
       "ShopName": "RecipeShop",
@@ -27,10 +57,10 @@
               "Curry Powder",
               "Nutmeg",
               "Paprika",
-          		"Garlic",
-          		"Vanilla Extract",
-          		"Buckwheat Flour",
-          		"Buckwheat Noodles",
+              "Garlic",
+              "Vanilla Extract",
+              "Buckwheat Flour",
+              "Buckwheat Noodles",
               "Chinotto Extract",
               "Birch Extract",
               "Ginger Extract",
@@ -97,9 +127,10 @@
             },
             {
             "ItemType": "Object",
-            "MaxNumItemsSoldInItemStock": 2,
+            "MaxNumItemsSoldInItemStock": 3,
             "JAPacks": [
                 "Ritsune.ChocolatierJA",
+                "KAYA.CherryBlossomCafe",
               ],
             "When": [ 
                 "!z spring",
@@ -166,7 +197,6 @@
       },
       {
           "ItemType": "Object",
-          "StockPrice": 500,
           "MaxNumItemsSoldInItemStock": 3,
           "ItemNames": [
           	"Alpaca Meat",
@@ -178,7 +208,10 @@
           	"Reptile Meat",
           	"Turkey",
           	"Venison",
-            "Wild Boar Meat"
+            "Wild Boar Meat",
+            "Bird Meat",
+            "Horse Meat",
+            "Critter Meat"
           ],
       },
       {
@@ -210,6 +243,8 @@
             "Hadi.FrozenTreatsJA",
             "Ritsune.ChocolatierJA",
             "Ivycrowned.JARealisticLooms",
+            "KAYA.JACandyMachine",
+            "KAYA.JAMoreMead",
           ],
         },
          {
@@ -226,6 +261,8 @@
             "Hadi.FrozenTreatsJA",
             "Ritsune.ChocolatierJA",
             "Ivycrowned.JARealisticLooms",
+            "KAYA.JACandyMachine",
+            "KAYA.JAMoreMead",
           ],
         },
         {

@@ -2,7 +2,7 @@
   "mergeMaps": [
     {
       "name": "Town",
-      "file": "assets/RecipeShop.tmx",
+      "file": "assets/RecipeShop.tbin",
       "sourceArea": [ 0, 0, 4, 4 ],
       "position": [ 86, 89 ],
       "conditions": "z summer/d Sat Sun",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Town",
-      "file": "assets/RecipeShop_Saturday.tmx",
+      "file": "assets/RecipeShop_Saturday.tbin",
       "sourceArea": [ 0, 0, 4, 4 ],
       "position": [ 86, 89 ],
       "conditions": "z summer/d Mon Tue Wed Thu Fri",
@@ -18,7 +18,7 @@
     },
   	{
       "name": "Desert",
-      "file": "assets/RecipeShopSummer.tmx",
+      "file": "assets/RecipeShopSummer.tbin",
       "sourceArea": [ 0, 0, 4, 2 ],
       "position": [ 5, 20 ],
       "conditions": "z spring/z fall/z winter/d Sat Sun",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Desert",
-      "file": "assets/RecipeShopSummer_Saturday.tmx",
+      "file": "assets/RecipeShopSummer_Saturday.tbin",
       "sourceArea": [ 0, 0, 4, 2 ],
       "position": [ 5, 20 ],
       "conditions": "z spring/z fall/z winter/d Mon Tue Wed Thu Fri",
