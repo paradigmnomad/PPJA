@@ -19,21 +19,9 @@
             "Count": 1,
         },
         {
-            "Object": 340,
+            "Object": "Seasonings",
             "Count": 1,
-        },
-        {
-            "Object": 248,
-            "Count": 1,
-        },
-        {
-            "Object": "Ginger",
-            "Count": 1,
-        },
-        {
-            "Object": 419,
-            "Count": 1,
-        }],
+        },],
         "IsDefault": true,
     },
     "CanPurchase": true,
@@ -67,5 +55,9 @@
         "ru": "Жирный кусок свинины. Запекался часами и теперь готов к использованию.",
         // "tr": "",
         "zh": "一块肥美的猪肉。已经煮了好几个小时了。可以用来进一步烹饪。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]  
 }

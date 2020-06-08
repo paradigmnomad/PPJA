@@ -7,7 +7,7 @@
     "IsColored": false,
     "GiftTastes":
     {
-		"Love": ["Gregory"],
+        "Love": ["Gregory"],
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian", "Sheila"],
     },
@@ -22,14 +22,16 @@
         {
             "Object": "Seasonings",
             "Count": 1,
-        },
-        ],
+        }, ],
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 150,
     "PurchaseRequirements": null,
-  "NameLocalization": { 
-		// "es": "",
-		"ko": "구운 새고기",
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "구운 새고기",
         //"de": "",
         // "fr": "",
         // "hu": "",
@@ -53,5 +55,9 @@
         // "ru": "",
         // "tr": "",
         //"zh": "",
-    }  
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]
 }

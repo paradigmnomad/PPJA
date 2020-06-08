@@ -2,19 +2,31 @@
     // Canning Machine   
 
     {
-        "ProducerName": "Canning Machine",
-        "InputIdentifier": "-79",
+        "ProducerName": "Canning Machine", // Canned Fish
+        "InputIdentifier": "-4",
         "InputStack": 1,
-        "ExcludeIdentifiers": ["398"],
         "MinutesUntilReady": 2250,
-        "OutputIdentifier": "Dried Fruit",
+        "OutputIdentifier": "Canned Fish",
         "OutputName": "Canned {inputName}",
-        "OutputTranslationKey": "CanningMachine.Fish",
+        "OutputTranslationKey": "CanningMachine.CannedProduct",
         "InputPriceBased": true,
         "OutputPriceIncrement": 0,
         "OutputPriceMultiplier": 2,
         "Sounds": ["Ship"],
     },
+    {
+        "ProducerName": "Canning Machine", // Canned Meat
+        "InputIdentifier": "cooked_meat",
+        "InputStack": 1,
+        "MinutesUntilReady": 2250,
+        "OutputIdentifier": "Canned Meat",
+        "OutputName": "Canned {inputName}",
+        "OutputTranslationKey": "CanningMachine.CannedProduct",
+        "InputPriceBased": true,
+        "OutputPriceIncrement": 0,
+        "OutputPriceMultiplier": 2,
+        "Sounds": ["Ship"],
+    }
 
     // DNA Synthesizer
 
@@ -41,6 +53,12 @@
         "MinutesUntilReady": 2250,
         "OutputIdentifier": "Chicken DNA",
         "Sounds": ["powerup"],
+        "AdditionalOutputs": [
+        {
+            "OutputProbability": 1,
+            "OutputIdentifier": "Bird DNA",
+        },
+        ],
     },
     {
         "ProducerName": "DNA Synthesizer",
@@ -49,6 +67,12 @@
         "MinutesUntilReady": 2250,
         "OutputIdentifier": "Chicken DNA",
         "Sounds": ["powerup"],
+        "AdditionalOutputs": [
+        {
+            "OutputProbability": 1,
+            "OutputIdentifier": "Bird DNA",
+        },
+        ],
     },
     {
         "ProducerName": "DNA Synthesizer",
@@ -57,6 +81,12 @@
         "MinutesUntilReady": 2250,
         "OutputIdentifier": "Chicken DNA",
         "Sounds": ["powerup"],
+        "AdditionalOutputs": [
+        {
+            "OutputProbability": 1,
+            "OutputIdentifier": "Bird DNA",
+        },
+        ],
     },
     {
         "ProducerName": "DNA Synthesizer",
@@ -65,6 +95,12 @@
         "MinutesUntilReady": 2250,
         "OutputIdentifier": "Chicken DNA",
         "Sounds": ["powerup"],
+        "AdditionalOutputs": [
+        {
+            "OutputProbability": 1,
+            "OutputIdentifier": "Bird DNA",
+        },
+        ],
     },
     {
         "ProducerName": "DNA Synthesizer",
@@ -73,6 +109,12 @@
         "MinutesUntilReady": 2250,
         "OutputIdentifier": "Duck DNA",
         "Sounds": ["powerup"],
+        "AdditionalOutputs": [
+        {
+            "OutputProbability": 1,
+            "OutputIdentifier": "Bird DNA",
+        },
+        ],
     },
     {
         "ProducerName": "DNA Synthesizer",

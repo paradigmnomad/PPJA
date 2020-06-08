@@ -19,21 +19,9 @@
             "Count": 1,
         },
         {
-            "Object": 248,
+            "Object": "Seasonings",
             "Count": 1,
-        },
-        {
-            "Object": 419,
-            "Count": 1,
-        },
-        {
-            "Object": 192,
-            "Count": 1,
-        },
-        {
-            "Object": "Carrot",
-            "Count": 1,
-        }],
+        },],
         "IsDefault": true,
     },
     "CanPurchase": true,
@@ -67,5 +55,9 @@
         "ru": "Нежная вырезка из козьего мяса, готовая к использованию в рецепте.",
         // "tr": "",
         "zh": "一种从山羊身上切下来的瘦肉，已经煮熟并准备用于食谱中。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]
 }

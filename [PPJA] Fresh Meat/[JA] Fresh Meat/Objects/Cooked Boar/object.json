@@ -23,7 +23,10 @@
             "Count": 1,
         }, ],
     },
-
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 125,
+    "PurchaseRequirements": null,
     "NameLocalization":
     {
         // "es": "",
@@ -51,5 +54,9 @@
         // "ru": "",
         // "tr": "",
          "zh": "一块煮熟的野猪肉，可在食谱中使用。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]  
 }

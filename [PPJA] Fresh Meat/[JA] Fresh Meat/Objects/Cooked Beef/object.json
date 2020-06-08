@@ -19,17 +19,9 @@
             "Count": 1,
         },
         {
-            "Object": "Ginger",
+            "Object": "Seasonings",
             "Count": 1,
-        },
-        {
-            "Object": 247,
-            "Count": 1,
-        },
-        {
-            "Object": 399,
-            "Count": 1,
-        }],
+        },],
         "IsDefault": true,
     },
     "CanPurchase": true,
@@ -63,5 +55,9 @@
         "ru": "Толстый, сочный кусок говядины, готовый к использованию в рецептах.",
         // "tr": "",
         "zh": "一块又厚又多汁的牛肉，已经煮熟，可以用于烹饪。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]
 }

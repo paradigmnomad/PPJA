@@ -23,9 +23,10 @@
             "Count": 1,
         }, ],
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 200,
     "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
@@ -53,5 +54,9 @@
         // "ru": "",
         // "tr": "",
          "zh": "一种绿龙的肉排，已经烹调好，可以在食谱中使用。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]  
 }

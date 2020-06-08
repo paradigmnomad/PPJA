@@ -3,7 +3,7 @@
     "Description": "A machine used for pressing animal DNA into meat.",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveExtraIndexCount": 7,
+    "ReserveExtraIndexCount": 6,
     "Recipe":
     {
         "ResultCount": 1,

@@ -23,9 +23,10 @@
             "Count": 1,
         }, ],
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 200,
     "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
@@ -53,5 +54,9 @@
         // "ru": "",
         // "tr": "",
          "zh": "从羊驼身上取下的肉排，已煮熟，可用于进一步烹调。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]
 }

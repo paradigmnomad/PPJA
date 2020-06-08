@@ -1,0 +1,960 @@
+{
+    "Format": "1.13",
+    "ConfigSchema":
+    {
+        "EnableAlpacaVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        /*"EnableBeastVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },*/
+        "EnableBeefVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "CowColor":
+        {
+            "AllowValues": "brown, white",
+            "Default": "white",
+        },
+        "EnableBirdVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnableBisonVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnableChevonVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnableChickenVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "ChickenColor":
+        {
+            "AllowValues": "brown, white, blue, void",
+            "Default": "brown",
+        },   
+        "EnableDragonVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },     
+        "EnableDuckVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnableFowlVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnableMuttonVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnablePhoenixVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnablePorkVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnableRabbitVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnableReptileVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnableTurkeyVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnableVenisonVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnableWildBoarVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+    },
+    "Changes": [
+
+        // Alpaca
+
+        {
+            "LogName": "Animated Alpaca",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Alpaca}}",
+            "FromFile": "assets/Alpaca/AlpacaAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Alpaca}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Alpaca}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableAlpacaVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Alpaca",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Alpaca}}",
+            "FromFile": "assets/Alpaca/Alpaca.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Alpaca}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Alpaca}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableAlpacaVariant": "static",
+            },
+        },
+
+        // Beast
+
+        // Beef
+
+        {
+            "LogName": "Animated Beef",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Beef}}",
+            "FromFile": "assets/Beef/{{CowColor}}CowAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Beef}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Beef}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableBeefVariant": "animated",
+                "CowColor": "white, brown",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Beef",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Beef}}",
+            "FromFile": "assets/Beef/{{CowColor}}Cow.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Beef}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Beef}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableBeefVariant": "static",
+                "CowColor": "white, brown"
+            },
+        },
+
+        // Bird
+
+        {
+            "LogName": "Animated Bird",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Bird}}",
+            "FromFile": "assets/Bird/BirdAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Bird}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Bird}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableBirdVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Bird",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Bird}}",
+            "FromFile": "assets/Bird/Bird.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Bird}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Bird}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableBirdVariant": "static",
+            },
+        },
+
+        // Bison
+
+        {
+            "LogName": "Animated Bison",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Bison}}",
+            "FromFile": "assets/Bison/BisonAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Bison}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Bison}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableBisonVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Bison",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Bison}}",
+            "FromFile": "assets/Bison/Bison.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Bison}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Bison}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableBisonVariant": "static",
+            },
+        },
+
+        // Chevon
+
+        {
+            "LogName": "Animated Chevon",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Chevon}}",
+            "FromFile": "assets/Chevon/ChevonAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Chevon}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Chevon}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableChevonVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Chevon",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Chevon}}",
+            "FromFile": "assets/Chevon/Chevon.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Chevon}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Chevon}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableChevonVariant": "static",
+            },
+        },
+
+        // Chicken
+
+        {
+            "LogName": "Animated Chicken",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Chicken}}",
+            "FromFile": "assets/Chicken/{{ChickenColor}}ChickenAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Chicken}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Chicken}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableChickenVariant": "animated",
+                "ChickenColor": "white, brown, blue, void",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Chicken",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Chicken}}",
+            "FromFile": "assets/Chicken/{{ChickenColor}}Chicken.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Chicken}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Chicken}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableChickenVariant": "static",
+                "ChickenColor": "white, brown, blue, void"
+            },
+        },
+
+        // Dragon
+
+        {
+            "LogName": "Animated Dragon",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Dragon}}",
+            "FromFile": "assets/Dragon/DragonAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Dragon}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Dragon}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableDragonVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Dragon",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Dragon}}",
+            "FromFile": "assets/Dragon/Dragon.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Dragon}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Dragon}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableDragonVariant": "static",
+            },
+        },
+
+        // Duck
+
+        {
+            "LogName": "Animated Duck",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Duck}}",
+            "FromFile": "assets/Duck/DuckAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Duck}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Duck}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableDuckVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Duck",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Duck}}",
+            "FromFile": "assets/Duck/Duck.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Duck}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Duck}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableDuckVariant": "static",
+            },
+        },
+
+        // Fowl
+
+        {
+            "LogName": "Animated Fowl",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Fowl}}",
+            "FromFile": "assets/Fowl/FowlAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Fowl}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Fowl}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableFowlVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Fowl",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Fowl}}",
+            "FromFile": "assets/Fowl/Fowl.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Fowl}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Fowl}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableFowlVariant": "static",
+            },
+        },
+
+        // Frog
+
+        {
+            "LogName": "Animated Frog",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Frog}}",
+            "FromFile": "assets/Frog/FrogAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Frog}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Frog}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableFrogVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Frog",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Frog}}",
+            "FromFile": "assets/Frog/Frog.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Frog}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Frog}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableFrogVariant": "static",
+            },
+        },
+
+        // Mutton
+
+        {
+            "LogName": "Animated Mutton",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Mutton}}",
+            "FromFile": "assets/Mutton/MuttonAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Mutton}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Mutton}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableMuttonVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Mutton",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Mutton}}",
+            "FromFile": "assets/Mutton/Mutton.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Mutton}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Mutton}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableMuttonVariant": "static",
+            },
+        },
+
+        // Phoenix
+
+        {
+            "LogName": "Animated Phoenix",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Phoenix}}",
+            "FromFile": "assets/Phoenix/PhoenixAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Phoenix}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Phoenix}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnablePhoenixVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Phoenix",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Phoenix}}",
+            "FromFile": "assets/Phoenix/Phoenix.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Phoenix}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Phoenix}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnablePhoenixVariant": "static",
+            },
+        },
+
+        // Pork
+
+        {
+            "LogName": "Animated Pork",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Pork}}",
+            "FromFile": "assets/Pork/PorkAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Pork}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Pork}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnablePorkVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Pork",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Pork}}",
+            "FromFile": "assets/Pork/Pork.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Pork}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Pork}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnablePorkVariant": "static",
+            },
+        },
+
+        // Rabbit
+
+        {
+            "LogName": "Animated Rabbit",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Rabbit}}",
+            "FromFile": "assets/Rabbit/RabbitAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Rabbit}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Rabbit}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableRabbitVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Rabbit",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Rabbit}}",
+            "FromFile": "assets/Rabbit/Rabbit.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Rabbit}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Rabbit}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableRabbitVariant": "static",
+            },
+        },
+
+        // Reptile
+
+        {
+            "LogName": "Animated Reptile",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Reptile}}",
+            "FromFile": "assets/Reptile/ReptileAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Reptile}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Reptile}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableReptileVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Reptile",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Reptile}}",
+            "FromFile": "assets/Reptile/Reptile.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Reptile}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Reptile}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableReptileVariant": "static",
+            },
+        },
+
+        // Turkey
+
+        {
+            "LogName": "Animated Turkey",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Turkey}}",
+            "FromFile": "assets/Turkey/TurkeyAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Turkey}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Turkey}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableTurkeyVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Turkey",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Turkey}}",
+            "FromFile": "assets/Turkey/Turkey.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Turkey}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Turkey}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableTurkeyVariant": "static",
+            },
+        },
+
+        // Venison
+
+        {
+            "LogName": "Animated Venison",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Venison}}",
+            "FromFile": "assets/Venison/VenisonAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Venison}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Venison}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableVenisonVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Venison",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Venison}}",
+            "FromFile": "assets/Venison/Venison.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Venison}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Venison}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableVenisonVariant": "static",
+            },
+        },
+
+        // Wild Boar
+
+        {
+            "LogName": "Animated Wild Boar",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Wild Boar}}",
+            "FromFile": "assets/WildBoar/WildBoarAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Wild Boar}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Wild Boar}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableWildBoarVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Wild Boar",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Wild Boar}}",
+            "FromFile": "assets/WildBoar/WildBoar.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Wild Boar}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Wild Boar}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableWildBoarVariant": "static",
+            },
+        },
+    ]
+}

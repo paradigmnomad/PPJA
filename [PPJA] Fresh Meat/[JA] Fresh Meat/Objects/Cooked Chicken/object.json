@@ -19,11 +19,7 @@
             "Count": 1,
         },
         {
-            "Object": 306,
-            "Count": 1,
-        },
-        {
-            "Object": 248,
+            "Object": "Seasonings",
             "Count": 1,
         }, ],
         "IsDefault": true,
@@ -59,5 +55,9 @@
         "ru": "Зажаренная целиком курица гриль, готовая для использования в рецептах.",
         // "tr": "",
         "zh": "一整只熟鸡，可以用于烹饪。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]  
 }

@@ -7,15 +7,16 @@
     "IsColored": false,
     "GiftTastes":
     {
-		"Love": ["Gregory"],
+        "Love": ["Gregory"],
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian", "Sheila"],
     },
     "Recipe": null,
     "PurchasePrice": 175,
-  "NameLocalization": { 
-		// "es": "",
-		"ko": "크리쳐 고기",
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "크리쳐 고기",
         //"de": "",
         // "fr": "",
         // "hu": "",
@@ -39,5 +40,6 @@
         // "ru": "",
         // "tr": "",
         //"zh": "",
-    }  
+    },
+    "EnableWithMod": "spacechase0.BugNet",
 }

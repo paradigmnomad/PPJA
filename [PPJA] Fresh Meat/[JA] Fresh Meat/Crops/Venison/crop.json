@@ -1,7 +1,7 @@
 {
-    "Name": "Vension",
-    "Product": "Vension Meat",
-    "SeedName": "Vension Seeds",
+    "Name": "Venison",
+    "Product": "Venison",
+    "SeedName": "Venison Seeds",
     "SeedDescription": "Plant these in spring or summer. Takes 8 days to mature.",
     "Type": "ArtisanGoods",
     "Seasons": ["spring", "summer"],

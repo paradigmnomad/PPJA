@@ -11,8 +11,7 @@
         "Hate": ["Sebastian"],
     },
     "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-    
+    "PurchaseRequirements": null,    
     "NameLocalization":
     {
         // "es": "",

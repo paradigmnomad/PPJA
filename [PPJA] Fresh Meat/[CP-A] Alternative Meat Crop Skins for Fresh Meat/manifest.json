@@ -1,0 +1,26 @@
+{
+  "Name": "Alternative Meat Crop Skins for Fresh Meat",
+  "Author": "Project Populate Json Assets",
+  "Version": "1.0.3",
+  "Description": "Adds alternative skins for meat crops. Animated Crops require CPA.",
+  "UniqueID": "ppja.freshmeatCPA",
+  "MinimumApiVersion": "2.11.2",
+  "UpdateKeys": [ "Nexus:" ],
+"Dependencies": [
+   {
+      "UniqueID": "spacechase0.ContentPatcherAnimations",
+      "IsRequired": false,
+   },
+   {
+        "UniqueID": "spacechase0.JsonAssets",
+        "IsRequired": true,
+    },
+    {
+      "UniqueID": "paradigmnomad.freshmeat",
+      "IsRequired": true,
+    },
+],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+  }
+}

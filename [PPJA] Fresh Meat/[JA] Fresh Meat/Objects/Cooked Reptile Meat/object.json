@@ -23,9 +23,10 @@
             "Count": 1,
         }, ],
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 200,
     "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
@@ -53,5 +54,9 @@
         // "ru": "",
         // "tr": "",
          "zh": "来自爬行动物的肉，已经煮熟，可以用于烹饪。尝起来味道像鸡肉。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]  
 }

@@ -19,11 +19,7 @@
             "Count": 1,
         },
         {
-            "Object": 340,
-            "Count": 1,
-        },
-        {
-            "Object": 248,
+            "Object": "Seasonings",
             "Count": 1,
         }, ],
         "IsDefault": true,
@@ -59,5 +55,9 @@
         "ru": "Голень утки, готовая для использования в рецептах.",
         // "tr": "",
         "zh": "鸭子的腿，刚从烤箱里拿出来，可以用于进一步烹饪。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]  
 }

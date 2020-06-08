@@ -23,10 +23,10 @@
             "Count": 1,
         }, ],
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 200,
     "PurchaseRequirements": null,
-
-
     "NameLocalization":
     {
         // "es": "",
@@ -54,5 +54,9 @@
         // "ru": "",
         // "tr": "",
          "zh": "从水牛身上取下的肉，已经煮熟，可以用于进一步烹调。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]  
 }

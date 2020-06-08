@@ -3,7 +3,7 @@
     "Description": "Used for canning mostly seafood.",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveExtraIndexCount": 7,
+    "ReserveExtraIndexCount": 6,
     "Recipe":
     {
         "ResultCount": 1,

@@ -3,7 +3,7 @@
     "Description": "It's the most high-tech machine on the farm. Use it to create animal DNA from products.",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveExtraIndexCount": 7,
+    "ReserveExtraIndexCount": 6,
     "Recipe":
     {
         "ResultCount": 1,

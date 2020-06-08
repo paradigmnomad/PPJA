@@ -1,0 +1,11 @@
+{
+  "EnableBeefVariant": "animated",
+  "CowColor": "white",
+  "EnableChickenVariant": "animated",
+  "ChickenColor": "brown",
+  "EnableChevonVariant": "animated",
+  "EnableDuckVariant": "animated",
+  "EnableMuttonVariant": "animated",
+  "EnablePorkVariant": "animated",
+  "EnableRabbitVariant": "static"
+}
