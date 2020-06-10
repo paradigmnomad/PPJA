@@ -36,7 +36,7 @@
 
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Sopa de guisantes",
         "ko": "콩 수프",
         "de": "Erbsensuppe",
          // "fr": "",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Un alimento simple y basico",
         "ko": "주식으로 먹습니다.",
         "de": "Ein einfaches Grundnahrungsmittel.",
          // "fr": "",
