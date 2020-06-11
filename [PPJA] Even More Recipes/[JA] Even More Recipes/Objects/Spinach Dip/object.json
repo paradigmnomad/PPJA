@@ -36,7 +36,7 @@
 
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Salsa de Espinaca",
         "ko": "시금치 딥",
         "de": "Spinatdip",
          // "fr": "",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Para tus papas fritas!",
         "ko": "칩에 찍어 드세요!",
         "de": "Wie gemacht für Chips.",
          // "fr": "",

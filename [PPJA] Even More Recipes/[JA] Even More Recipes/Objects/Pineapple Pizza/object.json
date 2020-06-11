@@ -36,7 +36,7 @@
 
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Pizza de Piña",
         "ko": "파인애플 피자",
         "de": "Pizza Hawaii",
          // "fr": "",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Popular en areas tropicales",
         "ko": "열대지방에서 인기가 있습니다.",
         "de": "Beliebt in tropischen Gebieten aber auch Deutschland.",
          // "fr": "",
