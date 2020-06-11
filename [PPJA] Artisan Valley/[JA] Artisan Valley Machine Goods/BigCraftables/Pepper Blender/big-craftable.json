@@ -25,7 +25,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Licuadora de pimienta",
         "ko": "고추 믹서기",
         "de": "Pfeffermixer",
         // "fr": "",
@@ -39,7 +39,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Mezcla pimientos en un delicioso líquido picante",
         "ko": "고추를 갈아 맛있고 매운 추출액을 만들 수 있습니다.",
         "de": "Mixt Pfeffer zu einer leckeren, scharfen Flüssigkeit.",
         // "fr": "",
