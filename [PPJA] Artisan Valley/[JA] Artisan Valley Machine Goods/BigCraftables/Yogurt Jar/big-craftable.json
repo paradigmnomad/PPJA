@@ -25,7 +25,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Tarro de Yogurt",
         "ko": "요거트 단지",
         "de": "Joghurtglas",
         // "fr": "",
@@ -39,7 +39,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un tarro para permitir que la leche fermente en yogurt",
         "ko": "우유를 요거트로 발효시키는 단지.",
         "de": "Ein großes Glas, um Milk zu Joghurt zu fermentieren.",
         // "fr": "",
