@@ -24,7 +24,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Infusor",
         "ko": "인퓨저",
         "de": "Infusor",
         // "fr": "",
@@ -38,7 +38,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un aparato químico utilizado para infundir sabores en vodka, haciendo licores y aguardiente.",
         "ko": "보드카에 향미를 주입하기 위해 사용되는 화학 장치. 리큐어와 슈냅스를 만들 수 있습니다.",
         "de": "Ein Apparat, der dazu genutzt wird, Wodka Geschmack zu geben, um Likör und Schnäpse herzustellen.",
         // "fr": "",
