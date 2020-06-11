@@ -25,7 +25,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Barril de Cera",
         "ko": "밀랍통",
         "de": "Wachstonne",
         // "fr": "",
@@ -39,7 +39,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Barril para convertir la cera en velas.",
         "ko": "디핑 캔들을 만들기 위한 통.",
         "de": "Eine Tonne, um Kerzen zu ziehen.",
         // "fr": "",
