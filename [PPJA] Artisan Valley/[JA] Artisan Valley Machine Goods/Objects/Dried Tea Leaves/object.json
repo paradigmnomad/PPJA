@@ -13,7 +13,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Hojas de té secas",
         "ko": "말린 찻잎",
         // "de": "",
         // "fr": "",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una bolsita de té lista para colocar en agua caliente",
         "ko": "뜨거운 물에 넣을 준비가 된 티백.",
         // "de": "",
         // "fr": "",
