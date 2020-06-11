@@ -20,7 +20,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Mantequera",
         "ko": "버터 교반기",
         "de": "Butterfass",
         // "fr": "",
@@ -34,7 +34,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Convierte la leche o las nueces en mantequilla",
         "ko": "우유나 견과류를 버터로 만들어줍니다.",
         "de": "Stampft Milch oder Nüsse zu Butter.",
         // "fr": "",
