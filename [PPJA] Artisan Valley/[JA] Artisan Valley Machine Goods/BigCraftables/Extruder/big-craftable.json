@@ -25,7 +25,7 @@
     },
     "NameLocalization":
     {
-        "es": "Extrusora",
+        "es": "",
         "ko": "압출기",
         "de": "Strangpresse",
         // "fr": "",
@@ -39,7 +39,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "¡Convierte la harina en fideos y la miel en cera!",
+        "es": "",
         "ko": "밀가루를 국수로, 꿀을 밀랍으로 만들어줍니다.",
         "de": "Verarbeitet Mehl zu Nudeln und Honig zu Wachs!",
         // "fr": "",
