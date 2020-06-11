@@ -36,7 +36,7 @@
 
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Framboise Lambic",
         "ko": "프랑부아즈 람빅",
         //"de": "",
         // "fr": "",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Una cerveza elaborada con frambuesas.",
         "ko": "라즈베리로 만든 맥주.",
         //"de": "",
         // "fr": "",
