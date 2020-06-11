@@ -25,7 +25,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Maquina de helado",
         "ko": "아이스크림 머신",
         "de": "Eiscreme-Maschine",
         // "fr": "",
@@ -40,7 +40,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una máquina para hacer deliciosos helados en casa",
         "ko": "맛있는 아이스크림을 만드는 기계.",
         "de": "Eine Maschine, mit der man zuhause köstliche Eiscreme machen kann.",
         // "fr": "",
