@@ -36,7 +36,7 @@
 
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Cointreau",
         "ko": "쿠앵트로",
         //"de": "",
         // "fr": "",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Un licor fuerte hecho de naranjas.",
         "ko": "오렌지로 만든 독한 술.",
         //"de": "",
         // "fr": "",
