@@ -24,7 +24,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Alambique",
         "ko": "증류기",
         "de": "Destilliergefäß",
         // "fr": "",
@@ -38,7 +38,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Destila flores, frutas, hierbas y vegetales en aceites esenciales",
         "ko": "꽃, 과일, 허브 및 야채를 에센셜 오일로 증류시킵니다.",
         "de": "Destilliert Blumen, Früchte, Gewürze und Gemüse und erschafft ätherisches Öl.",
         // "fr": "",
