@@ -14,7 +14,7 @@
 
     "NameLocalization":
     {
-        //"es": "",
+        "es": "cáscara de naranja",
         "ko": "오렌지 껍질",
         //"de": "",
         // "fr": "",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "La guarnición picante perfecta",
         "ko": "아주 향기로운 껍질.",
         //"de": "",
         // "fr": "",
