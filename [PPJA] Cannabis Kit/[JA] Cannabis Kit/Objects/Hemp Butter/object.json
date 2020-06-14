@@ -14,7 +14,7 @@
     "NameLocalization":
     {
          "es": "Manteca de Cañamo",
-         // "ko": "",
+         "ko": "대마 버터",
          "de": "Hanfbutter",
          // "fr": "",
          // "hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
          "es": "Una manteca cacera con cáñamo de Cannabis añadido.",
-         // "ko": "",
+         "ko": "대마가 첨가 된 수제 버터.",
          "de": "Eine hausgemachte Butter mit Hanf.",
          // "fr": "",
          // "hu": "",

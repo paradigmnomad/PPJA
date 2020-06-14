@@ -9,7 +9,7 @@
     "NameLocalization":
     {
          "es": "Tabaco",
-         // "ko": "",
+         "ko": "담배",
          "de": "Tabak",
          // "fr": "",
          // "hu": "",
@@ -23,7 +23,7 @@
     "DescriptionLocalization":
     {
          "es": "Una planta que ha sido cultivada para fumar.",
-         // "ko": "",
+         "ko": "흡연 목적으로 재배된 식물.",
          "de": "Eine Pflanze, die zu Räucherzwecken kultiviert wurde",
          // "fr": "",
          // "hu": "",

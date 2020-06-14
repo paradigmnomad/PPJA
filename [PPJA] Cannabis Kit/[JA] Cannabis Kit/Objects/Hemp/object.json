@@ -15,7 +15,7 @@
     "NameLocalization":
     {
          "es": "Cañamo",
-         // "ko": "",
+         "ko": "삼",
          "de": "Hanf",
          // "fr": "",
          // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
          "es": "Una variante de las especies sativas con a nada THC, el cañamo puede ser usado en una variedad de entornos industriales.",
-         // "ko": "",
+         "ko": "사티바 종의 변종이면서 THC가 거의 없거나 전혀없는 삼은 다양한 산업 환경에서 사용될 수 있습니다.",
          "de": "Hanf ist eine Variante der Sativa-Art mit wenig bis gar keinem THC und kann in einer Vielzahl von industriellen Umgebungen eingesetzt werden.",
          // "fr": "",
          // "hu": "",

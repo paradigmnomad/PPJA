@@ -15,7 +15,7 @@
     "NameLocalization":
     {
          "es": "Paño de cañamo",
-         // "ko": "",
+         "ko": "삼베",
          "de": "Hanf Kleidung",
          // "fr": "",
          // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
          "es": "Un tipo sustentable de paño.",
-         // "ko": "",
+         "ko": "보다 지속 가능한 유형의 천.",
          "de": "Eine nachhaltigere Art von Stoff.",
          // "fr": "",
          // "hu": "",

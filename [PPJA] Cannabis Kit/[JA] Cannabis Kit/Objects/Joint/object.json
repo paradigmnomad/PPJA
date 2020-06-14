@@ -43,7 +43,7 @@
     "NameLocalization":
     {
          "es": "Porro",
-         // "ko": "",
+         "ko": "조인트",
          "de": "Joint",
          // "fr": "",
          // "hu": "",
@@ -57,7 +57,7 @@
     "DescriptionLocalization":
     {
          "es": "También Podrías...",
-         // "ko": "",
+         "ko": "말아서 씁니다.",
          "de": "Warum nicht",
          // "fr": "",
          // "hu": "",

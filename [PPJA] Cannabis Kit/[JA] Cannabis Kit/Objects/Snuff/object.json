@@ -9,7 +9,7 @@
     "NameLocalization":
     {
         "es": "Snuff",
-        // "ko": "",
+        "ko": "코담배",
         "de": "Schnupftabak",
         // "fr": "",
         // "hu": "",
@@ -23,7 +23,7 @@
     "DescriptionLocalization":
     {
         "es": "Bueno para hacer cigarros y fumarlos sólo.",
-        // "ko": "",
+        "ko": "마리화나 담배를 만들고 혼자 흡연하기에 좋습니다.",
         "de": "Gut um alleine zu Rauchen und Spaß zu haben",
         // "fr": "",
         // "hu": "",

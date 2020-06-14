@@ -50,7 +50,7 @@
     "NameLocalization":
     {
         "es": "Skooma infuso con hierba",
-        // "ko": "",
+        "ko": "대마 스쿠마",
         "de": "Weed-Infused Skooma",
         // "fr": "",
         // "hu": "",
@@ -64,7 +64,7 @@
     "DescriptionLocalization":
     {
         "es": "Proviene de una tierra llena de dragones.",
-        // "ko": "",
+        "ko": "용으로 가득한 땅에서 나옵니다.",
         "de": "Es kommt aus einem Land voller Drachen.",
         // "fr": "",
         // "hu": "",

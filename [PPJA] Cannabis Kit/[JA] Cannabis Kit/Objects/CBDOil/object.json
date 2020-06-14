@@ -16,7 +16,7 @@
     "NameLocalization":
     {
         "es": "Aceite CBD",
-        // "ko": "",
+        "ko": "CBD 오일",
         "de": "Cannabis",
         // "fr": "",
         // "hu": "",
@@ -30,7 +30,7 @@
     "DescriptionLocalization":
     {
         "es": "Un aceite con maravillosos beneficios para la salud.",
-        // "ko": "",
+        "ko": "건강에 유익한 오일.",
         "de": "Pelican Town hat vor kurzem Cannabis leagalisiert, Pierre verkauft jetzt Samen mit einer Prämie.",
         // "fr": "",
         // "hu": "",

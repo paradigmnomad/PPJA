@@ -17,7 +17,7 @@
     "NameLocalization":
     {
          "es": "Cannabis",
-         // "ko": "",
+         "ko": "대마초",
          "de": "CBD Öl",
          // "fr": "",
          // "hu": "",
@@ -31,7 +31,7 @@
     "DescriptionLocalization":
     {
          "es": "Pueblo Pelicano ha legalizado el cannabis recientemente, ahora Pierre vende las semillas aun precio superior.",
-         // "ko": "",
+         "ko": "펠리칸 타운은 최근 대마초를 재배하기 시작했으며, 현재 피에르는 씨앗을 프리미엄 상품으로 판매합니다.",
          "de": "Ein Öl mit wunderbaren gesundheitlichen Vorteilen.",
          // "fr": "",
          // "hu": "",

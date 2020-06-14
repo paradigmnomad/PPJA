@@ -46,7 +46,7 @@
     "NameLocalization":
     {
          "es": "Palo de Miel",
-         // "ko": "",
+         "ko": "허니 스틱",
          "de": "Honigstangeg",
          // "fr": "",
          // "hu": "",
@@ -60,7 +60,7 @@
     "DescriptionLocalization":
     {
          "es": "Dulce y pegajosa miela.",
-         // "ko": "",
+         "ko": "달콤하고 끈적 끈적한 꿀.",
          "de": "Süßer, klebriger Honig",
          // "fr": "",
          // "hu": "",

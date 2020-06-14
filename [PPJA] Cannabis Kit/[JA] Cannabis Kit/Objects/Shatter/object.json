@@ -26,7 +26,7 @@
     "NameLocalization":
     {
         "es": "Destrozador",
-        // "ko": "",
+        "ko": "대마유 농축액",
         "de": "Shatter",
         // "fr": "",
         // "hu": "",
@@ -40,7 +40,7 @@
     "DescriptionLocalization":
     {
         "es": "Un tipo de concentrado de cannabis, una suave y brillante sustancia que es mucho más potente cuando se fuma.",
-        // "ko": "",
+        "ko": "대마초 농축액의 일종으로, 매끄럽고 유리같은 물질로 흡연시 훨씬 더 강력합니다.",
         "de": "Eine Art von Cannabiskonzentrat, eine glatte, glasartige Substanz, die beim Rauchen wesentlich wirksamer ist.",
         // "fr": "",
         // "hu": "",
