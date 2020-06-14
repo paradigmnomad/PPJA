@@ -1,0 +1,13 @@
+{
+    "Name": "PPJA Farmer to Florist Icon Pack",
+    "Author": "ProjectPopulateJsonAssets & Kildarien",
+    "Version": "1.0.0",
+    "Description": "A collection of artisan good sprites that pair with Farmer to Floris.",
+    "UniqueID": "kildarien.farmertofloristbagi",
+    "MinimumApiVersion": "2.11.3",
+    "ContentPackFor":
+    {
+        "UniqueID": "cat.betterartisangoodicons",
+        "MinimumVersion": "1.4.0"
+    }
+}
