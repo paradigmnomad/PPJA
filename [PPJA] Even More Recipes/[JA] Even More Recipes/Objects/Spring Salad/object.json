@@ -36,7 +36,7 @@
 
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Ensalada de primavera",
         "ko": "봄 샐러드",
         "de": "Frühlingssalat",
          // "fr": "",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Una buena comida ligera",
         "ko": "근사하고 가벼운 식사.",
         "de": "Eine leichte Mahlzeit.",
          // "fr": "",

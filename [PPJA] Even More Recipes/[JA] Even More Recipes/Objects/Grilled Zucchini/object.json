@@ -27,7 +27,7 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+         "es": "Calabacin a la parrilla",
          "ko": "구운 주키니",
          "de": "Gegrillte Zucchini",
          // "fr": "",
@@ -41,7 +41,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Un plato de calabacin a la parrilla",
         "ko": "구운 주키니 한 접시.",
         "de": "Ein Teller voll gegrillter Zucchini.",
          // "fr": "",

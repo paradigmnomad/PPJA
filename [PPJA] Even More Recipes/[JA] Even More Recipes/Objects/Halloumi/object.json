@@ -36,7 +36,7 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Halloumi",
         "ko": "할루미",
         "de": "Halloumi.",
          // "fr": "",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "La mezcla chipriota clasica de leche de vaca y leche de cabra",
         "ko": "우유와 염소젖을 섞어 만든 키프로스의 치즈.",
         "de": "Der zypriotische Käseklassiker aus Kuhmilch und Ziegenmilch.",
          // "fr": "",
