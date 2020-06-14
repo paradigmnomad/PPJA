@@ -36,7 +36,7 @@
 
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Frangelico",
         "ko": "프란젤리코",
         //"de": "",
         // "fr": "",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Una bebida espíritual elaborada con avellanas, llamada así por el famoso fraile",
         "ko": "헤이즐넛에서 추출된 증류주, 유명한 수도사의 이름을 따서 만들었습니다.",
         //"de": "",
         // "fr": "",

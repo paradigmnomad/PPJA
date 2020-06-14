@@ -36,7 +36,7 @@
 
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Chambord",
         "ko": "샴보드",
         //"de": "",
         // "fr": "",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Un licor dulce destilado de frambuesas.",
         "ko": "라즈베리를 증류시켜 만든 달콤한 술.",
         //"de": "",
         // "fr": "",

@@ -22,7 +22,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Jarra de vidrio",
         "ko": "유리 항아리",
         "de": "Glaskrug",
         // "fr": "",
@@ -36,7 +36,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una jarra para fermentar bebidas no alcohólicas. Convierte champiñones y varios tés en kombucha.",
         "ko": "무알콜 음료를 발효시키는 병. 버섯과 다양한 차를 콤부차로 만들 수 있습니다.",
         "de": "Ein Krug, um nicht-alkoholische Getränke zu fermentieren. Macht aus Pilzen und verschiedenen Teesorten Kombucha. ",
         // "fr": "",

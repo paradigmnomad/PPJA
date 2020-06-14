@@ -22,7 +22,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Desidratador",
         "ko": "과일 건조기",
         "de": "Dörrgerät",
         // "fr": "",
@@ -36,7 +36,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Ponga fruta aquí para secarlos para más tarde.",
         "ko": "과일을 넣어서 건조시킬 수 있습니다.",
         "de": "Trocknet Früchte.",
         // "fr": "",

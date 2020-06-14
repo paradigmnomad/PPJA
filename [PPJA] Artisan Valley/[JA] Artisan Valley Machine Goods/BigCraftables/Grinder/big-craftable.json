@@ -29,7 +29,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Amoladora",
         "ko": "분쇄기",
         "de": "Mühle",
         // "fr": "",
@@ -43,7 +43,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Úselo para moler productos en bienes valiosos y especias.",
         "ko": "쌀을 가공하거나 농산물을 갈아서 가치있는 상품이나 향신료로 만들 수 있습니다.",
         "de": "Verabeitet Erzeugnisse zu wertvollen Gütern und Gewürzen.",
         // "fr": "",

@@ -37,7 +37,7 @@
 
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Campari",
         "ko": "캄파리",
         //"de": "",
         // "fr": "",
@@ -51,7 +51,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Un aperitivo hecho de naranja amarga",
         "ko": "광귤로 만든 식전주.",
         //"de": "",
         // "fr": "",

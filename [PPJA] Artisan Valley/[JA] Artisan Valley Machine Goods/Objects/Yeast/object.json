@@ -25,7 +25,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Levadura",
         "ko": "효모",
         "de": "Hefe",
         // "fr": "",
@@ -39,7 +39,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Útil para la fermentacion",
         "ko": "양조하는데 유용합니다.",
         "de": "Nützlich beim Brauen.",
         // "fr": "",

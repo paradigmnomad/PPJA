@@ -14,7 +14,7 @@
 
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Cáscara de lima",
         "ko": "라임 껍질",
         //"de": "",
         // "fr": "",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Una guarnicion tropical",
         "ko": "화려한 색의 껍질.",
         //"de": "",
         // "fr": "",

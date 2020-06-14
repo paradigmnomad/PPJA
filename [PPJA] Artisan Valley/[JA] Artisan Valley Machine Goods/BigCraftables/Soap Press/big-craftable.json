@@ -29,7 +29,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Prensa de Jabon",
         "ko": "비누 프레스",
         "de": "Seifenpresse",
         // "fr": "",
@@ -43,7 +43,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una prensa diseñada para moldear jabón.",
         "ko": "비누 성형을 위해 설계된 프레스.",
         "de": "Entworfen, um Seifen zu formen.",
         // "fr": "",

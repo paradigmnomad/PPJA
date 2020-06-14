@@ -25,7 +25,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Levadura de Vino",
         "ko": "포도주효모",
         "de": "Weinhefe",
         // "fr": "",
@@ -39,7 +39,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Útil para elaborar cerveza.",
         "ko": "양조하는데 유용합니다.",
         "de": "Nützlich beim Brauen.",
         // "fr": "",

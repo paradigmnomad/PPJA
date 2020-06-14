@@ -36,7 +36,7 @@
 
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Creme de Cacao",
         "ko": "크렘 드 카카오",
         //"de": "",
         // "fr": "",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Licor suave y chocolateoso",
         "ko": "부드럽고 초콜릿 향이 나는 술.",
         //"de": "",
         // "fr": "",
