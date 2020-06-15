@@ -42,7 +42,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Jaleas a la luz de la luna",
         "ko": "달빛 해파리",
         "de": "Mondschein-Gelee",
         // "fr": "",
@@ -56,7 +56,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Del Valle Stardew Pixel al menú de la Plata.",
         "ko": "스타듀 밸리 픽셀에서 플레이트 메뉴까지.",
         "de": "Aus dem Menü Stardew Valley Pixel",
         // "fr": "",
