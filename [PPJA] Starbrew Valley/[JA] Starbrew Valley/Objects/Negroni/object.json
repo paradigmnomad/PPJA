@@ -57,7 +57,7 @@
     "EnableWithMod": "MelindaC.FizzyDrinks",
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Negroni",
         "ko": "네그로니",
         //"de": "",
         // "fr": "",
@@ -71,7 +71,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Tradicionalmente servido con hielo",
         "ko": "전통적으론 얼음과 함께 나옵니다.",
         //"de": "",
         // "fr": "",

@@ -56,7 +56,7 @@
 
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Cóctel Dulce Rosa",
         "ko": "스윗 핑크 칵테일",
         //"de": "",
         // "fr": "",
@@ -70,7 +70,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Hace honor a su nombre, esto es DULCE!",
         "ko": "이름 그대로 달콤한 칵테일입니다!",
         //"de": "",
         // "fr": "",

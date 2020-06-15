@@ -64,7 +64,7 @@
 
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Cóctel Harlem Mugger",
         "ko": "할렘 머거 칵테일",
         //"de": "",
         // "fr": "",
@@ -78,7 +78,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Llamado así porque te patea la cabeza y te quita el dinero.",
         "ko": "이름 그대로, 당신의 뒷골을 짜르르하게 치고 당신의 지갑을 털어갈 것입니다.",
         //"de": "",
         // "fr": "",

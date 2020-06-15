@@ -50,7 +50,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Los calzoncillos del alcalde",
         "ko": "촌장님의 반바지",
         "de": "The Mayor's Shorts",
         // "fr": "",
@@ -64,7 +64,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Desde el Stardew Valley Pixel al menú de platos.",
         "ko": "스타듀 밸리 픽셀에서 플레이트 메뉴까지.",
         "de": "Vom Stardew Valley Pixel auf den Teller.",
         // "fr": "",
