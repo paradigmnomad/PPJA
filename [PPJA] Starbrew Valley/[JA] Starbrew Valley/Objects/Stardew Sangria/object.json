@@ -46,7 +46,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Sangria Stardew",
         "ko": "스타듀 상그리아",
         "de": "Stardew Sangria",
         // "fr": "",
@@ -60,7 +60,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Desde el Stardew Valley Pixel al menú de platos.",
         "ko": "스타듀 밸리 픽셀에서 플레이트 메뉴까지.",
         "de": "Vom Stardew Valley Pixel auf den Teller.",
         // "fr": "",
