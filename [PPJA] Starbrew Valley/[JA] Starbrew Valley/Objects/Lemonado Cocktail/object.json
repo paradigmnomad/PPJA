@@ -60,7 +60,7 @@
 
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Cóctel De Limonada",
         "ko": "레모네이드 칵테일",
         //"de": "",
         // "fr": "",
@@ -74,7 +74,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "También conocido como limonada de vodka Chambord.",
         "ko": "샹보르 보드카 레모네이드라고도 합니다.",
         //"de": "",
         // "fr": "",
