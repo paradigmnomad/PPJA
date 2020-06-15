@@ -46,7 +46,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Bebida de Esencia Sombría",
         "ko": "공허의 정수 음료",
         "de": "Void Essence Drink",
         // "fr": "",
@@ -60,7 +60,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Desde el Stardew Valley Pixel al menú de platos.",
         "ko": "스타듀 픽셀에서 플레이트 메뉴까지.",
         "de": "Vom Stardew Valley Pixel auf den Teller.",
         // "fr": "",
