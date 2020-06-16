@@ -1,7 +1,7 @@
 ﻿{
 	"Name": "[PFM] Ancient Crops - Artisan Valley Add-on",
 	"Author": "Project Populate Json Assets",
-	"Version": "2.0.2",
+	"Version": "2.1.2",
 	"Description": "Adds producing rules for Ancient Crops products to Artisan Valley machines.",
 	"UniqueID": "PPJA.AncientCropsAddOn",
 	"MinimumApiVersion": "3.0.1",
