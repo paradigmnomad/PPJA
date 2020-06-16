@@ -2,6 +2,7 @@
     "Name": "Neville's Haze",
     "Description": "Grown in the Gotoro Empire it isn't very popular in the Ferngill Republic.",
     "Category": "Flower",
+    "CategoryTextOverride": "Sativa",
     "Edibility": 18,
     "Price": 600,
     "IsColored": false,

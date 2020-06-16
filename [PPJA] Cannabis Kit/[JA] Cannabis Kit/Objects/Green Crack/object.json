@@ -2,6 +2,7 @@
     "Name": "Green Crack",
     "Description": "A combination of stimulating sativa and relaxing indica, hybrid strains are the best of both worlds.",
     "Category": "Flower",
+    "CategoryTextOverride": "Sativa",
     "Edibility": 18,
     "Price": 50,
     "IsColored": false,

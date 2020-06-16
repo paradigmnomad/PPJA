@@ -2,6 +2,7 @@
     "Name": "Malawi Gold",
     "Description": "Possibly the rarest strain in the world.",
     "Category": "Flower",
+    "CategoryTextOverride": "Sativa",
     "Edibility": 18,
     "Price": 4500,
     "IsColored": false,

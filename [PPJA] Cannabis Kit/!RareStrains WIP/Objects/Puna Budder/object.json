@@ -2,6 +2,7 @@
     "Name": "Puna Budder",
     "Description": "Even though people say this makes them chatty and giggly they don't like to tell where they got it.",
     "Category": "Flower",
+    "CategoryTextOverride": "Hybrid",
     "Edibility": 18,
     "Price": 600,
     "IsColored": false,

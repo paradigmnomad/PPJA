@@ -2,6 +2,7 @@
     "Name": "Lamb's Breath",
     "Description": "Also known as Lamb's Bread. Despite this strain being loved by a popular musician this strain it hard to come by.",
     "Category": "Flower",
+    "CategoryTextOverride": "Sativa",
     "Edibility": 18,
     "Price": 600,
     "IsColored": false,

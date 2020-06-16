@@ -2,6 +2,7 @@
     "Name": "Sour Diesel",
     "Description": "With a distinct uplifting cerebral effect, the tall sativa crop thrives in warmer climates and is great for creativity.",
     "Category": "Flower",
+    "CategoryTextOverride": "Sativa",
     "Edibility": 18,
     "Price": 30,
     "IsColored": false,

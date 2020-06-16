@@ -2,6 +2,7 @@
     "Name": "Idukki Gold",
     "Description": "Less and less people have been growing this strain making it hard to get your hands on it.",
     "Category": "Flower",
+    "CategoryTextOverride": "Hybrid",
     "Edibility": 18,
     "Price": 600,
     "IsColored": false,

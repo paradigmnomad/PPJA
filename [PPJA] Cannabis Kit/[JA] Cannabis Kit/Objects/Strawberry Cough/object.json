@@ -2,6 +2,7 @@
     "Name": "Strawberry Cough",
     "Description": "A combination of stimulating sativa and relaxing indica, hybrid strains are the best of both worlds.",
     "Category": "Flower",
+    "CategoryTextOverride": "Sativa",
     "Edibility": 10,
     "Price": 20,
     "IsColored": false,

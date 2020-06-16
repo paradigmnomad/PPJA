@@ -2,6 +2,7 @@
     "Name": "Hindu Kush",
     "Description": "A solid choice, but has fallen out of popularity due to its low amount of THC.",
     "Category": "Flower",
+    "CategoryTextOverride": "Indica",
     "Edibility": 18,
     "Price": 600,
     "IsColored": false,

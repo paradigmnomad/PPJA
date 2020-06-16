@@ -2,6 +2,7 @@
     "Name": "Northern Lights",
     "Description": "This short, bushy plant is ideal for full body relaxation with its high resin production and short flowering time.",
     "Category": "Flower",
+    "CategoryTextOverride": "Indica",
     "Edibility": 18,
     "Price": 20,
     "IsColored": false,

@@ -1,0 +1,25 @@
+{
+  "Name": "[CP] Hybrid Strains Data - For Cannabis Kit",
+  "Description": "HCE component of Cannabis Kit. Required for hybridization.",
+  "Author": "PPJA & taintedwheat",
+  "Version": "1.0.0",
+  "MinimumApiVersion": "3.0.0",
+  "UniqueID": "ppja.cannabiskitforCP",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.14.0"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.HybridCropEngine",
+      "IsRequired": true,
+      "MinimumVersion": "1.0.0"
+    },
+    {
+      "UniqueID": "spacechase0.JsonAssets",
+      "IsRequired": true,
+      "MinimumVersion": "1.6.1"
+    }
+  ],
+  "UpdateKeys": []
+}
