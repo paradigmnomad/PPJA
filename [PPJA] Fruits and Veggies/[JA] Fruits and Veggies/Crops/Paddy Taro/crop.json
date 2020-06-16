@@ -7,9 +7,9 @@
     "CropType": "Paddy",
 
     "Seasons": ["fall"],
-    "Phases": [3, 4, 4, 3, ],
+    "Phases": [3, 4, 3, 2, 2],
     "RegrowthPhase": -1,
-    "HarvestWithScythe": true,
+    "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": null,
     "Bonus":
