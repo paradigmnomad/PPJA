@@ -1,11 +1,10 @@
 {
     "Name": "[CP] Artisan Valley",
     "Author": "Project Populate Json Assets",
-    "Version": "3.0.1",
+    "Version": "3.0.15",
     "Description": "Changes the default content tags for various items for use with PFM",
     "UniqueID": "ppja.artisanvalleyCP",
     "MinimumApiVersion": "3.2.2",
-    "UpdateKeys": [],
     "Dependencies": [
     {
         "UniqueID": "ppja.artisanvalleymachinegoods"
