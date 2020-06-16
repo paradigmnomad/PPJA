@@ -12,7 +12,7 @@
     ],
     "SaplingNameLocalization":
     {
-        //"es": "",
+        "es": "Brote de Frutipan",
         "ko": "빵나무 묘목",
         "de": "Brotfruchtbaum-Setzling",
         "fr": "Jeune arbre à pain",
@@ -26,7 +26,7 @@
     },
     "SaplingDescriptionLocalization":
     {
-        //"es": "",
+        "es": "Tarda 28 días en producir un árbol de Frutipan maduro. Da fruto en la primavera. Solo crece si las 8 casillas circundantes están vacías.",
         "ko": "28일후에 성목이 됩니다. 봄에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
         "de": "Wächst in 28 Tagen zu einem reifen Brotfruchtbaum heran. Trägt im Frühling Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
         "fr": "Il faut 28 jours pour produire un arbre à pain mature. Porte des fruits au printemps. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",

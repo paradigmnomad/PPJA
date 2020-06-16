@@ -10,7 +10,7 @@
     "SaplingPurchaseRequirements": null,
       "SaplingNameLocalization":
     {
-        //"es": "",
+        "es": "Brote de Ume",
         "ko": "매화 묘목",
         //"de": "",
         "fr": "Jeune abricotier du Japon",
@@ -24,7 +24,7 @@
     },
     "SaplingDescriptionLocalization":
     {
-        //"es": "",
+        "es": "Tarda 28 días en producir un árbol de Ume maduro. Da fruto en el verano. Solo crece si las 8 casillas circundantes están vacías",
         "ko": "28일후에 성목이 됩니다. 여름에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
         //"de": "",
         "fr": "Il faut 28 jours pour produire un abricotier du Japon mature. Porte des fruits en été. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",

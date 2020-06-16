@@ -10,7 +10,7 @@
     "SaplingPurchaseRequirements": null,
       "SaplingNameLocalization":
     {
-        //"es": "",
+        "es": "Brote de Yuzu",
         "ko": "유자 묘목",
         //"de": "",
         "fr": "Jeune citronnier yuzu",
@@ -24,7 +24,7 @@
     },
     "SaplingDescriptionLocalization":
     {
-        //"es": "",
+        "es": "Tarda 28 días en producir un árbol de Yuzu maduro. Da fruto en el invierno. Solo crece si las 8 casillas circundantes están vacías",
         "ko": "28일후에 성목이 됩니다. 겨울에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
         //"de": "",
          "fr": "Il faut 28 jours pour produire un jeune cironnier yuzu mature. Porte des fruits en hiver. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
