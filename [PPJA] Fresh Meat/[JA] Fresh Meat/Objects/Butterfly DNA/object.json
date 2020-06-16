@@ -40,5 +40,8 @@
         // "tr": "",
         // "zh": "",
     },
+    "ContextTags": [
+        "dna_item",
+    ],
     "EnableWithMod": "spacechase0.BugNet",
 }

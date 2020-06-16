@@ -12,13 +12,17 @@
     "Colors": null,
     "Bonus":
     {
-        "MinimumPerHarvest": 2,
+        "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 2,
-        "MaxIncreasePerFarmLevel": 5,
-        "ExtraChance": 0.0,
+        "MaxIncreasePerFarmLevel": 0,
+        "ExtraChance": 0.1,
     },
-    "SeedPurchasePrice": 100,
-
+    "SeedPurchasePrice": 800,
+    "SeedPurchaseFrom": "Krobus",
+    "SeedPurchaseRequirements":
+    [
+        "f Wizard 1500"
+    ],
     "SeedNameLocalization":
     {
         // "es": "",

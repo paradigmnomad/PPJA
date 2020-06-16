@@ -1,6 +1,6 @@
 {
     "Name": "Sheep Leather",
-    "Description": "A Leather of sheep.",
+    "Description": "A sheep hide that has been tanned.",
     "Category": "AnimalGoods",
     "Edibility": -300,
     "Price": 120,

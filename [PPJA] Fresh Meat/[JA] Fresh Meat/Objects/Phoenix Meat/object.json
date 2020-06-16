@@ -3,7 +3,7 @@
     "Description": "It's raw, but this meat cut from a phoenix is sizzling hot.",
     "Category": "AnimalGoods",
     "Edibility": -300,
-    "Price": 9500,
+    "Price": 450,
     "IsColored": false,
     "GiftTastes":
     {
@@ -11,9 +11,6 @@
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian", "Sheila"],
     },
-    "Recipe": null,
-	"PurchasePrice": 9750,
-
     "NameLocalization":
     {
         // "es": "",

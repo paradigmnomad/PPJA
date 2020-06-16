@@ -1,6 +1,6 @@
 {
     "Name": "Goat Leather",
-    "Description": "A Leather of goat.",
+    "Description": "A goat hide that has been tanned.",
     "Category": "AnimalGoods",
     "Edibility": -300,
     "Price": 120,

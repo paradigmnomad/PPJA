@@ -1,0 +1,62 @@
+{
+    "Name": "Spaghetti and Meatballs",
+    "Description": "A classic.",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 460,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Robin", "Lewis", "Shane", "Jas", "Marnie"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Maru", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Sebastian", "Vincent", "Wizard"],
+        "Dislike": ["Dwarf", "Willy"]
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 224,
+            "Count": 1,
+        },
+        {
+            "Object": "Beef",
+            "Count": 1,
+        },
+        {
+            "Object": "Pork",
+            "Count": 1,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

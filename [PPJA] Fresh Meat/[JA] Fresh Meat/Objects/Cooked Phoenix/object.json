@@ -2,8 +2,8 @@
     "Name": "Cooked Phoenix",
     "Description": "Blazing hot meat from a phoenix, already cooked and ready to be used in recipes.",
     "Category": "Cooking",
-    "Edibility": 60,
-    "Price": 175,
+    "Edibility": 80,
+    "Price": 1200,
     "IsColored": false,
     "GiftTastes":
     {
@@ -25,8 +25,8 @@
     },
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
+    "PurchasePrice": 2000,
+    "PurchaseRequirements": [ "f Wizard 1500"],
     "NameLocalization":
     {
         // "es": "",

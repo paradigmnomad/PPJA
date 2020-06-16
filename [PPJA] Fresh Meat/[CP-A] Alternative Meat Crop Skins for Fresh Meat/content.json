@@ -7,11 +7,11 @@
             "AllowValues": "static, animated, disabled",
             "Default": "animated"
         },
-        /*"EnableBeastVariant":
+        "EnableBeastVariant":
         {
             "AllowValues": "static, animated, disabled",
             "Default": "animated"
-        },*/
+        },
         "EnableBeefVariant":
         {
             "AllowValues": "static, animated, disabled",
@@ -58,6 +58,16 @@
             "Default": "animated"
         },
         "EnableFowlVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnableFrogVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "animated"
+        },
+        "EnableHorseVariant":
         {
             "AllowValues": "static, animated, disabled",
             "Default": "animated"
@@ -153,6 +163,51 @@
         },
 
         // Beast
+
+        {
+            "LogName": "Animated Beast",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Beast}}",
+            "FromFile": "assets/Beast/BeastAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Beast}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Beast}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 400,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableBeastVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Beast",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Beast}}",
+            "FromFile": "assets/Beast/Beast.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Beast}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Beast}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableBeastVariant": "static",
+            },
+        },
 
         // Beef
 
@@ -581,6 +636,53 @@
             },
         },
 
+        // Horse
+
+        {
+            "LogName": "Animated Horse",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Horse}}",
+            "FromFile": "assets/Horse/HorseAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Horse}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Horse}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableHorseVariant": "animated",
+                "HasMod:spacechase0.ContentPatcherAnimations": true
+            },
+        },
+        {
+            "LogName": "Horse",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Horse}}",
+            "FromFile": "assets/Horse/Horse.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Horse}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Horse}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableHorseVariant": "static",
+            },
+        },
+
         // Mutton
 
         {
@@ -916,7 +1018,7 @@
             "LogName": "Animated Wild Boar",
             "Action": "EditImage",
             "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Wild Boar}}",
-            "FromFile": "assets/WildBoar/WildBoarAnimated.png",
+            "FromFile": "assets/Wild Boar/WildBoarAnimated.png",
             "FromArea":
             {
                 "X": 0,
@@ -943,7 +1045,7 @@
             "LogName": "Wild Boar",
             "Action": "EditImage",
             "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Wild Boar}}",
-            "FromFile": "assets/WildBoar/WildBoar.png",
+            "FromFile": "assets/Wild Boar/WildBoar.png",
             "ToArea":
             {
                 "X": "{{spacechase0.JsonAssets/CropSpriteX:Wild Boar}}",

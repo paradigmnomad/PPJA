@@ -1,6 +1,6 @@
 {
     "Name": "Pig Leather",
-    "Description": "A Leather of pig.",
+    "Description": "A pig hide that has been tanned.",
     "Category": "AnimalGoods",
     "Edibility": -300,
     "Price": 100,

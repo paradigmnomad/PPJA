@@ -1,11 +1,23 @@
 {
+  "EnableAlpacaVariant": "animated",
+  "EnableBeastVariant": "animated",
   "EnableBeefVariant": "animated",
   "CowColor": "white",
+  "EnableBirdVariant": "animated",
+  "EnableBisonVariant": "animated",
+  "EnableChevonVariant": "animated",
   "EnableChickenVariant": "animated",
   "ChickenColor": "brown",
-  "EnableChevonVariant": "animated",
+  "EnableDragonVariant": "animated",
   "EnableDuckVariant": "animated",
+  "EnableFowlVariant": "animated",
+  "EnableFrogVariant": "animated",
   "EnableMuttonVariant": "animated",
+  "EnablePhoenixVariant": "animated",
   "EnablePorkVariant": "animated",
-  "EnableRabbitVariant": "static"
+  "EnableRabbitVariant": "static",
+  "EnableReptileVariant": "animated",
+  "EnableTurkeyVariant": "animated",
+  "EnableVenisonVariant": "animated",
+  "EnableWildBoarVariant": "animated"
 }
