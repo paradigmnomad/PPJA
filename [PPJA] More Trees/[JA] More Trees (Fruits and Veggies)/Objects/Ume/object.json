@@ -11,7 +11,7 @@
     },
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Ume",
         "ko": "매실",
         //"de": "",
         "fr": "Ume",
@@ -25,7 +25,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Una fruta verde agridulce. Solía conservarse con azúcar o sal.",
         "ko": "설탕이나 소금에 절여서 먹는 새콤달콤한 녹색 과일.",
         //"de": "",
         "fr": "Un fruit vert sucré et acide. Ces prunes sont conservées dans du sucre ou du sel.",
