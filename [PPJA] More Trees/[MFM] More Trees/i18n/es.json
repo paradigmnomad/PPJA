@@ -1,0 +1,32 @@
+{
+    // Text
+    
+     
+    "camphor.text": "Hola, querido,^^ A medida que George y yo envejecemos, hemos tenido que tener mucho cuidado con nuestra salud. He descubierto que el alcanfor hace maravillas con las articulaciones y la piel.^Yo no sé si tienes espacio en tu granja para cultivar este retoño, pero pensé que te podría interesar.^^ -Evelyn",
+    "breadfruit.text": "Querido @,^^ Recibí esto de Willy, quien de alguna manera lo adquirió de un viaje en velero hacia el sur.^Sé que esta no es la temporada, pero si plantas esto durante el invierno, podrás tener un buen árbol de frutipan para cosechar en la primavera.^^ -Elliott",
+    // "cassia.text": "Hola, @.^^ Una especie de organización benéfica para veteranos me regaló esto por mi servicio. Fue un regalo simbólico y sé que la intencion es lo que cuenta, pero debo admitir que no creo que realmente pueda plantar esto.^sin embargo, Odiaría ver morir a la cosa,¿Crees que puedes hacer que cresca?^^ -Kent",
+    "eucalyptus.text": "Hey @,^^ ¿Alguna vez te has preguntado cómo sería tener koalas en tu granja?^Bueno, yo tampoco, hasta que papá y yo recientemente colaboramos en una investigación. Parece que los koalas no pueden vivir en Stardew Valley, ¡pero su única fuente de alimento si^Aquí hay un retoño de eucalipto sobrante de nuestra investigación en caso de que esté interesado.^^ -Maru",
+    "fig.text": "Estimado @,^^ Actualmente estoy estudiando la evolución natural de las higueras. Mi hipótesis es que este retoño producirá fruta extra grande, ¡pero solo hay una forma de averiguarlo!^Si puedes para plantarlo, lo revisaré rutinariamente para recopilar datos. ¡Sin embargo, todos los higos serán tuyos para guardarlos!^^ -Demetrius",
+    "grapefruit.text": "@,^^ Todas las mañanas tomo un batido de proteínas con una toronja. ¡Tengo que tomar un desayuno equilibrado!^Leí un artículo que dice que las toronjas cultivadas localmente son más frescas y mejores para usted, así que ... No sé, estoy como en una patada de toronja ahora mismo. ¿Crees que podrías convertirte en mi proveedor?^^ -Alex",
+    "melaleuca.text": "Estimado @,^^ Algunos ambientalistas me enviaron este retoño y me dijeron que lo plantara. Tal vez obtuvieron mi nombre de una lista; supongo que no sabían que no cultivo árboles en mi granja. ¿Estarías interesado, sin embargo?^He oído que estos árboles son muy hermosos.^^ -Marnie",
+    "persimmon.text": "Hola.^^ Encontré esto. Bien, ¿poke? ^^ Puedes tenerlo, poke. ^^ -hat mouse",
+    "pomelo.text": "¡Hola @!^^ Cuando vivíamos en la ciudad Zuzu, mi madre conseguia pomelos todo el tiempo, pero aquí, Vincent nunca ha probado uno.^Mi idea es que podrías hacer crecer esto y luego todos podremos disfrutar de la fruta que crece en el. ¡Tal vez Vincent también podría trepar al árbol! Estoy seguro de que sería realmente especial para él.^^ -Sam",
+    "vanilla.text": "Saludos,^^ Espero que puedas encontrar algún uso para este retoño.La vainilla contiene muchas propiedades arcanas, y los magos de todo el mundo lo han usado durante siglos en pociones y herméticos.^El hecho de que sabe delicioso en helado es una mera coincidencia.^^ -M. Rasmodius, mago",
+    "fragrantwisteria.text": "Hola @,^^ ¿Cómo describo esto? Estos árboles huelen realmente mágico.^Es un poco aleatorio para mí enviar esto, lo sé, pero confía en mí, te va a gustar.^^ -Abigail",
+    "ylangylang.text": "Hola @,^^ Leí que las flores de este árbol son buenas para ayudar a tu piel. Además, es tan hermosa cuando florece. ¿Quizás quieras plantar una?^^ -Abigail",
+
+    // Titles
+
+    "camphor.title": "Brote alcanfor",
+    "breadfruit.title": "Brote de frutipan",
+    // "cassia.title": "Brote de Cassia",
+    "eucalyptus.title": "Eucalyptus Sapling",
+    "fig.title": "Brote de higo",
+    "grapefruit.title": "Brote de toronja",
+    "melaleuca.title": "Brote de melaleuca",
+    "persimmon.title": "Brote de caqui",
+    "pomelo.title": "Brote de pomelo",
+    "vanilla.title": "Brote de vainilla",
+    "fragrantwisteria.title": "Brote de glicina fragante",
+    "ylangylang.title": "Brote de Ylang Ylang",
+}
