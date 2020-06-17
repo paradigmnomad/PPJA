@@ -4,7 +4,6 @@
     "SeedName": "Barley Seeds",
     "SeedDescription": "Plant these in fall. Takes 4 days to mature.",
     "Type": "Vegetable",
-
     "Seasons": ["fall"],
     "Phases": [1, 1, 1, 1, ],
     "RegrowthPhase": -1,

@@ -18,7 +18,7 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
-    "SeedPurchasePrice": 80,
+    "SeedPurchasePrice": 130,
     "SeedNameLocalization":
     {
         "es": "Semillas de algodon",
