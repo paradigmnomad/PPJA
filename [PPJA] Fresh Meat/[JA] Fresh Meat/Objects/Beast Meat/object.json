@@ -11,11 +11,10 @@
         "Hate": ["Sebastian"],
     },
     "Recipe": null,
-    
     "NameLocalization":
     {
         // "es": "",
-        "ko": "야생고기",
+        "ko": "야생짐승 고기",
         // "de": "",
         // "fr": "",
         // "hu": "",
