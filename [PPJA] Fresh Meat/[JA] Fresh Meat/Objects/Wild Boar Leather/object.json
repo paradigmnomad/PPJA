@@ -38,5 +38,8 @@
         // "tr": "",
         //"zh": "",
     },  
+	"ContextTags": [
+        "leather_item",
+    ],
     "EnableWithMod": "Cherry.MultiYieldCrops"    
 }
