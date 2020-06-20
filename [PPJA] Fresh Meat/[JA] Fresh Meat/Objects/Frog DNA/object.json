@@ -1,6 +1,6 @@
 {
     "Name": "Frog DNA",
-    "Description": "Some frog DNA from scanning butterflies with the DNA Sythesizer.",
+    "Description": "Some frog DNA from scanning frogs with the DNA Sythesizer.",
     "Category": "AnimalGoods",
     "Edibility": -300,
     "Price": 85,
@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "개구리 DNA",
         // "de": "",
         // "fr": "",
         // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "개구리에게서 추출한 DNA.",
         // "de": "",
         // "fr": "",
         // "hu": "",
