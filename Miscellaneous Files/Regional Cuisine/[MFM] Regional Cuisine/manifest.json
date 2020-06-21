@@ -1,14 +1,14 @@
 ﻿{
 	"Name": "[MFM] Regional Cuisine",
-	"Author": "Project Populate Json Assets",
+	"Author": "Kaya",
 	"Version": "1.0.0",
 	"Description": "Adds letters to Regional Cuisine.",
-	"UniqueID": "ppja.RegionalCuisineMFM",
+	"UniqueID": "RegionalCuisine.mailframeworkmod",
 	"MinimumApiVersion": "3.3.2",
 	"UpdateKeys": ["Nexus:5233"],
 	"Dependencies": [
 		{
-			"UniqueID": "ppja.RegionalCuisineJA"
+			"UniqueID": "RegionalCuisine.jsonassets"
 		}
 	],
 	"ContentPackFor": {

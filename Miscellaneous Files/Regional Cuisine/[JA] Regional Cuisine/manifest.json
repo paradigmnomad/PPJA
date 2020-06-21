@@ -1,9 +1,9 @@
 {
   "Name": "[JA] Regional Cuisine",
-  "Author": "Project Populate Json Assets",
+  "Author": "Kaya",
   "Version": "1.0.0",
   "Description": "Adds a series of delicious regional recipes!",
-  "UniqueID": "ppja.RegionalCuisineJA",
+  "UniqueID": "RegionalCuisine.jsonassets",
     "ContentPackFor": {
     	"UniqueID": "spacechase0.JsonAssets"},
    "UpdateKeys": ["Nexus:"],

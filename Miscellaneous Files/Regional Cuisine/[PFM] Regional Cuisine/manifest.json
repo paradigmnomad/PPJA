@@ -1,9 +1,9 @@
 ﻿{
 	"Name": "[PFM] Regional Cuisine",
-	"Author": "Project Populate Json Assets",
+	"Author": "Kaya",
 	"Version": "1.0.0",
 	"Description": "PFM Component for Regional Cuisine.",
-	"UniqueID": "ppja.RegionalCuisinePFM",
+	"UniqueID": "RegionalCuisine.producermodframework",
 	"MinimumApiVersion": "3.3.2",
 	"UpdateKeys": ["Nexus:"],
 	"ContentPackFor": {
@@ -11,7 +11,7 @@
 	},
 	"Dependencies": [
 		{
-		  "UniqueID": "ppja.RegionalCuisineJA",
+		  "UniqueID": "RegionalCuisine.jsonassets",
 		  "IsRequired": true,
 		},
 {

@@ -1,9 +1,9 @@
 ﻿{
     "Name": "[CCM] Regional Cuisine",
-    "Author": "Project Populate Json Assets",
+    "Author": "Kaya",
     "Version": "1.0.0",
     "Description": "Regional Cuisine's Custom Cask Mod component.",
-    "UniqueID": "ppja.RegionalCuisineCCM",
+    "UniqueID": "RegionalCuisine.customcaskmod",
     "MinimumApiVersion": "3.3.2",
     "UpdateKeys": [],
     "Dependencies": [
