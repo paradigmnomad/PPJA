@@ -102,7 +102,7 @@
         },
     {
           "ExtraYieldItemType": "Object",
-          "ItemName": "Horse Hair",
+          "ItemName": "Horsehair",
           "minHarvest": -1,
           "maxHarvest": 1,
           "maxHarvestIncreasePerFarmingLevel": 0.0,
