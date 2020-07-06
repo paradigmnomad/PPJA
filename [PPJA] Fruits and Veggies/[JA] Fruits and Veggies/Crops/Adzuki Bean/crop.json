@@ -25,7 +25,6 @@
         "es": "Semillas de judías azuki",
         "ko": "팥 씨앗",
         "de": "Adzukibohnen-Saat",
-	 // "fr": "",
          // "hu": "",
          // "it": "",
         "ja": "アズキ豆のタネ",
@@ -36,7 +35,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        "es": "Plántalas en verano. Toma 9 días para madurar",
+        "es": "Plántalas en verano. Tardan 9 días en madurar",
         "ko": "여름 작물. 성장하려면 9일이 소요됩니다.",
         "de": "Pflanze sie im Sommer. Wächst in 9 Tagen heran.",
          // "fr": "",

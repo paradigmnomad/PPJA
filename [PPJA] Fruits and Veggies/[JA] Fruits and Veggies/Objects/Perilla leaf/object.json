@@ -16,7 +16,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Hoja de perilla",
         "ko": "깻잎",
         //"de": "",
         // "fr": "",
@@ -30,7 +30,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Hierba coreana con un aroma único. Utilizado en varios alimentos coreanos.",
         "ko": "독특한 향이 나는 한국 허브. 한식에 다양하게 사용됩니다.",
         //"de": "",
         // "fr": "",

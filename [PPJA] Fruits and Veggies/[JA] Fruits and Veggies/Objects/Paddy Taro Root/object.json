@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Raíz de Taro",
         "ko": "토란",
         "de": "Taroknolle",
         // "fr": "",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "La raíz de una hoja de taro. Es almidonosa, como una patata.",
         "ko": "토란의 뿌리. 감자처럼 탄수화물이 많습니다.",
         "de": "Die Knolle einer Taro. Enthält wie auch Kartoffeln viel Stärke.",
         // "fr": "",

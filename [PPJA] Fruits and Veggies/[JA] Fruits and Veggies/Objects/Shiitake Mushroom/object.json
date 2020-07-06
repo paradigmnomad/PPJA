@@ -14,7 +14,7 @@
     "CanPurchase": false,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Seta shiitake",
         "ko": "표고버섯",
         "de": "Shiitake-Pilz",
         // "fr": "",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "El aroma y el sabor son buenos.",
         "ko": "향과 맛이 좋습니다.",
         "de": "Leckere Pilze!",
         // "fr": "",

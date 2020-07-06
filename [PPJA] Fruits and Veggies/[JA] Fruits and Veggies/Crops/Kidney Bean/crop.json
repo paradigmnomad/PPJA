@@ -25,7 +25,7 @@
     
     "SeedNameLocalization":
     {
-         // "es": "",
+        "es": "Kit de frijoles",
         "ko": "강낭콩 종자",
         "de": "Kidneybohnen-Starterset",
          // "fr": "",
@@ -39,7 +39,7 @@
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+        "es": "Plántala en otoño. Tardan 10 días en crecer, y continua produciendo después de la primera cosecha. Crece en una espaldera.",
         "ko": "여름 작물. 성장하려먼 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다. 격자 구조물에 감겨 자랍니다.",
         "de": "Pflanze sie im Sommer. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
          // "fr": "",

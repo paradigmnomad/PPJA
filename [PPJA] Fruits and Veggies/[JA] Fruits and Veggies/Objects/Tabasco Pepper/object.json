@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Chile tabasco",
         "ko": "타바스코 고추",
         "de": "Tabasko-Pfeffer",
         // "fr": "",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "La única variedad jugosa de chile. Logra 40.000 puntos en la escala Scoville del picante.",
         "ko": "고추 품종 중 유일하게 수분이 많습니다. 스코빌 지수는 40,000입니다.",
         "de": "Die einzige saftige Form des Chilipfeffers. 40.000 Einheiten auf der Scoville-Skala.",
         // "fr": "",

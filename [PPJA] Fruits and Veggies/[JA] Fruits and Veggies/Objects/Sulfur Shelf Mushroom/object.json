@@ -14,7 +14,7 @@
     "CanPurchase": false,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Seta Pollo de los bosques",
         "ko": "붉은덕다리버섯",
         "de": "Gemeiner Schwefelporling",
         // "fr": "",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "¡Saben a pollo!",
         "ko": "다른 이름: 숲속의 닭고기.",
         "de": "Auch unter dem Namen 'Huhn des Waldes' bekannt.",
         // "fr": "",

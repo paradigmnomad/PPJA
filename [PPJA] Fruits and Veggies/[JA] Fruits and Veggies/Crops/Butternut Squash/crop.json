@@ -25,7 +25,7 @@
 
     "SeedNameLocalization":
     {
-        // "es": "",
+        "es": "Semillas de calabaza moscada",
         "ko": "땅콩호박 씨앗",
         "de": "Butternusskürbis-Saat",
         // "fr": "",
@@ -39,7 +39,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        // "es": "",
+        "es": "Plántalas en verano. Tarda 10 días en crecer y continúa produciendo después de la primera cosecha..",
         "ko": "여름 작물. 성장하려면 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
         "de": "Planze sie im Sommer. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden.",
         // "fr": "",

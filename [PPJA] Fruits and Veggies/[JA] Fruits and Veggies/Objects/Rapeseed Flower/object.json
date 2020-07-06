@@ -17,7 +17,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Flor de colza",
         "ko": "유채꽃",
         "de": "Rapsblüte",
         // "fr": "",
@@ -31,7 +31,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una flor de colza.",
         "ko": "유채의 꽃 부분.",
         "de": "Die Blüte einer Rapspflanze.",
         // "fr": "",

@@ -25,7 +25,7 @@
     ],
     "SeedNameLocalization":
     {
-         // "es": "",
+        "es": "Semillas de agave azul",
         "ko": "푸른 용설란 씨앗",
         "de": "Blaue Agaven-Saat",
          // "fr": "",
@@ -39,7 +39,7 @@
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+        "es": "Plántalas en verano. Tardan 12 en madurar.",
         "ko": "여름 작물. 성장하려면 12일이 소요됩니다.",
         "de": "Pflanze sie im Sommer. Wächst in 12 Tagen heran.",
          // "fr": "",

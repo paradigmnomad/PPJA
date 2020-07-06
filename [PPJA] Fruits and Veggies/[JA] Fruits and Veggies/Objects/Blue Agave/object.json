@@ -13,7 +13,7 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Agave azul",
         "ko": "푸른 용설란",
         "de": "Blaue Agave",
          // "fr": "",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Una hoja cortada de un agave azul. Se puede usar para producir alcohol.",
         "ko": "푸른 용설란에서 잘라낸 잎. 증류 가마를 이용해 술로 만들 수 있습니다.",
         "de": "Ein geschnittener Wedel einer blauen Agave. Er kann in einer Destille zu Alkohol verarbeitet werden.",
          // "fr": "",

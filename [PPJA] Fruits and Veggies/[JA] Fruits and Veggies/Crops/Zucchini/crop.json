@@ -25,7 +25,7 @@
 
     "SeedNameLocalization":
     {
-        // "es": "",
+        "es": "Semillas de calabacín",
         "ko": "주키니 씨앗",
         "de": "Zucchini-Saat",
         // "fr": "",
@@ -39,7 +39,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        // "es": "",
+        "es": "Plántalas en verano. Tardan 14 días en crecer, y continúan produciendo después de la primera cosecha.",
         "ko": "여름 작물. 성장하려먼 14일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
         "de": "Pflanze sie im Sommer. Wächst in 14 Tagen heran und kann danach mehrmals geerntet werden.",
         // "fr": "",

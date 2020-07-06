@@ -22,7 +22,7 @@
     "SeedPurchaseRequirements": ["y 2"],
     "SeedNameLocalization":
     {
-        //"es": "",
+        "es": "Semillas de trigo sarraceno",
         "ko": "메밀 씨앗",
         //"de": "",
         // "fr": "",
@@ -36,7 +36,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        //"es": "",
+        "es": "Plántalas en primavera. Tardan 4 días en madurar. Cosecha con una guadaña.",
         "ko": "봄 작물. 성장하려면 4일이 소요됩니다. 낫으로 수확합니다.",
         //"de": "",
         // "fr": "",

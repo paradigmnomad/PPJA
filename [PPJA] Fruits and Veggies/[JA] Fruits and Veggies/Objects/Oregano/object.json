@@ -15,7 +15,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        "es": "Oregano",
+        "es": "Orégano",
         "ko": "오레가노",
         "de": "Oregano",
          // "fr": "",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "Una hierba cálida, aromática, aunque ligeramente amarga y es familia de la menta.",
+        "es": "Una hierba cálida y aromática, aunque ligeramente amarga, de la familia de la menta.",
         "ko": "향기롭고, 약간 쓴, 민트과의 허브.",
         "de": "Sehr aromatischer, leicht bitterer Geschmack. Gehört zur Familie der Minze.",
          // "fr": "",

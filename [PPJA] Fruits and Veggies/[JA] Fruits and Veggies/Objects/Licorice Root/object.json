@@ -15,7 +15,7 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Regaliz",
         "ko": "감초",
          // "de": "Süßholzwurzel",
          // "fr": "",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "una planta de crecimiento natural que es el agente aromatizante del popular dulce.",
         "ko": "사탕의 향미료로 쓰이며, 야생에서도 자랍니다.",
          // "de": "Eine natürlich wachsende Pflanze, die die Grundlage für Lakritz bildet.",
          // "fr": "",

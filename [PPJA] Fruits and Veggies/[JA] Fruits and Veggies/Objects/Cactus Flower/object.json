@@ -13,7 +13,7 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Flor de cactus",
         "ko": "선인장 꽃",
         "de": "Kaktusblüte",
          // "fr": "",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Una hermosa flor de cactus.",
         "ko": "아름다운 선인장 꽃.",
         "de": "Eine wunderschöne Kaktusblüte.",
          // "fr": "",

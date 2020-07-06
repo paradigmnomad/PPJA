@@ -15,7 +15,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        //"es": "",
+        "es": "Ginseng",
         "ko": "인삼",
         //"de": "",
         //"fr": "",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Una raíz difícil de encontrar. Se dice que tiene muchos beneficios para la salud.",
         "ko": "건강에 좋지만 매우 귀한 뿌리식물. 주로 약용으로 사용합니다.",
         //"de": "",
         //"fr": "",

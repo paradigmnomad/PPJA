@@ -12,7 +12,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Trigo duro",
         "ko": "듀럼밀",
         "de": "Hartweizen",
          // "fr": "",
@@ -26,7 +26,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Un trigo duro utilizado para hacer pasta y cuscús.",
         "ko": "단단한 밀은 파스타와 쿠스쿠스를 만드는데 사용됩니다.",
         "de": "Wird für Nudeln und Couscous genutzt.",
          // "fr": "",

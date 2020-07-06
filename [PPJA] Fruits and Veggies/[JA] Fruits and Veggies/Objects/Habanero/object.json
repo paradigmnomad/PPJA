@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Chile habanero",
         "ko": "하바네로",
         "de": "Habanero",
         // "fr": "",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un ingrediente popular en salsas y otros alimentos picantes. Logra 200.000 puntos en la Escala de Scoville del picante.",
         "ko": "매운 소스와 다른 매운 음식에 사용되는 인기있는 재료. 스코빌 지수는 20만 입니다.",
         "de": "Eine häufig genutzte Zutat in Saucen und scharfem Essen. 200.000 Einheiten auf der Scoville-Skala.",
         // "fr": "",
