@@ -15,7 +15,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Calabaza moscada",
         "ko": "땅콩호박",
         "de": "Butternusskürbis",
         // "fr": "",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Tiene un sabor dulce a nuez similar al de una calabaza.",
         "ko": "달콤하고 고소한 맛이 나며, 일반적인 호박과 맛이 비슷합니다.",
         "de": "Er hat einen süßen, nussigen Geschmack ähnlich einem Kürbis.",
         // "fr": "",

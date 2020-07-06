@@ -25,7 +25,7 @@
     ],
     "SeedNameLocalization":
     {
-        // "es": "",
+        "es": "Corte de bambú",
         "ko": "대나무 가지",
         "de": "Bambussteckling",
         // "fr": "",
@@ -39,7 +39,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        // "es": "",
+        "es": "Plántalo en primavera o verano. Tardan 7 días en crecer. Cosecha con una guadaña. Continúa produciendo después de la primera cosecha.",
         "ko": "봄 또는 여름 작물. 성장하려면 5일이 소요됩니다. 낫으로 수확할 수 있습니다. 수확한 후에도 계속 작물이 생산되며 물 근처에 심으면 더 빨리 자랍니다. ",
         "de": "Planze ihn im Frühling oder Sommer. Wächst in 7 Tagen heran und kann danach mehrmals geerntet werden. Ernte ihn mit einer Sichel.",
         // "fr": "",

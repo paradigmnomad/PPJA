@@ -8,7 +8,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Bambú",
         "ko": "대나무",
         "de": "Bambus",
         // "fr": "",
@@ -22,7 +22,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Los brotes de esta planta son comestibles. Crece increíblemente rápido.",
         "ko": "죽순을 먹을 수 있습니다. 믿을 수 없을 정도로 빨리 성장합니다.",
         "de": "Die Sprossen dieser Pflanze sind essbar. Sie wächst unglaublich schnell.",
         // "fr": "",

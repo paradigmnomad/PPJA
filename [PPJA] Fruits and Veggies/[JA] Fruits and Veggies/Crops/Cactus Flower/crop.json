@@ -26,7 +26,7 @@
 
     "SeedNameLocalization":
     {
-         // "es": "",
+        "es": "Semillas de flor de cactus",
         "ko": "선인장 꽃 씨앗",
         "de": "Kaktusblüten-Saat",
          // "fr": "",
@@ -40,7 +40,7 @@
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+        "es": "Plántalas en primavera, verano u otoño. Tardan 24 días en crecer, y continúan produciendo después de la primera cosecha",
         "ko": "봄 또는 여름 또는 가을 작물. 성장하려면 24일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
         "de": "Pflanze sie im Frühling, Sommer oder Herbst. Wächst in 24 Tagen heran und kann danach mehrmals geerntet werden.",
          // "fr": "",

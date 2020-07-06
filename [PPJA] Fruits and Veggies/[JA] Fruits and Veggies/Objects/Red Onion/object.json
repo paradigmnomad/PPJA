@@ -19,7 +19,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Cebolla Roja",
         "ko": "적양파",
         "de": "Rote Zwiebel",
          // "fr": "",
@@ -33,7 +33,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Versión roja de la cebolla. Simplemente.",
         "ko": "그냥 빨간 양파.",
         "de": "Die rote Version einer Zwiebel. Ganz einfach.",
          // "fr": "",

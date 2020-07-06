@@ -8,7 +8,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Trigo sarraceno",
         "ko": "메밀",
         //"de": "",
         // "fr": "",
@@ -22,7 +22,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una variante más salvaje  de trigo; es algo amargo.",
         "ko": "밀보다 거칠고 쌉쌀한 맛이 납니다.",
         //"de": "",
         // "fr": "",
