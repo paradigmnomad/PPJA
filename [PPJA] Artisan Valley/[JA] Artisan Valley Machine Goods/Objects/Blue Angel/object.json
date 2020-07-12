@@ -1,0 +1,43 @@
+{
+    "Name": "Blue Angel",
+    "Description": "Heavenly specialty consisting of blueberries and peppermint.",
+    "Category": "ArtisanGoods",
+    "Edibility": 38,
+    "Price": 245,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Haley", "Demetrius"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigail", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie", "Vincent", "Jas"],
+        "Dislike": ["Emily", "Leah", "Krobus", "Sebastian", "Willy"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Blauer Engel",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Himmlische Spezialität, bestehend aus Blaubeeren und Pfefferminz.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

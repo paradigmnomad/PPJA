@@ -129,7 +129,7 @@
         "InputIdentifier": "Bitter Orange",
         "InputStack": 1,
         "MinutesUntilReady": 2360,
-        "OutputIdentifier":"Campari",
+        "OutputIdentifier": "Campari",
         "Sounds": ["Ship"],
     },
     {
@@ -137,7 +137,7 @@
         "InputIdentifier": 635,
         "InputStack": 1,
         "MinutesUntilReady": 2360,
-        "OutputIdentifier":"Cointreau",
+        "OutputIdentifier": "Cointreau",
         "Sounds": ["Ship"],
     },
     {
@@ -145,7 +145,7 @@
         "InputIdentifier": "Raspberry",
         "InputStack": 1,
         "MinutesUntilReady": 2360,
-        "OutputIdentifier":"Chambord",
+        "OutputIdentifier": "Chambord",
         "Sounds": ["Ship"],
     },
     {
@@ -153,7 +153,7 @@
         "InputIdentifier": 408,
         "InputStack": 1,
         "MinutesUntilReady": 2360,
-        "OutputIdentifier":"Frangelico",
+        "OutputIdentifier": "Frangelico",
         "Sounds": ["Ship"],
     },
     {
@@ -161,7 +161,7 @@
         "InputIdentifier": "Cocoa Pod",
         "InputStack": 1,
         "MinutesUntilReady": 2360,
-        "OutputIdentifier":"Creme de Cacao",
+        "OutputIdentifier": "Creme de Cacao",
         "Sounds": ["Ship"],
     },
 
@@ -624,7 +624,7 @@
         "InputIdentifier": "Peanut",
         "InputStack": 1,
         "MinutesUntilReady": 180,
-        "OutputIdentifier": "Peanut Butter",
+        "OutputIdentifier": "Smooth Peanut Butter",
         "Sounds": ["Ship"],
     },
     {
@@ -742,12 +742,11 @@
         "FuelStack": 1,
         "MinutesUntilReady": 1600,
         "AdditionalOutputs": [
-            {
-                "OutputProbability": 1,
-                "OutputIdentifier": "Potpourri",
-                "RequiredInputParentIdentifier": [ "-80" ]
-            },
-        ],
+        {
+            "OutputProbability": 1,
+            "OutputIdentifier": "Potpourri",
+            "RequiredInputParentIdentifier": ["-80"]
+        }, ],
         "KeepInputParentIndex": true,
         "InputPriceBased": true,
         "OutputPriceIncrement": 100,
@@ -1214,7 +1213,7 @@
         "Sounds": ["Ship"],
     },
 
-    // Ice Cream Machine
+    // Ice Cream Machine    
 
     {
         "ProducerName": "Ice Cream Machine",
@@ -1234,6 +1233,20 @@
         "FuelStack": 1,
         "MinutesUntilReady": 120,
         "OutputIdentifier": "Matcha Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Mint",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "Chocolate": 1
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Mint Chip Ice Cream",
         "Sounds": ["Ship"],
     },
     {
@@ -1274,6 +1287,114 @@
         "FuelStack": 1,
         "MinutesUntilReady": 6000,
         "OutputIdentifier": "Prismatic Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Mango",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Mango Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "638",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Cherry Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Banana",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Banana Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Lemon",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Lemon Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Lime",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Lime Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "408",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Hazelnut Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Pistachio",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Pistachio Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Yogurt",
+        "InputStack": 1,
+        "FuelIdentifier": "638",
+        "FuelStack": 2,
+        "MinutesUntilReady": 240,
+        "OutputIdentifier": "Cherry Yogurt Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "258",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "Mint": 1,
+        },
+        "MinutesUntilReady": 240,
+        "OutputIdentifier": "Blue Angel",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Amaretto",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "638": 1,
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Amarena Ice Cream",
         "Sounds": ["Ship"],
     },
     {
@@ -1652,7 +1773,7 @@
     },
     {
         "ProducerName": "Espresso Machine",
-        "InputIdentifier": "Chocolate Syrup",
+        "InputIdentifier": "Chocolate",
         "InputStack": 1,
         "FuelIdentifier": "433",
         "FuelStack": 4,
@@ -1764,13 +1885,13 @@
     },
     {
         "ProducerName": "Espresso Machine",
-        "InputIdentifier": "milk_item",
+        "InputIdentifier": "276",
         "InputStack": 1,
         "FuelIdentifier": "433",
         "FuelStack": 4,
         "AdditionalFuel":
         {
-            "276": 1
+            "-6": 1
         },
         "MinutesUntilReady": 120,
         "OutputIdentifier": "Pumpkin Spice Latte",
