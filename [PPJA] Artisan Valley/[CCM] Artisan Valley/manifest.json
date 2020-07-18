@@ -1,11 +1,11 @@
 ﻿{
     "Name": "[CCM] Artisan Valley",
     "Author": "Project Populate Json Assets",
-    "Version": "3.0.1",
+    "Version": "3.0.2",
     "Description": "Lets you input certain Artisan Valley items into casks.",
     "UniqueID": "ppja.artisanvalleyCCM",
     "MinimumApiVersion": "3.0.1",
-    "UpdateKeys": [],
+    "UpdateKeys": ["Nexus:1926@CCMArtisanValley"],
     "Dependencies": [
     {
         "UniqueID": "ppja.artisanvalleymachinegoods"

@@ -1,7 +1,7 @@
 ﻿{
 	"Name": "[PFM] Artisan Valley",
 	"Author": "Project Populate Json Assets",
-	"Version": "3.0.15",
+	"Version": "3.0.16",
 	"Description": "Artisan Valley Producer Framework Mod component.",
 	"UniqueID": "ppja.artisanvalleyPFM",
 	"MinimumApiVersion": "3.3.2",
