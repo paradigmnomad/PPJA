@@ -3,7 +3,7 @@
     "Description": "Tender meat from a reptile.",
     "Category": "AnimalGoods",
     "Edibility": -300,
-    "Price": 75,
+    "Price": 125,
     "IsColored": false,
     "GiftTastes":
     {

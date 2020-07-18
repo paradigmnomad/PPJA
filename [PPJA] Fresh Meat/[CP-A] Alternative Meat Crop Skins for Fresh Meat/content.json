@@ -5,17 +5,17 @@
         "EnableAlpacaVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableBeastVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableBeefVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "CowColor":
         {
@@ -25,22 +25,22 @@
         "EnableBirdVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableBisonVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableChevonVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableChickenVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "ChickenColor":
         {
@@ -50,67 +50,67 @@
         "EnableDragonVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },     
         "EnableDuckVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableFowlVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableFrogVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableHorseVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableMuttonVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnablePhoenixVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnablePorkVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableRabbitVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableReptileVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableTurkeyVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableVenisonVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
         "EnableWildBoarVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "animated"
+            "Default": "disabled"
         },
     },
     "Changes": [

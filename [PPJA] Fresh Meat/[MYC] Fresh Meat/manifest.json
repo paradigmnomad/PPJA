@@ -1,7 +1,7 @@
 ﻿{
 	"Name": "[MYC] Fresh Meat",
 	"Author": "Project Populate Json Assets",
-	"Version": "2.1.4",
+	"Version": "3.0.0-beta-1",
 	"Description": "Allows multiple drops from crops.",
 	"UniqueID": "ppja.FreshMeatforMYC",
 	"MinimumApiVersion": "3.2.0",
