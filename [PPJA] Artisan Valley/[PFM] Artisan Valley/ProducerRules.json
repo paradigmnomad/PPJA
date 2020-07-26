@@ -426,9 +426,6 @@
         "InputStack": 1,
         "MinutesUntilReady": 1600,
         "OutputIdentifier": "Kombucha",
-        "InputPriceBased": true,
-        "OutputPriceIncrement": 200,
-        "OutputPriceMultiplier": 2.5,
         "Sounds": ["Ship"],
     },
     {
