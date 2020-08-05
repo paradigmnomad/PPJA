@@ -3,6 +3,7 @@
     "Description": "Named after the Harvard professor who advocated for cannibis his entire life.",
     "Category": "Flower",
     "CategoryTextOverride": "Sativa",
+    "CategoryColorOverride": "238, 103, 37, 255",
     "Edibility": 18,
     "Price": 600,
     "IsColored": false,

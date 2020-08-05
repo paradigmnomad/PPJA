@@ -3,6 +3,7 @@
     "Description": "Not much is known about this indica. Perhaps that's how it got its name. Also known as Alien Tech.",
     "Category": "Flower",
     "CategoryTextOverride": "Indica",
+    "CategoryColorOverride": "119, 62, 152, 255",    
     "Edibility": 18,
     "Price": 600,
     "IsColored": false,

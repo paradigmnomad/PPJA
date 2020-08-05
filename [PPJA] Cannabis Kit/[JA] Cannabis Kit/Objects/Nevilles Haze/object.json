@@ -3,6 +3,7 @@
     "Description": "Grown in the Gotoro Empire it isn't very popular in the Ferngill Republic.",
     "Category": "Flower",
     "CategoryTextOverride": "Sativa",
+    "CategoryColorOverride": "238, 103, 37, 255",
     "Edibility": 18,
     "Price": 600,
     "IsColored": false,

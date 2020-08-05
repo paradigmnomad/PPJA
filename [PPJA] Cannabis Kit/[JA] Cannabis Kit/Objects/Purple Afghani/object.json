@@ -3,6 +3,7 @@
     "Description": "A hardy indica that is easy to grow. Used as a parent of LVPK.",
     "Category": "Flower",
     "CategoryTextOverride": "Indica",
+    "CategoryColorOverride": "119, 62, 152, 255",
     "Edibility": 18,
     "Price": 600,
     "IsColored": false,

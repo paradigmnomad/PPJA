@@ -3,6 +3,7 @@
     "Description": "A solid choice, but the demand for this strain has fallen.",
     "Category": "Flower",
     "CategoryTextOverride": "Sativa",
+    "CategoryColorOverride": "238, 103, 37, 255",
     "Edibility": 18,
     "Price": 600,
     "IsColored": false,

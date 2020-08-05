@@ -3,6 +3,7 @@
     "Description": "This short, bushy plant is ideal for full body relaxation with its high resin production and short flowering time.",
     "Category": "Flower",
     "CategoryTextOverride": "Indica",
+    "CategoryColorOverride": "119, 62, 152, 255",
     "Edibility": 18,
     "Price": 40,
     "IsColored": false,

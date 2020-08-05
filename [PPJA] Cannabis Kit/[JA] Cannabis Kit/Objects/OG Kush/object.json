@@ -3,6 +3,7 @@
     "Description": "A combination of stimulating sativa and relaxing indica, hybrid strains are the best of both worlds.",
     "Category": "Flower",
     "CategoryTextOverride": "Hybrid",
+    "CategoryColorOverride": "121, 185, 70, 255",
     "Edibility": 18,
     "Price": 30,
     "IsColored": false,

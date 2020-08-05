@@ -3,6 +3,7 @@
     "Description": "Possibly the rarest strain in the world.",
     "Category": "Flower",
     "CategoryTextOverride": "Sativa",
+    "CategoryColorOverride": "238, 103, 37, 255",
     "Edibility": 18,
     "Price": 4500,
     "IsColored": false,
