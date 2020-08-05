@@ -2,7 +2,7 @@
     "Name": "Aloe",
     "Description": "It can be used to treat sunburns.",
     "Category": "Vegetable",   
-    "CategoryTextOverride": "Herb",
+    "CategoryTextOverride": "Succulent",
     "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 20,
     "Price": 140,

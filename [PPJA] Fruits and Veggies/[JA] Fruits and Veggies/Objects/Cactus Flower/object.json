@@ -2,6 +2,8 @@
     "Name": "Cactus Flower",
     "Description": "A beautiful cactus bloom.",
     "Category": "Flower",
+    "CategoryTextOverride": "Succulent",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 8,
     "Price": 600,
     "IsColored": false,

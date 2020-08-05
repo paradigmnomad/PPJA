@@ -2,6 +2,8 @@
     "Name": "Blue Agave",
     "Description": "A cut frond from a blue agave. It can be used the still to make alcohol.",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Succulent",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 8,
     "Price": 300,
     "IsColored": false,

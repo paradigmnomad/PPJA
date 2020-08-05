@@ -2,6 +2,8 @@
     "Name": "Maguey",
     "Description": "The cut frond of a maquey. It can be used to make alcohol.",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Succulent",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 8,
     "Price": 170,
     "IsColored": false,
