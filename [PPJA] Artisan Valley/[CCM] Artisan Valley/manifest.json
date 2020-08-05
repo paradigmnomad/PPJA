@@ -4,18 +4,26 @@
     "Version": "3.0.2",
     "Description": "Lets you input certain Artisan Valley items into casks.",
     "UniqueID": "ppja.artisanvalleyCCM",
-    "MinimumApiVersion": "3.0.1",
+    "MinimumApiVersion": "3.6.1",
     "UpdateKeys": ["Nexus:1926@CCMArtisanValley"],
     "Dependencies": [
     {
-        "UniqueID": "ppja.artisanvalleymachinegoods"
+        "UniqueID": "ppja.artisanvalleymachinegoods",
+        "IsRequired": true
     },
     {
-        "UniqueID": "ppja.artisanvalleyPFM"
-    }, 
-],
+        "UniqueID": "ppja.artisanvalleyPFM",
+        "IsRequired": true
+    }, ],
     "ContentPackFor":
     {
         "UniqueID": "DIGUS.CustomCaskMod"
-    }
+    },
+    "ModUpdater":
+    {
+        "Repository": "PPJA",
+        "User": "Paradigmnomad",
+        "Directory": "_releases",
+        "ModFolder": "[CCM] Artisan Valley"
+    },
 }

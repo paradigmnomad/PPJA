@@ -10,4 +10,16 @@
         "UniqueID": "spacechase0.JsonAssets"
     },
     "UpdateKeys": ["Nexus:1741"],
+    "ModUpdater":
+    {
+        "Repository": "PPJA",
+        "User": "Paradigmnomad",
+        "Directory": "_releases",
+        "ModFolder": "[PPJA] Cannabis Kit"
+    },
+    "Dependencies": [
+    {
+        "UniqueID": "Platonymous.ModUpdater",
+        "IsRequired": false
+    }, ],
 }

@@ -1,18 +1,29 @@
 {
-"Name": "Ancient Crops",
+    "Name": "Ancient Crops",
     "Author": "Project Populate JsonAssets",
     "Version": "2.1.2",
-   "MinimumApiVersion": "3.2.0",
+    "MinimumApiVersion": "3.6.1",
     "Description": "Adds ancient crops to obtain and plant.",
     "UniqueID": "ppja.ancientcrops",
-    "ContentPackFor": {
-    	"UniqueID": "spacechase0.JsonAssets"
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
     },
-	"Dependencies": [
-{
-      "UniqueID": "PPJA.AncientCropsAddOn",
-      "IsRequired": true
-   }
-   ],
-    "UpdateKeys": [ "Nexus:4472" ]
+    "Dependencies": [
+    {
+        "UniqueID": "PPJA.AncientCropsAddOn",
+        "IsRequired": true
+    },
+    {
+        "UniqueID": "Platonymous.ModUpdater",
+        "IsRequired": false
+    }, ],
+    "UpdateKeys": ["Nexus:4472"],
+    "ModUpdater":
+    {
+        "Repository": "PPJA",
+        "User": "Paradigmnomad",
+        "Directory": "_releases",
+        "ModFolder": "[PPJA] Ancient Crops"
+    },
 }

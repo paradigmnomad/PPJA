@@ -1,12 +1,27 @@
 {
-   "Name": "PPJA Better Artisan Goods Icon Pack for Ancient Crops",
-   "Author": "ProjectPopulateJsonAssets",
-   "Version": "2.0.0",
-   "Description": "A collection of artisan good sprites that pair with the PPJA Ancient Crops.",
-   "UniqueID": "ppja.bagiAC",
-    "MinimumApiVersion": "3.0.1",
-   "ContentPackFor": {
-      "UniqueID": "cat.betterartisangoodicons",
-"MinimumVersion": "1.4.0"
-   }
+    "Name": "PPJA Better Artisan Goods Icon Pack for Ancient Crops",
+    "Author": "Project Populate JsonAssets",
+    "Version": "1.0.2",
+    "Description": "A collection of artisan good sprites that pair with the PPJA Ancient Crops.",
+    "UniqueID": "ppja.bagiAC",
+    "MinimumApiVersion": "3.6.1",
+    "ContentPackFor":
+    {
+        "UniqueID": "cat.betterartisangoodicons",
+        "MinimumVersion": "1.4.0"
+    },
+    "UpdateKeys": ["Nexus:4472@AncientCropsBAGI"],
+    "ModUpdater":
+    {
+        "Repository": "PPJA",
+        "User": "Paradigmnomad",
+        "Directory": "_releases",
+        "ModFolder": "[BAGI] Ancient Crops"
+    },
+    "Dependencies": [
+    {
+        "UniqueID": "Platonymous.ModUpdater",
+        "IsRequired": false
+    }, ],
+
 }
