@@ -137,7 +137,6 @@
         "GroupID": "MoreTrees.sapling",
         "Text": "vanilla.text", 
         "Title": "vanilla.title", 
-        "LetterBG": 3,
         "Attachments": [{"Type": "Object", "Name":"Vanilla Sapling", "Stack": 1},],   
         "LetterBG": "NicteLetterBackground.png",             
         "Repeatable": false,         
