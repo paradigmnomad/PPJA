@@ -1,0 +1,69 @@
+{
+    "Name": "Persimmon Pudding",
+    "Description": "A delicious pudding made with blendet persimmon.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 650,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Marlon"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Maru"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": -5,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": "Persimmon",
+            "Count": 2,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2400,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Kakipudding",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Ein Dessert aus pürierten Kaki und Eiern.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

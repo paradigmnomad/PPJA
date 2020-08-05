@@ -1,0 +1,69 @@
+{
+    "Name": "Créme Brûlée",
+    "Description": "A timeless classic",
+    "Category": "Cooking",
+    "Edibility": 58,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 650,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Jas"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Maru", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Kent"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": -5,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": "Vanilla",
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1000,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Créme Brulée",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Ein zeitloses Dessert",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

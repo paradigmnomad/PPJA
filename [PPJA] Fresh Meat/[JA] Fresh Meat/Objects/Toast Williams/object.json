@@ -1,0 +1,68 @@
+{
+    "Name": "Toast Williams",
+    "Description": "Toast Hawaii but with a pear instead of Pineapple",
+    "Category": "Cooking",
+    "Edibility": 57,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 800,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Haley"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Toast",
+            "Count": 1,
+        },
+        {
+            "Object": "Pear",
+            "Count": 1,
+        },
+        {
+            "Object": "Pork",
+            "Count": 1,
+        },
+        {
+            "Object": 424,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1700,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Toast Williams",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Toast Hawaii mit Birne anstatt Ananas",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

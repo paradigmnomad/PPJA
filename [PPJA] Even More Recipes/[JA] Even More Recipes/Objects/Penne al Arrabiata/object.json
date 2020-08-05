@@ -1,0 +1,69 @@
+{
+    "Name": "Penne al Arrabiata",
+    "Description": "A very spicy Italian classic",
+    "Category": "Cooking",
+    "Edibility": 62,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 650,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["George"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Harvey", "Jodi", "Maru", "Krobus", "Leah", "Lewis", "Linus", "Kent", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Jas", "Vincent"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 256,
+            "Count": 1,
+        },
+        {
+            "Object": "Tabasco Pepper",
+            "Count": 1,
+        },
+        {
+            "Object": "Basil",
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1800,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Penne al Arrabiata",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Ein recht scharfer Italienischer Klassiker",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}
