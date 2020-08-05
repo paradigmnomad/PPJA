@@ -3,7 +3,7 @@
     "Description": "Meat from a frog. I wonder if it tastes like chicken?",
     "Category": "AnimalGoods",
     "Edibility": -300,
-    "Price": 75,
+    "Price": 200,
     "IsColored": false,
     "GiftTastes":
     {

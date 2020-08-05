@@ -1,21 +1,19 @@
 {
-    "Name": "Critter DNA",
-    "Description": "Some critter DNA from scranning various critters found in the overworld with the DNA Sythesizer.",
+    "Name": "Cloud Meat",
+    "Description": "It tastes like....nothing. It'll evaporate if cooked.",
     "Category": "AnimalGoods",
     "Edibility": -300,
-    "Price": 10,
+    "Price": 225,
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Demetrius", "Maru"],
-        "Like": ["Krobus", "Wizard", "Harvey"],
-        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
     "Recipe": null,
     "NameLocalization":
     {
         // "es": "",
-        "ko": "크리터 DNA",
+        // "ko": "",
         // "de": "",
         // "fr": "",
         // "hu": "",
@@ -29,7 +27,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        "ko": "다양한 크리터에게서 추출한 DNA.",
+        // "ko": "",
         // "de": "",
         // "fr": "",
         // "hu": "",
@@ -40,8 +38,5 @@
         // "tr": "",
         // "zh": "",
     },
-    "ContextTags": [
-        "dna_item",
-    ],
     "EnableWithMod": "spacechase0.BugNet",
 }

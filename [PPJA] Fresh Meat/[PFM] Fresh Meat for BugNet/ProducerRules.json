@@ -1,6 +1,26 @@
 ﻿[
     // Bug Net (Critters)
 
+    // Cloud
+
+    {
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "Critter Cage - Cloud?",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Cloud DNA",
+        "Sounds": ["powerup"],
+    },
+    {
+        "ProducerName": "Meat Press",
+        "InputIdentifier": "Cloud DNA",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Cloud Meat",
+        "OutputStack": 1,
+        "Sounds": ["fishSlap"],
+    },
+
     // Frog
 
     {

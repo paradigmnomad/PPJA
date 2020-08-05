@@ -3,7 +3,7 @@
     "Description": "Some sheep DNA extracted from wool. You're not quite sure how this worked but it did.",
     "Category": "AnimalGoods",
     "Edibility": -300,
-    "Price": 85,
+    "Price": 10,
     "IsColored": false,
     "GiftTastes":
     {

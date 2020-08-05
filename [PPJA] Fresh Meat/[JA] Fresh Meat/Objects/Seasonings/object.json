@@ -3,9 +3,9 @@
     "Description": "A collection of spices for preparing a delicious meat rub.",
     "Category": "ArtisanGoods",
     "Edibility": -300,
-    "Price": 175,
+    "Price": 10,
     "IsColored": false,
-    "PurchasePrice": 200,
+    "PurchasePrice": 50,
     "PurchaseRequirements": null,    
     "NameLocalization":
     {

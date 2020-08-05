@@ -191,6 +191,7 @@
         "FuelStack": 1,
         "MinutesUntilReady": 10,
         "OutputIdentifier": "Genetically Engineered Yeast",
+        "OutputStack": 5,
         "Sounds": ["powerup"],
     },
 

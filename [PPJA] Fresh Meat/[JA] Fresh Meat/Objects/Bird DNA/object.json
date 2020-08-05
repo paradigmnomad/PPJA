@@ -3,7 +3,7 @@
     "Description": "Some bird DNA. It's extracted from various products.",
     "Category": "AnimalGoods",
     "Edibility": -300,
-    "Price": 85,
+    "Price": 10,
     "IsColored": false,
     "GiftTastes":
     {

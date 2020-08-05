@@ -3,12 +3,13 @@
     "Description": "Meat from a frog, already cooked and ready to be used in recipes.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 425,
     "IsColored": false,
     "GiftTastes":
     {
-        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Sebastian"],
+	 "Neutral": ["Willy"],
+         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Wizard"],
+        "Hate": ["Leah", "Linus", "Jas", "Sebastian", "Vincent"],
     },
     "Recipe":
     {
@@ -25,7 +26,7 @@
     },
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
-    "PurchasePrice": 200,
+    "PurchasePrice": 800,
     "PurchaseRequirements": null,
     "NameLocalization":
     {

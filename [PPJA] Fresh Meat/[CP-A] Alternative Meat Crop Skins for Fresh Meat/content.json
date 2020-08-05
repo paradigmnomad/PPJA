@@ -1,5 +1,5 @@
 {
-    "Format": "1.13",
+    "Format": "1.15.0",
     "ConfigSchema":
     {
         "EnableAlpacaVariant":
@@ -141,7 +141,7 @@
             "When":
             {
                 "EnableAlpacaVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -188,7 +188,7 @@
             "When":
             {
                 "EnableBeastVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -236,7 +236,7 @@
             {
                 "EnableBeefVariant": "animated",
                 "CowColor": "white, brown",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -284,7 +284,7 @@
             "When":
             {
                 "EnableBirdVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -331,7 +331,7 @@
             "When":
             {
                 "EnableBisonVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -378,7 +378,7 @@
             "When":
             {
                 "EnableChevonVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -426,7 +426,7 @@
             {
                 "EnableChickenVariant": "animated",
                 "ChickenColor": "white, brown, blue, void",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -474,7 +474,7 @@
             "When":
             {
                 "EnableDragonVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -521,7 +521,7 @@
             "When":
             {
                 "EnableDuckVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -568,7 +568,7 @@
             "When":
             {
                 "EnableFowlVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -615,7 +615,7 @@
             "When":
             {
                 "EnableFrogVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -662,7 +662,7 @@
             "When":
             {
                 "EnableHorseVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -709,7 +709,7 @@
             "When":
             {
                 "EnableMuttonVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -756,7 +756,7 @@
             "When":
             {
                 "EnablePhoenixVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -803,7 +803,7 @@
             "When":
             {
                 "EnablePorkVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -850,7 +850,7 @@
             "When":
             {
                 "EnableRabbitVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -897,7 +897,7 @@
             "When":
             {
                 "EnableReptileVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -944,7 +944,7 @@
             "When":
             {
                 "EnableTurkeyVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -991,7 +991,7 @@
             "When":
             {
                 "EnableVenisonVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {
@@ -1038,7 +1038,7 @@
             "When":
             {
                 "EnableWildBoarVariant": "animated",
-                "HasMod:spacechase0.ContentPatcherAnimations": true
+                "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
         {

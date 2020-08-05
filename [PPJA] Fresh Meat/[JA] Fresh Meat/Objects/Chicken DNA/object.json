@@ -3,7 +3,7 @@
     "Description": "Some chicken DNA extracted from an egg.",
     "Category": "AnimalGoods",
     "Edibility": -300,
-    "Price": 85,
+    "Price": 10,
     "IsColored": false,
     "GiftTastes":
     {
