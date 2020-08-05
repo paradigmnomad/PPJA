@@ -17,7 +17,7 @@
         "MaxIncreasePerFarmLevel": 0,
         "ExtraChance": 0.2,
     },
-    "SeedPurchaseFrom": "Harvey",
+    "SeedPurchaseFrom": "DONOTSELL",
     "SeedPurchasePrice": 350,
      "SeedNameLocalization":
     {

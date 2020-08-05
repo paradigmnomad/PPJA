@@ -14,7 +14,7 @@
     {
         "MinimumPerHarvest": 2,
         "MaximumPerHarvest": 6,
-        "MaxIncreasePerFarmLevel": 5,
+        "MaxIncreasePerFarmLevel": 0,
         "ExtraChance": 0.2,
     },
     "SeedPurchaseFrom": "Pierre",

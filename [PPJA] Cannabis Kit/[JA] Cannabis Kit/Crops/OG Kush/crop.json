@@ -14,7 +14,7 @@
     {
         "MinimumPerHarvest": 3,
         "MaximumPerHarvest": 5,
-        "MaxIncreasePerFarmLevel": 5,
+        "MaxIncreasePerFarmLevel": 0,
         "ExtraChance": 0.1,
     },
 
