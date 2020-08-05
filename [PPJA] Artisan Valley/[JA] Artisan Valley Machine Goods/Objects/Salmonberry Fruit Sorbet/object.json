@@ -1,0 +1,45 @@
+{
+    "Name": "Salmonberry Fruit Sorbet",
+    "Description": "A refreshing fruit sorbet made from salmonberries, honey, and lemons.",
+    "Category": "ArtisanGoods",
+    "Edibility": 60,
+    "EdibleIsDrink": false,
+    "Price": 300,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Jas", "Vincent"],
+        "Like": ["Demetrius", "Haley", "Jodi", "Kent", "Leah", "Pam", "Robin", "Sandy", "Shane"],
+        "Dislike": ["Abigail", "Alex", "Clint", "Dwarf", "Emily", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Sam", "sebastian", "Willy", "Wizard"],
+        "Hate": ["Caroline", "Elliott", "Evelyn", "Harvey"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}
