@@ -1,5 +1,5 @@
 {
-	"RemovePacksFromVanilla": [
+	"RemovePackRecipesFromVanilla": [
         "paradigmnomad.morefood",
         "ppja.evenmorerecipes",
         "ppja.MoreRecipesMeat",
@@ -123,6 +123,7 @@
                 "Zosa.eatums",
                 "Hadi.FrozenTreatsJA",
                 "Minakie.JA.recipes",
+                "ppja.artisanvalleymachinegoods",
               ],
             },
             {
