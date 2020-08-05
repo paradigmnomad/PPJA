@@ -4,7 +4,7 @@
     "Description": "A port of Mizu's recipe sprites for JsonAssets",
     "Version": "1.9.11",
     "UniqueID": "paradigmnomad.morefood",
-    "MinimumApiVersion": "3.2.0",
+    "MinimumApiVersion": "3.6.1",
     "ContentPackFor":
     {
         "UniqueID": "spacechase0.JsonAssets"
@@ -22,5 +22,16 @@
     {
         "UniqueID": "mizu.flowers",
         "IsRequired": true,
-    }, ]
+    },
+    {
+        "UniqueID": "Platonymous.ModUpdater",
+        "IsRequired": false
+    }, ],
+    "ModUpdater":
+    {
+        "Repository": "PPJA",
+        "User": "Paradigmnomad",
+        "Directory": "_releases",
+        "ModFolder": "[PPJA] More Recipes"
+    },
 }

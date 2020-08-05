@@ -34,12 +34,5 @@
         "UniqueID": "Platonymous.ModUpdater",
         "IsRequired": false
     }, ],
-    "UpdateKeys": ["Nexus:1926"],
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[PPJA] Artisan Valley"
-    },
+    "UpdateKeys": ["Nexus:1926"],    
 }

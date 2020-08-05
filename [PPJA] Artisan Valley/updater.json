@@ -1,0 +1,15 @@
+{
+  "Name": "[PPJA] Artisan Valley",
+  "Author": "Project Populate Json Assets",
+  "Version": "3.0.16",
+  "Description": "Artisan Valley Producer Framework Mod",
+  "UniqueID": "ppja.artisanvalley",
+  "EntryDll": "",
+  "MinimumApiVersion": "3.3.2",
+  "ModUpdater": {
+    "Repository": "PPJA",
+    "User": "paradigmnomad",
+    "Directory": "_releases",
+    "ModFolder": "PPJA"
+  }
+}

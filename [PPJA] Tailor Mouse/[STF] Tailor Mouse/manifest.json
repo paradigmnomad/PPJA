@@ -1,12 +1,25 @@
 {
-  "Name": "Tailor Mouse Clothing Stand",
-  "Author": "Project Populate Json Assets",
-  "Version": "2.2.1",
-  "Description": "Adds a clothing stand to purchase items from Json Assets.",
-  "UniqueID": "ppja.tailormousestf",
-  "MinimumApiVersion": "3.4.0",
-  "UpdateKeys": ["Nexus:4798"],
-  "ContentPackFor": {
-    "UniqueID": "Cherry.ShopTileFramework"
-  }
+    "Name": "Tailor Mouse Clothing Stand",
+    "Author": "Project Populate Json Assets",
+    "Version": "2.2.1",
+    "Description": "Adds a clothing stand to purchase items from Json Assets.",
+    "UniqueID": "ppja.tailormousestf",
+    "MinimumApiVersion": "3.6.1",
+    "UpdateKeys": ["Nexus:4798"],
+    "ContentPackFor":
+    {
+        "UniqueID": "Cherry.ShopTileFramework"
+    },
+    "Dependencies": [
+    {
+        "UniqueID": "Platonymous.ModUpdater",
+        "IsRequired": false
+    }, ],
+    "ModUpdater":
+    {
+        "Repository": "PPJA",
+        "User": "Paradigmnomad",
+        "Directory": "_releases",
+        "ModFolder": "[PPJA] Tailor Mouse"
+    },
 }

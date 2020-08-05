@@ -1,12 +1,25 @@
 {
-   "Name": "Mizu's Flowers for JsonAssets",
-   "Author": "ParadigmNomad & Eemie (Port) & Mizu (Sprites)",
-   "Description": "A port of Mizu's sprites for JsonAssets.",
-   "Version": "1.6.6",
-   "MinimumApiVersion": "3.2.0",
-   "UniqueID": "mizu.flowers",
-"UpdateKeys": ["Nexus:2028"],
-   "ContentPackFor": {
-       "UniqueID": "spacechase0.JsonAssets"
+    "Name": "Mizu's Flowers for JsonAssets",
+    "Author": "ParadigmNomad & Eemie (Port) & Mizu (Sprites)",
+    "Description": "A port of Mizu's sprites for JsonAssets.",
+    "Version": "1.6.6",
+    "MinimumApiVersion": "3.6.1",
+    "UniqueID": "mizu.flowers",
+    "UpdateKeys": ["Nexus:2028"],
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "Dependencies": [
+    {
+        "UniqueID": "Platonymous.ModUpdater",
+        "IsRequired": false
+    }, ],
+    "ModUpdater":
+    {
+        "Repository": "PPJA",
+        "User": "Paradigmnomad",
+        "Directory": "_releases",
+        "ModFolder": "[PPJA] Mizus Flowers"
     },
 }

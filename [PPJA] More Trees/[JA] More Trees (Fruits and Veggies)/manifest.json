@@ -3,11 +3,23 @@
     "Author": "Project Populate JsonAssets",
     "Description": "A collection of new trees for JsonAssets",
     "Version": "1.6.8",
-    "MinimumApiVersion": "3.3.2",
+    "MinimumApiVersion": "3.6.1",
     "UniqueID": "ppja.moretrees",
     "ContentPackFor":
     {
         "UniqueID": "spacechase0.JsonAssets"
     },
     "UpdateKeys": ["Nexus:1671"],
+    "Dependencies": [
+    {
+        "UniqueID": "Platonymous.ModUpdater",
+        "IsRequired": false
+    }, ],
+    "ModUpdater":
+    {
+        "Repository": "PPJA",
+        "User": "Paradigmnomad",
+        "Directory": "_releases",
+        "ModFolder": "[PPJA] More Trees"
+    },
 }

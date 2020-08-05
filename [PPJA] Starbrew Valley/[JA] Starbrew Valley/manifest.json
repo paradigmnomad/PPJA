@@ -3,7 +3,7 @@
     "Author": "Project Populate JsonAssets",
     "Description": "Adds new alcoholic drinks to the Stardrop Saloon and new recipes, please see dependencies.",
     "Version": "1.3.13",
-    "MinimumApiVersion": "3.2.0",
+    "MinimumApiVersion": "3.6.1",
     "UniqueID": "ppja.starbrewvalley",
     "ContentPackFor":
     {
@@ -34,5 +34,16 @@
     {
         "UniqueID": "Cherry.CustomCraftingStations",
         "IsRequired": false,
-    }, ]
+    },
+    {
+        "UniqueID": "Platonymous.ModUpdater",
+        "IsRequired": false
+    }, ],
+    "ModUpdater":
+    {
+        "Repository": "PPJA",
+        "User": "Paradigmnomad",
+        "Directory": "_releases",
+        "ModFolder": "[PPJA] Starbrew Valley"
+    },
 }
