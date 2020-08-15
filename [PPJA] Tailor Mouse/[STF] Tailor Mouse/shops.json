@@ -21,6 +21,7 @@
                 "Lumisteria.LumisteriaClothes",
             ],
             "MaxNumItemsSoldInItemStock": 20,
-        }, ]
+        }, ],
+        "HasMod:ppja.TMXVMarket": false
     }, ]
 }

@@ -1,5 +1,5 @@
 {
-    "Format": "1.13.0",
+    "Format": "1.15.0",
     "DynamicTokens": [
     {
         "Name": "TailorMouse-Style",
@@ -19,7 +19,11 @@
         "LogName": "Tailor Mouse Sheets",
         "Action": "Load",
         "Target": "spring_tailormouse, Maps/spring_tailormouse, summer_tailormouse, Maps/summer_tailormouse, fall_tailormouse, Maps/fall_tailormouse, winter_tailormouse, Maps/winter_tailormouse",
-        "FromFile": "assets/Tilesheets/{{TargetWithoutPath}}{{TailorMouse-Style}}.png"
+        "FromFile": "assets/Tilesheets/{{TargetWithoutPath}}{{TailorMouse-Style}}.png",
+        "When":
+        {
+            "HasMod |contains=TMXVMarket": false
+        }
     },
     {
         "LogName": "Tailor Mouse Map Patch",
@@ -35,7 +39,8 @@
         },
         "When":
         {
-            "HasReadLetter:tailormouseletter": true
+            "HasReadLetter |contains=tailormouseletter": true,
+            "HasMod |contains=TMXVMarket": false
         }
     },
     {
@@ -48,7 +53,8 @@
         },
         "When":
         {
-            "HasReadLetter:hatter": true,
+            "HasReadLetter |contains=hatter": true,
+            "HasMod |contains=TMXVMarket": false
         },
     }, 
     {
@@ -61,8 +67,9 @@
         },
         "When":
         {
-            "HasReadLetter:hatter": true,
-            "Language": "zh"
+            "HasReadLetter |contains=hatter": true,
+            "Language": "zh",
+            "HasMod |contains=TMXVMarket": false
         },
     }, 
     ]
