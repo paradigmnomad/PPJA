@@ -22,5 +22,9 @@
             ],
             "MaxNumItemsSoldInItemStock": 20,
         }, ],
+<<<<<<< HEAD
+=======
+        "HasMod:ppja.TMXVMarket": false
+>>>>>>> 609d109209d3fa77f3aefbf9d4eba06250eeb77f
     }, ]
 }
