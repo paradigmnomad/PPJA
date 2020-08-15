@@ -20,10 +20,6 @@
         "Action": "Load",
         "Target": "spring_tailormouse, Maps/spring_tailormouse, summer_tailormouse, Maps/summer_tailormouse, fall_tailormouse, Maps/fall_tailormouse, winter_tailormouse, Maps/winter_tailormouse",
         "FromFile": "assets/Tilesheets/{{TargetWithoutPath}}{{TailorMouse-Style}}.png",
-        "When":
-        {
-            "HasMod |contains=TMXVMarket": false
-        }
     },
     {
         "LogName": "Tailor Mouse Map Patch",
@@ -54,7 +50,6 @@
         "When":
         {
             "HasReadLetter |contains=hatter": true,
-            "HasMod |contains=TMXVMarket": false
         },
     }, 
     {
@@ -69,7 +64,6 @@
         {
             "HasReadLetter |contains=hatter": true,
             "Language": "zh",
-            "HasMod |contains=TMXVMarket": false
         },
     }, 
     ]
