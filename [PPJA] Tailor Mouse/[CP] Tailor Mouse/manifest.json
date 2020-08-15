@@ -1,11 +1,24 @@
 {
-   "Name": "Tailor Mouse Clothing Stand",
-   "Author": "Project Populate Json Assets",
-   "Description": "Adds a clothing stand to purchase items from Json Assets.",
-   "Version": "2.2.1",
-   "UniqueID": "ppja.tailormouse",
-"MinimumApiVersion": "3.4.0",
-   "ContentPackFor": {
-       "UniqueID": "Pathoschild.ContentPatcher"
+    "Name": "Tailor Mouse Clothing Stand",
+    "Author": "Project Populate Json Assets",
+    "Description": "Adds a clothing stand to purchase items from Json Assets.",
+    "Version": "2.2.2",
+    "UniqueID": "ppja.tailormouse",
+    "MinimumApiVersion": "3.6.0",
+    "ContentPackFor":
+    {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+    "Dependencies": [    
+    {
+        "UniqueID": "Platonymous.ModUpdater",
+        "IsRequired": false
+    }, ],
+    "ModUpdater":
+    {
+        "Repository": "PPJA",
+        "User": "Paradigmnomad",
+        "Directory": "_releases",
+        "ModFolder": "[CP] Tailor Mouse"
     },
 }

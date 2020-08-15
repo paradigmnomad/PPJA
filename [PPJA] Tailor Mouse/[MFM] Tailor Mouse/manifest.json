@@ -1,17 +1,28 @@
 ﻿{
-	"Name": "Tailor Mouse MFM Component",
-	"Author": "Project Populate Json Assets",
-	"Version": "2.2.1",
-	"Description": "Me sell clothes. Okey poke?",
-	"UniqueID": "ppja.MFM.tailormouse",
-	"MinimumApiVersion": "3.4.0",
-	"UpdateKeys": [],
-	"Dependencies": [
-		{
-			"UniqueID": "ppja.tailormouse"
-		}
-	],
-	"ContentPackFor": {
-		"UniqueID": "DIGUS.MailFrameworkMod"
-	}
+    "Name": "Tailor Mouse MFM Component",
+    "Author": "Project Populate Json Assets",
+    "Version": "2.2.2",
+    "Description": "Me sell clothes. Okey poke?",
+    "UniqueID": "ppja.MFM.tailormouse",
+    "MinimumApiVersion": "3.6.0",
+    "Dependencies": [
+    {
+        "UniqueID": "ppja.tailormouse",
+        "IsRequired": true
+    },
+    {
+        "UniqueID": "Platonymous.ModUpdater",
+        "IsRequired": false
+    }, ],
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.MailFrameworkMod"
+    },
+    "ModUpdater":
+    {
+        "Repository": "PPJA",
+        "User": "Paradigmnomad",
+        "Directory": "_releases",
+        "ModFolder": "[MFM] Tailor Mouse"
+    },
 }
