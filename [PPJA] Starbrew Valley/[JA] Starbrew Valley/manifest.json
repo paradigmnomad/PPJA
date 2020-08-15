@@ -34,16 +34,5 @@
     {
         "UniqueID": "Cherry.CustomCraftingStations",
         "IsRequired": false,
-    },
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
-    }, ],
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[PPJA] Starbrew Valley"
-    },
+    },]
 }

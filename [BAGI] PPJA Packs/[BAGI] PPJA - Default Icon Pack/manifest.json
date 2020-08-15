@@ -11,16 +11,4 @@
         "UniqueID": "cat.betterartisangoodicons",
         "MinimumVersion": "1.4.0"
     },
-    "Dependencies": [
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
-    }, ],
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[BAGI] PPJA - Default Icon Pack"
-    },
 }

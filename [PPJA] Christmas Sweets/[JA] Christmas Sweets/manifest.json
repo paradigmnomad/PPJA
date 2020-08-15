@@ -25,17 +25,6 @@
     {
         "UniqueID": "ppja.artisanvalleymachinegoods",
         "IsRequired": false,
-    },
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
-    }, ],
+    },],
     "UpdateKeys": ["Nexus:4950"],
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[PPJA] Christmas Sweets"
-    },
 }

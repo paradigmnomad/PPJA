@@ -2,6 +2,8 @@
     "Name": "Chamomile",
     "Description": "White daisy like flowers with a scent reminiscent of apples or pineapple.",
     "Category": "Flower",
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 18,
     "Price": 45,
     "IsColored": false,

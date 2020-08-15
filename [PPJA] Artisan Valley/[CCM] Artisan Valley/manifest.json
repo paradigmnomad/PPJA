@@ -1,10 +1,10 @@
 ﻿{
     "Name": "[CCM] Artisan Valley",
     "Author": "Project Populate Json Assets",
-    "Version": "3.0.2",
+    "Version": "3.0.3",
     "Description": "Lets you input certain Artisan Valley items into casks.",
     "UniqueID": "ppja.artisanvalleyCCM",
-    "MinimumApiVersion": "3.6.1",
+    "MinimumApiVersion": "3.6.0",
     "UpdateKeys": ["Nexus:1926@CCMArtisanValley"],
     "Dependencies": [
     {
@@ -14,6 +14,10 @@
     {
         "UniqueID": "ppja.artisanvalleyPFM",
         "IsRequired": true
+    },
+    {
+        "UniqueID": "Platonymous.ModUpdater",
+        "IsRequired": false
     }, ],
     "ContentPackFor":
     {
@@ -26,4 +30,5 @@
         "Directory": "_releases",
         "ModFolder": "[CCM] Artisan Valley"
     },
+
 }

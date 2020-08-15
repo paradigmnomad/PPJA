@@ -2,8 +2,8 @@
     "Name": "Artisan Valley Machine Goods",
     "Author": "Project Populate JsonAssets",
     "Description": "Adds new items to the game via PFM machines. Requires PFM and JA to work properly.",
-    "Version": "3.0.16",
-    "MinimumApiVersion": "3.6.1",
+    "Version": "3.0.17",
+    "MinimumApiVersion": "3.6.0",
     "UniqueID": "ppja.artisanvalleymachinegoods",
     "ContentPackFor":
     {
@@ -34,5 +34,12 @@
         "UniqueID": "Platonymous.ModUpdater",
         "IsRequired": false
     }, ],
-    "UpdateKeys": ["Nexus:1926"],    
+    "UpdateKeys": ["Nexus:1926"],
+    "ModUpdater":
+    {
+        "Repository": "PPJA",
+        "User": "Paradigmnomad",
+        "Directory": "_releases",
+        "ModFolder": "[JA] Artisan Valley Machine Goods"
+    },
 }

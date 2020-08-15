@@ -13,17 +13,6 @@
     {
         "UniqueID": "PPJA.AncientCropsAddOn",
         "IsRequired": true
-    },
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
     }, ],
     "UpdateKeys": ["Nexus:4472"],
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[PPJA] Ancient Crops"
-    },
 }

@@ -10,16 +10,4 @@
         "UniqueID": "spacechase0.JsonAssets"
     },
     "UpdateKeys": ["Nexus:1671"],
-    "Dependencies": [
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
-    }, ],
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[PPJA] More Trees"
-    },
 }

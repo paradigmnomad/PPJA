@@ -10,16 +10,16 @@
         "UniqueID": "spacechase0.JsonAssets"
     },
     "UpdateKeys": ["Nexus:1598"],
-    "Dependencies": [
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
-    }, ],
     "ModUpdater":
     {
         "Repository": "PPJA",
         "User": "Paradigmnomad",
         "Directory": "_releases",
-        "ModFolder": "[PPJA] Fruits and Veggies"
+        "ModFolder": "[JA] Fruits and Veggies"
     },
+    "Dependencies": [
+    {
+        "UniqueID": "Platonymous.ModUpdater",
+        "IsRequired": false
+    }, ]
 }
