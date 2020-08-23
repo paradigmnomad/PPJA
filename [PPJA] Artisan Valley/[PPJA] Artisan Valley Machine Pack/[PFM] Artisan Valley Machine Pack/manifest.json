@@ -1,14 +1,14 @@
 ﻿{
 	"Name": "[PFM] Artisan Valley - MACHINES ONLY",
 	"Author": "Project Populate Json Assets",
-	"Version": "1.0.0",
+	"Version": "1.0.1",
 	"Description": "MACHINES ONLY Producer Framework Mod component.",
 	"UniqueID": "ppja.artisanvalleymachinesPFM",
-	"MinimumApiVersion": "3.3.2",
-	"UpdateKeys": [],
+	"MinimumApiVersion": "3.6.0",
 	"Dependencies": [
 		{
-			"UniqueID": "ppja.artisanvalleymachinesJA"
+			"UniqueID": "ppja.artisanvalleymachinesJA",
+			"IsRequired": true
 		}
 	],
 	"ContentPackFor": {
