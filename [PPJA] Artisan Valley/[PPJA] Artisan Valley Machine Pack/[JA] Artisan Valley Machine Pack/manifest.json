@@ -1,17 +1,18 @@
 {
-   "Name": "Artisan Valley - MACHINES ONLY",
-   "Author": "Project Populate JsonAssets",
-   "Description": "Artisan Valley MACHINES ONLY. For those who want to use Artisan Valley machines. Does not do anything on its own. Requires other content packs.",
-   "Version": "1.0.0",
-   "MinimumApiVersion": "3.3.2",
-   "UniqueID": "ppja.artisanvalleymachinesJA",
-   "ContentPackFor": {
-       "UniqueID": "spacechase0.JsonAssets"
+    "Name": "Artisan Valley - MACHINES ONLY",
+    "Author": "Project Populate JsonAssets",
+    "Description": "Artisan Valley MACHINES ONLY. For those who want to use Artisan Valley machines. Does not do anything on its own. Requires other content packs.",
+    "Version": "1.0.1",
+    "MinimumApiVersion": "3.6.0",
+    "UniqueID": "ppja.artisanvalleymachinesJA",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
     },
- {
-      "UniqueID": "DIGUS.ProducerFrameworkMod",
-      "IsRequired": true,
-   },
-],
-"UpdateKeys": [ "Nexus:1926" ],
+    "Dependencies": [
+    {
+        "UniqueID": "DIGUS.ProducerFrameworkMod",
+        "IsRequired": true,
+    }],
+    "UpdateKeys": ["Nexus:1926@ArtisanValleyMachinePack"],
 }
