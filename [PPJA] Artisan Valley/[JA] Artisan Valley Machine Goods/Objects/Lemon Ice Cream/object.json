@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "레몬 아이스크림",
         "de": "Zitronen Eis",
         // "fr": "",
         // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "풍성한 과일향이 향긋하고 새콤한 간식.",
         "de": "Eine prickelnde, fruchtig, saure Erfrischung.",
         // "fr": "",
         // "hu": "",
