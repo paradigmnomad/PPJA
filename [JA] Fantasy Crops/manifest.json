@@ -10,16 +10,4 @@
         "UniqueID": "spacechase0.JsonAssets"
     },
     "UpdateKeys": ["Nexus:1610"],
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[JA] Fantasy Crops"
-    },
-    "Dependencies": [
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
-    }, ]
 }
