@@ -2,7 +2,7 @@
     "Name": "Elderberry",
     "Description": "Your mother was a hamster and your father smelt of elderberries!",
     "Category": "Fruit",
-    "Edibility": 15,
+    "Edibility": -15,
     "Price": 20,
     "IsColored": false,
     "GiftTastes":
