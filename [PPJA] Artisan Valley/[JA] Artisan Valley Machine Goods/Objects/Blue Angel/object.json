@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "블루 엔젤",
         "de": "Blauer Engel",
         // "fr": "",
         // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "블루베리와 페퍼민트로 구성된 천상의 맛.",
         "de": "Himmlische Spezialität, bestehend aus Blaubeeren und Pfefferminz.",
         // "fr": "",
         // "hu": "",
