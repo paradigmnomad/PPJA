@@ -17,6 +17,7 @@
         "Ritsune.ChocolatierJA",
         "ppja.christmassweets",
         "Immort.Weap",
+        "zcsnightmare.naw",
         "ppja.artisanvalleymachinegoods",
         "Hadi.JASoda",
         "deffiliation.JAKimchiMaker",
@@ -142,6 +143,17 @@
             "IsRecipe": true,
             "MaxNumItemsSoldInItemStock": 2,
             "JAPacks": [
+                "KAYA.CherryBlossomCafe",
+              ],
+            "When": [ 
+                "!z spring",
+                ],
+            },
+            {
+            "ItemType": "Object",
+            "IsRecipe": true,
+            "MaxNumItemsSoldInItemStock": 2,
+            "JAPacks": [
                 "amburr.spoopyvalley"
               ],
             "When": [ 
@@ -184,7 +196,6 @@
       "ItemStocks": [
         {
           "ItemType": "Object",
-          "StockPrice": 500,
           "MaxNumItemsSoldInItemStock": 7,
           "ItemNames": [
           	"Beef",
@@ -228,6 +239,7 @@
           "MaxNumItemsSoldInItemStock": 3,
           "JAPacks": [
             "Immort.Weap",
+            "zcsnightmare.naw",
           ],
         },
         {
