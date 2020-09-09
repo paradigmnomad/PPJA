@@ -28,7 +28,8 @@
         "PurchasePrice": 3000,
         "PurchaseFrom": "Krobus",
         "PurchaseRequirements": [
-            "f Wizard 1500"
+            "f Wizard 1500",
+            "y 3"
         ],
     },
     "NameLocalization":

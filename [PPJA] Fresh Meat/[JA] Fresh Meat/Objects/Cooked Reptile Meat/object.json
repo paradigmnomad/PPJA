@@ -22,6 +22,7 @@
             "Object": "Seasonings",
             "Count": 1,
         }, ],
+        "IsDefault": true,
     },
     "CanPurchase": true,
     "PurchaseFrom": "Gus",

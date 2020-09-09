@@ -2,7 +2,7 @@
     "Name": "Canned Fish",
     "Description": "A tin of freshly canned fish.",
     "Category": "AnimalGoods",
-    "Edibility": -300,
+    "Edibility": 10,
     "Price": 250,
     "IsColored": false,
     "GiftTastes":

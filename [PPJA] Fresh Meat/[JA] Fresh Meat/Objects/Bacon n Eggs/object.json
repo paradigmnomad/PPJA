@@ -2,10 +2,10 @@
     "Name": "Bacon n Eggs",
     "Description": "Nothing like bacon and eggs on a cold morning.",
     "Category": "Cooking",
-    "Edibility": 67,
+    "Edibility": 95,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 245,
+    "Price": 400,
     "IsColored": false,
     "GiftTastes":
     {

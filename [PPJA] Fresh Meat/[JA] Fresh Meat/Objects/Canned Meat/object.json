@@ -2,7 +2,7 @@
     "Name": "Canned Meat",
     "Description": "Does anybody actually enjoy this? Good for using in stews but not for grilling.",
     "Category": "AnimalGoods",
-    "Edibility": -300,
+    "Edibility": 20,
     "Price": 300,
     "IsColored": false,
     "GiftTastes":

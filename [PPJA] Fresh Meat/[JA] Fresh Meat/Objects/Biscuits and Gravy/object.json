@@ -1,18 +1,18 @@
 {
-    "Name": "Shrimp Stock",
-    "Description": "Stewed down chicken broth that's often used as a base for soup.",
+    "Name": "Biscuits and Gravy",
+    "Description": "A breakfast classic with some homemade biscuits.",
     "Category": "Cooking",
-    "Edibility": 66,
+    "Edibility": 180,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 460,
+    "Price": 720,
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Harvey"],
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Willy", "Wizard"],
-        "Neutral": ["Emily", "Leah", "Marnie"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Shane", "Vincent"],
+        "Love": ["Clint", "Kent", "Pierre", "Jodi", "George"],
+        "Like": ["Alex", "Demetrius", "Dwarf", "Elliott", "Evelyn", "Gus", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Caroline", "Harvey", "Marnie", "Sam"],
+        "Dislike": ["Abigail", "Emily", "Haley", "Jas", "Leah", "Vincent"],
         "Hate": ["Sebastian"],
     },
     "Recipe":
@@ -20,34 +20,26 @@
         "ResultCount": 1,
         "Ingredients": [
         {
-            "Object": 733,
-            "Count": 2,
-        },
-        {
-            "Object": 248,
-            "Count": 3,
-        },
-        {
-            "Object": "Onion",
+            "Object": 216,
             "Count": 1,
         },
         {
-            "Object": "Celery",
+            "Object": "Sausage",
             "Count": 1,
         },
         {
-            "Object": "Carrot",
+            "Object": "White Gravy",
             "Count": 1,
-        }],
+        }, ],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
-        "PurchasePrice": 2460,
+        "PurchasePrice": 900,
         "PurchaseRequirements": ["y 2", ],
     },
     "NameLocalization":
     {
         // "es": "",
-        "ko": "새우 육수",
+        // "ko": "",
         // "de": "",
         // "fr": "",
         // "hu": "",
@@ -61,7 +53,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        "ko": "수프의 기초로 자주 사용되는 새우 육수.",
+        // "ko": "",
         // "de": "",
         // "fr": "",
         // "hu": "",

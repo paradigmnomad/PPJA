@@ -11,9 +11,10 @@
         "Hate": ["Sebastian"],
     },
     "Recipe": null,
-	"NameLocalization": { 
-		// "es": "",
-		"ko": "돈피",
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "돈피",
         //"de": "",
         // "fr": "",
         // "hu": "",
@@ -38,8 +39,8 @@
         // "tr": "",
         //"zh": "",
     },
-	"ContextTags": [
+    "ContextTags": [
         "leather_item",
     ],
-    "EnableWithMod": "Cherry.MultiYieldCrops"    
+    "EnableWithMod": "Cherry.MultiYieldCrops"
 }

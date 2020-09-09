@@ -17,7 +17,7 @@
         "MaxIncreasePerFarmLevel": 0,
         "ExtraChance": 0.1,
     },
-    "SeedPurchasePrice": 100,
+    "SeedPurchasePrice": 105,
     "SeedNameLocalization":
     {
         "es": "Semillas de... ¡¿puerco?!",

@@ -5,6 +5,8 @@
     "Edibility": -300,
     "Price": 10,
     "IsColored": false,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 50,
     "PurchaseRequirements": null,    
     "NameLocalization":

@@ -5,7 +5,7 @@
     "Edibility": 164,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 950,
+    "Price": 700,
     "IsColored": false,
     "GiftTastes":
     {
@@ -44,11 +44,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 680,
-        "PurchaseRequirements": [
-            "r 0.25",
-        ]
     },
-
     "NameLocalization":
     {
         "es": "Hamburguesa de tocino",

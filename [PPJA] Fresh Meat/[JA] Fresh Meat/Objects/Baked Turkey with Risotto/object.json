@@ -2,8 +2,8 @@
     "Name": "Baked Turkey with Risotto",
     "Description": "Juicy, tender turkey slices over piping hot risotto.",
     "Category": "Cooking",
-    "Edibility": 60,
-    "Price": 175,
+    "Edibility": 215,
+    "Price": 890,
     "IsColored": false,
     "Recipe":
     {
@@ -20,11 +20,12 @@
         {
             "Object": 404,
             "Count": 1,
-        },
-        ],
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 725,
+        "PurchaseRequirements": null,
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
     "NameLocalization":
     {
         // "es": "",
@@ -37,7 +38,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "烤火鸡配意式烩饭",
+        "zh": "烤火鸡配意式烩饭",
     },
     "DescriptionLocalization":
     {
@@ -51,6 +52,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "鲜嫩多汁的火鸡切片，配上滚烫的意大利烩饭。",
+        "zh": "鲜嫩多汁的火鸡切片，配上滚烫的意大利烩饭。",
     }
 }

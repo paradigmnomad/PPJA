@@ -16,11 +16,11 @@
             "Object": 112,
             "Count": 1,
         },
-	{
+        {
             "Object": 72,
             "Count": 5,
         }, ],
-        "CanPurchase": false,
+        "IsDefault": true
     },
     "NameLocalization":
     {

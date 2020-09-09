@@ -25,9 +25,10 @@
             "Object": 635,
             "Count": 1,
         }, ],
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 725,
+        "PurchaseRequirements": ["y 2"]
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
 
     "NameLocalization":
     {

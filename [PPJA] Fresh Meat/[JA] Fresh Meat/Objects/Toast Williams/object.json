@@ -1,11 +1,11 @@
 {
     "Name": "Toast Williams",
-    "Description": "Toast Hawaii but with a pear instead of Pineapple",
+    "Description": "Toast Hawaii but with a pear instead of pineapple",
     "Category": "Cooking",
     "Edibility": 57,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 800,
+    "Price": 675,
     "IsColored": false,
     "GiftTastes":
     {

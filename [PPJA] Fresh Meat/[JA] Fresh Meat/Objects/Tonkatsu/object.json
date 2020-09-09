@@ -25,10 +25,10 @@
             "Object": 247,
             "Count": 1,
         }, ],
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 725,
+        "PurchaseRequirements": null,
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
@@ -41,7 +41,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "吉列猪排",
+        "zh": "吉列猪排",
     },
     "DescriptionLocalization":
     {
@@ -55,6 +55,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "日式炸猪排，裹上面包糠和炸粉后炸至金黄的野猪排。",
+        "zh": "日式炸猪排，裹上面包糠和炸粉后炸至金黄的野猪排。",
     }
 }

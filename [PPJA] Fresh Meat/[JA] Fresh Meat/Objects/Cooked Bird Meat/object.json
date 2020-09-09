@@ -3,7 +3,7 @@
     "Description": "A little hunk of bird meat, already cooked and ready to be used in recipes.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 110,
+    "Price": 125,
     "IsColored": false,
     "GiftTastes":
     {
@@ -23,10 +23,11 @@
             "Object": "Seasonings",
             "Count": 1,
         }, ],
+        "IsDefault": true,
     },
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
-    "PurchasePrice": 150,
+    "PurchasePrice": 175,
     "PurchaseRequirements": null,
     "NameLocalization":
     {

@@ -1,9 +1,9 @@
 {
     "Name": "Alpaca Meat",
     "Description": "A cut of meat from an alpaca.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
-    "Price": 75,
+    "Price": 135,
     "IsColored": false,
     "GiftTastes":
     {

@@ -11,9 +11,10 @@
         "Hate": ["Sebastian"],
     },
     "Recipe": null,
-	"NameLocalization": { 
-		// "es": "",
-		"ko": "들소가죽",
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "들소가죽",
         //"de": "",
         // "fr": "",
         // "hu": "",
@@ -37,9 +38,9 @@
         // "ru": "",
         // "tr": "",
         //"zh": "",
-    },  
-	"ContextTags": [
+    },
+    "ContextTags": [
         "leather_item",
     ],
-    "EnableWithMod": "Cherry.MultiYieldCrops"    
+    "EnableWithMod": "Cherry.MultiYieldCrops"
 }

@@ -1,7 +1,7 @@
 {
     "Name": "Duck",
     "Description": "A drumstick from a duck.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
     "Price": 85,
     "IsColored": false,

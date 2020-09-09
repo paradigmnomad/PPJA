@@ -1,17 +1,17 @@
 ﻿{
-	"Name": "[MYC] Fresh Meat",
-	"Author": "Project Populate Json Assets",
-	"Version": "3.0.0-beta-2",
-	"Description": "Allows multiple drops from crops.",
-	"UniqueID": "ppja.FreshMeatforMYC",
-	"MinimumApiVersion": "3.6.0",
-	"Dependencies": [
-		{
-			"UniqueID": "paradigmnomad.freshmeat",
-			"IsRequired": true
-		}
-	],
-	"ContentPackFor": {
-		"UniqueID": "Cherry.MultiYieldCrops"
-	}
+    "Name": "[MYC] Fresh Meat",
+    "Author": "Project Populate Json Assets",
+    "Version": "3.0.0-beta-3",
+    "Description": "Allows multiple drops from crops.",
+    "UniqueID": "ppja.FreshMeatforMYC",
+    "MinimumApiVersion": "3.6.0",
+    "Dependencies": [
+    {
+        "UniqueID": "paradigmnomad.freshmeat",
+        "IsRequired": true
+    }],
+    "ContentPackFor":
+    {
+        "UniqueID": "Cherry.MultiYieldCrops"
+    }
 }

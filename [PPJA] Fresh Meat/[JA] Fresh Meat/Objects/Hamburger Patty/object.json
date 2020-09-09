@@ -5,7 +5,7 @@
     "Edibility": 40,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 380,
+    "Price": 130,
     "IsColored": false,
     "GiftTastes":
     {
@@ -22,10 +22,13 @@
         }],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
-        "PurchasePrice": 850,
+        "PurchasePrice": 550,
         "PurchaseRequirements": null,
     },
-
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 125,
+    "PurchaseRequirements": null,
     "NameLocalization":
     {
         // "es": "",

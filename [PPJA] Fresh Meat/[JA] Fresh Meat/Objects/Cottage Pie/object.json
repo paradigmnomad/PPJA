@@ -3,7 +3,7 @@
     "Description": "Hot pie flled with meat and veggies, just like Dad used to make.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 800,
     "IsColored": false,
     "Recipe":
     {
@@ -24,12 +24,11 @@
         {
             "Object": "Batter",
             "Count": 1,
-        },
-        ],
+        }, ],
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1125,
+        "PurchaseRequirements": ["y 3"],
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
@@ -42,7 +41,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "英式农舍派",
+        "zh": "英式农舍派",
     },
     "DescriptionLocalization":
     {
@@ -56,6 +55,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "热腾腾的馅饼，上面点缀着肉和蔬菜，就像爸爸以前做的那样。",
+        "zh": "热腾腾的馅饼，上面点缀着肉和蔬菜，就像爸爸以前做的那样。",
     }
 }

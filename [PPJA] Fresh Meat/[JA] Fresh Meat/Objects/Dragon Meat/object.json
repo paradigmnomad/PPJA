@@ -1,7 +1,7 @@
 {
     "Name": "Dragon Meat",
     "Description": "An oddly green steak cut from a dragon.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
     "Price": 450,
     "IsColored": false,

@@ -2,10 +2,10 @@
     "Name": "Bangers Beans and Mash",
     "Description": "Mashed potatoes, beans, and sausage.",
     "Category": "Cooking",
-    "Edibility": 209,
+    "Edibility": 225,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 450,
+    "Price": 1625,
     "IsColored": false,
     "GiftTastes":
     {

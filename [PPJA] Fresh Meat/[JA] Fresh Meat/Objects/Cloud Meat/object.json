@@ -1,7 +1,7 @@
 {
     "Name": "Cloud Meat",
     "Description": "It tastes like....nothing. It'll evaporate if cooked.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
     "Price": 225,
     "IsColored": false,
