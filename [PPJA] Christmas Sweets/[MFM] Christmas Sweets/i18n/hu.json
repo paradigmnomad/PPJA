@@ -1,0 +1,17 @@
+{
+    "Dehydrator.Tea": "Szárított {inputName} levelek",
+    "Dehydrator.Fruit": "Aszalt {inputName}",
+    "DryingRack.Flower": "Szárított {inputName}",
+    "DryingRack.Herb": "Szárított {inputName}",
+    "DryingRack.Vegetable": "Szárított {inputName}",
+    "DryingRack.Mushroom": "Szárított {inputName}",
+    "Grinder.Herb": "Őrölt {inputName}",
+    "Grinder.Vegetable": "Őrölt {inputName}",
+    "Infuser.Schnapps": "{inputName} snapsz",
+    "YogurtJar.Fruit": "{inputName} joghurt",
+    "WaxBarrel.Candle": "{inputName} gyertya",
+    "Alembic.EssentialOil": "{inputName} illóolaj",
+    "Juice.Fruit": "{inputName} dzsúsz",
+    "SoapPress.Soap": "Kézműves {inputName} szappan",
+    "Smoker.Fish": "Füstölt {inputName} ",
+}
