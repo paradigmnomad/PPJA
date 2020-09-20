@@ -9,20 +9,9 @@
     {
         "UniqueID": "ppja.tailormouse",
         "IsRequired": true
-    },
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
-    }, ],
+    },],
     "ContentPackFor":
     {
         "UniqueID": "DIGUS.MailFrameworkMod"
-    },
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[MFM] Tailor Mouse"
     },
 }

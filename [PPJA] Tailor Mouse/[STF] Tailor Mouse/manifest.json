@@ -14,16 +14,5 @@
     {
         "UniqueID": "ppja.tailormouse",
         "IsRequired": true
-    },
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
     }, ],
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[STF] Tailor Mouse"
-    },
 }

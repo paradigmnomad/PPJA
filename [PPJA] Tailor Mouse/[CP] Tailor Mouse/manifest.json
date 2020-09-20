@@ -9,16 +9,4 @@
     {
         "UniqueID": "Pathoschild.ContentPatcher"
     },
-    "Dependencies": [    
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
-    }, ],
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[CP] Tailor Mouse"
-    },
 }
