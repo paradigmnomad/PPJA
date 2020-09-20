@@ -1,0 +1,15 @@
+{
+
+// Text
+
+"introduction.text": "Kedves @, ^^Ezúton szeretnénk tájékoztatni Önt arról, hogy Khadija Receptboltja mostantól nyitva áll!^^Nálunk megtalálható számos receptkönyv és ritka tárgy Ferngill Köztársaságból, és választékunk mindig változik, szóval nehogy lemaradjon!^^Bódénkat megtalálja a régi, használaton kívüli fagylalt boltnál a városban minden nap reggel 8-tól este 7-ig.^^Már alig várjuk, hogy üzletelhessünk Önnel!^^- Zamir és Khadija, a Khadija Receptbolt tulajdonosai és kabalája",
+"saturdays.text": "Kedves @, ^^Az én nevem Nasira, és ugyan még nem találkoztunk, valószínűleg látta már a testvéremet és az ismerősét, Khadijat a városi bódénknál.^^Ezúton szeretném tájékoztatni Önt, hogy hétvégenként én leszek a felelős a boltért, amíg Zamira árúért megy a városba. Az az igazság, hogy használhatatlan vagyok a konyhában, szóval receptek helyett különböző húsokat, fegyvereket, és tervrajzokat számos géphez fogok árulni.^^Remélem hasznosnak találja szolgáltatásainkat, legalább addig, ameddig a testvérem vissza nem érkezik hétfőnként.^^-Nasira, Huntress of the Clan of Ridha",
+"summer.text": "Kedves @, ^^Nagyon sok köszönet a pártfogásáért!^^Ezúton szeretnénk tájékoztatni Önt, hogy ezen a nyáron átköltözünk Calico Sivatagba az évszak végéig. Megtalál minket az északnyugati tónál, szóval szeretettel várjuk!^^Ősszel visszatérünk a városba, és ezentúl is örömmel fogadnánk támogatását.^^Minden jót,^^- Zamir, Nasira, és Khadija, a Khadija Receptbolt tulajdonosai és kabalája",
+
+// Titles
+
+"introduction.title": "Khadija Receptboltja nyitva áll!",
+"saturdays.title": "Nasira fegyverei és hústermékei",
+"summer.title": "Nyári költözés",
+
+}
