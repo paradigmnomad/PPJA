@@ -1,5 +1,5 @@
 {
-    "Format": "1.15.0",
+    "Format": "1.18.0",
     "DynamicTokens": [
     {
         "Name": "TailorMouse-Style",
@@ -10,7 +10,7 @@
         "Value": "_FlowerValley",
         "When":
         {
-            "HasMod:kaya.floralvalley": true
+            "HasMod": "kaya.floralvalley"
         }
     },
 ],
@@ -35,10 +35,10 @@
         },
         "When":
         {
-            "HasReadLetter |contains=tailormouseletter": true,
+            "HasReadLetter": "tailormouseletter",
             "HasMod |contains=TMXVMarket": false
         }
-    },
+    },/*
     {
         "LogName": "English Mail",
         "Action": "EditData",
@@ -49,7 +49,7 @@
         },
         "When":
         {
-            "HasReadLetter |contains=hatter": true,
+            "HasReadLetter": "hatter"
         },
     }, 
     {
@@ -62,9 +62,9 @@
         },
         "When":
         {
-            "HasReadLetter |contains=hatter": true,
+            "HasReadLetter": "hatter",
             "Language": "zh",
         },
-    }, 
+    }, */
     ]
 }
