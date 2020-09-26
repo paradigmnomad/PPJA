@@ -47,7 +47,7 @@
         "LocalizedQuote":
         {
             // "es": "",
-            // "ko": "",
+            "ko": "어서오세요! 카디야도 어서 오라고 인사하고 있어!",
             // "de": "",
             // "fr": "",
             // "hu": "",
@@ -190,7 +190,21 @@
         "When": [ //only open the store from 9AM to 6PM
             "t 900 1800",
         ],
-        "ClosedMessage": "Zamir: Sorry, we're closed right now."
+        "ClosedMessage": "Zamir: Sorry, we're closed right now.",
+        "LocalizedClosedMessage":
+        {
+            // "es": "",
+            "ko": "자미르 : 미안한데, 지금은 영업 중이 아니야.",
+            // "de": "",
+            // "fr": "",
+            // "hu": "",
+            // "it": "",
+            // "ja": "",
+            // "pt": "",
+            // "ru": "",
+            // "tr": "",
+            // "zh": "", 
+        },
     },
     {
         "ShopName": "RecipeShopSat",
@@ -210,7 +224,7 @@
         "LocalizedQuote":
         {
             // "es": "",
-            // "ko": "",
+            "ko": "나는 매주 토요일마다 다른 물건을 가져와.",
             // "de": "",
             // "fr": "",
             // "hu": "",
@@ -323,7 +337,7 @@
         "LocalizedClosedMessage":
         {
             // "es": "",
-            // "ko": "",
+            "ko": "나시라 : 오늘은 영업 끝났어. 나중에 다시 와줄래?",
             // "de": "",
             // "fr": "",
             // "hu": "",
