@@ -1,11 +1,11 @@
 {
     "Name": "Lobster Stock",
-    "Description": "Stewed down chicken broth that's often used as a base for soup.",
+    "Description": "Stewed down lobster broth that's often used as a base for soup.",
     "Category": "Cooking",
     "Edibility": 66,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 460,
+    "Price": 1760,
     "IsColored": false,
     "GiftTastes":
     {
