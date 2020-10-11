@@ -3,7 +3,7 @@
     "Description": "Who knew frogs were so good in curry?",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 915,
     "IsColored": false,
     "Recipe":
     {
@@ -20,12 +20,13 @@
         {
             "Object": "Batter",
             "Count": 1,
-        },
+        }, ],
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 675,
+        "PurchaseRequirements": [
+            "y 3",
         ],
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
@@ -38,7 +39,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "炸鱼薯条店咖喱",
+        "zh": "炸鱼薯条店咖喱",
     },
     "DescriptionLocalization":
     {
@@ -52,6 +53,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "谁知道青蛙在咖喱里这么好吃？",
+        "zh": "谁知道青蛙在咖喱里这么好吃？",
     }
 }

@@ -1,7 +1,7 @@
 {
     "Name": "Venison",
     "Description": "Soft, tender meat cut from a deer.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
     "Price": 75,
     "IsColored": false,
@@ -10,8 +10,7 @@
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian"],
     },
-    "Recipe": null,
-    
+    "Recipe": null,    
     "NameLocalization":
     {
         // "es": "",

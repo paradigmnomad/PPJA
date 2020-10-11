@@ -1,9 +1,9 @@
 {
     "Name": "Rabbit",
     "Description": "A gamey cut from a rabbit.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
-    "Price": 50,
+    "Price": 53,
     "IsColored": false,
     "GiftTastes":
     {

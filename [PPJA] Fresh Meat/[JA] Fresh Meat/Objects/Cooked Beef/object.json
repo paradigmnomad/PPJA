@@ -3,7 +3,7 @@
     "Description": "A thick, juicy slab of beef already cooked and ready to be used in recipes.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 165,
     "IsColored": false,
     "GiftTastes":
     {
@@ -26,7 +26,7 @@
     },
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
-    "PurchasePrice": 175,
+    "PurchasePrice": 200,
     "PurchaseRequirements": null,
     "NameLocalization":
     {

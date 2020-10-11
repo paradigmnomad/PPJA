@@ -1,46 +1,48 @@
 {
-  "Name": "Florist's Table",
-  "Description": "A table where you can arrange your flowers! (Sorry, but it's just decorative.)",
-  "Price": 1,
-  "ProvidesLight": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-		  "Object": 709,
-		  "Count": 10,
-      },
-      {
-		  "Object": 428,
-		  "Count": 1,
-      },
-    ],
-	"CanPurchase": false,
-  },
-   "NameLocalization": { 
-    "es": "Mesa de florería",
-    "ko": "플로리스트 테이블",
-    "de": "Floristentisch",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-    "ja": "花屋のテーブル",
-    "pt": "Meda de Flores",
-    "ru": "Стол флориста",
-     // "tr": "",
-    "zh": "花桌",
-     },
- "DescriptionLocalization": { 
-    "es": "¡Una mesa donde puedes arreglar tus flores! (Lo siento, pero es sólo decorativo).",
-    "ko": "꽃을 정리할 수있는 테이블! (안타깝지만 장식용입니다.)",
-    "de": "Ein Tisch, an dem Sie Ihre Blumen arrangieren können! (Sorry, aber es ist nur dekorativ.)",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-    "ja": "アレンジメントフラワー用のテーブル（申し訳ありません。ただのインテリアです。）",
-    "pt": "Uma mesa onde você pode organizar suas flores! (Desculpe, mas é apenas uma decoração.)",
-    "ru": "Место, где вы можете расположить свои цветы! (простите, это просто декорация)",
-     // "tr": "",
-    "zh": "一张桌子，你可以在那里摆放你的花！（emmm，但其实这只是个装饰。）",
+    "Name": "Florist's Table",
+    "Description": "A table where you can arrange your flowers! (Sorry, but it's just decorative.)",
+    "Price": 1,
+    "ProvidesLight": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 709,
+            "Count": 10,
+        },
+        {
+            "Object": 428,
+            "Count": 1,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Mesa de florería",
+        "ko": "플로리스트 테이블",
+        "de": "Floristentisch",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "花屋のテーブル",
+        "pt": "Meda de Flores",
+        "ru": "Стол флориста",
+        // "tr": "",
+        "zh": "花桌",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Una mesa donde puedes arreglar tus flores! (Lo siento, pero es sólo decorativo).",
+        "ko": "꽃을 정리할 수있는 테이블! (안타깝지만 장식용입니다.)",
+        "de": "Ein Tisch, an dem Sie Ihre Blumen arrangieren können! (Sorry, aber es ist nur dekorativ.)",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "アレンジメントフラワー用のテーブル（申し訳ありません。ただのインテリアです。）",
+        "pt": "Uma mesa onde você pode organizar suas flores! (Desculpe, mas é apenas uma decoração.)",
+        "ru": "Место, где вы можете расположить свои цветы! (простите, это просто декорация)",
+        // "tr": "",
+        "zh": "一张桌子，你可以在那里摆放你的花！（emmm，但其实这只是个装饰。）",
     }
 }

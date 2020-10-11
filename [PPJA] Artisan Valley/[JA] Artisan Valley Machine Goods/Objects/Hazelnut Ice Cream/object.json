@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "헤이즐넛 아이스크림",
         "de": "Haselnuss-Eis",
         // "fr": "",
         "hu": "Mogyorófagyi",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "견과류의 고소함이 가득!",
         "de": "Eine nussige Delikatesse.",
         // "fr": "",
         "hu": "Egy mogyorós finomság.",

@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "체리 요거트 아이스크림",
         "de": "Joghurt Kirsch Eis",
         // "fr": "",
         "hu": "Cseresznyéd joghurtos fagyi",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "과일의 신선함과 요거트가 어우러진 간식.",
         "de": "Eine fruchtig frische Erfrischung auf Joghurtbasis.",
         // "fr": "",
         "hu": "Egy gyümölcsös, joghurtos frissítő.",

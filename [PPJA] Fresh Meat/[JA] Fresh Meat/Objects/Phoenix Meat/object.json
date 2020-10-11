@@ -1,9 +1,9 @@
 {
     "Name": "Phoenix Meat",
     "Description": "It's raw, but this meat cut from a phoenix is sizzling hot.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
-    "Price": 450,
+    "Price": 600,
     "IsColored": false,
     "GiftTastes":
     {

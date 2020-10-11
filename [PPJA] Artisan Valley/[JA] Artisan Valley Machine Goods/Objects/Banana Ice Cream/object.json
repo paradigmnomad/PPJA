@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "바나나 아이스크림",
         "de": "Bananen Eis",
         // "fr": "",
         "hu": "Banánfagyi",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "음...달콤하고 향긋합니다.",
         "de": "Hmmm...suess und aromatisch.",
         // "fr": "",
         "hu": "Hmmm...édes és ízletes.",

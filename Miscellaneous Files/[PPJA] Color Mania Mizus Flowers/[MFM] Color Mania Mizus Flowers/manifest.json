@@ -1,0 +1,17 @@
+﻿{
+	"Name": "[MFM] Color Mania Mizu's Flowers",
+	"Author": "Project Populate Json Assets",
+	"Version": "1.6.6",
+	"Description": "Allows recipes to be mailed to the player.",
+	"UniqueID": "ppja.MizusFlowersforMFM",
+	"MinimumApiVersion": "3.6.0",
+	"Dependencies": [
+		{
+			"UniqueID": "mizu.flowers",
+			"IsRequired": true,
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod"
+	}
+}

@@ -2,8 +2,8 @@
     "Name": "Canned Tuna",
     "Description": "It would be great to use in a tuna melt. Mmmm tuna melt.",
     "Category": "AnimalGoods",
-    "Edibility": -300,
-    "Price": 10,
+    "Edibility": 20,
+    "Price": 150,
     "IsColored": false,
     "GiftTastes":
     {

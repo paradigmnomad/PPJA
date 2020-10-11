@@ -2,7 +2,7 @@
     "Name": "Canned Mollusc",
     "Description": "Freshly harvested mollusc's from a crab pot or foraged now in can form.",
     "Category": "AnimalGoods",
-    "Edibility": -300,
+    "Edibility": 20,
     "Price": 250,
     "IsColored": false,
     "GiftTastes":

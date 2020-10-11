@@ -138,6 +138,20 @@
    		},
 	},
 	{
+		"ProducerName": "Sorbet Machine", //Name of the producer
+		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
+		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
+		"DisableBouncingAnimationWhileWorking": true,
+		"ProducingAnimation": { 
+            "RelativeFrameIndex": [1,2,3,4,5,6], 
+            "FrameInterval": 10 
+        },
+        "ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [7],
+   		},
+	},
+	{
 		"ProducerName": "Still", //Only 1 frame
 		"AlternateFrameProducing": false, 
 		"AlternateFrameWhenReady": false, 

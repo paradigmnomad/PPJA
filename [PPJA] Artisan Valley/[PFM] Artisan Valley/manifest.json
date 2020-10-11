@@ -9,20 +9,9 @@
     {
         "UniqueID": "ppja.artisanvalleymachinegoods",
         "IsRequired": true
-    },
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
-    }, ],
+    },     ],
     "ContentPackFor":
     {
         "UniqueID": "DIGUS.ProducerFrameworkMod"
-    },
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[PFM] Artisan Valley"
-    },
+    },    
 }

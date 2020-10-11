@@ -2,10 +2,10 @@
     "Name": "Dragon",
     "Product": "Dragon Meat",
     "SeedName": "Dragon Seeds",
-    "SeedDescription": "Plant these in spring or summer. Takes 8 days to mature.",
+    "SeedDescription": "Plant these in summer or fall. Takes 18 days to mature.",
     "Type": "ArtisanGoods",
-    "Seasons": ["spring", "summer"],
-    "Phases": [1, 2, 1, 2, 2],
+    "Seasons": ["summer", "fall"],
+    "Phases": [4, 4, 5, 3, 2],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
@@ -17,11 +17,12 @@
         "MaxIncreasePerFarmLevel": 0,
         "ExtraChance": 0.1,
     },
-    "SeedPurchasePrice": 800,
+    "SeedPurchasePrice": 400,
     "SeedPurchaseFrom": "Krobus",
     "SeedPurchaseRequirements":
     [
-        "f Wizard 1500"
+        "f Wizard 1500",
+	"y 2"
     ],
     "SeedNameLocalization":
     {

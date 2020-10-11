@@ -11,9 +11,10 @@
         "Hate": ["Sebastian"],
     },
     "Recipe": null,
-	"NameLocalization": { 
-		// "es": "",
-		"ko": "말총",
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "말총",
         //"de": "",
         // "fr": "",
         "hu": "Lószőr",
@@ -37,5 +38,6 @@
         // "ru": "",
         // "tr": "",
         //"zh": "",
-    }  
+    }
 }
+

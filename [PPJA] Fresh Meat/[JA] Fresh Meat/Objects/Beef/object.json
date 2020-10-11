@@ -1,9 +1,9 @@
 {
     "Name": "Beef",
     "Description": "A thick, juicy slab of beef.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
-    "Price": 75,
+    "Price": 120,
     "IsColored": false,
     "GiftTastes":
     {

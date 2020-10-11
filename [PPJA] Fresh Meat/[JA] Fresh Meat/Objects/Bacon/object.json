@@ -5,7 +5,7 @@
     "Edibility": 40,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 230,
+    "Price": 115,
     "IsColored": false,
     "GiftTastes":
     {
@@ -20,7 +20,7 @@
         "ResultCount": 2,
         "Ingredients": [
         {
-            "Object": "Cooked Pork",
+            "Object": "Pork",
             "Count": 1,
         }],
         "IsDefault": true,

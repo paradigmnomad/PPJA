@@ -1,7 +1,7 @@
 {
     "Name": "Reptile Meat",
     "Description": "Tender meat from a reptile.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
     "Price": 125,
     "IsColored": false,

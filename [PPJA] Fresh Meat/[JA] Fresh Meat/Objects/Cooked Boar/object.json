@@ -3,7 +3,7 @@
     "Description": "A cooked slice of boar, ready for use in recipes.",
     "Category": "Cooking",
     "Edibility": -300,
-    "Price": 75,
+    "Price": 285,
     "IsColored": false,
     "GiftTastes":
     {
@@ -22,10 +22,11 @@
             "Object": "Seasonings",
             "Count": 1,
         }, ],
+        "IsDefault": true,
     },
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
-    "PurchasePrice": 125,
+    "PurchasePrice": 375,
     "PurchaseRequirements": null,
     "NameLocalization":
     {

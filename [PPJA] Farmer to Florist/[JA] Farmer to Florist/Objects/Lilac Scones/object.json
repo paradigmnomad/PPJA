@@ -1,59 +1,61 @@
 {
-  "Name": "Lilac Scones",
-  "Description": "Lightly sweetened, these go quite well with a cup of tea.",
-  "Category": "Cooking",
-  "Edibility": 65,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 300,
-  "IsColored": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Lilac",
-        "Count": 1,
-      },
-      {
-        "Object": 245,
-        "Count": 1,
-      },
-	  {
-		  "Object": 246,
-		  "Count": 1,
-	  },
-	  {
-		  "Object": -6,
-		  "Count": 1,
-	  },
-    ],
-    "IsDefault": false,
-	"CanPurchase": false,
-  },
-  "NameLocalization": { 
-    "es": "Bollo de lila",
-    "ko": "라일락 스콘",
-    "de": "Flieder-Scones",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-    "ja": "ライラックのスコーン",
-    "pt": "Bolinhos de Lilás",
-    "ru": "Булочка с сиренью",
-     // "tr": "",
-    "zh": "紫丁香烤饼",
-     },
- "DescriptionLocalization": { 
-    "es": "Ligeramente endulzado, estos van muy bien con una taza de té.",
-    "ko": "부드러운 단맛이 나며, 차 한잔과 잘 어울립니다.",
-    "de": "Leicht gesüßt schmecken sie gut zu einer Tasse Tee.",
-     // "fr": "",
-     // "hu": "",
-     // "it": "",
-    "ja": "ほんのり甘くてお茶のお供にピッタリ。",
-    "pt": "Levemente adoçados, estes vão muito bem com uma xícara de chá.",
-    "ru": "Слегка подслащенная и прекрасно сочетается с чашкой чая.",
-     // "tr": "",
-    "zh": "微甜，配上一杯茶再好不过了。",
+    "Name": "Lilac Scones",
+    "Description": "Lightly sweetened, these go quite well with a cup of tea.",
+    "Category": "Cooking",
+    "Edibility": 65,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 300,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Lilac",
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }, ],
+        "IsDefault": false,
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Bollo de lila",
+        "ko": "라일락 스콘",
+        "de": "Flieder-Scones",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "ライラックのスコーン",
+        "pt": "Bolinhos de Lilás",
+        "ru": "Булочка с сиренью",
+        // "tr": "",
+        "zh": "紫丁香烤饼",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Ligeramente endulzado, estos van muy bien con una taza de té.",
+        "ko": "부드러운 단맛이 나며, 차 한잔과 잘 어울립니다.",
+        "de": "Leicht gesüßt schmecken sie gut zu einer Tasse Tee.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "ほんのり甘くてお茶のお供にピッタリ。",
+        "pt": "Levemente adoçados, estes vão muito bem com uma xícara de chá.",
+        "ru": "Слегка подслащенная и прекрасно сочетается с чашкой чая.",
+        // "tr": "",
+        "zh": "微甜，配上一杯茶再好不过了。",
     }
 }

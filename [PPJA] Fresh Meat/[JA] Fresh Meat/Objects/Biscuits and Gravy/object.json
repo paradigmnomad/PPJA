@@ -1,0 +1,67 @@
+{
+    "Name": "Biscuits and Gravy",
+    "Description": "A breakfast classic with some homemade biscuits.",
+    "Category": "Cooking",
+    "Edibility": 180,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1400,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Clint", "Kent", "Pierre", "Jodi", "George"],
+        "Like": ["Alex", "Demetrius", "Dwarf", "Elliott", "Evelyn", "Gus", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Robin", "Sandy", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Caroline", "Harvey", "Marnie", "Sam"],
+        "Dislike": ["Abigail", "Emily", "Haley", "Jas", "Leah", "Vincent"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 216,
+            "Count": 1,
+        },
+        {
+            "Object": "Sausage",
+            "Count": 1,
+        },
+        {
+            "Object": "White Gravy",
+            "Count": 1,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 900,
+        "PurchaseRequirements": ["y 2", ],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

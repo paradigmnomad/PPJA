@@ -1,7 +1,7 @@
 {
     "Name": "Chevon",
     "Description": "A lean cut from a goat.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
     "Price": 100,
     "IsColored": false,

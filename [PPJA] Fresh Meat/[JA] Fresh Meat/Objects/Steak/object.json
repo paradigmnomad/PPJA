@@ -20,7 +20,15 @@
         "ResultCount": 1,
         "Ingredients": [
         {
-            "Object": "Cooked Beef",
+            "Object": "Beef",
+            "Count": 1,
+        },
+        {
+            "Object": "Salt",
+            "Count": 1,
+        },
+        {
+            "Object": "Pepper",
             "Count": 1,
         }],
         "CanPurchase": true,
@@ -28,7 +36,6 @@
         "PurchasePrice": 2350,
         "PurchaseRequirements": null,
     },
-
     "NameLocalization":
     {
         "es": "Filete",
@@ -56,5 +63,6 @@
         "ru": "Толстый кусок обжаренного мяса.",
         // "tr": "",
         "zh": "牛排。如果你添加了其他东西，那你做错了。",
-    }
+    },
+    "EnableWithMod": "paradigmnomad.morefood"
 }

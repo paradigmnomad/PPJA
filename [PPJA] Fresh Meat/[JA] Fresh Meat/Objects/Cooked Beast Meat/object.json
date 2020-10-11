@@ -3,7 +3,7 @@
     "Description": "Meat from a wild beast, already cooked and ready to be used in recipes.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 225,
     "IsColored": false,
     "GiftTastes":
     {
@@ -22,10 +22,11 @@
             "Object": "Seasonings",
             "Count": 1,
         }, ],
+        "IsDefault": true,
     },
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
-    "PurchasePrice": 200,
+    "PurchasePrice": 310,
     "PurchaseRequirements": null,
     "NameLocalization":
     {

@@ -1,4 +1,4 @@
-Thanks for trying out the Fresh Meat 3.0.0-beta-2! Here's some important information you'll need to know:
+Thanks for trying out the Fresh Meat 3.0.0-beta-3! Here's some important information you'll need to know:
 
 - If you have Even More Recipes - Meat (EMR-Meat) pack installed you must remove it. These recipes have been moved to Fresh Meat. All future recipes requiring meat will be added to Fresh Meat.
 - The CPA portion will be an optional download upon release. Currently all options default to disabled. If you do not want animal looking crops you can remove this portion.

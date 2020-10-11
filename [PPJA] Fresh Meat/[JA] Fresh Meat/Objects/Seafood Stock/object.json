@@ -5,7 +5,7 @@
     "Edibility": 66,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 460,
+    "Price": 560,
     "IsColored": false,
     "GiftTastes":
     {
@@ -23,7 +23,7 @@
             "Object": 719,
             "Count": 1,
         },
-	{
+        {
             "Object": 718,
             "Count": 1,
         },

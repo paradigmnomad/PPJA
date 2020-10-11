@@ -1,0 +1,12 @@
+{
+   "Name": "Color Mania - Mizu's Flowers for JsonAssets",
+   "Author": "ParadigmNomad & Eemie (Port) & Mizu (Sprites)",
+   "Description": "A port of Mizu's sprites for JsonAssets. This one gives each crop 200 unique colors. Do not use with main version.",
+   "Version": "1.6.6",
+   "MinimumApiVersion": "3.6.0",
+   "UniqueID": "mizu.flowers",
+"UpdateKeys": ["Nexus:20282@ColorMania"],
+   "ContentPackFor": {
+       "UniqueID": "spacechase0.JsonAssets"
+    },
+}

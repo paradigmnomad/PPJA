@@ -4,15 +4,16 @@
     "SeedName": "Bee Balm Seeds",
     "SeedDescription": "Plant in fall. Takes 9 days to produce an attractive flower.",
     "Type": "Flower",
+
     "Seasons": ["fall"],
     "Phases": [1, 2, 3, 3],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": [
-        "236, 0, 0, 1",
-        "224, 88, 158, 1",
-        "255, 172, 240, 1"
+        "236, 0, 0, 255",
+        "224, 88, 158, 255",
+        "255, 172, 240, 255"
     ],
     "Bonus":
     {

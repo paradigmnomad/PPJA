@@ -3,7 +3,7 @@
     "Description": "So juicy, so tender! A completely different experience from regular beef burritos.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 725,
     "IsColored": false,
     "Recipe":
     {
@@ -25,9 +25,11 @@
             "Object": 424,
             "Count": 1,
         }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 725,
+        "PurchaseRequirements": null,
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
 
     "NameLocalization":
     {

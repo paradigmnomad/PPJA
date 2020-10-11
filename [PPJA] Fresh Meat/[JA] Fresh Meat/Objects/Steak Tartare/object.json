@@ -8,7 +8,7 @@
     "GiftTastes":
     {
         "Like": ["Abigail", "Alex", "Lewis", ],
-		"Dislike": [ "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian"],
     },
     "Recipe":
@@ -19,22 +19,25 @@
             "Object": "Horse Meat",
             "Count": 1,
         },
-		{
+        {
             "Object": -5,
             "Count": 1,
         },
         {
-            "Object": 399, 
+            "Object": 399,
             "Count": 1,
         }],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1200,
-        "PurchaseRequirements": null,
+        "PurchaseRequirements": [
+            "y 2"
+        ]
     },
-	"NameLocalization": { 
-		// "es": "",
-		"ko": "스테이크 타르타르",
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "스테이크 타르타르",
         //"de": "",
         // "fr": "",
         "hu": "Tatárbifsztek",
@@ -58,5 +61,5 @@
         // "ru": "",
         // "tr": "",
         //"zh": "",
-    }  
+    }
 }

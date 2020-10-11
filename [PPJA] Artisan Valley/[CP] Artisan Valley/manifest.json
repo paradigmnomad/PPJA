@@ -13,20 +13,9 @@
     {
         "UniqueID": "ppja.artisanvalleyPFM",
         "IsRequired": true
-    },
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
-    }, ],
+    },],
     "ContentPackFor":
     {
         "UniqueID": "Pathoschild.ContentPatcher"
-    },
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[CP] Artisan Valley"
     },
 }

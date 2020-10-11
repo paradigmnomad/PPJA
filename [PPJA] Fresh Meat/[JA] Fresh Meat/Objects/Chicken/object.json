@@ -1,7 +1,7 @@
 {
     "Name": "Chicken",
     "Description": "A whole chicken, ready for cooking.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
     "Price": 60,
     "IsColored": false,

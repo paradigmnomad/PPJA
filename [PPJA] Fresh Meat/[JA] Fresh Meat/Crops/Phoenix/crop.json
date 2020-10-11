@@ -2,10 +2,10 @@
     "Name": "Phoenix",
     "Product": "Phoenix Meat",
     "SeedName": "Phoenix Seeds",
-    "SeedDescription": "Plant these in summer or fall. Takes 10 days to mature.",
+    "SeedDescription": "Plant these in summer or fall. Takes 14 days to mature.",
     "Type": "ArtisanGoods",
     "Seasons": ["summer", "fall"],
-    "Phases": [2, 2, 2, 2, 2],
+    "Phases": [3, 3, 3, 2, 3],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
@@ -17,11 +17,12 @@
         "MaxIncreasePerFarmLevel": 0,
         "ExtraChance": 0.1,
     },
-    "SeedPurchasePrice": 800,
+    "SeedPurchasePrice": 310,
     "SeedPurchaseFrom": "Krobus",
     "SeedPurchaseRequirements":
     [
-        "f Wizard 1500"
+        "f Wizard 1500",
+	"y 3"
     ],
     "SeedNameLocalization":
     {

@@ -11,9 +11,10 @@
         "Hate": ["Sebastian"],
     },
     "Recipe": null,
-	"NameLocalization": { 
-		// "es": "",
-		"ko": "드래곤 이빨",
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "드래곤 이빨",
         //"de": "",
         // "fr": "",
         "hu": "Sárkányfog",
@@ -37,6 +38,6 @@
         // "ru": "",
         // "tr": "",
         //"zh": "",
-    },  
-    "EnableWithMod": "Cherry.MultiYieldCrops"    
+    },
+    "EnableWithMod": "Cherry.MultiYieldCrops"
 }

@@ -3,7 +3,7 @@
     "Description": "A fried pasty stuffed with soft, garlicky deer meat and vegetables.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 890,
     "IsColored": false,
     "Recipe":
     {
@@ -25,10 +25,10 @@
             "Object": "Batter",
             "Count": 1,
         }, ],
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1190,
+        "PurchaseRequirements": ["y 3"],
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
@@ -41,7 +41,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "鹿肉手馅饼",
+        "zh": "鹿肉手馅饼",
     },
     "DescriptionLocalization":
     {
@@ -55,6 +55,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "一种油炸的馅饼，里面塞有柔软的蒜香鹿肉和蔬菜。",
+        "zh": "一种油炸的馅饼，里面塞有柔软的蒜香鹿肉和蔬菜。",
     }
 }

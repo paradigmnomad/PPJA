@@ -25,9 +25,6 @@
             "Count": 1
         }]
     },
-
-    // Localization
-
     "NameLocalization": //Used for localization. 
     {
         //"es": "", //Spanish
@@ -39,7 +36,7 @@
         "ja": "乾燥ラック", //Japanese
         "pt": "Secador", //Portuguese
         "ru": "Сушилка", //Russian
-        //"tr": "", //Turkish/
+        //"tr": "", //Turkish
         "zh": "晾晒架", //Chinese (Simplified)
     },
     "DescriptionLocalization": //Used for localization. 

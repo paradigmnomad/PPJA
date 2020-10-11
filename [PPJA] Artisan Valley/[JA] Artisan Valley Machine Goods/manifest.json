@@ -29,17 +29,6 @@
     {
         "UniqueID": "DIGUS.ProducerFrameworkMod",
         "IsRequired": true,
-    },
-    {
-        "UniqueID": "Platonymous.ModUpdater",
-        "IsRequired": false
     }, ],
     "UpdateKeys": ["Nexus:1926"],
-    "ModUpdater":
-    {
-        "Repository": "PPJA",
-        "User": "Paradigmnomad",
-        "Directory": "_releases",
-        "ModFolder": "[JA] Artisan Valley Machine Goods"
-    },
 }
