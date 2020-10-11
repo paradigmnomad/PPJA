@@ -1,116 +1,138 @@
 {
-    "Format": "1.15.0",
+    "Format": "1.18.0",
     "ConfigSchema":
     {
         "EnableAlpacaVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the alpaca crops appearance."
         },
         "EnableBeastVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the beast crops appearance."
         },
         "EnableBeefVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the beef crops appearance."
         },
         "CowColor":
         {
             "AllowValues": "brown, white",
             "Default": "white",
+            "Description": "If the beef variant is set to static or animated, this changes the color of the beef crop."
         },
         "EnableBirdVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the bird crops appearance."
         },
         "EnableBisonVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the bison crops appearance."
         },
         "EnableChevonVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the chevon crops appearance."
         },
         "EnableChickenVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the chicken crops appearance."
         },
         "ChickenColor":
         {
             "AllowValues": "brown, white, blue, void",
             "Default": "brown",
+            "Description": "If the chicken variant is set to static or animated, this changes the color of the chicken crop."
         },   
         "EnableDragonVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the dragon crops appearance."
         },     
         "EnableDuckVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the duck crops appearance."
         },
         "EnableFowlVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the fowl crops appearance."
         },
         "EnableFrogVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the frog crops appearance."
         },
         "EnableHorseVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the horse crops appearance."
         },
         "EnableMuttonVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the mutton crops appearance."
         },
         "EnablePhoenixVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the phoenix crops appearance."
         },
         "EnablePorkVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the pork crops appearance."
         },
         "EnableRabbitVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the rabbit crops appearance."
         },
         "EnableReptileVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the reptile crops appearance."
         },
         "EnableTurkeyVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the turkey crops appearance."
         },
         "EnableVenisonVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the venison crops appearance."
         },
         "EnableWildBoarVariant":
         {
             "AllowValues": "static, animated, disabled",
-            "Default": "disabled"
+            "Default": "disabled",
+            "Description": "Changes the wild boar crops appearance."
         },
     },
     "Changes": [

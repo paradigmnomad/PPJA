@@ -2,14 +2,14 @@
     "Name": "Fresh Meat",
     "Author": "Project Populate Json Assets",
     "Description": "MEEEEEEAT - for those who wish to have meat in their game.",
-    "Version": "3.0.0-beta-3",
-    "MinimumApiVersion": "3.6.0",
+    "Version": "3.0.0",
+    "MinimumApiVersion": "3.7.0",
     "UniqueID": "paradigmnomad.freshmeat",
     "ContentPackFor":
     {
         "UniqueID": "spacechase0.JsonAssets"
     },
-    "UpdateKeys": ["Nexus:1721@FreshMeatBeta"],
+    "UpdateKeys": ["Nexus:1721"],
     "Dependencies": [
     {
         "UniqueID": "ppja.fruitsandveggies",
