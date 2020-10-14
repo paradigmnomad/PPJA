@@ -4,7 +4,6 @@
     "SeedName": "Pink Cat Seeds",
     "SeedDescription": "Plant in spring. Takes 6 days to produce a minty pink flower.",
     "Type": "Flower",
-
     "Seasons": ["spring"],
     "Phases": [1, 2, 2, 1],
     "RegrowthPhase": -1,

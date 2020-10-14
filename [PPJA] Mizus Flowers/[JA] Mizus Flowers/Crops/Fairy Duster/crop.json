@@ -4,7 +4,6 @@
     "SeedName": "Fairy Duster Pod",
     "SeedDescription": "Plant in fall. Takes 7 days to produce a fluffy, bright flower.",
     "Type": "Flower",
-
     "Seasons": ["fall"],
     "Phases": [1, 2, 3, 1],
     "RegrowthPhase": -1,

@@ -4,7 +4,6 @@
     "SeedName": "Clary Sage Seeds",
     "SeedDescription": "Plant in summer. Takes 8 days takes to produce purple-pink flowers.",
     "Type": "Flower",
-
     "Seasons": ["summer"],
     "Phases": [1, 2, 3, 2],
     "RegrowthPhase": -1,
@@ -22,7 +21,6 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
-
     "SeedPurchasePrice": 100,
     "SeedNameLocalization":
     {

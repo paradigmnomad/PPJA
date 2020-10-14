@@ -4,7 +4,6 @@
     "SeedName": "Herbal Lavender Seeds",
     "SeedDescription": "Plant in summer. Takes 6 days to produce a soft purple flower.",
     "Type": "Flower",
-
     "Seasons": ["summer"],
     "Phases": [1, 2, 1, 2],
     "RegrowthPhase": -1,
@@ -22,7 +21,6 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
-
     "SeedPurchasePrice": 20,
     "SeedNameLocalization":
     {

@@ -4,7 +4,6 @@
     "SeedName": "Purple Coneflower Seeds",
     "SeedDescription": "Plant in fall. Takes 9 days to produce a purple flower.",
     "Type": "Flower",
-
     "Seasons": ["fall"],
     "Phases": [1, 2, 3, 3],
     "RegrowthPhase": -1,
@@ -22,7 +21,6 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
-
     "SeedPurchasePrice": 40,
     "SeedNameLocalization":
     {

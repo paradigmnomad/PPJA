@@ -4,7 +4,6 @@
     "SeedName": "Spring Rose Starter",
     "SeedDescription": "Plant in spring. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.",
     "Type": "Flower",
-
     "Seasons": ["spring"],
     "Phases": [1, 2, 3, 4, 2],
     "RegrowthPhase": 5,
@@ -18,7 +17,6 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.2,
     },
-
     "SeedPurchasePrice": 175,
     "SeedNameLocalization":
     {

@@ -4,7 +4,6 @@
     "SeedName": "Bee Balm Seeds",
     "SeedDescription": "Plant in fall. Takes 9 days to produce an attractive flower.",
     "Type": "Flower",
-
     "Seasons": ["fall"],
     "Phases": [1, 2, 3, 3],
     "RegrowthPhase": -1,

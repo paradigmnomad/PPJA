@@ -4,7 +4,6 @@
     "SeedName": "Chamomile Seeds",
     "SeedDescription": "Plant these in spring. Takes 5 days to mature.",
     "Type": "Flower",
-
     "Seasons": ["spring"],
     "Phases": [1, 1, 2, 1],
     "RegrowthPhase": -1,
@@ -18,7 +17,6 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
-
     "SeedPurchasePrice": 30,
     "SeedNameLocalization":
     {
@@ -26,7 +24,7 @@
         "ko": "캐모마일 씨앗",
         "de": "Kamillen-Saat",
         "fr": "Graines d'chamomile",
-         // "hu": "",
+        "hu": "Kamilla magvak",
          // "it": "",
         "ja": "カモミールの種",
         "pt": "Sementes de Camomila",
@@ -40,7 +38,7 @@
         "ko": "봄에 심으세요. 5일후 꽃이 핍니다.",
         "de": "Pflanze sie im Frühling. Wächst in 5 Tagen heran.",
         "fr": "Plantez-les au printemps. Prend 5 jours pour grandir.",
-         // "hu": "",
+        "hu": "Ezeket tavasszal ültesd el. 5 napig tart megérniük.",
          // "it": "",
         "ja": "春植えの花。5日かけて花を咲かせる。",
         "pt": "Plante-as na Primavera. Demoram 5 dias para amadurecerem.",

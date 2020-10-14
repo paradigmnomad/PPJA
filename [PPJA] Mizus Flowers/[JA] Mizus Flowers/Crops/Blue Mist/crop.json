@@ -4,7 +4,6 @@
     "SeedName": "Blue Mist Seeds",
     "SeedDescription": "Plant in summer. Takes 7 days to produce a blue star-shaped flower.",
     "Type": "Flower",
-
     "Seasons": ["summer"],
     "Phases": [1, 2, 2, 2],
     "RegrowthPhase": -1,
@@ -18,7 +17,6 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
-
     "SeedPurchasePrice": 180,
     "SeedNameLocalization":
     {

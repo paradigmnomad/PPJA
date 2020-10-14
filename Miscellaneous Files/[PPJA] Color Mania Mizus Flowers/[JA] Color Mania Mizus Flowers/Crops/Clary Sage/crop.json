@@ -219,7 +219,6 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
-
     "SeedPurchasePrice": 100,
     "SeedNameLocalization":
     {
@@ -227,7 +226,7 @@
         "ko": "클라리 세이지 씨앗",
         "de": "Muskatsalbei-Saat",
         "fr": "Graines de Sauge Sclarée",
-         // "hu": "",
+        "hu": "Muskotályzsálya magvak",
          // "it": "",
         "ja": "クラリセージ",
         "pt": "Sementes de sálvia esclereira",
@@ -241,7 +240,7 @@
         "ko": "여름에 심으세요. 8일후 보라색과 분홍색의 꽃이 핍니다.",
         "de": "Pflanze sie im Sommer. Wächst in 8 Tagen heran.",
         "fr": "Plantez en été. Prend 8 jours pour produire des fleurs rose-violet.",
-         // "hu": "",
+        "hu": "Ezeket nyáron ültesd el. 8 nap alatt hoz egy lilás-rózsaszínes virágot.",
          // "it": "",
         "ja": "夏植えの花。8日かけて花を咲かせる。色は咲いてのおたのしみ。",
         "pt": "Plante-as no verão. Demoram 8 dias para produzir uma flor roxa/rosa.",

@@ -4,7 +4,6 @@
     "SeedName": "Pitcher Plant Starter",
     "SeedDescription": "Plant in spring. Takes 15 days to produce a carnivorous plant, and keeps producing after the first harvest. Grows on a trellis.",
     "Type": "Flower",
-
     "Seasons": ["spring", ],
     "Phases": [3, 4, 2, 2, 4],
     "RegrowthPhase": 5,

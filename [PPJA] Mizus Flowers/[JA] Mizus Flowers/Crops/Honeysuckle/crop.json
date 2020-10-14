@@ -4,7 +4,6 @@
     "SeedName": "Honeysuckle Starter",
     "SeedDescription": "Plant in spring or summer. Takes 8 days to produce sweet smelling flowers, and keeps producing after the first harvest. Grows on a trellis.",
     "Type": "Flower",
-
     "Seasons": ["spring", "summer"],
     "Phases": [1, 2, 3, 2, ],
     "RegrowthPhase": 3,

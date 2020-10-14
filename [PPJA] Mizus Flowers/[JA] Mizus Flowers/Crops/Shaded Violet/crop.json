@@ -4,7 +4,6 @@
     "SeedName": "Shaded Violet Seeds",
     "SeedDescription": "Plant in spring. Takes 8 days to produce a rich purple flower.",
     "Type": "Flower",
-
     "Seasons": ["spring"],
     "Phases": [1, 1, 3, 3],
     "RegrowthPhase": -1,
@@ -22,7 +21,6 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
-
     "SeedPurchasePrice": 30,
     "SeedNameLocalization":
     {
