@@ -1,0 +1,25 @@
+{
+    // Text
+
+    "chamomile.text": "Kedves @,^^ Van itt pár mag a pici kertemből. Valószínűleg neked is van ilyened, de legalább finom teát lehet belőle készíteni.^^  -Caroline",
+    "fairyduster.text": "Szia kedvesem!^^Van egy idősebb fickó, aki az árút hozza a boltomba, és szerintem bejövök neki.^nem volt nála virág, ezért ezeket a magvakat adta nekem a kamionjából. Olyan aranyos!^Mindenesetre, nem tervezem őket elütetni, de talán te nagyobb hasznukat vennéd. ;)^^  -Sandy",
+    "honeysuckle.text": "Jóreggelt @,^^ Marnie meglátogatott múlt héten, és ezeket a magvakat adta nekem. Szerintem te nagyobb hasznukat vennéd, mint én. Jövőre ha lesz néhány extrád, akkor adsz majd nekem is?^^  -Leah",
+    "herballavender.text": "Jóreggelt @,^^ Szeretnék mindent megköszönni, amit a városunkért tettél. Kérlek fogadd el ezt hálám jeléül. Remélem, hogy fogsz találni egy napsütötte helyet neki a farmodon.^^  -Penny",
+    "fragrantlilac.text": "Kedves @,^^ Volt az éjjel egy álmom, melybe ezeket a magvakat adtam át neked. te elültetted őket, és a következő jelenet, amire emlékszem, az az volt, hogy egy orgonamező közepén álltam. Folyamatosan változtatták a színüket, liláról fehérre, majd újra lilára.^Nem tudom, hogy mit jelenthet, és te?^^  -Emily",
+    "passionflower.text": "Jóreggelt @,^^ Lehet, hogy nem érc, de attól még lehet, hogy jól jönnek majd. Gyere, és látogass meg a boltomban, ha lesz időd.^^  -Clint",
+    "pitcherplant.text": "Szia @,^^  Sikerült szereznem néhány magot, melyből egy igazán ragadozó növény lesz. Apa azonban fél, nehogy túl sok rovart vonzzon a házhoz, és ez elronthatja a kísérletét.^Szerintem meg tudom győzni, ha növesztesz egyet, és elhozod hozzánk.^Nagy segítség lenne, előre is köszönöm!^^  -Maru",
+    "rafflesia.text": "Kedves @,^^  Egy idős kollégám küldte ezt az exotikus magot. Ez az egyik legnagyobb virág a világon, a kinézete lenyűgöző, és én nagyon kíváncsi vagyok, mégis mekkora, és hogy néz ki.^Azonban vigyázz az aromájával virágzáskor. Mondju úgy... hogy Robin megtiltotta nekem, hogy otthon növesszem.^^ -Demetrius",
+    "rose.text": "@,^^  Esetleg el tudnál ültetni ezekből egy párat a kedvemért? Azért ez a kedvencem, mert majdnem olyan szép, mint én. ^^ -Haley",
+
+    // Titles
+
+    "chamomile.title": "Kamilla magvak",
+    "fairyduster.title": "Calliandra magvak",
+    "honeysuckle.title": "Lonc ültetvény",
+    "herballavender.title": "Orvosi Levendula magvak",
+    "fragrantlilac.title": "Illatos Orgona magvak",
+    "passionflower.title": "Golgotavirág magvak",
+    "pitcherplant.title": "Kancsóka magvak",
+    "rafflesia.title": "Raflézia magvak",
+    "rose.title": "Rózsa ültetvény"
+}
