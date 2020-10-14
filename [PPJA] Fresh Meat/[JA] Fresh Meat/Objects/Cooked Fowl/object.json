@@ -59,5 +59,6 @@
     "ContextTags": [
         "cooked_meat",
         "meat_item",
-    ]  
+    ],    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
 }

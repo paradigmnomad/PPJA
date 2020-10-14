@@ -56,5 +56,6 @@
         // "ru": "",
         // "tr": "",
         "zh": "日式炸猪排，裹上面包糠和炸粉后炸至金黄的野猪排。",
-    }
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

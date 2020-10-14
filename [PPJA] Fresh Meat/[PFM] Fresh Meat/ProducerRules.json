@@ -219,6 +219,16 @@
     },
     {
         "ProducerName": "Meat Press",
+        "InputIdentifier": "Bird DNA",
+        "InputStack": 1,
+        "FuelIdentifier": "Genetically Engineered Yeast",
+        "FuelStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Bird Meat",
+        "Sounds": ["fishSlap"],
+    },
+    {
+        "ProducerName": "Meat Press",
         "InputIdentifier": "Duck DNA",
         "InputStack": 1,
         "FuelIdentifier": "Genetically Engineered Yeast",

@@ -61,5 +61,6 @@
         "cooked_meat",
         "meat_item",
     ],
-    "EnableWithMod": "spacechase0.BugNet",
+    "EnableWithMod": "spacechase0.BugNet",   
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }
