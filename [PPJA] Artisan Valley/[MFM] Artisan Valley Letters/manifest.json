@@ -4,7 +4,7 @@
     "Version": "3.0.17",
     "Description": "Sends crafting recipes to the player.",
     "UniqueID": "ppja.artisanvalleyforMFM",
-    "MinimumApiVersion": "3.6.0",
+    "MinimumApiVersion": "3.7.0",
     "Dependencies": [
     {
         "UniqueID": "ppja.artisanvalleymachinegoods",

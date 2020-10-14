@@ -3,7 +3,7 @@
     "Author": "Project Populate JsonAssets",
     "Description": "Adds new items to the game via PFM machines. Requires PFM and JA to work properly.",
     "Version": "3.0.17",
-    "MinimumApiVersion": "3.6.0",
+    "MinimumApiVersion": "3.7.0",
     "UniqueID": "ppja.artisanvalleymachinegoods",
     "ContentPackFor":
     {
