@@ -1,5 +1,5 @@
 {
-    "Name": "Créme Brûlée",
+    "Name": "Crème Brûlée",
     "Description": "A timeless classic",
     "Category": "Cooking",
     "Edibility": 58,
@@ -42,8 +42,8 @@
     {
         // "es": "",
         // "ko": "",
-        "de": "Créme Brulée",
-        // "fr": "",
+        "de": "Crème Brûlée",
+        "fr": "Crème brûlée",
         // "hu": "",
         // "it": "",
         // "ja": "",
@@ -57,7 +57,7 @@
         // "es": "",
         // "ko": "",
         "de": "Ein zeitloses Dessert",
-        // "fr": "",
+        "fr": "Un classique indémodable.",
         // "hu": "",
         // "it": "",
         // "ja": "",

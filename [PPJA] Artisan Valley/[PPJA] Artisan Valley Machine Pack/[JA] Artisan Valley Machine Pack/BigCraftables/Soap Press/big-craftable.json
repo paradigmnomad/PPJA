@@ -4,52 +4,55 @@
     "Price": 1,
     "ProvidesLight": false,
     "ReserveExtraIndexCount": 7,
-    "Recipe": {
+    "Recipe":
+    {
         "ResultCount": 1,
-        "Ingredients": [{
-                "Object": 334,
-                "Count": 1
-            },
-            {
-                "Object": 335,
-                "Count": 5
-            },
-            {
-                "Object": 766,
-                "Count": 5
-            },
-            {
-                "Object": 572,
-                "Count": 1
-            }
-        ],
+        "Ingredients": [
+        {
+            "Object": 334,
+            "Count": 1,
+        },
+        {
+            "Object": 335,
+            "Count": 5,
+        },
+        {
+            "Object": 766,
+            "Count": 5,
+        },
+        {
+            "Object": 572,
+            "Count": 1,
+        }, ],
         "CanPurchase": false,
-        "IsDefault": true
+        "IsDefault": true,
     },
-    "NameLocalization": {
-        // "es": "",
+    "NameLocalization":
+    {
+        "es": "Prensa de Jabon",
         "ko": "비누 프레스",
         "de": "Seifenpresse",
         "fr": "Presse à savon",
-        // "hu": "",
+        "hu": "Szappan prés",
         // "it": "",
         "ja": "ソーププレス",
         "pt": "Prensa de Sabonete",
         "ru": "Пресс для мыла",
         // "tr": "",
-        "zh": "压皂机"
+        "zh": "压皂机",
     },
-    "DescriptionLocalization": {
-        // "es": "",
+    "DescriptionLocalization":
+    {
+        "es": "Una prensa diseñada para moldear jabón.",
         "ko": "비누 성형을 위해 설계된 프레스.",
         "de": "Entworfen, um Seifen zu formen.",
-        "fr": "Presse pour mouler les savons.",
-        // "hu": "",
+        "fr": "Une presse conçue pour mouler du savon.",
+        "hu": "Egy prés, melyet szappan préselésére terveztek.",
         // "it": "",
         "ja": "石けんをプレスしかたどる機械。",
         "pt": "Um prensa feita para moldar sabonete.",
         "ru": "Пресс, используемый для формирования мыла.",
         // "tr": "",
-        "zh": "一种用来制作肥皂的压力机。"
+        "zh": "一种用来制作肥皂的压力机。",
     }
 }

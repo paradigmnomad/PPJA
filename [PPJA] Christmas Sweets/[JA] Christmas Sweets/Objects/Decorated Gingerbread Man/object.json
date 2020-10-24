@@ -42,8 +42,8 @@
     {
         // "es": "",
         "ko": "장식된 진저브레드맨",
-         "de": "Verzierter Lebkuchenmann",
-        // "fr": "",
+        "de": "Verzierter Lebkuchenmann",
+        "fr": "Bonhomme de pain d'épices décoré",
         "hu": "Kidekorált mézeskalács ember",
         // "it": "",
         "ja": "ジンジャーブレッドマン",
@@ -56,8 +56,8 @@
     {
         // "es": "",
         "ko": "작은 사람모양의 생강쿠키. 매우 전통적인 모양이다.",
-         "de": "Ein klassischer Keks in Form eines kleinen Mannes.",
-        // "fr": "",
+        "de": "Ein klassischer Keks in Form eines kleinen Mannes.",
+        "fr": "Un biscuit classique en forme de petit homme.",
         "hu": "Egy klasszikus ember formájú mézeskalács.",
         // "it": "",
         "ja": "小人の形をした、クリスマスには定番のお菓子。",

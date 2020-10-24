@@ -4,43 +4,46 @@
     "Price": 1,
     "ProvidesLight": false,
     "ReserveNextIndex": false,
-    "Recipe": {
+    "Recipe":
+    {
         "ResultCount": 1,
-        "Ingredients": [{
-                "Object": 335,
-                "Count": 5
-            },
-            {
-                "Object": 334,
-                "Count": 10
-            }
-        ],
-        "CanPurchase": false
+        "Ingredients": [
+        {
+            "Object": 335,
+            "Count": 5,
+        },
+        {
+            "Object": 334,
+            "Count": 10,
+        }, ],
+        "CanPurchase": false,
     },
-    "NameLocalization": {
-        // "es": "",
+    "NameLocalization":
+    {
+        "es": "Destilador",
         "ko": "증류 가마",
         "de": "Destille",
-        "fr": "Distillerie",
-        // "hu": "",
+        "fr": "Alambic en cuivre",
+        "hu": "Desztilláló",
         // "it": "",
         "ja": "蒸留器",
         "pt": "Destilador",
         "ru": "Дистиллятор",
         // "tr": "",
-        "zh": "酒蒸馏器"
+        "zh": "酒蒸馏器",
     },
-    "DescriptionLocalization": {
-        // "es": "",
+    "DescriptionLocalization":
+    {
+        "es": "Un sistema de destilación utilizado para hacer licor.",
         "ko": "술을 만드는데 사용되는 증류장치.",
         "de": "Ein Destillationssystem, das für die Likörherstellung genutzt wird.",
-        "fr": "Un système de distillerie qui permet de faire des liqueurs",
-        // "hu": "",
+        "fr": "Un distillateur en cuivre utilisé pour faire des liqueurs.",
+        "hu": "Egy desztilláló berendezés, melyet likőr előállítására használnak.",
         // "it": "",
         "ja": "蒸留の仕組みでお酒を造るのに使う。",
         "pt": "Usado para destilar bebidas alcoólicas.",
         "ru": "Система дистилляции, используемая для приготовления ликера.",
         // "tr": "",
-        "zh": "一种用来酿酒的蒸馏系统。"
+        "zh": "一种用来酿酒的蒸馏系统。",
     }
 }
