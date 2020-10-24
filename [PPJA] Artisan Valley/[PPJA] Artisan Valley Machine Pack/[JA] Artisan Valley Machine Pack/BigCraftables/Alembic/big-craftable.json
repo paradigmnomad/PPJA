@@ -1,51 +1,53 @@
 {
-  "Name": "Alembic",
-  "Description": "Distills flowers, fruits, herbs, and vegetables into essential oils.",
-  "Price": 1,
-  "ProvidesLight": false,
-  "ReserveExtraIndexCount": 7,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 334,
-        "Count": 5
-      },
-      {
-        "Object": 766,
-        "Count": 50
-      },
-      {
-        "Object": 709,
-        "Count": 10
-      }
-    ],
-    "CanPurchase": false
-  },
-  "NameLocalization": {
-    // "es": "",
-    "ko": "증류기",
-    "de": "Destilliergefäß",
-    "fr": "Alambic",
-    // "hu": "",
-    // "it": "",
-    "ja": "アランビック",
-    "pt": "Alambique",
-    "ru": "Перегонный куб",
-    // "tr": "",
-    "zh": "精油蒸馏器"
-  },
-  "DescriptionLocalization": {
-    // "es": "",
-    "ko": "꽃, 과일, 허브 및 야채를 에센셜 오일로 증류시킵니다.",
-    "de": "Destilliert Blumen, Früchte, Gewürze und Gemüse und erschafft ätherisches Öl.",
-    "fr": "Distilles les fleurs, les fruits, les plantes et les légumes en huiles essentielles.",
-    // "hu": "",
-    // "it": "",
-    "ja": "花や果物やハーブ、野菜を精油に蒸留する。",
-    "pt": "Destila flores, frutas, ervas e vegetais em óleos essenciais.",
-    "ru": "Дистиллирует цветы, фрукты, травы и овощи в эфирные масла.",
-    // "tr": "",
-    "zh": "将花、水果、香草和蔬菜提炼成精油。"
-  }
+    "Name": "Alembic",
+    "Description": "Distills flowers, fruits, herbs, and vegetables into essential oils.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 7,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 334,
+            "Count": 5,
+        },
+        {
+            "Object": 766,
+            "Count": 50,
+        },
+        {
+            "Object": 709,
+            "Count": 10,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Alambique",
+        "ko": "증류기",
+        "de": "Destilliergefäß",
+        "fr": "Alambic",
+        "hu": "Desztilláló lombik",
+        // "it": "",
+        "ja": "アランビック",
+        "pt": "Alambique",
+        "ru": "Перегонный куб",
+        // "tr": "",
+        "zh": "精油蒸馏器",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Destila flores, frutas, hierbas y vegetales en aceites esenciales",
+        "ko": "꽃, 과일, 허브 및 야채를 에센셜 오일로 증류시킵니다.",
+        "de": "Destilliert Blumen, Früchte, Gewürze und Gemüse und erschafft ätherisches Öl.",
+        "fr": "Distille des fleurs, des fruits, des herbes et des légumes en huiles essentielles.",
+        "hu": "Virágokat, zöldésgeket, gyümölcsöket, és fűszereket desztillál olajjá.",
+        // "it": "",
+        "ja": "花や果物やハーブ、野菜を精油に蒸留する。",
+        "pt": "Destila flores, frutas, ervas e vegetais em óleos essenciais.",
+        "ru": "Дистиллирует цветы, фрукты, травы и овощи в эфирные масла.",
+        // "tr": "",
+        "zh": "将花、水果、香草和蔬菜提炼成精油。",
+    }
 }

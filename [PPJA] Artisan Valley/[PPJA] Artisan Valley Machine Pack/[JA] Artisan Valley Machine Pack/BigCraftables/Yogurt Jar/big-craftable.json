@@ -4,48 +4,51 @@
     "Price": 1,
     "ProvidesLight": false,
     "ReserveNextIndex": true,
-    "Recipe": {
+    "Recipe":
+    {
         "ResultCount": 1,
-        "Ingredients": [{
-                "Object": 390,
-                "Count": 40
-            },
-            {
-                "Object": 186,
-                "Count": 5
-            },
-            {
-                "Object": 337,
-                "Count": 2
-            }
-        ],
+        "Ingredients": [
+        {
+            "Object": 390,
+            "Count": 40,
+        },
+        {
+            "Object": 186,
+            "Count": 5,
+        },
+        {
+            "Object": 337,
+            "Count": 2,
+        }, ],
         "CanPurchase": false,
-        "IsDefault": true
+        "IsDefault": true,
     },
-    "NameLocalization": {
-        // "es": "",
+    "NameLocalization":
+    {
+        "es": "Tarro de Yogurt",
         "ko": "요거트 단지",
         "de": "Joghurtglas",
-        "fr": "Yaourtière",
-        // "hu": "",
+        "fr": "Bocal à yaourt",
+        "hu": "Joghurtos korsó",
         // "it": "",
         "ja": "ヨーグルト瓶",
         "pt": "Iogurteira",
         "ru": "Йогуртница",
         // "tr": "",
-        "zh": "酸奶罐"
+        "zh": "酸奶罐",
     },
-    "DescriptionLocalization": {
-        // "es": "",
+    "DescriptionLocalization":
+    {
+        "es": "Un tarro para permitir que la leche fermente en yogurt",
         "ko": "우유를 요거트로 발효시키는 단지.",
         "de": "Ein großes Glas, um Milk zu Joghurt zu fermentieren.",
-        "fr": "Un bocal pour fermenter le lait en yaourt.",
-        // "hu": "",
+        "fr": "Un bocal permettant la fermentation du lait en yaourt.",
+        "hu": "Egy korsó, melyet a tej joghurttá való átalakítására használnak.",
         // "it": "",
-        "ja": "ミルクを発酵させてヨーグルトにするための瓶。",
+       "ja": "ミルクを発酵させてヨーグルトにするための瓶。",
         "pt": "Iogurteira top therm, fermenta leite para fazer iogurte.",
         "ru": "Сосуд, в котором можно заквасить молоко в йогурт.",
         // "tr": "",
-        "zh": "这个罐子能够将牛奶与其它东西发酵成酸奶。"
+        "zh": "这个罐子能够将牛奶与其它东西发酵成酸奶。",
     }
 }

@@ -1,0 +1,10 @@
+{
+	// Text
+"grilledskewer.text": "@,^Voici une recette de mon saloon. Je ne la partage qu'avec mes bons amis !^-Gus",
+"spaghettiandmeatballs.text": "@,^Je vous avais envoyé ma recette de mes fameuses spaghetti mais les avez-vous essayées avec des boulettes de viande ? Jas et Shane adorent quand j'en apporte une assiette à Marnie. Essayez-les !^-Lewis",
+
+// Title
+"grilledskewer.title": "Recette de brochette grillée",
+"spaghettiandmeatballs.title": "Recette de spaghetti aux boulettes de viande"
+}
+

@@ -4,52 +4,55 @@
     "Price": 1,
     "ProvidesLight": false,
     "ReserveExtraIndexCount": 7,
-    "Recipe": {
+    "Recipe":
+    {
         "ResultCount": 1,
-        "Ingredients": [{
-                "Object": 709,
-                "Count": 5
-            },
-            {
-                "Object": 335,
-                "Count": 5
-            },
-            {
-                "Object": 787,
-                "Count": 1
-            },
-            {
-                "Object": 338,
-                "Count": 1
-            }
-        ],
+        "Ingredients": [
+        {
+            "Object": 709,
+            "Count": 5,
+        },
+        {
+            "Object": 335,
+            "Count": 5,
+        },
+        {
+            "Object": 787,
+            "Count": 1,
+        },
+        {
+            "Object": 338,
+            "Count": 1,
+        }, ],
         "CanPurchase": false,
-        "IsDefault": true
+        "IsDefault": true,
     },
-    "NameLocalization": {
-        // "es": "",
+    "NameLocalization":
+    {
+        "es": "Amoladora",
         "ko": "분쇄기",
         "de": "Mühle",
-        "fr": "Moulin à épices",
-        // "hu": "",
+        "fr": "Broyeur",
+        "hu": "Őrlőgép",
         // "it": "",
         "ja": "グラインダー",
         "pt": "Moedor",
         "ru": "Измельчитель",
         // "tr": "",
-        "zh": "研磨机"
+        "zh": "研磨机",
     },
-    "DescriptionLocalization": {
-        // "es": "",
+    "DescriptionLocalization":
+    {
+        "es": "Úselo para moler productos en bienes valiosos y especias.",
         "ko": "쌀을 가공하거나 농산물을 갈아서 가치있는 상품이나 향신료로 만들 수 있습니다.",
         "de": "Verabeitet Erzeugnisse zu wertvollen Gütern und Gewürzen.",
-        "fr": "Utiliser pour moudre des produits pour les rendre utilisables et faire des épices.",
-        // "hu": "",
+        "fr": "Utilisez-le pour broyer des matières premières en produits de valeur et en épices.",
+        "hu": "Ez a termékek megőrlésével állít elő fűszereket és egyéb értékes árukat.",
         // "it": "",
-        "ja": "米を磨いたり、作物を貴重なスパイスに挽いたりする。",
+        "ja": "米を磨いたり、作物を貴重なスパイスにひいたりする。",
         "pt": "Use para moer produtos em bens valiosos ou temperos.",
         "ru": "Используйте его для измельчения продуктов в ценные товары и специи.",
         // "tr": "",
-        "zh": "用它把农产品磨成贵重的商品和香料。"
+        "zh": "用它把农产品磨成贵重的商品和香料。",
     }
 }
