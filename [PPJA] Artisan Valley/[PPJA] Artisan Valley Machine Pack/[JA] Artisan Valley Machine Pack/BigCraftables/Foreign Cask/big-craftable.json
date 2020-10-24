@@ -4,52 +4,55 @@
     "Price": 1,
     "ProvidesLight": false,
     "ReserveNextIndex": false,
-    "Recipe": {
+    "Recipe":
+    {
         "ResultCount": 1,
-        "Ingredients": [{
-                "Object": 709,
-                "Count": 15
-            },
-            {
-                "Object": 390,
-                "Count": 5
-            },
-            {
-                "Object": 771,
-                "Count": 10
-            },
-            {
-                "Object": 725,
-                "Count": 1
-            }
-        ],
+        "Ingredients": [
+        {
+            "Object": 709,
+            "Count": 15,
+        },
+        {
+            "Object": 390,
+            "Count": 5,
+        },
+        {
+            "Object": 771,
+            "Count": 10,
+        },
+        {
+            "Object": 725,
+            "Count": 1,
+        }, ],
         "CanPurchase": false,
-        "IsDefault": true
+        "IsDefault": true,
     },
-    "NameLocalization": {
-        // "es": "",
+    "NameLocalization":
+    {
+        "es": "Barril Extranjero",
         "ko": "항아리",
         "de": "Fremdländisches Fass",
-        "fr": "Tonneau à soja",
-        // "hu": "",
+        "fr": "Fût étranger",
+        "hu": "Külföldi hordó",
         // "it": "",
         "ja": "東洋ダル",
         "pt": "Barril de Madeira Estrangeiro",
         "ru": "Иностранная бочка",
         // "tr": "",
-        "zh": "进口木桶"
+        "zh": "进口木桶",
     },
-    "DescriptionLocalization": {
-        // "es": "",
+    "DescriptionLocalization":
+    {
+        "es": "Este barril es de una marca extranjera. Puede fermentar la soja",
         "ko": "콩을 발효시킬 수 있습니다.",
         "de": "Dieses Fass ist aus fremdländischer Herstellung. Es kann Sojabohnen fermentieren.",
-        "fr": "Ce tonneau de confection particulière peut fermenter les graines de soja.",
-        // "hu": "",
+        "fr": "Ce tonneau a été fabriqué à l'étranger. Il peut fermenter le soja.",
+        "hu": "Ez a hordó külföldi gyártmány. Megerjeszti a szójababot.",
         // "it": "",
         "ja": "外国のタル。大豆を発酵させることができる。",
         "pt": "Esse barril é de um produtor estrangeiro. Pode fermentar soja.",
         "ru": "Бочка зарубежного производства. В ней можно ферментировать соевые бобы.",
         // "tr": "",
-        "zh": "这个桶是外国制造的。它可以发酵黄豆。"
+        "zh": "这个桶是外国制造的。它可以发酵黄豆。",
     }
 }

@@ -1,0 +1,31 @@
+{
+    // Text
+    
+    "camphor.text": "Bonjour très cher,^^ Comme George et moi devenons plus vieux, nous avons dû prendre encore plus soin de notre santé. J'ai appris que le camphrier fait des merveilles concernant les articulations et la peau.^Je ne sais pas si tu as de l'espace dans ta ferme pour faire pousser ce jeune arbre, mais j'ai pensé que tu pourrais être intéressé.^^  -Evelyn",
+    "breadfruit.text": "Cher @,^^ J'ai reçu ça de Willy, qui l'a obtenu d'une manière ou d'une autre lors d'un voyage en bateau au sud.^Je sais que ce n'est pas la saison, mais si tu le plante en hiver, tu auras un bel arbre à pain à récolter pour le printemps.^^  -Elliott",
+    // "cassia.text": "Bonjour, @.^^ Une sorte de charité d'anciens combattants m'a offert ceci pour mes services. C'était un cadeau symbolique et je sais que c'est l'intention qui compte mais je dois admettre que je ne me vois pas vraiment planter cet arbre.^Je détesterais l'idée de voir ce truc mourir, malgré tout. Tu penses pouvoir le faire grandir ?^^  -Kent",
+    "eucalyptus.text": "Hey @,^^ Tu t'es déjà demandé ce que ça ferait d'avoir des koalas dans ta ferme ?^Eh bien, moi non plus, jusqu'à ce que papa et moi ayons collaboré sur des recherches. On dirait que les koalas ne peuvent pas vivre à Stardew Valley, mais leur seule source de nourriture le peu !^Voici un jeune eucalyptus restant de nos recherches au cas où tu serais intéressé.^^  -Maru",
+    "fig.text": "Cher @,^^ Je suis actuellement en train d'étudier l'évolution naturelle des figuiers. Mon hypothèse est que ce jeune figuier produira des fruits très gros, mais il n'y a qu'un seul moyen de la vérifier !^Si tu es capable de le planter, j'établirai une routine de vérification pour collecter des données. Toutes les figues seraient tiennes, bien sûr !^^ -Demetrius",
+    "grapefruit.text": "@,^^  Chaque matin je prends un shake de protéines avec du pamplemousse. Je dois avoir ce petit déjeuner équilibré !^J'ai lu un article disant que les pamplemousses récoltés localement sont plus frais et meilleurs pour toi, alors... J'sais pas, j'suis plutôt branché pamplemousse en ce moment. Tu penses pouvoir devenir mon fournisseur ?^^  -Alex",
+    "melaleuca.text": "Cher @,^^  Des environnementalistes m'ont envoyé ce jeune mélaleuca et m'ont demandé de le planter. Ils doivent avoir mon nom dans une liste ; J'ai l'impression qu'ils ne savaient pas que je ne fais pas pousser d'arbres dans ma ferme. Alors, serais-tu intéressé ?^J'ai entendu dire que ces arbres sont très beaux.^^  -Marnie",
+    "persimmon.text": "Salut.^^ Moi j'ai trouvé ça. Ok ?^^ Toi tu peux l'avoir, ok.^^  -souris chapeau",
+    "pomelo.text": "Hey @ !^^ À l'époque où on vivait à Zuzu Ville, ma mère faisait des pomélos tout le temps, mais ici, Vincent n'en a même pas goûté un.^Mon idée c'est que tu pourrais faire pousser ça et ensuite, on pourra tous kiffer le fruit qui pousse dessus. P't-être que Vincent pourra grimper à l'arbre, aussi ! J'suis sûr que ça serait vraiment spécial pour lui.^^  -Sam",
+    "vanilla.text": "Salutations,^^  J'espère que tu pourras trouver une utilisation à ce jeune arbre. La gousse de vanille abrite de nombreuses propriétés obscures, et les sorciers autour du monde l'ont utilisée durant des siècles pour les potions et les hermétiques.^Le fait que ce soit si bon dans une crème glacée n'est que pure coïncidence.^^ -M. Rasmodius, Sorcier",
+    "fragrantwisteria.text": "Hey @,^^ Comment décrire ça ? Le parfum de ces arbres est vraiment magique.^J'envoie ça un peu comme ça, je sais, mais crois-moi, tu vas aimer ça.^^  -Abigail",
+    "ylangylang.text": "Hey @,^^ J'ai lu que les fleurs de cet arbre sont bonnes pour le soin de la peau. Et puis, c'est tellement magnifique quand ça fleurit. Peut-être veux-tu essayer d'en planter un ?^^ -Abigail",
+
+    // Titles
+
+    "camphor.title": "Jeune camphrier",
+    "breadfruit.title": "Jeune arbre à pain",
+    // "cassia.title": "Jeune cassia",
+    "eucalyptus.title": "Jeune eucalyptus",
+    "fig.title": "Jeune figuier",
+    "grapefruit.title": "Jeune pamplemoussier",
+    "melaleuca.title": "Jeune mélaleuca",
+    "persimmon.title": "Jeune plaqueminier",
+    "pomelo.title": "Jeune pomélo",
+    "vanilla.title": "Jeune vanillier",
+    "fragrantwisteria.title": "Jeune glycine parfumée",
+    "ylangylang.title": "Jeune Ylang-ylang",
+}

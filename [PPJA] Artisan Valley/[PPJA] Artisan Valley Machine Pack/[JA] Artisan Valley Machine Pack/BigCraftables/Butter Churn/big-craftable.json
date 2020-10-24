@@ -4,43 +4,46 @@
     "Price": 1,
     "ProvidesLight": false,
     "ReserveNextIndex": false,
-    "Recipe": {
+    "Recipe":
+    {
         "ResultCount": 1,
-        "Ingredients": [{
-                "Object": 388,
-                "Count": 40
-            },
-            {
-                "Object": 726,
-                "Count": 1
-            }
-        ],
-        "CanPurchase": false
+        "Ingredients": [
+        {
+            "Object": 388,
+            "Count": 40,
+        },
+        {
+            "Object": 726,
+            "Count": 1,
+        }, ],
+        "CanPurchase": false,
     },
-    "NameLocalization": {
-        // "es": "",
+    "NameLocalization":
+    {
+        "es": "Mantequera",
         "ko": "버터 교반기",
         "de": "Butterfass",
         "fr": "Baratte à beurre",
-        // "hu": "",
+        "hu": "Köpülő",
         // "it": "",
         "ja": "かくはん器",
         "pt": "Batedeira de Manteiga",
         "ru": "Маслобойка",
         // "tr": "",
-        "zh": "黄油搅拌器"
+        "zh": "黄油搅拌器",
     },
-    "DescriptionLocalization": {
-        // "es": "",
+    "DescriptionLocalization":
+    {
+        "es": "Convierte la leche o las nueces en mantequilla",
         "ko": "우유나 견과류를 버터로 만들어줍니다.",
         "de": "Stampft Milch oder Nüsse zu Butter.",
-        "fr": "Transforme le lait et les oléagineux en beurre.",
-        // "hu": "",
+        "fr": "Transforme le lait ou les fruits à coque en beurre.",
+        "hu": "Tejből, valamint diófélékből vajat állít elő",
         // "it": "",
         "ja": "ミルクやナッツを混ぜてバターにする。",
         "pt": "Transforma leite ou castanhas em manteiga.",
         "ru": "Перерабатывает молоко или орехи в масло.",
         // "tr": "",
-        "zh": "把牛奶或坚果变成黄油。"
+        "zh": "把牛奶或坚果变成黄油。",
     }
 }

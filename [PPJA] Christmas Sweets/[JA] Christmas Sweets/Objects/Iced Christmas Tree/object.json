@@ -40,8 +40,8 @@
     {
         // "es": "",
         "ko": "크리스마스 트리 쿠키",
-         "de": "Gefrorener Weihnachtsbaum",
-        // "fr": "",
+        "de": "Gefrorener Weihnachtsbaum",
+        "fr": "Sapin de Noël glacé",
         "hu": "Cukormázas Karácsonyfa",
         // "it": "",
         "ja": "ツリーアイシングクッキー",
@@ -54,8 +54,8 @@
     {
         // "es": "",
         "ko": "트리모양 쿠키",
-         "de": "Es sieht irgendwie aus wie ein Weihnachtsbaum.",
-        // "fr": "",
+        "de": "Es sieht irgendwie aus wie ein Weihnachtsbaum.",
+        "fr": "Ça ressemble à peu près à un sapin de Noël.",
         "hu": "Valamennyire hasonlít egy Karácsonyfára.",
         // "it": "",
         "ja": "クリスマスツリーの形に焼いたクッキー。",

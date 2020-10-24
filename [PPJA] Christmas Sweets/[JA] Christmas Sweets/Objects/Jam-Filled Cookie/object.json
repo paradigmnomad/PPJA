@@ -37,8 +37,8 @@
     {
         // "es": "",
         "ko": "잼을 채운 쿠키",
-         "de": "Mit Marmelade gefüllter Keks",
-        // "fr": "",
+        "de": "Mit Marmelade gefüllter Keks",
+        "fr": "Biscuit avec de la confiture",
        "hu": "Lekváros keksz",
         // "it": "",
         "ja": "ジャムクッキー",
@@ -51,8 +51,8 @@
     {
         // "es": "",
         "ko": "달콤한 잼으로 속을 채운 쿠키",
-         "de": "Ein harter Keks gefüllt mit leckerer Marmelade.",
-        // "fr": "",
+        "de": "Ein harter Keks gefüllt mit leckerer Marmelade.",
+        "fr": "Un biscuit dur rempli avec de la confiture délicieuse.",
         "hu": "Egy kemény keksz ízletes lekvárral töltve.",
         // "it": "",
         "ja": "固めに焼いたクッキーにおいしいジャムを練り込んだ。",

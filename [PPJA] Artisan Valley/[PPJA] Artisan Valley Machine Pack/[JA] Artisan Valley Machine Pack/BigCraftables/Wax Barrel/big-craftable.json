@@ -4,48 +4,51 @@
     "Price": 1,
     "ProvidesLight": false,
     "ReserveNextIndex": true,
-    "Recipe": {
+    "Recipe":
+    {
         "ResultCount": 1,
-        "Ingredients": [{
-                "Object": 340,
-                "Count": 5
-            },
-            {
-                "Object": 335,
-                "Count": 1
-            },
-            {
-                "Object": 388,
-                "Count": 50
-            }
-        ],
+        "Ingredients": [
+        {
+            "Object": 340,
+            "Count": 5,
+        },
+        {
+            "Object": 335,
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 50,
+        }, ],
         "CanPurchase": false,
-        "IsDefault": true
+        "IsDefault": true,
     },
-    "NameLocalization": {
-        // "es": "",
+    "NameLocalization":
+    {
+        "es": "Barril de Cera",
         "ko": "밀랍통",
         "de": "Wachstonne",
         "fr": "Tonneau de cire",
-        // "hu": "",
+        "hu": "Viaszos hordó",
         // "it": "",
         "ja": "ワックスバレル",
         "pt": "Barril de Cera",
         "ru": "Восковой бочонок",
         // "tr": "",
-        "zh": "制蜡桶"
+        "zh": "制蜡桶",
     },
-    "DescriptionLocalization": {
-        // "es": "",
+    "DescriptionLocalization":
+    {
+        "es": "Barril para convertir la cera en velas.",
         "ko": "디핑 캔들을 만들기 위한 통.",
         "de": "Eine Tonne, um Kerzen zu ziehen.",
-        "fr": "Un tonneau pour tremper les bougies.",
-        // "hu": "",
+        "fr": "Un tonneau pour créer des bougies par plongée dans de la cire.",
+        "hu": "Egy hordó, melyet gyertyák viasszal való bemártására használnak.",
         // "it": "",
         "ja": "ロウソクを漬けるためのタル。",
         "pt": "Um barril para mergulhar velas.",
         "ru": "Бочка для превращения воска в свечи.",
         // "tr": "",
-        "zh": "将蜂蜡倒入其中，制作蜡烛。"
+        "zh": "将蜂蜡倒入其中，制作蜡烛。",
     }
 }
