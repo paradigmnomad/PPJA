@@ -52,7 +52,7 @@
         "es": "Té de fusión de bayas",
         "ko": "베리 퓨전 티",
         "de": "Beerenmischung-Tee",
-         // "fr": "",
+        "fr": "Thé aux fruits rouges",
          // "hu": "",
          // "it": "",
         "ja": "ベリーフュージョンティー",
@@ -64,9 +64,9 @@
     "DescriptionLocalization":
     {
         "es": "Infundido con los sabores de la primavera y el verano, ¡lo echarás de menos!",
-        "ko": "차에서 봄과 여름의 맛이 느껴져요, 이 차에 푹 빠질 거예요!",
+        "ko": "봄과 여름의 맛을 담은 차. 즐기세요!",
         "de": "Durchdrungen von den Geschmäckern von Frühling und Sommer, wirst du einen Kick bekommen!",
-         // "fr": "",
+        "fr": "Imprégné des saveurs du printemps et de l'été, vous en raffolerez !",
          // "hu": "",
          // "it": "",
         "ja": "春と夏の風味を楽しもう！",

@@ -2,6 +2,8 @@
     "Name": "Cactus Flower",
     "Description": "A beautiful cactus bloom.",
     "Category": "Flower",
+    "CategoryTextOverride": "Succulent",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 8,
     "Price": 600,
     "IsColored": false,
@@ -13,11 +15,11 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Flor de cactus",
         "ko": "선인장 꽃",
         "de": "Kaktusblüte",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Fleur de cactus",
+        "hu": "Kaktuszvirág",
          // "it": "",
         "ja": "サボテンの花",
         "pt": "Flor do Cacto",
@@ -27,16 +29,24 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Una hermosa flor de cactus.",
         "ko": "아름다운 선인장 꽃.",
         "de": "Eine wunderschöne Kaktusblüte.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Une belle efflorescence de cactus.",
+        "hu": "Egy csodálatos kaktuszvirág",
          // "it": "",
         "ja": "美しく咲いたサボテンの花。",
         "pt": "Uma bonita flor do cacto.",
         "ru": "Красивый цветок кактуса.",
          // "tr": "",
           "zh": "一朵盛开的仙人掌花。",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "season_fall",
+        "color_pink",
+        "succulent_item",
+        "crop_year_3",
+    ],
 }

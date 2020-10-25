@@ -1,0 +1,52 @@
+{
+    "Name": "Rafflesia",
+    "Product": "Rafflesia",
+    "SeedName": "Rafflesia Seeds",
+    "SeedDescription": "Plant in spring, harvest in fall. Takes 2 full seasons to produce a large red flower.",
+    "Type": "Flower",
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [19, 18, 19, ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 3000,
+    "SeedPurchaseRequirements": [
+        "y 4"
+    ],
+    "SeedNameLocalization":
+    {
+        // "es": "",
+        "ko": "라플레시아 씨앗",
+        "de": "Rafflesie",
+        "fr": "Graines de Rafflesia",
+        "hu": "Raflézia magvak",
+        // "it": "",
+        "ja": "ラフレシアの種",
+        "pt": "Sementes de Raflésia",
+        "ru": "Семена раффлезии",
+        // "tr": "",
+        "zh": "大王花种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "봄에 심고, 가을에 수확합니다. 큰 빨간색 꽃을 피우기 위해 2계절이 소요됩니다.",
+        "de": "Pflanze sie im Frühling, dann ernte sie im Herbst. Braucht 2 Jahreszeiten, um eine große, rote Blüte zu bilden.",
+        "fr": "Plantez au printemps, récoltez à l'automne. Prend 2 saisons complètes pour produire une grande fleur rouge.",
+        "hu": "Ezeket tavasszal ültesd el, és ősszel arathatod le. 2 évszak alatt hoz egy nagy piros virágot.",
+        // "it": "",
+        "ja": "春に植えて秋に収穫する花。2シーズンかけて赤く巨大な花を咲かせる",
+        "pt": "Plante-as na primavera e colha-as no outono. Leva duas estações inteiras para produzir uma grande flor vermelha.",
+        "ru": "Сажайте весной. Вырастает к осени. Требуется 2 полных сезона, чтобы вырос огромный красный цветок.",
+        // "tr": "",
+        "zh": "春天播种，秋天收获。花了整整两个季节才能长出一朵大王花。",
+    }
+}

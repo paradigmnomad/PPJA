@@ -3,7 +3,7 @@
     "Description": "A cooked slice of boar, ready for use in recipes.",
     "Category": "Cooking",
     "Edibility": -300,
-    "Price": 75,
+    "Price": 285,
     "IsColored": false,
     "GiftTastes":
     {
@@ -22,15 +22,19 @@
             "Object": "Seasonings",
             "Count": 1,
         }, ],
+        "IsDefault": true,
     },
-
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 375,
+    "PurchaseRequirements": null,
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "구운 멧돼지고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Sanglier cuit",
+        "hu": "Sült vaddisznó",
         // "it": "",
         // "ja": "",
         // "pt": "",
@@ -41,15 +45,20 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "멧돼지의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une tranche de sanglier, déjà cuite et prête à être utilisée dans des recettes.",
+        "hu": "Egy vaddisznó húsának darabja megsütve, felhasználásra készen.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
          "zh": "一块煮熟的野猪肉，可在食谱中使用。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ] ,    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat" 
 }

@@ -1,0 +1,49 @@
+{
+    "Name": "Canning Machine",
+    "Description": "Used for canning mostly seafood.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 6,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 335,
+            "Count": 10,
+        },
+        {
+            "Object": 334,
+            "Count": 5,
+        }, ],
+        "IsDefault": true
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "통조림 기계",
+        // "de": "",
+        "fr": "Machine de mise en conserve",
+        "hu": "Konzervgép",
+        // "it": "",
+        "ja": "缶詰マシン",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "주로 해산물 통조림을 만듭니다.",
+        // "de": "",
+        "fr": "Utilisée pour mettre en conserve majoritairement les fruits de mer.",
+        "hu": "Általában tengeri herkentyűk konzerválására használják.",
+        // "it": "",
+        "ja": "主に魚介類の缶詰作業に使われる。",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

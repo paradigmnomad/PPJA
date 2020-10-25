@@ -1,64 +1,67 @@
 {
-  "Name": "Sausage",
-  "Description": "A ground tube of pork and seasonings.",
-  "Category": "Cooking",
-  "Edibility": 50,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 345,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
-	"Neutral": ["Harvey", "Vincent"],
-	"Dislike": ["Emily", "Haley", "Jas", "Leah"],
-	"Hate": ["Marnie", "Sebastian"],
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Fennel",
-        "Count": 1,
-      },
-      {
-        "Object": "Cooked Pork",
-        "Count": 1,
-      },
- {
-        "Object": "Sage",
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 550,
-    "PurchaseRequirements": null,
-  },
+    "Name": "Sausage",
+    "Description": "A ground tube of pork and seasonings.",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 345,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Harvey", "Vincent"],
+        "Dislike": ["Emily", "Haley", "Jas", "Leah"],
+        "Hate": ["Marnie", "Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Fennel",
+            "Count": 1,
+        },
+        {
+            "Object": "Cooked Pork",
+            "Count": 1,
+        },
+        {
+            "Object": "Sage",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 550,
+        "PurchaseRequirements": null,
+    },
 
- "NameLocalization": { 
-    "es": "Salchicha",
-    "ko": "소시지",
-    "de": "Wurst",
-    "fr": "Saucisse",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-    "ru": "Колбаса",
-     // "tr": "",
-    "zh": "香肠",
-  },
- "DescriptionLocalization": { 
-    "es": "Un embutido a base de carde de cerdo molida y condimentos.",
-    "ko": "돼지고기와 양념을 넣은 가공품.",
-    "de": "Eine Wurst aus Schweinefleisch und Gewürzen.",
-    "fr": "Un tube de porc haché et des assaisonnements.",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-    "ru": "Свинной фарш и приправы.",
-     // "tr": "",
-    "zh": "香肠。由猪肉和其他调味品组成。",
-  }
+    "NameLocalization":
+    {
+        "es": "Salchicha",
+        "ko": "소시지",
+        "de": "Wurst",
+        "fr": "Saucisse",
+        "hu": "Kolbász",
+        // "it": "",
+        "ja": "ソーセージ",
+        "pt": "Linguiça",
+        "ru": "Колбаса",
+        // "tr": "",
+        "zh": "香肠",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un embutido a base de carde de cerdo molida y condimentos.",
+        "ko": "돼지고기와 양념을 넣은 가공품.",
+        "de": "Eine Wurst aus Schweinefleisch und Gewürzen.",
+        "fr": "Un tube de porc haché avec assaisonnements.",
+        "hu": "Csőbe töltött darálthús különböző fűszerekkel.",
+        // "it": "",
+        "ja": "豚ひき肉に調味料を加えたソーセージ。",
+        "pt": "Um tubo de carne de porco e temperos.",
+        "ru": "Свинной фарш и приправы.",
+        // "tr": "",
+        "zh": "香肠。由猪肉和其他调味品组成。",
+    }
 }

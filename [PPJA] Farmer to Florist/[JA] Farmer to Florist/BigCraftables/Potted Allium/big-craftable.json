@@ -1,50 +1,52 @@
 {
-  "Name": "Potted Allium",
-  "Description": "An allium potted in a little wooden pot. Remember to water it!",
-  "Price": 1,
-  "ProvidesLight": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Allium",
-        "Count": 1,
-      },
-	  {
-		  "Object": 388,
-		  "Count": 10
-	  },
-	  {
-		  "Object": 330,
-		  "Count": 10
-	  },
-    ],
-	  "CanPurchase": false,  
-  },
-   "NameLocalization": { 
-    "es": "Allium en maceta",
-    "ko": "실내 화초 알리움",
-    "de": "Topf Allium",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",
-     //"ja": "",
-    "pt": "Vaso de Alho Ornamental",
-    "ru": "Декоративный лук в горшке",
-     //"tr": "",
-    "zh": "大花葱盆栽",
-     },
- "DescriptionLocalization": { 
-    "es": "Un allium en una pequeña maceta madera. ¡Recuerda regarlo!",
-    "ko": "작은 나무 화분에 심겨진 알리움입니다. 물 주는거 잊지마세요!",
-    "de": "Ein Allium in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",
-     //"ja": "",
-    "pt": "Um alho ornamental em um pequeno vaso. Lembre-se sempre de regá-lo!",
-    "ru": "Декоративный лук в маленьком деревянном горшочке. Не забывайте поливать!",
-     //"tr": "",
-    "zh": "一个小木盆里的大花葱。记得给它浇水！",
+    "Name": "Potted Allium",
+    "Description": "An allium potted in a little wooden pot. Remember to water it!",
+    "Price": 1,
+    "ProvidesLight": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Allium",
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 10
+        },
+        {
+            "Object": 330,
+            "Count": 10
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Allium en maceta",
+        "ko": "실내 화초 알리움",
+        "de": "Topf Allium",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "アリウムの鉢植え",
+        "pt": "Vaso de Alho Ornamental",
+        "ru": "Декоративный лук в горшке",
+        //"tr": "",
+        "zh": "大花葱盆栽",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un allium en una pequeña maceta madera. ¡Recuerda regarlo!",
+        "ko": "작은 나무 화분에 심겨진 알리움입니다. 물 주는거 잊지마세요!",
+        "de": "Ein Allium in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "アリウムが植えられた木製の小さな鉢。水やりを忘れずに。",
+        "pt": "Um alho ornamental em um pequeno vaso. Lembre-se sempre de regá-lo!",
+        "ru": "Декоративный лук в маленьком деревянном горшочке. Не забывайте поливать!",
+        //"tr": "",
+        "zh": "一个小木盆里的大花葱。记得给它浇水！",
     }
 }

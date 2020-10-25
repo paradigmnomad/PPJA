@@ -1,0 +1,46 @@
+{
+    "Name": "Chicken DNA",
+    "Description": "Some chicken DNA extracted from an egg.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 10,
+    "IsColored": false,
+    "GiftTastes":
+    {
+	"Love": ["Demetrius", "Maru"],
+	"Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "닭 DNA",
+        // "de": "",
+        "fr": "ADN de poulet",
+        "hu": "Csirke DNS",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "달걀에서 추출한 닭 DNA.",
+        // "de": "",
+        "fr": "De l'ADN de poulet, extrait d'un œuf.",
+        "hu": "Egy csirke DNS-e egy tojásból nyerve.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "ContextTags": [
+        "dna_item",
+    ],
+}

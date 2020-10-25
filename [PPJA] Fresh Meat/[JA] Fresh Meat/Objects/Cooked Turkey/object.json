@@ -22,17 +22,19 @@
             "Object": "Seasonings",
             "Count": 1,
         }, ],
+        "IsDefault": true,
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 200,
     "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "구운 칠면조",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Dinde cuite",
+        "hu": "Sült pulyka",
         // "it": "",
         // "ja": "",
         // "pt": "",
@@ -43,15 +45,20 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "통째로 구운 칠면조. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une dinde entière rôtie, déjà cuite et prête à être utilisée dans des recettes.",
+        "hu": "Egy egész sült pulyka, megsütve, felhasználásra készen.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
          "zh": "一整只烤火鸡，已烹制熟透，可用于进一步烹调。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ],    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
 }

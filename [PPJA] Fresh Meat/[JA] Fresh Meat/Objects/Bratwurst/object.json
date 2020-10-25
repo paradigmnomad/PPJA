@@ -5,7 +5,7 @@
     "Edibility": 50,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 345,
+    "Price": 680,
     "IsColored": false,
     "GiftTastes":
     {
@@ -43,10 +43,10 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "브라트부르스트",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Bratwurst",
+        "hu": "Sült kolbász",
         // "it": "",
         // "ja": "",
         // "pt": "",
@@ -57,10 +57,10 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "전통적인 방식으로 만든 수제 소세지.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une bratwurst (saucisse) traditionnelle fait maison.",
+        "hu": "Egy tradícionális házi sült kolbász.",
         // "it": "",
         // "ja": "",
         // "pt": "",

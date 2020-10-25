@@ -22,17 +22,19 @@
             "Object": "Seasonings",
             "Count": 1,
         }, ],
+        "IsDefault": true,
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 200,
     "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "구운 사슴고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Venaison cuite",
+        "hu": "Sült őzhús",
         // "it": "",
         // "ja": "",
         // "pt": "",
@@ -43,15 +45,20 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "사슴 고기 한 덩이. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une pièce de viande d'un cerf, déjà cuite et prête à être utilisée dans des recettes.",
+        "hu": "Egy őz húsának darabja, megsütve, felhasználásra készen.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
          "zh": "一大块鹿肉，已煮熟，准备用于进一步烹饪。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ],    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
 }

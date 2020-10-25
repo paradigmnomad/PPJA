@@ -1,0 +1,42 @@
+{
+    "Name": "Dried Tea Leaves",
+    "Description": "A teabag ready to placed into hot water.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 500,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Caroline"],
+        "Neutral": ["Abigail", "Alex", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Hojas de té secas",
+        "ko": "말린 찻잎",
+        // "de": "",
+        "fr": "Feuilles de thé séchées",
+       "hu": "Szárított tealevél",
+        // "it": "",
+        "ja": "ティーバッグ",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una bolsita de té lista para colocar en agua caliente",
+        "ko": "뜨거운 물에 넣을 준비가 된 티백.",
+        // "de": "",
+        "fr": "Un sac de thé prêt à être placé dans de l'eau chaude.",
+        "hu": "Egy zacskó teafű készen a forró vízbe tevésre.",
+        // "it": "",
+        "ja": "お湯に入れるだけでお茶ができる。",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

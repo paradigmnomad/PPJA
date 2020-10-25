@@ -1,0 +1,47 @@
+{
+    "Name": "Herbal Lavender",
+    "Description": "Such a lovely smelling herb. So calming and relaxing.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 30,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Elliott", "Emily", "Haley"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Lavanda",
+        "ko": "허브 라벤더",
+        "de": "Lavendel",
+        "fr": "Lavande",
+        "hu": "Orvosi Levendula",
+         // "it": "",
+        "ja": "ラベンダー",
+        "pt": "Ervas de Lavanda",
+        "ru": "Травяная лаванда",
+         // "tr": "",
+        "zh": "草本薰衣草",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una planta elegante que tiene una variedad de usos culinarios y medicinales.",
+        "ko": "사랑스런 향이 나는 허브입니다. 향을 맡으면 마음이 진정되고 긴장이 풀립니다.",
+        "de": "Hat einen unverwechselbaren Geruch - unglaublich beruhigend.",
+        "fr": "Une si belle herbe odorante. Tellement apaisant et relaxant.",
+        "hu": "Egy nagyon jó illatú gyógynövény. Olyan nyugtató és relaxáló.",
+         // "it": "",
+        "ja": "素敵な香りのするハーブ。とてもリラックスできる。",
+        "pt": "Umas flores tão cheirosas quanto lindas. Tão calmante e relaxante!",
+        "ru": "Прекрасная пахучая трава. Успокаивает и расслабляет.",
+         // "tr": "",
+        "zh": "它有一种很可爱的气味。让人如此平静和放松。",
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_purple",
+        "flower_item",
+    ]
+}

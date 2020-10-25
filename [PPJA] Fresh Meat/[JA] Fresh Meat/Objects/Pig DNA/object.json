@@ -1,0 +1,46 @@
+{
+    "Name": "Pig DNA",
+    "Description": "Some pig DNA extracted from a truffle. You're not quite sure how this worked but it did.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 10,
+    "IsColored": false,
+    "GiftTastes":
+    {
+	"Love": ["Demetrius", "Maru"],
+	"Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "돼지 DNA",
+        // "de": "",
+        "fr": "ADN de cochon",
+        "hu": "Sertés DNS",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "송로버섯에서 추출한 돼지 DNA. 어떤 원리로 작동했는지는 잘 모르겠지만 어쨌든 효과가 있었다.",
+        // "de": "",
+        "fr": "De l'ADN de cochon extrait d'une truffe. Vous n'êtes pas certain de la manière dont ça a fonctionné mais ça a fonctionné.",
+        "hu": "Egy sertés DNS-e, melyet egy szarvasgombából nyertek. Ötletünk sincs, ez hogyan lehetséges, de működött.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "ContextTags": [
+        "dna_item",
+    ],
+}

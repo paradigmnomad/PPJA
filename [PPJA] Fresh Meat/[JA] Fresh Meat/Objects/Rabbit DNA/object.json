@@ -1,0 +1,46 @@
+{
+    "Name": "Rabbit DNA",
+    "Description": "Some rabbit DNA extracted from a rabbits foot.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 10,
+    "IsColored": false,
+    "GiftTastes":
+    {
+	"Love": ["Demetrius", "Maru"],
+	"Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "토끼 DNA",
+        // "de": "",
+        "fr": "ADN de lapin",
+        "hu": "Nyúl DNS",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "토끼발에서 추출한 토끼 DNA.",
+        // "de": "",
+        "fr": "De l'ADN de lapin extrait d'une patte de lapin.",
+        "hu": "Egy nyúl DNS-e, melyet a lábából nyertek ki.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "ContextTags": [
+        "dna_item",
+    ],
+}

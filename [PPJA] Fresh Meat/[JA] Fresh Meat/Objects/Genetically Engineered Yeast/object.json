@@ -1,0 +1,42 @@
+{
+    "Name": "Genetically Engineered Yeast",
+    "Description": "Used for making plant-based meat. Fused with animal DNA.",
+    "Category": "Cooking",
+    "Edibility": -300,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Neutral": ["Marnie", "Sebastian", "Alex", "Abigail", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Emily", "Haley", "Harvey", "Jas", "Leah", "Shane", "Willy", "Wizard", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "유전공학 효모",
+        // "de": "",
+        "fr": "Levure génétiquement modifiée",
+        "hu": "Genetikailag módosított élesztő",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+       // "es": "",
+        "ko": "식물성 고기를 만드는 데 사용된다. 동물 DNA와 융합시킨다.",
+        // "de": "",
+        "fr": "Utilisée pour faire pousser de la viande sur des végétaux. Fusionne avec l'ADN animal.",
+        "hu": "Növényi alapú hús előállítására használják. Állati DNS-t tartalmaz.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

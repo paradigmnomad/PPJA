@@ -1,73 +1,76 @@
 {
-  "Name": "Corndog",
-  "Description": "A breaded and deep fried hot dog.",
-  "Category": "Cooking",
-  "Edibility": 112,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 175,
-  "IsColored": false,
-  "GiftTastes": {
-	"Love": ["Jas", "Vincent"],
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
-	"Neutral": ["Haley", "Harvey", "Lewis"],
-	"Dislike": ["Emily", "Leah", "Marnie"],
-	"Hate": ["Sebastian"],
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 247,
-        "Count": 1,
-      },
-      {
-        "Object": "Cooked Beef",
-        "Count": 1,
-      },
-{
-        "Object": 246,
-        "Count": 1,
-      },
-{
-        "Object": "Ketchup",
-        "Count": 1,
-      },
-{
-        "Object": "Mustard",
-        "Count": 1,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 650,
-    "PurchaseRequirements": null,
-  },
+    "Name": "Corndog",
+    "Description": "A breaded and deep fried hot dog.",
+    "Category": "Cooking",
+    "Edibility": 112,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 175,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Jas", "Vincent"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Haley", "Harvey", "Lewis"],
+        "Dislike": ["Emily", "Leah", "Marnie"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 247,
+            "Count": 1,
+        },
+        {
+            "Object": "Cooked Beef",
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": "Ketchup",
+            "Count": 1,
+        },
+        {
+            "Object": "Mustard",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 650,
+        "PurchaseRequirements": null,
+    },
 
- "NameLocalization": { 
-    "es": "Banderilla",
-    "ko": "콘도그",
-    "de": "Corndog",
-    "fr": "Corndog",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-    "ru": "Корн-дог",
-     // "tr": "",
-    "zh": "玉米热狗",
-  },
- "DescriptionLocalization": { 
-    "es": "Un hot dog empanizado y frito.",
-    "ko": "빵에 튀긴 핫도그.",
-    "de": "Ein im Brot frittierter Hot Dog.",
-    "fr": "Un hot dog pané et frit.",
-     // "hu": "",
-     // "it": "",
-     // "ja": "",
-     // "pt": "",
-    "ru": "Панированный и жареный хот-дог.",
-     // "tr": "",
-    "zh": "玉米热狗。一种裹上面包屑的油炸热狗。",
-  }
+    "NameLocalization":
+    {
+        "es": "Banderilla",
+        "ko": "콘도그",
+        "de": "Corndog",
+        "fr": "Saucisse sur bâtonnet",
+        "hu": "Corndog",
+        // "it": "",
+        "ja": "アメリカンドッグ",
+        "pt": "Cachorro-quente no palito",
+        "ru": "Корн-дог",
+        // "tr": "",
+        "zh": "玉米热狗",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un hot dog empanizado y frito.",
+        "ko": "빵에 튀긴 핫도그.",
+        "de": "Ein im Brot frittierter Hot Dog.",
+        "fr": "Un hot-dog pané et frit.",
+        "hu": "Egy bundás, olajon sült hot dog.",
+        // "it": "",
+        "ja": "パン粉をまぶして揚げたホットドッグ",
+        "pt": "Um cachorro-quente empanado e frito.",
+        "ru": "Панированный и жареный хот-дог.",
+        // "tr": "",
+        "zh": "玉米热狗。一种裹上面包屑的油炸热狗。",
+    }
 }

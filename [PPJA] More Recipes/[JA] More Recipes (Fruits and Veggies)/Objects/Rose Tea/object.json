@@ -36,7 +36,7 @@
         "es": "Té de rosas",
         "ko": "로즈 티",
         "de": "Rosentee",
-         // "fr": "",
+        "fr": "Thé à la rose",
          // "hu": "",
          // "it": "",
         "ja": "ローズティー",
@@ -48,9 +48,9 @@
     "DescriptionLocalization":
     {
         "es": "Un popular regalo de temporada que se ha convertido en una locura.",
-        "ko": "인기있는 계절 간식.",
+        "ko": "요즘 유행하고 있는 계절 음료.",
         "de": "Ein beliebter saisonaler Leckerbissen, der Wahnsinn.",
-         // "fr": "",
+        "fr": "Un régal populaire de saison qui subit un engouement.",
          // "hu": "",
          // "it": "",
         "ja": "一時期流行っていたお茶。",

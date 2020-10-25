@@ -1,0 +1,46 @@
+{
+    "Name": "Deer Leather",
+    "Description": "A deer hide that has been tanned.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 120,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "사슴 가죽",
+        //"de": "",
+        "fr": "Cuir de cerf",
+        "hu": "Szarvasbőr",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "사슴의 가죽.",
+        //"de": "",
+        "fr": "Une peau de cerf qui a été tannée.",
+        "hu": "Egy szarvas cserzett bőre.",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "ContextTags": [
+        "leather_item",
+    ],
+    "EnableWithMod": "Cherry.MultiYieldCrops"
+}

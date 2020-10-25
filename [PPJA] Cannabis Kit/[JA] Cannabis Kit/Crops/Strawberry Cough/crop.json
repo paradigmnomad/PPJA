@@ -14,40 +14,37 @@
     {
         "MinimumPerHarvest": 3,
         "MaximumPerHarvest": 5,
-        "MaxIncreasePerFarmLevel": 5,
+        "MaxIncreasePerFarmLevel": 0,
         "ExtraChance": 0.1,
     },
     "SeedPurchaseFrom": "Harvey",
     "SeedPurchasePrice": 350,
-    "SeedPurchaseRequirements": [
-        "f Sebastian 250"
-    ],
     "SeedNameLocalization":
     {
          "es": "Iniciador de Tos de Frutilla",
          "ko": "딸기 기침",
          "de": "Erbeerhusten",
-         // "fr": "",
+         "fr": "Graines de Strawberry Cough",
          // "hu": "",
          // "it": "",
          // "ja": "",
          "pt": "Sementes de Tosse de Morango",
-         // "ru": "",
+         "ru": "Семена каннабиса Клубничный Кашель",
          // "tr": "",
-         // "zh": "",
+         "zh": "草莓咳嗽种子",
     },
     "SeedDescriptionLocalization":
     {
          "es": "Una potente mezcla de sativa con sabores a bayas que capurará tus sentidos. Bueno para la anciedad y recuperar el balance interno. Plantalo en el verano o otoño. Tarda 14 días en madurar, continua produciendo cada 3 días.",
          "ko": "당신을 감각을 포착하는 스컹크과 베리 맛의 있는 강력한 사티바 혼합물이다. 불안감과 내부 균형 회복에 좋다. 여름이나 가을에 심으세요. 성숙 기간은 14일이며, 그 후 생산은 3일마다 계속된다.",
-          "de": "Eine kraftvolle Sativamischung mit einem Hauch von Beeren wird Ihre Sinne erobern. Gut gegen Angstzustände und zur Wiederherstellung des inneren Gleichgewichts. Pflanzen Sie diese im Sommer oder Herbst. Die Reifezeit beträgt 14 Tage. Danach wird die Produktion alle 3 Tage fortgesetzt.",
-         // "fr": "",
+         "de": "Eine kraftvolle Sativamischung mit einem Hauch von Beeren wird Ihre Sinne erobern. Gut gegen Angstzustände und zur Wiederherstellung des inneren Gleichgewichts. Pflanzen Sie diese im Sommer oder Herbst. Die Reifezeit beträgt 14 Tage. Danach wird die Produktion alle 3 Tage fortgesetzt.",
+         "fr": "Une puissante sativa mélangée avec un skunky, les senteurs de baies sauvages captureront vos sens. Bon pour l'anxiété et pour restaurer l'équilibre interne. À planter en été ou en automne. Prend 14 jours pour arriver à maturité, puis continue de produire tous les 3 jours.",
          // "hu": "",
          // "it": "",
          // "ja": "",
          "pt": "Uma potente mistura de maconha com sabor de bagas que pegará teus sentidos. Bom para ansiedade e equilíbrio interno. Plante-as no verão ou outono. Leva 14 dias para amadurecer e continua produzindo a cada 3 dias.",
-         // "ru": "",
+         "ru": "Сильная смесь сативы с ядовитым ягодным вкусом, захватит ваши чувства. Хорошо помогает от беспокойства и восстанавливает внутренний баланс. Сажайте летом или осенью. Вырастает через 14 дней и продолжает давать урожай после первого сбора каждые 3 дня.",
          // "tr": "",
-         // "zh": "",
+         "zh": "带有臭鼬和浆果风味的强力苜蓿大麻混合物，可以俘获你的感官。适用于焦虑和恢复体内平衡。夏天或秋天播种。14天成熟，之后每3天收获一次。",
     }
 }

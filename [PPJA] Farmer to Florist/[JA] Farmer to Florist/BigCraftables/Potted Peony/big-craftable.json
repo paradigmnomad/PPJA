@@ -1,50 +1,52 @@
 {
-  "Name": "Potted Peony",
-  "Description": "A peony potted in a little wooden pot. Remember to water it!",
-  "Price": 1,
-  "ProvidesLight": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-		  "Object": "Herbal Peony",
-		  "Count": 1,
-      },
-      {
-		  "Object": 388,
-		  "Count": 10,
-      },
-	  {
-		  "Object": 330,
-		  "Count": 10,
-	  },
-    ],
-	"CanPurchase": false,
-  },
-  "NameLocalization": { 
-    "es": "Peonía en maceta",
-    "ko": "실내 화초 작약",
-    "de": "Eingemachte Pfingstrose",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",
-     //"ja": "",
-    "pt": "Vaso de Peônia",
-    "ru": "Пеон в горшке",
-     //"tr": "",
-    "zh": "芍药盆栽",
-     },
- "DescriptionLocalization": { 
-    "es": "Una peonía en una pequeña maceta de madera. ¡Recuerda regarla!",
-    "ko": "작은 나무 화분에 심겨진 작약 입니다. 물 주는거 잊지마세요!",
-    "de": "Eine Pfingstrose in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",
-     //"ja": "",
-    "pt": "Uma peônia em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
-    "ru": "Пеон в маленьком деревянном горшочке. Не забывайте поливать!",
-     //"tr": "",
-    "zh": "一个小木盆里的芍药。记得给它浇水！",
+    "Name": "Potted Peony",
+    "Description": "A peony potted in a little wooden pot. Remember to water it!",
+    "Price": 1,
+    "ProvidesLight": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Herbal Peony",
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 10,
+        },
+        {
+            "Object": 330,
+            "Count": 10,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Peonía en maceta",
+        "ko": "실내 화초 작약",
+        "de": "Eingemachte Pfingstrose",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "シャクヤクの鉢植え",
+        "pt": "Vaso de Peônia",
+        "ru": "Пеон в горшке",
+        //"tr": "",
+        "zh": "芍药盆栽",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una peonía en una pequeña maceta de madera. ¡Recuerda regarla!",
+        "ko": "작은 나무 화분에 심겨진 작약 입니다. 물 주는거 잊지마세요!",
+        "de": "Eine Pfingstrose in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "シャクヤクが植えられた木製の小さな鉢。水やりを忘れずに。",
+        "pt": "Uma peônia em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
+        "ru": "Пеон в маленьком деревянном горшочке. Не забывайте поливать!",
+        //"tr": "",
+        "zh": "一个小木盆里的芍药。记得给它浇水！",
     }
 }

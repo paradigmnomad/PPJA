@@ -17,10 +17,10 @@
     "NameLocalization":
     {
         "es": "Jarabe sencillo",
-        "ko": "단미시럽",
+        "ko": "심플 시럽",
         "de": "Einfacher Sirup",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Simple sirop",
+        "hu": "Szirup",
          // "it": "",
         "ja": "シンプルシロップ",
         "pt": "Xarope Simples",
@@ -31,10 +31,10 @@
     "DescriptionLocalization":
     {
         "es": "Un elemento básico de muchos cócteles.",
-        "ko": "대부분 칵테일의 필수품.",
+        "ko": "칵테일의 필수품.",
         "de": "Eine Grundzutat vieler Cocktails.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Une base de nombreux cocktails.",
+        "hu": "Sok koktél alapja.",
          // "it": "",
         "ja": "色んなカクテルの定番",
         "pt": "Um ingrediente básico de muitos coquetéis.",         

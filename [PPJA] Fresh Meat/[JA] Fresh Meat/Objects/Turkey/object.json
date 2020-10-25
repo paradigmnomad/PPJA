@@ -1,0 +1,43 @@
+{
+    "Name": "Turkey",
+    "Description": "A whole turkey, ready to be stuffed and roasted.",
+    "Category": "Meat",
+    "Edibility": -300,
+    "Price": 75,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,    
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "칠면조",
+        // "de": "",
+        "fr": "Dinde",
+        "hu": "Pulykahús",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "통 칠면조, 속을 채워서 구울 준비가 되었다.",
+        // "de": "",
+        "fr": "Une dinde entière, prête à être farcie et rôtie.",
+        "hu": "Egy egész pulyka, bepácolásra és sütésre készen.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
+}

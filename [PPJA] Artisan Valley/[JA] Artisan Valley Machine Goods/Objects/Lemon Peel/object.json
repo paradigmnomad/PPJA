@@ -1,0 +1,44 @@
+{
+    "Name": "Lemon Peel",
+    "Description": "Adds a bright garnish to any food or drink.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 100,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": [ "Gus"],
+        "Neutral": ["Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Marnie", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+    },  
+
+    "NameLocalization":
+    {
+        "es": "cáscara de limón",
+        "ko": "레몬 껍질",
+        //"de": "",
+        "fr": "Pelure de citron",
+        "hu": "Citromhéj",
+        // "it": "",
+        "ja": "レモンピール",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "“",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Agrega un guarnicion brillante a cualquier comida o bebida",
+        "ko": "음식이나 음료를 밝고 빛나게 해줍니다.",
+        //"de": "",
+        "fr": "Ajoute une garniture vive à tout aliment ou boisson.",
+        "hu": "Bármely ételnek vagy italnak kölcsönöz különleges ízt.",
+        // "it": "",
+        "ja": "色んな食べ物や飲み物への飾り付けになる。",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }
+
+}

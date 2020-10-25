@@ -14,11 +14,11 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Jalapeño",
         "ko": "할라페뇨",
         "de": "Jalapeno",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Jalapeño",
+        "hu": "Jalapeno",
          // "it": "",
         "ja": "ハラペーニョ",
         "pt": "Pimenta Jalapeño",
@@ -28,16 +28,22 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Un pimiento moderadamente picante. Un básico en las fiestas.",
         "ko": "적당히 매운 고추. 축제의 필수품.",
         "de": "Ein mittelscharfer Pfeffer.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Un piment modérément épicé. Un incontournable du festival.",
+        "hu": "Egy közepesen erős paprika",
          // "it": "",
         "ja": "適度に辛い唐辛子。お祭りに欠かせない。",
         "pt": "Uma pimenta moderadamente picante. Uma estrela da festa!",
         "ru": "Умеренно острый перец. Незаменим во время фестивалей.",
          // "tr": "",
           "zh": "一种中等辣度的辣椒。也被作为节日的主食。",
-    }
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_green",
+        "vegetable_item",
+        "crop_year_3",
+    ],
 }

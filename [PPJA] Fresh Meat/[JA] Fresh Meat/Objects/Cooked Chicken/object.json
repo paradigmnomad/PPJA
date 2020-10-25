@@ -19,11 +19,7 @@
             "Count": 1,
         },
         {
-            "Object": 306,
-            "Count": 1,
-        },
-        {
-            "Object": 248,
+            "Object": "Seasonings",
             "Count": 1,
         }, ],
         "IsDefault": true,
@@ -35,13 +31,13 @@
     "NameLocalization":
     {
         // "es": "",
-        "ko": "구운 닭고기",
+        "ko": "조리된 닭고기",
         // "de": "",
-        "fr": "Poulet Cuit",
-        // "hu": "",
+        "fr": "Poulet cuit",
+        "hu": "Sült csirke",
         // "it": "",
-        // "ja": "",
-        // "pt": "",
+        "ja": "調理済み鶏肉",
+        "pt": "Frango cozido",
         "ru": "Приготовленная курица",
         // "tr": "",
         "zh": "熟鸡肉",
@@ -51,13 +47,17 @@
         // "es": "",
         "ko": "통째로 구운 닭고기. 조리될 준비가 되었습니다.",
         // "de": "",
-        "fr": "Un poulet entier de rôtisserie, prêt à être utilisé dans les recettes.",
-        // "hu": "",
+        "fr": "Un poulet entier rôti, prêt à être utilisé dans des recettes.",
+        "hu": "Egy egész grillcsirke, felhasználásra készen.",
         // "it": "",
-        // "ja": "",
-        // "pt": "",
+        "ja": "レシピですぐに使えるよう下ごしらえが済んだまるごと一羽の鶏。",
+        "pt": "Um frango inteiro assado, pronto para ser usado em receitas.",
         "ru": "Зажаренная целиком курица гриль, готовая для использования в рецептах.",
         // "tr": "",
         "zh": "一整只熟鸡，可以用于烹饪。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]  
 }

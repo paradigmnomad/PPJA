@@ -1,0 +1,44 @@
+{
+    "Name": "Fowl",
+    "Description": "Meat from a wild bird.",
+    "Category": "Meat",
+    "Edibility": -300,
+    "Price": 75,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,
+
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "새고기",
+        // "de": "",
+        "fr": "Volaille",
+        "hu": "Vadmadár hús",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "야생 새의 고기.",
+        // "de": "",
+        "fr": "Viande d'un oiseau sauvage.",
+        "hu": "Egy vadmadár húsa.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
+}

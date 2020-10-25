@@ -3,7 +3,7 @@
     "Description": "Curry simmered with fresh coconut milk and tender reptile meat.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 600,
     "IsColored": false,
     "Recipe":
     {
@@ -25,36 +25,38 @@
             "Object": 270,
             "Count": 1,
         }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 725,
+        "PurchaseRequirements": null,
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "코코넛 카레",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Noix de coco au curry",
+        "hu": "Kókuszos curry",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "椰子咖喱",
+        "zh": "椰子咖喱",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "신선한 코코넛 밀크와 부드러운 파충류 고기를 넣고 끓인 카레.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande tendre de reptile mijotée dans du lait de noix de coco et du curry.",
+        "hu": "Curry friss kókusztejjel és puha hüllőhússal készítve.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "用新鲜椰汁和鲜嫩的爬行动物肉炖制而成的咖喱",
-    }
+        "zh": "用新鲜椰汁和鲜嫩的爬行动物肉炖制而成的咖喱",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

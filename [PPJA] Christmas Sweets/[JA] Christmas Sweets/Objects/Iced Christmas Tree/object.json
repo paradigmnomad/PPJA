@@ -19,14 +19,15 @@
             "Object": 245,
             "Count": 1,
         },
-{
+        {
             "Object": -5,
             "Count": 1,
         },
-{
+        {
             "Object": 246,
             "Count": 1,
-        },],"IsDefault": true,
+        }, ],
+        "IsDefault": true,
     },
     "GiftTastes":
     {
@@ -38,29 +39,29 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "ko": "크리스마스 트리 쿠키",
+        "de": "Gefrorener Weihnachtsbaum",
+        "fr": "Sapin de Noël glacé",
+        "hu": "Cukormázas Karácsonyfa",
         // "it": "",
-        // "ja": "",
-         "pt": "Árvore de Natal Congelada",
+        "ja": "ツリーアイシングクッキー",
+        "pt": "Árvore de Natal Congelada",
         // "ru": "",
         // "tr": "",
-         "zh": "冰纷圣诞树",
+        "zh": "冰纷圣诞树",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "ko": "트리모양 쿠키",
+        "de": "Es sieht irgendwie aus wie ein Weihnachtsbaum.",
+        "fr": "Ça ressemble à peu près à un sapin de Noël.",
+        "hu": "Valamennyire hasonlít egy Karácsonyfára.",
         // "it": "",
-        // "ja": "",
-         "pt": "É um pouco similar a uma árvore de Natal.",
+        "ja": "クリスマスツリーの形に焼いたクッキー。",
+        "pt": "É um pouco similar a uma árvore de Natal.",
         // "ru": "",
         // "tr": "",
-         "zh": "它有点像圣诞树。",
+        "zh": "它有点像圣诞树。",
     }
 }

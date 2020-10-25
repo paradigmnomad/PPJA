@@ -2,7 +2,7 @@
     "Name": "Aloe",
     "Description": "It can be used to treat sunburns.",
     "Category": "Vegetable",   
-    "CategoryTextOverride": "Herb",
+    "CategoryTextOverride": "Succulent",
     "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 20,
     "Price": 140,
@@ -20,8 +20,8 @@
         "es": "Aloe",
         "ko": "알로에",
         "de": "Aloe",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Aloès",
+        "hu": "Aloe Vera",
          // "it": "",
         "ja": "アロエ",
         "pt": "Babosa",
@@ -32,10 +32,10 @@
     "DescriptionLocalization":
     {
         "es": "Se puede usar para tratar las quemaduras solares.",
-        "ko": "화상입은 피부를 진정시킬 수 있습니다.",
+        "ko": "태양에 탄 피부를 진정시킬 수 있습니다.",
         "de": "Kann zur Behandlung von Sonnenbrand verwendet werden.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Utilisée pour soigner les brûlures dues au soleil.",
+        "hu": "Leégések kezelésére használható.",
          // "it": "",
         "ja": "日焼けの治療として利用できる。",
         "pt": "Pode ser usada para tratar queimaduras de sol.",
@@ -46,6 +46,7 @@
     "ContextTags": [
         "season_summer",
         "color_green",
-        "herb_item",
+        "succulent_item",
+        "crop_year_2",
     ],
 }

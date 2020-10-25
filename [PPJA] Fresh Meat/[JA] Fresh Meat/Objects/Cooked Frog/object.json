@@ -3,12 +3,13 @@
     "Description": "Meat from a frog, already cooked and ready to be used in recipes.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 425,
     "IsColored": false,
     "GiftTastes":
     {
-        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Sebastian"],
+	 "Neutral": ["Willy"],
+         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Wizard"],
+        "Hate": ["Leah", "Linus", "Jas", "Sebastian", "Vincent"],
     },
     "Recipe":
     {
@@ -22,17 +23,19 @@
             "Object": "Seasonings",
             "Count": 1,
         }, ],
+        "IsDefault": true,
     },
-    "PurchasePrice": 200,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 800,
     "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "구운 개구리",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Grenouille cuite",
+        "hu": "Sült béka",
         // "it": "",
         // "ja": "",
         // "pt": "",
@@ -43,15 +46,20 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "개구리 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande de grenouille, déjà cuite et prête à être utilisée dans des recettes.",
+        "hu": "Egy béka húsa megsütve, felhasználásra készen.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
          "zh": "来自青蛙的肉，已经煮熟，可用于进一步烹调。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ],    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
 }

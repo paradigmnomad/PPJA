@@ -1,0 +1,46 @@
+{
+    "Name": "Dragon Leather",
+    "Description": "A dragon hide that has been tanned.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 350,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "드래곤 가죽",
+        //"de": "",
+        "fr": "Cuir de dragon",
+        "hu": "Sárkánybőr",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "용의 가죽.",
+        //"de": "",
+        "fr": "Une peau de dragon qui a été tannée.",
+        "hu": "Egy sárkány cserzett bőre.",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "ContextTags": [
+        "leather_item",
+    ],
+    "EnableWithMod": "Cherry.MultiYieldCrops"
+}

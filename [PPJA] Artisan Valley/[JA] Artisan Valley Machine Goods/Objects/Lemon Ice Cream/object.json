@@ -1,0 +1,43 @@
+{
+    "Name": "Lemon Ice Cream",
+    "Description": "A fancy, fruity, sour refreshment.",
+    "Category": "ArtisanGoods",
+    "Edibility": 38,
+    "Price": 245,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Haley", "Demetrius"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigail", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie", "Vincent", "Jas"],
+        "Dislike": ["Emily", "Leah", "Krobus", "Sebastian", "Willy"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "레몬 아이스크림",
+        "de": "Zitronen Eis",
+        "fr": "Glace au citron",
+        // "hu": "",
+        "it": "Citromfagyi",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "풍성한 과일향이 향긋하고 새콤한 간식.",
+        "de": "Eine prickelnde, fruchtig, saure Erfrischung.",
+        "fr": "Un rafraîchissement plaisant, fruité et acidulé.",
+        "hu": "Egy népszerű, gyümölcsös, savanyú frissítő.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

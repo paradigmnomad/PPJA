@@ -1,0 +1,50 @@
+{
+    "Name": "Pink Cat",
+    "Product": "Pink Cat",
+    "SeedName": "Pink Cat Seeds",
+    "SeedDescription": "Plant in spring. Takes 6 days to produce a minty pink flower.",
+    "Type": "Flower",
+    "Seasons": ["spring"],
+    "Phases": [1, 2, 2, 1],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchaseFrom": "Marnie",
+    "SeedPurchasePrice": 20,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de Pink Cat",
+        "ko": "핑크 캣 씨앗",
+        "de": "Geaderte Katzenminzen-Saat",
+        "fr": "Graines de Népète",
+        "hu": "Macskamenta Virág magok",
+         // "it": "",
+        "ja": "ピンクキャット",
+        "pt": "Semente de rosa de gato",
+        "ru": "Семена котовника",
+         // "tr": "",
+        "zh": "粉色兰花种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera. Toma 6 días para producir una flor rosa menta.",
+        "ko": "봄에 심으세요. 6일 후 박하향이 나는 분홍색 꽃이 핍니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 6 Tagen heran.",
+        "fr": "Plantez au printemps. Prend 6 jours pour produire une fleur rose.",
+         "hu": "Ezeket nyáron ültesd el. 6 nap alatt hoz egy rózsaszín virágot.",
+         // "it": "",
+        "ja": "春植えの花。6日かけてミントの香りのピンクの花を咲かせる。",
+        "pt": "Plante-as na primavera. Demoram 6 dias para produzirem uma flor rosa mentolada.",
+        "ru": "Сажайте весной. Через 6 дней вырастает розовый цветок, пахнущий мятой.",
+         // "tr": "",
+        "zh": "春天播种。6天后可收获微小的粉色的花。",
+    }
+}

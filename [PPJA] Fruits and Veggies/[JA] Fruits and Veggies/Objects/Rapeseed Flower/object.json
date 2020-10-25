@@ -17,11 +17,11 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Flor de colza",
         "ko": "유채꽃",
         "de": "Rapsblüte",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Fleur de colza",
+        "hu": "Repce",
         // "it": "",
         "ja": "菜の花",
         "pt": "Flor de Colza",
@@ -31,16 +31,23 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una flor de colza.",
         "ko": "유채의 꽃 부분.",
         "de": "Die Blüte einer Rapspflanze.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une fleur de colza pour faire de l'huile.",
+        "hu": "A repce virága.",
         // "it": "",
         "ja": "アブラナの花の部分。",
         "pt": "Uma flor de colzas.",
         "ru": "Цветок рапсового растения.",
         // "tr": "",
         "zh": "油菜开的花。",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "color_yellow",
+        "flower_item",
+        "crop_year_3",
+    ],
 }

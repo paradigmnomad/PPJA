@@ -44,7 +44,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "情熱の花束",
         "pt": "Buquê da Paixão",
         "ru": "Букет страсти",
          // "tr": "",
@@ -53,12 +53,12 @@
     "DescriptionLocalization":
     {
         "es": "Un ramo de flores de color rojo oscuro para simbolizar la ardiente pasión.",
-        "ko": "타오르는 정열을 상징하는 깊고 붉은 꽃다발.",
+        "ko": "타오르는 정열을 상징하는 짙은 붉은 색의 꽃다발.",
         "de": "Ein Bouquet von tiefroten Blumen als Symbol für brennende Leidenschaft.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "深紅の花束。燃えるような情熱を象徴している。",
         "pt": "Um buquê de flores vermelhas profundas para simbolizar paixão ardente.",
         "ru": "Букет темно-красных цветов, символизирующий жгучую страсть.",
          // "tr": "",

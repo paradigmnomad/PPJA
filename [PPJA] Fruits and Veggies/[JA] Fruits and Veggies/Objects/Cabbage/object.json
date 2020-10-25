@@ -16,8 +16,8 @@
         "es": "Repollo",
         "ko": "양배추",
         "de": "Kohl",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Chou",
+        "hu": "Fejes Káposzta",
          // "it": "",
         "ja": "キャベツ",
         "pt": "Repolho",
@@ -27,16 +27,22 @@
     },
     "DescriptionLocalization":
     {
-        "es": "¿Alguna vez has jugado el boliche de repollo?",
-        "ko": "양배추로 볼링 쳐 본 적이 있나요?",
+        "es": "¿Alguna vez has jugado a los bolos con repollo?",
+        "ko": "양배추로 볼링 해 본 사람?",
         "de": "Hast du mal versucht, damit zu bowlen?",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Avez-vous déjà essayé le chou bouilli ?",
+        "hu": "Próbáltad már a káposzta bowlingot?",
          // "it": "",
         "ja": "キャベツボーリングやった事ある？",
         "pt": "Você já tentou boliche de repolho?",
         "ru": "Вы когда-нибудь пробовали играть в боулинг капустой?",
          // "tr": "",
         "zh": "你吃过一整碗卷心菜吗？",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "season_fall",
+        "color_green",
+        "vegetable_item",
+    ],
 }

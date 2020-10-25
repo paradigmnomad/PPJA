@@ -4,16 +4,15 @@
     "SeedName": "Bee Balm Seeds",
     "SeedDescription": "Plant in fall. Takes 9 days to produce an attractive flower.",
     "Type": "Flower",
-
     "Seasons": ["fall"],
     "Phases": [1, 2, 3, 3],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": [
-        "236, 0, 0, 1",
-        "224, 88, 158, 1",
-        "255, 172, 240, 1"
+        "236, 0, 0, 255",
+        "224, 88, 158, 255",
+        "255, 172, 240, 255"
     ],
     "Bonus":
     {
@@ -30,7 +29,7 @@
         "ko": "멜리사 씨앗",
         "de": "Monarda-Saat",
         "fr": "Graines de Monarde",
-         // "hu": "",
+        "hu": "Méhbalzsam magvak",
          // "it": "",
         "ja": "タイマツバナの種",
         "pt": "Sementes de monarda",
@@ -43,8 +42,8 @@
         "es": "Plántalas en otoño. Toma 9 días para producir una flor atractiva.",
         "ko": "가을에 심으세요. 9일후 매력적인 꽃이 핍니다.",
         "de": "Pflanze sie im Herbst. Wächst in 9 Tagen zu einer schönen Blume heran.",
-        "fr": "Plantez à l'automne. Prend 9 jours pour produire une jolie fleur.",
-         // "hu": "",
+        "fr": "À planter à l'automne. Prend 9 jours pour produire une jolie fleur.",
+        "hu": "Ezeket ősszel ültesd el. 9 nap alatt hoz egy szép virágot.",
          // "it": "",
         "ja": "秋植えの花。9日かけて魅惑的な花を咲かせる。色は咲いてのおたのしみ。",
         "pt": "Plante-as no outono. Demoram 9 dias para produzir uma flor seduzente.",

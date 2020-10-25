@@ -19,7 +19,7 @@
         "Speed": 3,
         "Defense": 0,
         "Attack": 0,
-        "Duration": 900,
+        "Duration": 900
     },
     "GiftTastes":
     {
@@ -30,12 +30,12 @@
     {
         "es": "Cafe Antiguo",
         "ko": "고대의 커피",
-        //"de": "",
-        //"fr": "",
-        //"hu": "",
+        "de": "Alter Kaffee",
+        "fr": "Café antique",
+        "hu": "Ősi kávé",
         //"it": "",
-        //"ja": "",
-        //"pt": "",
+        "ja": "古代のコーヒー",
+        "pt": "Café Antigo",
         "ru": "Древний кофе",
         //"tr": "",
         "zh": "远古咖啡"
@@ -44,12 +44,12 @@
     {
         "es": "¿Volveré a dormir alguna vez?",
         "ko": "다시 잘 수나 있을까?",
-        //"de": "",
-        //"fr": "",
-        //"hu": "",
+        "de": "Werde ich jemals wieder schlafen?",
+        "fr": "Vais-je pouvoir un jour me rendormir ?",
+        "hu": "Fogsz-e tudni valaha is aludni ezután?",
         //"it": "",
-        //"ja": "",
-        //"pt": "",
+        "ja": "もう二度と眠れない？",
+        "pt": "Você voltará a dormir de novo?",
         "ru": "Смогу ли я когда-нибудь вновь спать?",
         //"tr": "",
         "zh": "喝了再也睡不着了吧？"

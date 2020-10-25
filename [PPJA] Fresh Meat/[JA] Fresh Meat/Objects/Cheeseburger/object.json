@@ -5,7 +5,7 @@
     "Edibility": 118,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 325,
+    "Price": 525,
     "IsColored": false,
     "GiftTastes":
     {
@@ -18,7 +18,7 @@
         "ResultCount": 1,
         "Ingredients": [
         {
-            "Object": "Cooked Beef",
+            "Object": "Hamburger Patty",
             "Count": 1,
         },
         {
@@ -39,11 +39,11 @@
         "es": "Quesoburguesa",
         "ko": "치즈버거",
         "de": "Cheeseburger",
-        "fr": "Hamburger au Fromage",
-        // "hu": "",
+        "fr": "Hamburger au fromage",
+        "hu": "Sajtburger",
         // "it": "",
-        // "ja": "",
-        // "pt": "",
+        "ja": "チーズバーガー",
+        "pt": "X-Burguer",
         "ru": "Чизбургер",
         // "tr": "",
         "zh": "芝士汉堡",
@@ -51,13 +51,13 @@
     "DescriptionLocalization":
     {
         "es": "Una hamburguesa con queso.",
-        "ko": "햄버거에 치즈가 들어갔습니다.",
+        "ko": "치즈가 들어있는 햄버거.",
         "de": "Ein Hamburger, mit Käse.",
         "fr": "Un hamburger, mais avec du fromage.",
-        // "hu": "",
+        "hu": "Egy hamburger, de sattal.",
         // "it": "",
-        // "ja": "",
-        // "pt": "",
+        "ja": "チーズ入りハンバーガー。",
+        "pt": "Um hambúrguer, mas com queijo.",
         "ru": "Как гамбургер, но с сыром.",
         // "tr": "",
         "zh": "芝士汉堡。一个汉堡，里面夹有丰富的芝士。",

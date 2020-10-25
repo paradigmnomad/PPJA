@@ -1,0 +1,49 @@
+{
+    "Name": "Summer Rose",
+    "Product": "Summer Rose",
+    "SeedName": "Summer Rose Starter",
+    "SeedDescription": "Plant in summer. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.",
+    "Type": "Flower",
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 3, 4, 2],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+    "SeedPurchasePrice": 175,
+    "SeedNameLocalization":
+    {
+        "es": "Kit de rosas veraniegas",
+        "ko": "여름 장미 씨앗",
+        "de": "Sommerrosen-Starterset",
+        "fr": "Graines de Rose d'été",
+        "hu": "Nyári Rózsa ültetvény",
+         // "it": "",
+        "ja": "夏バラ栽培キット",
+        "pt": "Muda de rosa do verão",
+        "ru": "Семена летней розы",
+         // "tr": "",
+        "zh": "夏季玫瑰种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 12 días producir una flor famosa y hermosa, y sigue produciendo después de la primera cosecha. Crece en una espaldera.",
+        "ko": "여름에 심으세요. 12일 후 정말 빼어나게 아름다운 꽃이 피며, 수확한 후에도 계속 꽃이 핍니다. 격자 구조물에 감겨 자랍니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 12 Tagen zu einer schönen Blume heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
+        "fr": "Plantez en été. Prend 12 jours pour produire une fleur célèbre et continue de produire après la première récolte. Pousse sur un treillis.",
+        "hu": "Ezeket nyáron ültesd el. 12 nap alatt hoz egy híresen szép virágot, de utána tovább termel. Egy lécen terem meg.",
+         // "it": "",
+        "ja": "夏植えの花。12日かけて美しさで名高い花を咲かせる。最初の収穫のあともくりかえし収穫できる。支柱にからみながらそだつ。",
+        "pt": "Plante-as no verão. Demoram 12 dias para produzirem um linda e famosa flor, e continuam produzindo depois da primeira colheita. Crescem em treliças.",
+        "ru": "Сажайте летом. Через 12 дней вырастает известный своей красотой цветок и продолжает расти после сбора. Растет на шпалере.",
+         // "tr": "",
+        "zh": "夏天播种。12天后收获著名的美丽花朵，在第一次收获后循环生产。生长在架子上。",
+    }
+}

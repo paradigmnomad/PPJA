@@ -14,11 +14,11 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Okra",
         "ko": "오크라",
         "de": "Okra",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Gombo",
+        "hu": "Gombó",
          // "it": "",
         "ja": "オクラ",
         "pt": "Quiabo",
@@ -28,16 +28,23 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
-        "ko": "속은 축축하고 물렁물렁하지만, 튀지만 맛있습니다.",
+        "es": "Húmeda y blanda por dentro, pero deliciosa cuando se fríe.",
+        "ko": "속은 축축하고 물렁물렁하지만, 튀기면 맛있습니다.",
         "de": "Weich und breiig im Inneren, aber köstlich nach dem Braten.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Humide et ramolli à l'intérieur, mais délicieux quand il est cuit.",
+        "hu": "Belül puha és nedves, de sülve ízletes.",
          // "it": "",
         "ja": "中身はねばねばしているが、揚げるとおいしい。",
         "pt": "Molhado e maduro por dentro, mas delicioso quando frito.",
         "ru": "Мягкая и сочная внутри, очень вкусная после запекания.",
          // "tr": "",
           "zh": "里面湿漉漉黏乎乎的，但油炸时味道很好。 ",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "season_fall",
+        "color_green",
+        "vegetable_item",
+        "crop_year_3",
+    ],
 }

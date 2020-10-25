@@ -1,0 +1,47 @@
+{
+    "Name": "Sweet Jasmine",
+    "Description": "These are sweet, highly scented flowers.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 95,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Jazmín dulce",
+        "ko": "스위트 자스민",
+        "de": "Jasmin",
+        "fr": "Jasmin Doux",
+        "hu": "Édes Jázmin",
+         // "it": "",
+        "ja": "ジャスミン",
+        "pt": "Jasmim doce",
+        "ru": "Сладкий жасмин",
+         // "tr": "",
+        "zh": "甜茉莉花",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Estas son flores dulces y altamente perfumadas.",
+        "ko": "달콤하고 향기가 강한 꽃입니다.",
+        "de": "Süß und schwer duftend.",
+        "fr": "Ce sont des fleurs douces et très parfumées.",
+        "hu": "Ezek édes, erős illatú virágok.",
+         // "it": "",
+        "ja": "甘く香り高い花。",
+        "pt": "São doces, extremamente perfumadas.",
+        "ru": "Очень сладкие и сильно пахнущие цветы.",
+         // "tr": "",
+        "zh": "这些是甜美的，芳香的花。",
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_sand",
+        "fruit_tree_item",
+        "nut_item"
+    ]
+}

@@ -25,11 +25,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Levadura",
         "ko": "효모",
         "de": "Hefe",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Levure",
+        "hu": "Élesztő",
         // "it": "",
         "ja": "イースト",
         "pt": "Levedura",  
@@ -39,11 +39,11 @@
     },
     "DescriptionLocalization":
     {
-        //"es": "",
+        "es": "Útil para la fermentacion",
         "ko": "양조하는데 유용합니다.",
         "de": "Nützlich beim Brauen.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Utile pour le brassage.",
+        "hu": "Söfőzéshez hasznos.",
         // "it": "",
         "ja": "醸造に役立つ。",
         "pt": "Útil para fermentação",

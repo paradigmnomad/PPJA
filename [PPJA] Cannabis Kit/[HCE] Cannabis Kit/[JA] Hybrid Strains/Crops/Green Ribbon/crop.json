@@ -1,0 +1,50 @@
+{
+    "Name": "Green Ribbon",
+    "Product": "Green Ribbon",
+    "SeedName": "Green Ribbon Starter",
+    "SeedDescription": "Plant these in the summer. Takes 13 days to mature, afterwards it continues to produce every 3 days.",
+    "Type": "Flower",
+    "Seasons": ["summer"],
+    "Phases": [2, 3, 4, 4, 3],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 0,
+        "ExtraChance": 0.2,
+    },
+    "SeedPurchaseFrom": "DONOTSELL",
+    "SeedPurchasePrice": 300,
+    "SeedNameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Graines de Green Ribbon",
+        "hu": "Green Ribbon ültetvény",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "À planter en été. Prend 13 jours pour arriver à maturité, puis continue de produire tous les 3 jours.",
+        "hu": "Ezeket nyáron ültesd el. 13 napig tart megérniük, de utána tovább termelnek 3 naponként.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

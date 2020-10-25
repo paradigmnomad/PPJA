@@ -22,39 +22,39 @@
         {
             "Object": -5,
             "Count": 1,
-        },],
+        }, ],
     },
     "GiftTastes":
-    {        
-	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "ko": "눈사람 겨울쿠키",
+        "de": "Schneemann Landschaftsplätzchen",
+        "fr": "Biscuit en bonhomme de neige avec décor",
+        "hu": "Téli táj keksz",
         // "it": "",
-        // "ja": "",
-         "pt": "Biscoito de Neve",
+        "ja": "雪だるまの風景画のクッキー",
+        "pt": "Biscoito de Neve",
         // "ru": "",
         // "tr": "",
-         "zh": "雪景饼干",
+        "zh": "雪景饼干",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "ko": "겨울풍경으로 장식한 딱딱한 쿠키",
+        "de": "Ein harter Keks, der mit einer Winterlandschaft verziert wird.",
+        "fr": "Un biscuit dur décoré avec un paysage d'hiver.",
+        "hu": "Egy kemény keksz, mely díszítése egy téli tájat ábrázol.",
         // "it": "",
-        // "ja": "",
-         "pt": "Um biscoito duro decorado em formato de cenário de neve.",
+        "ja": "冬の景色が描かれているクッキー。",
+        "pt": "Um biscoito duro decorado em formato de cenário de neve.",
         // "ru": "",
         // "tr": "",
-         "zh": "一块硬饼干，冬日雪景跃然其上。",
+        "zh": "一块硬饼干，冬日雪景跃然其上。",
     }
 }

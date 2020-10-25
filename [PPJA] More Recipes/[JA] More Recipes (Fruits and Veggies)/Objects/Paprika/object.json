@@ -19,7 +19,7 @@
         "es": "Paprika",
         "ko": "파프리카",
         "de": "Paprikapulver",
-         // "fr": "",
+        "fr": "Paprika",
          // "hu": "",
          // "it": "",
         "ja": "パプリカパウダー",
@@ -31,9 +31,9 @@
     "DescriptionLocalization":
     {
         "es": "Pimientos molidos que tienen un sabor ahumado.",
-        "ko": "매캐한 맛이 나는 갈은 피망 한 병.",
+        "ko": "스모키한 맛이 나는 갈은 피망 한 병.",
         "de": "Ein Glas gemahlener Paprika mit einem rauchigen Geschmack.",
-         // "fr": "",
+        "fr": "Un pot de poivrons moulus avec un goût fumé.",
          // "hu": "",
          // "it": "",
         "ja": "スモーキーな風味がする、パプリカを粉末にした香辛料。",

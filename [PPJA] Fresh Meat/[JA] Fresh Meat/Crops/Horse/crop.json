@@ -1,0 +1,53 @@
+{
+    "Name": "Horse",
+    "Product": "Horse Meat",
+    "SeedName": "Horse Seeds",
+    "SeedDescription": "Plant these in summer or winter. Takes 13 days to mature.",
+    "Type": "ArtisanGoods",
+    "Seasons": ["summer", "winter"],
+    "Phases": [3, 2, 3, 2, 3],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 0,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchasePrice": 250,
+    "SeedPurchaseRequirements":
+    [
+	"y 2"
+    ],
+    "SeedNameLocalization":
+    {
+        // "es": "",
+        "ko": "말 씨앗",
+        // "de": "",
+        "fr": "Graines de viande de cheval",
+        "hu": "Ló magvak",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+       // "es": "",
+        "ko": "봄 또는 여름 작물. 성장하려면 8일이 소요됩니다.",
+        // "de": "",
+        "fr": "À planter en été ou en hiver. Prend 13 jours pour arriver à maturité.",
+        "hu": "Ezeket nyáron ültesse el. 11 napig tart megérniük.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+}

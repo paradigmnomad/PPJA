@@ -1,0 +1,45 @@
+{
+    "Name": "Honey Lavender Ice Cream",
+    "Description": "A rich ice cream infused with lavender buds and honey.",
+    "Category": "ArtisanGoods",
+    "Edibility": 60,
+    "EdibleIsDrink": false,
+    "Price": 425,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Jas", "Vincent"],
+        "Like": ["Demetrius", "Elliott", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Pam", "Robin", "Sandy", "Shane"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn" ,"George", "Gus", "Krobus", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+        "Dislike": ["Abigail"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Glace à la lavande et au miel",
+        "hu": "Mézes-levendulás fagyi",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Une glace riche infusée avec des bourgeons de lavande et du miel.",
+        "hu": "Egy ízletes fagylalt levedulával és mézzel.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

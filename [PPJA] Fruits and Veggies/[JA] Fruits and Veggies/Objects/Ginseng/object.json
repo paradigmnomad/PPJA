@@ -1,0 +1,49 @@
+{
+    "Name": "Ginseng",
+    "Description": "A hard to find root. It is said to have many health benefits.",
+    "Category": "Vegetable",
+    "Edibility": 20,
+    "Price": 2000,
+    "IsColored": false,
+    "GiftTastes":
+    {
+	"Love": ["Dwarf", "George", "Evelyn", "Gus", "Lewis", "Linus", "Harvey", "Willy", "Wizard" ],
+    "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Emily",  "Jodi", "Kent", "Leah", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin"],
+    "Dislike": ["Elliott", "Abigail", "Haley", "Sam", "Sandy", "Sebastian", "Shane"],
+	"Hate": ["Krobus", "Jas", "Vincent"]
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Ginseng",
+        "ko": "인삼",
+        //"de": "",
+       "fr": "Ginseng",
+        "hu": "Ginszeng",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una raíz difícil de encontrar. Se dice que tiene muchos beneficios para la salud.",
+        "ko": "건강에 좋지만 매우 귀한 뿌리식물. 주로 약용으로 사용합니다.",
+        //"de": "",
+       "fr": "Une racine dure à trouver. Elle est réputée pour avoir des vertues sur la santé.",
+        "hu": "Egy ritka gyökér. Számos jótékony hatása van.",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "ContextTags": [
+        "season_all",
+        "color_tam",
+        "vegetable_item",
+    ],
+}

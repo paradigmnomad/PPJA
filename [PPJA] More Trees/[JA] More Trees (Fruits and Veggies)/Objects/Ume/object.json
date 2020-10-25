@@ -1,0 +1,47 @@
+{
+    "Name": "Ume",
+    "Description": "A sweet and sour green fruit. It used to preserved with sugar or salt.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 50,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Gus", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Vincent"]
+    },
+    "NameLocalization":
+    {
+        "es": "Ume",
+        "ko": "매실",
+        //"de": "",
+        "fr": "Ume",
+        "hu": "Japán kajszi",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una fruta verde agridulce. Solía conservarse con azúcar o sal.",
+        "ko": "설탕이나 소금에 절여서 먹는 새콤달콤한 녹색 과일.",
+        //"de": "",
+        "fr": "Un fruit vert sucré et acide. Ces prunes sont conservées dans du sucre ou du sel.",
+        "hu": "Egy édes és savanyú zöld gyümölcs. Kompótot szoktak készíteni belőle cukorral vagy sóval.",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_Green",
+        "fruit_tree_item",
+        "fruit_item",
+        "dye_medium"
+    ]
+}

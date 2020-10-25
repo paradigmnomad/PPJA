@@ -44,9 +44,9 @@
     "NameLocalization":
     {
         "es": "Dona de fresa glaseada",
-        "ko": "아이스 딸기 도넛",
+        "ko": "아이싱 딸기 도넛",
         "de": "Gefrorener Erdbeerdonut",
-         // "fr": "",
+        "fr": "Beignet glacé à la fraise",
          // "hu": "",
          // "it": "",
         "ja": "イチゴアイスドーナツ",
@@ -58,9 +58,9 @@
     "DescriptionLocalization":
     {
         "es": "Simple, una dona de fresa glaseada.",
-        "ko": "단순히 그냥 얼린 딸기 도넛이에요.",
+        "ko": "단순히 아이싱을 끼얹은 딸기 도넛이에요.",
         "de": "Ein einfacher Donut mit gefrorenen Erdbeerstücken.",
-         // "fr": "",
+        "fr": "Un simple beignet glacé à la fraise.",
          // "hu": "",
          // "it": "",
         "ja": "シンプルなイチゴアイスドーナツ。",

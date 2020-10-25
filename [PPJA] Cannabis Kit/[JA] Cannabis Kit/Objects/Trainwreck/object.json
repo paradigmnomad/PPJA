@@ -1,0 +1,50 @@
+{
+    "Name": "Trainwreck",
+    "Description": "This potent staple sativa hits hard.",
+    "Category": "Flower",
+    "CategoryTextOverride": "Hybrid",
+    "CategoryColorOverride": "121, 185, 70, 255",
+    "Edibility": 18,
+    "Price": 600,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian", "Sam", "Abigail"],
+        "Neutral": ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         "fr": "Trainwreck",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         "fr": "Cette sativa puissante de base frappe fort.",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ]
+}

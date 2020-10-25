@@ -1,0 +1,49 @@
+{
+    "Name": "Passion Flower",
+    "Product": "Passion Flower",
+    "SeedName": "Passion Flower Seeds",
+    "SeedDescription": "Plant in summer. Takes 8 days to produce a lovely flower.",
+    "Type": "Flower",
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 3, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 90,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de pasionaria",
+        "ko": "시계꽃 씨앗",
+        "de": "Passionsblumen-Saat",
+        "fr": "Graines de Passiflore",
+        "hu": "Golgotavirág magvak",
+         // "it": "",
+        "ja": "トケイソウの種",
+        "pt": "Sementes da flor da paixão",
+        "ru": "Семена страстоцвета",
+         // "tr": "",
+        "zh": "西番莲种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 8 días para producir una hermosa flor.",
+        "ko": "여름에 심으세요. 8일 후 사랑스러운 꽃이 핍니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 8 Tagen heran.",
+        "fr": "Plantez en été. Prend 8 jours pour produire une jolie fleur.",
+        "hu": "Ezeket nyáron ültesd el. 8 nap alatt hoz egy szép virágot.",
+         // "it": "",
+        "ja": "夏植えの花。8日かけてかわいらしい花を咲かせる。",
+        "pt": "Plante-as no verão. Demoram 8 dias para produzir uma amável flor.",
+        "ru": "Сажайте летом. Через 8 дней вырастает прелестный цветок.",
+         // "tr": "",
+        "zh": "夏天播种。8天后产出可爱的花。",
+    }
+}

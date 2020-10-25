@@ -1,0 +1,44 @@
+{
+    "Name": "Reptile Meat",
+    "Description": "Tender meat from a reptile.",
+    "Category": "Meat",
+    "Edibility": -300,
+    "Price": 125,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,
+    
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "파충류고기",
+        // "de": "",
+        "fr": "Viande de reptile",
+        "hu": "Hüllő hús",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "파충류의 부드러운 고기.",
+        // "de": "",
+        "fr": "Viande tendre de reptile.",
+        "hu": "Egy hüllő könnyed hússzelete.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
+}

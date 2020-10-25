@@ -1,50 +1,52 @@
 {
-  "Name": "Potted Chrysanthemum",
-  "Description": "A chrysanthemum potted in a little wooden pot. Remember to water it!",
-  "Price": 1,
-  "ProvidesLight": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-		  "Object": "Chrysanthemum",
-		  "Count": 1,
-      },
-      {
-		  "Object": 388,
-		  "Count": 10,
-      },
-	  {
-		  "Object": 330,
-		  "Count": 10,
-	  },
-    ],
-	"CanPurchase": false
-	  },
-  "NameLocalization": { 
-    "es": "Crisantemo en maceta",
-    "ko": "실내 화초 국화",
-    "de": "Eingemachte Chrysantheme",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",
-     //"ja": "",
-    "pt": "Vaso de Crisântemo",
-    "ru": "Хризантема в горшке",
-     //"tr": "",
-    "zh": "菊花盆栽",
-     },
- "DescriptionLocalization": { 
-    "es": "Un crisantemo en una pequeña maceta de madera. ¡Recuerda regarlo!",
-    "ko": "작은 나무 화분에 심겨진 국화 입니다. 물 주는거 잊지마세요!",
-    "de": "Eine Chrysantheme in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",
-     //"ja": "",
-    "pt": "Um Crisântemo em um vaso pequeno de madeira. Lembre-se sempre de regá-lo!",
-    "ru": "Хризантема в маленьком деревянном горшочке. Не забывайте поливать!",
-     //"tr": "",
-    "zh": "一个小木盆里的菊花。记得给它浇水！",
+    "Name": "Potted Chrysanthemum",
+    "Description": "A chrysanthemum potted in a little wooden pot. Remember to water it!",
+    "Price": 1,
+    "ProvidesLight": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Chrysanthemum",
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 10,
+        },
+        {
+            "Object": 330,
+            "Count": 10,
+        }, ],
+        "CanPurchase": false
+    },
+    "NameLocalization":
+    {
+        "es": "Crisantemo en maceta",
+        "ko": "실내 화초 국화",
+        "de": "Eingemachte Chrysantheme",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "キクの鉢植え",
+        "pt": "Vaso de Crisântemo",
+        "ru": "Хризантема в горшке",
+        //"tr": "",
+        "zh": "菊花盆栽",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un crisantemo en una pequeña maceta de madera. ¡Recuerda regarlo!",
+        "ko": "작은 나무 화분에 심겨진 국화 입니다. 물 주는거 잊지마세요!",
+        "de": "Eine Chrysantheme in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "キクの花が植えられた木製の小さな鉢。水やりを忘れずに。",
+        "pt": "Um Crisântemo em um vaso pequeno de madeira. Lembre-se sempre de regá-lo!",
+        "ru": "Хризантема в маленьком деревянном горшочке. Не забывайте поливать!",
+        //"tr": "",
+        "zh": "一个小木盆里的菊花。记得给它浇水！",
     }
 }

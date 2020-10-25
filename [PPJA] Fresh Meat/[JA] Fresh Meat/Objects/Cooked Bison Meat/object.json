@@ -22,18 +22,19 @@
             "Object": "Seasonings",
             "Count": 1,
         }, ],
+        "IsDefault": true,
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 200,
     "PurchaseRequirements": null,
-
-
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "구운 들소고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande de bison cuite",
+        "hu": "Sült bölényhús",
         // "it": "",
         // "ja": "",
         // "pt": "",
@@ -44,15 +45,20 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "버팔로의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande de bison, déjà cuite et prête à être utilisée dans des recettes.",
+        "hu": "Egy bölény húsa, megsütve, felhasználásra készen.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
          "zh": "从水牛身上取下的肉，已经煮熟，可以用于进一步烹调。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ],    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
 }

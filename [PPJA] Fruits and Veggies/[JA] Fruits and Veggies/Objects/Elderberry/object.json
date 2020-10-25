@@ -2,7 +2,7 @@
     "Name": "Elderberry",
     "Description": "Your mother was a hamster and your father smelt of elderberries!",
     "Category": "Fruit",
-    "Edibility": 15,
+    "Edibility": -15,
     "Price": 20,
     "IsColored": false,
     "GiftTastes":
@@ -17,8 +17,8 @@
         "es": "Saúco",
         "ko": "엘더베리",
         "de": "Holunder",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Baie de sureau",
+        "hu": "Bodzabogyó",
          // "it": "", 
         "ja": "エルダーベリー",
         "pt": "Sabugueiro",
@@ -29,15 +29,21 @@
     "DescriptionLocalization":
     {
         "es": "¡Tu madre era un hámster y tu padre olía a bayas de saúco!",
-        "ko": "자줏빛이 도는 검은색 열매로 주로 잼, 젤리, 와인을 만드는데 이용됩니다.",
+        "ko": "니 엄마는 햄스터고 니 아빠는 엘더베리 냄새가 난다네!",
         "de": "Wird zu Saft gepresst, der bei Erkältungen hilft!",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Ta mère était un hamster et ton père puait l'sureau ! (Cf. Monty Python ; les paysans trop pauvres faisaient de l'eau-de-vie avec du sureau à la place du vin)",
+        "hu": "Édesanyád volt a hörcsög és édesapádnak bodzaillata volt!",
          // "it": "",
         "ja": "「Your mother was a hamster and your father smelt of elderberries!」",
         "pt": "Sua mãe era um hamster e seu pai cheirava a sabugueiro!",
         "ru": "Твоя мать была хомяком, а отец пах бузиной!",
          // "tr": "",
         "zh": "你妈妈是一只仓鼠，那你的父亲闻起来有一股接骨木的气味！（原句的英文这是一句在外国骂人的话）接骨木主要具有中医药用途。",
-    }
+    },
+    "ContextTags": [
+        "season_winter",
+        "color_dark_blue",
+        "fruit_item",
+        "crop_year_2",
+    ],
 }

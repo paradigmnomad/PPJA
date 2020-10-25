@@ -1,0 +1,42 @@
+{
+    "Name": "Summer Rose",
+    "Description": "A rose by any other name would smell as sweet.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 55,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Elliott", "Penny"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Rosa veraniega",
+        "ko": "여름 장미",
+        "de": "Sommerrose",
+        "fr": "Rose d'Eté",
+        "hu": "Nyári Rózsa",
+         // "it": "",
+        "ja": "夏バラ",
+        "pt": "Rosa do verão",
+        "ru": "Летняя роза",
+         // "tr": "",
+        "zh": "夏季玫瑰",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una rosa de verano con un olor diferente a las demas.",
+        "ko": "장미는 이름이 장미가 아니더라도 향기롭기는 매한가지일 것입니다.",
+        "de": "Mit einem anderen Namen würde sie genauso süß riechen.",
+        "fr": "Une rose sous un autre nom aurait une odeur aussi douce.",
+        "hu": "Bármilyen rózsa is legyen, az illata mindig pont ilyen édes.",
+         // "it": "",
+        "ja": "「バラと呼ばれている花を別の名前にしても、甘く美しい香りはそのままだわ。」",
+        "pt": "Uma rosa de qualquer outro nome poderia ter um cheiro tão doce como essa.",
+        "ru": "Как розу не назови, пахнуть она будет столь же сладко.",
+         // "tr": "",
+        "zh": "玫瑰闻起来都是甜的。",
+    }
+}

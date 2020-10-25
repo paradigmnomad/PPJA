@@ -9,14 +9,13 @@
     {
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
     },
-    "Recipe": null,
     "NameLocalization":
     {
         "es": "Pera",
-        "ko": "배",
+        "ko": "서양배",
         "de": "Birne",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Poire",
+        "hu": "Körte",
          // "it": "",
         "ja": "ナシ",
         "pt": "Pera",
@@ -29,8 +28,8 @@
         "es": "Una fruta ligeramente dulce que crece en el invierno. Deje que madure por unos días antes de comer.",
         "ko": "겨울에 자라는 약간 달콤한 과일. 먹기 전에 며칠 숙성시키세요.",
         "de": "Eine leicht süße und saftige Frucht. Lass sie aber vor dem Essen ein paar Tage liegen.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Un fruit d'hiver légèrement sucré. Laissez-la mûrir quelques jours avant de la manger.",
+        "hu": "Egy közepesen édes gyümölcs, ami télen terem. Hagyjad érni pár napig fogyasztás előtt.",
          // "it": "",
         "ja": "冬にそだつ少し甘めの果物。食べる前に数日間熟成させる。",
         "pt": "Uma fruta levemente adocicada que cresce no inverno. Deixe amadurecer por alguns dias antes de comer.",

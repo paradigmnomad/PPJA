@@ -36,10 +36,10 @@
 
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Salsa de Espinaca",
         "ko": "시금치 딥",
         "de": "Spinatdip",
-         // "fr": "",
+        "fr": "Trempette d'épinard",
          // "hu": "",
          // "it": "",
         "ja": "ホウレンソウディップ",
@@ -50,10 +50,10 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Para tus papas fritas!",
         "ko": "칩에 찍어 드세요!",
         "de": "Wie gemacht für Chips.",
-         // "fr": "",
+        "fr": "Pour vos frites !",
          // "hu": "",
          // "it": "",
         "ja": "ポテトにつけて召し上がれ！",

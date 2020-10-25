@@ -17,8 +17,8 @@
         "es": "Remolacha azucarera",
         "ko": "사탕무(감채)",
         "de": "Zuckerrübe",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Betterave sucrière",
+        "hu": "Cukorrépa",
          // "it": "",
         "ja": "テンサイ",
         "pt": "Beterraba",
@@ -28,16 +28,22 @@
     },
     "DescriptionLocalization":
     {
-        "es": "Este tubérculo tiene un alta concentración de sacarosa. Es bueno para procesar en azúcar!",
+        "es": "Este tubérculo tiene un alta concentración de sacarosa. ¡Es bueno para procesarlo en azúcar!",
         "ko": "이 작물은 당도가 높습니다. 설탕 가공에 좋습니다!",
         "de": "Diese Knolle hat eine hohe Konzentration von Saccharose und kann gut zu Zucker verarbeitet werden!",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Ce tubercule a une grande concentration de saccharose. Très bonne pour être transformée en sucre.",
+        "hu": "Ennek a gumónak magas a szacharóz tartalma. Cukor előállítására lehet felhasználni!",
          // "it": "",
         "ja": "このカブは高濃度のショトウを含有している。砂糖に加工するのにちょうどいい！",
         "pt": "Este tubérculo tem uma alta concentração de sacarose. É bom para processamento em açúcar!",
         "ru": "Этот клубень содержит высокую концентрацию сахарозы, что хорошо для производства сахара!",
          // "tr": "",
         "zh": "这个块茎有高浓度的糖分。把它加工成糖很棒！",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_white",
+        "vegetable_item",
+        "crop_year_2",
+    ],
 }

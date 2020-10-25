@@ -1,0 +1,49 @@
+{
+    "Name": "Fall Rose",
+    "Product": "Fall Rose",
+    "SeedName": "Fall Rose Starter",
+    "SeedDescription": "Plant in fall. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.",
+    "Type": "Flower",
+    "Seasons": ["fall"],
+    "Phases": [1, 2, 3, 4, 2],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+    "SeedPurchasePrice": 175,
+    "SeedNameLocalization":
+    {
+        "es": "Kit de rosas otoñales",
+        "ko": "가을 장미 씨앗",
+        "de": "Herbstrosen-Starterset",
+        "fr": "Graines de Rose d'Automne",
+        "hu": "Őszi Rózsa ültetvény",
+         // "it": "",
+        "ja": "秋バラ栽培キット",
+        "pt": "Mudas de Rosa do outono",
+        "ru": "Семена осенней розы",
+         // "tr": "",
+        "zh": "秋季玫瑰种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 12 días producir una flor famosa y hermosa, y sigue produciendo después de la primera cosecha. Crece en un enrejado.",
+        "ko": "가을에 심으세요. 12일 후 빼어나게 아름다운 꽃이 피어나며, 수확한 후에도 계속 피어납니다. 격자 구조물에 감겨 자랍니다.",
+        "de": "Pflanze sie im Herbst. Wächst in 12 Tagen zu einer schönen Blume heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
+        "fr": "Plantez à l'automne. Prend 12 jours pour produire une fleur célèbre et continue de produire après la première récolte. Pousse sur un treillis.",
+        "hu": "Ezeket ősszel ültesd el. 12 nap alatt hoz egy híresen szép virágot, és az első aratás után tovább termel. Egy lécen terem meg.",
+         // "it": "",
+        "ja": "秋植えの花。12日かけて美しさで名高い花を咲かせる。最初の収穫のあともくりかえし収穫できる。支柱にからみながらそだつ。",
+        "pt": "Plante-as no outono. Demora 12 dias para produzir uma famosa e linda flor, e continuam a produzir após a primeira colheita. Crescem em treliças.",
+        "ru": "Сажайте осенью. Через 12 дней вырастает известный своей красотой цветок и продолжает расти после сбора. Растет на шпалере.",
+         // "tr": "",
+        "zh": "秋天播种。12天后收获著名的美丽花朵，在第一次收获后循环生产。生长在架子上。",
+    }
+}

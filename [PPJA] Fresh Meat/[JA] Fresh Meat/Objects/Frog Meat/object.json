@@ -1,9 +1,9 @@
 {
     "Name": "Frog Meat",
     "Description": "Meat from a frog. I wonder if it tastes like chicken?",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
-    "Price": 75,
+    "Price": 180,
     "IsColored": false,
     "GiftTastes":
     {
@@ -15,10 +15,10 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "개구리고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande de grenouille",
+        "hu": "Békahús",
         // "it": "",
         // "ja": "",
         // "pt": "",
@@ -29,15 +29,16 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "개구리 고기. 닭고기 맛과 비슷할까?",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande de grenouille. Je me demande si ça a le goût de poulet ?",
+        "hu": "Egy béka húsa. Vajon tényleg csirke íze van?",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
          "zh": "青蛙肉。我想知道它尝起来是不是类似鸡肉的口感？",
-    }
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -13,11 +13,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Pescado de mar ahumado",
         "ko": "바다 훈제어",
         "de": "Geräucherter Meeresfisch.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Poisson de l'océan fumé",
+        "hu": "Füstölt tengeri hal",
         // "it": "",
         "ja": "海の魚のくん製",
         "pt": "Peixe Defumado de Mar",
@@ -28,11 +28,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un plato sencillo de pescado oceánico ahumado. Ahumado por horas.",
         "ko": "간단한 바다 훈제어. 훈제하는데 몇 시간이 소요됩니다.",
         "de": "Ein einfaches Gericht mit über Stunden geräuchertem Meeresfisch.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Un simple plat fait avec un poisson de l'océan fumé. Il a été enfumé pendant des heures.",
+        "hu": "Egy egyszerű étel füstölt tengeri halból. Órákig füstölték.",
         // "it": "",
         "ja": "シンプルな魚のくん製。時間をかけていぶした。",
         "pt": "Uma simples iguaria de peixe defumado de mar. Foi defumado por várias horas.",

@@ -1,0 +1,56 @@
+{
+    "Name": "Toast",
+    "Description": "A plain slice of toast",
+    "Category": "Cooking",
+    "Edibility": 10,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 145,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Gus"],
+        "Like": ["Abigail", "Harvey", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+        "Dislike": ["Pam"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 5,
+        "Ingredients": [
+
+            {
+                "Object": 246,
+                "Count": 2,
+            }
+        ],
+        "IsDefault": true,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Toast",
+        "fr": "Toast",
+        "hu": "Pirítós",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        "de": "Eine ordinäre Scheibe Toast",
+        "fr": "Une tranche de pain grillé ordinaire.",
+        "hu": "Egy átlagos szelet pirítós.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "Name": "Yuzu",
+    "Description": "A aromatic citrus fruit that is used to preserved with sugar.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 50,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Gus"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+        "es": "Yuzu",
+        "ko": "유자",
+        //"de": "",
+        "fr": "Yuzu",
+       "hu": "Juzu",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una fruta cítrica aromática que se utiliza para conserva con azúcar.",
+        "ko": "주로 청을 담가먹는 향긋한 감귤류 과일.",
+        //"de": "",
+        "fr": "Un agrume aromatique, souvent confit au sucre.",
+        "hu": "Egy aromás citrus, amiből cukor segítségével kompótot szoktak készíteni.",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "ContextTags": [
+        "season_winter",
+        "color_yellow",
+        "fruit_tree_item",
+        "fruit_item",
+        "dye_medium"
+    ]
+}

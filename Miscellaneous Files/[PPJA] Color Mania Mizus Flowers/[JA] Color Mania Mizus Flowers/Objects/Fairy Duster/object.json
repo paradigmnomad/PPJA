@@ -1,0 +1,47 @@
+{
+    "Name": "Fairy Duster",
+    "Description": "It is said it looks like a fairy's skirt. A plant from far away arid plains.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 50,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Jas", "Sandy"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Calliandra",
+        "ko": "칼리안드라 에마르기나타",
+        "de": "Puderquastenstrauch",
+        "fr": "Calliandre",
+        "hu": "Calliandra",
+         // "it": "",
+        "ja": "フェアリーダスター",
+        "pt": "Espanador de fadas",
+        "ru": "Каллиандра",
+         // "tr": "",
+        "zh": "朱缨花",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Se dice que parece la falda de un hada. Una planta de lejanas llanuras áridas.",
+        "ko": "요정의 치마처럼 생겼습니다. 황폐한 평야에서 자랍니다.",
+        "de": "Man sagt, sie sähe wie ein Feenrock aus. Eine Pflanze aus der trockenen Ebene.",
+        "fr": "On dit que cela ressemble à une jupe de fée. Une plante des plaines arides lointaines.",
+        "hu": "Azt mondják, hogy hasonlít egy tündér szoknyájára. Távoli, száraz pusztákról származik.",
+         // "it": "",
+        "ja": "妖精のスカートのように見えるといわれている。遠方の乾燥した平原から来た植物。",
+        "pt": "Dizem que parece uma saia de fada. Uma planta de longe, provavelmente das planícies áridas.",
+        "ru": "Говорят, что она похожа на юбку феи. Это растение родом из далеких засушливых равнин.",
+         // "tr": "",
+        "zh": "据说它看起来像仙女的裙子。一种来自遥远的干旱平原的植物。",
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_pink",
+        "flower_item",
+    ]
+}

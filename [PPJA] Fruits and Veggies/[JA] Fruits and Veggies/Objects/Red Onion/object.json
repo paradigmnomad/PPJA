@@ -19,11 +19,11 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Cebolla Roja",
         "ko": "적양파",
         "de": "Rote Zwiebel",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Oignon rouge",
+        "hu": "Lilahagyma",
          // "it": "",
         "ja": "レッドオニオン",
         "pt": "Cebola Vermelha",
@@ -33,16 +33,22 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
-        "ko": "양파의 붉은 버전.",
+        "es": "Versión roja de la cebolla. Simplemente.",
+        "ko": "그냥 빨간 양파.",
         "de": "Die rote Version einer Zwiebel. Ganz einfach.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "La version rouge de l'onion. Tout simplement.",
+        "hu": "Egy lila színű hagyma. Ilyen egyszerű.",
          // "it": "",
         "ja": "赤みがかったタマネギ。",
         "pt": "Versão vermelha de cebola. Simples!",
         "ru": "Красная версия лука.",
          // "tr": "",
           "zh": "红色的洋葱，就只是这样。",
-    }
+    },
+    "ContextTags": [
+        "season_spring",
+        "color_dark_purple",
+        "vegetable_item",
+        "crop_year_3",
+    ],
 }

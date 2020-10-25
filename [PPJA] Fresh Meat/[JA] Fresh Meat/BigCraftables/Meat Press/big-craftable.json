@@ -1,0 +1,49 @@
+{
+    "Name": "Meat Press",
+    "Description": "A machine used for pressing animal DNA into meat.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 6,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 335,
+            "Count": 10,
+        },
+        {
+            "Object": 334,
+            "Count": 5,
+        }, ],
+        "IsDefault": true
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "고기 압착기",
+        // "de": "",
+        "fr": "Presse à viande",
+        "hu": "Húsprés",
+        // "it": "",
+        "ja": "ミートプレス機",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "동물의 DNA를 추출하여 고기에 주입할 때 사용되는 기계.",
+        // "de": "",
+        "fr": "Une machine utilisée pour presser de l'ADN animal en viande.",
+        "hu": "Az állati DNS húsba préselésére szolgáló gép.",
+        // "it": "",
+        "ja": "動物のDNAを肉に差し込むためのマシン。",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

@@ -3,9 +3,7 @@
     "Product": "Melaleuca Leaves",
     "SaplingName": "Melaleuca Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Melaleuca tree. Ready to harvest in the spring. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "spring",
-
     "SaplingPurchasePrice": 4000,
     "SaplingPurchaseRequirements": null,
       "SaplingNameLocalization":
@@ -13,8 +11,8 @@
         "es": "Brote de melaleuca",
         "ko": "멜라루카 묘목",
         "de": "Australischer Teebaum-Setzling",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Jeune mélaleuca",
+        "hu": "Niaouli fa csemete",
          // "it": "",
         "ja": "メラレウカの苗",
         "pt": "Muda de melaleuca",
@@ -27,8 +25,8 @@
         "es": "Toma 28 días producir un árbol maduro de melaleuca. Listo para cosechar en la primavera. Solo crece si las 8 casillas circundantes están vacías.",
         "ko": "28일후에 성목이 됩니다. 봄에 잎을 수확합니다. 주변 8칸이 비어있어야 자랍니다.",
         "de": "Wächst in 28 Tagen zu einem reifen Australischen Teebaum heran. Trägt im Frühling Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Il faut 28 jours pour produire un mélaleuca mature. Produit des fleurs d'arbre à thé au printemps. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
+        "hu": "28 nap múlva érik meg, és niaouli fa lesz belőle. Tavasszal lehet szüretelni. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
          // "it": "",
         "ja": "28日かけて成木にそだち、春になると葉を茂らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
         "pt": "Demora até 28 dias para produzir uma árvore de melaleuca madura. Dá frutas na primavera. Só cresce se os 8 espaços adjacentes estiverem vazios.",

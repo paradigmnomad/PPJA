@@ -1,10 +1,10 @@
 ﻿{
 	"Name": "[PFM] Cannabis Kit - Artisan Valley Add-on",
 	"Author": "PPJA",
-	"Version": "2.0.0",
+	"Version": "3.0.0-beta-3",
 	"Description": "Adds producing rules for Cannabis Kit products to Artisan Valley machines.",
 	"UniqueID": "PPJA.CannabisKitAddOn",
-	"MinimumApiVersion": "3.1.0",
+	"MinimumApiVersion": "3.6.1",
 	"UpdateKeys": [],
 	"Dependencies": [
 		{

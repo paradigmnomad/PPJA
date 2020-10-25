@@ -1,0 +1,50 @@
+{
+    "Name": "Afghanica",
+    "Description": "Originally created by the Flying Dutchmen, this strain is beloved for its many medicial uses.",
+    "Category": "Flower",
+    "CategoryTextOverride": "Hybrid",
+    "CategoryColorOverride": "121, 185, 70, 255",
+    "Edibility": 18,
+    "Price": 600,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian", "Sam", "Abigail"],
+        "Neutral": ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         "fr": "Afghanica",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+         "fr": "Créée à l'origine par la marque Flying Dutchmen (Hollandais volants), cette souche est aimée pour ses nombreuses propriétés médicales.",
+         // "hu": "",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ]
+}

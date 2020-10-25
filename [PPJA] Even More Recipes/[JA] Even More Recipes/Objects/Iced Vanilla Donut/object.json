@@ -43,9 +43,9 @@
     "NameLocalization":
     {
         "es": "Dona de vainilla glaseada",
-        "ko": "아이스 바닐라 도넛",
+        "ko": "아이싱 바닐라 도넛",
         "de": "Gefrorener Vanilledonut",
-         // "fr": "",
+        "fr": "Beignet glacé à la vanille",
          // "hu": "",
          // "it": "",
         "ja": "バニラアイスドーナツ",
@@ -57,9 +57,9 @@
     "DescriptionLocalization":
     {
         "es": "Simple, una dona de vainilla glaseada.",
-        "ko": "단순히 그냥 얼린 바닐라 도넛이에요.",
+        "ko": "단순히 아이싱을 끼얹은 바닐라 도넛이에요.",
         "de": "Ein einfach Donut mit gefrorener Vanille.",
-         // "fr": "",
+        "fr": "Un simple beignet glacé à la vanille.",
          // "hu": "",
          // "it": "",
         "ja": "シンプルなアイスバニラドーナツ。",

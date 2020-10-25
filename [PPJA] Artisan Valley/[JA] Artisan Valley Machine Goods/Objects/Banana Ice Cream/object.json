@@ -1,0 +1,43 @@
+{
+    "Name": "Banana Ice Cream",
+    "Description": "Hmmm...sweet and aromatic.",
+    "Category": "ArtisanGoods",
+    "Edibility": 38,
+    "Price": 245,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Haley", "Demetrius"],
+        "Like": ["Evelyn", "Caroline", "Jodi", "Linus", "Penny", "Sandy", "Clint", "George", "Abigail", "Alex", "Dwarf", "Elliott", "Gus", "Harvey", "Kent", "Lewis", "Maru", "Pam", "Pierre", "Robin", "Sam", "Shane", "Wizard", "Marnie", "Vincent", "Jas"],
+        "Dislike": ["Emily", "Leah", "Krobus", "Sebastian", "Willy"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "바나나 아이스크림",
+        "de": "Bananen Eis",
+        "fr": "Glace à la banane",
+        "hu": "Banánfagyi",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "음...달콤하고 향긋합니다.",
+        "de": "Hmmm...suess und aromatisch.",
+        "fr": "Mmmh... Doux et aromatique.",
+        "hu": "Hmmm...édes és ízletes.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

@@ -22,17 +22,19 @@
             "Object": "Seasonings",
             "Count": 1,
         }, ],
+        "IsDefault": true,
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 200,
     "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "구운 새고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Volaille cuite",
+        "hu": "Sült vadmadár",
         // "it": "",
         // "ja": "",
         // "pt": "",
@@ -43,15 +45,20 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "가금류의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande d'une volaille, déjà cuite et prête à être utilisée dans des recettes.",
+        "hu": "Egy madár húsa megsütve, felhasználásra készen.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
          "zh": "来自鸟类的肉，已经煮熟，可以用于烹饪。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ],    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
 }

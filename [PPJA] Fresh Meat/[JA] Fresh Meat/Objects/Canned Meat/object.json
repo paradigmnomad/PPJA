@@ -1,0 +1,43 @@
+{
+    "Name": "Canned Meat",
+    "Description": "Does anybody actually enjoy this? Good for using in stews but not for grilling.",
+    "Category": "AnimalGoods",
+    "Edibility": 20,
+    "Price": 300,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "고기 통조림",
+        // "de": "",
+        "fr": "Conserve de viande",
+        "hu": "Konzerv hús",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "찌개에 넣어도, 구워 먹어도 좋습니다.",
+        // "de": "",
+        "fr": "Est-ce que quelqu'un apprécie vraiment ça ? Bon pour une utilisation en ragoût mais pas pour les grillades.",
+        "hu": "Van bárki is, akinek ez ízlik? Levesekbe jó lehet, de semmiképp se grillezéshez.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

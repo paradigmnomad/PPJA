@@ -19,21 +19,9 @@
             "Count": 1,
         },
         {
-            "Object": 340,
+            "Object": "Seasonings",
             "Count": 1,
-        },
-        {
-            "Object": 248,
-            "Count": 1,
-        },
-        {
-            "Object": "Ginger",
-            "Count": 1,
-        },
-        {
-            "Object": 419,
-            "Count": 1,
-        }],
+        },],
         "IsDefault": true,
     },
     "CanPurchase": true,
@@ -43,13 +31,13 @@
     "NameLocalization":
     {
         // "es": "",
-        "ko": "구운 돼지고기",
+        "ko": "조리된 돼지고기",
         // "de": "",
-        "fr": "Porc Cuit",
-        // "hu": "",
+        "fr": "Porc cuit",
+        "hu": "Sült sertéshús",
         // "it": "",
-        // "ja": "",
-        // "pt": "",
+        "ja": "調理済み豚肉",
+        "pt": "Porco cozido",
         "ru": "Приготовленная свинина",
         // "tr": "",
         "zh": "熟猪肉",
@@ -59,13 +47,17 @@
         // "es": "",
         "ko": "두툼한 돼지고기. 한시간동안 구웠습니다. 조리될 준비가 되었습니다.",
         // "de": "",
-        "fr": "Un morceau de porc gras. Ça cuit depuis des heures. Il est prêt à être utilisé dans une recette maintenant.",
-        // "hu": "",
+        "fr": "Un morceau de porc gras. Ça cuit depuis des heures. Il est à présent prêt à être utilisé dans une recette.",
+        "hu": "Egy sertés zsíros hússzelete. Órákig sült. Mostmár készen áll felhasználásra.",
         // "it": "",
-        // "ja": "",
-        // "pt": "",
+        "ja": "脂身を取り除いた豚肉。何時間も煮込んであってすぐにレシピで使えます。",
+        "pt": "Um corte gordo de porco. Esteve cozinhando por horas. Está pronto para ser usado em uma receita agora.",
         "ru": "Жирный кусок свинины. Запекался часами и теперь готов к использованию.",
         // "tr": "",
         "zh": "一块肥美的猪肉。已经煮了好几个小时了。可以用来进一步烹饪。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]  
 }

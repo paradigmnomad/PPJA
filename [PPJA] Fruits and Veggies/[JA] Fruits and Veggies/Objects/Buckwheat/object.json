@@ -1,0 +1,37 @@
+{
+    "Name": "Buckwheat",
+    "Description": "A more wild kind of wheat, it is somewhat bitter.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 25,
+    "IsColored": false,
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Trigo sarraceno",
+        "ko": "메밀",
+        //"de": "",
+        "fr": "Sarrasin",
+        "hu": "Hajdina",
+        // "it": "",
+        "ja": "ソバ",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una variante más salvaje  de trigo; es algo amargo.",
+        "ko": "밀보다 거칠고 쌉쌀한 맛이 납니다.",
+        //"de": "",
+        "fr": "Une version sauvage du blé, plus amère.",
+        "hu": "Egy vadabb gabonaféle. Az íze kesernyés.",
+        // "it": "",
+        "ja": "コムギより野生に近く、少し苦い。",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }
+}

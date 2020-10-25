@@ -1,0 +1,43 @@
+{
+    "Name": "Canned Fish",
+    "Description": "A tin of freshly canned fish.",
+    "Category": "AnimalGoods",
+    "Edibility": 10,
+    "Price": 250,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "생선 통조림",
+        // "de": "",
+        "fr": "Conserve de poisson",
+        "hu": "Konzerv hal",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "신선한 물고기 통조림입니다.",
+        // "de": "",
+        "fr": "Une boîte de conserve avec du poisson frais.",
+        "hu": "Egy konzervnyi frissen csomagolt hal.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

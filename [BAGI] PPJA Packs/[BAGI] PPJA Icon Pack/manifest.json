@@ -4,10 +4,11 @@
     "Version": "1.2.2",
     "Description": "A collection of artisan good sprites that pair with the PPJA collection.",
     "UniqueID": "ppja.bagip",
-    "MinimumApiVersion": "3.0.1",
+    "MinimumApiVersion": "3.6.1",
+    "UpdateKeys": ["Nexus:2925"],
     "ContentPackFor":
     {
         "UniqueID": "cat.betterartisangoodicons",
         "MinimumVersion": "1.4.0"
-    }
+    },
 }

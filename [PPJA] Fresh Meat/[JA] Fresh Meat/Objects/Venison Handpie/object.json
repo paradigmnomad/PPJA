@@ -3,7 +3,7 @@
     "Description": "A fried pasty stuffed with soft, garlicky deer meat and vegetables.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 890,
     "IsColored": false,
     "Recipe":
     {
@@ -25,36 +25,37 @@
             "Object": "Batter",
             "Count": 1,
         }, ],
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1190,
+        "PurchaseRequirements": ["y 3"],
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "사슴고기 핸드파이",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Tourte de venaison",
+        "hu": "Őzhúsos papucs",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "鹿肉手馅饼",
+        "zh": "鹿肉手馅饼",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "마늘로 양념한 부드러운 사슴고기와 야채를 채워 튀긴 파이.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Un pâté frit farci de viande de cerf douce et aillée avec des légumes.",
+        "hu": "Egy péksütemény lágy, fokhagymás őzhússal és zöldségekkel.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "一种油炸的馅饼，里面塞有柔软的蒜香鹿肉和蔬菜。",
-    }
+        "zh": "一种油炸的馅饼，里面塞有柔软的蒜香鹿肉和蔬菜。",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

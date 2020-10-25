@@ -47,7 +47,7 @@
 	},
 	{
 		"Id": "ppja.stillrecipe",
-		"GroupID": "ppja.Machine Recipes",
+		"GroupID": "ppja.MachineRecipes",
 		"Title": "still.title",
 		"Text": "still.text",
 		"Recipe": "Still",

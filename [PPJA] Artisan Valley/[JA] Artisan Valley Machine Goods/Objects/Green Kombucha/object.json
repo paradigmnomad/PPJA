@@ -16,10 +16,10 @@
     "NameLocalization":
     {
         "es": "Kombucha verde",
-        "ko": "그린 콤부차",
+        "ko": "녹차 콤부차",
         "de": "Grüner Kombucha",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Kombucha vert",
+       "hu": "Zöld kombucha",
         // "it": "",
        "ja": "グリーンコンブチャ",
        "pt": "Kombuchá Verde",       
@@ -30,10 +30,10 @@
     "DescriptionLocalization":
     {
         "es": "Un kombucha estándar hecho con té verde.",
-        "ko": "녹차로 만든 표준 콤부차.",
+        "ko": "녹차로 만든 일반적인 콤부차.",
         "de": "Ein Standard-Kombucha aus grünem Tee.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Un kombucha banal fait avec du thé vert.",
+       "hu": "Egy átlagos kombucha, mely zöld tea felhasználásával készült.",
         // "it": "",
        "ja": "緑茶から作られた標準的なコンブチャ。",
        "pt": "Um kombuchá padrão feito com chá verde",

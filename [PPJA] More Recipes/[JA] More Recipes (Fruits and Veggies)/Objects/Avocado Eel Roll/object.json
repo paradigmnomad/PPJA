@@ -43,15 +43,15 @@
     "NameLocalization":
     {
         "es": "Rollo de anguila con aguacate",
-        "ko": "아보카도 장어 ",
+        "ko": "아보카도 장어 롤",
         "de": "Avocado-Aal-Maki",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        "fr": "Rouleau d'anguille à l'avocat",
+        // "hu": "",
+        // "it": "",
         "ja": "アボカドウナギロール",
         "pt": "Rolo de enguia com abacate",
         "ru": "Ролл с авокадо и угрём",
-         // "tr": "",
+        // "tr": "",
         "zh": "鳄梨鳗鱼卷",
     },
     "DescriptionLocalization":
@@ -59,13 +59,13 @@
         "es": "Anguila envuelta en algas y arroz, cubierta con aguacate.",
         "ko": "김과 밥에 싸인 장어, 아보카도를 올렸습니다.",
         "de": "Aal, eingewickelt in Meeresalgen und Reis, mit Avocado.",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        "fr": "Anguille enveloppée d'algues et de riz, garnie d'avocat.",
+        // "hu": "",
+        // "it": "",
         "ja": "海苔と米でウナギを巻き、アボカドをトッピング。",
         "pt": "Enguia enrrolada em algas e arroz, coberto com abacate.",
         "ru": "Угорь, завернутый в морские водоросли и рис, увенчанный авокадо.",
-         // "tr": "",
+        // "tr": "",
         "zh": "鳄梨鳗鱼卷。用海带和米饭包裹的鳗鱼，上面放着鳄梨。",
     }
 }

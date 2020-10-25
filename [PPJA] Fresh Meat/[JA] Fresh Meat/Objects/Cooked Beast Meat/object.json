@@ -3,7 +3,7 @@
     "Description": "Meat from a wild beast, already cooked and ready to be used in recipes.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 225,
     "IsColored": false,
     "GiftTastes":
     {
@@ -22,17 +22,19 @@
             "Object": "Seasonings",
             "Count": 1,
         }, ],
+        "IsDefault": true,
     },
-    "PurchasePrice": 200,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 310,
     "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "구운 야생고기.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande de bête cuite",
+        "hu": "Sült vadhús",
         // "it": "",
         // "ja": "",
         // "pt": "",
@@ -43,15 +45,20 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "야생짐승의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "De la viande d'une bête sauvage, déjà cuite et prête à être utilisée dans des recettes.",
+        "hu": "Egy vadállat húsából készített steak, megsütve, felhasználásra készen.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
          "zh": "来自野生动物的肉，已经煮熟，准备用于烹调。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ],    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

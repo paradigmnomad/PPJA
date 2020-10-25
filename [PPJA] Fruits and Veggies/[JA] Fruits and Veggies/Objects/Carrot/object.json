@@ -16,8 +16,8 @@
         "es": "Zanahoria",
         "ko": "당근",
         "de": "Karotte",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Carotte",
+        "hu": "Répa",
          // "it": "",
         "ja": "ニンジン",
         "pt": "Cenoura",
@@ -27,16 +27,21 @@
     },
     "DescriptionLocalization":
     {
-        "es": "El cuento de las viejas esposas dice que comer zanahorias ayuda a mejorar la vista.",
-        "ko": "노인들의 말에 따르면 당근을 먹으면 시력이 좋아진다네요.",
+        "es": "Las abuelas dicen que comer zanahorias ayuda a mejorar la vista.",
+        "ko": "소문에 따르면 당근을 먹으면 시력이 좋아진다네요.",
         "de": "Eine alte Bauernweisheit besagt, Karotten zu essen verbessere die Sehleistung.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Les grand-mères disent que manger des carottes aide à améliorer la vue. Et ça rend plus aimable.",
+        "hu": "A régi mondák szerint a répa javítja a látást.",
          // "it": "",
         "ja": "ニンジンを食べると視力がよくなるという迷信がある。",
         "pt": "Os contos de velhas esposas dizem que comer cenoura ajuda a melhorar a visão.",
         "ru": "Народная мудрость гласит, что упортребление моркови способствует улучшению зрения.",
          // "tr": "",
         "zh": "老巫婆的故事说吃胡萝卜有助于提高视力。",
-    }
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_orange",
+        "vegetable_item",
+    ],
 }

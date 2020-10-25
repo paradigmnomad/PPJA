@@ -11,14 +11,13 @@
     {
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
-    "Recipe": null,
     "NameLocalization":
     {
         "es": "Hojas de alcanfor",
         "ko": "녹나무 잎",
         "de": "Kampferblätter",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Feuilles de camphre",
+        "hu": "Kámfor levél",
          // "it": "",
         "ja": "クスノキの葉",
         "pt": "Folhas de cânfora",
@@ -29,10 +28,10 @@
     "DescriptionLocalization":
     {
         "es": "Hojas ovales brillantes que son muy fragantes cuando se aplastan.",
-        "ko": "으깨어질때 아주 향기롭고 광택이 나는 타원형 잎.",
+        "ko": "광택이 나는 타원형 잎. 으깨면 강한 향기가 납니다.",
         "de": "Glänzende ovale Blätter, die beim Zerkleinern sehr aromatisch sind.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Feuilles ovales et brillantes qui sont très odorantes une fois broyées.",
+        "hu": "Fényes, ovális levele van, mely igazán illatos összezúzva.",
          // "it": "",
         "ja": "潰すととてもいい香りがする光沢のあるだ円形の葉っぱ。",
         "pt": "Folhas ovais brilhantes que são muito perfumadas quando esmagadas.",

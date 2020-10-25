@@ -1,0 +1,46 @@
+{
+    "Name": "Goat DNA",
+    "Description": "Some goat DNA extracted from milk.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 85,
+    "IsColored": false,
+    "GiftTastes":
+    {
+	"Love": ["Demetrius", "Maru"],
+	"Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "염소 DNA",
+        // "de": "",
+        "fr": "ADN de chèvre",
+        "hu": "Kecske DNS",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "염소젖에서 추출한 염소 DNA.",
+        // "de": "",
+        "fr": "De l'ADN de chèvre extrait du lait.",
+        "hu": "Egy kecske DNS-e, melyet a tejéből nyertek.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "ContextTags": [
+        "dna_item",
+    ],
+}

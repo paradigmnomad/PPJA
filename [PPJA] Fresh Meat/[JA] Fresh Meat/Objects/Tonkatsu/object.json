@@ -3,7 +3,7 @@
     "Description": "Breaded wild pork fried to golden perfection.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 625,
     "IsColored": false,
     "Recipe":
     {
@@ -25,36 +25,37 @@
             "Object": 247,
             "Count": 1,
         }, ],
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 725,
+        "PurchaseRequirements": null,
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "돈가쓰",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Tonkatsu",
+        "hu": "Tonkatsu",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "吉列猪排",
+        "zh": "吉列猪排",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "멧돼지 고기에 빵가루를 입혀 황금빛으로 튀겨냈다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Porc sauvage pané et frit jusqu'à la perfection dorée.",
+        "hu": "Rántott sertésszelet aranybarnára sütve.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "日式炸猪排，裹上面包糠和炸粉后炸至金黄的野猪排。",
-    }
+        "zh": "日式炸猪排，裹上面包糠和炸粉后炸至金黄的野猪排。",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

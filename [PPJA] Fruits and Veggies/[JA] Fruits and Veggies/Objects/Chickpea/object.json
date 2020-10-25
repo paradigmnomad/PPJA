@@ -13,11 +13,11 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Garbanzo",
         "ko": "병아리콩",
         "de": "Kichererbsen",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Pois chiche",
+        "hu": "Csicseriborsó",
          // "it": "",
         "ja": "ヒヨコ豆",
         "pt": "Grão-de-bico",
@@ -27,16 +27,22 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
-        "ko": "굽거나 삶은 병아리콩은, 약간 고소하고 짭잘한 맛이 납니다.",
+        "es": "Un fijo en zonas costeras. Asados o hervidos, tienen un sabor ligeramente salado y a nueces.",
+        "ko": "굽거나 삶은 병아리콩은 약간 고소하고 짭잘한 맛이 납니다.",
         "de": "Geröstet oder gekocht haben sie einen leicht nussigen und salzigen Geschmack.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Un classique du littoral. Grillés ou bouillis, ils ont un goût légérement noisetté et salé.",
+         "hu": "Tengerpartokról származik. Pörkölve vagy főve egy kicsit diós és sós az íze.",
          // "it": "",
         "ja": "地中海原産。少し塩気がありナッツに似た豆を炒ったりゆでたりして食べる。",
         "pt": "Assados ​​ou cozidos, têm um sabor ligeiramente agradável e salgado",
         "ru": "Родом из Средиземноморья. Запеченный или вареный нут имеет слегка пикантный и соленый вкус.",
          // "tr": "",
           "zh": "稳定分布于地中海沿岸，可用来烤或煮，尝起来有轻微的坚果味和咸味。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_tan",
+        "vegetable_item",
+        "crop_year_4",
+    ],
 }

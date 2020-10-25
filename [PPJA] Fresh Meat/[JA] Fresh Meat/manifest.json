@@ -2,8 +2,8 @@
     "Name": "Fresh Meat",
     "Author": "Project Populate Json Assets",
     "Description": "MEEEEEEAT - for those who wish to have meat in their game.",
-    "Version": "2.1.4",
-    "MinimumApiVersion": "3.2.0",
+    "Version": "3.0.1",
+    "MinimumApiVersion": "3.7.0",
     "UniqueID": "paradigmnomad.freshmeat",
     "ContentPackFor":
     {
@@ -15,12 +15,12 @@
         "UniqueID": "ppja.fruitsandveggies",
         "IsRequired": true,
     },
-{
+    {
         "UniqueID": "ppja.evenmorerecipes",
         "IsRequired": false,
-    }, 
-{
+    },
+    {
         "UniqueID": "ppja.moretrees",
         "IsRequired": false,
-    },]
+    }, ]
 }

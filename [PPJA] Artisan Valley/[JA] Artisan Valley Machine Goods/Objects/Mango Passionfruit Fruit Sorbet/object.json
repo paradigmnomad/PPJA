@@ -1,0 +1,45 @@
+{
+    "Name": "Mango Passion Fruit Fruit Sorbet",
+    "Description": "A refreshing fruit sorbet made from fresh mangos, passion fruit, and a splash of vodka.",
+    "Category": "ArtisanGoods",
+    "Edibility": 60,
+    "EdibleIsDrink": false,
+    "Price": 550,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Jas", "Vincent"],
+        "Like": ["Demetrius", "Elliott", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Pam", "Robin", "Sandy", "Shane"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn" ,"George", "Gus", "Krobus", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+        "Dislike": ["Abigail"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Sorbet au fruit de la passion et à la mangue",
+        "hu": "Mangós-maracujás sörbet",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Un sorbet rafraîchissant fait à partir de mangue, d'un fruit de la passion et d'un trait de vodka.",
+        "hu": "Egy frissítő gyümölcs sörbet, mely mangó, maracuja, és egy kevés vodka felhaszálásával készült.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

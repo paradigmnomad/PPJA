@@ -13,11 +13,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Pez de lago ahumado",
         "ko": "호수 훈제어",
         "de": "Geräucherter Seefisch",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Poisson de lac fumé",
+        "hu": "Füstölt tavi hal",
         // "it": "",
         "ja": "湖の魚のくん製",
         "pt": "Peixe Defumado de Lago",
@@ -27,11 +27,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un plato simple de pescado de lago ahumado. Estuvo ahumandose durante horas.",
         "ko": "간단한 훈제 호수어. 훈제하는데 몇 시간이 소요됩니다.",
         "de": "Ein einfaches Gericht mit über Stunden geräuchertem Seefisch.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Un simple plat fait avec un poisson de lac fumé. Il a été enfumé pendant des heures.",
+        "hu": "Egy egyszerű étel füstölt tavi halból. Órákig füstölték.",
         // "it": "",
         "ja": "シンプルな魚のくん製。時間をかけていぶした。",
         "pt": "Uma simples iguaria de peixe defumado de lago. Foi defumado por várias horas.",

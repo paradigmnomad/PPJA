@@ -3,7 +3,7 @@
     "Product": "Rapeseed Flower",
     "SeedName": "Rapeseed Seeds",
     "SeedDescription": "Plant these in spring or summer. Takes 8 days to mature.",
-    "Type": "ArtisanGoods",
+    "Type": "Flower",
 
     "Seasons": ["spring", "summer"],
     "Phases": [1, 2, 1, 2, 2],
@@ -25,11 +25,11 @@
 
     "SeedNameLocalization":
     {
-        // "es": "",
+        "es": "Semillas de colza",
         "ko": "유채 씨앗",
         "de": "Raps-Saat",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Graines de colza",
+        "hu": "Repce magvak",
         // "it": "",
         "ja": "アブラナのタネ",
         "pt": "Sementes de Colza",
@@ -39,11 +39,11 @@
     },
     "SeedDescriptionLocalization":
     {
-        // "es": "",
+        "es": "Plántalas em promavera o verano. Tardan 8 días en madurar.",
         "ko": "봄 또는 여름 작물. 성장하려면 8일이 소요됩니다.",
         "de": "Pflanze sie im Frühling oder Sommer. Wächst in 8 Tagen heran.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "À planter au printemps ou en été. Prend 8 jours pour arriver à maturité.",
+        "hu": "Ezeket nyáron ültesd el. 8 napig tart megérniük.",
         // "it": "",
         "ja": "春または夏植えの作物。そだつのに8日かかる。",
         "pt": "Plante-as na primavera ou verão. Leva 8 dias para amadurecer.",

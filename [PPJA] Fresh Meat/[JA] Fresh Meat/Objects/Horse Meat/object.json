@@ -1,0 +1,44 @@
+{
+    "Name": "Horse Meat",
+    "Description": "It's a little upsetting to look at... but it will probably make a decent meal.",
+    "Category": "Meat",
+    "Edibility": 250,
+    "Price": 400,
+    "IsColored": false,
+    "GiftTastes":
+    {
+		"Love": ["Gregory"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian", "Sheila"],
+    },
+    "Recipe": null,
+    "PurchasePrice": 480,
+  "NameLocalization": { 
+		// "es": "",
+		"ko": "말고기",
+        //"de": "",
+        "fr": "Viande de cheval",
+        "hu": "Lóhús",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "보기 껄끄러울 수 있지만...아마 맛있는 음식을 만들 수 있을겁니다.",
+        //"de": "",
+        "fr": "C'est un peu perturbant de voir ça... mais ça fera probablement un repas décent.",
+        "hu": "Egy kicsit rossz érzés ránézni... de hátha finom ételeket lehet belőle készíteni.",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
+}

@@ -1,17 +1,17 @@
 ﻿{
-	"Name": "[PFM] Artisan Valley",
-	"Author": "Project Populate Json Assets",
-	"Version": "3.0.9",
-	"Description": "Artisan Valley Producer Framework Mod component.",
-	"UniqueID": "ppja.artisanvalleyPFM",
-	"MinimumApiVersion": "3.2.0",
-	"UpdateKeys": [],
-	"Dependencies": [
-		{
-			"UniqueID": "ppja.artisanvalleymachinegoods"
-		}
-	],
-	"ContentPackFor": {
-		"UniqueID": "DIGUS.ProducerFrameworkMod"
-	}
+    "Name": "[PFM] Artisan Valley",
+    "Author": "Project Populate Json Assets",
+    "Version": "3.0.18",
+    "Description": "Artisan Valley Producer Framework Mod component.",
+    "UniqueID": "ppja.artisanvalleyPFM",
+    "MinimumApiVersion": "3.7.0",
+    "Dependencies": [
+    {
+        "UniqueID": "ppja.artisanvalleymachinegoods",
+        "IsRequired": true
+    },     ],
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.ProducerFrameworkMod"
+    },    
 }

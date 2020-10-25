@@ -1,0 +1,62 @@
+{
+    "Name": "Spaghetti and Meatballs",
+    "Description": "A classic.",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 460,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Robin", "Lewis", "Shane", "Jas", "Marnie"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Maru", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Sebastian", "Vincent", "Wizard"],
+        "Dislike": ["Dwarf", "Willy"]
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 224,
+            "Count": 1,
+        },
+        {
+            "Object": "Beef",
+            "Count": 1,
+        },
+        {
+            "Object": "Pork",
+            "Count": 1,
+        }, ],
+        "IsDefault": true,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "미트볼 스파게티",
+        // "de": "",
+        "fr": "Spaghetti aux boulettes de viande",
+        "hu": "Húsgolyós spagetti.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "고전적인 음식.",
+        // "de": "",
+        "fr": "Un classique. Qui a dit romantique ?",
+        "hu": "Egy igazi klasszikus.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

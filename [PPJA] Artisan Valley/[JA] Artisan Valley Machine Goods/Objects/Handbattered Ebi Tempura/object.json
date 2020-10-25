@@ -1,0 +1,70 @@
+{
+    "Name": "Handbattered Ebi Tempura",
+    "Description": "Succulent shrimp, lightly coated in batter and fried. Served with soy sauce.",
+    "Category": "Cooking",
+    "Edibility": 15,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 775,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 720,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": 247,
+            "Count": 1,
+        },
+        {
+            "Object": "Ginger",
+            "Count": 1,
+        },
+        {
+            "Object": "Soy Sauce",
+            "Count": 1,
+        }, ],
+        "IsDefault": true,
+    },
+    "GiftTastes":
+    {
+        "Neutral": ["Demetrius", "Elliott", "Linus", "Pam", "Sebastian", "Willy"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Emily", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Hate": ["Evelyn", "Haley", "Pierre"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Crevettes panées",
+       "hu": "Ebi Tempura",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Crevette succulente, légèrement enrobée de panure et frite. Servie avec une sauce de soja.",
+        "hu": "Zamatos, tésztával enyhén bevonatolt garnélarák. Szójaszósszal tálalják.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

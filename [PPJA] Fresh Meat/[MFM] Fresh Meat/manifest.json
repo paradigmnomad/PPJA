@@ -1,17 +1,17 @@
 ﻿{
-	"Name": "[MFM] Fresh Meat",
-	"Author": "Project Populate Json Assets",
-	"Version": "1.0.3",
-	"Description": "Allows recipes to be mailed to the player.",
-	"UniqueID": "ppja.FreshMeatforMFM",
-	"MinimumApiVersion": "3.2.0",
-	"UpdateKeys": [],
-	"Dependencies": [
-		{
-			"UniqueID": "paradigmnomad.freshmeat"
-		}
-	],
-	"ContentPackFor": {
-		"UniqueID": "DIGUS.MailFrameworkMod"
-	}
+    "Name": "[MFM] Fresh Meat",
+    "Author": "Project Populate Json Assets",
+    "Version": "3.0.1",
+    "Description": "Allows recipes to be mailed to the player.",
+    "UniqueID": "ppja.FreshMeatforMFM",
+    "MinimumApiVersion": "3.7.0",
+    "Dependencies": [
+    {
+        "UniqueID": "paradigmnomad.freshmeat",
+        "IsRequired": true
+    }],
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.MailFrameworkMod"
+    }
 }

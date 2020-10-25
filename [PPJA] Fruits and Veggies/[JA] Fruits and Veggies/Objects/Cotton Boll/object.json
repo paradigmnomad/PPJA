@@ -16,8 +16,8 @@
         "es": "Capsula de algodón",
         "ko": "목화 솜",
         "de": "Baumwolle",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Capsule de coton",
+        "hu": "Gyapot",
          // "it": "",
         "ja": "綿花",
         "pt": "Bola de algodão",
@@ -28,15 +28,21 @@
     "DescriptionLocalization":
     {
         "es": "Esponjoso y blanco, puede ser utilizado para hacer hilo.",
-        "ko": "푹신하고 흰 목화 솜은, 실을 만드는데 이용됩니다.",
+        "ko": "푹신하고 흰 목화 솜은 실을 만드는데 이용됩니다.",
         "de": "Weiß und flauschig, wird zu Garn gesponnen.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Duveteux et blanc, il peut servir à faire du fil.",
+        "hu": "Pehlyhes és fehér, cerna készítésére használják.",
          // "it": "",
         "ja": "白くてふわふわ。糸の材料になる。",
         "pt": "Fofa e branca, ele pode ser usada para fazer fios.",
         "ru": "Белый и пушистый, может использоваться для изготовления ниток.",
          // "tr": "",
         "zh": "蓬松白色的棉花，可以用来制作线。",
-    }
+    },
+    "ContextTags": [
+        "season_summer",
+        "season_fall",
+        "color_white",
+        "fruit_item",
+    ],
 }

@@ -137,7 +137,7 @@
 			{ "SkillName": "Foraging", "SkillLevel": 10 },
 			{ "SkillName": "Combat", "SkillLevel": 10 },
 		],
-		"MailReceived": ["ppja.ancientcoffeechallenge"], // Require one of the mails to have been recieved. The game list also contain others thing that are not mail, like comunity center flags.
+		"MailReceived": ["ppja.skillchallenge"], // Require one of the mails to have been recieved. The game list also contain others thing that are not mail, like comunity center flags.
 		"RequireAllMailReceived":  true,
 	},
 	{

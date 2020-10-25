@@ -1,50 +1,52 @@
 {
-  "Name": "Potted Fairy Rose",
-  "Description": "A fairy rose potted in a little wooden pot. Remember to water it!",
-  "Price": 1,
-  "ProvidesLight": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-		  "Object": 595,
-		  "Count": 1,
-      },
-      {
-		  "Object": 388,
-		  "Count": 10,
-      },
-	  {
-		  "Object": 330,
-		  "Count": 10,
-	  }
-    ],
-	"CanPurchase": false,
-  },
-  "NameLocalization": { 
-    "es": "Hada rosa en maceta",
-    "ko": "실내 화초 요정 장미",
-    "de": "Eingemachte Fee Rose",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",
-     //"ja": "",
-    "pt": "Vaso de Rosa-de-Fada",
-    "ru": "Сказочная роза в горшке",
-     //"tr": "",
-    "zh": "仙女玫瑰盆栽",
-     },
- "DescriptionLocalization": { 
-    "es": "Un hada rosa en una pequeña maceta de madera.¡Recuerda regarla!",
-    "ko": "작은 나무 화분에 심겨진 요정 장미 입니다. 물 주는거 잊지마세요!",
-    "de": "Eine feenhafte Rose in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",
-     //"ja": "",
-    "pt": "Uma rosa-de-fada em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
-    "ru": "Сказочная роза в маленьком деревянном горшочке. Не забывайте поливать!",
-     //"tr": "",
-    "zh": "一个小木盆里的仙女玫瑰盆栽。记得给它浇水！",
+    "Name": "Potted Fairy Rose",
+    "Description": "A fairy rose potted in a little wooden pot. Remember to water it!",
+    "Price": 1,
+    "ProvidesLight": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 595,
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 10,
+        },
+        {
+            "Object": 330,
+            "Count": 10,
+        }],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Hada rosa en maceta",
+        "ko": "실내 화초 요정 장미",
+        "de": "Eingemachte Fee Rose",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "フェアリーローズの鉢植え",
+        "pt": "Vaso de Rosa-de-Fada",
+        "ru": "Сказочная роза в горшке",
+        //"tr": "",
+        "zh": "仙女玫瑰盆栽",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un hada rosa en una pequeña maceta de madera.¡Recuerda regarla!",
+        "ko": "작은 나무 화분에 심겨진 요정 장미 입니다. 물 주는거 잊지마세요!",
+        "de": "Eine feenhafte Rose in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        "ja": "フェアリーローズが植えられた木製の小さな鉢。水やりを忘れずに。",
+        "pt": "Uma rosa-de-fada em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
+        "ru": "Сказочная роза в маленьком деревянном горшочке. Не забывайте поливать!",
+        //"tr": "",
+        "zh": "一个小木盆里的仙女玫瑰盆栽。记得给它浇水！",
     }
 }

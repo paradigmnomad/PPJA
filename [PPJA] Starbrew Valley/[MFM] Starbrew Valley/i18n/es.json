@@ -1,0 +1,59 @@
+{
+    // Text
+
+    "americano.text": "Recogí esta receta en el extranjero. Disfrutala.^^ Quiero decir gracias por hacerme sentir bienvenido.^^ -Kent",
+    "brandyalexander.text": "Querido @,^^ ¡Ordené demasiada nuez moscada! ¡Estaba tan emocionada cuando vi que había llegado el paquete, pero no tanto cuando lo abrí !Voy a compartir la receta de un `Brandy Alexander` eso vino con él. No puedo esperar para probarlo. ¡Ten cuidado!^^ -Jodi",    
+    "cosmo.text": "@,^^ Pensé que sería divertido escribirte una nota.^^ Aquí está mi opinión sobre un Cosmo tradicional. Espero verte pronto.^^ -Haley",
+    "darkandstormy.text": "@,^^ No bebo mucho, pero hay un bar en la ciudad de ZuZu que tiene el mejor Dark and Stormy. Obtuve la receta del barman para compartirla contigo.^^ -Sebastian",
+    "espresso martini.text":" ¡Hola!^^ Tenía algo de tiempo extra y pensé que podría ser interesante intentar mezclar algunas bebidas. ¡Déjame saber lo que piensas!^^ -Robin",
+    "french75.text": "El humano azul sigue dejando objetos extraños en las minas. Aquí hay algo que lo vi esconderse. Es una receta para una bebida humana pretenciosa.^^ -Enano^^ (¡Mírame! Estoy escribiendo en tu idioma! Los libros humanos son útiles.)",
+    "hemingwayspecial.text": "Estimado @,^^ ¿Te gustaría compartir una bebida alguna vez? Aquí hay una receta para una que puedas disfrutarla.^Ernest Hemingway dijo una vez: Siempre haz sobrio lo que dijiste que harías cuando estabas borracho. Eso te enseñará a mantener tu boca cerrada. ¡Qué hombre tan descaradamente divertido era en verdad!^^ -Elliott",
+    "mintjulep.text": "Querido vecino,^^ cuando no estoy cuidando animales me gusta experimentar en la cocina. Como nos hemos hecho amigos, quiero compartir algunas recetas contigo.^Espero que te guste !^^ -Marnie",
+    "moonshinecherries.text": "Querido @,^^ Gracias de nuevo por apoyar siempre mi arte. Cuando no estoy esculpiendo me gusta ayudar a Gus con sus cerezas Moonshine. No le digas que te di su receta.^^ -Leah",
+    "nightonthebeach.text": "@,^^ Vodka, Schnapps de durazno y algunos cítricos hacen una gran mezcla en un martini, mientras que el vodka mezclado con jugo de naranja, jarabe simple y guarnición agrega un toque refrescante. ¿Qué piensas? ¿Cuál es tu forma favorita de combinar jugo de naranja y vodka? El mío es Night on the Beach.^^ -Demetrius",
+    "paradise.text": "Querido @^^, puse mis manos en un vaso de esto y no podía esperar para probarlo. ¡Aquí, prueba un poco! ¡A veces, solo quieres beber algo loco dulce!^^ -Emily",
+    "pinacolada.text": "Querido @,^^ Si amas la piña y los cocos, entonces te encantará esta bebida. Tantas variaciones, tan pocos ingredientes.^^ -Emily",
+    "planterspunch.text": "@, Has estado trabajando duro en la granja. ¿Por qué no intentas hacer una bebida? ¡Es la manera perfecta de terminar la semana!^^ -Lewis",
+    "seabreeze.text": "Supongo que es hora de que comparta contigo una de mis bebidas favoritas. ¡No es divertido salir juntos cuando no sabemos lo que nos gusta!^^ -Haley",
+    "vampiro.text": "...^^ Por favor, ten esto. Estaba flotando en las alcantarillas. Podrías usarlo ...^^ -Krobus",
+
+    // New Additions
+
+    "atomiccocktail.text": "Querido @,^^ ¡Esta receta está fuera de este mundo! Espero que la disfrutes.^^ -Maru",
+    "frangelicosour.text": "Querido @,^^ Me encanta los sabores frescos en esta receta ^^ espero que a ti también^^ -Leah",
+    "harlemmugger.text": "@,^^ No dejes que el nombre te engañe.^^ Te gustará este.^^ -Sebastian",
+    "lemonadococktail.text": "Estimado @,^^ ¡Esta es una receta perfecta para el verano!^^ Espero que disfrutes haciéndola tanto como yo. ^^ -Gus",
+    "negroni.text": "Granjero @,^^ Solía gustarme esta bebida.^^ Quizás a ti también te guste.^^ -George",
+    "poinsettia cocktail.text": "Querido @,^^ Estaba mirando mis viejas tarjetas de recetas y encontré esta deliciosa bebida que solía disfrutar.^^ Es perfecta para calentarte en este clima frío.^^ -Evelyn" ,
+    "spritz veneziano.text": "Hola Granjero @,^^ Solía disfrutar esta bebida con mi esposa.^^ Pensé que te podría gustar.^^ -Kent",
+    "sweetpinkcocktail.text": "Hola, @,^^ Este cóctel es súper delicioso.^^ ¡Espero que puedas hacerme uno pronto! -Haley",
+
+    // Titles
+
+    "americano.title": "Receta de Americano",
+    "brandyalexander.title": "Receta de Brandy Alexander",
+    "cosmo.title": "Receta de Cosmo",
+    "darkandstormy.title": "Receta de Oscuro y tormentoso ",
+    "espressomartini.title": "Receta de Martini Expresso",
+    "french75.title": "Receta de Francés 75",
+    "hemingwayspecial.title": "Receta de Especial Hemingway",
+    "mintjulep.title": "Receta de Julepe de menta",
+    "moonshinecherries.title": "Receta de Moonshine con cerezas",
+    "nightonthebeach.title": "Receta de Noche en la playa",
+    "paradise.title": "Receta de Paraíso",
+    "pinacolada.title": "Receta de Piña colada",
+    "planterspunch.title": "Receta de Sembrador puñetazo",
+    "seabreeze.title": "Receta de Brisa marina",
+    "vampiro.title": "Receta de Vampiro",
+
+    // New Additions
+
+     "atomiccocktail.title": "Receta de Coctel Atomic",
+    "frangelicosour.title": "Receta de Frangelico Sour",
+    "harlemmugger.title": "Receta de Cóctel Harlem Mugger",
+    "lemonadococktail.title": "Receta de Cóctel De Limonada",
+    "negroni.title": "Receta de Negroni",
+    "poinsettiacocktail.title": "Receta de Cóctel Poinsettia",
+    "spritzveneziano.title": "Receta de Spritz Veneziano",
+    "sweetpinkcocktail.title": "Receta de Cóctel Dulce Rosa",
+}

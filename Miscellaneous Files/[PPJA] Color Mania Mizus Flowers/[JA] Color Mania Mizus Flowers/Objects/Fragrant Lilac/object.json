@@ -1,0 +1,47 @@
+{
+    "Name": "Fragrant Lilac",
+    "Description": "A very fragrant flower that is, well, lilac in color.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 40,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Emily", "Robin"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Lila fragante",
+        "ko": "향기로운 라일락",
+        "de": "Flieder",
+        "fr": "Lilas Parfumées",
+        "hu": "Illatos Orgona",
+         // "it": "",
+        "ja": "ライラック",
+        "pt": "Lilás perfumado",
+        "ru": "Душистая сирень",
+         // "tr": "",
+        "zh": "紫丁香",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una flor muy fragante que es, bueno, de color lila.",
+        "ko": "매우 향기로운 꽃이며, 음..라일락 색입니다.",
+        "de": "Eine stark duftende Blume, die eine lila Farbe hat.",
+        "fr": "Une fleur très parfumée qui est, bien, de couleur lilas.",
+        "hu": "Egy lila színű, nagyon illatos virág.",
+         // "it": "",
+        "ja": "ライラック色のとても香り高い花。",
+        "pt": "Uma flor muito perfumada que é, obviamente, de cor lilás.",
+        "ru": "Очень ароматный цветок сиреневого цвета.",
+         // "tr": "",
+        "zh": "一种非常芬芳的花，颜色是.....嗯，淡紫。",
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_purple",
+        "flower_item",
+    ]
+}

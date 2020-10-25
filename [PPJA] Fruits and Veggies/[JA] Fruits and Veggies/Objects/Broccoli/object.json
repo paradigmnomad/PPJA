@@ -16,8 +16,8 @@
         "es": "Brócoli",
         "ko": "브로콜리",
         "de": "Brokkoli",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Brocoli",
+        "hu": "Brokkoli",
          // "it": "",
         "ja": "ブロッコリー",
         "pt": "Brócolis",
@@ -27,16 +27,22 @@
     },
     "DescriptionLocalization":
     {
-        "es": "La parte superior de este vegetal es frondosa y es esponjosa.",
+        "es": "La parte superior de este vegetal es frondosa y esponjosa.",
         "ko": "브로콜리의 송이부분은 잎이 많고 푹신합니다.",
         "de": "Er hat einen weichen, fluffigen Kopf.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "La partie molle de ce légume léger à feuilles.",
+        "hu": "Ennek a zöldségnek a tetején lévő puha rész bolyhos és leveles.",
          // "it": "",
         "ja": "この野菜の頭の部分はいわゆるつぼみで、柔らかくふわふわしている。",
         "pt": "O topo macio deste vegetal é folhoso e fofo.",
         "ru": "У этого овоща мягкая верхушка с пушистыми листочками.",
          // "tr": "",
         "zh": "这种蔬菜柔软的顶部有着蓬松的小叶子。",
-    }
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_green",
+        "vegetable_item",
+        "crop_year_2",
+    ],
 }

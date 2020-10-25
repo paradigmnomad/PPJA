@@ -29,11 +29,11 @@
 
     "SeedNameLocalization":
     {
-         // "es": "",
+        "es": "Semillas de quinoa",
         "ko": "퀴노아 씨앗",
         "de": "Quinoa-Saat",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Graines de quinoa",
+        "hu": "Kinoa magvak",
          // "it": "",
         "ja": "キヌアのタネ",
         "pt": "Sementes de Quinoa",
@@ -43,11 +43,11 @@
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+        "es": "Plántalas en verano. Tardan 6 días en madurar.",
         "ko": "여름 작물. 성장하려면 6일이 소요됩니다.",
         "de": "Pflanze sie im Sommer. Wächst in 6 Tagen heran.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "À planter en été. Prend 6 jours pour arriver à maturité.",
+        "hu": "Ezeket nyáron ültesd el. 6 napig tart megérniük.",
          // "it": "",
         "ja": "夏植えの作物。そだつのに6日かかる。",
         "pt": "Plante-as no verão. Leva 6 dias para amadurecer.",

@@ -55,7 +55,7 @@
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "秋のお茶",
         "pt": "Chá Outonal",
         "ru": "Осенний чай",
          // "tr": "",
@@ -64,12 +64,12 @@
     "DescriptionLocalization":
     {
         "es": "Un té algo amargo lleno de sabores otoñales. Recomendado para curar cualquier dolencia.",
-        "ko": "가을의 맛으로 가득 찬 약간 쓴 차. 모든 질병을 치료한다고 말했다.",
+        "ko": "가을의 맛으로 가득 찬 약간 쓴 차. 소문에 따르면 모든 질병을 치료한다고 합니다.",
         "de": "Ein etwas bitterer Tee mit herbstlichen Aromen. Es heißt, er würde eine Krankheit heilen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "秋の風味を楽しめるやや苦みのあるお茶。どんな病も治すといわれている。",
         "pt": "Um pouco amargo,um chá cheio de sabores do outono.Ótimo para curar qualquer doença.",
         "ru": "Горьковатый чай, источающий осенние ароматы. Поговаривают что им можно вылечить любую болезнь.",
          // "tr": "",

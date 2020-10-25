@@ -17,8 +17,8 @@
         "es": "Baya de enebro",
         "ko": "주니퍼 베리",
         "de": "Wacholder",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Baie de genévrier",
+        "hu": "Borókabogyó",
          // "it": "",
         "ja": "ジュニパーベリー", 
         "pt": "Zimbro",
@@ -28,16 +28,21 @@
     },
     "DescriptionLocalization":
     {
-        "es": "No se suele comer sola, sino que la fermentan en ginebra.",
+        "es": "No se suele comer sola, sino que se fermenta en ginebra.",
         "ko": "주니퍼 베리 자체로 타르트를 만들거나 베리 자체로 먹지는 않지만, 보통 진으로 발효시킵니다.",
         "de": "Er wird in der Regel nicht gegessen, sondern zu Gin vergärt.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Aigre, elle n'est généralement pas consommée en elle-même, mais elle est fermentée pour obtenir du gin.",
+        "hu": "Az íze fanyar és nem fogyasztják nyersen, de Gin-t lehet előállítani belőle.",
          // "it": "",
         "ja": "針葉樹の実。酸っぱくてあまり食用には使われないが、ジンの香り付けに用いられたりする。",
         "pt": "É azedo e, geralmente, não é comido sozinho, mas pode ser fermentado em gim.",
         "ru": "Как правило, их не едят, а сбраживают в джин.",
          // "tr": "",
         "zh": "作为一种果子它并不经常用来直接吃，但它被用来发酵成金酒。",
-    }
+    },
+    "ContextTags": [
+        "season_winter",
+        "color_blue",
+        "fruit_item",
+    ],
 }

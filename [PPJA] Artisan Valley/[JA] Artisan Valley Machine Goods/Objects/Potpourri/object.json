@@ -1,0 +1,42 @@
+{
+    "Name": "Potpourri",
+    "Description": "A fragrant natural fragrance with aromas in dried petals.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "Price": 350,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Emily", "Harvey"],
+        "Like": ["Abigail", "Caroline", "Demetrius", "Elliott", "Evelyn", "Haley", "Leah", "Linus", "Marnie", "Sandy", "Alex", "Clint", "Dwarf", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Popurrí",
+        "ko": "포푸리",
+        //"de": "",
+        "fr": "Pot-pourri",
+        "hu": "Pot-pourri",
+        // "it": "",
+        "ja": "ポプリ",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": ",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una fragancia natural fragante con aromas en pétalos secos.",
+        "ko": "말린 꽃잎에 아로마 향기를 불어넣은 향긋한 천연 방향제.",
+        //"de": "",
+        "fr": "Mélange de plantes et de fleurs séchées choisies pour leurs parfums et arômes.",
+        "hu": "Egy illatos természetes illat a szárított virágszirmok aromájával.",
+        // "it": "",
+        "ja": "乾燥した花びらにアロマが香る天然の芳香剤。",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }
+}

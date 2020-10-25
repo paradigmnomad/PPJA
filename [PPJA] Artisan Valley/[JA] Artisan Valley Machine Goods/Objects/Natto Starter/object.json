@@ -17,10 +17,10 @@
     "NameLocalization":
     {
         "es": "Base de natto",
-        "ko": "발효 낫토",
+        "ko": "낫토 스타터",
         "de": "Nattō-Starter",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Levure de nattō",
+        "hu": "Nattó alap",
          // "it": "",
         "ja": "納豆スターター",
         "pt": "Base de Nattô",
@@ -31,10 +31,10 @@
     "DescriptionLocalization":
     {
         "es": "Es utilizada para preparar comidas.",
-        "ko": "종균배양은 낫토 생산을 장려하기 위해 사용됩니다.",
+        "ko": "낫토 발효를 시작하기 위해 사용하는 종균.",
         "de": "Eine Startkultur, um die Natto-Produktion zu fördern.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Une culture de levures utilisée pour permettre la production de nattō.",
+        "hu": "Egy alap kultúra, mely a nattó termelést ösztönzi.",
          // "it": "",
         "ja": "納豆の熟成を促進させるために使われる菌のタネ。",
         "pt": "É usada na preparação de comidas.",

@@ -1,0 +1,86 @@
+{
+    "Name": "Atomic Cocktail",
+    "Description": "The drink of the future!",
+    "Category": "Cooking",
+    "Edibility": 82,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -1,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 100,
+    },
+    "Price": 900,
+    "IsColored": false,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 900,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Vodka",
+            "Count": 1,
+        },
+        {
+            "Object": "Brandy",
+            "Count": 1,
+        },
+        {
+            "Object": "Champagne",
+            "Count": 1,
+        },
+        {
+            "Object": "Orange Peel",
+            "Count": 1,
+        }],
+        "CanPurchase": false,
+        "GiftTastes":
+        {
+            "Love": ["Shane", "Gus", "Pam", "Maru"],
+            "Like": ["Sebastian", "Pierre", "Clint", "George", "Elliott", "Caroline", "Kent", "Jodi", "Lewis", "Pierre", "Robin", "Sandy", "Willy"],
+            "Neutral": ["Marnie", "Demetrius", "Dwarf", "Emily", "Evelyn", "Harvey", "Krobus", "Leah", "Linus", "Wizard"],
+            "Dislike": ["Haley", "Penny", "Sam", "Abigail", "Alex"],
+            "Hate": ["Vincent", "Jas"]
+        }
+    },
+    "NameLocalization":
+    {
+        "es": "Coctel Atomic",
+        "ko": "아토믹 칵테일",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Coquetel Atômico",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡La bebida del futuro!",
+        "ko": "미래의 음료!",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "A bebida do futuro!",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "EnableWithMod": "fwippy.champagnewishes",
+}

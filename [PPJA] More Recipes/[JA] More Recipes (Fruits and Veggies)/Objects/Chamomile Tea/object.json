@@ -31,9 +31,9 @@
     "NameLocalization":
     {
         "es": "Té de manzanilla",
-        "ko": "캐모마일 티",
+        "ko": "캐모마일 차",
         "de": "Kamillentee",
-         // "fr": "",
+        "fr": "Tisane de camomille",
          // "hu": "",
          // "it": "",
         "ja": "カモミールティー",
@@ -47,7 +47,7 @@
         "es": "Un té de hierbas preparado a partir de manzanilla.",
         "ko": "캐모마일에서 추출한 허브 티.",
         "de": "Ein Kräutertee, der aus Kamille gebrüht wird.",
-         // "fr": "",
+        "fr": "Une tisane à base de camomille.",
          // "hu": "",
          // "it": "",
         "ja": "カモミールから抽出したハーブティー。",

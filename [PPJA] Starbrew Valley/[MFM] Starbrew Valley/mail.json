@@ -209,4 +209,119 @@
 			{ "NpcName": "Krobus", "FriendshipLevel": 4 }
 		],
 	},
+
+	// New Additions
+
+	{
+		"Id": "ppja.atomiccocktailrecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
+		"Title": "atomiccocktail.text",
+		"Text": "atomiccocktail.text",
+		"Recipe": "Atomic Cocktail",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 summer Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Maru", "FriendshipLevel": 8 }
+		],
+	},
+	{
+		"Id": "ppja.frangelicosourrecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
+		"Title": "frangelicosour.text",
+		"Text": "frangelicosour.text",
+		"Recipe": "Frangelico Sour",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 summer Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Leah", "FriendshipLevel": 8 }
+		],
+	},
+	{
+		"Id": "ppja.harlemmuggerrecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
+		"Title": "harlemmugger.text",
+		"Text": "harlemmugger.text",
+		"Recipe": "Harlem Mugger",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 fall Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sebastian", "FriendshipLevel": 8 }
+		],
+	},
+	{
+		"Id": "ppja.lemonadococktailrecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
+		"Title": "lemonadococktail.text",
+		"Text": "lemonadococktail.text",
+		"Recipe": "Lemonado Cocktail",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 summer Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Gus", "FriendshipLevel": 6 }
+		],
+	},
+	{
+		"Id": "ppja.negronirecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
+		"Title": "negroni.text",
+		"Text": "negroni.text",
+		"Recipe": "Negroni",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 summer Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "George", "FriendshipLevel": 7 }
+		],
+	},
+	{
+		"Id": "ppja.poinsettiacocktailrecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
+		"Title": "poinsettiacocktail.title",
+		"Text": "poinsettiacocktail.text",
+		"Recipe": "Poinsettia Cocktail",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 winter Y2",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Evelyn", "FriendshipLevel": 6 }
+		],
+	},
+	{
+		"Id": "ppja.spritzvenezianorecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
+		"Title": "spritzveneziano.text",
+		"Text": "spritzveneziano.text",
+		"Recipe": "Spritz Veneziano",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 summer Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Kent", "FriendshipLevel": 8 }
+		],
+	},
+	{
+		"Id": "ppja.sweetpinkcocktailrecipe",
+		"GroupID": "StarbrewValley.CookingRecipe",
+		"Title": "sweetpinkcocktail.text",
+		"Text": "sweetpinkcocktail.text",
+		"Recipe": "Sweet Pink Cocktail",
+		"LetterBG": "NicteLetterBackground.png",
+		"Date": "1 summer Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Haley", "FriendshipLevel": 6 }
+		],
+	},
 ]

@@ -15,7 +15,7 @@
         "MinimumPerHarvest": 2,
         "MaximumPerHarvest": 3,
         "MaxIncreasePerFarmLevel": 5,
-        "ExtraChance": 0.2,
+        "ExtraChance": 0.2
     },
 "SeedPurchaseFrom": "Krobus",
   "SeedPurchasePrice": 200,
@@ -25,26 +25,25 @@
     "ko": "금 씨앗",
     "de": "Gold Samen",
     "fr": "Graines d'Or",
-    "hu": "Arany magok",
+    "hu": "Arany magvak",
     "it": "Semi d'oro",
     "ja": "金の種",
     "pt": "Sementes de ouro",
-    "ru": "Золотые семена",
+    "ru": "Семена золота",
     "tr": "Altın Tohumlar",
-    "zh": "金矿种子",
+    "zh": "金矿种子"
     },
 "SeedDescriptionLocalization": { 
     "es": "Plantalas en otoño. Toma 20 dias para madurar.",
     "ko": "가을 작물. 성장하려면 20일이 소요됩니다.",
     "de": "Pflanzen Sie diese im Herbst. Die Reifezeit beträgt 20 Tage.",
-    "fr": "Plantez-les en automne. Prend 20 jours pour mûrir.",
-    "hu": "Ültesse ezeket ősszel. 20 napig ér.",
+    "fr": "À planter en automne. Prend 20 jours pour produire de l'or.",
+    "hu": "Ezeket ősszel ültesse el. 20 napig tart megérniük.",
     "it": "Piantali in autunno. Ci vogliono 20 giorni per maturare.",
     "ja": "秋にこれらを植えます。 成熟するには20日かかります。",
     "pt": "Plante-as no outono. Leva 20 dias para amadurecer.",
-    "ru": "Сажайте осенью. Вырастает через 20 дней.",
+    "ru": "Высаживайте их осенью. Созревание занимает 20 дней.",
     "tr": "Bunları sonbaharda ekin. Olgunlaşması 20 gün sürer.",
-    "zh": "秋天播种。20天成熟。",
+    "zh": "秋天播种。20天成熟。"
     }
-
 }

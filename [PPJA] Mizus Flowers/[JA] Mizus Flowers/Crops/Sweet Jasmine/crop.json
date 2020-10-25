@@ -4,7 +4,6 @@
     "SeedName": "Sweet Jasmine Seeds",
     "SeedDescription": "Plant in the fall. Takes 7 days to produce bright flowers.",
     "Type": "Flower",
-
     "Seasons": ["fall"],
     "Phases": [1, 2, 2, 2],
     "RegrowthPhase": -1,
@@ -22,15 +21,14 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
-
     "SeedPurchasePrice": 40,
     "SeedNameLocalization":
     {
         "es": "Semillas de jazmín dulce",
         "ko": "스위트 자스민 씨앗",
         "de": "Jasmin-Saat",
-        "fr": "Graines de Jasmin Doux",
-         // "hu": "",
+        "fr": "Graines de Jasmin doux",
+        "hu": "Édes Jázmin magvak",
          // "it": "",
         "ja": "ジャスミンの種",
         "pt": "Sementes de jasmim doce",
@@ -43,8 +41,8 @@
         "es": "Plántalas en otoño. Toma 7 días para producir flores brillantes.",
         "ko": "가을에 심으세요. 7일 후 밝은 꽃이 핍니다.",
         "de": "Pflanze sie im Herbst. Wächst in 7 Tagen zu einer hellen Blume heran.",
-        "fr": "Plantez à l'automne. Prend 7 jours pour produire des fleurs colorées.",
-         // "hu": "",
+        "fr": "À planter à l'automne. Prend 7 jours pour produire des fleurs colorées.",
+        "hu": "Ezeket ősszel ültesd el. 7 nap alatt hoz egy világos virágot.",
          // "it": "",
         "ja": "秋植えの花。7日かけて明るい色の花を咲かせる。色は咲いてのおたのしみ。",
         "pt": "Plante-as no outono. Demoram 7 dias para produzirem algumas flores brilhantes.",

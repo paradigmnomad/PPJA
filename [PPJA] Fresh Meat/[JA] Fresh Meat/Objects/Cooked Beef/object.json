@@ -3,7 +3,7 @@
     "Description": "A thick, juicy slab of beef already cooked and ready to be used in recipes.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 165,
     "IsColored": false,
     "GiftTastes":
     {
@@ -19,49 +19,45 @@
             "Count": 1,
         },
         {
-            "Object": "Ginger",
+            "Object": "Seasonings",
             "Count": 1,
-        },
-        {
-            "Object": 247,
-            "Count": 1,
-        },
-        {
-            "Object": 399,
-            "Count": 1,
-        }],
+        },],
         "IsDefault": true,
     },
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
-    "PurchasePrice": 175,
+    "PurchasePrice": 200,
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
-        "ko": "구운 소고기",
+        // "es": "",       
+        "ko": "조리된 쇠고기",
         // "de": "",
-        "fr": "Boeuf Cuit",
-        // "hu": "",
+        "fr": "Bœuf cuit",
+        "hu": "Sült marhahús",
         // "it": "",
-        // "ja": "",
-        // "pt": "",
+        "ja": "調理済み牛肉",
+        "pt": "Carne cozida",
         "ru": "Приготовленная говядина",
-        // "tr": "",
+        // "tr": 
         "zh": "熟牛肉",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        "ko": "두껍고 육즙이 많은 소고기 한조각. 이미 구워진채로 조리될 준비가 되었습니다.",
+        "ko": "두껍고 육즙이 많은 쇠고기 조각들은 이미 조리되어 요리에 사용될 준비가 돼 있습니다.",
         // "de": "",
-        "fr": "Une plaque de bœuf épaisse et juteuse déjà cuite et prête à être utilisée dans les recettes.",
-        // "hu": "",
+        "fr": "Une pièce de bœuf épaisse et juteuse déjà cuite et prête à être utilisée dans des recettes.",
+        "hu": "Egy vastag, zamatos steak szelet, megsütve, felhasználásra készen.",
         // "it": "",
-        // "ja": "",
-        // "pt": "",
+        "ja": "下ごしらえが済んだ分厚くてジューシーな牛肉の切り身。",
+        "pt": "Um grosso e suculento pedaço de bife, já cozido e pronto para ser usado em receitas.",
         "ru": "Толстый, сочный кусок говядины, готовый к использованию в рецептах.",
         // "tr": "",
         "zh": "一块又厚又多汁的牛肉，已经煮熟，可以用于烹饪。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ]
 }

@@ -40,9 +40,9 @@
     "NameLocalization":
     {
         "es": "Arroz Pilaf",
-        "ko": "라이스 필라프",
+        "ko": "필라프",
         "de": "Pilaw",
-         // "fr": "",
+        "fr": "Riz pilaf",
          // "hu": "",
          // "it": "",
         "ja": "ピラフ",
@@ -56,7 +56,7 @@
         "es": "Picante y sureño!",
         "ko": "남부의 매운맛!",
         "de": "Würzig und orientalisch!",
-         // "fr": "",
+        "fr": "Le piquant épicé du sud !",
          // "hu": "",
          // "it": "",
         "ja": "スパイシーで南国風。",

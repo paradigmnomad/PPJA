@@ -1,0 +1,52 @@
+{
+    "Name": "Pitcher Plant",
+    "Product": "Pitcher Plant",
+    "SeedName": "Pitcher Plant Starter",
+    "SeedDescription": "Plant in spring. Takes 15 days to produce a carnivorous plant, and keeps producing after the first harvest. Grows on a trellis.",
+    "Type": "Flower",
+    "Seasons": ["spring", ],
+    "Phases": [3, 4, 2, 2, 4],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 500,
+    "SeedPurchaseRequirements": [
+        "y 4"
+    ],
+    "SeedNameLocalization":
+    {
+        // "es": "",
+        "ko": "벌레잡이풀",
+        "de": "Kannenpflanzen-Saat",
+        "fr": "Graines de Sarracénie",
+        "hu": "Kancsóka ültetvény",
+        // "it": "",
+        "ja": "ウツボカズラ栽培キット",
+        "pt": "Sementes de Plantas de Jarro",
+        "ru": "Семена кувшиночника",
+        // "tr": "",
+        "zh": "猪笼草种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "봄에 심으세요. 15일후 육식성 꽃이 피어나며, 수확한 후에도 계속 피어납니다. 격자 구조물에 감겨 자랍니다.",
+        "de": "Pflanze sie im Frühling. Wächst in 15 Tagen zu einer flrischfressenden Pflanze heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
+        "fr": "Plantez au printemps. Prend 15 jours pour produire une plante carnivore et continue de produire après la première récolte. Pousse sur un treillis.",
+        "hu": "Ezeket tavasszal ültesd el. 15 nap alatt hoz egy ragadozó virágot, de utána tovább termel. Egy lécen terem meg.",
+        // "it": "",
+        "ja": "春植えの植物。15日かけて食虫植物を実らせる。最初の収穫のあともくりかえし収穫できる。",
+        "pt": "Plante-as na primavera. Leva 15 dias para produzir uma planta carnívora e continua a produzir após a primeira colheita. Cresçe em uma treliça.",
+        "ru": "Сажайте весной. Через 15 дней вырастает хищный цветок и продолжает расти после сбора. Растет на шпалере.",
+        // "tr": "",
+        "zh": "这是一种食肉植物。春天播种。15天成熟，在第一次收获后循环生产。生长在架子上。",
+    }
+}
