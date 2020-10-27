@@ -22,7 +22,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "龙肉",
     },
     "DescriptionLocalization":
     {
@@ -36,7 +36,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "从一条龙身上切下来的奇怪绿色肉排。",
     },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

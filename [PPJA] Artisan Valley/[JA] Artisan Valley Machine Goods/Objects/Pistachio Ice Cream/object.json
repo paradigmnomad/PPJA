@@ -24,7 +24,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "开心果冰淇淋",
     },
     "DescriptionLocalization":
     {
@@ -38,7 +38,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "坚果味的美味冰淇淋。",
     },
     "EnableWithMod": "CPBoardingHouse"
 }

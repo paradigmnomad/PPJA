@@ -24,7 +24,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "松鼠DNA",
     },
     "DescriptionLocalization":
     {
@@ -38,7 +38,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "这是用DNA离析机扫描松鼠得到的一些松鼠DNA。",
     },
     "ContextTags": [
         "dna_item",

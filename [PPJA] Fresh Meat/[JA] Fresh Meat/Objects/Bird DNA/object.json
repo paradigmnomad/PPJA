@@ -24,7 +24,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "鸟类DNA",
     },
     "DescriptionLocalization":
     {
@@ -38,7 +38,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "一些鸟类的DNA。它是从各种产品中提取的。",
     },
     "ContextTags": [
         "dna_item",

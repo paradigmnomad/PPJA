@@ -23,7 +23,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "凤凰肉",
     },
     "DescriptionLocalization":
     {
@@ -37,7 +37,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "这块凤凰肉是生的，但它从切下来的时候就很烫。",
     },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

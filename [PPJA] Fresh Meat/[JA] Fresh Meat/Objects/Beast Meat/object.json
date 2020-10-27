@@ -23,7 +23,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "野兽肉",
     },
     "DescriptionLocalization":
     {
@@ -37,7 +37,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "从野兽身上切下来的肉。",
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

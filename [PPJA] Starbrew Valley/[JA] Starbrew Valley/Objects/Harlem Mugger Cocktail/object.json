@@ -74,7 +74,7 @@
         "pt": "Coquetel Harlem Mugger",
         // "ru": "",
         // "tr": "",
-        //"zh": "“",
+        "zh": "哈林劫匪鸡尾酒",
     },
     "DescriptionLocalization":
     {
@@ -88,7 +88,7 @@
         "pt": "Têm esse nome por quê deu um chute na sua cabeça e levou seu dinheiro.",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "它会振奋你的精神，抢走你的钱财，这就是名字的由来。",
     },
     "EnableWithMod": "fwippy.champagnewishes",
 }

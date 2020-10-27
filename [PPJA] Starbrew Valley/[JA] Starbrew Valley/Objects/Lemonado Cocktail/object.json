@@ -70,7 +70,7 @@
         "pt": "Coquetel de Limonada",
         // "ru": "",
         // "tr": "",
-        //"zh": "“",
+        "zh": "柠檬汁鸡尾酒",
     },
     "DescriptionLocalization":
     {
@@ -84,7 +84,7 @@
         "pt": "Também conhecida como Limonada de Vodka.",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "也被称为香波伏特加柠檬水。",
     }
 
 }

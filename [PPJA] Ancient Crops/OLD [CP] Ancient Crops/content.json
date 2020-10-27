@@ -137,10 +137,10 @@
 		"ancient1fern": "你收到了一个神秘的包裹，上面写着:你让你周围的人都开心了，所以我希望这个小礼物能让你开心。 %item object {{spacechase0.JsonAssets/ObjectId:Ancient Fern Seeds}} 2 %%",
 		"ancient1nut": "你收到了一个神秘的包裹，上面写着:这是我送给你的所有礼物的一点小小的心意! %item object {{spacechase0.JsonAssets/ObjectId:Ancient Nut Seeds}} 2 %%",
 		"ancient1nut1": "嗨 @,^^ 为了感谢你帮我升职，这里有一件小礼物，是我的工人在装修期间挖出来的。我不确定这棵树是否还能种下去，但也许你能好好利用它。^^  -莫尔斯 %item object {{spacechase0.JsonAssets/ObjectId:Ancient Nut Seeds}} 2 %%",
-		"ancient1olive": "Hey @,^^  在恢复几种已经灭绝的植物方面，你对科学界是一个恩惠，但是还有一种植物不见了!这是一颗古老的橄榄籽。这是这种植物的一种，也是最后的希望。你能试着种一下吗?^^谢谢你的努力!^^  -冈瑟 %item object {{spacechase0.JsonAssets/ObjectId:Ancient Olive Seeds}} 1 %%",
-		"legendaryfarmer": "亲爱的 @,^^  这封信是要通知你，你将被授予菲奥娜奖，因为你在植物学领域的重大贡献。除了您的新头衔，随信附上一份礼物，以表示我们的共同感谢。作为国际植物科学委员会主席，我想亲自写信感谢你们带回了7个长期以来被认为永远灭绝的古老物种。你的同事冈瑟给我们的标本肯定会在未来许多年推动新的发现。真诚的雅各布·勒维特博士  %item object 434 1 %%",
+		"ancient1olive": "Hey @,^^  在恢复几种已经灭绝的植物方面，你对科学界的恩惠无以回报，但是现在还差一种植物没有复苏！随信附上一颗古老的橄榄籽。这颗种子是复苏这个物种唯一的希望。你能试着种一下吗？^^谢谢你的努力!^^  -冈瑟 %item object {{spacechase0.JsonAssets/ObjectId:Ancient Olive Seeds}} 1 %%",
+		"legendaryfarmer": "亲爱的 @,^^  这封信是要通知你，你将被授予菲奥娜奖，因为你在植物学领域的重大贡献。除了您的新头衔，随信附上一份礼物，以表示我们的共同感谢。作为国际植物科学委员会主席，我想亲自写信感谢你带回了7个长期以来被认定为永久灭绝的古老物种。你的同事冈瑟给我们的标本肯定会在未来许多年推动新的发现。真诚的雅各布·勒维特博士  %item object 434 1 %%",
 		"skillschallenge": "我的孩子,^^ 我听说你种了一些古老的农作物。我这里有一颗稀有的古代咖啡豆，如果你能把你所有的技能都发挥到极致，我将奖励你。^^ -齐先生.",
-		"ancient1coffee": "你又来了，孩子，你真了不起。正如承诺的，这是你的报酬。不断追求卓越。^^ -齐先生%item object {{spacechase0.JsonAssets/ObjectId:Ancient Coffee Bean}} 1 %%",			
+		"ancient1coffee": "孩子，你又做到了，你真了不起。正如承诺的，这是你的奖励。不断追求卓越。^^ -齐先生%item object {{spacechase0.JsonAssets/ObjectId:Ancient Coffee Bean}} 1 %%",			
 		},
 		},
 	]

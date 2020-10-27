@@ -24,7 +24,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "蛙类DNA",
     },
     "DescriptionLocalization":
     {
@@ -38,7 +38,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "用DNA离析机扫描青蛙得到的蛙类DNA。",
     },
     "ContextTags": [
         "dna_item",

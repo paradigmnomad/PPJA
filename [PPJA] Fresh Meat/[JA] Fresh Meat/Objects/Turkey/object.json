@@ -23,7 +23,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "火鸡",
     },
     "DescriptionLocalization":
     {
@@ -37,7 +37,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "一整只火鸡，随时可以填入馅料烘烤。",
     },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

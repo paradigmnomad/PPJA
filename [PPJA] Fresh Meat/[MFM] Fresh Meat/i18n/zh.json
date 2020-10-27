@@ -1,4 +1,10 @@
 {
-"grilledskewer.text": "@，^^ 这是我酒吧的食谱。我只和我的好朋友分享！^^ -格斯"
+	// Text
+"grilledskewer.text": "@，^这是我酒馆的食谱。我只和我的好朋友分享！^-格斯",
+"spaghettiandmeatballs.text": "@，^我把我著名的意大利面食谱发给你了，但是你试过用肉丸来做它吗？我上次给玛妮带了一锅意式肉丸面去，贾斯和谢恩非常喜欢。试一试吧！^-刘易斯",
+
+// Title
+"grilledskewer.title": "串烧食谱",
+"spaghettiandmeatballs.title": "意式肉丸面食谱"
 }
 

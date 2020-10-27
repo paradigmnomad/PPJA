@@ -22,7 +22,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "羊驼皮",
     },
     "DescriptionLocalization":
     {
@@ -36,7 +36,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "鞣制过的羊驼皮。",
     },  
 	"ContextTags": [
         "leather_item",
