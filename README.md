@@ -2,13 +2,13 @@
 
 ![PPJA Header](https://i.imgur.com/HHpqNMs.png)
 
-This is the main hub for Project Populate Json Assets created by a large team lead by: Paradigmnomad, SpringsSong, and minervamaga. A full list of contributors is included on the [wiki page](https://github.com/paradigmnomad/PPJA/wiki/Artist-Credits).
+This is the main hub for Project Populate Json Assets created by a large team lead by Paradigmnomad. A full list of contributors is included on the [wiki page](https://github.com/paradigmnomad/PPJA/wiki/Artist-Credits).
 
 Further information can be found in the [PPJA Wiki](https://github.com/paradigmnomad/PPJA/wiki) as well as [artist credits](https://github.com/paradigmnomad/PPJA/wiki/Artist-Credits) & [troubleshooting](https://github.com/paradigmnomad/PPJA/wiki/Troubleshooting).
 
 ## Installation and Dependencies
 
-This mod requires the SMAPI modding framework; if you have not installed SMAPI before, see [here](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Getting_started) for instructions. This mod also requires Json Assets, a mod framework that allows custom items to be added to the game without modifying the XNB files; be sure to [download Json Assets from Nexus](https://www.nexusmods.com/stardewvalley/mods/1720) and install it before using this mod. Some Json Assets packs may require the use of [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970); a framework that allows custom machines or [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348); for Json Assets this allows crops to be grown in winter. Some of [spacechase0's](https://www.nexusmods.com/stardewvalley/users/34250790) mods require this to work properly.
+This mod requires the SMAPI modding framework; if you have not installed SMAPI before, see [here](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Getting_started) for instructions. This mod also requires Json Assets, a mod framework that allows custom items to be added to the game without modifying the XNB files; be sure to [download Json Assets from Nexus](https://www.nexusmods.com/stardewvalley/mods/1720) and install it before using this mod. Some Json Assets packs may require the use of [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970); a framework that allows custom machines.
 
 Some packs may also use [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915) or [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536) to pair with their Json Assets packs. These frameworks can help add more content to pre-existing Json Asset content packs.
 
@@ -24,7 +24,7 @@ Whenever migrating to a new version using mods, we always recommend [backing up 
 * Drag + Drop into `Mods` as normal.
 * Have fun in 1.4! There's lots of new stuff to explore.
 
-Not all framework mods may be ready with day one updates. Please understand these are out of our control and even the PPJA team must wait for an update. We do not manage **any** of the frameworks: Json Assets, Custom Farming Redux, Content Patcher, nor Mail Framework Mod. Any questions/bug reports that reference these frameworks not being updated and asking for an update will be archived.
+Not all framework mods may be ready with day one updates. Please understand these are out of our control and even the PPJA team must wait for an update. We do not manage **any** of the frameworks: Json Assets, Producer Framework Mod, Content Patcher, nor Mail Framework Mod. Any questions/bug reports that reference these frameworks not being updated and asking for an update will be archived.
 
 ## FAQ
 
