@@ -23,7 +23,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "鹿肉",
     },
     "DescriptionLocalization":
     {
@@ -37,7 +37,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "从鹿身上切下来的柔软的肉。",
     },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

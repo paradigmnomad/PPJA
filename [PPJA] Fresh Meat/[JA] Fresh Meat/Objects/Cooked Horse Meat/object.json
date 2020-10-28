@@ -41,7 +41,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "熟制马肉",
     },
     "DescriptionLocalization":
     {
@@ -55,7 +55,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "取自马的肉，已经煮熟，可用于进一步烹调。",
     },
     "ContextTags": [
         "cooked_meat",

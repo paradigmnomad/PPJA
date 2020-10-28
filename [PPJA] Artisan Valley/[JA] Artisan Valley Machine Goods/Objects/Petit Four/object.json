@@ -40,7 +40,7 @@
         "pt": "Petit Four",
         "ru": "Птифур",
          // "tr": "",
-        "zh": "小蛋糕",
+        "zh": "花色小蛋糕",
     },
     "DescriptionLocalization":
     {
@@ -54,6 +54,6 @@
         "pt": "Camadas fofas de bolo de amêndoa e creme gelado com cobertura de açúcar.",
         "ru": "Воздушные слоёные миндально-сливочные пироженые, покрытые глазурью и сахарными цветами.",
          // "tr": "",
-        "zh": "蓬松的杏仁蛋糕和奶油层，冰镇，上面点缀着糖花。",
+        "zh": "经过冰镇的松软杏仁奶油蛋糕，顶上点缀着糖花。",
     }
 }

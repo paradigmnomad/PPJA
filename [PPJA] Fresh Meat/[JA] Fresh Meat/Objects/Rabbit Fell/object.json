@@ -23,7 +23,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "兔皮",
     },
     "DescriptionLocalization":
     {
@@ -37,7 +37,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "经过鞣制的兔子皮。",
     },
     "ContextTags": [
         "leather_item",

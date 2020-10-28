@@ -22,7 +22,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "鹿茸",
     },
     "DescriptionLocalization":
     {
@@ -36,7 +36,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "一种奇异的鹿角。",
     },  
     "EnableWithMod": "Cherry.MultiYieldCrops"    
 }

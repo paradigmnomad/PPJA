@@ -23,7 +23,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "野牛皮",
     },
     "DescriptionLocalization":
     {
@@ -37,7 +37,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "经过鞣制的野牛皮。",
     },
     "ContextTags": [
         "leather_item",

@@ -24,7 +24,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "马肉",
     },
     "DescriptionLocalization":
     {
@@ -38,7 +38,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "看着有点不舒服...但它可能会成为一顿像样的饭。",
     },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"  
 }

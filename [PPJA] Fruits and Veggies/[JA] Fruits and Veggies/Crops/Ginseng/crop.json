@@ -31,7 +31,7 @@
         "pt": "Ginseng",
         "ru": "Женьшень",
         // "tr": "",
-        "zh": "参",
+        "zh": "人参",
     },
     "SeedDescriptionLocalization":
     {
@@ -45,6 +45,6 @@
         "pt": "Plante-as em qualquer estação do ano. Leva 30 dias para amadurecer.",
         "ru": "Посади их в любое время года. Требуется 30 дней для созревания.",
         // "tr": "",
-        "zh": "在任何季节种植这些。需要30天才能成熟。",
+        "zh": "一年四季均可栽种。需要30天才能成熟。",
     }
 }

@@ -22,7 +22,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "野猪肉",
     },
     "DescriptionLocalization":
     {
@@ -36,7 +36,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "美味可口的野猪肉。",
     },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -23,7 +23,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "龙牙",
     },
     "DescriptionLocalization":
     {
@@ -37,7 +37,7 @@
         //"pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "龙的牙齿。用于获得用龙的魔法打造的武器。",
     },
     "EnableWithMod": "Cherry.MultiYieldCrops"
 }

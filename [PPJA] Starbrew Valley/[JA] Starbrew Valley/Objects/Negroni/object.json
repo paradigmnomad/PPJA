@@ -67,7 +67,7 @@
         "pt": "Negroni",
         // "ru": "",
         // "tr": "",
-        //"zh": "“",
+        "zh": "尼格罗尼",
     },
     "DescriptionLocalization":
     {
@@ -81,7 +81,7 @@
         "pt": "Tradicionalmente servido com gelo.",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "传统做法上会加冰。",
     }
 
 }
