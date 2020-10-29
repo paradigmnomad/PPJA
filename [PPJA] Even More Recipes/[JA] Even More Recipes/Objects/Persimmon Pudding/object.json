@@ -41,7 +41,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "감 푸딩",
         "de": "Kakipudding",
         "fr": "Pudding aux kakis",
         // "hu": "",
@@ -55,7 +55,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "감을 섞어 만든 맛있는 푸딩.",
         "de": "Ein Dessert aus pürierten Kaki und Eiern.",
         "fr": "Un délicieux pudding fait avec des kakis.",
         // "hu": "",
