@@ -44,7 +44,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "아이스 딸기 케이크",
         // "de": "",
         "fr": "Gâteau glacé à la fraise",
         // "hu": "",
@@ -58,7 +58,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "정말 맛있어요! 여기에 딸기가 많이 들어 있을 거예요.",
         // "de": "",
         "fr": "Ça a un goût si appétissant ! Il doit y avoir un tas de fraises dedans.",
         // "hu": "",
