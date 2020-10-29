@@ -16,7 +16,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "딸기 용과 과일 셔벗",
         // "de": "",
         "fr": "Sorbet au fruit du dragon et à la framboise",
         "hu": "Epres-sárkánygyümölcsös sörbet",
@@ -30,7 +30,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "딸기, 용과, 감귤로 만든 상큼한 과일 셔벗.",
         // "de": "",
         "fr": "Un sorbet rafraîchissant fait à partir de framboises, fruit du dragon et citron.",
         "hu": "Egy frissítő gyümölcs sörbet eperből, sárkánygyümölcsből, és citrusból.",
