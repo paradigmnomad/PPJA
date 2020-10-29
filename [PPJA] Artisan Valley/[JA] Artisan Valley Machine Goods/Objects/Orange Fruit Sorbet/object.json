@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "오렌지 과일 셔벗",
         // "de": "",
         "fr": "Sorbet à l'orange",
        "hu": "Narancs sörbet",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "오렌지와 레몬으로 만든 상큼한 과일 셔벗.",
         // "de": "",
         "fr": "Un sorbet rafraîchissant fait à partir d'oranges et de citron.",
        "hu": "Egy frissítő gyümölcs sörbet, narancsból és citromból.",
