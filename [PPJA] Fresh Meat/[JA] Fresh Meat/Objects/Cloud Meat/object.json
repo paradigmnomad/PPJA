@@ -13,7 +13,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "구름 고기",
         // "de": "",
         "fr": "Viande de nuage",
         "hu": "Felhőhús",
@@ -27,7 +27,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "맛이 아무것도... 조리하면 증발합니다.",
         // "de": "",
         "fr": "Ça a le goût... de rien. Ça s'évaporera si cuisiné.",
         "hu": "Az íze olyan, mint a... semminek. Főzés közben elpárolog.",
