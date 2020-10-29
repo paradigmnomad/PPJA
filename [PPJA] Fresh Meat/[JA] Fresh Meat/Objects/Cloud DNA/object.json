@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "구름 DNA",
         // "de": "",
         "fr": "ADN de nuage",
         "hu": "Felhő DNS",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "DNA 합성기로 구름에서 추출한 구름 DNA? 당신이 어떻게 이 일을 해냈는지 모르겠어요.",
         // "de": "",
         "fr": "De l'ADN de nuage extrait... d'un nuage ? Avec un synthétiseur d'ADN. Mais comment avez-vous réussi cet exploit ?",
         "hu": "Egy felhő DNS-e amit egy... felhőből nyertek(?) A DNS szintetizátor segítségével. Nem tudom, hogy sikerült ez.",
