@@ -42,7 +42,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "매실 오니기리",
         // "de": "",
         "fr": "Onigiri à l'umé",
         // "hu": "",
@@ -56,7 +56,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "일본식 매실 주먹밥.",
         // "de": "",
         "fr": "Un plat japonais traditionnel avec de l'umé.",
         // "hu": "",
