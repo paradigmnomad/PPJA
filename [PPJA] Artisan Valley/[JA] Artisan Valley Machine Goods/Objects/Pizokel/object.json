@@ -45,7 +45,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "피조켈",
         "de": "Pizokel",
         "fr": "Pizokels",
         "hu": "Pizokel",
@@ -59,7 +59,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "스파츨을 연상시키는 메밀 파스타",
         "de": "Pasta hergestellt aus Buchweizenmehl",
         "fr": "Une pâte de sarrasin qui rappelle les spätzle.",
         "hu": "A nokedlire emlékeztető, hajdinából készült tészta.",
