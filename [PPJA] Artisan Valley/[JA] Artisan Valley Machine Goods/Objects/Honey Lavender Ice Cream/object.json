@@ -17,7 +17,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "허니 라벤더 아이스크림",
         // "de": "",
         "fr": "Glace à la lavande et au miel",
         "hu": "Mézes-levendulás fagyi",
@@ -31,7 +31,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "라벤더 꽃 봉오리와 꿀이 들어간 진한 아이스크림.",
         // "de": "",
         "fr": "Une glace riche infusée avec des bourgeons de lavande et du miel.",
         "hu": "Egy ízletes fagylalt levedulával és mézzel.",
