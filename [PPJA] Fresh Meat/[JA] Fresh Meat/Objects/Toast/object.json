@@ -28,7 +28,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "토스트",
         "de": "Toast",
         "fr": "Toast",
         "hu": "Pirítós",
@@ -42,7 +42,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "토스트 한 조각.",
         "de": "Eine ordinäre Scheibe Toast",
         "fr": "Une tranche de pain grillé ordinaire.",
         "hu": "Egy átlagos szelet pirítós.",
