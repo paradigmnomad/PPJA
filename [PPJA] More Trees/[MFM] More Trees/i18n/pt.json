@@ -1,0 +1,31 @@
+
+//Text
+
+"camphor.texto": "Olá, querida, ^^ à medida que George e eu envelhecemos, tivemos que tomar cuidado extra com nossa saúde. Descobri que a cânfora faz maravilhas com as articulações e a pele.^Eu não sei se você tem espaço em sua fazenda para cultivar essa muda, mas eu pensei que você poderia estar interessado.^^ -Evelyn",
+"breadfruit.text": "Querido @,^^ eu recebi isso de Willy, que de alguma forma ele adquiriu em uma viagem ao sul.^Eu sei que esta não é a estação, mas se você plantar isso durante o inverno, você terá uma boa árvore de frutas para colher na primavera.^^ -Elliott",
+//"cassia.text": "Olá, @.^^ Algum tipo de caridade dos veteranos me presenteou pelo meu serviço. Foi um presente simbólico e eu sei que é o sentimento que conta, mas eu tenho que admitir que eu não acho que eu vou realmente plantar isso. Acha que pode fazê-la crescer? ^^ -Kent",
+"eucalyptus.text": "Ei @,^^ já me perguntei como seria ter coalas em sua fazenda?^Bem, nem eu, até que papai e eu recentemente colaboramos em algumas pesquisas. Parece que coalas não podem viver em Stardew Valley, mas sua única fonte de alimento pode!^Aqui está uma muda de eucalipto que sobrou da nossa pesquisa no caso de você estar interessado.^^ -Maru",
+"fig.text": "Querido @,^^ estou estudando a evolução natural das figueiras. Minha hipótese é que essa muda vai render frutas grandes, mas só há uma maneira de descobrir!^Se você for capaz de plantá-la, eu vou verificar isso rotineiramente para coletar dados. Todos os figos seriam seus!^^ -Demetrius",
+"grapefruit.text": "@,^^ Todas as manhãs eu tenho um shake de proteína com uma toranja. Tenho que ter esse café da manhã equilibrado!^Eu li um artigo dizendo que toranja cultivada localmente são mais frescas e melhores para você, então... Eu não sei, eu estou querendo dar um chute em uma toranja agora. Acha que pode se tornar meu fornecedor?^^ -Alex",
+"melaleuca.text": "Querido @,^^ Alguns ambientalistas me enviaram essa muda e me disseram para plantá-la. Talvez tenham conseguido meu nome de uma lista. Acho que eles não sabiam que eu não cultivava árvores na minha fazenda. Você estaria interessado?^Ouvi dizer que essas árvores são muito bonitas.^^ -Marnie",
+"casimmon.text": "Ei.^^ Eu encontrei isso. Ok, poke?^^ Você pode querer, poke.^^ -Rato de Chapéu"
+"pomelo.text": "Ei @!^^ Quando morávamos na cidade de Zuzu, minha mãe pegava pomelos o tempo todo, mas aqui, Vincent nunca experimentou um.^Minha ideia é que você possa cultivar isso e então todos nós vamos poder desfrutar da fruta que cresce nela. Talvez Vincent possa subir na árvore também! Tenho certeza que seria muito especial para ele.^^ -Sam",
+"baunilha.text": "Saudações, ^^ espero que você possa encontrar algum uso para esta muda. O feijão baunilha abriga muitas propriedades arcanas, e magos de todo o mundo o têm usado por séculos em poções e herméticas.^O fato de ter um gosto delicioso no sorvete é uma mera coincidência.^^ -M. Rasmodius, Mago",
+"pergrantwisteria.text": "Ei @,^^ Como eu descrevo isso? Essas árvores tem um cheiro muito mágico.^É meio aleatório para mim enviar isso, eu sei, mas confie em mim - você vai gostar.^^ -Abigail",
+"ylangylang.text": "Ei @,^^ li que as flores desta árvore são boas para ajudar sua pele. Além disso, é tão bonito quando floresce. Talvez você queira tentar plantar um^^ -Abigail",
+
+//Titles
+
+"camphor.title": "Muda de Cânfora",
+"breadfruit.title": "Muda de Fruta-pão",
+//"cassia.title": "Muda de Cassia",
+"eucalyptus.título": "Muda de Eucalipto",
+"fig.title": "Muda de Figo",
+"grapefruit.title": "Muda de Toranja",
+"melaleuca.title": "Muda de Melaleuca ",
+"casimmon.title": "Muda de Casimon",
+"pomelo.title": "Muda de Pomelo",
+"baunilha": "Muda de Baunilha ",
+"pergrantwisteria.title": "Muda de wisteria perfumada",
+"ylangylang.title": "Muda de Ylang Ylang ",
+}

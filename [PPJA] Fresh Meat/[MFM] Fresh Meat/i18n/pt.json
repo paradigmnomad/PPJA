@@ -1,4 +1,11 @@
 {
+    // Text
 "grilledskewer.text": "@,^^ Aqui está uma receita do meu salão. Eu compartilho ela apenas com meus melhores amigos!^^ -Gus"
+"spaghettiandmeatballs.text": "@,^Eu te enviei a receita do meu famoso espaguete mas você já experimentou com almôndegas? Jas e Shane adoram quando eu trago uma panela  para Marnie. Experimente-os!^-Lewis",
+
+// Title
+"grilledskewer.title": "Receita de Espeto Grelhado",
+"spaghettiandmeatballs.title": "Receita de Espaguete e Almôndegas"
+
 }
 
