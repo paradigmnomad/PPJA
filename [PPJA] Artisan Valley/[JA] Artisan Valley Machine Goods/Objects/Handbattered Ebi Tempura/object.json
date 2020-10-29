@@ -42,7 +42,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "새우 튀김",
         // "de": "",
         "fr": "Crevettes panées",
        "hu": "Ebi Tempura",
@@ -56,7 +56,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "즙이 많은 새우에 반죽을 살짝 입혀서 튀긴 후, 간장과 함께 제공됩니다.",
         // "de": "",
         "fr": "Crevette succulente, légèrement enrobée de panure et frite. Servie avec une sauce de soja.",
         "hu": "Zamatos, tésztával enyhén bevonatolt garnélarák. Szójaszósszal tálalják.",
