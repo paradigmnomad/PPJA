@@ -25,7 +25,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "셔벗 머신",
         // "de": "",
         "fr": "Sorbetière",
         // "hu": "",
@@ -39,7 +39,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "신선한 과일로 맛있는 수제 셔벗을 만듭니다.",
         // "de": "",
         "fr": "Fabrique de délicieux sorbets faits maison avec des fruits frais.",
         // "hu": "",
