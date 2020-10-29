@@ -41,7 +41,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        // "ko": "구운 크림",
         "de": "Crème Brûlée",
         "fr": "Crème brûlée",
         // "hu": "",
@@ -55,7 +55,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "시대를 초월한 클래식.",
         "de": "Ein zeitloses Dessert",
         "fr": "Un classique indémodable.",
         // "hu": "",
