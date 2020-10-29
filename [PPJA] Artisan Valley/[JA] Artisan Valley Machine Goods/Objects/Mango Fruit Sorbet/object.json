@@ -17,7 +17,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "망고 과일 셔벗",
         // "de": "",
         "fr": "Sorbet à la mangue",
         "hu": "Mangó sörbet",
@@ -31,7 +31,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "신선한 망고와 라임으로 만든 상큼한 과일 셔벗.",
         // "de": "",
         "fr": "Un sorbet rafraîchissant fait à partir de mangues fraîches et de citron vert.",
         "hu": "Egy frissítő gyümölcs sörbet, mely mangó és lime felhasználásával készült.",
