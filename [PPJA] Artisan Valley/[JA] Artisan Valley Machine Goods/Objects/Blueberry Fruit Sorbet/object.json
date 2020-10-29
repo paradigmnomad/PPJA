@@ -17,7 +17,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "블루베리 과일 셔벗",
         // "de": "",
         "fr": "Sorbet à la myrtille",
        "hu": "Áfonya sörbet",
@@ -31,7 +31,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "블루베리, 꿀, 레몬으로 만든 상큼한 과일 셔벗.",
         // "de": "",
         "fr": "Un sorbet rafraîchissant fait à partir de myrtilles, de miel et de citron.",
        "hu": "Egy frissítő gyümölcs sörbet áfonyából, mézből, és citromból.",
