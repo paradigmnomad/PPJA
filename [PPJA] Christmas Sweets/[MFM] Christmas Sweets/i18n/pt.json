@@ -1,0 +1,33 @@
+{
+
+// Text
+
+"icedchristmastree.text": "Querida @,^Eu estava pensando em você quando pensei em como espalhar um pouco de alegria de feriado este ano. Esta é uma receita de biscoito de açúcar muito fácil que até mesmo o mais ocupado de nós pode encontrar tempo para fazer. Boas festas, querida!^   -Evelyn",
+"iceddecoratedchristmastree.text": "Querido @,^Eu incluí uma receita de biscoito que é baseada em uma velha receita de família. Em vez disso, eu melhorei essa receita ao longo dos anos para que suas decorações pareçam tão bonitas e equilibradas, seus amigos e familiares não podem deixar de amá-los.^Ou talvez fazer uma para esse alguém especial! Hee hee!    -Evelyn",
+"icedgreenchristmastree.text": "Querida @,^Espero que você esteja fazendo alguns biscoitos este mês! Os feriados não seriam os mesmos sem eles. O projeto deste me rendeu o primeiro prêmio em um bake-off há uns vinte anos! Que seu inverno seja alegre e brilhante!^   -Evelyn",
+"jamfilledcookie.text": "Querido @,^Esta receita de biscoito é um clássico de férias antigo. Algumas das minhas primeiras memórias da Estrela de Inverno são sobre comê-las.^E até hoje, mesmo os pequenos como Vincent e Jas não conseguem resistir a estas em uma bandeja de biscoitos diferentes. É um prazer ver!^   -Evelyn",
+"mittencookie.text": "Querida @,^Já que você está em sua temporada de folga com todos os seus campos congelados, eu pensei em dar-lhe algo divertido para fazer na cozinha que vai aquecê-lo.^Esta é a minha receita de biscoito de luva. Seja paciente com a forma como você coloca a cobertura para obter um bom ziguezague, e  colocar um sorriso no rosto de quem o come.^   -Evelyn",
+"pufferchickcookie.text": "Querida @,^Esta receita de biscoito não é exatamente temática de férias, mas nunca custa ter um par de biscoitos divertidos ou bobos no seu bolso.^Quando se trata de espalhar alegria, alguns de nós adoram pensar fora da caixa e modificar a receita para se adequar ao que amamos!^   -Evelyn",
+"snowmancookie.text": "Querido @,^Feliz festa! Eu incluí como trazer essa alma alegre e feliz para a vida um dia.^Às vezes esses bonecos de neve parecem tão fofos, é uma pena comê-los. Felizmente, eles têm um gosto tão bom que nunca acabamos com nenhum arrependimento.^Divirta-se com este, querida!^   -Evelyn",
+"hollydecoratedcookie.text": "Querido @,^Este biscoito é uma beleza, então por que você não tenta?^Você sempre pode usar glacê real para as folhas e frutinhas holly, mas se você quer um olhar mais tridimensional, um pouco de glacê fondant vai um longo caminho.^George certamente ama estes. E espero que você também!^   -Evelyn",
+"snowmanscenerycookie.text": "Querida @,^Oh, deixe nevar!^Eu sei que você não é de fugir de um desafio, querida, então eu incluí desenhos passo a passo para como fazer o biscoito de paisagem mais bonito de boneco de neve.^Parece um pouco com Stardew Valley, você não diria?^Deixe-me saber se este lhe dá problemas - Eu estou feliz em ajudarQuerida @,^Oh, deixe nevar!^Eu sei que você não é de fugir de um desafio, querida, então eu incluí desenhos passo a passo para como fazer o biscoito de paisagem mais bonito de boneco de neve.^Parece um pouco com Stardew Valley, você não diria?^Deixe-me saber se este lhe dá problemas - Eu estou feliz em ajudar!^   -Evelyn",
+"stardropcookie.text": "Querido @,^Todos sabemos que as Gota Estrelar estão em nossas mentes quando pensamos na Estrela de Inverno.^Pode não ser o negócio real, mas é apenas sobre a coisa mais próxima que você vai encontrar! Eu ainda não encontrei ninguém que tenha ficado desapontado com essa receita.^Feliz festa!^   -Evelyn",
+"stockingcookie.text": "Querido @,^Ho ho ho! O que você quer encontrar em sua meia este ano para a Estrela de Inverno, querida?^O que você está esperando, esses biscoitos de meia vão ter certeza de colocá-lo no espírito natalino. Por que não faz, é uma delícia?^   -Evelyn",
+"christmaschocolatecandiecookies.text": "Querido @,^Boas festas! Eu queria compartilhar essa receita com você.^É como minha receita normal de biscoito, mas você usa doces de chocolate vermelho e verde em vez de chips de chocolate.^Se você quiser adicionar um toque divertido pouco, você pode usar doces de chocolate e manteiga de amendoim, também!^    -Evelyn",
+
+// Titles
+
+"icedchristmastree.title": "Receita de Biscoito de Árvore de Natal Gelada",
+"iceddecoratedchristmastree.title": "Receita de Biscoito de Árvore de Natal Decorada Gelada",
+"icedgreenchristmastree.title": "Receita de Biscoito de Árvore de Natal Verde Gelado",
+"jamfilledcookie.title": "Receita de Biscoito Recheado de Geleia",
+"mittencookie.title": "Receita de Biscoito em Forma de Luva",
+"pufferchickcookie.title": "Receita de Biscoito de Galinha de Pelúcia",
+"snowmancookie.title": "Receita de Biscoito de Boneco de Neve",
+"hollydecoratedcookie.title": "Receita de Biscoito Decorado Holly",
+"snowmanscenerycookie.title": "Receita de Biscoito de Paisagem do Boneco de Neve",
+"stardropcookie.title": "Receita de Biscoito em Forma de Gota Estrelar",
+"stockingcookie.title": "Receita de Biscoito em Forma de Meia",
+"christmaschocolatecandiecookies.title": "Receita de Biscoitos de Chocolate de Natal"
+
+}
