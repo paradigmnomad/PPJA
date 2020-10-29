@@ -17,7 +17,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "새먼베리 과일 셔벗",
         // "de": "",
         "fr": "Sorbet de baie de saumon",
         "hu": "Díszszeder sörbet",
@@ -31,7 +31,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "새먼베리, 꿀, 레몬으로 만든 상큼한 과일 셔벗.",
         // "de": "",
         "fr": "Un sorbet rafraîchissant fait à partir de baies de saumon (ronce remarquable), de miel et de citron.",
         "hu": "Egy frissítő gyümölcs sörbet díszszederből, mézből, és citromból.",
