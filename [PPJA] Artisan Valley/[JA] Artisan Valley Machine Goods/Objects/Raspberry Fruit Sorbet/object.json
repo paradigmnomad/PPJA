@@ -17,7 +17,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "라즈베리 과일 셔벗",
         // "de": "",
         "fr": "Sorbet à la framboise",
         "hu": "Málnás sörbet",
@@ -31,7 +31,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "갓 딴 산딸기, 꿀, 레몬으로 만든 상큼한 과일 셔벗.",
         // "de": "",
         "fr": "Un sorbet rafraîchissant fait à partir de framboises fraîchement récoltées, de miel et de citron.",
         "hu": "Egy frissítő gyümölcs sörbet frissen szedett málnából, mézből, és citromból.",
