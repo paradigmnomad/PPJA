@@ -16,7 +16,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "파인애플 과일 셔벗",
         // "de": "",
         "fr": "Sorbet à l'ananas",
         "hu": "Ananász sörbet",
@@ -30,7 +30,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "맛있는 파인애플과 레몬으로 만든 상큼한 과일 셔벗.",
         // "de": "",
         "fr": "Un sorbet rafraîchissant fait à partir d'un délicieux ananas et un citron.",
         "hu": "Egy frissítő sörbet ízletes ananászból és citromból.",
