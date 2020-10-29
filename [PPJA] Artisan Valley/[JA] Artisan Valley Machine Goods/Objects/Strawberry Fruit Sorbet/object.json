@@ -16,7 +16,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "딸기 과일 셔벗",
         // "de": "",
         "fr": "Sorbet à la fraise",
         "hu": "Eper sörbet",
@@ -30,7 +30,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "딸기로 만든 상큼한 과일 소르베트와 갓 짠 레몬.",
         // "de": "",
         "fr": "Un sorbet rafraîchissant fait à partir de fraises et d'un citron fraîchement pressé.",
        "hu": "Egy frissítő gyümölcs sörbet eperből, és frissen facsart citromból.",
