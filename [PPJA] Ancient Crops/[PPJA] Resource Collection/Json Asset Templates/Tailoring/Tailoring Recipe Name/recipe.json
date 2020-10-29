@@ -1,6 +1,0 @@
-{
-    "FirstItemTags": [ "item_geode" ], //Prefix'd with `item_`. For vanilla objects, use the name of the object from ObjectInformation. For custom items use the name Json Assets specifys.
-    "SecondItemTags": [ "item_diamond" ], //Prefix'd with `item_`. For vanilla objects, use the name of the object from ObjectInformation. For custom items use the name Json Assets specifys.
-    "ConsumeSecondItem": false, //Will the `SecondItemTags` item be removed from the players inventory. Can be set to `true` or `false`
-    "CraftedItems": [ "Test Shirt" ], //This should be the name of the shirt/pants that is produced.    
-}
