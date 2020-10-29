@@ -17,7 +17,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "용과 과일 셔벗",
         // "de": "",
         "fr": "Sorbet de fruit du dragon",
        "hu": "Sárkánygyümölcs sörbet",
@@ -31,7 +31,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "용과, 바나나, 오렌지로 만든 상큼한 과일 셔벗.",
         // "de": "",
         "fr": "Un sorbet rafraîchissant fait à partir de fruit du dragon, de bananes et d'oranges.",
         "hu": "Egy frissítő gyümölcs sörbet sárkánygyümölcsből, banánból, és narancsból.",
