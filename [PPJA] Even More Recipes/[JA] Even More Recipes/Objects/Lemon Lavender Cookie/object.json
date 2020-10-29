@@ -38,7 +38,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "레몬 라벤더 쿠키",
         // "de": "",
         "fr": "Biscuit lavande-citron",
         // "hu": "",
@@ -52,7 +52,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "가루 설탕을 뿌린 중앙에 레몬 라벤더 젤리가 들어간 딱딱한 쿠키.",
         // "de": "",
         "fr": "Un biscuit dur avec de la confiture lavande-citron en son centre saupoudré de sucre glace.",
         // "hu": "",
