@@ -12,7 +12,7 @@
         "ko": "연꽃",
         "de": "Lotus",
         // "fr": "",
-        // "hu": "",
+        "hu": "Lótusz",
         // "it": "",
         "ja": "ハス",
         "pt": "Lótus",
@@ -26,7 +26,7 @@
         "ko": "물 속에서 자라는 큰 꽃. 여러 문화에 친근한 꽃입니다.",
         "de": "Eine große Blume, die im Wasser wächst. Von mehreren Kulturen verehrt.",
         // "fr": "",
-        // "hu": "",
+        "hu": "Egy nagy virág, mely a vízben él. Számos kultúrában tisztelték.",
         // "it": "",
         "ja": "水中で育つ大輪の花。複数の文化で崇拝されている。",
         "pt": "Uma grande flor que cresce na água. Reverenciado por várias culturas.",
@@ -38,5 +38,4 @@
         "color_pink",
         "flower_item",
         "season_summer"
-    ]
-}
+    ]}

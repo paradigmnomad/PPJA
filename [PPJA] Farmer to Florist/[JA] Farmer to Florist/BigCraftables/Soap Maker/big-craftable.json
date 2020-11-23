@@ -32,7 +32,7 @@
         "ko": "비누제조기", //Korean
         "de": "Seifenmacher", //German
         //"fr": "", //French
-        //"hu": "", //Hungarian
+        "hu": "Szappan készítő", //Hungarian
         //"it": "", //Italian
         "ja": "ソープメーカー", //Japanese
         "pt": "Máquina de Sabão", //Portuguese
@@ -46,7 +46,7 @@
         "ko": "비누 제조기", //Korean
         "de": "Kombiniert Blumen und Öl zu einem Stück Seife.", //German
         //"fr": "", //French
-        //"hu": "", //Hungarian
+        "hu": "Virágokból és olajból állít elő szappanrudakat.", //Hungarian
         //"it": "", //Italian
         "ja": "花とオイルで石けんバーを作る。", //Japanese
         "pt": "Combina flores e óleo em uma barra de sabonete.", //Portuguese

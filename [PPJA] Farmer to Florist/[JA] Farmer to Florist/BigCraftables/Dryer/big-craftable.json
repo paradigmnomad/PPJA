@@ -31,7 +31,7 @@
         "ko": "건조기", //Korean
         "de": "Trockner", //German
         //"fr": "", //French
-        //"hu": "", //Hungarian
+        "hu": "Szárító", //Hungarian
         //"it": "", //Italian
         "ja": "乾燥ラック", //Japanese
         "pt": "Secador", //Portuguese
@@ -45,7 +45,7 @@
         "ko": "말린 꽃과 잎을 차로 만들거나, 야채를 칩으로 만들 수 있습니다.", //Korean
         "de": "Zum Trocknen von Blumen und Blättern für die Teezubereitung und von Gemüse zu Pommes.", //German
         //"fr": "", //French
-        //"hu": "", //Hungarian
+        "hu": "Virágszirmok, és levelek kiszárítására a teakészítéshez, valamint zöldségek kiszárítására a chipskészítéshez használatos.", //Hungarian
         //"it": "", //Italian
         "ja": "草花を乾燥させてお茶にしたり、野菜チップスを作るのに使われる。", //Japanese
         "pt": "É usado para secar folhas e flores para fazer chá e seca legumes para fazer frituras.", //Portuguese
