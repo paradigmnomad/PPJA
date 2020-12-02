@@ -44,7 +44,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Pizza Diavolo",
         "ko": "디아볼로 피자",
         "de": "Pizza Diavolo",
         "fr": "Pizza Diavolo",
@@ -58,7 +58,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Pizza con chorizo picante y pimiento rojo",
         "ko": "매운 소시지와 고추가 들어간 피자.",
         "de": "Pizza mit scharfer Salami und Chili",
         "fr": "Pizza avec de la saucisse épicée et du piment rouge.",

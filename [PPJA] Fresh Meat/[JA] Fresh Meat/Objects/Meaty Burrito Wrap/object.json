@@ -33,7 +33,7 @@
 
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Burrito con carne",
         "ko": "고기듬뿍 부리또 말이",
         // "de": "",
         "fr": "Burrito wrap plein de viande",
@@ -47,7 +47,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "¡Tan jugoso, tan tierno! Una experiencia completamente diferente a los burritos de ternera normales.",
         "ko": "육즙이 넘치고 너무 부드러워! 일반 소고기 부리또와는 차원이 달라.",
         // "de": "",
         "fr": "Si juteux, si tendre ! Une expérience complétement différente des burritos au bœuf classiques.",

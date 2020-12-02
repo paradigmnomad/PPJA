@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Piel de jabalí",
         "ko": "멧돼지 가죽",
         //"de": "",
         "fr": "Cuir de sanglier",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una piel de jabalí que ha sido curtida.",
         "ko": "야생 멧돼지의 가죽.",
         //"de": "",
         "fr": "La peau d'un sanglier sauvage qui a été tannée.",

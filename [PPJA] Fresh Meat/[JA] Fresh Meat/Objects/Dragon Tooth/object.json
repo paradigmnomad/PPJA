@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Diente de dragón",
         "ko": "드래곤 이빨",
         //"de": "",
         "fr": "Dent de dragon",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un diente de un dragón. Útil para obtener armas forjadas con la magia de los dragones.",
         "ko": "용의 치아.",
         //"de": "",
         "fr": "Une dent de dragon. Utile pour acquérir des armes forgées avec la magie des dragons.",

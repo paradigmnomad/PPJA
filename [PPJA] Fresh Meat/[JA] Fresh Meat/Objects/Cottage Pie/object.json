@@ -31,7 +31,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Pastel de cabaña",
         "ko": "코티지 파이",
         // "de": "",
         "fr": "Cottage pie",
@@ -45,7 +45,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Pastel caliente relleno de carne y verduras, como solía hacerlo papá.",
         "ko": "아빠가 만들었던 것처럼 고기와 야채가 듬뿍 들어간 뜨거운 파이.",
         // "de": "",
         "fr": "Aussi appelée Shepherd's pie, tourte chaude à la viande et aux légumes, comme papa avait l'habitude de préparer.",

@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de bestia",
         "ko": "야생짐승 고기",
         // "de": "",
         "fr": "Viande de bête",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un trozo de carne de una bestia salvaje.",
         "ko": "야생짐승의 고기.",
         // "de": "",
         "fr": "Une pièce de viande d'une bête sauvage.",

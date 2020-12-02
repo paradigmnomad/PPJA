@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "ADN de bicho",
         "ko": "크리터 DNA",
         // "de": "",
         "fr": "ADN de bestiole",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un poco de ADN de bicho, procedente de escanear distintas variadades de bichos encontrados por el mundo usando el simtetizador de ADN.",
         "ko": "다양한 크리터에게서 추출한 DNA.",
         // "de": "",
         "fr": "De l'ADN de bestiole isolé en scannant des bestioles diverses et variées trouvées dans la carte du monde avec un synthétiseur d'ADN.",

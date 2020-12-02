@@ -12,7 +12,7 @@
     },
     "Recipe": null,
 	"NameLocalization": { 
-		// "es": "",
+		"es": "Cuerno del ciervo",
 		"ko": "녹용",
         //"de": "",
         "fr": "Ramure de cerf",
@@ -26,7 +26,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un cuerno de ciervo singular.",
         "ko": "사슴의 뿔.",
         //"de": "",
         "fr": "Une ramure de cerf singulière.",

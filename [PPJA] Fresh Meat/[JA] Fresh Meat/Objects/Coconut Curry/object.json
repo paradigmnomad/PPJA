@@ -32,7 +32,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Curry de coco",
         "ko": "코코넛 카레",
         // "de": "",
         "fr": "Noix de coco au curry",
@@ -46,7 +46,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Curry hervido a fuego lento con leche de coco fresca y carne de reptil tierna.",
         "ko": "신선한 코코넛 밀크와 부드러운 파충류 고기를 넣고 끓인 카레.",
         // "de": "",
         "fr": "Viande tendre de reptile mijotée dans du lait de noix de coco et du curry.",

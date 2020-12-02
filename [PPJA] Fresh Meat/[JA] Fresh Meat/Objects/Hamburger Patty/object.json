@@ -31,7 +31,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Filete de carne picada",
         "ko": "햄버거 패티",
         // "de": "",
         "fr": "Steak haché",
@@ -45,7 +45,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un filete de carme picada tradicional.",
         "ko": "전통적인 소고기 햄버거 패티.",
         // "de": "",
         "fr": "Un steak haché de bœuf traditionnel.",

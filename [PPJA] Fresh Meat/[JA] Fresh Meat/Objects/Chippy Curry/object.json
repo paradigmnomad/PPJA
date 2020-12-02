@@ -29,7 +29,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Fritos al curry",
         "ko": "칩 앤 커리",
         // "de": "",
         "fr": "Frites au curry",
@@ -43,7 +43,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "¿Quién hubiera dicho que las ranas estaban tan buenas en curry?",
         "ko": "개구리가 카레와 잘 어울린다는 걸 누가 알아냈을까요?",
         // "de": "",
         "fr": "Qui aurait cru que les grenouilles sont si bonnes dans du curry ?",

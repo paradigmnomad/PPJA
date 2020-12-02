@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de cerdo cocinada",
         "ko": "조리된 돼지고기",
         // "de": "",
         "fr": "Porc cuit",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un corte graso de cerdo. Lleva horas cocinandose. Ahora ya está listo para usarse en una receta.",
         "ko": "두툼한 돼지고기. 한시간동안 구웠습니다. 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Un morceau de porc gras. Ça cuit depuis des heures. Il est à présent prêt à être utilisé dans une recette.",

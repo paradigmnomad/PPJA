@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "ADN de cerdo",
         "ko": "돼지 DNA",
         // "de": "",
         "fr": "ADN de cochon",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un poco de ADN de cerdo extraído de una trufa. No estás muy seguro de cómo funcionó, pero lo hizo.",
         "ko": "송로버섯에서 추출한 돼지 DNA. 어떤 원리로 작동했는지는 잘 모르겠지만 어쨌든 효과가 있었다.",
         // "de": "",
         "fr": "De l'ADN de cochon extrait d'une truffe. Vous n'êtes pas certain de la manière dont ça a fonctionné mais ça a fonctionné.",

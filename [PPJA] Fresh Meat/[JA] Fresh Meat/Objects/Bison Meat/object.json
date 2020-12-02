@@ -14,7 +14,7 @@
 
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carnce de bisonte",
         "ko": "들소고기",
         // "de": "",
         "fr": "Viande de bison",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un corte de carne de búfalo.",
         "ko": "버팔로의 고기.",
         // "de": "",
         "fr": "Une pièce de viande de bison.",

@@ -34,7 +34,7 @@
     "DisableWithMod": "Zosa.eatums",
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Masa",
         "ko": "반죽",
         // "de": "",
         "fr": "Pâte crue",
@@ -48,7 +48,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "El primer paso de un bonito pastel.",
         "ko": "아름다운 페이스트리를 만드는 첫걸음.",
         // "de": "",
         "fr": "La première étape d'une belle pâte.",

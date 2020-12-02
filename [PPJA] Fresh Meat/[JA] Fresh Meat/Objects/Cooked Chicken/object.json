@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de pollo cocinada",
         "ko": "조리된 닭고기",
         // "de": "",
         "fr": "Poulet cuit",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un pollo asado entero, listo para ser utilizado en recetas.",
         "ko": "통째로 구운 닭고기. 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Un poulet entier rôti, prêt à être utilisé dans des recettes.",

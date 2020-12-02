@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Piel de reptil",
         "ko": "파충류 가죽",
         //"de": "",
         "fr": "Cuir de reptile",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una piel de reptil que ha sido curtida.",
         "ko": "파충류의 가죽.",
         //"de": "",
         "fr": "Une peau de reptile qui a été tannée.",

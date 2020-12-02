@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "ADN de mariposa",
         "ko": "나비 DNA",
         // "de": "",
         "fr": "ADN de papillon",
@@ -28,9 +28,9 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "",
         "ko": "나비에게서 추출한 DNA.",
-        // "de": "",
+        // "de": "Un poco de ADN de mariposa escaneado con el sintetizador de ADN.",
         "fr": "De l'ADN de papillon isolé en scannant des papillons avec le synthétiseur d'ADN.",
         "hu": "Egy lepke DNS-e, amit a DNS szintetizátorral nyertek.",
         // "it": "",

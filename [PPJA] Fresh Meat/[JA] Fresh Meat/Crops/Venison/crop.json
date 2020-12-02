@@ -21,7 +21,7 @@
 
     "SeedNameLocalization":
     {
-        // "es": "",
+        "es": "Semillas de venado",
         "ko": "사슴고기 씨앗",
         // "de": "",
         "fr": "Graines de viande de cerf",
@@ -35,7 +35,7 @@
     },
     "SeedDescriptionLocalization":
     {
-       // "es": "",
+        "es": "Plántalas en primavera o verano. Tardan 10 días en madurar.",
         "ko": "봄 또는 여름 작물. 성장하려면 10일이 소요됩니다.",
         // "de": "",
         "fr": "À planter au printemps ou en été. Prend 10 jours pour arriver à maturité.",

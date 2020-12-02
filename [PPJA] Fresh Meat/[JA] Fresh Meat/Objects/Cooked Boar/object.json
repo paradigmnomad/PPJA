@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de jabalí cocinada",
         "ko": "구운 멧돼지고기",
         // "de": "",
         "fr": "Sanglier cuit",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una rodaja de jabalí cocinada, lista para usarse en recetas.",
         "ko": "멧돼지의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Une tranche de sanglier, déjà cuite et prête à être utilisée dans des recettes.",

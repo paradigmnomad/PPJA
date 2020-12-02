@@ -36,7 +36,7 @@
     },
     "NameLocalization":
     {
-        "es": "Quesoburguesa",
+        "es": "Hamburguesa con queso",
         "ko": "치즈버거",
         "de": "Cheeseburger",
         "fr": "Hamburger au fromage",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "Una hamburguesa con queso.",
+        "es": "Una hamburguesa, pero con queso.",
         "ko": "치즈가 들어있는 햄버거.",
         "de": "Ein Hamburger, mit Käse.",
         "fr": "Un hamburger, mais avec du fromage.",

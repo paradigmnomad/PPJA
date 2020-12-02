@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "ADN de pollo",
         "ko": "닭 DNA",
         // "de": "",
         "fr": "ADN de poulet",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un poco de ADN de pollo, extraído de un huevo.",
         "ko": "달걀에서 추출한 닭 DNA.",
         // "de": "",
         "fr": "De l'ADN de poulet, extrait d'un œuf.",

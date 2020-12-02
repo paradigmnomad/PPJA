@@ -40,7 +40,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Tostada Hawaii",
         "ko": "하와이 토스트",
         "de": "Toast Hawaii",
         "fr": "Toast Hawaï",
@@ -54,7 +54,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Tostada con queso y una rodaja de piña.",
         "ko": "치즈와 파인애플 조각으로 만든 토스트.",
         "de": "Toast belegt mit Schinken und Ananas, überbacken mit Käse",
         "fr": "Pain grillé avec du fromage et une tranche d'ananas.",

@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne cocinada de pavo",
         "ko": "구운 칠면조",
         // "de": "",
         "fr": "Dinde cuite",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un pavo entero asado, ya cocinado y listo para ser utilizado en recetas.",
         "ko": "통째로 구운 칠면조. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Une dinde entière rôtie, déjà cuite et prête à être utilisée dans des recettes.",

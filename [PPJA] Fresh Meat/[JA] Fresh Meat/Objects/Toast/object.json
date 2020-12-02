@@ -27,7 +27,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Tostada",
         "ko": "토스트",
         "de": "Toast",
         "fr": "Toast",
@@ -41,7 +41,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una rebanada de pan tostada normal.",
         "ko": "토스트 한 조각.",
         "de": "Eine ordinäre Scheibe Toast",
         "fr": "Une tranche de pain grillé ordinaire.",

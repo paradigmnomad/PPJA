@@ -33,7 +33,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Espagueti con albóndigas",
         "ko": "미트볼 스파게티",
         // "de": "",
         "fr": "Spaghetti aux boulettes de viande",
@@ -47,7 +47,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un clásico.",
         "ko": "고전적인 음식.",
         // "de": "",
         "fr": "Un classique. Qui a dit romantique ?",

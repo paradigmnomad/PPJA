@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "ADN de luciérnaga",
         "ko": "반딧불 DNA",
         // "de": "",
         "fr": "ADN de luciole",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un poco de ADN de luciérnagas, procedente de escanear luciérnagas con el sintetizador de ADN.",
         "ko": "반딧불에서 추출한 DNA.",
         // "de": "",
         "fr": "De l'ADN de luciole isolé en scannant des lucioles avec un synthétiseur d'ADN.",

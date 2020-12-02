@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "ADN de rana",
         "ko": "개구리 DNA",
         // "de": "",
         "fr": "ADN de grenouille",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un poco de ADN de rana, procedente de escanear ranas con el sintetizador de ADN.",
         "ko": "개구리에게서 추출한 DNA.",
         // "de": "",
         "fr": "De l'ADN de grenouille isolé en scannant des grenouilles avec un synthétiseur d'ADN.",

@@ -27,7 +27,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Empanada de bestia y cebolla",
         "ko": "야생고기 양파 핸드파이",
         // "de": "",
         "fr": "Tourte à la bête & Oignons",
@@ -41,7 +41,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una empanada crujiente rellena de deliciosa carne picada de bestia.",
         "ko": "다진 야생짐승 고기를 속에 채운 바삭한 파이.",
         // "de": "",
         "fr": "Une pâte croustillante garnie d'une délicieuse viande de bête hâchée.",

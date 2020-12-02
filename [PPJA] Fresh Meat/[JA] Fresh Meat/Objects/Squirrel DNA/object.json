@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "ADN de ardilla",
         "ko": "다람쥐 DNA",
         // "de": "",
         "fr": "ADN d'écureuil",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "un poco de ADN de ardilla, procedente de escanear ardillas con el sintetizador de ADN.",
         "ko": "다람쥐에게서 추출한 다람쥐 DNA.",
         // "de": "",
         "fr": "De l'ADN d'écureuil isolé en scannant des écureuils avec un synthétiseur d'ADN.",

@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "ADN de cabra",
         "ko": "염소 DNA",
         // "de": "",
         "fr": "ADN de chèvre",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un poco de ADN de cabra extraído de leche.",
         "ko": "염소젖에서 추출한 염소 DNA.",
         // "de": "",
         "fr": "De l'ADN de chèvre extrait du lait.",

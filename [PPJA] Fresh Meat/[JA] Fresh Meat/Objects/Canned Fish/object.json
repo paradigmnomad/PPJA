@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Conserva de pescado",
         "ko": "생선 통조림",
         // "de": "",
         "fr": "Conserve de poisson",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una lata de pescado fresco en conserva.",
         "ko": "신선한 물고기 통조림입니다.",
         // "de": "",
         "fr": "Une boîte de conserve avec du poisson frais.",

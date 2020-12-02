@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Atún en conserva",
         "ko": "참치 통조림",
         // "de": "",
         "fr": "Conserve de thon",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Sería genial usarlo en un sandwich de atún con queso. Mmmm, sandwich de atún con queso.",
         "ko": "음, 참치가 살살 녹습니다.",
         // "de": "",
         "fr": "Ce serait génial de s'en servir dans un sandwich au thon. Mmh, un sandwich au thon...",

@@ -31,7 +31,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Tonkatsu",
         "ko": "돈가쓰",
         // "de": "",
         "fr": "Tonkatsu",
@@ -45,7 +45,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Cerdo salvaje empanado y frito con un doradp perfecto..",
         "ko": "멧돼지 고기에 빵가루를 입혀 황금빛으로 튀겨냈다.",
         // "de": "",
         "fr": "Porc sauvage pané et frit jusqu'à la perfection dorée.",

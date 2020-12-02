@@ -37,7 +37,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Lula Kebab",
         "ko": "룰라 케밥",
         // "de": "",
         "fr": "Lula kebab",
@@ -51,7 +51,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una brocheta de verduras y carne a la parrilla.",
         "ko": "야채와 고기를 꼬치에 끼워 구워냈다.",
         // "de": "",
         "fr": "Une brochette de viande et de légumes grillés.",

@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de cabra cocinada",
         "ko": "조리된 염소고기",
         // "de": "",
         "fr": "Viande de chèvre cuite",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un corte magro de carne de cabra ya cocinada y lista para usarse en una receta.",
         "ko": "이미 조리되어서 요리에 쓰일 준비가 된 살코기.",
         // "de": "",
         "fr": "Une tranche fine de chèvre déjà cuite et prête à être utilisée dans une recette.",

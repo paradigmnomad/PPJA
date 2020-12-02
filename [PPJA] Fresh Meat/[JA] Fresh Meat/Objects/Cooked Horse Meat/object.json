@@ -31,7 +31,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de caballo cocinada",
         "ko": "구운 말고기",
         //"de": "",
         "fr": "Viande de cheval cuite",
@@ -45,7 +45,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Carne de caballo, ya cocinada y lista para ser utilizada en recetas.",
         "ko": "말의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         //"de": "",
         "fr": "Viande de cheval, déjà cuite et prête à être utilisée dans des recettes.",

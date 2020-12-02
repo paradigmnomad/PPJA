@@ -11,7 +11,7 @@
     "PurchaseRequirements": null,    
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Condimentos",
         "ko": "시즈닝",
         // "de": "",
         "fr": "Assaisonnements",
@@ -25,7 +25,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una colección de especias para preparar un delicioso aderezo de carne.",
         "ko": "고기에 문질러 맛과 향을 내는 향신료 모음입니다.",
         // "de": "",
         "fr": "Une collection d'épices pour préparer de la délicieuse viande frictionnée.",

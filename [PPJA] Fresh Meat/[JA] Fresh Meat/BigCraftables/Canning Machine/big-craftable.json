@@ -20,7 +20,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Enlatadora",
         "ko": "통조림 기계",
         // "de": "",
         "fr": "Machine de mise en conserve",
@@ -34,7 +34,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Se utiliza para enlatar principalmente mariscos.",
         "ko": "주로 해산물 통조림을 만듭니다.",
         // "de": "",
         "fr": "Utilisée pour mettre en conserve majoritairement les fruits de mer.",

@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne cocinada de reptil",
         "ko": "구운 파충류고기",
         // "de": "",
         "fr": "Viande de reptile cuite",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Carne de reptil, ya cocinada y lista para ser utilizada en recetas. Sabe a pollo.",
         "ko": "파충류 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Viande de reptile, déjà cuite et prête à être utilisée dans des recettes. A le goût du poulet.",

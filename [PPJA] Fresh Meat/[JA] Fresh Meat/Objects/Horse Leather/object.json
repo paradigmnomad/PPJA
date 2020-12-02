@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Piel de caballo",
         "ko": "말가죽",
         //"de": "",
         "fr": "Cuir de cheval",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una piel de caballo que ha sido curtida.",
         "ko": "말의 가죽.",
         //"de": "",
         "fr": "Une peau de cheval qui a été tannée.",

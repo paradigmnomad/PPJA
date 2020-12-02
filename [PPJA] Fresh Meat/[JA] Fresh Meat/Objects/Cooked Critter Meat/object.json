@@ -31,7 +31,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de bicho cocinada",
         "ko": "구운 크리쳐 고기",
         //"de": "",
         "fr": "Viande de bestiole cuite",
@@ -45,7 +45,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Trozos de carne de bicho cocinados, ya cocidos y listos para ser utilizados en recetas.",
         "ko": "크리쳐의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         //"de": "",
         "fr": "Bouts de viande de bestiole, déjà cuits et prêts à être utilisés dans des recettes.",

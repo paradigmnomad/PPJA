@@ -9,7 +9,7 @@
 
     "SaplingNameLocalization":
     {
-        "es": "Brote de Jerky",
+        "es": "Brote de carne seca",
         "ko": "육포 묘목",
         "de": "Jerky-Setzling (Sapling)",
         "fr": "Jeune arbre à viande séchée",
@@ -23,7 +23,7 @@
     },
     "SaplingDescriptionLocalization":
     {
-        "es": "Toma 28 días para producir un árbol de alcanfor maduro. Listo para cosechar en el verano. Solo crece si las 8 casillas que las rodean están vacías.",
+        "es": "Tarda 28 días para producir un árbol de carne seca maduro. Produce carne en verano. Solo crece si las 8 casillas que lo rodean están vacías.",
         "ko": "28일후에 성목이 됩니다. 여름에 고기열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
         "de": "Wächst in 28 Tagen zu einem reifen Jerkybaum heran. Trägt im Sommer Fleisch. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
         "fr": "Prend 28 jours pour produire un arbre à viande séchée adulte. Produit de la viande en été. Ne grandit que si les 8 carreaux environnantes sont vides.",

@@ -28,7 +28,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Pavo asado con risotto",
         "ko": "칠면조 리조또",
         // "de": "",
         "fr": "Dinde au four avec risotto",
@@ -42,7 +42,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Rebanadas de pavo tiernas y jugosas sobre risotto bien caliente.",
         "ko": "뜨거운 리조또와 부드럽고 맛있는 칠면조 고기의 조화.",
         // "de": "",
         "fr": "Tranches de dinde juteuse, tendre sur un risotto brûlant.",

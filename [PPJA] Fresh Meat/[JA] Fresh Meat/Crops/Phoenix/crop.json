@@ -26,7 +26,7 @@
     ],
     "SeedNameLocalization":
     {
-        // "es": "",
+        "es": "Semillas de ave fénix",
         "ko": "피닉스 씨앗",
         // "de": "",
         "fr": "Graines de viande de phœnix",
@@ -40,7 +40,7 @@
     },
     "SeedDescriptionLocalization":
     {
-       // "es": "",
+        "es": "Plántalas en verano u otoño. Tardan 14 días en madurar.",
         "ko": "봄 또는 여름 작물. 성장하려면 14일이 소요됩니다.",
         // "de": "",
         "fr": "À planter en été ou en automne. Prend 14 jours pour arriver à maturité.",

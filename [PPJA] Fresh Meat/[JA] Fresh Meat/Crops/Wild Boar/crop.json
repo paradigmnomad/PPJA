@@ -20,7 +20,7 @@
     "SeedPurchasePrice": 185,
     "SeedNameLocalization":
     {
-        // "es": "",
+        "es": "Semillas de jabalí",
         "ko": "야생 멧돼지 씨앗",
         // "de": "",
         "fr": "Graines de viande de sanglier",
@@ -34,7 +34,7 @@
     },
     "SeedDescriptionLocalization":
     {
-       // "es": "",
+        "es": "Plántalas en primavera o verano. Tardan 13 días en madurar.",
         "ko": "봄 또는 여름 작물. 성장하려면 8일이 소요됩니다.",
         // "de": "",
         "fr": "À planter au printemps ou en été. Prend 13 jours pour arriver à maturité.",

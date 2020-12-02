@@ -38,7 +38,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Galletas y salsa",
         "ko": "비스킷과 그레이비",
         // "de": "",
         "fr": "Pain brioché et sauce de viande",
@@ -52,7 +52,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un desayuno clásico con galletas caseras.",
         "ko": "수제 비스킷이 포함 된 클래식 한 아침 식사.",
         // "de": "",
         "fr": "Un classique du petit déjeuner avec du pain brioché fait maison.",

@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de bisonte cocinada",
         "ko": "구운 들소고기",
         // "de": "",
         "fr": "Viande de bison cuite",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Carne de búfalo, ya cocinada y lista para ser utilizada en recetas.",
         "ko": "버팔로의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Viande de bison, déjà cuite et prête à être utilisée dans des recettes.",

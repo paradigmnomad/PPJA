@@ -12,7 +12,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de nube",
         "ko": "구름 고기",
         // "de": "",
         "fr": "Viande de nuage",
@@ -26,7 +26,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Sabe a... nada. Se evapora al cocinarla.",
         "ko": "맛이 아무것도... 조리하면 증발합니다.",
         // "de": "",
         "fr": "Ça a le goût... de rien. Ça s'évaporera si cuisiné.",

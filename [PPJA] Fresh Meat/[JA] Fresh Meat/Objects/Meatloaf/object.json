@@ -29,7 +29,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Pastel de carne",
         "ko": "미트로프",
         // "de": "",
         "fr": "Pain de viande",
@@ -43,7 +43,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "No soporto las sobras de pastel de carne.",
         "ko": "미트로프를 남긴다는 건 있을 수 없는 일이야.",
         // "de": "",
         "fr": "Je ne peux pas supporter les restes de pain de viande.",

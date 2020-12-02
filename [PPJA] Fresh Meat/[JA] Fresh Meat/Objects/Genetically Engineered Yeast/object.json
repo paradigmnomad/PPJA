@@ -13,7 +13,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Levadura modificada genéticamente",
         "ko": "유전공학 효모",
         // "de": "",
         "fr": "Levure génétiquement modifiée",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-       // "es": "",
+        "es": "Se utiliza para elaborar carne de origen vegetal. Fusionada con ADN animal.",
         "ko": "식물성 고기를 만드는 데 사용된다. 동물 DNA와 융합시킨다.",
         // "de": "",
         "fr": "Utilisée pour faire pousser de la viande sur des végétaux. Fusionne avec l'ADN animal.",

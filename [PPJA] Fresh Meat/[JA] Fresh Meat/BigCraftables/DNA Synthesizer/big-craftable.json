@@ -24,7 +24,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Sintetizador de ADN",
         "ko": "DNA 합성기",
         // "de": "",
         "fr": "Synthétiseur d'ADN",
@@ -38,7 +38,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Es la máquina con más alta tecnología de la granja. Úsalo para crear ADN animal a partir de productos.",
         "ko": "생산품에서 동물 DNA를 추출하는 최첨단 기계입니다.",
         // "de": "",
         "fr": "C'est la machine la plus sophistiquée dans la ferme. À utiliser pour créer de l'ADN animal à partir de produits.",

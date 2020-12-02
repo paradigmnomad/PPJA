@@ -20,7 +20,7 @@
     "SeedPurchasePrice": 100,
     "SeedNameLocalization":
     {
-        "es": "Semillas de... ¡¿pollo?!",
+        "es": "Semillas de pollo",
         "ko": "닭고기 덩굴 씨앗",
         "de": "Hühnerfleisch-Saat",
         "fr": "Graines de viande de poulet",
@@ -34,7 +34,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        "es": "Plantalas en primavera o verano. Toma 5 dias para madurar.",
+        "es": "Plantalas en primavera o verano. Tardan 8 dias en madurar.",
         "ko": "봄 또는 여름 작물. 성장하려면 8일이 소요됩니다.",
         "de": "Pflanzen sie im Frühling oder Sommer. Wächst in 8 Tagen heran.",
         "fr": "À planter au printemps ou en été. Prend 8 jours pour arriver à maturité.",

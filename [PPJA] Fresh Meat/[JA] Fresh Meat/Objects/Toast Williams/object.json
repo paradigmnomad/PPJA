@@ -39,7 +39,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Tostada Williams",
         "ko": "윌리엄스 토스트",
         "de": "Toast Williams",
         "fr": "Toast Williams",
@@ -53,7 +53,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una tostada Hawaii pero con una pera en lugar de piña.",
         "ko": "하와이 토스트에 파인애플 대신 배를 사용합니다.",
         "de": "Toast Hawaii mit Birne anstatt Ananas",
         "fr": "Toast Hawaï mais avec une poire à la place de l'ananas.",

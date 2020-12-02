@@ -30,7 +30,7 @@
     "PurchaseRequirements": [ "f Wizard 1500"],
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne cocinada de dragón",
         "ko": "구운 드래곤고기",
         // "de": "",
         "fr": "Viande de dragon cuite",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un filete de dragón verdoso, ya cocinado y listo para ser utilizado en recetas.",
         "ko": "녹색의 드래곤 스테이크. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Un steak de dragon verdâtre, déjà cuit et prêt à être utilisé dans des recettes.",

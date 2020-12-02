@@ -20,7 +20,7 @@
     "SeedPurchasePrice": 150,
     "SeedNameLocalization":
     {
-        // "es": "",
+        "es": "Semillas de reptil",
         "ko": "파충류 씨앗",
         // "de": "",
         "fr": "Graines de viande de reptile",
@@ -34,7 +34,7 @@
     },
     "SeedDescriptionLocalization":
     {
-       // "es": "",
+        "es": "Plántalas en primavera. Tardan 7 días en madurar.",
         "ko": "봄 또는 여름 작물. 성장하려면 7일이 소요됩니다.",
         // "de": "",
         "fr": "À planter au printemps. Prend 7 jours pour arriver à maturité.",

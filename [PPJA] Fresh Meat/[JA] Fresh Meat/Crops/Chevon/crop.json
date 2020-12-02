@@ -20,7 +20,7 @@
     "SeedPurchasePrice": 100,
     "SeedNameLocalization":
     {
-        "es": "Semillas de... ¡¿chevon?!",
+        "es": "Semillas de cabra",
         "ko": "염소고기 덩굴 씨앗",
         "de": "Ziegenfleisch-Saat",
         "fr": "Graines de viande de chèvre",
@@ -34,7 +34,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        "es": "Plantalas en verano u otoño. Toma 8 dias para madurar.",
+        "es": "Plantalas en verano u otoño. Tardan 8 dias en madurar.",
         "ko": "여름 또는 가을 작물. 성장하려면 8일이 소요됩니다.",
         "de": "Pflanzen sie im Sommer oder Herbst. Wächst in 8 Tagen heran.",
         "fr": "À planter en été ou en automne. Prend 8 jours pour arriver à maturité.",

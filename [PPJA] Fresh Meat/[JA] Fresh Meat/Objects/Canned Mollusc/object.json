@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Molusco en conserva",
         "ko": "골뱅이 통조림",
         // "de": "",
         "fr": "Conserve de mollusque",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Moluscos recién recolectados de una cesta de cangrejos, ahora en forma de lata.",
         "ko": "통발에서 수확한 신선한 연체통물으로 만든 통조림.",
         // "de": "",
         "fr": "Mollusque fraîchement récolté d'un casier à crabes ou de la cueillette, dorénavant en boîte.",

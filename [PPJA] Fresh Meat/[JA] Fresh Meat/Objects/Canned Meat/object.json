@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Conserva de carne",
         "ko": "고기 통조림",
         // "de": "",
         "fr": "Conserve de viande",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "¿Alguien de verdad aprecia ésto? Bueno para usar en guisos pero no para asaren la parrila.",
         "ko": "찌개에 넣어도, 구워 먹어도 좋습니다.",
         // "de": "",
         "fr": "Est-ce que quelqu'un apprécie vraiment ça ? Bon pour une utilisation en ragoût mais pas pour les grillades.",

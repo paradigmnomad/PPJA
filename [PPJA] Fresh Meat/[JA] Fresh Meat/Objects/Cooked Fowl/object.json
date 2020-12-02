@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de ave cocinada",
         "ko": "구운 새고기",
         // "de": "",
         "fr": "Volaille cuite",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Carne de ave, ya cocinada y lista para ser utilizada en recetas.",
         "ko": "가금류의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Viande d'une volaille, déjà cuite et prête à être utilisée dans des recettes.",

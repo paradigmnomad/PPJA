@@ -13,7 +13,7 @@
     "Recipe": null,    
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Venado",
         "ko": "사슴고기",
         // "de": "",
         "fr": "Venaison,",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Carne blanda y tierna cortada de un ciervo.",
         "ko": "부드럽고 연한 사슴고기.",
         // "de": "",
         "fr": "Pièce de viande de cerf tendre et douce.",

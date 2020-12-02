@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne cocinada de conejo",
         "ko": "구운 토끼고기",
         // "de": "",
         "fr": "Lapin cuit",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un corte sabroso de carne de conejo, completamente cocinado y listo para ser utilizado en una receta.",
         "ko": "냄새나는 구운 토끼 조각. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Une tranche de lapin à l'odeur de gibier, entièrement cuite et prête à l'emploi dans une recette.",
