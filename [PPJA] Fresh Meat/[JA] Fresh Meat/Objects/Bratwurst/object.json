@@ -42,7 +42,7 @@
 
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Salchicha Bratwurst",
         "ko": "브라트부르스트",
         // "de": "",
         "fr": "Bratwurst",
@@ -56,7 +56,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una salchicha bratwurst casera tradicional.",
         "ko": "전통적인 방식으로 만든 수제 소세지.",
         // "de": "",
         "fr": "Une bratwurst (saucisse) traditionnelle fait maison.",

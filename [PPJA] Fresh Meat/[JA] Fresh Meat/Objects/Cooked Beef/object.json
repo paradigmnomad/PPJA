@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",       
+        "es": "Carne de vaca cocinada",       
         "ko": "조리된 쇠고기",
         // "de": "",
         "fr": "Bœuf cuit",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un trozo grueso y jugoso de carne ya cocinada y lista para ser utilizada en recetas.",
         "ko": "두껍고 육즙이 많은 쇠고기 조각들은 이미 조리되어 요리에 사용될 준비가 돼 있습니다.",
         // "de": "",
         "fr": "Une pièce de bœuf épaisse et juteuse déjà cuite et prête à être utilisée dans des recettes.",

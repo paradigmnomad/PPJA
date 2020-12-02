@@ -20,7 +20,7 @@
     "SeedPurchasePrice": 75,
     "SeedNameLocalization":
     {
-        "es": "Semillas de... ¡¿conejo?!",
+        "es": "Semillas de conejo",
         "ko": "토끼고기 덩굴 씨앗",
         "de": "Hasenfleisch-Saat",
         "fr": "Graines de viande de lapin",
@@ -34,7 +34,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        "es": "Plántalas en primavera y verano. Tardan 6 días en madurar.",
+        "es": "Plántalas en primavera o verano. Tardan 6 días en madurar.",
         "ko": "봄 또는 여름 작물. 성장하려면 6일이 소요됩니다.",
         "de": "Pflanzen sie im Frühling oder Sommer. Wächst in 6 Tagen heran",
         "fr": "À planter au printemps ou en été. Prend 6 jours pour arriver à maturité.",

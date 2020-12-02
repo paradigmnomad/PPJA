@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Piel de ciervo",
         "ko": "사슴 가죽",
         //"de": "",
         "fr": "Cuir de cerf",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una piel de ciervo que ha sido curtida.",
         "ko": "사슴의 가죽.",
         //"de": "",
         "fr": "Une peau de cerf qui a été tannée.",

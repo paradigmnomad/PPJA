@@ -13,7 +13,7 @@
     "Recipe": null,    
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Pavo",
         "ko": "칠면조",
         // "de": "",
         "fr": "Dinde",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un pavo entero, listo para rellenar y asar.",
         "ko": "통 칠면조, 속을 채워서 구울 준비가 되었다.",
         // "de": "",
         "fr": "Une dinde entière, prête à être farcie et rôtie.",

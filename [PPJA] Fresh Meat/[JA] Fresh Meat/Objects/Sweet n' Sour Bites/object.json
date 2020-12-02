@@ -32,7 +32,7 @@
 
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Bocados agridulces",
         "ko": "용고기 탕수육",
         // "de": "",
         "fr": "Bouchées aigres-douces",
@@ -46,7 +46,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Trozos de suculenta carne de dragón salteados con un glaseado agridulce espeso.",
         "ko": "육즙이 풍부한 드래곤 고기에 끈적하고 새콤달콤한 소스를 듬뿍 발랐다.",
         // "de": "",
         "fr": "Morceaux de viande de dragon succulente sautés avec un glaçage épais et aigre-doux.",

@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Crin de caballo",
         "ko": "말총",
         //"de": "",
         "fr": "Crins de cheval",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Pelo de la cola y crin de un caballo.",
         "ko": "말의 꼬리와 갈기 털.",
         //"de": "",
         "fr": "Crins de crinière et de queue de cheval.",

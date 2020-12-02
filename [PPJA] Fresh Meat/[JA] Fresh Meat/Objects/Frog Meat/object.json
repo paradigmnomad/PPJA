@@ -14,7 +14,7 @@
 
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de rana",
         "ko": "개구리고기",
         // "de": "",
         "fr": "Viande de grenouille",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Carne de rana. Me pregunto si sabrá a pollo.",
         "ko": "개구리 고기. 닭고기 맛과 비슷할까?",
         // "de": "",
         "fr": "Viande de grenouille. Je me demande si ça a le goût de poulet ?",

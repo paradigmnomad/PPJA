@@ -36,7 +36,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Steak Tartar",
         "ko": "스테이크 타르타르",
         //"de": "",
         "fr": "Steak tartare",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Plato de carne francés elaborado con carne de caballo cruda fresca.",
         "ko": "신선한 말고기로 만든 프랑스식 육회.",
         //"de": "",
         "fr": "Plat de viande français préparé à partir d'une viande brute fraîche de cheval.",

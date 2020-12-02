@@ -14,7 +14,7 @@
 
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Ave",
         "ko": "새고기",
         // "de": "",
         "fr": "Volaille",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Carne de un ave salvaje.",
         "ko": "야생 새의 고기.",
         // "de": "",
         "fr": "Viande d'un oiseau sauvage.",

@@ -37,7 +37,7 @@
 
     "NameLocalization":
     {
-        "es": "Huevos con tocino",
+        "es": "Huevos con bacon",
         "ko": "베이컨과 계란 프라이",
         "de": "Eier und Speck",
         "fr": "Bacon et œufs",
@@ -51,7 +51,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "Nada como el tocino y los huevos en una fría mañana.",
+        "es": "Nada como el bacon y los huevos en una fría mañana.",
         "ko": "추운 아침, 베이컨과 계란 프라이만 한 게 없습니다.",
         "de": "Es gibt nichts besseres.",
         "fr": "Tout le monde aime le bacon et les œufs par une froide matinée.",

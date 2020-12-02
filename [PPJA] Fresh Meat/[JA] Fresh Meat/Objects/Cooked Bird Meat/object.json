@@ -31,7 +31,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de pájaro cocinada",
         "ko": "구운 새고기",
         //"de": "",
         "fr": "Viande d'oiseau cuite",
@@ -45,7 +45,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un trocito de carne de pájaro, ya cocinada y lista para ser utilizada en recetas.",
         "ko": "작은 덩어리의 새 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         //"de": "",
         "fr": "Un petit morceau de viande d'oiseau, déjà cuit et prêt à être utilisé dans des recettes.",

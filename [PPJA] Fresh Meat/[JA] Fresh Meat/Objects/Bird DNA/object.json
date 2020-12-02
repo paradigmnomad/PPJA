@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "ADN de pájaro",
         "ko": "새 DNA",
         // "de": "",
         "fr": "ADN d'oiseau",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un poco de ADN de pájaro. Se extrae de varios productos.",
         "ko": "다양한 조류 생산품에서 추출한 새 DNA.",
         // "de": "",
         "fr": "De l'ADN d'oiseau. Il est extrait de différents produits.",

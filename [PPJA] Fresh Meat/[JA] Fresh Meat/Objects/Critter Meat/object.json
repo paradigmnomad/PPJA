@@ -15,7 +15,7 @@
     "PurchasePrice": 175,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de bicho",
         "ko": "크리쳐 고기",
         //"de": "",
         "fr": "Viande de bestiole",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Pequeños trozos de carne de un animal pequeño. Un poco soso.",
         "ko": "작은 동물의 작은 고기 덩어리. 맛은 좀 싱겁다.",
         //"de": "",
         "fr": "Petits morceaux de viande d'un petit animal. Un peu fade.",

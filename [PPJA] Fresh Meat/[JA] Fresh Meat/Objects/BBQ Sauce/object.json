@@ -37,7 +37,7 @@
 
     "NameLocalization":
     {
-        "es": "Salsa BBQ",
+        "es": "Salsa barbacoa",
         "ko": "BBQ 소스",
         "de": "BBQ-Sauce",
         "fr": "Sauce barbecue",
@@ -51,7 +51,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "Una salsa que generalmente tiene diferentes sabores y adiciones locales. Añade un toque ahumado a la carne.",
+        "es": "Una salsa que generalmente tiene diferentes sabores y añadidos locales. Agrega un toque ahumado a la carne.",
         "ko": "일반적으로 다양한 향미와 첨가물이 들어간 소스. 고기에 스모크향을 더합니다.",
         "de": "Eine Sauce mit Regionalen Zutaten. Hat einen rauchigen Geschmack.",
         "fr": "Une sauce qui a généralement des saveurs et des ajouts locaux variés. Elle ajoute un goût fumé à la viande.",

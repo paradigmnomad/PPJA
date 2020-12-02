@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de alpaca cocinada",
         "ko": "구운 알파카 고기",
         // "de": "",
         "fr": "Viande d'alpaga cuite",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un filete de alpaca, ya cocinado y listo para ser utilizado en recetas.",
         "ko": "알파카의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Un steak d'alpaga, déjà cuit et prêt à être utilisé dans des recettes.",

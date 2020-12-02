@@ -12,7 +12,7 @@
     },
     "Recipe": null,
 	"NameLocalization": { 
-		// "es": "",
+		"es": "Piel de alpaca",
 		"ko": "알파카 모피",
         //"de": "",
         "fr": "Fourrure d'alpaga",
@@ -26,7 +26,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una piel de alpaca que ha sido curtida.",
         "ko": "알파카의 가죽.",
         //"de": "",
         "fr": "Une peau d'alpaga qui a été tannée.",

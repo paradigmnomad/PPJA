@@ -36,7 +36,7 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Salsa Blanca",
         "ko": "화이트 그레이비 소스",
         "de": "Weiße Soße",
         "fr": "Sauce blanche",
@@ -50,7 +50,7 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Una salsa sabrosa y picante.",
         "ko": "맛좋은 짭짤한 그레이비 소스.",
         "de": "Eine pikante, pfeffrige Soße.",
         "fr": "Une sauce savoureuse et poivrée.",

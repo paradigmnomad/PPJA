@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Piel de dragón",
         "ko": "드래곤 가죽",
         //"de": "",
         "fr": "Cuir de dragon",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una piel de dragón que ha sido curtida.",
         "ko": "용의 가죽.",
         //"de": "",
         "fr": "Une peau de dragon qui a été tannée.",

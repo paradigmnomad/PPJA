@@ -28,7 +28,7 @@
 
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Ave asada",
         "ko": "구운 새고기",
         // "de": "",
         "fr": "Volaille rôtie",
@@ -42,7 +42,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Aves de caza marinadas asadas al horno y acompañadas de arroz y repollo.",
         "ko": "양념하여 오븐에 구운 새고기에 밥과 양배추 샐러드를 곁들였다.",
         // "de": "",
         "fr": "Marinade de gibier de volaille rôti au four et servi avec du riz et du chou cru.",

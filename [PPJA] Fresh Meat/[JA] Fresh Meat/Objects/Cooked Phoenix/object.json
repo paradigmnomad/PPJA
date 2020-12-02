@@ -30,7 +30,7 @@
     "PurchaseRequirements": [ "f Wizard 1500"],
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de ave fénix cocinada",
         "ko": "구운 피닉스",
         // "de": "",
         "fr": "Phœnix cuit",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Carne extremadamente caliente de un ave fénix, ya cocinada y lista para ser utilizada en recetas.",
         "ko": "불타는 것처럼 뜨거운 피닉스고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Viande de phœnix d'une chaleur torride, déjà cuite et prête à être utilisée dans des recettes.",

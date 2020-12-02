@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "ADN de vaca",
         "ko": "소 DNA",
         // "de": "",
         "fr": "ADN de vache",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un poco de ADN de vaca, extraído de la leche",
         "ko": "우유에서 추출한 소의 DNA.",
         // "de": "",
         "fr": "De l'ADN de vache extrait du lait.",

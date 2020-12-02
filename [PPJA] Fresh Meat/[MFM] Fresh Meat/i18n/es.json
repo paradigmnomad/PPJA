@@ -1,0 +1,10 @@
+{
+	// Text
+"grilledskewer.text": "@,^Aquí tienes una receta de mi salón. ¡Sólo la comparto con buenos amigos!^-Gus",
+"spaghettiandmeatballs.text": "@,^Te envié la receta de mis famosos espagueti pero, ¿los has probado con albóndigas? A Jas y Shane les encanta cuando llevo una olla llena a casa de Marnie. ¡Pruébalos!^-Lewis",
+
+// Title
+"grilledskewer.title": "Receta de brocheta a la parrilla",
+"spaghettiandmeatballs.title": "Receta de espagueti con albóndigas"
+}
+

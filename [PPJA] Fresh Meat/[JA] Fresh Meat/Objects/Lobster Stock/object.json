@@ -46,7 +46,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Caldo de langosta",
         "ko": "랍스터 육수",
         // "de": "",
         "fr": "Bouillon de homard",
@@ -60,7 +60,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Caldo de langosta guisada que se usa a menudo como base para sopa.",
         "ko": "수프의 기초로 자주 사용되는 랍스터 육수.",
         // "de": "",
          "fr": "Mijoté de homard en bouillon souvent utilisé comme base d'une soupe.",

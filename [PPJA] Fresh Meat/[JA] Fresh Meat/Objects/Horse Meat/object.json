@@ -14,7 +14,7 @@
     "Recipe": null,
     "PurchasePrice": 480,
   "NameLocalization": { 
-		// "es": "",
+		"es": "Carne de caballo",
 		"ko": "말고기",
         //"de": "",
         "fr": "Viande de cheval",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Es un poco molesto de ver ... pero probablemente será una comida decente.",
         "ko": "보기 껄끄러울 수 있지만...아마 맛있는 음식을 만들 수 있을겁니다.",
         //"de": "",
         "fr": "C'est un peu perturbant de voir ça... mais ça fera probablement un repas décent.",

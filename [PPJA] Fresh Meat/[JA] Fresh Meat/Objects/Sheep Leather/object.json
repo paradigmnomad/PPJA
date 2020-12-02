@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Piel de oveja",
         "ko": "양가죽",
         //"de": "",
         "fr": "Cuir de mouton",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una piel de oveja que ha sido curtida.",
         "ko": "양의 가죽.",
         //"de": "",
         "fr": "Une peau de mouton qui a été tannée.",

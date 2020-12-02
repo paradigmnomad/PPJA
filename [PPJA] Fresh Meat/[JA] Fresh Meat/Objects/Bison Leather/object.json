@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Piel de bisonte",
         "ko": "들소가죽",
         //"de": "",
        "fr": "Cuir de bison",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Piel de bisonte que ha sido curtida.",
         "ko": "들소의 가죽.",
         //"de": "",
         "fr": "Une peau de bison qui a été tannée.",

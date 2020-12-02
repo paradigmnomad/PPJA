@@ -31,7 +31,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Empanada de venado",
         "ko": "사슴고기 핸드파이",
         // "de": "",
         "fr": "Tourte de venaison",
@@ -45,7 +45,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una empanada frita rellena de tierna carne de ciervo al ajo y verduras.",
         "ko": "마늘로 양념한 부드러운 사슴고기와 야채를 채워 튀긴 파이.",
         // "de": "",
         "fr": "Un pâté frit farci de viande de cerf douce et aillée avec des légumes.",

@@ -20,7 +20,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Prensa de carne",
         "ko": "고기 압착기",
         // "de": "",
         "fr": "Presse à viande",
@@ -34,7 +34,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una máquina utilizada para prensar el ADN animal en carne.",
         "ko": "동물의 DNA를 추출하여 고기에 주입할 때 사용되는 기계.",
         // "de": "",
         "fr": "Une machine utilisée pour presser de l'ADN animal en viande.",

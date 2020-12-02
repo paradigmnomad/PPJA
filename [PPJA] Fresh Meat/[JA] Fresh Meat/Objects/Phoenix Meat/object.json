@@ -13,7 +13,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de ave fénix",
         "ko": "피닉스 고기",
         // "de": "",
         "fr": "Viande de phœnix",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Está cruda, pero esta carne cortada de un ave fénix está muy caliente.",
         "ko": "날것이지만, 불사조의 일부인 이 고기는 지글지글 끓고 있다.",
         // "de": "",
         "fr": "C'est brut, mais cette tranche de viande de phœnix est crépitante.",

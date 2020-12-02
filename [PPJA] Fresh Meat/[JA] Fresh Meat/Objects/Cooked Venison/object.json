@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne cocinada de venado",
         "ko": "구운 사슴고기",
         // "de": "",
         "fr": "Venaison cuite",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un trozo de carne de ciervo, ya cocinado y listo para ser utilizado en recetas.",
         "ko": "사슴 고기 한 덩이. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Une pièce de viande d'un cerf, déjà cuite et prête à être utilisée dans des recettes.",

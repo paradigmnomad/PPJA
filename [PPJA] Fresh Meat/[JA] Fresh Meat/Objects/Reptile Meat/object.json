@@ -14,7 +14,7 @@
     
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de reptil",
         "ko": "파충류고기",
         // "de": "",
         "fr": "Viande de reptile",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Carne tierna de un reptil.",
         "ko": "파충류의 부드러운 고기.",
         // "de": "",
         "fr": "Viande tendre de reptile.",

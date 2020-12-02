@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de bestia cocinada",
         "ko": "구운 야생고기.",
         // "de": "",
         "fr": "Viande de bête cuite",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Carne de bestia salvaje, ya cocinada y lista para ser utilizada en recetas.",
         "ko": "야생짐승의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "De la viande d'une bête sauvage, déjà cuite et prête à être utilisée dans des recettes.",

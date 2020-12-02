@@ -47,7 +47,7 @@
     },
     "NameLocalization":
     {
-        "es": "Hamburguesa de tocino",
+        "es": "Hamburguesa con bacon",
         "ko": "베이컨 햄버거",
         "de": "Bacon Hamburger",
         "fr": "Hamburger au bacon",
@@ -61,7 +61,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "La versión clásica de la comida popular... pero con tocino.",
+        "es": "La versión clásica de la popular comida pero con bacon.",
         "ko": "베이컨을 곁들인 인기있는 고전적인 식사.",
         "de": "Ein Hamburger mit Bacon.",
         "fr": "La version classique du hamburger mais avec du bacon.",

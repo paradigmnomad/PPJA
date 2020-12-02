@@ -14,7 +14,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "ADN de oveja",
         "ko": "양 DNA",
         // "de": "",
         "fr": "ADN de mouton",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un poco de ADN de oveja extraído de lana. No estás muy seguro de cómo funcionó, pero lo hizo.",
         "ko": "양털에서 추출한 양 DNA. 어떤 원리로 작동했는지는 잘 모르겠지만 어쨌든 효과가 있었다.",
         // "de": "",
         "fr": "De l'ADN de mouton extrait de la laine. Vous n'êtes pas certain de la manière dont ça a fonctionné mais ça a fonctionné.",

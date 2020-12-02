@@ -15,7 +15,7 @@
     "PurchasePrice": 100,
 	"NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de pájaro",
         "ko": "새고기",
         // "de": "",
         "fr": "Viande d'oiseau",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un trozo muy pequeño de carne de pájaro. ¿Quizás le gustará a un gato?",
         "ko": "매우 작은 새의 고기. 고양이가 좋아하려나?",
         // "de": "",
         "fr": "Un très petit morceau de viande d'oiseau. Peut-être qu'un chat aimera ?",

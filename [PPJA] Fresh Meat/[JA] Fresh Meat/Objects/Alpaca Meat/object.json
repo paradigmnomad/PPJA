@@ -14,7 +14,7 @@
 
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de alpaca",
         "ko": "알파카 고기",
         // "de": "",
         "fr": "Viande d'alpaga",
@@ -28,7 +28,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un corte de carne de una alpaca.",
         "ko": "알파카의 고기.",
         // "de": "",
         "fr": "Une pièce de viande d'un alpaga.",

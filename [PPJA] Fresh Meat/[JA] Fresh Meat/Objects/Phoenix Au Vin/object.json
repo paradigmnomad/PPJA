@@ -34,7 +34,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Ave Fénix al vino",
         "ko": "피닉스 코코뱅",
         // "de": "",
         "fr": "Phœnix au vin",
@@ -48,7 +48,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Ave fénix estofado en vino y maridado con abundante carne de jabalí. Se mantiene caliente sin importar cuánto tiempo esté fuera.",
         "ko": "멧돼지고기와 피닉스고기를 와인에 조리했다. 아무리 멀리 해도 열기가 넘친다.",
         // "de": "",
         "fr": "Phœnix braisé cuit au vin et couplé avec de la viande de sanglier à l'odeur terreuse. Ça restera chaud peu importe le temps passé dehors.",

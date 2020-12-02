@@ -20,7 +20,7 @@
     "SeedPurchasePrice": 120,
     "SeedNameLocalization":
     {
-        // "es": "",
+        "es": "Semillas de bestia",
         "ko": "짐승 씨앗",
         // "de": "",
         "fr": "Graines de viande de bête",
@@ -34,7 +34,7 @@
     },
     "SeedDescriptionLocalization":
     {
-       // "es": "",
+        "es": "Plántalas en primavera o verano. Tardan 14 días en madurar.",
         "ko": "봄 또는 여름 작물. 성장하려면 8일이 소요됩니다.",
         // "de": "",
         "fr": "À planter au printemps ou en été. Prend 14 jours pour arriver à maturité.",

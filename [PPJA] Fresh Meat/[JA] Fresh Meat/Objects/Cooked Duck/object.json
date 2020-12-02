@@ -30,7 +30,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de pato cocinada",
         "ko": "조리된 오리고기",
         // "de": "",
         "fr": "Canard cuit",
@@ -44,7 +44,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una pata de pato, recién sacada del horno y lista para ser utilizada en recetas.",
         "ko": "오리의 다리. 오븐에서 따끈하게 나와 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Un pilon de canard, sorti du four et prêt à être utilisé dans des recettes.",

@@ -31,7 +31,7 @@
     "PurchaseRequirements": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Carne de rana cocinada",
         "ko": "구운 개구리",
         // "de": "",
         "fr": "Grenouille cuite",
@@ -45,7 +45,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Carne de rana, ya cocinada y lista para ser utilizada en recetas.",
         "ko": "개구리 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
         "fr": "Viande de grenouille, déjà cuite et prête à être utilisée dans des recettes.",

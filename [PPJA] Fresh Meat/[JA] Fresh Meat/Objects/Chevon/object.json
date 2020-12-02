@@ -13,7 +13,7 @@
     "Recipe": null,
     "NameLocalization":
     {
-        "es": "Chevon",
+        "es": "Carne de cabra",
         "ko": "염소고기",
         "de": "Schaffleisch",
         "fr": "Viande de chèvre",
@@ -27,7 +27,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "Un corte  de cabra, sin grasa.",
+        "es": "Un corte  magro de cabra.",
         "ko": "염소에게서 얻는 살코기.",
         "de": "Ein Stück vom Schaff.",
         "fr": "Une pièce fine de viande de chèvre.",

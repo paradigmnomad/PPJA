@@ -46,7 +46,7 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Caldo de marisco",
         "ko": "해산물 육수",
         // "de": "",
         "fr": "Bouillon de fruits de mer",
@@ -60,7 +60,7 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Caldo de marisco que se usa a menudo como base para sopa.",
         "ko": "수프의 기초로 자주 사용되는 해산물 육수.",
         // "de": "",
          "fr": "Mijoté de fruits de mer en bouillon souvent utilisé comme base d'une soupe.",
