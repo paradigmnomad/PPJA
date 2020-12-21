@@ -18,8 +18,7 @@
         "ExtraChance": 0.5
     },
     "SeedPurchasePrice": 250,
-	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
-	"SeedPurchaseRequirements": null,
+    "SeedPurchaseFrom": "DONTSELLTHISATNPC",
     "SeedNameLocalization":
     {
         "es": "Semillas de Nuez Antigua",

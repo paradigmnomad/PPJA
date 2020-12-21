@@ -42,8 +42,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 950,
-        "PurchaseRequirements": null,
-    },
+            },
 
     "NameLocalization":
     {

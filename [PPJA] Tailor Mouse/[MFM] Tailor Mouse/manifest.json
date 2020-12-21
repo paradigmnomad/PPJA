@@ -1,10 +1,10 @@
 ﻿{
     "Name": "Tailor Mouse MFM Component",
     "Author": "Project Populate Json Assets",
-    "Version": "2.2.3",
+    "Version": "2.2.4",
     "Description": "Me sell clothes. Okey poke?",
     "UniqueID": "ppja.MFM.tailormouse",
-    "MinimumApiVersion": "3.6.0",
+    "MinimumApiVersion": "3.7.0",
     "Dependencies": [
     {
         "UniqueID": "ppja.tailormouse",

@@ -1,8 +1,7 @@
 {
     // Text
 
-    "bakedsweetpotato.text": "@,^Around this time of year, the cold in the air makes me appreciate the bounty of nature even more. Here's a simple recipe with delicious flavor that needs no elaborate dressing up. I hope you enjoy it as much as I do.^ -Linus",
-    "bananapudding.text": "@,^You're a whole lot younger than I am and it'd be a shame for you to put that fact to waste.^Here's a dessert you can make. It's much better than any of the garbage that some young people like to eat these days.^Anyway, keep this old fashioned recipe alive and you'll be doing yourself a favor.^^ -George",
+    "bakedsweetpotato.text": "@,^Around this time of year, the cold in the air makes me appreciate the bounty of nature even more. Here's a simple recipe with delicious flavor that needs no elaborate dressing up. I hope you enjoy it as much as I do.^ -Linus",    
     "broccoliandcheese.text": "Good Morning, @,^^ I wanted to show my appreciation for your business, but more importantly, for your friendship.^This recipe of mine came from a cookbook called Food on the Plate. It is a wonderful, easy-to-follow recipe for busy people like us. Perhaps you'd like to try it?^^  -Pierre",
     "brownsugar.text": "Dear @,^^ How is your work going as you restore the farm? No doubt, you must feel a bit more connected to nature as opposed to before you arrived in town.^Since you've shown interest in a more hands-on approach to living, here's a recipe for homemade brown sugar. Now you can really say you're cooking from scratch!^^ -Lewis",
     "carrotcake.text": "Dear @,^Nothing is more satisfying than cooking with fresh carrots from your own garden!^This carrot cake is a real crowd pleaser whether you're entertaining guests or just looking for a treat to enjoy for yourself.^Be sure to poke your head in the back and say hello when you go shopping next time!^^ -Caroline",
@@ -27,8 +26,7 @@
 
     // Titles
 
-    "bakedsweetpotato.title": "Baked Sweet Potato Recipe",
-    "bananapudding.title": "Banana Pudding Recipe",
+    "bakedsweetpotato.title": "Baked Sweet Potato Recipe",   
     "broccoliandcheese.title": "Broccoli and Cheese Recipe",
     "brownsugar.title": "Brown Sugar Recipe",
     "carrotcake.title": "Carrot Cake Recipe",

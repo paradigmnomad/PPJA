@@ -44,10 +44,11 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 680,
+        "PurchaseRequirements": ["HasCookingRecipe Ketchup Mustard Bread", "y 4"]
     },
     "NameLocalization":
     {
-        "es": "Hamburguesa con bacon",
+        "es": "Hamburguesa de tocino",
         "ko": "베이컨 햄버거",
         "de": "Bacon Hamburger",
         "fr": "Hamburger au bacon",
@@ -61,7 +62,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "La versión clásica de la popular comida pero con bacon.",
+        "es": "La versión clásica de la comida popular... pero con tocino.",
         "ko": "베이컨을 곁들인 인기있는 고전적인 식사.",
         "de": "Ein Hamburger mit Bacon.",
         "fr": "La version classique du hamburger mais avec du bacon.",

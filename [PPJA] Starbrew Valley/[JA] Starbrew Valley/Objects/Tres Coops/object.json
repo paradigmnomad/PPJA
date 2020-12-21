@@ -23,7 +23,6 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1980,
-    "PurchaseRequirements": null,
 
     "Recipe":
     {
@@ -48,7 +47,6 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 5980,
-        "PurchaseRequirements": null,
     },
 
     "NameLocalization":

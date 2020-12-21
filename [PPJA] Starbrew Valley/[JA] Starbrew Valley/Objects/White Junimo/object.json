@@ -42,7 +42,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 6040,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Coffee-Liqueur", "y 4", ],
     },
 
     "NameLocalization":

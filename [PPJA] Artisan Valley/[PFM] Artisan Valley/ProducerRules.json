@@ -195,14 +195,6 @@
     },
     {
         "ProducerName": "Keg",
-        "InputIdentifier": "Ginger",
-        "InputStack": 1,
-        "MinutesUntilReady": 2360,
-        "OutputIdentifier": "Ginger Ale",
-        "Sounds": ["Ship"],
-    },
-    {
-        "ProducerName": "Keg",
         "InputIdentifier": "Apple Cider",
         "InputStack": 1,
         "MinutesUntilReady": 2360,
@@ -287,9 +279,9 @@
     },
     {
         "ProducerName": "Keg",
-        "InputIdentifier": "406",
+        "InputIdentifier": "245",
         "InputStack": 1,
-        "FuelIdentifier": "245",
+        "FuelIdentifier": "406",
         "FuelStack": 1,
         "MinutesUntilReady": 6000,
         "OutputIdentifier": "Umeshu",
@@ -987,15 +979,7 @@
         "MinutesUntilReady": 60,
         "OutputIdentifier": "Apple Rind",
         "Sounds": ["Ship"],
-    },
-    {
-        "ProducerName": "Grinder",
-        "InputIdentifier": "262",
-        "InputStack": 1,
-        "MinutesUntilReady": 1600,
-        "OutputIdentifier": "Wheat Flour",
-        "Sounds": ["Ship"],
-    },
+    },   
     {
         "ProducerName": "Grinder",
         "InputIdentifier": "270",
@@ -1296,7 +1280,7 @@
     },
     {
         "ProducerName": "Ice Cream Machine",
-        "InputIdentifier": "Mango",
+        "InputIdentifier": "834",
         "InputStack": 1,
         "FuelIdentifier": "-6",
         "FuelStack": 1,
@@ -1316,7 +1300,7 @@
     },
     {
         "ProducerName": "Ice Cream Machine",
-        "InputIdentifier": "Banana",
+        "InputIdentifier": "69",
         "InputStack": 1,
         "FuelIdentifier": "-6",
         "FuelStack": 1,
@@ -1704,6 +1688,7 @@
         "ProducerName": "Smoker",
         "InputIdentifier": "fish_river",
         "InputStack": 1,
+        "ExcludeIdentifiers": ["139"],
         "FuelIdentifier": "388",
         "FuelStack": 1,
         "MinutesUntilReady": 4320,
@@ -1711,6 +1696,19 @@
         "OutputName": "Smoked {inputName}",
         "OutputTranslationKey": "Smoker.Fish",
         "InputPriceBased": true,
+        "OutputPriceIncrement": 0,
+        "OutputPriceMultiplier": 3,
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Smoker",
+        "InputIdentifier": "139",
+        "InputStack": 1,
+        "FuelIdentifier": "388",
+        "FuelStack": 1,
+        "MinutesUntilReady": 4320,
+        "OutputIdentifier": "Smoked Salmon",
+        "InputPriceBased": false,
         "OutputPriceIncrement": 0,
         "OutputPriceMultiplier": 3,
         "Sounds": ["Ship"],
@@ -1972,7 +1970,7 @@
         "AdditionalFuel":
         {
             "635": 1,
-            "Banana": 1
+            "69": 1
         },
         "MinutesUntilReady": 120,
         "OutputIdentifier": "Dragon Fruit Fruit Sorbet",
@@ -1996,7 +1994,7 @@
     },*/
     {
         "ProducerName": "Sorbet Machine",
-        "InputIdentifier": "Mango",
+        "InputIdentifier": "834",
         "InputStack": 1,
         "FuelIdentifier": "245",
         "FuelStack": 1,
@@ -2024,7 +2022,7 @@
     },
     {
         "ProducerName": "Sorbet Machine",
-        "InputIdentifier": "Pineapple",
+        "InputIdentifier": "832",
         "InputStack": 1,
         "FuelIdentifier": "245",
         "FuelStack": 1,

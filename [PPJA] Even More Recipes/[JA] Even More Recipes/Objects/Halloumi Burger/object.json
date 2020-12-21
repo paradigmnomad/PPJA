@@ -31,8 +31,7 @@
         "PurchaseFrom": "Gus",
         "PurchasePrice": 560,
         "PurchaseRequirements": [
-            "r 0.25",
-        ]
+            "HasCookingRecipe Halloumi Bread", "r 0.25", "y 4"]
     },
     "NameLocalization":
     {

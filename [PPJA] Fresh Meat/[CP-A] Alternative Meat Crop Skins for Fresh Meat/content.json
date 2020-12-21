@@ -52,7 +52,7 @@
         },
         "ChickenColor":
         {
-            "AllowValues": "brown, white, blue, void",
+            "AllowValues": "brown, white, blue, void, golden",
             "Default": "brown",
             "Description": "If the chicken variant is set to static or animated, this changes the color of the chicken crop."
         },   
@@ -91,6 +91,12 @@
             "AllowValues": "static, animated, disabled",
             "Default": "disabled",
             "Description": "Changes the mutton crops appearance."
+        },
+        "EnableOstrichVariant":
+        {
+            "AllowValues": "static, animated, disabled",
+            "Default": "disabled",
+            "Description": "Changes the ostrich crops appearance."
         },
         "EnablePhoenixVariant":
         {
@@ -447,7 +453,7 @@
             "When":
             {
                 "EnableChickenVariant": "animated",
-                "ChickenColor": "white, brown, blue, void",
+                "ChickenColor": "white, brown, blue, void, golden",
                 "HasMod": "spacechase0.ContentPatcherAnimations"
             },
         },
@@ -466,7 +472,7 @@
             "When":
             {
                 "EnableChickenVariant": "static",
-                "ChickenColor": "white, brown, blue, void"
+                "ChickenColor": "white, brown, blue, void, golden"
             },
         },
 
@@ -749,6 +755,53 @@
             "When":
             {
                 "EnableMuttonVariant": "static",
+            },
+        },
+
+        // Ostrich
+
+        {
+            "LogName": "Animated Ostrich",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Ostrich}}",
+            "FromFile": "assets/Ostrich/OstrichAnimated.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 0,
+                "Width": 128,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Ostrich}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Ostrich}}",
+                "Width": 128,
+                "Height": 32
+            },
+            "AnimationFrameTime": 45,
+            "AnimationFrameCount": 2,
+            "When":
+            {
+                "EnableOstrichVariant": "animated",
+                "HasMod": "spacechase0.ContentPatcherAnimations"
+            },
+        },
+        {
+            "LogName": "Ostrich",
+            "Action": "EditImage",
+            "Target": "{{spacechase0.JsonAssets/CropSpriteTilesheet:Ostrich}}",
+            "FromFile": "assets/Ostrich/Ostrich.png",
+            "ToArea":
+            {
+                "X": "{{spacechase0.JsonAssets/CropSpriteX:Ostrich}}",
+                "Y": "{{spacechase0.JsonAssets/CropSpriteY:Ostrich}}",
+                "Width": "128",
+                "Height": "32"
+            },
+            "When":
+            {
+                "EnableOstrichVariant": "static",
             },
         },
 

@@ -43,9 +43,8 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 6960,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Chocolate-Liqueur", "y 4", ],
     },
-
     "NameLocalization":
     {
         "es": "Cóctel Alexander",

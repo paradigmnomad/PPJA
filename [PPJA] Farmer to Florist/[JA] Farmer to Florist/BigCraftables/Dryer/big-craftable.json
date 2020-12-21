@@ -6,8 +6,7 @@
     "CanPurchase": false,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 2285,
-    "PurchaseRequirements": null,
-    "ReserveExtraIndexCount": 2,
+        "ReserveExtraIndexCount": 2,
     "Recipe":
     {
         "ResultCount": 1,

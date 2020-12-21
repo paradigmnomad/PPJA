@@ -18,9 +18,8 @@
         "ExtraChance": 0.4
     },
     "CanPurchase": true,
-	"SeedPurchasePrice": 125,
-	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
-	"SeedPurchaseRequirements": null,
+    "SeedPurchasePrice": 125,
+    "SeedPurchaseFrom": "DONTSELLTHISATNPC",
     "SeedNameLocalization":
     {
         "es": "Grano de Cafe Antiguo",

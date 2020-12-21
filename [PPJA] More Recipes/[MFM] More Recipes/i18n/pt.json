@@ -1,8 +1,8 @@
-
+{
+	
 //Text
 
 "bakedsweetpotato.text": "@,^Nessa época do ano, o frio no ar me faz apreciar ainda mais a generosidade da natureza. Aqui está uma receita simples com sabor delicioso que não precisa de um preparo elaborado. Espero que gostem tanto quanto eu.^ -Linus",
-"bananapudding.text": "@,^Você é muito mais jovem do que eu e seria uma pena para você desperdiçar esse fato.^Aqui está uma sobremesa que você pode fazer. É muito melhor do que qualquer lixo que alguns jovens gostam de comer hoje em dia.^De qualquer forma, mantenha viva essa receita à moda antiga e você estará fazendo um favor a mim.^^ -George",
 "broccoliandcheese.text": "Bom dia, @,^^ eu queria mostrar meu apreço pelo seu negócio, mas o mais importante, pela sua amizade.^Essa minha receita veio de um livro de receitas chamado Comida no Prato. É uma receita maravilhosa e fácil de seguir para pessoas ocupadas como nós. Talvez você gostaria de experimentá-lo?^^ -Pierre",
 "brownsugar.text": "Querido @,^^ Como está indo seu trabalho enquanto restaura a fazenda? Sem dúvida, você deve se sentir um pouco mais conectado à natureza  antes de chegar da cidade.^Desde que você demonstrou interesse em uma abordagem mais prática para viver, aqui está uma receita para o açúcar mascavo caseiro. Agora você pode realmente dizer que você está cozinhando do zero!^^ -Lewis",
 "carrotcake.text": "Querido @,^Nada é mais satisfatório do que cozinhar com cenouras frescas do seu próprio jardim!^Este bolo de cenoura é um verdadeiro prazer para a multidão se você está entretendo convidados ou apenas procurando um deleite para se divertir.^Certifique-se de me trazer um pedaço e dizer olá quando você for às compras da próxima vez!^^ -Caroline",
@@ -28,7 +28,6 @@
 //Titles
 
 "bakedsweetpotato.title": "Receita de Batata Doce Assada",
-"bananapudding.title": "Receita de Pudim de Banana",
 "broccoliandcheese.title": "Receita de Brócolis e Queijo",
 "brownsugar.title": "Receita de Açúcar Mascavo",
 "carrotcake.title": "Receita de Bolo de Cenoura",

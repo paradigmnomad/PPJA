@@ -12,7 +12,7 @@
         "ResultCount": 1,
         "Ingredients": [
         {
-            "Object": "Banana",
+            "Object": 69,
             "Count": 1,
         },
         {
@@ -28,7 +28,7 @@
             "Count": 1,
         },
         {
-            "Object": "Pineapple",
+            "Object": 832,
             "Count": 1,
         }],
         "CanPurchase": false,

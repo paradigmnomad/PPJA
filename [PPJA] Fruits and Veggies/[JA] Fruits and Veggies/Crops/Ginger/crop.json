@@ -1,11 +1,10 @@
 {
     "Name": "Ginger",
-    "Product": "Ginger",
+    "Product": 829,
     "SeedName": "Ginger Seeds",
-    "SeedDescription": "Plant these in fall. Takes 7 days to mature.",
+    "SeedDescription": "Plant these in summer. Takes 7 days to mature.",
     "Type": "Vegetable",
-
-    "Seasons": ["fall"],
+    "Seasons": ["summer"],
     "Phases": [1, 2, 2, 2],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
@@ -19,7 +18,10 @@
         "ExtraChance": 0.0,
     },
     "SeedPurchaseFrom": "Sandy",
-    "SeedPurchasePrice": 50,
+    "SeedPurchasePrice": 35,
+    "SeedPurchaseRequirements": [
+        "n willyHours",
+    ],
     "SeedNameLocalization":
     {
         "es": "Semillas de jengibre",
@@ -47,5 +49,5 @@
         "ru": "Сажайте осенью. Вырастает через 7 дней.",
          // "tr": "",
         "zh": "秋天播种。7天成熟。",
-    }
+    },    
 }

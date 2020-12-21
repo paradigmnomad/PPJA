@@ -32,9 +32,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2690,
-        "PurchaseRequirements": [
-            "z winter",
-        ]
+        "PurchaseRequirements": ["HasCookingRecipe Cream-Cheese", "z winter", "y 4"]
     },
     "NameLocalization":
     {

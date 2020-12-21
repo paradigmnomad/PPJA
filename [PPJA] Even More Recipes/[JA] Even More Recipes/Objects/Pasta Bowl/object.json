@@ -1,0 +1,66 @@
+{
+    "Name": "Pasta Bowl",
+    "Description": "An Italian type of food, typically made form unleavened dough and served usually with sauce.",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 475,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Harvey", "Alex", "Marnie", "Sebastian", "Elliott", "Willy", "George", ],
+        "Like": ["Maru", "Sandy", "Jodi", ],
+        "Dislike": ["Penny", "Demetrius"],
+        "Hate": ["Dwarf"]
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Wheat Noodles",
+            "Count": 1,
+        },
+        {
+            "Object": 256,
+            "Count": 2,
+        },
+        {
+            "Object": "Basil",
+            "Count": 1,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1100,
+        "PurchaseRequirements": ["y 4"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

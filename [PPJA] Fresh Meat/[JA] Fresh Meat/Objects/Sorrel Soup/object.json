@@ -1,0 +1,69 @@
+{
+    "Name": "Sorrel Soup",
+    "Description": "A simple soup made from spinach, bok choy, and dandelion.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 875,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Krobus", "Willy"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Haley", "Jas", "Sam", "Vincent"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Spinach",
+            "Count": 1,
+        },
+        {
+            "Object": 22,
+            "Count": 2,
+        },
+        {
+            "Object": "Chicken Stock",
+            "Count": 1,
+        },
+        {
+            "Object": 278,
+            "Count": 1,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 900,
+        "PurchaseRequirements": ["HasCookingRecipe Chicken-Stock", "y 4"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

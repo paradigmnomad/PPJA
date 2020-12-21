@@ -2,7 +2,6 @@
     // Text
 
     "bakedsweetpotato.text": "@,^Dans cette période de l'année, le froid dans l'air me fait davantage apprécier les bontées de la nature. Voici une simple recette avec une saveur délicieuse qui ne nécessite aucune fioriture. J'espère que tu vas l'apprécier autant que moi.^ -Linus",
-    "bananapudding.text": "@,^Tu es bien plus jeune que moi et ce serait une honte pour toi de gaspiller ce simple fait.^Voici un dessert que tu peux préparer. C'est bien meilleur que toutes les cochonneries que les jeunes aiment manger de nos jours.^Bref, maintiens en vie cette vieille recette et tu te feras ainsi une faveur.^^ -George",
     "broccoliandcheese.text": "Bien le bonjour, @,^^ Je voulais te montrer ma gratitude pour ton commerce, mais bien plus important, pour ton amitié.^Cette recette de moi provient d'un livre de recettes appelé « De la nourriture dans l'assiette ». C'est une merveilleuse recette simple à suivre pour les gens occupés comme nous. Peut-être aimerais-tu l'essayer ?^^  -Pierre",
     "brownsugar.text": "Cher @,^^ Comment se passe le travail de restauration de votre ferme ? Pas de doute, vous devez vous sentir davantage connecté à la nature, à l'opposé de l'emploi que vous aviez avant d'arriver ici.^Puisque vous avez montré de l'intérêt dans une approche pratique de la vie, voici une recette de la cassonade. Maitenant vous pourrez vraiment dire que vous cuisinez à partir de rien !^^ -Lewis",
     "carrotcake.text": "Cher @,^Rien n'est plus satisfaisant que de cuisiner avec les carottes de son propre jardin !^Ce gâteau à la carotte fera un malheur, que ce soit pour le divertissement des invités ou simplement pour le déguster soi-même.^Fais en sorte de passer la tête à l'arrière de la boutique et de dire bonjour quand tu viendras faire tes emplettes la prochaine fois !^^ -Caroline",
@@ -27,8 +26,7 @@
 
     // Titles
 
-    "bakedsweetpotato.title": "Recette de la patate douce au four",
-    "bananapudding.title": "Recette du pudding à la banane",
+    "bakedsweetpotato.title": "Recette de la patate douce au four",    
     "broccoliandcheese.title": "Recette du brocoli et fromage",
     "brownsugar.title": "Recette de la cassonade",
     "carrotcake.title": "Recette du gâteau à la carotte",

@@ -3,23 +3,20 @@
     "Product": "Hibiscus",
     "SaplingName": "Hibiscus Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Hibiscus tree. Bears flowers in the summer. Only grows if the 8 surrounding \"tiles\" are empty.",
-
     "Season": "summer",
-
     "SaplingPurchasePrice": 1700,
-    "SaplingPurchaseRequirements": null,
     "SaplingNameLocalization":
     {
         "es": "Brote de hibisco",
         "ko": "히비스커스 묘목",
         "de": "Hibiskus-Satzling (Sapling)",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
         "ja": "ハイビスカスの苗",
         "pt": "Muda de Hibisco",
         "ru": "Саженец гибискуса",
-         // "tr": "",
+        // "tr": "",
         "zh": "芙蓉树苗",
     },
     "SaplingDescriptionLocalization":
@@ -27,13 +24,13 @@
         "es": "Toma 28 días para producir un árbol de hibisco maduro. Da fruto en verano. Solo crece si las 8 casillas circundantes están vacías.",
         "ko": "28일후에 성목이 됩니다. 여름에 꽃이 핍니다. 주변 8칸이 비어있어야 자랍니다.",
         "de": "Die Herstellung eines ausgewachsenen Hibiskusbaums dauert 28 Tage. Trägt Blumen im Sommer. Wächst nur, wenn die 8 umgebenden 'Kacheln' leer sind.",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
         "ja": "28日かけて成木に育ち、夏になるとハイビスカスを咲かせる。となりあった周囲8マスがないと育たない。",
         "pt": "Demora até 28 dias para produzir uma árvore de hibisco madura. Dá flores no verão. Só cresce se os 8 espaços adjacentes estiverem vazios.",
         "ru": "Становится взрослым деревом гибискуса через 28 дней. Цветет летом. Растeт только если 8 «клеток» вокруг него не заняты.",
-         // "tr": "",
+        // "tr": "",
         "zh": "28天成熟为成年芙蓉花树。夏天开花。只有在附近8个地块都空置的情况下才会成长。",
     }
 }

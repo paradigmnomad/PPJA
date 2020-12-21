@@ -2,8 +2,8 @@
     "Name": "Fruits and Veggies for JsonAssets",
     "Author": "Project Populate JsonAssets",
     "Description": "A port of Mizu's crops for JsonAssets.",
-    "Version": "2.0.13",
-    "MinimumApiVersion": "3.6.0",
+    "Version": "2.0.14",
+    "MinimumApiVersion": "3.7.0",
     "UniqueID": "ppja.fruitsandveggies",
     "ContentPackFor":
     {

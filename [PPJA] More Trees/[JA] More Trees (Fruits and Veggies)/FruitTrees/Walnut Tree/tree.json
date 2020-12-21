@@ -3,11 +3,8 @@
     "Product": "Walnut",
     "SaplingName": "Walnut Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Walnut tree. Ready to harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "fall",
-
     "SaplingPurchasePrice": 3750,
-    "SaplingPurchaseRequirements": null,
     "SaplingNameLocalization":
     {
         "es": "Brote de nogal",
@@ -15,11 +12,11 @@
         "de": "Walnussbaum-Setzling",
         "fr": "Jeune noyer",
         "hu": "Diófa csemete",
-         // "it": "",
+        // "it": "",
         "ja": "クルミの苗",
         "pt": "Muda de nogueira",
         "ru": "Саженец грецкого ореха",
-         // "tr": "",
+        // "tr": "",
         "zh": "胡桃树苗",
     },
     "SaplingDescriptionLocalization":
@@ -29,11 +26,11 @@
         "de": "Wächst in 28 Tagen zu einem reifen Walnussbaum heran. Trägt im Herbst Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
         "fr": "Il faut 28 jours pour produire un noyer mature. Produit des noix à l’automne. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
         "hu": "28 nap múlva érik meg, és diófa lesz belőle. Ősszel hoz gyümölcsöt. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
-         // "it": "",
+        // "it": "",
         "ja": "28日かけて成木にそだち、秋になると実を実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
         "pt": "Demora até 28 dias para produzir uma nogueira madura. Dá frutas no outono. Só cresce se os 8 espaços adjacentes estiverem vazios.",
         "ru": "Становится взрослым ореховым деревом через 28 дней. Плодоносит осенью. Растет только если 8 «клеток» вокруг него не заняты.",
-         // "tr": "",
+        // "tr": "",
         "zh": "28天成熟为成年胡桃树。秋天结果。只有在附近8块地块都空置的情况下才会成长。",
     }
 }

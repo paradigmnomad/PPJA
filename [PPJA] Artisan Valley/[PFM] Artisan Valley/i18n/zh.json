@@ -1,6 +1,5 @@
 {
-    "Dehydrator.Tea": "{inputName}茶包",
-	"Dehydrator.Fruit": "{inputName}干",
+    "Dehydrator.Fruit": "{inputName}干",
     "DryingRack.Flower": "干{inputName}",
     "DryingRack.Herb": "{inputName}干",
     "DryingRack.Vegetable": "{inputName}干",

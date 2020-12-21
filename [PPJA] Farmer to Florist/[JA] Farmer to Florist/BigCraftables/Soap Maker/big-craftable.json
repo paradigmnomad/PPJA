@@ -6,8 +6,7 @@
     "CanPurchase": false,
     "PurchaseFrom": null,
     "PurchasePrice": 0,
-    "PurchaseRequirements": null,
-    "Recipe":
+        "Recipe":
     {
         "ResultCount": 1,
         "Ingredients": [

@@ -19,20 +19,19 @@
         "ExtraChance": 0.0,
     },
 
-    "SeedPurchaseRequirements": null,
     "SeedPurchasePrice": 40,
     "SeedNameLocalization":
     {
         "es": "Kit de loto",
         "ko": "연꽃 씨앗",
         "de": "Lotus-Starter",
-         // "fr": "",
+        // "fr": "",
         "hu": "Lótusz ültetvény",
-         // "it": "",
+        // "it": "",
         "ja": "ハス栽培キット",
         "pt": "Semente de Lótus",
         "ru": "Семена лотоса",
-         // "tr": "",
+        // "tr": "",
         "zh": "荷花种子",
     },
     "SeedDescriptionLocalization":
@@ -40,13 +39,13 @@
         "es": "Plántalas en verano. Toma 11 días para madurar, sigue produciendo después de la primera cosecha. Crece en una maceta.",
         "ko": "여름에 심습니다. 11일후에 꽃이 피며, 수확한 후에도 계속 꽃이 핍니다.",
         "de": "Im Sommer pflanzen. Die Reifung dauert 11 Tage, produziert danach aber weiter. Wächst in einem Topf.",
-         // "fr": "",
+        // "fr": "",
         "hu": "Ezeket nyáron ültesd el. 11 nap alatt nő meg, de utána tovább termel. Egy cserépben növekszik.",
-         // "it": "",
+        // "it": "",
         "ja": "夏植えの花。11日かけて花を咲かせる。鉢で育ちくり返し収穫できる。",
         "pt": "Plante-a no verão. Demoram 11 dias para amadurecer, mas continua produzindo depois disso. Cresce em pequeno vaso.",
         "ru": "Сажайте летом. Через 11 дней вырастает цветок и продолжает расти после сбора. Растет на шпалере.",
-         // "tr": "",
+        // "tr": "",
         "zh": "夏天播种。11天成熟，在第一次收获后循环生产。在陶盆中生长。",
     }
 }

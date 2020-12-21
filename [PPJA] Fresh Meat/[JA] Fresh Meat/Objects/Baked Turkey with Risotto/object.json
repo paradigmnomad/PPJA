@@ -24,7 +24,6 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 725,
-        "PurchaseRequirements": null,
     },
     "NameLocalization":
     {
@@ -49,7 +48,7 @@
         "hu": "Lédús, zamatos pulykaszeletek forró rizottóval.",
         // "it": "",
         "ja": "パイで包んだリゾット。ジューシーで柔らかいターキーのスライスが入っている。",
-         "pt": "Fatias de peru suculentas e macias sobre risoto quente.",
+        "pt": "Fatias de peru suculentas e macias sobre risoto quente.",
         // "ru": "",
         // "tr": "",
         "zh": "鲜嫩多汁的火鸡切片，配上滚烫的意大利烩饭。",

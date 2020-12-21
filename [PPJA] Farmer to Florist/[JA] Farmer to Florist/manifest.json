@@ -1,8 +1,8 @@
 {
     "Name": "Farmer to Florist",
     "Author": "Kildarien (Original assets) + SpringsSong (conversion to JsonAssets)",
-    "Version": "3.0.8",
-    "MinimumApiVersion": "3.6.1",
+    "Version": "3.0.9",
+    "MinimumApiVersion": "3.7.0",
     "Description": "Adds various flowers and flower-related recipes to the game.  Be sure to use with the accompanying machines via CustomFarmingRedux!",
     "UniqueID": "kildarien.farmertoflorist",
     "ContentPackFor":

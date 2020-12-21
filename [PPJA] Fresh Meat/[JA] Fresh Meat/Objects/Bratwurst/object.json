@@ -37,7 +37,6 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 550,
-        "PurchaseRequirements": null,
     },
 
     "NameLocalization":
@@ -49,10 +48,10 @@
         "hu": "Sült kolbász",
         // "it": "",
         // "ja": "",
-         "pt": "salsicha",
+        "pt": "salsicha",
         "ru": "Братвурст",
         // "tr": "",
-         "zh": "德国油煎香肠",
+        "zh": "德国油煎香肠",
     },
     "DescriptionLocalization":
     {
@@ -63,9 +62,9 @@
         "hu": "Egy tradícionális házi sült kolbász.",
         // "it": "",
         // "ja": "",
-         "pt": "Uma tradicional salsicha caseira.",
+        "pt": "Uma tradicional salsicha caseira.",
         "ru": "Традиционные домашние сосиски.",
         // "tr": "",
-         "zh": "一根传统的自制烤肠。",
+        "zh": "一根传统的自制烤肠。",
     }
 }

@@ -24,7 +24,6 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 250,
-        "PurchaseRequirements": null
     },
     "NameLocalization":
     {
@@ -32,12 +31,12 @@
         "ko": "크림 치즈",
         "de": "Frischkäse",
         "fr": "Fromage frais à tartiner",
-         // "hu": "",
-         // "it": "",
+        // "hu": "",
+        // "it": "",
         "ja": "クリームチーズ",
         "pt": "Creme de queijo",
-         // "ru": "",
-         // "tr": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "奶油芝士",
     },
     "DescriptionLocalization":
@@ -46,12 +45,12 @@
         "ko": "크림 우유. 요리의 속을 채우거나 덮는 일반적인 제품.",
         "de": "Ein wunderbarer Aufstrich oder auch bestens geeignet um Gerichte aufzupeppen",
         "fr": "Lait en crème. Un produit commun pour recouvrir ou remplir.",
-         // "hu": "",
-         // "it": "",
+        // "hu": "",
+        // "it": "",
         "ja": "クリーミーな乳製品。トッピングや具材としても使われる。",
         "pt": "Leite desnatado. Um produto comum para cobertura e enchimento de bolos e doces.",
-         // "ru": "",
-         // "tr": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "一种常见的浇头和馅料。",
     }
 }

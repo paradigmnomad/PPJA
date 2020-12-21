@@ -3,12 +3,9 @@
     "Product": "Ume",
     "SaplingName": "Ume Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Ume tree. Bears fruit in the summer. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "summer",
-
     "SaplingPurchasePrice": 2000,
-    "SaplingPurchaseRequirements": null,
-      "SaplingNameLocalization":
+    "SaplingNameLocalization":
     {
         "es": "Brote de Ume",
         "ko": "매화 묘목",

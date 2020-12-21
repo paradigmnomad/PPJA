@@ -14,17 +14,17 @@ Some packs may also use [Content Patcher](https://www.nexusmods.com/stardewvalle
 
 If all dependency mods are installed, then download the file for the content pack you have chosen, extract it, and move it to the `Mods` folder in your games file to install it. To uninstall the content pack, remove any items from the pack in game and delete from your `Mods` folder. Missing items can cause your game to crash so double check any chests beforehand. Recipes & items in shops do not have to be removed.
 
-## Migrating to 1.4
+## Migrating to 1.5
 
-Whenever migrating to a new version using mods, we always recommend [backing up your save](https://stardewvalleywiki.com/Saves) in case something goes wrong. PPJA is fully 1.4 ready so there should be minimal issues when upgrading from 1.3 to 1.4. 
+Whenever migrating to a new version using mods, we always recommend [backing up your save](https://stardewvalleywiki.com/Saves) in case something goes wrong. PPJA is fully 1.5 ready so there should be minimal issues when upgrading from 1.4 to 1.5. 
 
-* `Rice (Crop)`, `Tea Leaves (Crop & Object)`, `Green Tea`, `Unpolished Rice`, `Shrimp Cocktail`, and `Dinosaur Mayonaise`  have been removed. These items (or their equivalent) have been added as of 1.4.
+* `Paddy Taro (Crop & Object)`, `Ginger (Object)`, `Pineapple (Crop & Object)`, `Mango (Crop & Object)`, `Banana (Crop & Object)`, `Banana Pudding`, `Pina Colada`, `Ginger Ale`, and `Dragon Tooth` have been removed. These items (or their equivalent) have been added as of 1.4.
 	* Make sure you remove these items prior to upgrading as to not conflict with the newly added vanilla items.
 * Delete all pre-existing folders before updating PPJA mods. File names & folders have been changed. Having the old name and the new named folder will conflict and cause an error.
 * Drag + Drop into `Mods` as normal.
-* Have fun in 1.4! There's lots of new stuff to explore.
+* Have fun in 1.5! There's lots of new stuff to explore.
 
-Not all framework mods may be ready with day one updates. Please understand these are out of our control and even the PPJA team must wait for an update. We do not manage **any** of the frameworks: Json Assets, Producer Framework Mod, Content Patcher, nor Mail Framework Mod. Any questions/bug reports that reference these frameworks not being updated and asking for an update will be archived.
+Not all framework mods may be ready with day one updates. As of 12/19/2020 PFM works but machine animations do not. Please understand these are out of our control and even the PPJA team must wait for an update. We do not manage **any** of the frameworks: Json Assets, Producer Framework Mod, Content Patcher, nor Mail Framework Mod to name a few. Any questions/bug reports that reference these frameworks not being updated and asking for an update will be archived.
 
 ## FAQ
 

@@ -36,13 +36,13 @@
             "Count": 1,
         },
         {
-            "Object": "Pineapple",
+            "Object": 832,
             "Count": 1,
         }, ],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 940,
-        "PurchaseRequirements": ["f Krobus 1000", ],
+        "PurchaseRequirements": ["f Krobus 1000", "n willyHours",],
     },
     "NameLocalization":
     {

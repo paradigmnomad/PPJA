@@ -19,20 +19,6 @@
 		]*/
 	},
 	{
-		"Id": "ppja.bananapuddingrecipe",
-        "GroupID": "MoreRecipes.CookingRecipe",
-		"Text": "bananapudding.text",
-		"Title": "bananapudding.title",
-		"Recipe": "Banana Pudding",
-		"LetterBG": "NicteLetterBackground.png",
-		"Date": "1 spring Y1",
-		"Repeatable": false,
-		"FriendshipConditions":
-		[
-			{ "NpcName": "George", "FriendshipLevel": 5 }
-		],
-	},
-	{
 		"Id": "ppja.broccoliandcheeserecipe",
         "GroupID": "MoreRecipes.CookingRecipe",
 		"Text": "broccoliandcheese.text",
@@ -286,6 +272,7 @@
 		[
 			{ "NpcName": "Lewis", "FriendshipLevel": 5 }
 		],
+		"MailReceived": ["willyHours"]
 	},
 	{
 		"Id": "ppja.vegetablestirfryrecipe",

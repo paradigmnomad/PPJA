@@ -3,7 +3,7 @@
     "Author": "Project Populate JsonAssets",
     "Description": "Artisan Valley MACHINES ONLY. For those who want to use Artisan Valley machines. Does not do anything on its own. Requires other content packs.",
     "Version": "1.0.2",
-    "MinimumApiVersion": "3.6.0",
+    "MinimumApiVersion": "3.7.0",
     "UniqueID": "ppja.artisanvalleymachinesJA",
     "ContentPackFor":
     {

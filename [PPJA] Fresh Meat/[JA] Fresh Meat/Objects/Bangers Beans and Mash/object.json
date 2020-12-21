@@ -41,11 +41,11 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 800,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Brown-Gravy", "y 4"],
     },
     "NameLocalization":
     {
-        "es": "Salchichas, judías y puré",
+        "es": "Bangers Beans and Mash",
         "ko": "소시지 콩과 으깬 감자",
         "de": "Bohnenpüree",
         "fr": "Saucisses, haricots et purée",
@@ -59,7 +59,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "Puré de patatas, judías y salchichas.",
+        "es": "Puré de papas, frijoles y salchichas.",
         "ko": "으깬 감자, 콩, 그리고 소시지.",
         "de": "Gestampfte Kartoffeln mit Bohnen und Würstchen.",
         "fr": "Pommes de terre en purée, haricots et saucisses.",

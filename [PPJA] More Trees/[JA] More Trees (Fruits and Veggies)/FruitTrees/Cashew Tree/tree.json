@@ -5,7 +5,6 @@
     "SaplingDescription": "Takes 28 days to produce a mature Cashew tree. Ready to harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
     "Season": "fall",
     "SaplingPurchasePrice": 4000,
-    "SaplingPurchaseRequirements": null,
     "SaplingNameLocalization":
     {
         "es": "Brote de anacardo",
@@ -13,11 +12,11 @@
         "de": "Cashewbaum-Setzling",
         "fr": "Jeune anacardier",
         "hu": "Kesufa csemete",
-         // "it": "",
+        // "it": "",
         "ja": "カシューナッツの苗",
         "pt": "Muda de cajueiro",
         "ru": "Саженец кешью",
-         // "tr": "",
+        // "tr": "",
         "zh": "腰果树苗",
     },
     "SaplingDescriptionLocalization":
@@ -27,11 +26,11 @@
         "de": "Wächst in 28 Tagen zu einem reifen Kaschubaum heran. Trägt im Herbst Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
         "fr": "Il faut 28 jours pour produire un anacardier mature. Produit des noix de cajou à l’automne. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
         "hu": "28 nap múlva érik meg, és kesufa lesz belőle. Ősszel hoz gyümölcsöt. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
-         // "it": "",
+        // "it": "",
         "ja": "28日かけて成木にそだち、秋になると実を実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
         "pt": "Demora até 28 dias para produzir um cajueiro maduro. Dá frutas no outono. Só cresce se os 8 espaços adjacentes estiverem vazios.",
         "ru": "Становится взрослым деревом кешью через 28 дней. Плодоносит осенью. Растет только если 8 «клеток» вокруг него не заняты.",
-         // "tr": "",
+        // "tr": "",
         "zh": "28天成熟为成年腰果树。秋天结果。只有在附近8块地块都空置的情况下才会成长。",
     }
 }

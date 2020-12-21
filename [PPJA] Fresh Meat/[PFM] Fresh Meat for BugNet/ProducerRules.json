@@ -92,6 +92,38 @@
         "Sounds": ["powerup"],
     },
     {
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "Critter Cage - Purple Bird",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Bird DNA",
+        "Sounds": ["powerup"],
+    },
+    {
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "Critter Cage - Red Bird",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Bird DNA",
+        "Sounds": ["powerup"],
+    },
+    {
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "Critter Cage - Blue Parrot",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Bird DNA",
+        "Sounds": ["powerup"],
+    },
+    {
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "Critter Cage - Green Parrot",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Bird DNA",
+        "Sounds": ["powerup"],
+    },
+    {
         "ProducerName": "Meat Press",
         "InputIdentifier": "Bird DNA",
         "InputStack": 1,
@@ -261,6 +293,45 @@
         "OutputStack": 2,
         "Sounds": ["powerup"],
     },
+
+    // Island Butterflies
+
+    {
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "Critter Cage - Orange Island Butterfly",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Butterfly DNA",
+        "OutputStack": 2,
+        "Sounds": ["powerup"],
+    },
+    {
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "Critter Cage - Pink Island Butterfly",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Butterfly DNA",
+        "OutputStack": 2,
+        "Sounds": ["powerup"],
+    },
+    {
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "Critter Cage - Sunset Tropical Butterfly",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Butterfly DNA",
+        "OutputStack": 2,
+        "Sounds": ["powerup"],
+    },
+    {
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "Critter Cage - Tropical Island Butterfly",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Butterfly DNA",
+        "OutputStack": 2,
+        "Sounds": ["powerup"],
+    },
     {
         "ProducerName": "Meat Press",
         "InputIdentifier": "Butterfly DNA",
@@ -295,4 +366,47 @@
         "OutputStack": 2,
         "Sounds": ["fishSlap"],
     },
+
+    // Marsupial
+
+    /*{
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "Critter Cage - Marsupial",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Marsupial DNA",
+        "OutputStack": 4,
+        "Sounds": ["powerup"],
+    },
+    {
+        "ProducerName": "Meat Press",
+        "InputIdentifier": "Marsupial DNA",
+        "InputStack": 1,
+        "FuelIdentifier": "Genetically Engineered Yeast",
+        "FuelStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Critter Meat",
+        "OutputStack": 2,
+        "Sounds": ["fishSlap"],
+    },*/
+
+    // Monkey
+
+    /*{
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "Critter Cage - Monkey",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Monkey DNA",
+        "Sounds": ["powerup"],
+    },
+    {
+        "ProducerName": "Meat Press",
+        "InputIdentifier": "Monkey DNA",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Monkey Meat",
+        "OutputStack": 1,
+        "Sounds": ["fishSlap"],
+    },*/
 ]

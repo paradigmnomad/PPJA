@@ -94,17 +94,6 @@
         ],
     },
     {
-        "Id": "ppja.gingerseeds", 
-        "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "ginger.text",  
-        "Title": "ginger.title",
-        "Attachments": [{"Type": "Object", "Name":"Ginger Seeds", "Stack": 5},],    
-        "LetterBG": "NicteLetterBackground.png",            
-        "Repeatable": false,         
-        "Date": "27 summer Y2", 
-        "Seasons":  ["summer"], 
-    },
-    {
         "Id": "ppja.gooseberryseeds", 
         "GroupID": "FruitsandVeggies.Seeds",
         "Text": "gooseberry.text",  
@@ -184,21 +173,6 @@
         "FriendshipConditions":
         [
             { "NpcName": "Robin", "FriendshipLevel": 5 }
-        ],
-    },
-    {
-        "Id": "ppja.paddytaroseeds", 
-        "GroupID": "FruitsandVeggies.Seeds",
-        "Text": "paddytaro.text",  
-        "Title": "paddytaro.title",
-        "Attachments": [{"Type": "Object", "Name":"Paddy Taro Seeds", "Stack": 5},],    
-        "LetterBG": "NicteLetterBackground.png",            
-        "Repeatable": false,         
-        "Date": "4 spring Y2", 
-        "Seasons":  ["summer"], 
-        "FriendshipConditions":
-        [
-            { "NpcName": "Sandy", "FriendshipLevel": 6 }
         ],
     },
     {

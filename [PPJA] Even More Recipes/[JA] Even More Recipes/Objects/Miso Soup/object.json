@@ -1,0 +1,70 @@
+{
+    "Name": "Miso Soup",
+    "Description": "A traditional soup made from dashi stock, miso paste, seaweed, and tofu.",
+    "Category": "Cooking",
+    "Edibility": 65,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 735,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Harvey", "Alex", "Marnie", "Sebastian", "Elliott", "Willy", "George", ],
+        "Like": ["Maru", "Sandy", "Jodi", ],
+        "Dislike": ["Penny", "Demetrius"],
+        "Hate": ["Dwarf"]
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Dashi Stock",
+            "Count": 1,
+        },
+        {
+            "Object": "Miso Paste",
+            "Count": 1,
+        },
+        {
+            "Object": "Tofu",
+            "Count": 1,
+        },
+        {
+            "Object": 152,
+            "Count": 1,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1200,
+        "PurchaseRequirements": ["y 4"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

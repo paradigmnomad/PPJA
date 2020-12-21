@@ -6,48 +6,50 @@
     "Type": "Flower",
 
     "Seasons": ["spring"],
-    "Phases": [ 1, 2, 3, 3, 2 ],
-	"RegrowthPhase": -1,
+    "Phases": [1, 2, 3, 3, 2],
+    "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": [
-		"200, 150, 255, 255",
-		"150, 50, 255, 255",
-		"255, 100, 230, 255"
-	],
-    "Bonus": {
+        "200, 150, 255, 255",
+        "150, 50, 255, 255",
+        "255, 100, 230, 255"
+    ],
+    "Bonus":
+    {
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 1,
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
 
-	"SeedPurchaseRequirements": null,
     "SeedPurchasePrice": 40,
-    "SeedNameLocalization": { 
-    "es": "Semillas de lila",
-    "ko": "라일락 씨앗",
-    "de": "Lila Samen",
-     // "fr": "",
-    "hu": "Orgona magvak",
-     // "it": "",
-    "ja": "ライラックの種",
-    "pt": "Semente de Lilás",
-    "ru": "Семена сирени",
-     // "tr": "",
-    "zh": "紫丁香花种子",
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de lila",
+        "ko": "라일락 씨앗",
+        "de": "Lila Samen",
+        // "fr": "",
+        "hu": "Orgona magvak",
+        // "it": "",
+        "ja": "ライラックの種",
+        "pt": "Semente de Lilás",
+        "ru": "Семена сирени",
+        // "tr": "",
+        "zh": "紫丁香花种子",
     },
-"SeedDescriptionLocalization": { 
-    "es": "Plántalas en primavera. Toma 11 días para producir racimos de flores pequeñas de color púrpura.",
-    "ko": "봄에 심습니다. 11일후에 작고 보라빛의 꽃이 핍니다.",
-    "de": "Im Frühjahr pflanzen. Es dauert 11 Tage, um kleine, violette Blütenbüschel zu bilden.",
-     // "fr": "",
-    "hu": "Ezeket tavasszal ültesd el. 11 nap alatt hoz apró, lila virágokból álló csokorokat.",
-     // "it": "",
-    "ja": "春植えの花。11日かけて育ち、ひと房の小さな紫色の花を咲かせる。",
-    "pt": "Plante-a na primavera. Demoram 11 dias para nascer um conjunto pequeno de flores.",
-    "ru": "Сажайте весной. Через 11 дней вырастает гроздь маленьких фиолетовых цветов.",
-     // "tr": "",
-    "zh": "春天播种。11天产出小巧的紫色花簇。",
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera. Toma 11 días para producir racimos de flores pequeñas de color púrpura.",
+        "ko": "봄에 심습니다. 11일후에 작고 보라빛의 꽃이 핍니다.",
+        "de": "Im Frühjahr pflanzen. Es dauert 11 Tage, um kleine, violette Blütenbüschel zu bilden.",
+        // "fr": "",
+        "hu": "Ezeket tavasszal ültesd el. 11 nap alatt hoz apró, lila virágokból álló csokorokat.",
+        // "it": "",
+        "ja": "春植えの花。11日かけて育ち、ひと房の小さな紫色の花を咲かせる。",
+        "pt": "Plante-a na primavera. Demoram 11 dias para nascer um conjunto pequeno de flores.",
+        "ru": "Сажайте весной. Через 11 дней вырастает гроздь маленьких фиолетовых цветов.",
+        // "tr": "",
+        "zh": "春天播种。11天产出小巧的紫色花簇。",
     }
 }

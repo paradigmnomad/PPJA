@@ -42,11 +42,10 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2495,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
-        "es": "Crep de pollo y espinacas",
+        "es": "Crepa de pollo y espinacas",
         "ko": "닭고기와 시금치 크레페",
         "de": "Hähnchen-Spinat-Crêpe",
         "fr": "Crêpe aux épinards et au poulet",
@@ -60,7 +59,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "Un crep salado, relleno con pollo y espinacas.",
+        "es": "Una crepa salada, rellena con pollo y espinacas.",
         "ko": "닭고기와 시금치로 속을 채운, 풍미있는 크레페.",
         "de": "Ein herzhafter Crêpe, gefüllt mit Hähnchen und Spinat.",
         "fr": "Une crêpe savoureuse, remplie d'épinards et de poulet.",

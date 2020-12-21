@@ -27,7 +27,7 @@
         }, ],
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1125,
-        "PurchaseRequirements": ["y 3"],
+        "PurchaseRequirements": ["HasCookingRecipe Batter", "y 3"],
     },
     "NameLocalization":
     {
@@ -56,6 +56,6 @@
         // "ru": "",
         // "tr": "",
         "zh": "热腾腾的馅饼，上面点缀着肉和蔬菜，就像爸爸以前做的那样。",
-    },    
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

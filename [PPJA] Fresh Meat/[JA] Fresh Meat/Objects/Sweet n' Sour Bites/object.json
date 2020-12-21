@@ -42,7 +42,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "酸甜肉块",
+        "zh": "酸甜肉块",
     },
     "DescriptionLocalization":
     {
@@ -56,7 +56,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "大块多汁的龙肉，用浓糖醋汁猛火收汁炒制而成。",
-    },    
+        "zh": "大块多汁的龙肉，用浓糖醋汁猛火收汁炒制而成。",
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

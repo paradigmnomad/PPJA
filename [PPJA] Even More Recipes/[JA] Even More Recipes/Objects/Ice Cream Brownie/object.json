@@ -29,8 +29,9 @@
         "PurchaseFrom": "Gus",
         "PurchasePrice": 3105,
         "PurchaseRequirements": [
+            "HasCookingRecipe Brownie",
             "r 0.25",
-            "y 2",
+            "y 4",
         ]
     },
     "NameLocalization":

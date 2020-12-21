@@ -16,7 +16,7 @@
             "Count": 1,
         },
         {
-            "Object": "Banana",
+            "Object": 69,
             "Count": 1,
         },
         {
@@ -32,6 +32,7 @@
         "PurchasePrice": 2820,
         "PurchaseRequirements": [
             "r 0.50",
+            "n willyHours",
         ]
     },
     "GiftTastes":

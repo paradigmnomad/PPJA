@@ -27,7 +27,7 @@
         }, ],
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1190,
-        "PurchaseRequirements": ["y 3"],
+        "PurchaseRequirements": ["HasCookingRecipe Batter", "y 3"],
     },
     "NameLocalization":
     {
@@ -56,6 +56,6 @@
         // "ru": "",
         // "tr": "",
         "zh": "一种油炸的馅饼，里面塞有柔软的蒜香鹿肉和蔬菜。",
-    },    
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

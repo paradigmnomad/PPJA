@@ -19,14 +19,15 @@
             "Count": 1,
         },
         {
-            "Object": "Pineapple",
+            "Object": 832,
             "Count": 1,
         }],
         "CanPurchase": true,
         "PurchaseFrom": "Pierre",
         "PurchasePrice": 500,
         "PurchaseRequirements": [
-            "y 2"
+            "y 2",
+            "n willyHours",
         ]
     },
     "GiftTastes":

@@ -28,7 +28,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 725,
-        "PurchaseRequirements": null,
+        "PurchaseRequirements": ["HasCookingRecipe Tortilla", "y 4"],
     },
 
     "NameLocalization":
@@ -43,7 +43,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "多肉墨西哥卷饼",
+        "zh": "多肉墨西哥卷饼",
     },
     "DescriptionLocalization":
     {
@@ -57,7 +57,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "如此多汁，如此柔软！和普通的牛肉墨西哥卷饼完全不同的体验。",
-    },    
+        "zh": "如此多汁，如此柔软！和普通的牛肉墨西哥卷饼完全不同的体验。",
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

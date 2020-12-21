@@ -18,8 +18,7 @@
         "ExtraChance": 0.2
     },
     "SeedPurchasePrice": 750,
-	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
-    "SeedPurchaseRequirements": null,
+    "SeedPurchaseFrom": "DONTSELLTHISATNPC",
     "SeedNameLocalization":
     {
         "es": "Semilla de tubérculo Antiguo",

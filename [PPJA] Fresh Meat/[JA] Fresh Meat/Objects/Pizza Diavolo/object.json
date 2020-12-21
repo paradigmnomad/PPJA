@@ -40,7 +40,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1800,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Salami", "y 4", ],
     },
     "NameLocalization":
     {
@@ -54,11 +54,11 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "恶魔披萨",
+        "zh": "恶魔披萨",
     },
     "DescriptionLocalization":
     {
-        "es": "Pizza con chorizo picante y pimiento rojo",
+        "es": "Pizza con chorizo picante y pimiento rojo.",
         "ko": "매운 소시지와 고추가 들어간 피자.",
         "de": "Pizza mit scharfer Salami und Chili",
         "fr": "Pizza avec de la saucisse épicée et du piment rouge.",
@@ -68,6 +68,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "红辣椒香肠披萨，辣得可怕。",
+        "zh": "红辣椒香肠披萨，辣得可怕。",
     }
 }

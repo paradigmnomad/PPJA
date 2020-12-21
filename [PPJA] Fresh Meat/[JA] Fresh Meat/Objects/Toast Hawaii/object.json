@@ -22,7 +22,7 @@
             "Count": 1,
         },
         {
-            "Object": "Pineapple",
+            "Object": 832,
             "Count": 1,
         },
         {
@@ -36,7 +36,9 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1200,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["y 2",
+            "n willyHours",
+        ],
     },
     "NameLocalization":
     {
@@ -50,7 +52,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "夏威夷吐司",
+        "zh": "夏威夷吐司",
     },
     "DescriptionLocalization":
     {
@@ -64,6 +66,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "奶酪吐司和菠萝片。",
+        "zh": "奶酪吐司和菠萝片。",
     }
 }

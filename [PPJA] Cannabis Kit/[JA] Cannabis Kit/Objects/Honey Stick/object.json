@@ -36,8 +36,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Krobus",
         "PurchasePrice": 1500,
-        "PurchaseRequirements": null,
-    },
+            },
     "GiftTastes":
     {
         "Love": ["Sebastian", "Sam", "Abigail", "Haley", "Emily", "Shane", "Alex", "Harvey"],

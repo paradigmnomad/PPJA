@@ -1,8 +1,8 @@
-
+{
 //Text
 
 "americano.text": "Peguei essa receita no exterior. Aproveite.^^ quero agradecer por me fazer sentir bem-vindo.^^ -Kent",
-"brandyalexander.text": "Querido @,^^ pedi muita noz-moscada! Fiquei tão empolgada quando vi que o pacote tinha chegado, mas não tão animado quando abri! Vou compartilhar a receita de um "Brandy Alexander" que veio com ele. Mal posso esperar para experimentar. Tome cuidado!^^ -Jodi",
+"brandyalexander.text": "Querido @,^^ pedi muita noz-moscada! Fiquei tão empolgada quando vi que o pacote tinha chegado, mas não tão animado quando abri! Vou compartilhar a receita de um \"Brandy Alexander\" que veio com ele. Mal posso esperar para experimentar. Tome cuidado!^^ -Jodi",
 "cosmo.text": "@,^^ pensei que seria divertido escrever uma nota.^^ Aqui está minha opinião sobre um Cosmo tradicional. Espero vê-lo em breve.^^ -Haley",
 "darkandstormy.text": "@,^^ eu não bebo muito, mas há um bar na cidade de ZuZu que tem o melhor drink o nome dele é Escuro e  Tempestuoso. Eu tenho a receita do barman para compartilhar com você.^^ -Sebastian",
 "espressomartini.text": "Ei lá!^^ eu tive algum tempo extra e achei que seria interessante tentar misturar algumas bebidas. Deixe-me saber o que você pensa!^^ -Robin",
@@ -12,7 +12,6 @@
 "moonshinecherries.text": "Querido @,^^ Obrigado novamente por sempre apoiar minha arte. Quando não estou esculpindo, gosto de ajudar gus com suas cerejas de luar. Não diga a ele que eu lhe dei a receita dele.^^ -Leah",
 "nightonthebeach.text": "@,^^ Vodka, Aguardente Peach , e alguns cítricos fazem uma ótima mistura em um martini, enquanto a vodca misturada com suco de laranja, xarope simples e enfeite adiciona um toque refrescante. O que você acha? Qual é a sua maneira favorita de combinar suco de laranja e vodca? A minha é Noite na Praia.^^ -Demétrio",
 "paradise.text": "Querido @^^ eu tenho minhas mãos em um copo disso e eu não podia esperar para tentar. Aqui, experimente um pouco! Às vezes, você só quer beber algo louco e doce!^^ -Emily",
-"pinacolada.text": "Querido @,^^ Se você ama abacaxi e cocos, então você vai adorar essa bebida. Tantas variações, tão poucos ingredientes.^^ -Emily",
 "planterspunch.text": "@, você tem trabalhado duro na fazenda. Por que não tenta fazer uma bebida? É a maneira perfeita de terminar a semana!^^ -Lewis",
 "seabreeze.text": "Acho que é hora de compartilhar com você uma das minhas bebidas favoritas. Não é divertido sairmos juntos quando não sabemos do que o outro gosta!^^ -Haley",
 "vampiro.text": "...^^ Por favor, pegue isso. Estava flutuando nos esgotos. Você pode fazer bom uso dele...^^ -Krobus",
@@ -41,31 +40,19 @@
 "moonshinecherries.title": "Receita de Cerejas do Luar",
 "nightonthebeach.title": "Receita Noite na praia",
 "paradise.title": "Receita para o Paraíso",
-"pinacolada.title": "Receita Pina Colada",
 "planterspunch.title": "Receita de Ponche de Plantadores",
 "seabreeze.title": "Receita de Brisa do Mar",
 "vampiro.title": "Receita vampiro",
 
- 
-
-Novas Adições
-
- 
+//New Additions  
 
 "atomiccocktail.title": "Receita de Coquetel Atômico",
-
 "frangelicosour.title": "Receita Azeda Frangelico",
-
 "harlemmugger.title": "Receita Harlem Mugger",
-
 "lemonadococktail.title": "Receita de Coquetel Limonado",
-
 "negroni.title": "Receita Negroni",
-
 "poinsettiacocktail.title": "Receita de Coquetel Poinsettia",
-
 "spritzveneziano.title": "Receita Spritz Veneziano",
-
 "sweetpinkcocktail.title": "Receita de Coquetel Rosa Doce",
 
 }

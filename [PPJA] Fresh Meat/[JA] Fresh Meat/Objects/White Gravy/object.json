@@ -32,7 +32,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2775,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Chicken-Stock", "y 4", ],
     },
     "NameLocalization":
     {
@@ -41,11 +41,11 @@
         "de": "Weiße Soße",
         "fr": "Sauce blanche",
         "hu": "Fehér gravy szósz",
-         // "it": "",
-         // "ja": "",
-         // "pt": "",
-         // "ru": "",
-         // "tr": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "鸡肉汁",
     },
     "DescriptionLocalization":
@@ -55,11 +55,11 @@
         "de": "Eine pikante, pfeffrige Soße.",
         "fr": "Une sauce savoureuse et poivrée.",
         "hu": "Egy ízletes, borsos szaft.",
-         // "it": "",
-         // "ja": "",
-         // "pt": "",
-         // "ru": "",
-         // "tr": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "鸡肉汁。一份以鸡肉高汤打底制成的美味酱汁",
     }
 }

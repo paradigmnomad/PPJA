@@ -3,23 +3,20 @@
     "Product": "Yuzu",
     "SaplingName": "Yuzu Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Yuzu tree. Bears fruit in the winter. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "winter",
-
     "SaplingPurchasePrice": 2000,
-    "SaplingPurchaseRequirements": null,
-      "SaplingNameLocalization":
+    "SaplingNameLocalization":
     {
         "es": "Brote de Yuzu",
         "ko": "유자 묘목",
         //"de": "",
         "fr": "Jeune citronnier yuzu",
         "hu": "Juzufa csemete",
-         // "it": "",
+        // "it": "",
         //"ja": "",
         "pt": "Broto de Yuzu",
         //"ru": "",
-         // "tr": "",
+        // "tr": "",
         "zh": "香橙树苗",
     },
     "SaplingDescriptionLocalization":
@@ -27,13 +24,13 @@
         "es": "Tarda 28 días en producir un árbol de Yuzu maduro. Da fruto en el invierno. Solo crece si las 8 casillas circundantes están vacías",
         "ko": "28일후에 성목이 됩니다. 겨울에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
         //"de": "",
-         "fr": "Il faut 28 jours pour produire un jeune cironnier yuzu mature. Produit des yuzus en hiver. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
+        "fr": "Il faut 28 jours pour produire un jeune cironnier yuzu mature. Produit des yuzus en hiver. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
         "hu": "28 nap múlva érik meg, és juzufa lesz belőle. Télen hoz gyümölcsöt. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
-         // "it": "",
+        // "it": "",
         //"ja": "",
         "pt": "Demora 28 dias para produzir uma árvore de Yuzu madura. Dá frutos no inverno. Só cresce se os 8 espaços adjacentes estiverem vazios.",
         //"ru": "",
-         // "tr": "",
+        // "tr": "",
         "zh": "28天成熟为成年香橙树。冬天结果。只有在附近8块地块都空置的情况下才会成长。",
     }
 }

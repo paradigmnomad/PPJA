@@ -23,20 +23,19 @@
         "ExtraChance": 0.0,
     },
 
-    "SeedPurchaseRequirements": null,
     "SeedPurchasePrice": 50,
     "SeedNameLocalization":
     {
         "es": "Semillas de peonía",
         "ko": "작약 씨앗",
         "de": "Kräuterpfingstrosen-Saat",
-         // "fr": "",
+        // "fr": "",
         "hu": "Bazsarózsa magvak",
-         // "it": "",
+        // "it": "",
         "ja": "シャクヤクの種",
         "pt": "Semente de Erva de Peônia",
         "ru": "Семена пиона",
-         // "tr": "",
+        // "tr": "",
         "zh": "芍药种子",
     },
     "SeedDescriptionLocalization":
@@ -44,13 +43,13 @@
         "es": "Plántalas en primavera. Toma 13 días para producir una flor larga.",
         "ko": "봄에 심습니다. 13일후에 매우 커다란 꽃이 핍니다.",
         "de": "Im Frühjahr pflanzen. Die Produktion einer großen Blume dauert 13 Tage.",
-         // "fr": "",
+        // "fr": "",
         "hu": "Ezeket tavasszal ültesd el. 13 nap alatt hoz egy nagy virágot.",
-         // "it": "",
+        // "it": "",
         "ja": "春植えの花。13日かけて育ち、大輪の花を咲かせる。",
         "pt": "Plante-a na primavera. Demoram 13 dias para nascer uma flor grande.",
         "ru": "Сажайте весной. Через 13 дней вырастает большой цветок.",
-         // "tr": "",
+        // "tr": "",
         "zh": "春天播种。13天产出硕大的花朵。",
     }
 }

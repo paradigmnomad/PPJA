@@ -19,7 +19,6 @@
         "ExtraChance": 0.0,
     },
     "SeedPurchasePrice": 15,
-    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semillas de espinaca",
@@ -27,11 +26,11 @@
         "de": "Spinat-Saat",
         "fr": "Graines d'épinard",
         "hu": "Spenót magvak",
-         // "it": "",
+        // "it": "",
         "ja": "ホウレンソウのタネ",
         "pt": "Sementes de espinafre",
         "ru": "Семена шпината",
-         // "tr": "",
+        // "tr": "",
         "zh": "菠菜种子",
     },
     "SeedDescriptionLocalization":
@@ -41,11 +40,11 @@
         "de": "Pflanze sie im Frühling oder Herbst. Wächst in 3 Tagen heran.",
         "fr": "À planter au printemps ou en automne. Prend 3 jours pour arriver à maturité.",
         "hu": "Ezeket tavasszal vagy ősszel ültesd el. 3 napig tart megérniük.",
-         // "it": "",
+        // "it": "",
         "ja": "春または秋植えの作物。そだつのに3日かかる。",
         "pt": "Plante-as na primavera ou no outono. Demora 3 dias para amadurecer.",
         "ru": "Сажайте весной или осенью. Вырастает через 3 дня.",
-         // "tr": "",
+        // "tr": "",
         "zh": "春天或秋天播种。3天成熟。",
     }
 }

@@ -17,10 +17,10 @@
         // "hu": "",
         // "it": "",
         //"ja": "",
-        "pt": "Bar de Coquetéis",
+        //"pt": "",
         // "ru": "",
         // "tr": "",
-        "zh": "鸡尾酒吧台",
+        //"zh": "",
     },
     "DescriptionLocalization":
     {
@@ -31,9 +31,9 @@
         // "hu": "",
         // "it": "",
         //"ja": "",
-        "pt": "Um bar de bebidas completo!",
+        //"pt": "",
         // "ru": "",
         // "tr": "",
-        "zh": "满满当当全是酒！",
+        //"zh": "",
     }
 }

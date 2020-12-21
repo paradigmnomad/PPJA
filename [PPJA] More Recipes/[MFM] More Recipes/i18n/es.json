@@ -2,7 +2,6 @@
     // Text
 
     "bakedsweetpotato.text": "@,^Alrededor de esta época del año, el frío en el aire me hace apreciar aún más la generosidad de la naturaleza. Aquí hay una receta simple con un sabor delicioso que no necesita un aderezo elaborado. Espero que lo disfrutes tanto como yo.^ -Linus",
-    "bananapudding.text": "@,^Eres mucho más joven que yo y sería una pena que desperdicies ese hecho.^Aquí hay un postre que puedes hacer. Es mucho mejor que cualquiera de la basura que a algunos jóvenes les gusta comer en estos días.^De todos modos, mantén viva esta antigua receta y te harás un favor.^^ -George",
     "broccoliandcheese.text": "Buenos días, @,^^ Quería mostrar mi agradecimiento por tu negocio, pero lo más importante, por tu amistad.^Esta receta mía vino de un libro de cocina llamado Food on the Plate. Es un receta maravillosa y fácil de seguir para gente ocupada como nosotros. ¿Quizás te gustaría probarlo?^^ -Pierre",
     "brownsugar.text": "Querido @,^^ ¿Cómo va tu trabajo mientras restauras la granja? Sin duda, debes sentirte un poco más conectado con la naturaleza que antes de llegar a la ciudad.^Ya que has mostrado interés en un enfoque más práctico de la vida, aquí hay una receta para el azúcar moreno casero. ¡Ahora realmente puedes decir que estás cocinando desde cero!^^ -Lewis",
     "carrotcake.text": "Estimado @,^¡Nada es más satisfactorio que cocinar con zanahorias frescas de tu propio jardín!^¡Este pastel de zanahoria es un verdadero deleite para la multitud, ya sea que entretengas a los invitados o solo busques un regalo para disfrutar por ti mismo!.^¡Asegúrate de meter la cabeza hacia atrás y saludar cuando vayas de compras la próxima vez!^^ -Caroline",
@@ -27,8 +26,7 @@
 
     // Titles
 
-    "bakedsweetpotato.title": "Receta de Camote al horno",
-    "bananapudding.title": "Receta de Pudin de banana",
+    "bakedsweetpotato.title": "Receta de Camote al horno",   
     "broccoliandcheese.title": "Receta de Brocoli y queso",
     "brownsugar.title": "Receta de Azúcar moreno",
     "carrotcake.title": "Receta de Pastel de zanahoria",

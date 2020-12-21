@@ -23,7 +23,7 @@
         }, ],
         "PurchaseFrom": "Gus",
         "PurchasePrice": 725,
-        "PurchaseRequirements": ["y 3"],
+        "PurchaseRequirements": ["HasCookingRecipe Batter", "y 3"],
     },
     "NameLocalization":
     {
@@ -34,7 +34,7 @@
         "hu": "Vadhúsos-hagymás papucs",
         // "it": "",
         // "ja": "",
-         "pt": "Torta de cebola-carne selvagem",
+        "pt": "Torta de cebola-carne selvagem",
         // "ru": "",
         // "tr": "",
         "zh": "野兽洋葱手馅饼",
@@ -52,6 +52,6 @@
         // "ru": "",
         // "tr": "",
         "zh": "一个酥脆的馅饼，里面塞满了美味的绞碎的野兽肉。",
-    },    
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

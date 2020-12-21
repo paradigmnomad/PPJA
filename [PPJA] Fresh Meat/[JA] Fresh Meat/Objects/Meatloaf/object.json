@@ -24,7 +24,7 @@
         {
             "Object": "Onion",
             "Count": 1,
-        },],
+        }, ],
         "IsDefault": true
     },
     "NameLocalization":
@@ -39,7 +39,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "烘肉卷",
+        "zh": "烘肉卷",
     },
     "DescriptionLocalization":
     {
@@ -53,6 +53,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "我不能忍受烘肉卷被剩下。",
+        "zh": "我不能忍受烘肉卷被剩下。",
     }
 }

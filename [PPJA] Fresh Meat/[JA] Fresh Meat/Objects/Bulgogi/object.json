@@ -41,8 +41,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 800,
-        "PurchaseRequirements": null,
-    },
+            },
     "EnableWithMod": "ppja.moretrees",
     "EnableWithMod": "ppja.evenmorerecipes",
     "NameLocalization":

@@ -1,0 +1,42 @@
+{
+    "Name": "Cooked Ostrich Meat",
+    "Description": "It tastes like beef.",
+    "Category": "Meat",
+    "Edibility": -300,
+    "Price": 900,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Gregory"],
+        "Dislike": ["Abigail", "Dwarf", "Haley", "Jas", "Pam", "Vincent", "Wizard"],
+        "Hate": ["Sebastian", "Sheila"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+}

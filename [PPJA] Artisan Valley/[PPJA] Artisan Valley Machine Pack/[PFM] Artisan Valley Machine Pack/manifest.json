@@ -4,7 +4,7 @@
 	"Version": "1.0.2",
 	"Description": "MACHINES ONLY Producer Framework Mod component.",
 	"UniqueID": "ppja.artisanvalleymachinesPFM",
-	"MinimumApiVersion": "3.6.0",
+	"MinimumApiVersion": "3.7.0",
 	"Dependencies": [
 		{
 			"UniqueID": "ppja.artisanvalleymachinesJA",

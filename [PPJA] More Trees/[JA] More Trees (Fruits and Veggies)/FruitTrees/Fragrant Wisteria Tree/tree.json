@@ -5,7 +5,6 @@
     "SaplingDescription": "Takes 28 days to produce a mature Wisteria tree. Blossoms in the spring. Only grows if the 8 surrounding tiles are empty.",
     "Season": "spring",
     "SaplingPurchasePrice": 2500,
-    "SaplingPurchaseRequirements": null,
     "SaplingNameLocalization":
     {
         "es": "Brote de glicina fragante",

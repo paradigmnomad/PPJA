@@ -18,9 +18,8 @@
         "ExtraChance": 0.0
     },
     "CanPurchase": true,
-	"SeedPurchasePrice": 400,
-	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
-    "SeedPurchaseRequirements": null,
+    "SeedPurchasePrice": 400,
+    "SeedPurchaseFrom": "DONTSELLTHISATNPC",
     "SeedNameLocalization":
     {
         "es": "Semillas de Helecho Antiguas",

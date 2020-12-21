@@ -20,18 +20,21 @@
             "Count": 1,
         },
         {
-            "Object": 247,
+            "Object": "Batter",
             "Count": 1,
         },
         {
-            "Object": "Ginger",
+            "Object": 829,
             "Count": 1,
         },
         {
             "Object": "Soy Sauce",
             "Count": 1,
         }, ],
-        "IsDefault": true,
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1775,
+        "PurchaseRequirements": ["HasCookingRecipe Batter", "n willyHours", "y 3"],
     },
     "GiftTastes":
     {
@@ -45,13 +48,13 @@
         "ko": "새우 튀김",
         // "de": "",
         "fr": "Crevettes panées",
-       "hu": "Ebi Tempura",
+        "hu": "Ebi Tempura",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "日式炸虾天妇罗",
+        "zh": "日式炸虾天妇罗",
     },
     "DescriptionLocalization":
     {
@@ -65,6 +68,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "多汁的虾仁挂上少许面糊下锅油炸捞出，品尝它时酱油必不可少。",
+        "zh": "多汁的虾仁挂上少许面糊下锅油炸捞出，品尝它时酱油必不可少。",
     }
 }

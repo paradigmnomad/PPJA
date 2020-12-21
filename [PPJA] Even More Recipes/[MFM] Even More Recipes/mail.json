@@ -10,10 +10,6 @@
 		[
 			{ "NpcName": "Abigail", "FriendshipLevel": 5 }
 		]
-		/*"SkillConditions": 
-		[
-			{ "SkillName": "Farming", "SkillLevel": 1 }
-		]*/
 	},
 	{
 		"Id": "ppja.bananaandstrawberrycakerecipe",
@@ -25,7 +21,8 @@
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Jas", "FriendshipLevel": 3 }
-		]
+		],
+		"MailReceived": ["willyHours"]
 	},
 	{
 		"Id": "ppja.chocolatemousebreadrecipe",
@@ -61,7 +58,8 @@
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Caroline", "FriendshipLevel": 3 }
-		]
+		],
+		"MailReceived": ["willyHours"]
 	},
 	{
 		"Id": "ppja.deviledeggsrecipe",

@@ -1,7 +1,7 @@
 ﻿{
     "Name": "[PFM] Fresh Meat",
     "Author": "Project Populate Json Assets",
-    "Version": "3.0.1",
+    "Version": "3.0.3",
     "Description": "Fresh Meat Producer Framework Mod component.",
     "UniqueID": "ppja.FreshMeatforPFM",
     "MinimumApiVersion": "3.7.0",

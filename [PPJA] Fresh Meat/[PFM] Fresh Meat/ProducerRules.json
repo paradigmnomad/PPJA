@@ -83,8 +83,7 @@
         {
             "OutputProbability": 1,
             "OutputIdentifier": "Bird DNA",
-        },
-        ],
+        }, ],
     },
     {
         "ProducerName": "DNA Synthesizer",
@@ -97,8 +96,7 @@
         {
             "OutputProbability": 1,
             "OutputIdentifier": "Bird DNA",
-        },
-        ],
+        }, ],
     },
     {
         "ProducerName": "DNA Synthesizer",
@@ -111,8 +109,7 @@
         {
             "OutputProbability": 1,
             "OutputIdentifier": "Bird DNA",
-        },
-        ],
+        }, ],
     },
     {
         "ProducerName": "DNA Synthesizer",
@@ -125,8 +122,20 @@
         {
             "OutputProbability": 1,
             "OutputIdentifier": "Bird DNA",
-        },
-        ],
+        }, ],
+    },
+    {
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "928",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Chicken DNA",
+        "Sounds": ["powerup"],
+        "AdditionalOutputs": [
+        {
+            "OutputProbability": 1,
+            "OutputIdentifier": "Bird DNA",
+        }, ],
     },
     {
         "ProducerName": "DNA Synthesizer",
@@ -139,8 +148,7 @@
         {
             "OutputProbability": 1,
             "OutputIdentifier": "Bird DNA",
-        },
-        ],
+        }, ],
     },
     {
         "ProducerName": "DNA Synthesizer",
@@ -153,8 +161,15 @@
         {
             "OutputProbability": 1,
             "OutputIdentifier": "Bird DNA",
-        },
-        ],
+        }, ],
+    },
+    {
+        "ProducerName": "DNA Synthesizer",
+        "InputIdentifier": "289",
+        "InputStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Ostrich DNA",
+        "Sounds": ["powerup"],
     },
     {
         "ProducerName": "DNA Synthesizer",
@@ -179,10 +194,10 @@
         "MinutesUntilReady": 10,
         "OutputIdentifier": "Sheep DNA",
         "Sounds": ["powerup"],
-    },
+    },    
 
     // Genetically Engineered Yeast
-    
+
     {
         "ProducerName": "DNA Synthesizer",
         "InputIdentifier": "dna_item",
@@ -245,6 +260,16 @@
         "FuelStack": 1,
         "MinutesUntilReady": 10,
         "OutputIdentifier": "Chevon",
+        "Sounds": ["fishSlap"],
+    },
+    {
+        "ProducerName": "Meat Press",
+        "InputIdentifier": "Ostrich DNA",
+        "InputStack": 1,
+        "FuelIdentifier": "Genetically Engineered Yeast",
+        "FuelStack": 1,
+        "MinutesUntilReady": 10,
+        "OutputIdentifier": "Ostrich Meat",
         "Sounds": ["fishSlap"],
     },
     {

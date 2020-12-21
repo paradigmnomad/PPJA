@@ -20,12 +20,9 @@
         {
             "Object": 648,
             "Count": 1,
-        },
-        ],
+        }, ],
     },
     "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-
     "NameLocalization":
     {
         "es": "Ave asada",
@@ -38,7 +35,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "烤飞禽",
+        "zh": "烤飞禽",
     },
     "DescriptionLocalization":
     {
@@ -52,7 +49,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "腌制好的飞禽送入烤箱烤制，配合米饭和卷心菜沙拉食用。",
-    },    
+        "zh": "腌制好的飞禽送入烤箱烤制，配合米饭和卷心菜沙拉食用。",
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

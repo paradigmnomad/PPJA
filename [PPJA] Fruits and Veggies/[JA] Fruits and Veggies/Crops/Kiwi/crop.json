@@ -19,7 +19,6 @@
         "ExtraChance": 0.1,
     },
     "SeedPurchasePrice": 300,
-    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semillas de kiwi",
@@ -27,11 +26,11 @@
         "de": "Kiwi-Starterset",
         "fr": "Graines d'actinidia",
         "hu": "Kiwi magvak",
-         // "it": "",
+        // "it": "",
         "ja": "キウイのタネ",
         "pt": "Sementes de kiwi",
         "ru": "Семена киви",
-         // "tr": "",
+        // "tr": "",
         "zh": "猕猴桃种子",
     },
     "SeedDescriptionLocalization":
@@ -41,11 +40,11 @@
         "de": "Pflanze sie im Sommer oder Herbst. Wächst in 21 Tagen heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
         "fr": "À planter en été ou en automne. Prend 21 jours pour arriver à maturité, et continue de produire des kiwis tous les 3 jours. Pousse sur un treillis.",
         "hu": "Ezeket nyáron vagy ősszel ültesd el. 21 napig tart megérniük, de utána tovább termel 3 naponként. Egy lécen terem meg.",
-         // "it": "",
+        // "it": "",
         "ja": "夏または秋植えの作物。そだつのに21日かかるが、そのあともくりかえし収穫できる。支柱にからみながらそだつ。",
         "pt": "Plante-as no verão ou no outono. Demora 21 dias para amadurecer e continua produzindo a cada 3 dias. Cresce em uma treliça.",
         "ru": "Сажайте летом или осенью. Вырастает через 21 день и продолжает давать урожай каждые 3 дня. Растет на шпалере.",
-         // "tr": "",
+        // "tr": "",
         "zh": "夏天或秋天播种。21天成熟，收获之后每三天结一次果。生长在架子上。",
     }
 }

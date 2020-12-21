@@ -5,7 +5,6 @@
     "SaplingDescription": "Takes 28 days to produce a mature Granny Smith tree. Bears fruit in the fall. Only grows if the 8 surrounding tiles are empty.",
     "Season": "fall",
     "SaplingPurchasePrice": 3500,
-    "SaplingPurchaseRequirements": null,
     "SaplingNameLocalization":
     {
         "es": "Manzano Granny Smith",
@@ -29,7 +28,7 @@
         "hu": "28 nap múlva érik meg, és Granny Smith almafa lesz belőle. Ősszel hoz gyümölcsöt. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
         // "it": "",
         "ja": "28日かけて成木にそだち、秋になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
-         "pt": "Demora 28 dias para produzir uma árvore madura da Vovó Smith. Dá frutos no outono. Só cresce se os 8 espaços adjacentes estiverem vazios.",
+        "pt": "Demora 28 dias para produzir uma árvore madura da Vovó Smith. Dá frutos no outono. Só cresce se os 8 espaços adjacentes estiverem vazios.",
         "ru": "Становится взрослым яблоневым деревом через 28 дней. Плодоносит осенью. Растет только если 8 «клеток» вокруг него не заняты.",
         // "tr": "",
         "zh": "28天成熟为成年澳洲青苹果树。秋天结果。只有在附近8块地块都空置的情况下才会成长。",

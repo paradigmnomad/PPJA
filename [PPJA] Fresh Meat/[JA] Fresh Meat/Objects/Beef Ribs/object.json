@@ -29,12 +29,11 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1000,
-        "PurchaseRequirements": null,
-    },
+            },
 
     "NameLocalization":
     {
-        "es": "Costillas de ternera",
+        "es": "Costilla de ternera",
         "ko": "소 갈비",
         "ko": "소고기 갈비",
         "de": "Rippchen",
@@ -49,7 +48,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "¡Tan suaves que se desprenden del hueso!",
+        "es": "¡Tan suaves, que se desprenden del hueso!",
         "ko": "살이 잘 발라집니다!",
         "de": "Es fällt vom Knochen ab, so zart!",
         "fr": "On tombe directement sur l'os !",

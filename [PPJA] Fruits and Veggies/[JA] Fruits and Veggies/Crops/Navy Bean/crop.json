@@ -19,7 +19,6 @@
         "ExtraChance": 0.1,
     },
     "SeedPurchasePrice": 80,
-    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semillas de frijoles blancos",
@@ -27,11 +26,11 @@
         "de": "Weiße Bohnen-Starterset",
         "fr": "Graines de petit haricot blanc",
         "hu": "Haricot bab magvak",
-         // "it": "",
+        // "it": "",
         "ja": "白インゲン豆のタネ",
         "pt": "Sementes de feijão branco",
         "ru": "Семена белой фасоли",
-         // "tr": "",
+        // "tr": "",
         "zh": "菜豆种子",
     },
     "SeedDescriptionLocalization":
@@ -41,11 +40,11 @@
         "de": "Pflanze sie im Sommer. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
         "fr": "À planter en été. Prend 10 jours pour arriver à maturité, et continue de produire tous les 3 jours. Pousse sur un treillis.",
         "hu": "Ezeket nyáron ültesd el. 10 napig tart megérniük, de utána tovább termelnek. Egy lécen terem meg.",
-         // "it": "",
+        // "it": "",
         "ja": "夏植えの作物。そだつのに10日かかる。最初の収穫のあともくりかえし収穫できる。支柱にからみながらそだつ。",
         "pt": "Plante-as no verão. Demora 10 dias para amadurecer e continua produzindo a cada 3 dias. Cresce em uma treliça.",
         "ru": "Сажайте летом. Вырастает через 10 дней и продолжает давать урожай каждые 3 дня. Растет на шпалере.",
-         // "tr": "",
+        // "tr": "",
         "zh": "夏天播种。10天成熟，成熟之后每3天可收获一次。生长在架子上。",
     }
 }

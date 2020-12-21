@@ -3,11 +3,8 @@
     "Product": "Almond",
     "SaplingName": "Almond Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Almond tree. Ready to harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "fall",
-
     "SaplingPurchasePrice": 3750,
-    "SaplingPurchaseRequirements": null,
     "SaplingNameLocalization":
     {
         "es": "Brote de Almendro",
@@ -15,11 +12,11 @@
         "de": "Mandelbaum-Setzling",
         "fr": "Jeune amandier",
         "hu": "Mandulafa csemete",
-         // "it": "",
+        // "it": "",
         "ja": "アーモンドの苗",
         "pt": "Muda de amendoeira",
         "ru": "Саженец миндаля",
-         // "tr": "",
+        // "tr": "",
         "zh": "杏仁树苗",
     },
     "SaplingDescriptionLocalization":
@@ -29,11 +26,11 @@
         "de": "Wächst in 28 Tagen zu einem reifen Mandelbaum heran. Trägt im Herbst Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
         "fr": "Il faut 28 jours pour produire un amandier mature. Produit des amandes à l’automne. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
         "hu": "28 nap múlva érik meg, és mandulafa lesz belőle. Ősszel hoz gyümölcsöt. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
-         // "it": "",
+        // "it": "",
         "ja": "28日かけて成木にそだち、秋になると実を実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
         "pt": "Demora até 28 dias para produzir uma amendoeira madura. Dá frutas no outono. Só cresce se os 8 espaços adjacentes estiverem vazios",
         "ru": "Становится взрослым миндальным деревом через 28 дней. Плодоносит осенью. Растет только если 8 «клеток» вокруг него не заняты.",
-         // "tr": "",
+        // "tr": "",
         "zh": "28天成熟为成年杏仁树。秋天结果。只有在附近8块地块都空置的情况下才会成长。",
     }
 }

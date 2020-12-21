@@ -6,48 +6,51 @@
     "Type": "Flower",
 
     "Seasons": ["spring"],
-    "Phases": [ 1, 1, 2, 2 ],
+    "Phases": [1, 1, 2, 2],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": [
-		"205, 35, 255, 255",
-		"125, 30, 255, 255",
-		"80, 35, 255, 255"],
-    "Bonus": {
+        "205, 35, 255, 255",
+        "125, 30, 255, 255",
+        "80, 35, 255, 255"
+    ],
+    "Bonus":
+    {
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 1,
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
-	"SeedPurchaseRequirements": null,
     "SeedPurchasePrice": 20,
-    
-    "SeedNameLocalization": { 
-    "es": "Semillas de violeta",
-    "ko": "제비꽃 씨앗",
-    "de": "Violette Samen",
-     // "fr": "",
-    "hu": "Ibolya magvak",
-     // "it": "",
-    "ja": "スミレの種",
-    "pt": "Semente de Violeta",
-    "ru": "Семена фиалки",
-     // "tr": "",
-    "zh": "紫罗兰花种子",
+
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de violeta",
+        "ko": "제비꽃 씨앗",
+        "de": "Violette Samen",
+        // "fr": "",
+        "hu": "Ibolya magvak",
+        // "it": "",
+        "ja": "スミレの種",
+        "pt": "Semente de Violeta",
+        "ru": "Семена фиалки",
+        // "tr": "",
+        "zh": "紫罗兰花种子",
     },
-"SeedDescriptionLocalization": { 
-    "es": "Plántalas en primavera. Toma 6 días para producir una rica flor morada.",
-    "ko": "봄에 심습니다. 6일후에 작고, 보라색 꽃이 핍니다.",
-    "de": "Im Frühjahr pflanzen. Es dauert 6 Tage, um kleine, violette Blüten zu produzieren.",
-     // "fr": "",
-    "hu": "Ezeket tavasszal ültesd el. 6 nap alatt hoz kicsi, lila virágokat.",
-     // "it": "",
-    "ja": "春植えの花。6日かけて育ち、小さな紫色の花を咲かせる。",
-    "pt": "Plante-a na primavera. Demoram 6 dias para nascer pequenas flores roxas.",
-    "ru": "Сажайте весной. Через 6 дней вырастает маленький фиолетовый цветок.",
-     // "tr": "",
-    "zh": "春天播种。6天产出紫色的小巧花朵。",
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera. Toma 6 días para producir una rica flor morada.",
+        "ko": "봄에 심습니다. 6일후에 작고, 보라색 꽃이 핍니다.",
+        "de": "Im Frühjahr pflanzen. Es dauert 6 Tage, um kleine, violette Blüten zu produzieren.",
+        // "fr": "",
+        "hu": "Ezeket tavasszal ültesd el. 6 nap alatt hoz kicsi, lila virágokat.",
+        // "it": "",
+        "ja": "春植えの花。6日かけて育ち、小さな紫色の花を咲かせる。",
+        "pt": "Plante-a na primavera. Demoram 6 dias para nascer pequenas flores roxas.",
+        "ru": "Сажайте весной. Через 6 дней вырастает маленький фиолетовый цветок.",
+        // "tr": "",
+        "zh": "春天播种。6天产出紫色的小巧花朵。",
     }
 
 }

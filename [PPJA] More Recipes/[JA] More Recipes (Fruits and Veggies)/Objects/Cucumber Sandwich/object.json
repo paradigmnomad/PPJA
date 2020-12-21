@@ -26,9 +26,9 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2400,
-        "PurchaseRequirements": [
+        "PurchaseRequirements": ["HasCookingRecipe Bread",
             "f Evelyn 1250",
-            "y 2",
+            "y 4",
         ]
     },
     "GiftTastes":

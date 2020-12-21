@@ -20,7 +20,7 @@
             "Count": 1,
         },
         {
-            "Object": "Ginger",
+            "Object": 829,
             "Count": 1,
         },
         {
@@ -31,7 +31,10 @@
             "Object": "Vanilla",
             "Count": 1,
         }],
-        "IsDefault": true,
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1500,
+        "PurchaseRequirements": ["n willyHours"],
     },
     "GiftTastes":
     {

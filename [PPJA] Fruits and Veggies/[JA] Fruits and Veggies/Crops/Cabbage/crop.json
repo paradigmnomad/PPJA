@@ -19,7 +19,6 @@
         "ExtraChance": 0.0,
     },
     "SeedPurchasePrice": 80,
-    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semillas de repollo",
@@ -27,11 +26,11 @@
         "de": "Kohl-Saat",
         "fr": "Graines de chou",
         "hu": "Fejes káposzta magvak",
-         // "it": "",
+        // "it": "",
         "ja": "キャベツのタネ",
         "pt": "Sementes de repolho",
         "ru": "Семена капусты",
-         // "tr": "",
+        // "tr": "",
         "zh": "卷心菜种子",
     },
     "SeedDescriptionLocalization":
@@ -41,11 +40,11 @@
         "de": "Pflanze sie im Frühling oder Herbst. Wächst in 7 Tagen heran.",
         "fr": "À planter au printemps ou en automne. Prend 7 jours pour arriver à maturité.",
         "hu": "Ezeket ősszel ültesd el. 7 napig tart megérniük.",
-         // "it": "",
+        // "it": "",
         "ja": "春植えの作物。そだつのに7日かかる。",
         "pt": "Plante-as na primavera ou no outono. Demora 7 dias para amadurecer.",
         "ru": "Сажайте весной или осенью. Вырастает через 7 дней.",
-         // "tr": "",
+        // "tr": "",
         "zh": "春天或秋天播种。7天成熟。",
     }
 }

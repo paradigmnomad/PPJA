@@ -2,8 +2,8 @@
     "Name": "[JA] Cocktail Bar",
     "Author": "Project Populate JsonAssets",
     "Description": "For use with CCS. Includes the cocktail bar asset.",
-    "Version": "1.0.0",
-    "MinimumApiVersion": "3.2.0",
+    "Version": "1.0.2",
+    "MinimumApiVersion": "3.7.0",
     "UniqueID": "ppja.cocktailbarJA",
     "ContentPackFor":
     {

@@ -5,19 +5,18 @@
     "SaplingDescription": "Takes 28 days to produce a mature Persimmon tree. Bears fruit in the winter. Only grows if the 8 surrounding tiles are empty.",
     "Season": "winter",
     "SaplingPurchasePrice": 7000,
-    "SaplingPurchaseRequirements": null,
-       "SaplingNameLocalization":
+    "SaplingNameLocalization":
     {
         "es": "Brote de caqui",
         "ko": "감 묘목",
         "de": "Kaki-Setzling",
         "fr": "Jeune plaqueminier",
         "hu": "Kakifa csemete",
-         // "it": "",
+        // "it": "",
         "ja": "柿の苗",
         "pt": "Muda de caquizeiro",
         "ru": "Саженец хурмы",
-         // "tr": "",
+        // "tr": "",
         "zh": "柿子树苗",
     },
     "SaplingDescriptionLocalization":
@@ -27,11 +26,11 @@
         "de": "Wächst in 28 Tagen zu einem reifen Kakibaum heran. Trägt im Winter Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
         "fr": "Il faut 28 jours pour produire un plaqueminier mature. Produit des kakis en hiver. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
         "hu": "28 nap múlva érik meg, és kakifa lesz belőle. Télen hoz gyümölcsöt. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
-         // "it": "",
+        // "it": "",
         "ja": "28日かけて成木にそだち、冬になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
         "pt": "Demora até 28 dias para produzir um caquieiro maduro. Dá frutas no inverno. Só cresce se os 8 espaços adjacentes estiverem vazios.",
         "ru": "Становится взрослым деревом хурмы через 28 дней. Плодоносит зимой. Растет только если 8 «клеток» вокруг него не заняты.",
-         // "tr": "",
+        // "tr": "",
         "zh": "28天成熟为成年柿子树。冬天结果。只有在附近8块地块都空置的情况下才会成长。",
     }
 }

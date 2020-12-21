@@ -35,8 +35,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 3015,
-        "PurchaseRequirements": ["z spring fall winter",
-            "y 2",
+        "PurchaseRequirements": ["HasCookingRecipe Chocolate", "z spring fall winter", "y 3",
         ],
     },
     "NameLocalization":

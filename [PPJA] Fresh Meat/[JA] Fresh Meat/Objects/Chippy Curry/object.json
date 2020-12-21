@@ -24,7 +24,7 @@
         "PurchaseFrom": "Gus",
         "PurchasePrice": 675,
         "PurchaseRequirements": [
-            "y 3",
+            "HasCookingRecipe Batter", "y 3",
         ],
     },
     "NameLocalization":
@@ -54,6 +54,6 @@
         // "ru": "",
         // "tr": "",
         "zh": "谁知道青蛙在咖喱里这么好吃？",
-    },    
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

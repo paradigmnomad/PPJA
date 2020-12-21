@@ -9,7 +9,7 @@
 
         "NameLocalization": //Used for localization. 
         { 
-            "es": "", //Spanish
+            "es": "", //Spansih
             "ko": "", //Korean
             "de": "", //German
             "fr": "", //French
@@ -23,7 +23,7 @@
         },
         "DescriptionLocalization": //Used for localization. 
         { 
-            "es": "", //Spanish
+            "es": "", //Spansih
             "ko": "", //Korean
             "de": "", //German
             "fr": "", //French

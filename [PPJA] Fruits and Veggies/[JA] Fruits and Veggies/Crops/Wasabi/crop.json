@@ -4,7 +4,6 @@
     "SeedName": "Wasabi Seeds",
     "SeedDescription": "Plant these in summer. Takes 8 days to mature.",
     "Type": "Vegetable",
-
     "Seasons": ["summer"],
     "Phases": [1, 2, 3, 2],
     "RegrowthPhase": -1,
@@ -19,7 +18,6 @@
         "ExtraChance": 0.0,
     },
     "SeedPurchasePrice": 100,
-    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semillas de wasabi",
@@ -27,11 +25,11 @@
         "de": "Wasabi-Saat",
         "fr": "Graines de wasabi",
         "hu": "Vaszabi magvak",
-         // "it": "",
+        // "it": "",
         "ja": "ワサビのタネ",
         "pt": "Sementes de wasabi",
         "ru": "Семена васаби",
-         // "tr": "",
+        // "tr": "",
         "zh": "山葵种子",
     },
     "SeedDescriptionLocalization":
@@ -41,11 +39,11 @@
         "de": "Pflanze sie im Sommer. Wächst in 8 Tagen heran.",
         "fr": "À planter en été. Prend 8 jours pour arriver à maturité.",
         "hu": "Ezeket nyáron ültesd el. 8 napig tart megérniük.",
-         // "it": "",
+        // "it": "",
         "ja": "夏植えの作物。そだつのに8日かかる。",
         "pt": "Plante-as no verão. Demora 8 dias para amadurecer.",
         "ru": "Сажайте летом. Вырастает через 8 дней.",
-         // "tr": "",
+        // "tr": "",
         "zh": "夏天播种。8天成熟。",
     }
 }

@@ -5,7 +5,6 @@
     "SaplingDescription": "Takes 28 days to produce a mature Asian Pear tree. Ready to harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
     "Season": "fall",
     "SaplingPurchasePrice": 3500,
-    "SaplingPurchaseRequirements": null,
     "SaplingNameLocalization":
     {
         "es": "Brote de pera asiática",

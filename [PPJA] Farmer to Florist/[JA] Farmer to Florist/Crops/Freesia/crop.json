@@ -6,48 +6,50 @@
     "Type": "Flower",
 
     "Seasons": ["fall"],
-    "Phases": [ 1, 2, 3, 2 ],
-	"RegrowthPhase": -1,
+    "Phases": [1, 2, 3, 2],
+    "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": [
-		"255, 125, 0, 255",
-		"255, 200, 0, 255",
-		"255, 80, 230, 255"
-	],
-    "Bonus": {
+        "255, 125, 0, 255",
+        "255, 200, 0, 255",
+        "255, 80, 230, 255"
+    ],
+    "Bonus":
+    {
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 1,
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0
     },
 
-	"SeedPurchaseRequirements": null,
     "SeedPurchasePrice": 40,
-    "SeedNameLocalization": { 
-    "es": "Bulbo de fresia",
-    "ko": "프리지아 구근",
-    "de": "Freesienknolle",
-     // "fr": "",
-    "hu": "Frézia hagyma",
-     // "it": "",
-    "ja": "フリージアの球根",
-    "pt": "Bulbo de Frésia",
-    "ru": "Семена фрезии",
-     // "tr": "",
-    "zh": "小苍兰种子",
+    "SeedNameLocalization":
+    {
+        "es": "Bulbo de fresia",
+        "ko": "프리지아 구근",
+        "de": "Freesienknolle",
+        // "fr": "",
+        "hu": "Frézia hagyma",
+        // "it": "",
+        "ja": "フリージアの球根",
+        "pt": "Bulbo de Frésia",
+        "ru": "Семена фрезии",
+        // "tr": "",
+        "zh": "小苍兰种子",
     },
-"SeedDescriptionLocalization": { 
-    "es": "Planta en otoño. Toma 8 días para producir una flor",
-    "ko": "가을에 심습니다. 8일후에 한줄기의 꽃이 핍니다.",
-    "de": "Pflanze im Herbst. Es dauert 8 Tage, um eine Reihe von Blumen zu produzieren.",
-     // "fr": "",
-    "hu": "Ezeket ősszel ültesd el. 8 nap alatt virágzik.",
-     // "it": "",
-    "ja": "秋植えの花。8日かけて育ち、一連の花を咲かせる。",
-    "pt": "Plante-a no outono. Demoram 8 dias para nascer uma sequência de flores",
-    "ru": "Сажайте осенью. Вырастает через 8 дней.",
-     // "tr": "",
-    "zh": "秋天播种。8天产出串状的花。",
+    "SeedDescriptionLocalization":
+    {
+        "es": "Planta en otoño. Toma 8 días para producir una flor",
+        "ko": "가을에 심습니다. 8일후에 한줄기의 꽃이 핍니다.",
+        "de": "Pflanze im Herbst. Es dauert 8 Tage, um eine Reihe von Blumen zu produzieren.",
+        // "fr": "",
+        "hu": "Ezeket ősszel ültesd el. 8 nap alatt virágzik.",
+        // "it": "",
+        "ja": "秋植えの花。8日かけて育ち、一連の花を咲かせる。",
+        "pt": "Plante-a no outono. Demoram 8 dias para nascer uma sequência de flores",
+        "ru": "Сажайте осенью. Вырастает через 8 дней.",
+        // "tr": "",
+        "zh": "秋天播种。8天产出串状的花。",
     }
 }

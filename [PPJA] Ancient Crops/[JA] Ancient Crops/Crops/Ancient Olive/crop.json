@@ -18,8 +18,7 @@
         "ExtraChance": 0.6
     },
     "SeedPurchasePrice": 300,
-	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
-    "SeedPurchaseRequirements": null,
+    "SeedPurchaseFrom": "DONTSELLTHISATNPC",
     "SeedNameLocalization":
     {
         "es": "Semillas de Oliva Antiguas",

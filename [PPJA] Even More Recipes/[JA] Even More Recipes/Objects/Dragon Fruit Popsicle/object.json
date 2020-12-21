@@ -28,8 +28,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Sandy",
         "PurchasePrice": 1300,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Paleta de pitaya",

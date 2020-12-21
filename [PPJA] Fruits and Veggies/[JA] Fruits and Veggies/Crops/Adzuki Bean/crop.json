@@ -19,7 +19,6 @@
         "ExtraChance": 0.0,
     },
     "SeedPurchasePrice": 50,
-    "SeedPurchaseRequirements": null,
     "SeedNameLocalization":
     {
         "es": "Semillas de judías azuki",
@@ -27,11 +26,11 @@
         "de": "Adzukibohnen-Saat",
         "fr": "Graines de haricot azuki",
         "hu": "Azukibab magvagvak",
-         // "it": "",
+        // "it": "",
         "ja": "アズキ豆のタネ",
         "pt": "Sementes de feijão-azuqui",
         "ru": "Семена фасоли адзуки",
-         // "tr": "",
+        // "tr": "",
         "zh": "红豆种子",
     },
     "SeedDescriptionLocalization":
@@ -40,12 +39,12 @@
         "ko": "여름 작물. 성장하려면 9일이 소요됩니다.",
         "de": "Pflanze sie im Sommer. Wächst in 9 Tagen heran.",
         "fr": "À planter en été. Prend 9 jours pour arriver à maturité.",
-         "hu": "Ezeket nyáron ültesd el. 9 napig tart megérniük.",
-         // "it": "",
+        "hu": "Ezeket nyáron ültesd el. 9 napig tart megérniük.",
+        // "it": "",
         "ja": "夏植えの作物。そだつのに9日かかる。",
         "pt": "Plante-as no verão. Demora 9 dias para amadurecer.",
         "ru": "Сажайте летом. Вырастает через 9 дней.",
-         // "tr": "",
+        // "tr": "",
         "zh": "夏天播种。9天成熟。",
     }
 }

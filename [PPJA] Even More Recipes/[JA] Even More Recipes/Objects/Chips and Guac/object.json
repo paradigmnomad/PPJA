@@ -1,0 +1,73 @@
+{
+    "Name": "Chips and Guac",
+    "Description": "The perfect food to have while watching a game of Gridball.",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 825,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Alex"],
+        "Like": ["Gus", "Pierre"],
+"Dislike": ["Jas"]
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Avocado",
+            "Count": 2,
+        },
+        {
+            "Object": "Onion",
+            "Count": 1,
+        },
+        {
+            "Object": "Lime",
+            "Count": 1,
+        },
+{
+            "Object": 256,
+            "Count": 1,
+        },
+{
+            "Object": 229,
+            "Count": 1,
+        },],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 750,
+        "PurchaseRequirements": ["HasCookingRecipe Tortilla", "y 3"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

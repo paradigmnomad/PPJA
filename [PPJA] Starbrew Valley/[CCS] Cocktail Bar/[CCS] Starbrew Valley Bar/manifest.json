@@ -1,7 +1,7 @@
 {
 	"Name": "[CCS] Cocktail Bar",
 	"Author": "Project Populate JsonAssets",
-	"Version": "1.0.0",
+	"Version": "1.0.2",
 	"Description": "A full liquor bar to get your drinky drink on.",
 	"UniqueID": "ppja.StarbrewValleyforCCS",
         "UpdateKeys": [ "Nexus:1764@CocktailBar" ],

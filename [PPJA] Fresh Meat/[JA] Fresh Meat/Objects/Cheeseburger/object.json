@@ -32,11 +32,10 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1050,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
-        "es": "Hamburguesa con queso",
+        "es": "Quesoburguesa",
         "ko": "치즈버거",
         "de": "Cheeseburger",
         "fr": "Hamburger au fromage",
@@ -50,7 +49,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "Una hamburguesa, pero con queso.",
+        "es": "Una hamburguesa con queso.",
         "ko": "치즈가 들어있는 햄버거.",
         "de": "Ein Hamburger, mit Käse.",
         "fr": "Un hamburger, mais avec du fromage.",

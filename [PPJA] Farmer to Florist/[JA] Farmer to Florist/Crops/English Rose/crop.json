@@ -6,47 +6,50 @@
     "Type": "Flower",
 
     "Seasons": ["fall"],
-    "Phases": [ 1, 2, 3, 3, 3 ],
+    "Phases": [1, 2, 3, 3, 3],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": [
-		"255, 70, 175, 255",
-		"255, 0, 0, 255",
-		"255, 0, 100, 255"],
-    "Bonus": {
+        "255, 70, 175, 255",
+        "255, 0, 0, 255",
+        "255, 0, 100, 255"
+    ],
+    "Bonus":
+    {
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 1,
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
-	"SeedPurchaseRequirements": null,
     "SeedPurchasePrice": 100,
-    "SeedNameLocalization": { 
-    "es": "Semillas de rosa inglesa",
-    "ko": "잉글리쉬 장미 씨앗",
-    "de": "Englische Rosensamen",
-     // "fr": "",
-    "hu": "Angol rózsa magvak",
-     // "it": "",
-    "ja": "イングリッシュローズの種",
-    "pt": "Semente de Rosa Inglesa",
-    "ru": "Семена английской розы",
-     // "tr": "",
-    "zh": "英伦玫瑰种子",
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de rosa inglesa",
+        "ko": "잉글리쉬 장미 씨앗",
+        "de": "Englische Rosensamen",
+        // "fr": "",
+        "hu": "Angol rózsa magvak",
+        // "it": "",
+        "ja": "イングリッシュローズの種",
+        "pt": "Semente de Rosa Inglesa",
+        "ru": "Семена английской розы",
+        // "tr": "",
+        "zh": "英伦玫瑰种子",
     },
-"SeedDescriptionLocalization": { 
-    "es": "Plántalas en otoño. Toma 12 días para producir una flor delicada con colores variados.",
-    "ko": "가을에 심습니다. 12일후에 다양한 여러색상의 우아한 꽃이 핍니다.",
-    "de": "Pflanze im Herbst. Die Herstellung einer zarten Blume dauert 12 Tage. Sortierte Farben.",
-     // "fr": "",
-    "hu": "Ezeket ősszel ültesd el. 12 nap alatt hoz egy törékeny virágot. Válogatott színű.",
-     // "it": "",
-    "ja": "秋植えの花。12日かけて育ち、繊細な花を咲かせる。色は咲いてのお楽しみ。",
-    "pt": "Plante-a no outono. Demoram 12 dias para nascer uma flor delicada. Cores sortidas.",
-    "ru": "Сажайте осенью. Через 12 дней вырастает  цветок. Цветы бывают разного цвета.",
-     // "tr": "",
-    "zh": "秋天播种。12天产出娇嫩的花，具有多种颜色。",
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 12 días para producir una flor delicada con colores variados.",
+        "ko": "가을에 심습니다. 12일후에 다양한 여러색상의 우아한 꽃이 핍니다.",
+        "de": "Pflanze im Herbst. Die Herstellung einer zarten Blume dauert 12 Tage. Sortierte Farben.",
+        // "fr": "",
+        "hu": "Ezeket ősszel ültesd el. 12 nap alatt hoz egy törékeny virágot. Válogatott színű.",
+        // "it": "",
+        "ja": "秋植えの花。12日かけて育ち、繊細な花を咲かせる。色は咲いてのお楽しみ。",
+        "pt": "Plante-a no outono. Demoram 12 dias para nascer uma flor delicada. Cores sortidas.",
+        "ru": "Сажайте осенью. Через 12 дней вырастает  цветок. Цветы бывают разного цвета.",
+        // "tr": "",
+        "zh": "秋天播种。12天产出娇嫩的花，具有多种颜色。",
     }
 
 }

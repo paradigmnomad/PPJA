@@ -40,9 +40,9 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2835,
-        "PurchaseRequirements": [
+        "PurchaseRequirements": ["HasCookingRecipe Chocolate",
             "r 0.25",
-            "y 2",
+            "y 4",
         ]
     },
     "NameLocalization":
@@ -51,12 +51,12 @@
         "ko": "브라우니",
         "de": "Brownie",
         "fr": "Brownie",
-         // "hu": "",
-         // "it": "",
+        // "hu": "",
+        // "it": "",
         "ja": "ブラウニー",
         "pt": "Brownie",
-         // "ru": "",
-         // "tr": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "布朗尼蛋糕",
     },
     "DescriptionLocalization":
@@ -65,12 +65,12 @@
         "ko": "맛있는 퍼지로 가득 차 있어요!",
         "de": "Gefüllt mit leckerem Fudge!",
         "fr": "C'est rempli de chocolat crémeux appétissant !",
-         // "hu": "",
-         // "it": "",
+        // "hu": "",
+        // "it": "",
         "ja": "おいしいファッジがたっぷり詰まっている！",
         "pt": "Está cheio de um delicioso Fudge!",
-         // "ru": "",
-         // "tr": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "里面全是美味的乳脂软糖！",
     }
 }

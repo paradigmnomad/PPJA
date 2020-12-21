@@ -39,8 +39,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1375,
-        "PurchaseRequirements": null,
-
+        
     },
     "GiftTastes":
     {

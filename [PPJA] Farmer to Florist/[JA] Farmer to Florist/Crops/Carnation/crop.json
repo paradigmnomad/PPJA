@@ -6,47 +6,49 @@
     "Type": "Flower",
 
     "Seasons": ["spring", "summer"],
-    "Phases": [ 1, 2, 2, 2 ],
+    "Phases": [1, 2, 2, 2],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": [
-		"254, 254, 254, 255",  //Color 1
-		"255, 40, 130, 255",  //Color 2
-		"255, 20, 20, 255"  //Color 3
-	],
-    "Bonus": {
+        "254, 254, 254, 255", 
+        "255, 40, 130, 255", 
+        "255, 20, 20, 255" 
+    ],
+    "Bonus":
+    {
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 1,
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0,
     },
-	"SeedPurchaseRequirements": null,
     "SeedPurchasePrice": 45,
-    "SeedNameLocalization": { 
-    "es": "Semillas de clavel",
-    "ko": "카네이션 씨앗",
-    "de": "Nelkensamen",
-     // "fr": "",
-    "hu": "Szegfű magvak",
-     // "it": "",
-    "ja": "カーネーションの種",
-    "pt": "Semente de Cravo",
-    "ru": "Семена гвоздики",
-     // "tr": "",
-    "zh": "康乃馨种子",
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de clavel",
+        "ko": "카네이션 씨앗",
+        "de": "Nelkensamen",
+        // "fr": "",
+        "hu": "Szegfű magvak",
+        // "it": "",
+        "ja": "カーネーションの種",
+        "pt": "Semente de Cravo",
+        "ru": "Семена гвоздики",
+        // "tr": "",
+        "zh": "康乃馨种子",
     },
-"SeedDescriptionLocalization": { 
-    "es": "Plántalas en primavera o verano. Toma 7 días para producir una delicada y bella flor.",
-    "ko": "봄과 여름에 심습니다. 7일후에 아름답고 우아한 꽃이 핍니다.",
-    "de": "Pflanze im Frühling oder Sommer. Es dauert 7 Tage, um eine schöne, zarte Blume zu produzieren. ",
-     // "fr": "",
-    "hu": "Ezeket tavasszal vagy nyáron ültesd el. 7 nap alatt hoz egy gyönyörű, törékeny virágot.",
-     // "it": "",
-    "ja": "夏と春植えの花。7日かけて育ち、美しく繊細な花を咲かせる。",
-    "pt": "Plante-a  na primavera ou no verão. Demoram 7 dias para nascer uma flor bonita e delicada.",
-    "ru": "Сажайте весной или летом. Через 7 дней вырастает  цветок.",
-     // "tr": "",
-    "zh": "春天或夏天播种。7天收获美丽娇嫩的花朵。",
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera o verano. Toma 7 días para producir una delicada y bella flor.",
+        "ko": "봄과 여름에 심습니다. 7일후에 아름답고 우아한 꽃이 핍니다.",
+        "de": "Pflanze im Frühling oder Sommer. Es dauert 7 Tage, um eine schöne, zarte Blume zu produzieren. ",
+        // "fr": "",
+        "hu": "Ezeket tavasszal vagy nyáron ültesd el. 7 nap alatt hoz egy gyönyörű, törékeny virágot.",
+        // "it": "",
+        "ja": "夏と春植えの花。7日かけて育ち、美しく繊細な花を咲かせる。",
+        "pt": "Plante-a  na primavera ou no verão. Demoram 7 dias para nascer uma flor bonita e delicada.",
+        "ru": "Сажайте весной или летом. Через 7 дней вырастает  цветок.",
+        // "tr": "",
+        "zh": "春天或夏天播种。7天收获美丽娇嫩的花朵。",
     }
 }

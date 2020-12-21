@@ -1,10 +1,10 @@
 {
     "Name": "Tailor Mouse Clothing Stand",
     "Author": "Project Populate Json Assets",
-    "Version": "2.2.3",
+    "Version": "2.2.4",
     "Description": "Adds a clothing stand to purchase items from Json Assets.",
     "UniqueID": "ppja.tailormousestf",
-    "MinimumApiVersion": "3.6.0",
+    "MinimumApiVersion": "3.7.0",
     "UpdateKeys": ["Nexus:4798"],
     "ContentPackFor":
     {

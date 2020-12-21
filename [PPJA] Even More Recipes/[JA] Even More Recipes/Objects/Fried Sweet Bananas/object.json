@@ -26,13 +26,13 @@
             "Count": 1,
         },
         {
-            "Object": "Banana",
+            "Object": 69,
             "Count": 2,
         }],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2545,
-        "PurchaseRequirements": null,
+        "PurchaseRequirements": ["n willyHours"]
     },
     "NameLocalization":
     {

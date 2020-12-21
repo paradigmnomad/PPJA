@@ -22,9 +22,8 @@
         "ExtraChance": 0.0
     },
     "CanPurchase": true,
-	"SeedPurchasePrice": 300,
-	"SeedPurchaseFrom": "DONTSELLTHISATNPC",
-    "SeedPurchaseRequirements": null,
+    "SeedPurchasePrice": 300,
+    "SeedPurchaseFrom": "DONTSELLTHISATNPC",
     "SeedNameLocalization":
     {
         "es": "Semillas de Flores Antiguas",

@@ -66,7 +66,7 @@
         "pt": "Coquetel Atômico",
         // "ru": "",
         // "tr": "",
-        "zh": "原子鸡尾酒",
+        //"zh": "",
     },
     "DescriptionLocalization":
     {
@@ -80,7 +80,7 @@
         "pt": "A bebida do futuro!",
         // "ru": "",
         // "tr": "",
-        "zh": "未来之酒！",
+        //"zh": "",
     },
     "EnableWithMod": "fwippy.champagnewishes",
 }

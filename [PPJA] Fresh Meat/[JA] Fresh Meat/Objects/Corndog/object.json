@@ -42,7 +42,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 650,
-        "PurchaseRequirements": null,
+        "PurchaseRequirements": ["HasCookingRecipe Ketchup Mustard", "y 3"],
     },
 
     "NameLocalization":
@@ -61,7 +61,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "Un perrito caliente empanado y frito.",
+        "es": "Un hot dog empanizado y frito.",
         "ko": "빵에 튀긴 핫도그.",
         "de": "Ein im Brot frittierter Hot Dog.",
         "fr": "Un hot-dog pané et frit.",

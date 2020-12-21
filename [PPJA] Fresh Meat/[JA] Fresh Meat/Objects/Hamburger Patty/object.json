@@ -23,12 +23,10 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 550,
-        "PurchaseRequirements": null,
     },
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
-    "PurchasePrice": 125,
-    "PurchaseRequirements": null,
+    "PurchasePrice": 300,
     "NameLocalization":
     {
         "es": "Filete de carne picada",
@@ -41,7 +39,7 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "牛肉饼",
+        "zh": "牛肉饼",
     },
     "DescriptionLocalization":
     {
@@ -55,6 +53,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "传统的牛肉汉堡馅饼。",
+        "zh": "传统的牛肉汉堡馅饼。",
     }
 }

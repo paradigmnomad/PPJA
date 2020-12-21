@@ -34,8 +34,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2350,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Filete",
@@ -52,7 +51,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "Si has añadido algo más, lo has hecho mal.",
+        "es": "Si agregaste algo más, lo has hecho mal.",
         "ko": "이 것에 다른 것을 더 넣고 싶다면 잘못하고 있는 것입니다.",
         "de": "Blutig, mittel oder durch wie magst du es?",
         "fr": "Si vous ajoutez autre chose, c'est que vous l'avez mal fait.",

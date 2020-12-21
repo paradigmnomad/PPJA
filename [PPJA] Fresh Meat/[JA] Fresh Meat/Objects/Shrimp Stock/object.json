@@ -46,17 +46,17 @@
     },
     "NameLocalization":
     {
-        "es": "caldo de camarones",
+        "es": "Caldo de camarones",
         "ko": "새우 육수",
         // "de": "",
         "fr": "Bouillon de crevette",
         "hu": "Garnélarák alaplé",
-         // "it": "",
-         // "ja": "",
-         // "pt": "",
-         // "ru": "",
-         // "tr": "",
-         "zh": "虾肉高汤",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "虾肉高汤",
     },
     "DescriptionLocalization":
     {
@@ -65,11 +65,11 @@
         // "de": "",
         "fr": "Mijoté de crevettes en bouillon souvent utilisé comme base d'une soupe.",
         "hu": "Párolt garnélarák alaplévé készítve, melyet gyakran használják levesek alapjául.",
-         // "it": "",
-         // "ja": "",
-         // "pt": "",
-         // "ru": "",
-         // "tr": "",
-         "zh": "炖煮的虾仁汤，通常用作汤底。",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "炖煮的虾仁汤，通常用作汤底。",
     }
 }

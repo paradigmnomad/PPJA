@@ -31,7 +31,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2760,
-        "PurchaseRequirements": ["z spring fall winter", ],
+        "PurchaseRequirements": ["HasCookingRecipe Graham-Crackers", "z spring fall winter", "y 4"],
     },
     "NameLocalization":
     {

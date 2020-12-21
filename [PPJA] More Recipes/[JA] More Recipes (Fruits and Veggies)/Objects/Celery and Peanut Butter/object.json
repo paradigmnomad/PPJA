@@ -22,7 +22,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1380,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Peanut-Butter", "y 4", ],
     },
     "GiftTastes":
     {

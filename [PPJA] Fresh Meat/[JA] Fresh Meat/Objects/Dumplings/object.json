@@ -45,7 +45,7 @@
     },
     "NameLocalization":
     {
-        "es": "Empanadillas chinas",
+        "es": "Empanadillas",
         "ko": "만두",
         "de": "Knödel",
         "fr": "Raviolis",
@@ -59,7 +59,7 @@
     },
     "DescriptionLocalization":
     {
-        "es": "Una empanadilla china frita con cerdo y cebolletas.",
+        "es": "Una empanada frita con cerdo y cebolletas.",
         "ko": "돼지고기와 부추 튀김.",
         "de": "Eine gebratene Tasche mit Schweinefleisch und Frühlingszwiebeln.",
         "fr": "Une pochette de porc grillé avec de l'oignon vert.",

@@ -40,8 +40,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Krobus",
         "PurchasePrice": 5500,
-        "PurchaseRequirements": null,
-    },
+            },
     "GiftTastes":
     {
         "Love": ["Linus", "Gus", "Pam", "Emily", "Sandy"],
