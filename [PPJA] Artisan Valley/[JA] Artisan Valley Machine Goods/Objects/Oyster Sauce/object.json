@@ -25,14 +25,14 @@
             "Object": 723,
             "Count": 1,
         },
-{
+        {
             "Object": 245,
             "Count": 1,
-        },],
+        }, ],
         "CanPurchase": true,
         "PurchaseFrom": "Willy",
         "PurchasePrice": 450,
-            },
+    },
     "NameLocalization":
     {
         // "es": "",
@@ -60,5 +60,6 @@
         // "ru": "",
         // "tr": "",
         // "zh": "",
-    }
+    },
+    "DisableWithMod": "SSaturn.TropicalFarm"
 }
