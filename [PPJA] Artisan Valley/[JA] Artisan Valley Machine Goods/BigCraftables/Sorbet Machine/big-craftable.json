@@ -20,7 +20,7 @@
             "Object": 709,
             "Count": 5,
         }, ],
-        "CanPurchase": false,
+        "IsDefault": true
     },
     "NameLocalization":
     {
