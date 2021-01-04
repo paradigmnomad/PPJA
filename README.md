@@ -24,7 +24,7 @@ Whenever migrating to a new version using mods, we always recommend [backing up 
 * Drag + Drop into `Mods` as normal.
 * Have fun in 1.5! There's lots of new stuff to explore.
 
-Not all framework mods may be ready with day one updates. As of 12/19/2020 PFM works but machine animations do not. Please understand these are out of our control and even the PPJA team must wait for an update. We do not manage **any** of the frameworks: Json Assets, Producer Framework Mod, Content Patcher, nor Mail Framework Mod to name a few. Any questions/bug reports that reference these frameworks not being updated and asking for an update will be archived.
+Not all framework mods may be ready with day one updates. Please understand these are out of our control and even the PPJA team must wait for an update. We do not manage **any** of the frameworks: Json Assets, Producer Framework Mod, Content Patcher, nor Mail Framework Mod to name a few. Any questions/bug reports that reference these frameworks not being updated and asking for an update will be archived.
 
 ## FAQ
 
