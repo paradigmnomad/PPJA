@@ -1,176 +1,199 @@
 {
-  "Harvests": [
+    "Harvests": [
 
-    // Vanilla Animals
+        // Vanilla Animals
 
-    {
-      "CropName": "Rabbit",
-      "HarvestRules": [
         {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Rabbit Fell",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        }
-      ]
-    },
-    {
-      "CropName": "Pork",
-      "HarvestRules": [
-        {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Pig Leather",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        }
-      ]
-    },
-    {
-      "CropName": "Beef",
-      "HarvestRules": [
-        {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Cow Leather",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        }
-      ]
-    },
-    {
-      "CropName": "Chevon",
-      "HarvestRules": [
-        {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Goat Leather",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        }
-      ]
-    },
-    {
-      "CropName": "Mutton",
-      "HarvestRules": [
-        {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Sheep Leather",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        }
-      ]
-    },
-
-    // Fresh Meat Specific Animals
-
-    {
-      "CropName": "Alpaca",
-      "HarvestRules": [
-        {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Alpaca Fell",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        }
-      ]
-    },
-    {
-      "CropName": "Bison",
-      "HarvestRules": [
-        {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Bison Leather",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        }
-      ]
-    },
-    {
-      "CropName": "Horse",
-      "HarvestRules": [
-        {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Horse Leather",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        },
-    {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Horsehair",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        }
-      ]
-    },
-    {
-      "CropName": "Venison",
-      "HarvestRules": [
-        {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Deer Antler",
-          "minHarvest": -4,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
+            "CropName": "Rabbit",
+            "HarvestRules": [
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Rabbit Fell",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            }]
         },
         {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Deer Leather",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        }
-      ]
-    },
-    {
-      "CropName": "Dragon",
-      "HarvestRules": [
-        {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Dragon Leather",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
+            "CropName": "Pork",
+            "HarvestRules": [
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Pig Leather",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            }]
         },
         {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Dragon Tooth",
-          "minHarvest": -10,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        }
-      ]
-    },
-    {
-      "CropName": "Reptile",
-      "HarvestRules": [
+            "CropName": "Beef",
+            "HarvestRules": [
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Cow Leather",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            }]
+        },
         {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Reptile Leather",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        }
-      ]
-    },
-    {
-      "CropName": "Wild Boar",
-      "HarvestRules": [
+            "CropName": "Chevon",
+            "HarvestRules": [
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Goat Leather",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            },
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Goat Hoof",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            }]
+        },
         {
-          "ExtraYieldItemType": "Object",
-          "ItemName": "Wild Boar Leather",
-          "minHarvest": -1,
-          "maxHarvest": 1,
-          "maxHarvestIncreasePerFarmingLevel": 0.0,
-        }
-      ]
-    },
+            "CropName": "Mutton",
+            "HarvestRules": [
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Sheep Leather",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            }]
+        },
 
-  ]
+        // Fresh Meat Specific Animals
+
+        {
+            "CropName": "Alpaca",
+            "HarvestRules": [
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Alpaca Fell",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            }]
+        },
+        {
+            "CropName": "Bison",
+            "HarvestRules": [
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Bison Leather",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            }]
+        },
+        {
+            "CropName": "Horse",
+            "HarvestRules": [
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Horse Leather",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            },
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Horsehair",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            },
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Horse Hoof",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            }]
+        },
+        {
+            "CropName": "Venison",
+            "HarvestRules": [
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Deer Antler",
+                "minHarvest": -4,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            },
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Deer Leather",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            }]
+        },
+        {
+            "CropName": "Dragon",
+            "HarvestRules": [
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Dragon Leather",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            },
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Dragon Scale",
+                "minHarvest": -10,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            },
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Metallic Scale",
+                "minHarvest": -5,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            }]
+        },
+        {
+            "CropName": "Reptile",
+            "HarvestRules": [
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Reptile Leather",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            },
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Generic Scale",
+                "minHarvest": -5,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            },
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Metallic Scale",
+                "minHarvest": -10,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            }]
+        },
+        {
+            "CropName": "Wild Boar",
+            "HarvestRules": [
+            {
+                "ExtraYieldItemType": "Object",
+                "ItemName": "Wild Boar Leather",
+                "minHarvest": -1,
+                "maxHarvest": 1,
+                "maxHarvestIncreasePerFarmingLevel": 0.0,
+            }]
+        },
+
+    ]
 }
