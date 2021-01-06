@@ -20,7 +20,7 @@
             "Object": 709,
             "Count": 5,
         }, ],
-        "IsDefault": true
+        "CanPurchase": false,
     },
     "NameLocalization":
     {
@@ -30,7 +30,7 @@
         "fr": "Sorbetière",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "シャーベットマシン",
          "pt": "Máquina de Sorbet",
         // "ru": "",
         // "tr": "",
@@ -44,7 +44,7 @@
         "fr": "Fabrique de délicieux sorbets faits maison avec des fruits frais.",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "新鮮なくだものからおいしい手作りシャーベットをつくれる。",
          "pt": "Faz deliciosos sorvetes artesanais de frutas frescas.",
         // "ru": "",
         // "tr": "",
