@@ -28,14 +28,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 650,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Pretzel suave",
         "ko": "부드러운 프레젤",
         "de": "Weiche Brezel",
-         // "fr": "",
+        "fr": "Bretzel",
          // "hu": "",
          // "it": "",
         "ja": "ソフトプレッツェル",
@@ -49,13 +48,13 @@
         "es": "Un aperitivo clásico.",
         "ko": "클래식한 간식.",
         "de": "Ein klassisches Gebäck.",
-         // "fr": "",
+        "fr": "Un appéritif classique.",
          // "hu": "",
          // "it": "",
         "ja": "クラシックなスナック。",
         "pt": "Um lanche clássico.",
          // "ru": "",
          // "tr": "",
-        "zh": "蝴蝶圈饼。经典的小吃。",
+        "zh": "经典的小吃。",
     }
 }

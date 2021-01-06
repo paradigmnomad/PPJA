@@ -1,0 +1,53 @@
+{
+    "Name": "Sorbet Machine",
+    "Description": "Makes delicious handmade sorbets from fresh fruit.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 7,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 335,
+            "Count": 5,
+        },  
+	{
+            "Object": 336,
+            "Count": 5,
+        },      
+        {
+            "Object": 709,
+            "Count": 5,
+        }, ],
+        "IsDefault": true
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "셔벗 머신",
+        // "de": "",
+        "fr": "Sorbetière",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Máquina de Sorbet",
+        // "ru": "",
+        // "tr": "",
+         "zh": "冰沙搅拌机",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "신선한 과일로 맛있는 수제 셔벗을 만듭니다.",
+        // "de": "",
+        "fr": "Fabrique de délicieux sorbets faits maison avec des fruits frais.",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+         "pt": "Faz deliciosos sorvetes artesanais de frutas frescas.",
+        // "ru": "",
+        // "tr": "",
+         "zh": "用新鲜水果自制美味的雪葩。",
+    }
+}

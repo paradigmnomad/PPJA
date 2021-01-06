@@ -31,14 +31,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2450,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Pastel púrpura",
         "ko": "퍼플 파스텔 케이크",
         "de": "Lila Pastellkuchen",
-         // "fr": "",
+        "fr": "Gâteau violet pastel",
          // "hu": "",
          // "it": "",
         "ja": "パープルパステルケーキ",
@@ -52,13 +51,13 @@
         "es": "¡Sabroso!",
         "ko": "맛있어요!",
         "de": "LEcker!",
-         // "fr": "",
+        "fr": "Appétissant !",
          // "hu": "",
          // "it": "",
         "ja": "うまい！",
         "pt": "Delicioso!",
          // "ru": "",
          // "tr": "",
-        "zh": "紫粉蛋糕。好吃！",
+        "zh": "好吃！",
     }
 }

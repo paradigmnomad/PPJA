@@ -1,0 +1,64 @@
+{
+    "Name": "Onion Pumpkin Soup",
+    "Description": "A delicious pumpkin soup with a hint of onion.",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Krobus", "Willy"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Wizard"],
+        "Dislike": ["Haley", "Jas", "Sam", "Vincent"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Onion",
+            "Count": 1,
+        },
+        {
+            "Object": 276,
+            "Count": 2,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2000,
+            },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

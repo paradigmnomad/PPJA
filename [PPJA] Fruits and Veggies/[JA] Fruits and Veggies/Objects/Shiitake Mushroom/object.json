@@ -14,11 +14,11 @@
     "CanPurchase": false,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Seta shiitake",
         "ko": "표고버섯",
         "de": "Shiitake-Pilz",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Shiitaké",
+        "hu": "Siitake gomba",
         // "it": "",
         "ja": "シイタケ",
         "pt": "Cogumelo Shiitake",
@@ -28,11 +28,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "El aroma y el sabor son buenos.",
         "ko": "향과 맛이 좋습니다.",
         "de": "Leckere Pilze!",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Aussi appelé le Lentin du Chêne, c'est un champignon parfumé.",
+        "hu": "Egy ízletes gomba.",
         // "it": "",
         "ja": "しいたけ！",
         "pt": "Cogumelo Shiitake!",

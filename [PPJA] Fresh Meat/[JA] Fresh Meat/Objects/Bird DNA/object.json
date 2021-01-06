@@ -1,0 +1,46 @@
+{
+    "Name": "Bird DNA",
+    "Description": "Some bird DNA. It's extracted from various products.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 10,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "ADN de pájaro",
+        "ko": "새 DNA",
+        // "de": "",
+        "fr": "ADN d'oiseau",
+        "hu": "Madár DNS",
+        // "it": "",
+        // "ja": "",
+        "pt": "DNA de pássaro",
+        // "ru": "",
+        // "tr": "",
+         "zh": "鸟类DNA",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un poco de ADN de pájaro. Se extrae de varios productos.",
+        "ko": "다양한 조류 생산품에서 추출한 새 DNA.",
+        // "de": "",
+        "fr": "De l'ADN d'oiseau. Il est extrait de différents produits.",
+        "hu": "Egy madár DNS-e. Különböző termékekből lett kinyerve.",
+        // "it": "",
+        // "ja": "",
+         "pt": "Um pouco de DNA de pássaro. É extraído de vários produtos.",
+        // "ru": "",
+        // "tr": "",
+         "zh": "一些鸟类的DNA。它是从各种产品中提取的。",
+    },
+    "ContextTags": [
+        "dna_item",
+    ],
+}

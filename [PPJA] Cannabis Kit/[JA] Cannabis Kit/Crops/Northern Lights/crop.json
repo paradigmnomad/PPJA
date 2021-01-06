@@ -14,25 +14,22 @@
     {
         "MinimumPerHarvest": 3,
         "MaximumPerHarvest": 5,
-        "MaxIncreasePerFarmLevel": 5,
+        "MaxIncreasePerFarmLevel": 0,
         "ExtraChance": 0.1,
     },
     "SeedPurchaseFrom": "Harvey",
     "SeedPurchasePrice": 300,
-    "SeedPurchaseRequirements": [
-        "f Sebastian 250"
-    ],
     "SeedNameLocalization":
     {
         "es": "Iniciador de Luces del Norte",
         "ko": "노던 라이트",
         "de": "Nordlicht",
-        // "fr": "",
+        "fr": "Graines de Northern Lights",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Iniciador de Luzes do Norte",
-        // "ru": "",
+        "ru": "Семена каннабиса Северное Сияние",
         // "tr": "",
         "zh": "北极光种子",
     },
@@ -41,12 +38,12 @@
         "es": "Una variedad popular de cannabis indica que alivia el dolor e insomio mientras te deja tranquilo. Plantalo en el verano. Tarda 10 días en madurar, continua produciendo cada 3 días.",
         "ko": "통증과 불면증을 완화시켜 주는 인기 있는 대마초 인디카 품종이다. 여름에 심으세요. 성숙 기간은 10일이며, 그 후 생산은 3일마다 계속된다.",
         "de": "Eine beliebte Sorte von Cannabis Indica, die Schmerzen und Schlaflosigkeit lindert, während sie weich bleibt. Pflanzen Sie diese im Sommer. Die Reifezeit beträgt 10 Tage. Danach wird die Produktion alle 3 Tage fortgesetzt.",
-        // "fr": "",
+        "fr": "Une souche populaire de cannabis indica qui soulage la douleur et les insomnies tout en étant détendu. À planter en été. Prend 10 jours pour arriver à maturité, puis continue de produire tous les 3 jours.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Uma variedade popular de maconha que alivia a dor e insônio enquanto te deixa tranquilo. Plente-a no verão. Leva 10 dias para amadurecer e continua produzindo a cada 3 dias.",
-        // "ru": "",
+        "ru": "Популярный сорт Индики, который снимает боль и бессонницу, при этом довольно мягкий. Сажайте летом. Вырастает через 10 дней и продолжает давать урожай после первого сбора каждые 3 дня.",
         // "tr": "",
         "zh": "一种印度大麻的流行品系，味道醇厚，可以缓解疼痛和失眠。夏季播种。10天成熟，之后每3天收获一次。",
     }

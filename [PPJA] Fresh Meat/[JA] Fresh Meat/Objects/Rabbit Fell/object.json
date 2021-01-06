@@ -1,0 +1,46 @@
+{
+    "Name": "Rabbit Fell",
+    "Description": "A rabbit hide that has been tanned.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 70,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Piel de conejo",
+        "ko": "토끼 모피",
+        //"de": "",
+        "fr": "Fourrure de lapin",
+        "hu": "Nyúlbunda",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "兔皮",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una piel de conejo que ha sido curtida.",
+        "ko": "토끼의 가죽.",
+        //"de": "",
+        "fr": "Une peau de lapin qui a été tannée.",
+        "hu": "Egy nyúl cserzett bundája.",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "经过鞣制的兔子皮。",
+    },
+    "ContextTags": [
+        "leather_item",
+    ],
+    "EnableWithMod": "Cherry.MultiYieldCrops"
+}

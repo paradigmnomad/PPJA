@@ -26,13 +26,12 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 150,
-    "PurchaseRequirements": null,
-    "NameLocalization":
+        "NameLocalization":
     {
         "es": "Cola",
         "ko": "콜라",
         "de": "Cola",
-         // "fr": "",
+        "fr": "Cola",
          // "hu": "",
          // "it": "",
         "ja": "コーラ",
@@ -46,13 +45,13 @@
         "es": "Sabe mejor que Joja Cola.",
         "ko": "조자 콜라보다 맛있어요.",
         "de": "Besser als Joja Cola.",
-         // "fr": "",
+        "fr": "A un goût meilleur que le Joja Cola.",
          // "hu": "",
          // "it": "",
         "ja": "Jojaコーラよりもおいしい。",
         "pt": "Tem um gosto melhor do que aquela Joja-Cola",
          // "ru": "",
          // "tr": "",
-        "zh": "可乐。尝起来比Joja可乐更好。",
+        "zh": "尝起来比Joja可乐更好。",
     }
 }

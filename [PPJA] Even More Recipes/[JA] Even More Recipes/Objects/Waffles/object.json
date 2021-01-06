@@ -29,14 +29,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 700,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Waffles",
         "ko": "와플",
         "de": "Waffeln",
-         // "fr": "",
+        "fr": "Gaufres",
          // "hu": "",
          // "it": "",
         "ja": "ワッフル",
@@ -50,13 +49,13 @@
         "es": "Pasteles circulares para desayunar.",
         "ko": "동그란 모양의 조식 페이스트.",
         "de": "Kreisförmiges Frühstückswaffeln.",
-         // "fr": "",
+        "fr": "pâtisserie du petit déjeuner en forme de rond.",
          // "hu": "",
          // "it": "",
         "ja": "朝食によく食べる円形のペイストリー。",
         "pt": "Bolos de café da manhã em forma de círculo.",
          // "ru": "",
          // "tr": "",
-        "zh": "华夫饼。圆形的早餐点心。",
+        "zh": "圆形的早餐点心。",
     }
 }

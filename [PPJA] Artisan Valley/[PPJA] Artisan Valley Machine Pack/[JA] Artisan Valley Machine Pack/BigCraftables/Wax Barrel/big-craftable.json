@@ -25,11 +25,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Barril de Cera",
         "ko": "밀랍통",
         "de": "Wachstonne",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Tonneau de cire",
+        "hu": "Viaszos hordó",
         // "it": "",
         "ja": "ワックスバレル",
         "pt": "Barril de Cera",
@@ -39,11 +39,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Barril para convertir la cera en velas.",
         "ko": "디핑 캔들을 만들기 위한 통.",
         "de": "Eine Tonne, um Kerzen zu ziehen.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Un tonneau pour créer des bougies par plongée dans de la cire.",
+        "hu": "Egy hordó, melyet gyertyák viasszal való bemártására használnak.",
         // "it": "",
         "ja": "ロウソクを漬けるためのタル。",
         "pt": "Um barril para mergulhar velas.",

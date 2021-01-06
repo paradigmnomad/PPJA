@@ -3,7 +3,7 @@
     "Description": "Used for canning mostly seafood.",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveExtraIndexCount": 7,
+    "ReserveExtraIndexCount": 6,
     "Recipe":
     {
         "ResultCount": 1,
@@ -16,34 +16,34 @@
             "Object": 334,
             "Count": 5,
         }, ],
-        "CanPurchase": false,
+        "IsDefault": true
     },
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Enlatadora",
+        "ko": "통조림 기계",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Machine de mise en conserve",
+        "hu": "Konzervgép",
         // "it": "",
         "ja": "缶詰マシン",
-        // "pt": "",
+        "pt": "Máquina de Conservação",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "灌装机",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Se utiliza para enlatar principalmente mariscos.",
+        "ko": "주로 해산물 통조림을 만듭니다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Utilisée pour mettre en conserve majoritairement les fruits de mer.",
+        "hu": "Általában tengeri herkentyűk konzerválására használják.",
         // "it": "",
         "ja": "主に魚介類の缶詰作業に使われる。",
-        // "pt": "",
+         "pt": "Usado para conservar principalmente frutos do mar.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "主要用于罐装海鲜作业。",
     }
 }

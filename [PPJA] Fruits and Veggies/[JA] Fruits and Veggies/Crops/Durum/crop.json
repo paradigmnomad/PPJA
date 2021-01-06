@@ -25,25 +25,25 @@
 
     "SeedNameLocalization":
     {
-         // "es": "",
+        "es": "Semillas de trigo duro",
         "ko": "듀럼밀 씨앗",
         "de": "Hartweizen-Saat",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Graines de blé dur",
+        "hu": "Durum magvak",
          // "it": "",
         "ja": "デュラムコムギのタネ",
         "pt": "Sementes de Durum",
         "ru": "Семена твёрдой пшеницы",
          // "tr": "",
-          "zh": "硬质小麦种子",
+          "zh": "硬粒小麦种子",
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+        "es": "Plántalas en oroño. Tardan 4 días en madurar.",
         "ko": "가을 작물. 성장하려면 4일이 소요됩니다.",
         "de": "Pflanze sie im Herbst. Wächst in 4 Tagen heran.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "À planter en automne. Prend 4 jours pour arriver à maturité.",
+        "hu": "Ezeket ősszel ültesd el. 4 napig tart megérniük.",
          // "it": "",
         "ja": "秋植えの作物。そだつのに4日かかる。",
         "pt": "Plante-as no outono. Leva 4 dias para amadurecer",

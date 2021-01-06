@@ -1,5 +1,10 @@
 {
-"grilledskewer.text": "@,^^ Here's a recipe from my saloon. I only share this with my good friends!^^ -Gus",
-"grilledskewer.title": "Grilled Skewer Recipe"
+	// Text
+"grilledskewer.text": "@,^Here's a recipe from my saloon. I only share this with my good friends!^-Gus",
+"spaghettiandmeatballs.text": "@,^I sent you the recipe for my famous spaghetti but have you tried it with meatballs? Jas and Shane love when I bring a pan of them to Marnie. Try them out!^-Lewis",
+
+// Title
+"grilledskewer.title": "Grilled Skewer Recipe",
+"spaghettiandmeatballs.title": "Spaghetti and Meatballs Recipe"
 }
 

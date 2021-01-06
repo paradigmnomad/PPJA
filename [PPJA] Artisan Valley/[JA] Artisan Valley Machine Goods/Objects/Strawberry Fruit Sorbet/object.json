@@ -1,0 +1,44 @@
+{
+    "Name": "Strawberry Fruit Sorbet",
+    "Description": "A refreshing fruit sorbet made from strawberries and freshly squeezed lemons.",
+    "Category": "ArtisanGoods",
+    "Edibility": 60,
+    "EdibleIsDrink": false,
+    "Price": 420,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Jas", "Vincent", "Demetrius", "Maru"],
+        "Like": ["Elliott", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Shane"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Penny", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "딸기 과일 셔벗",
+        // "de": "",
+        "fr": "Sorbet à la fraise",
+        "hu": "Eper sörbet",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "草莓果汁雪葩",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "딸기로 만든 상큼한 과일 소르베트와 갓 짠 레몬.",
+        // "de": "",
+        "fr": "Un sorbet rafraîchissant fait à partir de fraises et d'un citron fraîchement pressé.",
+       "hu": "Egy frissítő gyümölcs sörbet eperből, és frissen facsart citromból.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "由草莓和鲜榨柠檬制成的新鲜水果雪葩。",
+    }
+}

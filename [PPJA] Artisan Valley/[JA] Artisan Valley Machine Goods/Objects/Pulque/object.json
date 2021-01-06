@@ -24,8 +24,7 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 300,
-    "PurchaseRequirements": null,
-    "GiftTastes":
+        "GiftTastes":
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
@@ -38,8 +37,8 @@
         "es": "Pulque",
         "ko": "풀케",
         "de": "Pulque",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Pulque",
+        "hu": "Pulque",
          // "it": "",
         "ja": "プルケ",
         "pt": "Pulque",
@@ -52,8 +51,8 @@
         "es": "Una bebida fermentada hecha de maguey. Beber con moderación.",
         "ko": "용설란으로 만든 발효 음료. 절제해서 드세요.",
         "de": "Ein fermentiertes Getränk aus Maguey. Genieße es in Maßen.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Une boisson fermentée faite à partir d'agave. À boire avec modération.",
+        "hu": "Egy agávéból készített erjesztett ital. Fogyasszad mértékkel!",
          // "it": "",
         "ja": "リュウゼツランの葉から作った発酵飲料。飲む時はほどほどに。",
         "pt": "Uma bebida fermentada a partir do agave. Beba com moderação!",        

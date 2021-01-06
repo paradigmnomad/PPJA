@@ -15,7 +15,7 @@
         "MinimumPerHarvest": 2,
         "MaximumPerHarvest": 3,
         "MaxIncreasePerFarmLevel": 5,
-        "ExtraChance": 0.2,
+        "ExtraChance": 0.2
     },
 "SeedPurchaseFrom": "Krobus",
   "SeedPurchasePrice": 100,
@@ -25,25 +25,25 @@
     "ko": "철 씨앗",
     "de": "Eisensamen",
     "fr": "Graines de fer",
-    "hu": "Vasmag",
+    "hu": "Vas magvak",
     "it": "Semi di ferro",
     "ja": "鉄の種",
     "pt": "Sementes de Ferro",
-    "ru": "Железные cемена",
+    "ru": "Семена железа",
     "tr": "Demir Çekirdeği",
-    "zh": "铁矿种子",
+    "zh": "铁矿种子"
     },
 "SeedDescriptionLocalization": { 
     "es": "Plantalas en verano. Toma 15 dias para madurar.",
     "ko": "여름 작물. 성장하려면 15일이 소요됩니다.",
     "de": "Pflanzen Sie diese im Sommer. Die Reifezeit beträgt 15 Tage.",
-    "fr": "Plantez-les en été. Prend 15 jours pour mûrir.",
-    "hu": "Ültesse ezeket nyáron. 15 napig érlelni.",
+    "fr": "À planter en été. Prend 15 jours pour produire du fer.",
+    "hu": "Ezeket nyáron ültesse el. 15 napig tart megérniük.",
     "it": "Piantali in estate. Ci vogliono 15 giorni per maturare.",
     "ja": "これらを夏に植えてください。 成熟するには15日かかります。",
     "pt": "Plante-as no verão. Leva 15 dias para amadurecer.",
-    "ru": "Посади их летом. Требуется 15 дней для созревания.",
+    "ru": "Высаживайте их летом. Созревание занимает 15 дней.",
     "tr": "Bunları yazın yazın. Olgunlaşması 15 gün sürer.",
-    "zh": "夏天播种。15天成熟。",
+    "zh": "夏天播种。15天成熟。"
     }
 }

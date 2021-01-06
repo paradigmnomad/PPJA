@@ -1,0 +1,53 @@
+{
+    "Name": "Honeysuckle",
+    "Product": "Honeysuckle",
+    "SeedName": "Honeysuckle Starter",
+    "SeedDescription": "Plant in spring or summer. Takes 8 days to produce sweet smelling flowers, and keeps producing after the first harvest. Grows on a trellis.",
+    "Type": "Flower",
+    "Seasons": ["spring", "summer"],
+    "Phases": [1, 2, 3, 2, ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchaseFrom": "Marnie",
+    "SeedPurchasePrice": 200,
+    "SeedPurchaseRequirements": [
+        "z summer, z fall, z winter"
+    ],
+    "SeedNameLocalization":
+    {
+        "es": "Kit de madreselva",
+        "ko": "허니서클 씨앗",
+        "de": "Geißblatt-Saat",
+        "fr": "Graines de Chèvrefeuille",
+        "hu": "Lonc ültetvény",
+         // "it": "",
+        "ja": "スイカズラ栽培キット",
+        "pt": "Muda de madressilva",
+        "ru": "Семена жимолости",
+         // "tr": "",
+        "zh": "金银花种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera o verano. Toma 8 días para producir flores con olor dulce, y sigue produciendo después de la primera cosecha. Crece en una espaldera.",
+        "ko": "봄이나 여름에 심으세요. 8일 후 달콤한 향이 나는 꽃이 피며, 수확한 후에도 계속 피어납니다. 격자 구조물에 감겨 자랍니다.",
+        "de": "Pflanze sie im Herbst oder Winter. Wächst in 8 Tagen zu einer zart duftenden Blume heran  und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
+        "fr": "Plantez au printemps ou en été. Prend 8 jours pour produire des fleurs à l'odeur douce et continue de produire après la première récolte. Pousse sur un treillis.",
+        "hu": "Ezeket tavasszal, vagy nyáron ültesd el. 8 nap alatt hoz édes illatú virágokat, de utána tovább termel. Egy lécen terem meg.",
+         // "it": "",
+        "ja": "春または夏植えの花。8日かけて甘い香りの花を咲かせる。最初の収穫のあともくりかえし収穫できる。支柱にからみながらそだつ。",
+        "pt": "Plante-as na primavera e verão. Demoram 8 dias para produzir uma flor com um cheiro doce, e continua produzindo depois da primeira colheita. Cresce em treliças.",
+        "ru": "Сажайте весной или летом. Через 8 дней вырастает сладко пахнущий цветок и продолжает расти после сбора. Растет на шпалере.",
+         // "tr": "",
+        "zh": "春天或夏天播种。8天后收获甜蜜香味的花，在第一次收获后循环生产。生长在架子上。",
+    }
+}

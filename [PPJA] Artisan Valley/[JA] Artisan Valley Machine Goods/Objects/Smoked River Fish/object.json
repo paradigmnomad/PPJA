@@ -13,11 +13,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Pescado de río ahumado",
         "ko": "강 훈제어",
         "de": "Geräucherter Flussfisch",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Poisson de rivière fumé",
+        "hu": "Füstölt folyami hal",
         // "it": "",
         "ja": "川の魚のくん製",
         "pt": "Peixe Defumado de Rio",
@@ -28,11 +28,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un plato sencillo de pescado de río ahumado. Ahumado por horas.",
         "ko": "간단한 강 훈제어. 훈제하는데 몇 시간이 소요됩니다.",
         "de": "Ein einfaches Gericht mit über Stunden geräuchertem Flussfisch.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Un simple plat fait avec un poisson de rivière fumé. Il a été enfumé pendant des heures.",
+        "hu": "Egy egyszerű étel füstölt folyami halból. Órákig füstölték",
         // "it": "",
         "ja": "シンプルな魚のくん製。時間をかけていぶした。",
         "pt": "Uma iguaria simples de peixe defumado de rio. Foi defumado por várias horas.",

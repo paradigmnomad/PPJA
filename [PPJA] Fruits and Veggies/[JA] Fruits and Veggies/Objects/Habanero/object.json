@@ -13,11 +13,11 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Chile habanero",
         "ko": "하바네로",
         "de": "Habanero",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Poivre Habanero",
+        "hu": "Habanero",
         // "it": "",
         "ja": "ハバネロ",
         "pt": "Pimenta Habanero",
@@ -27,11 +27,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Un ingrediente popular en salsas y otros alimentos picantes. Logra 200.000 puntos en la Escala de Scoville del picante.",
         "ko": "매운 소스와 다른 매운 음식에 사용되는 인기있는 재료. 스코빌 지수는 20만 입니다.",
         "de": "Eine häufig genutzte Zutat in Saucen und scharfem Essen. 200.000 Einheiten auf der Scoville-Skala.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Un ingrédient populaire dans les sauces piquantes et d'autres plats épicés. 200 000 sur l'échelle de Scoville.",
+        "hu": "Csípős szószok és egyéb más csípős ételek gyakori összetevője. 200,000 a hőegysége a Scoville-skálán.",
         // "it": "",
         "ja": "ホットソースや辛い料理の材料として人気のある野菜。辛さの値は200,000スコビル。",
         "pt": "Um ingrediente popular em molhos picantes e coisas do gênero. Atinge 200.000 pontos na Escala de Ardência de Scoville.",

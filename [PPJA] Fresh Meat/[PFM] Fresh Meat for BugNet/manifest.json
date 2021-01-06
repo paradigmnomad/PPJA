@@ -1,0 +1,22 @@
+﻿{
+    "Name": "[PFM] Fresh Meat for BugNet",
+    "Author": "Project Populate Json Assets",
+    "Version": "3.0.1",
+    "Description": "Fresh Meat Producer Framework Mod component for use with BugNet.",
+    "UniqueID": "ppja.FreshMeatforPFMBugNet",
+    "MinimumApiVersion": "3.7.0",
+    "UpdateKeys": ["Nexus:1721@PFMBugNet"],
+    "Dependencies": [
+    {
+        "UniqueID": "paradigmnomad.freshmeat",
+        "IsRequired": true
+    },
+    {
+        "UniqueID": "spacechase0.BugNet",
+        "IsRequired": true
+    }, ],
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.ProducerFrameworkMod"
+    }
+}

@@ -42,14 +42,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2700,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Dona de vainilla con chispitas",
         "ko": "스프링클 바닐라 도넛",
         "de": "Vanille bestreuter Donut",
-         // "fr": "",
+        "fr": "Beignet saupoudré à la vanille",
          // "hu": "",
          // "it": "",
         "ja": "スプリンクルバニラドーナツ",
@@ -63,13 +62,13 @@
         "es": "Una divertida dona de vainilla.",
         "ko": "재미있는 바닐라 도넛.",
         "de": "Ein lustiger Vanilledonut.",
-         // "fr": "",
+        "fr": "Un beignet sympa à la vanille.",
          // "hu": "",
          // "it": "",
         "ja": "楽しげなバニラドーナツ。",
         "pt": "Uma rosquinha baunilha de morango.",
          // "ru": "",
          // "tr": "",
-        "zh": "砂糖香草甜甜圈。一个好吃的有香草涂层的甜甜圈。",
+        "zh": "一个好吃的有香草涂层的甜甜圈。",
     }
 }

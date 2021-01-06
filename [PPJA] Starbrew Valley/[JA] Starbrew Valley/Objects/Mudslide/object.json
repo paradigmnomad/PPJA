@@ -46,7 +46,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 6465,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Chocolate Coffee-Liqueur", "y 4", ],
     },
 
     "NameLocalization":

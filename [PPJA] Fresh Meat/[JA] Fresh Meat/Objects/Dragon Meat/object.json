@@ -1,42 +1,42 @@
 {
     "Name": "Dragon Meat",
     "Description": "An oddly green steak cut from a dragon.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
-    "Price": 500,
+    "Price": 450,
     "IsColored": false,
     "GiftTastes":
     {
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian"],
     },
-
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Carne de dragón",
+        "ko": "드래곤고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande de dragon",
+        "hu": "Sárkányhús",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "龙肉",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Un filete extrañamente verde cortado de un dragón.",
+        "ko": "기이한 녹색의 드래곤 고기.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une tranche de steak de dragon étrangement verte.",
+        "hu": "Egy furán zöld színű steak darab.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
-    }
+         "zh": "从一条龙身上切下来的奇怪绿色肉排。",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

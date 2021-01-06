@@ -7,7 +7,7 @@
     "IsColored": false,
     "GiftTastes":
     {
-		"Love": ["Gregory"],
+        "Love": ["Gregory"],
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian", "Sheila"],
     },
@@ -22,9 +22,44 @@
         {
             "Object": "Seasonings",
             "Count": 1,
-        },
-        ],
+        }, ],
+        "IsDefault": true,
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 550,
     "PurchaseRequirements": null,
+    "NameLocalization":
+    {
+        "es": "Carne de caballo cocinada",
+        "ko": "구운 말고기",
+        //"de": "",
+        "fr": "Viande de cheval cuite",
+        "hu": "Sült lóhús",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "熟制马肉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Carne de caballo, ya cocinada y lista para ser utilizada en recetas.",
+        "ko": "말의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
+        //"de": "",
+        "fr": "Viande de cheval, déjà cuite et prête à être utilisée dans des recettes.",
+        "hu": "Egy ló húsa megsütve, felhasználásra készen.",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "取自马的肉，已经煮熟，可用于进一步烹调。",
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ],    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
 }

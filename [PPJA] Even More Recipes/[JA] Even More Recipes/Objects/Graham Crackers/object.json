@@ -31,14 +31,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1450,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Galletas graham",
         "ko": "그레이엄 크래커",
         "de": "Graham Cracker",
-         // "fr": "",
+        "fr": "Biscuits Graham",
          // "hu": "",
          // "it": "",
         "ja": "グラハムクラッカー",
@@ -52,13 +51,13 @@
         "es": "¿Quién es Graham de todos modos?",
         "ko": "어쨌든 그레이엄이 누구죠?",
         "de": "Nur wer ist Graham überhaupt?",
-         // "fr": "",
+        "fr": "Mais qui est Graham au juste ?",
          // "hu": "",
          // "it": "",
         "ja": "とりあえずグラハムって誰？",
         "pt": "Quem é Graham, afinal?",
          // "ru": "",
          // "tr": "",
-        "zh": "全麦饼干。全麦到底是怎么样的？",
+        "zh": "全麦到底是怎么样的？",
     }
 }

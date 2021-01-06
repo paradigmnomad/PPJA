@@ -24,8 +24,7 @@
   "CanPurchase": true,
   "PurchaseFrom": "Gus",
   "PurchasePrice": 265,
-  "PurchaseRequirements": null,
-    "GiftTastes":
+      "GiftTastes":
     {
         "Love": ["Pam", "Shane", "Gus", "Leah"],
         "Like": ["Caroline", "Jodi", "Lewis", "Pierre", "Robin"],
@@ -36,31 +35,31 @@
 
     "NameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Frangelico",
+        "ko": "프란젤리코",
         //"de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Frangelico",
+        "hu": "Frangelico",
         // "it": "",
         "ja": "フランジェリコ",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "榛果俪利口酒",
     },
     "DescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Una bebida espíritual elaborada con avellanas, llamada así por el famoso fraile",
+        "ko": "헤이즐넛에서 추출된 증류주, 유명한 수도사의 이름을 따서 만들었습니다.",
         //"de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Un spiritueux brassé à partir de noisettes, nommé d'après le célèbre moine.",
+        "hu": "Egy mogyoróból készített szeszesital, a híres szerzetesről elnevezve.",
         // "it": "",
         "ja": "高名な画家である修道士の名前にちなんだ、ヘーゼルナッツを醸造したスピリッツ。",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "一种用榛子酿造的烈酒，以著名修士Fra Angelico的名字命名，相传是他发明了此独一无二的利口酒配方。",
     }
 
 }

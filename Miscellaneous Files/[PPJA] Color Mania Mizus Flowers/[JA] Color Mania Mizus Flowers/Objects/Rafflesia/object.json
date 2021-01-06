@@ -1,0 +1,43 @@
+{
+    "Name": "Rafflesia",
+    "Description": "A foul-smelling flower that grows to be massive. It is the largest flower in the world.",
+    "Category": "Flower",
+    "Edibility": 0,
+    "Price": 13000,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Krobus"],
+        "Like": ["Demetrius", "Maru"],
+        "Hate": ["Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Harvey", "Leah", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Lewis"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "라플레시아",
+        "de": "Rafflesie",
+        "fr": "Rafflesia",
+        "hu": "Raflézia",
+        // "it": "",
+        "ja": "ラフレシア",
+        "pt": "Raflésia",
+        "ru": "Раффлезия",
+        // "tr": "",
+        "zh": "大王花",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "거대하게 자라는 악취가 심한 꽃입니다. 세계에서 가장 큰 꽃입니다.",
+        "de": "Eine faulig riechende Blume, die größer als alle anderen Blumen der Welt werden kann.",
+        "fr": "Une fleur nauséabonde qui devient massive. C'est la plus grande fleur du monde.",
+        "hu": "Egy büdös virág, mely hatalmasra megnő. Ez a legnagyobb virág a világon.",
+        // "it": "",
+        "ja": "巨大に成長し悪臭を発する世界最大の花。",
+        "pt": "Uma flor fétida que cresce a um tamanho gigante. É a maior flor do mundo",
+        "ru": "Дурно пахнущий цветок, вырастающий до огромных размеров. Самый большой цветок в мире.",
+        // "tr": "",
+        "zh": "一种恶臭的花，长得很大。它是世界上最大的花。",
+    }
+}

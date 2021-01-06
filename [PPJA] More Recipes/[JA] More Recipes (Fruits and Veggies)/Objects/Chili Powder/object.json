@@ -9,8 +9,7 @@
     "CanPurchase": true,
     "PurchaseFrom": "Pierre",
     "PurchasePrice": 230,
-    "PurchaseRequirements": null,
-    "GiftTastes":
+        "GiftTastes":
     {
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
@@ -20,7 +19,7 @@
         "es": "Chile en polvo",
         "ko": "칠리 파우더",
         "de": "Chilipulver",
-         // "fr": "",
+        "fr": "Poudre de chili",
          // "hu": "",
          // "it": "",
         "ja": "チリパウダー",
@@ -34,7 +33,7 @@
         "es": "Agrega ese sabor extra.",
         "ko": "칠리에 더 강한 맛을 더해줍니다.",
         "de": "Fügt den Extra-Kick hinzu.",
-         // "fr": "",
+        "fr": "Ajoute du piquant à votre chili.",
          // "hu": "",
          // "it": "",
         "ja": "トウガラシの刺激を付け足す。",

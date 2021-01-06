@@ -1,0 +1,48 @@
+{
+    "Name": "Blue Mist",
+    "Description": "A popular flower with young ladies that originated from a mineral-rich valley.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 250,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Caroline", "Emily", "Haley", "Leah", "Maru", "Penny"],
+        "Like": ["Alex", "Demetrius", "Dwarf", "Elliott", "Evelyn", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Neutral": ["Clint", "George", "Krobus", "Willy"],
+    },
+    "NameLocalization":
+    {
+        "es": "Niebla azul",
+        "ko": "블루 미스트",
+        "de": "Blaue Nebelblume",
+        "fr": "Ageratum",
+        "hu": "Kék Ködvirág",
+         // "it": "",
+        "ja": "ブルーミスト",
+        "pt": "Flor da névoa azul",
+        "ru": "Агератум",
+         // "tr": "",
+        "zh": "蓝雾",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una flor popular entre las señoritas que se originaron en un valle rico en minerales.",
+        "ko": "광물이 풍부한 계곡에서 사는 젊은 여성들에게 인기 있는 꽃.",
+        "de": "Eine bei jungen Frauen beliebte Blume, die aus einem mineralienreichen Tal abstammt.",
+        "fr": "Une fleur populaire auprès des jeunes femmes originaire d'une vallée riche en minéraux.",
+        "hu": "A fiatal hölgyek körében közkedvelt virág, mely egy magas fémtartalmú völgyből származik.",
+         // "it": "",
+        "ja": "岩石の多い谷に生息する、若い女性に人気のある花。",
+        "pt": "Uma flor popular que se originou num vale rico de minerais que havia uma estranha 'névoa azul'. Super popular entre as jovens.",
+        "ru": "Популярный среди молодых дам цветок родом из богатой минералами долины.",
+         // "tr": "",
+        "zh": "非洲堇的品种之一，是一种受年轻女士欢迎的花，起源于一个富含矿物质的山谷。",
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_blue",
+        "flower_item",
+    ]
+}

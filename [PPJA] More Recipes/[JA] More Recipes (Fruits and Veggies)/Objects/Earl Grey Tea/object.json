@@ -22,8 +22,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1380,
-        "PurchaseRequirements": null,
-    },
+            },
     "GiftTastes":
     {
         "Love": ["Gus"],
@@ -34,9 +33,9 @@
     "NameLocalization":
     {
         "es": "Té earl grey",
-        "ko": "얼 그레이 티",
+        "ko": "얼 그레이",
         "de": "Earl Grey-Tee",
-         // "fr": "",
+        "fr": "Thé Earl Grey",
          // "hu": "",
          // "it": "",
         "ja": "アールグレイティー",
@@ -48,9 +47,9 @@
     "DescriptionLocalization":
     {
         "es": "Una bebida caliente con limón.",
-        "ko": "뜨거운 얼 그레이.",
+        "ko": "차 한잔. 얼 그레이. 뜨겁게.",
         "de": "Tee. Earl Grey. Heiß.",
-         // "fr": "",
+        "fr": "Thé. Earl Grey. Chaud.",
          // "hu": "",
          // "it": "",
         "ja": "お茶。アールグレイ。熱々。",

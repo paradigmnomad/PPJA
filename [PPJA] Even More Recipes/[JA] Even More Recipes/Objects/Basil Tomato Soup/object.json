@@ -1,0 +1,64 @@
+{
+    "Name": "Basil Tomato Soup",
+    "Description": "A creamy tomato soup with basil.",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Krobus"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Haley", "Jas", "Sam", "Vincent"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Basil",
+            "Count": 1,
+        },
+        {
+            "Object": 256,
+            "Count": 4,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2000,
+            },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

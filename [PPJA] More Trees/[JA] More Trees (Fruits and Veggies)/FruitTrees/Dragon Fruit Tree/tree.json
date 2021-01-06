@@ -3,23 +3,21 @@
     "Product": "Dragon Fruit",
     "SaplingName": "Dragon Fruit Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Dragon Fruit tree. Bears fruit in the summer. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "summer",
-"SaplingPurchaseFrom": "Sandy",
+    "SaplingPurchaseFrom": "Sandy",
     "SaplingPurchasePrice": 5000,
-    "SaplingPurchaseRequirements": null,
-     "SaplingNameLocalization":
+    "SaplingNameLocalization":
     {
         "es": "Brote de pitaya",
         "ko": "용과 묘목",
         "de": "Dachenfruchtbaum-Setzling",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        "fr": "Jeune arbre à fruit du dragon",
+        "hu": "Sárkánygyümölcs fa csemete",
+        // "it": "",
         "ja": "ドラゴンフルーツの苗",
         "pt": "Muda de fruta do dragão",
         "ru": "Саженец питайи",
-         // "tr": "",
+        // "tr": "",
         "zh": "火龙果树苗",
     },
     "SaplingDescriptionLocalization":
@@ -27,13 +25,13 @@
         "es": "Toma 28 días para producir un árbol maduro de fruta del dragón. Da fruto en el verano. Solo crece si las 8 casillas circundantes están vacías.",
         "ko": "28일후에 성목이 됩니다. 여름에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
         "de": "Wächst in 28 Tagen zu einem reifen Dachenfruchtbaum heran. Trägt im Sommer Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        "fr": "Il faut 28 jours pour produire un arbre à fruit du dragon mature. Produit des fruits du dragon en été. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
+        "hu": "28 nap múlva érik meg, és sárkánygyümölcs fa lesz belőle. Nyáron hoz gyümölcsöt. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
+        // "it": "",
         "ja": "28日かけて成木にそだち、夏になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
         "pt": "Demora até 28 dias para produzir uma árvore de fruta do dragão madura. Dá frutas no verão. Só cresce se os 8 espaços adjacentes estiverem vazios.",
         "ru": "Становится взрослым деревом через 28 дней. Плодоносит летом. Растет только если 8 «клеток» вокруг него не заняты.",
-         // "tr": "",
+        // "tr": "",
         "zh": "28天成熟为成年火龙果树。夏天结果。只有在附近8块地块都空置的情况下才会成长。",
     }
 }

@@ -1,0 +1,47 @@
+{
+    "Name": "Bee Balm",
+    "Description": "Small edible flowers that attract bees, butterflies, and hummingbirds!",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 115,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Haley", "Leah", "Sandy"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Monarda",
+        "ko": "멜리사",
+        "de": "Monarda",
+        "fr": "Monarde",
+        "hu": "Méhbalzsam",
+         // "it": "",
+        "ja": "タイマツバナ",
+        "pt": "Monarda",
+        "ru": "Монарда",
+         // "tr": "",
+        "zh": "香蜂花",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Pequeñas flores comestibles que atraen abejas, mariposas y colibríes.",
+        "ko": "꿀벌, 나비, 벌새를 끌어들이는 작은 식용 꽃입니다!",
+        "de": "Kleine essbare Pflanze, die Bienen, Schmetterlinge und Kolibris anzieht.",
+        "fr": "Petites fleurs comestibles qui attirent les abeilles, les papillons et les colibris!",
+        "hu": "Apró, ehető virágok, melyek vonzzák a méheket, lepkéket, és a kolibriket is!",
+         // "it": "",
+        "ja": "ミツバチ、蝶、ハチドリを引き付ける小さな食用花！",
+        "pt": "Pequenas flores comestíveis que atraem abelhas, borboletas e beija-flores!",
+        "ru": "Маленькие съедобные цветы, привлекающие пчел, бабочек и колибри!",
+         // "tr": "",
+        "zh": "一朵可食用的小花，蜜蜂，蝴蝶，和蜂鸟常常被其香味吸引！",
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_purple",
+        "flower_item"
+    ]
+}

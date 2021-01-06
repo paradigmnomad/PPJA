@@ -1,9 +1,9 @@
 {
-    "Name": "Phoenix Meat",
-    "Description": "It's raw, but this meat cut from a phoenix is sizzling hot.",
+    "Name": "Bird Meat",
+    "Description": "A very small hunk of meat from a bird. Maybe a cat will like it?",
     "Category": "Meat",
-    "Edibility": 200,
-    "Price": 9500,
+    "Edibility": 250,
+    "Price": 90,
     "IsColored": false,
     "GiftTastes":
     {
@@ -12,5 +12,34 @@
         "Hate": ["Sebastian", "Sheila"],
     },
     "Recipe": null,
-    "PurchasePrice": 9750,
+    "PurchasePrice": 100,
+	"NameLocalization":
+    {
+        "es": "Carne de pájaro",
+        "ko": "새고기",
+        // "de": "",
+        "fr": "Viande d'oiseau",
+        "hu": "Madárhús",
+        // "it": "",
+        // "ja": "",
+         "pt": "Carne de Pássaro",
+        // "ru": "",
+        // "tr": "",
+         "zh": "鸟肉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un trozo muy pequeño de carne de pájaro. ¿Quizás le gustará a un gato?",
+        "ko": "매우 작은 새의 고기. 고양이가 좋아하려나?",
+        // "de": "",
+        "fr": "Un très petit morceau de viande d'oiseau. Peut-être qu'un chat aimera ?",
+        "hu": "Egy nagyon apró szelet egy madár húsából. Lehet, hogy egy cicának ízlene.",
+        // "it": "",
+        // "ja": "",
+         "pt": "Um pequeno pedaço de carne de um pássaro. Talvez um gato goste?",
+        // "ru": "",
+        // "tr": "",
+         "zh": "一块很小的鸟肉。也许某只猫会喜欢它？",
+    },
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

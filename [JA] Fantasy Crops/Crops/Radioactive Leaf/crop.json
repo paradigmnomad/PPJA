@@ -1,0 +1,55 @@
+{
+    "Name": "Radioative Leaf",
+    "Product": 909,
+    "SeedName": "Radioactive Seeds",
+    "SeedDescription": "Plant these in winter. Takes 24 days to mature.",
+    "Type": "Mineral",
+
+    "Seasons": ["winter"],
+    "Phases": [3, 4, 6, 6, 5],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2
+    },
+    "SeedPurchaseFrom": "Krobus",
+    "SeedPurchasePrice": 675,
+    "SeedPurchaseRequirements": [
+        "n willyHours",
+    ],
+
+    "SeedNameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

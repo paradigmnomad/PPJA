@@ -1,0 +1,46 @@
+{
+    "Name": "Horse Leather",
+    "Description": "A horse hide that has been tanned.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 120,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Piel de caballo",
+        "ko": "말가죽",
+        //"de": "",
+        "fr": "Cuir de cheval",
+        "hu": "Lóbőr",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "马皮",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una piel de caballo que ha sido curtida.",
+        "ko": "말의 가죽.",
+        //"de": "",
+        "fr": "Une peau de cheval qui a été tannée.",
+        "hu": "Egy ló cserzett bőre.",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "经过鞣制的马皮。",
+    },
+    "ContextTags": [
+        "leather_item",
+    ],
+    "EnableWithMod": "Cherry.MultiYieldCrops"
+}

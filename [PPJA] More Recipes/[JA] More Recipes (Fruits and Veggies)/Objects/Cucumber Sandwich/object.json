@@ -26,9 +26,9 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2400,
-        "PurchaseRequirements": [
+        "PurchaseRequirements": ["HasCookingRecipe Bread",
             "f Evelyn 1250",
-            "y 2",
+            "y 4",
         ]
     },
     "GiftTastes":
@@ -43,7 +43,7 @@
         "es": "Sandwich de pepino",
         "ko": "오이 샌드위치",
         "de": "Gurkensandwich",
-         // "fr": "",
+        "fr": "Sandwich au concombre",
          // "hu": "",
          // "it": "",
         "ja": "キュウリのサンドイッチ",
@@ -57,7 +57,7 @@
         "es": "Un sándwich sencillo y refrescante.",
         "ko": "평범하고, 신선한 샌드위치.",
         "de": "Ein einfaches, erfrischendes Teesandwich.",
-         // "fr": "",
+        "fr": "Un sandwich au thé simple et rafraîchissant.",
          // "hu": "",
          // "it": "",
         "ja": "簡素だが爽やかみのあるサンドイッチ。",

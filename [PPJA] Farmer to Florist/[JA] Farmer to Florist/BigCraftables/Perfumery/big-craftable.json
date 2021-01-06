@@ -6,8 +6,7 @@
     "CanPurchase": false,
     "PurchaseFrom": null,
     "PurchasePrice": 0,
-    "PurchaseRequirements": null,
-    "Recipe":
+        "Recipe":
     {
         "ResultCount": 1,
         "Ingredients": [
@@ -24,35 +23,32 @@
             "Count": 1
         }]
     },
-
-   // Localization
-
-        "NameLocalization": //Used for localization. 
-        { 
-            //"es": "", //Spanish
-            "ko": "향수 제조기", //Korean
-            "de": "Parfümerie", //German
-            //"fr": "", //French
-            //"hu": "", //Hungarian
-            //"it": "", //Italian
-            //"ja": "", //Japanese
-            "pt": "Máquina de Perfume", //Portuguese
-            "ru": "Парфюмерная машина", //Russian
-            //"tr": "", //Turkish
-            "zh": "香水制造机", //Chinese (Simplified)
-        },
-        "DescriptionLocalization": //Used for localization. 
-        { 
-            //"es": "", //Spanish
-            "ko": "꽃을 향수로 만들어줍니다.", //Korean
-            "de": "Verarbeitet Blumen zu Parfüm.", //German
-            //"fr": "", //French
-            //"hu": "", //Hungarian
-            //"it": "", //Italian
-            //"ja": "", //Japanese
-            "pt": "Processa flores para fazer perfumes.", //Portuguese
-            "ru": "Перерабатывает цветы в духи.", //Russian
-            //"tr": "", //Turkish
-            "zh": "把花加工成香水。", //Chinese (Simplified)
-        }
+    "NameLocalization": //Used for localization. 
+    {
+        //"es": "", //Spanish
+        "ko": "향수 제조기", //Korean
+        "de": "Parfümerie", //German
+        //"fr": "", //French
+        "hu": "Parfüméria", //Hungarian
+        //"it": "", //Italian
+        "ja": "香水製造機", //Japanese
+        "pt": "Máquina de Perfume", //Portuguese
+        "ru": "Парфюмерная машина", //Russian
+        //"tr": "", //Turkish
+        "zh": "香水制造机", //Chinese (Simplified)
+    },
+    "DescriptionLocalization": //Used for localization. 
+    {
+        //"es": "", //Spanish
+        "ko": "꽃을 향수로 만들어줍니다.", //Korean
+        "de": "Verarbeitet Blumen zu Parfüm.", //German
+        //"fr": "", //French
+        "hu": "A virágokból parfümt allít elő.", //Hungarian
+        //"it": "", //Italian
+        "ja": "花を加工し香水を作る。", //Japanese
+        "pt": "Processa flores para fazer perfumes.", //Portuguese
+        "ru": "Перерабатывает цветы в духи.", //Russian
+        //"tr": "", //Turkish
+        "zh": "把花加工成香水。", //Chinese (Simplified)
     }
+}

@@ -1,0 +1,62 @@
+{
+    "Name": "Plain Cheesecake",
+    "Description": "It doesn't have much flavor.",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Harvey", "Vincent", "Sandy", "Wizard", "Shane"],
+        "Like": ["Clint", "Sebastian", "Gus", "Penny", "Leah", "Sam", "George"],
+        "Dislike": ["Pierre", "Willy"],
+        "Hate": ["Dwarf"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cream Cheese",
+            "Count": 1,
+        },
+        {
+            "Object": "Graham Crackers",
+            "Count": 1,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2000,
+        "PurchaseRequirements": ["HasCookingRecipe Cream-Cheese Graham-Crackers", "y 4"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

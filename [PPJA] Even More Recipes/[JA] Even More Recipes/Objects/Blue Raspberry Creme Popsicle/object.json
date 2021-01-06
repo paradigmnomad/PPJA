@@ -32,14 +32,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 900,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Paleta de crema de arándanos",
         "ko": "블루베리 크림 팝시클",
         "de": "Blaubeercreme am Stiel",
-         // "fr": "",
+        "fr": "Glace à l'eau crème-myrtille",
          // "hu": "",
          // "it": "",
         "ja": "ブルーベリークリームアイスバー",
@@ -53,13 +52,13 @@
         "es": "Los arándanos y la crema son excelentes para el verano.",
         "ko": "블루베리와 크림은 여름철 최고의 간식이에요.",
         "de": "Blaubeeren und Creme eignen sich perfekt für einen Sommersnack.",
-         // "fr": "",
+        "fr": "Myrtilles et crème faites pour un excellent délice d'été au soleil.",
          // "hu": "",
          // "it": "",
         "ja": "夏の日にすばらしいおやつ。",
         "pt": "Mirtilos e creme são um excelente presente para um dia de verão.",
          // "ru": "",
          // "tr": "",
-        "zh": "蓝莓奶油冰棒。蓝莓和奶油是夏天解暑的最佳选择。",
+        "zh": "蓝莓和奶油是夏天解暑的最佳选择。",
     }
 }

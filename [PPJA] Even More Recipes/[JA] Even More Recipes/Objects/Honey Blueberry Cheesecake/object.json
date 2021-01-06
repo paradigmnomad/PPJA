@@ -32,16 +32,14 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2690,
-        "PurchaseRequirements": [
-            "z winter",
-        ]
+        "PurchaseRequirements": ["HasCookingRecipe Cream-Cheese", "z winter", "y 4"]
     },
     "NameLocalization":
     {
         "es": "Pastel de miel con arándanos",
         "ko": "블루베리 허니 케이크",
         "de": "Blaubeerhonigkuchen",
-         // "fr": "",
+        "fr": "Gâteau aux myrtilles et au miel",
          // "hu": "",
          // "it": "",
         "ja": "ブルーベリーハニーケーキ",
@@ -55,13 +53,13 @@
         "es": "¡Un dulce pegajoso con arándanos encima!",
         "ko": "블루베리를 얹은 끈적끈적한 달콤함!",
         "de": "Eine klebrige Süßigkeit mit Heidelbeeren obendrauf.",
-         // "fr": "",
+        "fr": "Une douceur collante avec des myrtilles au-dessus.",
          // "hu": "",
          // "it": "",
         "ja": "ブルーベリーを乗せたしたスイーツ！",
         "pt": "Um doce pegajoso com mirtilos por cima!",
          // "ru": "",
          // "tr": "",
-        "zh": "蓝莓蜂蜜蛋糕。蛋糕顶上放着黏乎乎甜蜜蜜的蓝莓！",
+        "zh": "蛋糕顶上放着黏乎乎甜蜜蜜的蓝莓！",
     }
 }

@@ -3,23 +3,20 @@
     "Product": "Lemon",
     "SaplingName": "Lemon Sapling",
     "SaplingDescription": "Takes 28 days to produce a mature Lemon tree. Bears fruit in the spring. Only grows if the 8 surrounding tiles are empty.",
-
     "Season": "spring",
-
     "SaplingPurchasePrice": 2000,
-    "SaplingPurchaseRequirements": null,
-      "SaplingNameLocalization":
+    "SaplingNameLocalization":
     {
         "es": "Brote de limonero",
         "ko": "레몬 묘목",
         "de": "Zitronenbaum-Setzling",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        "fr": "Jeune citronnier",
+        "hu": "Citromfa csemete",
+        // "it": "",
         "ja": "レモンの苗",
         "pt": "Mudas de limoeiro siciliano",
         "ru": "Саженец лимона",
-         // "tr": "",
+        // "tr": "",
         "zh": "柠檬树苗",
     },
     "SaplingDescriptionLocalization":
@@ -27,13 +24,13 @@
         "es": "Toma 28 días para producir un árbol de limonero maduro. Da fruta en la primavera. Solo crece si las 8 casillas circundantes están vacías.",
         "ko": "28일후에 성목이 됩니다. 봄에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
         "de": "Wächst in 28 Tagen zu einem reifen Zitronenbaum heran. Trägt im Frühling Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        "fr": "Il faut 28 jours pour produire un citronnier mature. Produit des citrons au printemps. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
+        "hu": "28 nap múlva érik meg, és citromfa lesz belőle. Tavasszal hoz gyümölcsöt. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
+        // "it": "",
         "ja": "28日かけて成木にそだち、春になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
         "pt": "Demora até 28 dias para produzir um limoeiro siciliano maduro. Dá frutas na verão. Só cresce se os 8 espaços adjacentes estiverem vazios.",
         "ru": "Становится взрослым лимонным деревом через 28 дней. Плодоносит весной. Растет только если 8 «клеток» вокруг него не заняты.",
-         // "tr": "",
+        // "tr": "",
         "zh": "28天成熟为成年柠檬树。春天结果。只有在附近8块地块都空置的情况下才会成长。",
     }
 }

@@ -1,0 +1,509 @@
+{
+    "Format": "1.18.0",
+    "ConfigSchema":
+    {
+
+        "GreenTeaEnabled":
+        {
+            "AllowValues": "true, false",
+            "Default": "false",
+            "Description": "Enables the legacy green tea sprite."
+        },
+        "TeaCropEnabled":
+        {
+            "AllowValues": "true, false",
+            "Default": "false",
+            "Description": "Enables the legacy tea crop sprite."
+        },
+        "RiceCropEnabled":
+        {
+            "AllowValues": "true, false",
+            "Default": "false",
+            "Description": "Enables the legacy rice crop sprite."
+        },
+        "BananaTreeEnabled":
+        {
+            "AllowValues": "true, false",
+            "Default": "false",
+            "Description": "Enables the legacy banana tree sprite."
+        },
+        "MangoTreeEnabled":
+        {
+            "AllowValues": "true, false",
+            "Default": "false",
+            "Description": "Enables the legacy rice crop sprite."
+        },
+        "TaroCropEnabled":
+        {
+            "AllowValues": "true, false",
+            "Default": "false",
+            "Description": "Enables the legacy taro crop sprite."
+        },
+        "GingerEnabled":
+        {
+            "AllowValues": "true, false",
+            "Default": "false",
+            "Description": "Enables the legacy ginger crop sprite."
+        },
+        "PineappleCropEnabled":
+        {
+            "AllowValues": "true, false",
+            "Default": "false",
+            "Description": "Enables the legacy pineapple crop sprite."
+        },
+        "PinaColadaEnabled":
+        {
+            "AllowValues": "true, false",
+            "Default": "false",
+            "Description": "Enables the legacy pina colada sprite."
+        },
+        "BananaPuddingEnabled":
+        {
+            "AllowValues": "true, false",
+            "Default": "false",
+            "Description": "Enables the legacy banana pudding sprite."
+        },
+        "GingerAleEnabled":
+        {
+            "AllowValues": "true, false",
+            "Default": "false",
+            "Description": "Enables the legacy ginger ale sprite."
+        },
+        "DragonToothEnabled":
+        {
+            "AllowValues": "true, false",
+            "Default": "false",
+            "Description": "Enables the legacy dragon tooth sprite."
+        },
+    },
+
+    "Changes": [
+
+        // Tea
+
+        {
+            "LogName": "Tea Crop",
+            "Action": "EditImage",
+            "Target": "TileSheets/bushes",
+            "FromFile": "assets/tealeavescrop.png",
+            "ToArea":
+            {
+                "X": 0,
+                "Y": 256,
+                "Width": 128,
+                "Height": 64
+            },
+            "When":
+            {
+                "TeaCropEnabled": true
+            }
+        },
+        {
+            "LogName": "Tea Product",
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/tealeaf.png",
+            "ToArea":
+            {
+                "X": 368,
+                "Y": 528,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "TeaCropEnabled": true
+            }
+        },
+
+        // Green Tea
+
+        {
+            "LogName": "Green Tea",
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/greentea.png",
+            "ToArea":
+            {
+                "X": 224,
+                "Y": 400,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "GreenTeaEnabled": true
+            }
+        },
+
+        // Rice
+
+        {
+            "LogName": "Rice Starter",
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/riceseeds.png",
+            "ToArea":
+            {
+                "X": 144,
+                "Y": 176,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "RiceCropEnabled": true
+            }
+        },
+        {
+            "LogName": "Rice Product",
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/unmilledrice.png",
+            "ToArea":
+            {
+                "X": 112,
+                "Y": 176,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "RiceCropEnabled": true
+            }
+        },
+        {
+            "LogName": "Rice Crop",
+            "Action": "EditImage",
+            "Target": "TileSheets/crops",
+            "FromFile": "assets/ricecrop.png",
+            "ToArea":
+            {
+                "X": 0,
+                "Y": 544,
+                "Width": 96,
+                "Height": 32
+            },
+            "When":
+            {
+                "RiceCropEnabled": true
+            }
+        },
+
+        // Banana
+
+        {
+            "LogName": "Banana Product",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/banana.png",
+            "ToArea":
+            {
+                "X": 304,
+                "Y": 48,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "BananaTreeEnabled": true
+            }
+        },
+        {
+            "LogName": "Banana Sapling",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/bananasapling.png",
+            "ToArea":
+            {
+                "X": 336,
+                "Y": 32,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "BananaTreeEnabled": true
+            }
+        },
+        {
+            "LogName": "Banana Tree",
+            "Action": "EditImage",
+            "Target": "TileSheets/fruittrees",
+            "FromFile": "assets/bananatree.png",
+            "ToArea":
+            {
+                "X": 0,
+                "Y": 560,
+                "Width": 432,
+                "Height": 80
+            },
+            "When":
+            {
+                "BananaTreeEnabled": true
+            }
+        },
+
+        // Banana Pudding
+
+        {
+            "LogName": "Banana Pudding",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/bananapudding.png",
+            "ToArea":
+            {
+                "X": 256,
+                "Y": 592,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "BananaPuddingEnabled": true
+            }
+        },
+
+        // Pineapple 
+
+        {
+            "LogName": "Pineapple Product",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/pineapple.png",
+            "ToArea":
+            {
+                "X": 256,
+                "Y": 544,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "PineappleCropEnabled": true
+            }
+        },
+        {
+            "LogName": "Pineapple Sapling",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/pineappleseeds.png",
+            "ToArea":
+            {
+                "X": 272,
+                "Y": 544,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "PineappleCropEnabled": true
+            }
+        },
+        {
+            "LogName": "Pineapple Tree",
+            "Action": "EditImage",
+            "Target": "TileSheets/crops",
+            "FromFile": "assets/pineapplecrop.png",
+            "ToArea":
+            {
+                "X": 128,
+                "Y": 672,
+                "Width": 128,
+                "Height": 32
+            },
+            "When":
+            {
+                "PineappleCropEnabled": true
+            }
+        },
+
+        // Mango
+
+        {
+            "LogName": "Mango Product",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/mango.png",
+            "ToArea":
+            {
+                "X": 288,
+                "Y": 544,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "MangoTreeEnabled": true
+            }
+        },
+        {
+            "LogName": "Mango Sapling",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/mangosapling.png",
+            "ToArea":
+            {
+                "X": 304,
+                "Y": 544,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "MangoTreeEnabled": true
+            }
+        },
+        {
+            "LogName": "Mango Tree",
+            "Action": "EditImage",
+            "Target": "TileSheets/fruittrees",
+            "FromFile": "assets/mangotree.png",
+            "ToArea":
+            {
+                "X": 0,
+                "Y": 640,
+                "Width": 432,
+                "Height": 80
+            },
+            "When":
+            {
+                "MangoTreeEnabled": true
+            }
+        },
+
+        // Pina Colada
+
+        {
+            "LogName": "Pina Colada",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/pinacolada.png",
+            "ToArea":
+            {
+                "X": 144,
+                "Y": 576,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "PinaColadaEnabled": true
+            }
+        },
+
+        // Dragon Tooth
+
+        {
+            "LogName": "Dragon Tooth",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/dragontooth.png",
+            "ToArea":
+            {
+                "X": 192,
+                "Y": 560,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "DragonToothEnabled": true
+            }
+        },
+
+        // Ginger
+
+        {
+            "LogName": "Ginger",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/ginger.png",
+            "ToArea":
+            {
+                "X": 208,
+                "Y": 544,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "GingerEnabled": true
+            }
+        },
+
+        // Ginger Ale
+
+        {
+            "LogName": "Ginger",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/gingerale.png",
+            "ToArea":
+            {
+                "X": 240,
+                "Y": 592,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "GingerAleEnabled": true
+            }
+        },
+
+        // Taro
+
+        {
+            "LogName": "Taro Product",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/taro.png",
+            "ToArea":
+            {
+                "X": 224,
+                "Y": 544,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "TaroCropEnabled": true
+            }
+        },
+        {
+            "LogName": "Taro Sapling",
+            "Action": "EditImage",
+            "Target": "TileSheets/springobjects",
+            "FromFile": "assets/taroseed.png",
+            "ToArea":
+            {
+                "X": 240,
+                "Y": 544,
+                "Width": 16,
+                "Height": 16
+            },
+            "When":
+            {
+                "TaroCropEnabled": true
+            }
+        },
+        {
+            "LogName": "Taro Tree",
+            "Action": "EditImage",
+            "Target": "TileSheets/crops",
+            "FromFile": "assets/tarocrop.png",
+            "ToArea":
+            {
+                "X": 0,
+                "Y": 672,
+                "Width": 128,
+                "Height": 32
+            },
+            "When":
+            {
+                "TaroCropEnabled": true
+            }
+        },
+    ]
+}

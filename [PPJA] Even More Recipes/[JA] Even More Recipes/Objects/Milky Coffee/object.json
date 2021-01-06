@@ -17,13 +17,12 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 100,
-    "PurchaseRequirements": null,
-    "NameLocalization":
+        "NameLocalization":
     {
         "es": "Café con leche",
         "ko": "밀크 커피",
         "de": "Milchiger Kaffee",
-         // "fr": "",
+        "fr": "Café au lait",
          // "hu": "",
          // "it": "",
         "ja": "ミルクコーヒー缶",
@@ -37,13 +36,13 @@
         "es": "¡Café con leche enlatado!",
         "ko": "우유가 첨가된 캔 커피!",
         "de": "Kaffee mit Milch aus der Dose!",
-         // "fr": "",
+        "fr": "Café avec du lait ajouté, dans une conserve !",
          // "hu": "",
          // "it": "",
         "ja": "缶入りのミルク入りコーヒー！",
         "pt": "Café com leite adicionado a ele, dentro de uma lata!",
          // "ru": "",
          // "tr": "",
-        "zh": "牛奶咖啡。加了牛奶的咖啡，罐装的！",
+        "zh": "加了牛奶的咖啡，罐装的！",
     }
 }

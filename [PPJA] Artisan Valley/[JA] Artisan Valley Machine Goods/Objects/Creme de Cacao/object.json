@@ -24,8 +24,7 @@
   "CanPurchase": true,
   "PurchaseFrom": "Gus",
   "PurchasePrice": 285,
-  "PurchaseRequirements": null,
-    "GiftTastes":
+      "GiftTastes":
     {
         "Love": ["Pam", "Shane", "Gus"],
         "Like": ["Caroline", "Jodi", "Lewis", "Pierre", "Robin"],
@@ -36,31 +35,31 @@
 
     "NameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Creme de Cacao",
+        "ko": "크렘 드 카카오",
         //"de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Crème de cacao",
+        "hu": "Crème de cacao",
         // "it": "",
         "ja": "クレーム・ド・カカオ",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "可可利口酒",
     },
     "DescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Licor suave y chocolateoso",
+        "ko": "부드럽고 초콜릿 향이 나는 술.",
         //"de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Liqueur crèmeuse et chocolatée.",
+        "hu": "Egy lágy, csokoládés likőr.",
         // "it": "",
         "ja": "滑らかでチョコレートのような風味のお酒。",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "柔和的巧克力风味利口酒。",
     }
 
 }

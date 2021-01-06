@@ -27,14 +27,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1260,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Papas fritas con queso",
         "ko": "치즈 감자튀김",
         "de": "Käse Pommes",
-         // "fr": "",
+        "fr": "Frites au fromage",
          // "hu": "",
          // "it": "",
         "ja": "チーズフライドポテト",
@@ -48,13 +47,13 @@
         "es": "Papas fritas y queso, ¿qué mas se podría pedir?",
         "ko": "감자 튀김과 치즈, 뭘 더 바라겠어요?",
         "de": "Pommes und Käse, was will man mehr?",
-         // "fr": "",
+        "fr": "Frites avec du fromage, que demander de mieux ?",
          // "hu": "",
          // "it": "",
         "ja": "フライドポテトにチーズ、他に何か必要ですか？",
         "pt": "Batatas fritas e queijo, o que mais você poderia querer?",
          // "ru": "",
          // "tr": "",
-        "zh": "芝士薯条。法式炸薯条和奶酪，你还能奢求什么？",
+        "zh": "法式炸薯条和奶酪，你还能奢求什么？",
     }
 }

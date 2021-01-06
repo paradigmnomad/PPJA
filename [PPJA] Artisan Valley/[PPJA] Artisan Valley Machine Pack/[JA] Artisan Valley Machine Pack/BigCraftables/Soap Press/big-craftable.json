@@ -29,11 +29,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Prensa de Jabon",
         "ko": "비누 프레스",
         "de": "Seifenpresse",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Presse à savon",
+        "hu": "Szappan prés",
         // "it": "",
         "ja": "ソーププレス",
         "pt": "Prensa de Sabonete",
@@ -43,11 +43,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una prensa diseñada para moldear jabón.",
         "ko": "비누 성형을 위해 설계된 프레스.",
         "de": "Entworfen, um Seifen zu formen.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une presse conçue pour mouler du savon.",
+        "hu": "Egy prés, melyet szappan préselésére terveztek.",
         // "it": "",
         "ja": "石けんをプレスしかたどる機械。",
         "pt": "Um prensa feita para moldar sabonete.",

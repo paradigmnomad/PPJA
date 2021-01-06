@@ -1,9 +1,9 @@
 {
     "Name": "Reptile Meat",
     "Description": "Tender meat from a reptile.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
-    "Price": 75,
+    "Price": 125,
     "IsColored": false,
     "GiftTastes":
     {
@@ -14,30 +14,31 @@
     
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Carne de reptil",
+        "ko": "파충류고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande de reptile",
+        "hu": "Hüllő hús",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "爬行动物肉",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Carne tierna de un reptil.",
+        "ko": "파충류의 부드러운 고기.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande tendre de reptile.",
+        "hu": "Egy hüllő könnyed hússzelete.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
-    }
+         "zh": "来自爬行动物的嫩肉。",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

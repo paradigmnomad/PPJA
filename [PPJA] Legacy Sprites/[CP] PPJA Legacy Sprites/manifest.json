@@ -1,0 +1,13 @@
+{
+    "Name": "PPJA Legacy Sprites for Content Patcher",
+    "Author": "Project Populate JsonAssets",
+    "Description": "Replaces various sprites with their legacy versions.",
+    "Version": "1.0.0",
+    "MinimumApiVersion": "3.7.0",
+    "UpdateKeys": ["Nexus:7058"],
+    "UniqueID": "ppja.legacysprites",
+    "ContentPackFor":
+    {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+}

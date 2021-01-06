@@ -1,0 +1,64 @@
+{
+    "Name": "Salmon Fillet",
+    "Description": "A fillet of freshly caught salmon.",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 475,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 139,
+            "Count": 1,
+        },
+        {
+            "Object": "Butter",
+            "Count": 1,
+        },
+        {
+            "Object": "Chives",
+            "Count": 1,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Willy",
+        "PurchasePrice": 375,
+        "PurchaseRequirements": ["s 139 5", "y 3"],
+    },
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Emily", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Hate": ["Evelyn", "Haley", "Pierre"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

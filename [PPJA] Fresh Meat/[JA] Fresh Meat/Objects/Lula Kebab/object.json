@@ -5,7 +5,7 @@
     "Edibility": 73,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 150,
+    "Price": 525,
     "IsColored": false,
     "GiftTastes":
     {
@@ -32,36 +32,35 @@
         {
             "Object": 248,
             "Count": 1,
-        },],
-        "CanPurchase": false,
+        }, ],
+        "IsDefault": true
     },
-
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Lula Kebab",
+        "ko": "룰라 케밥",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Lula kebab",
+        "hu": "Lyulya kebab",
         // "it": "",
         // "ja": "",
         // "pt": "",
         "ru": "Люля-кебаб",
         // "tr": "",
-         "zh": "卢拉烤肉串",
+        "zh": "卢拉烤肉串",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Una brocheta de verduras y carne a la parrilla.",
+        "ko": "야채와 고기를 꼬치에 끼워 구워냈다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une brochette de viande et de légumes grillés.",
+        "hu": "Egy nyárs sült zöldségekkel és hússal.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         "ru": "Шашлык из жареных овощей и мяса.",
         // "tr": "",
-         "zh": "用肉类与蔬菜混合磨碎的肉泥制成，是亚美尼亚，阿塞拜疆以及高加索，中东和中亚其他国家的特色美食。",
+        "zh": "用肉类与蔬菜混合磨碎的肉泥制成，是亚美尼亚，阿塞拜疆以及高加索，中东和中亚其他国家的特色美食。",
     }
 }

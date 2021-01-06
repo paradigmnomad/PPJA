@@ -2,6 +2,8 @@
     "Name": "Maguey",
     "Description": "The cut frond of a maquey. It can be used to make alcohol.",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Succulent",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 8,
     "Price": 170,
     "IsColored": false,
@@ -13,11 +15,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Agave",
         "ko": "용설란",
         "de": "Agave",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Agave cantala",
+        "hu": "Agávé",
         // "it": "",
         "ja": "マゲイ",
         "pt": "Agave",
@@ -27,11 +29,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "La hoja cortada de un agave. Se puede usar para fermentar alcohol.",
         "ko": "용설란에서 잘라낸 잎. 증류 가마를 이용해 술로 만들 수 있습니다.",
         "de": "Der abgeschnittene Wedel einer Agave. Kann für die Herstellung von Alkohol genutzt werden.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "La feuille coupée d'une agave. Elle peut être utilisée pour fermenter de l'alcool.",
+        "hu": "Egy agávé levele. Alkohol előállítására használják.",
         // "it": "",
         "ja": "リュウゼツランの葉を切り取ったもの。お酒を造るために使用する。",
         "pt": "O Corte frontal de uma agave. É usada na fermentação do álcool.",
@@ -43,7 +45,7 @@
         "season_spring",
         "season_summer",
         "color_green",
-        "vegetable_item",
+        "succulent_item",
         "crop_year_4",
     ],
 }

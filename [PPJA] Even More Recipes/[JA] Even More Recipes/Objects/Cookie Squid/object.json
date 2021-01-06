@@ -35,14 +35,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1500,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Galleta calamerina",
         "ko": "오징어 쿠키",
         "de": "Tintenfischplätzchen",
-         // "fr": "",
+        "fr": "Biscuit en forme de calamar",
          // "hu": "",
          // "it": "",
         "ja": "イカクッキー",
@@ -56,13 +55,13 @@
         "es": "Una linda galleta con forma de calamar.",
         "ko": "오징어 모양의 귀여운 쿠키.",
         "de": "Ein süßes Plätzchen in Form eines Tintenfischs.",
-         // "fr": "",
+        "fr": "Un biscuit mignon en forme de calamar.",
          // "hu": "",
          // "it": "",
         "ja": "イカの形をしたかわいいクッキー。",
         "pt": "Um biscoito fofo em forma de lula.",
          // "ru": "",
          // "tr": "",
-        "zh": "小鱿鱼饼干。它的形状像一只小鱿鱼。",
+        "zh": "它的形状像一只小鱿鱼。",
     }
 }

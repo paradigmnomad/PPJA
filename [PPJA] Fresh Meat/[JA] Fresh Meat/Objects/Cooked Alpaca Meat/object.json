@@ -22,17 +22,19 @@
             "Object": "Seasonings",
             "Count": 1,
         }, ],
+        "IsDefault": true,
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 200,
     "PurchaseRequirements": null,
-
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Carne de alpaca cocinada",
+        "ko": "구운 알파카 고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande d'alpaga cuite",
+        "hu": "Sült alpaka hús",
         // "it": "",
         // "ja": "",
         // "pt": "",
@@ -42,16 +44,21 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Un filete de alpaca, ya cocinado y listo para ser utilizado en recetas.",
+        "ko": "알파카의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Un steak d'alpaga, déjà cuit et prêt à être utilisé dans des recettes.",
+        "hu": "Egy alpaka húsából készített steak, megsütve, felhasználásra készen.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
          "zh": "从羊驼身上取下的肉排，已煮熟，可用于进一步烹调。",
-    }
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ],    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

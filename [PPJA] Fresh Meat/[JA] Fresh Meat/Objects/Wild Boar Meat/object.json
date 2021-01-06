@@ -1,44 +1,42 @@
 {
     "Name": "Wild Boar Meat",
     "Description": "A gamey but tasty cut of wild boar.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
-    "Price": 175,
+    "Price": 225,
     "IsColored": false,
     "GiftTastes":
     {
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian"],
-    },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-    
+    },    
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Carne de jabalí",
+        "ko": "야생 멧돼지",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande de sanglier",
+        "hu": "Vaddisznóhús",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "野猪肉",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Un corte de jabalí jugoso y sabroso.",
+        "ko": "누린내가 있지만 맛있는 야생 멧돼지 고기.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une tranche de sanglier sauvage à l'odeur de gibier mais savoureuse.",
+        "hu": "Egy vaddisznó rágós, de ízletes hússzelete.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
-    }
+         "zh": "美味可口的野猪肉。",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

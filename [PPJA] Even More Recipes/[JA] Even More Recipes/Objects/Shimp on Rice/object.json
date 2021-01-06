@@ -1,0 +1,61 @@
+{
+    "Name": "Shrimp on Rice",
+    "Description": "A simple dish of cooked shrimps over rice.",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 560,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Harvey", "Alex", "Marnie", "Sebastian", "Elliott", "Willy", "George", ],
+        "Like": ["Maru", "Sandy", "Jodi", ],
+        "Dislike": ["Penny", "Demetrius"],
+        "Hate": ["Dwarf"]
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 720,
+            "Count": 4,
+        },
+        {
+            "Object": 423,
+            "Count": 1,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1700,
+            },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

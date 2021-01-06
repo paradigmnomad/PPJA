@@ -3,7 +3,7 @@
     "Description": "Chunks of succulent dragon meat sauteed with a thick, sweet and sour glaze.",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 1700,
     "IsColored": false,
     "Recipe":
     {
@@ -25,36 +25,38 @@
             "Object": 635,
             "Count": 1,
         }, ],
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 725,
+        "PurchaseRequirements": ["y 2"]
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
 
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Bocados agridulces",
+        "ko": "용고기 탕수육",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Bouchées aigres-douces",
+        "hu": "Édes-savanyú falatkák",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "酸甜肉块",
+        "zh": "酸甜肉块",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Trozos de suculenta carne de dragón salteados con un glaseado agridulce espeso.",
+        "ko": "육즙이 풍부한 드래곤 고기에 끈적하고 새콤달콤한 소스를 듬뿍 발랐다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Morceaux de viande de dragon succulente sautés avec un glaçage épais et aigre-doux.",
+        "hu": "Szaftos sárkányhús darabok sűrű, édes-savanyú mártással pácolva.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "大块多汁的龙肉，用浓糖醋汁猛火收汁炒制而成。",
-    }
+        "zh": "大块多汁的龙肉，用浓糖醋汁猛火收汁炒制而成。",
+    },
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

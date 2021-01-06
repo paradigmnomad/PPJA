@@ -1,0 +1,66 @@
+{
+    "Name": "Fish and Chips",
+    "Description": "A freshly fried, fish fillet with large sliced fried potatoes. A classic.",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Emily", "Harvey", "Jas", "Krobus", "Sam"],
+        "Like": ["Jodi", "Wizard", "Demetrius", "Pam", "Alex", "Shane", "Robin", "Clint", "Sandy", "Dwarf", "Abigail", "Penny", "Elliott"],
+        "Dislike": ["Linus", "Sebastian"],
+        "Hate": ["Vincent", "Haley"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": -4,
+            "Count": 1,
+        },
+        {
+            "Object": 192,
+            "Count": 2,
+        },
+        {
+            "Object": "Batter",
+            "Count": 1,
+        }, ],
+        "IsDefault": false,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2000,
+        "PurchaseRequirements": ["HasCookingRecipe Batter", "y 4"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

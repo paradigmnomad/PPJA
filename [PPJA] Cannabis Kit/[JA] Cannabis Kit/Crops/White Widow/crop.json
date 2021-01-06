@@ -14,39 +14,36 @@
     {
         "MinimumPerHarvest": 3,
         "MaximumPerHarvest": 4,
-        "MaxIncreasePerFarmLevel": 5,
+        "MaxIncreasePerFarmLevel": 0,
         "ExtraChance": 0.1,
     },
     "SeedPurchaseFrom": "Pierre",
     "SeedPurchasePrice": 400,
-    "SeedPurchaseRequirements": [
-        "f Sebastian 250"
-    ],
     "SeedNameLocalization":
     {
         "es": "Iniciador de Viuda blanca",
-        "ko": "화이트 위도우",
+        "ko": "화이트 위도우 씨앗",
         "de": "Weiße Witwe",
-        // "fr": "",
+        "fr": "Graines de White Widow",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Iniciador de Viúva Branca",
-        // "ru": "",
+        "ru": "Семена каннабиса Белая Вдова",
         // "tr": "",
         "zh": "白寡妇种子",
     },
     "SeedDescriptionLocalization":
     {
         "es": "Un híbrido balanceado, sus brotes son blancos con resina de cristal alertandote de los potentes efectos por venir. Plantalo en el verano o otoño. Tarda 15 días en madurar, continua produciendo cada 2 días.",
-        "ko": "균형 잡힌 하이브리드다. 봉오리는 흰 크리스탈 수지로 덮여 있으며, 다가오는 강력한 영향을 대한 경고이다. 여름이나 가을에 심으세요. 성숙 기간은 15일이며, 그 후 생산은 2일마다 계속된다.",
+        "ko": "균형 잡힌 하이브리드다. 봉오리는 흰 크리스탈 수지로 덮여 있으며, 다가오는 강력한 영향을 대한 경고이다. 여름 또는 가을에 심으세요. 성장하려면 15일이 소요되며, 그 후 생산은 2일마다 계속된다.",
         "de": "Als ausgewogene Hybride sind die Knospen weiß mit Kristallharz und warnen Sie vor den möglichen Auswirkungen. Pflanzen Sie diese im Sommer oder Herbst. Die Reifezeit beträgt 15 Tage. Danach wird die Produktion alle 2 Tage fortgesetzt.",
-        // "fr": "",
+        "fr": "Un hybride équilibré, ses bourgeons sont blancs avec de la résine de cristal pour alerter sur les effets puissants à venir. À planter en été ou en automne. Prend 15 jours pour arriver à maturité, puis continue de produire tous les 2 jours.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Um híbrido balanceado, seus brotos são brancos com resina de cristal alertando de seus efeitos potentes. Plante-os no verão ou outono. Leva 15 dias para amadurecer e continua produzindo a cada 2 dias.",
-        // "ru": "",
+        "ru": "Сбалансированный гибрид. Имеет бутоны белого цвета с кристаллической смолой, предупреждающей вас о возможных эффектах. Сажайтелетом или осенью. Вырастает через 15 дней и продолжает давать урожай после первого сбора каждые 2 дня.",
         // "tr": "",
         "zh": "一种平衡的混合大麻，它带有结晶树脂的白色嫩芽表明它具有强力的效果。夏天或秋天播种。15天成熟，之后每两天收获一次。",
     }

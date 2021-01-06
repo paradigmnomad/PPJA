@@ -16,7 +16,7 @@
             "Count": 1,
         },
         {
-            "Object": "Banana",
+            "Object": 91,
             "Count": 1,
         },
         {
@@ -32,6 +32,7 @@
         "PurchasePrice": 2820,
         "PurchaseRequirements": [
             "r 0.50",
+            "n willyHours",
         ]
     },
     "GiftTastes":
@@ -47,7 +48,7 @@
         "es": "Pan de banana",
         "ko": "바나나빵",
         "de": "Bananenbrot",
-         // "fr": "",
+        "fr": "Pain aux bananes",
          // "hu": "",
          // "it": "",
         "ja": "バナナブレッド",
@@ -61,7 +62,7 @@
         "es": "¡Es rico y húmedo!",
         "ko": "풍부하고 촉촉한 맛!",
         "de": "Es ist reichhaltig und saftig!",
-         // "fr": "",
+        "fr": "C'est riche et moelleux !",
          // "hu": "",
          // "it": "",
         "ja": "リッチでしっとり！",

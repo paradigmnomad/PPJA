@@ -26,20 +26,20 @@
             "Count": 1,
         },
         {
-            "Object": "Banana",
+            "Object": 91,
             "Count": 2,
         }],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2545,
-        "PurchaseRequirements": null,
+        "PurchaseRequirements": ["n willyHours"]
     },
     "NameLocalization":
     {
         "es": "Plátanos dulces fritos",
         "ko": "달콤한 바나나 튀김",
         "de": "Gebratene Bananen",
-         // "fr": "",
+        "fr": "Bananes sucrées frites",
          // "hu": "",
          // "it": "",
         "ja": "フライドバナナ",
@@ -53,13 +53,13 @@
         "es": "Plátanos azucarados, salteados en mantequilla.",
         "ko": "버터에 튀긴 설탕 바나나.",
         "de": "In Butter gebratene, gesüßte Bananen.",
-         // "fr": "",
+        "fr": "Bananes sucrées, poêlées au beurre.",
          // "hu": "",
          // "it": "",
         "ja": "バターで炒めて砂糖をまぶしたバナナ。",
         "pt": "Bananas açucaradas, refogadas em manteiga.",
          // "ru": "",
          // "tr": "",
-        "zh": "煎甜香蕉。加了糖的香蕉，用黄油煎。",
+        "zh": "加了糖的香蕉，用黄油煎。",
     }
 }

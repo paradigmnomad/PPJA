@@ -1,85 +1,86 @@
 {
-  "Name": "Sweet Pink Cocktail",
-  "Description": "Lives up to its name- this thing is SWEET!",
-  "Category": "Cooking",
-  "Edibility": 72,
-  "EdibleIsDrink": true,
-  "EdibleBuffs": {
+    "Name": "Sweet Pink Cocktail",
+    "Description": "Lives up to its name- this thing is SWEET!",
+    "Category": "Cooking",
+    "Edibility": 72,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
         "Luck": 0,
-	"Foraging": 0,
-	"MaxStamina": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
         "MagnetRadius": 0,
-	"Speed": -1,
-	"Defense": 0,
-	"Attack": 0,
+        "Speed": -1,
+        "Defense": 0,
+        "Attack": 0,
         "Duration": 100,
-  },
-  "Price": 1200,
-  "IsColored": false,
-  "CanPurchase": true,
-  "PurchaseFrom": "Gus",
-  "PurchasePrice": 1200,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Frangelico",
-        "Count": 1,
-      },
-      {
-        "Object": "Rum",
-        "Count": 1,
-      },
-      {
-        "Object": "Lemon",
-        "Count": 1,
-      },
-      {
-        "Object": 282,
-        "Count": 1,
-      },
-    ],
-    "CanPurchase": false,
-    "GiftTastes":
+    },
+    "Price": 1200,
+    "IsColored": false,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1200,
+    "Recipe":
     {
-        "Love": ["Shane", "Gus", "Pam", "Robin", "Haley"],
-        "Like": ["Pierre", "Clint", "George", "Elliott", "Kent", "Lewis", "Pierre", "Caroline", "Jodi", "Sandy"],
-        "Neutral": ["Marnie", "Demetrius", "Dwarf", "Emily", "Evelyn", "Harvey", "Leah", "Maru", "Krobus", "Linus", "Sebastian", "Willy", "Wizard"],
-        "Dislike": ["Penny", "Sam", "Abigail", "Alex"],
-        "Hate": ["Vincent", "Jas"]
-    }
-  },
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Frangelico",
+            "Count": 1,
+        },
+        {
+            "Object": "Rum",
+            "Count": 1,
+        },
+        {
+            "Object": "Lemon",
+            "Count": 1,
+        },
+        {
+            "Object": 282,
+            "Count": 1,
+        }, ],
+        "CanPurchase": false,
+        "GiftTastes":
+        {
+            "Love": ["Shane", "Gus", "Pam", "Robin", "Haley"],
+            "Like": ["Pierre", "Clint", "George", "Elliott", "Kent", "Lewis", "Pierre", "Caroline", "Jodi", "Sandy"],
+            "Neutral": ["Marnie", "Demetrius", "Dwarf", "Emily", "Evelyn", "Harvey", "Leah", "Maru", "Krobus", "Linus", "Sebastian", "Willy", "Wizard"],
+            "Dislike": ["Penny", "Sam", "Abigail", "Alex"],
+            "Hate": ["Vincent", "Jas"]
+        }
+    },
 
     "NameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Cóctel Dulce Rosa",
+        "ko": "스윗 핑크 칵테일",
         //"de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Coquetel de Rosa Doce",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "甜蜜粉红鸡尾酒",
     },
     "DescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Hace honor a su nombre, esto es DULCE!",
+        "ko": "이름 그대로 달콤한 칵테일입니다!",
         //"de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Faz jus ao seu nome - Esta coisa é DOCE!",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "这东西没有愧对它的名字——真甜！",
     }
 
 }

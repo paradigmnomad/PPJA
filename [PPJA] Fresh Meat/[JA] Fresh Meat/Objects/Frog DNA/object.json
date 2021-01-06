@@ -1,0 +1,46 @@
+{
+    "Name": "Frog DNA",
+    "Description": "Some frog DNA from scanning frogs with the DNA Sythesizer.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 10,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "ADN de rana",
+        "ko": "개구리 DNA",
+        // "de": "",
+        "fr": "ADN de grenouille",
+        "hu": "Béka DNS",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "蛙类DNA",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un poco de ADN de rana, procedente de escanear ranas con el sintetizador de ADN.",
+        "ko": "개구리에게서 추출한 DNA.",
+        // "de": "",
+        "fr": "De l'ADN de grenouille isolé en scannant des grenouilles avec un synthétiseur d'ADN.",
+        "hu": "Egy béka DNS-e, melyet a DNS szintetizátorral nyertek.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "用DNA离析机扫描青蛙得到的蛙类DNA。",
+    },
+    "ContextTags": [
+        "dna_item",
+    ],
+}

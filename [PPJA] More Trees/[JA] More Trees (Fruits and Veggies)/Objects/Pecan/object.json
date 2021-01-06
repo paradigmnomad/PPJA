@@ -12,14 +12,13 @@
         "Love": ["Leah"],
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
-    "Recipe": null,
     "NameLocalization":
     {
         "es": "Pecan",
         "ko": "피칸",
         "de": "Pekannuss",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Noix de pécan",
+        "hu": "Pekándió",
          // "it": "",
         "ja": "ペカンナッツ",
         "pt": "Pecã",
@@ -32,8 +31,8 @@
         "es": "Una nuez sabrosa con una semilla rayada. ¿Eres dueño de un cascanueces?",
         "ko": "줄무늬 씨앗을 가진 고소한 견과류. 호두까기를 가지고 있나요?",
         "de": "Eine wohlschmeckende Nuss. Besitzt du einen Nussknacker?",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Une noix savoureuse dont la graine a des rainures. Avez-vous un casse-noix ?",
+        "hu": "Egy ízletes dióféle, melynek magja csíkos. Van esetleg otthon egy diótörőd?",
          // "it": "",
         "ja": "縦じま模様の種のおいしいナッツ。くるみ割り人形は持ってる？",
         "pt": "Uma noz saborosa com uma semente listrada. Você tem um quebra-nozes?",
@@ -51,3 +50,4 @@
         "dye_medium"
     ]
 }
+

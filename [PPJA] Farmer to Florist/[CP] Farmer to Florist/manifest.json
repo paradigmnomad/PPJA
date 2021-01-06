@@ -1,7 +1,7 @@
 {
 	"Name": "Farmer to Florist Context Tag Swap",
 	"Author": "Kildarien (original) + SpringsSong (Port)",
-	"Version": "1.0.0",
+	"Version": "3.0.9",
 	"Description": "Adds an additional tag to Daffodil and Sweet Pea for use with Producer Framework",
 	"UniqueID": "Kildarien.CP.FarmerToFlorist",
 	"MinimumAPIVersion": "3.0.0",

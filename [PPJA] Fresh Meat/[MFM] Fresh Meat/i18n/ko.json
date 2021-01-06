@@ -1,0 +1,9 @@
+{
+	// Text
+"grilledskewer.text": "@,^^ 우리 살롱의 요리법을 보내줄게. 내 특별한 친구에게 주는 선물이란다!^^ -거스",
+"spaghettiandmeatballs.text": "@,^자네에게 내 스파게티 레시피를 알려줬었는데, 미트볼은 넣어봤는가? 마니에게 만들어 줘봤는데, 재스와 셰인도 정말 좋아했다고 들었네. 자네도 한 번 만들어 보게나!^-루이스",
+
+// Title
+"grilledskewer.title": "꼬치 구이 레시피",
+"spaghettiandmeatballs.title": "미트볼 스파게티 레시피"
+}

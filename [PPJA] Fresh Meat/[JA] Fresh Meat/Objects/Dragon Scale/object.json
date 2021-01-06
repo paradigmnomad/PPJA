@@ -1,0 +1,45 @@
+{
+    "Name": "Dragon Scale",
+    "Description": "A scale that fell off a dragon. Legend says anyone who finds one of these is blessed with fortune.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 650,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "ContextTags": [
+        "scale_item",
+    ],
+    "EnableWithMod": "Cherry.MultiYieldCrops"
+}

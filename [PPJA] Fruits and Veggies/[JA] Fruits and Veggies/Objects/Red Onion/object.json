@@ -16,14 +16,13 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 50,
-    "PurchaseRequirements": null,
-    "NameLocalization":
+        "NameLocalization":
     {
-         // "es": "",
+        "es": "Cebolla Roja",
         "ko": "적양파",
         "de": "Rote Zwiebel",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Oignon rouge",
+        "hu": "Lilahagyma",
          // "it": "",
         "ja": "レッドオニオン",
         "pt": "Cebola Vermelha",
@@ -33,11 +32,11 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
-        "ko": "양파의 붉은 버전.",
+        "es": "Versión roja de la cebolla. Simplemente.",
+        "ko": "그냥 빨간 양파.",
         "de": "Die rote Version einer Zwiebel. Ganz einfach.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "La version rouge de l'onion. Tout simplement.",
+        "hu": "Egy lila színű hagyma. Ilyen egyszerű.",
          // "it": "",
         "ja": "赤みがかったタマネギ。",
         "pt": "Versão vermelha de cebola. Simples!",

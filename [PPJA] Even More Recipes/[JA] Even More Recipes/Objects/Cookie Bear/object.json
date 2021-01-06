@@ -35,14 +35,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1500,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Galleta con forma de oso",
         "ko": "곰돌이 쿠키",
         "de": "Bärenplätzchen",
-         // "fr": "",
+        "fr": "Biscuit en forme d'ours",
          // "hu": "",
          // "it": "",
         "ja": "クマクッキー",
@@ -56,13 +55,13 @@
         "es": "Una linda galleta con forma de oso.",
         "ko": "귀여운 곰 모양 쿠키에요.",
         "de": "Ein süßes Plätzchen in Form eines Bären.",
-         // "fr": "",
+        "fr": "Un biscuit mignon en forme d'ours.",
          // "hu": "",
          // "it": "",
         "ja": "クマをかたどったかわいいクッキー。",
         "pt": "Um biscoito fofo em forma de urso.",
          // "ru": "",
          // "tr": "",
-        "zh": "小熊饼干。一个形状像小熊的可爱饼干。",
+        "zh": "一个形状像小熊的可爱饼干。",
     }
 }

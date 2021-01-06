@@ -23,7 +23,6 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1680,
-    "PurchaseRequirements": null,
 
     "Recipe":
     {
@@ -44,14 +43,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 5680,
-        "PurchaseRequirements": null,
     },
 
     "NameLocalization":
     {
         "es": "Whisky agrio",
         "ko": "위스키 사워",
-        // "de": "Saurer Wiskes",
+        "de": "Saurer Wiskes",
         // "fr": "",
         // "hu": "",
         // "it": "",

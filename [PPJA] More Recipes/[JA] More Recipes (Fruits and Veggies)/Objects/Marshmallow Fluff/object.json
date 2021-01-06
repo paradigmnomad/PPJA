@@ -9,8 +9,7 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 50,
-    "PurchaseRequirements": null,
-    "GiftTastes":
+        "GiftTastes":
     {
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Krobus", "Willy"],
@@ -21,7 +20,7 @@
         "es": "Crema de malvavisco",
         "ko": "마시멜로 플러프",
         "de": "Marshmallowcreme",
-         // "fr": "",
+        "fr": "Guimauve à tartiner",
          // "hu": "",
          // "it": "",
         "ja": "マシュマロ",
@@ -35,7 +34,7 @@
         "es": "Es ligero y esponjoso!",
         "ko": "가볍고 푹신해요!",
         "de": "Ein fluffiger Brotaufstrich!",
-         // "fr": "",
+        "fr": "C'est léger et aérien !",
          // "hu": "",
          // "it": "",
         "ja": "軽くてふわふわ！",

@@ -31,14 +31,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 450,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Ramen",
         "ko": "라면",
         "de": "Ramen",
-         // "fr": "",
+        "fr": "Ramen",
          // "hu": "",
          // "it": "",
         "ja": "ラーメン",
@@ -52,13 +51,13 @@
         "es": "Un plato sencillo con fideos ligeramente masticables.",
         "ko": "쫄깃쫄깃한 면 요리.",
         "de": "Eine traditionelle japanische Nudelsuppe.",
-         // "fr": "",
+        "fr": "Un plat simple avec des nouilles légérement caoutchouteuses.",
          // "hu": "",
          // "it": "",
         "ja": "少し歯ごたえのある麺を使ったシンプルな料理。",
         "pt": "Um prato simples com macarrão levemente mastigável.",
          // "ru": "",
          // "tr": "",
-        "zh": "拉面。一份简单的菜肴。",
+        "zh": "一份简单的菜肴。",
     }
 }

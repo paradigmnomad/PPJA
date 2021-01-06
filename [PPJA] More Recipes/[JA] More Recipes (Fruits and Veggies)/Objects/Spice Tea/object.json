@@ -34,8 +34,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1565,
-        "PurchaseRequirements": null,
-    },
+            },
     "GiftTastes":
     {
         "Love": ["Linus"],
@@ -47,7 +46,7 @@
         "es": "Té de especias",
         "ko": "스파이스 티",
         "de": "Gewürztee",
-         // "fr": "",
+        "fr": "Thé épicé",
          // "hu": "",
          // "it": "",
         "ja": "スパイスティー",
@@ -61,7 +60,7 @@
         "es": "Una mezcla caliente de canela y limón.",
         "ko": "시나몬과 레몬의 따스한 만남.",
         "de": "Eine wärmende Mischung aus Zimt und Zitrone.",
-         // "fr": "",
+        "fr": "Un mélange réchauffant de cannelle et de citron.",
          // "hu": "",
          // "it": "",
         "ja": "シナモンとレモンのブレンドティー。。",

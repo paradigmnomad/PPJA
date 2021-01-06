@@ -2,7 +2,6 @@
 	{
 		"Id": "ppja.amethystcookierecipe",
 		"Text": "amethystcookie.text",
-		"Title": "amethystcookie.title",
 		"Recipe": "Amethyst Cookie",
 		"LetterBG": "NicteLetterBackground.png", 
 		"Date": "1 spring Y1",
@@ -10,16 +9,11 @@
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Abigail", "FriendshipLevel": 5 }
-		],
-		/*"SkillConditions": 
-		[
-			{ "SkillName": "Farming", "SkillLevel": 1 }
-		]*/
+		]
 	},
 	{
 		"Id": "ppja.bananaandstrawberrycakerecipe",
 		"Text": "bananaandstrawberrycake.text",
-		"Title": "bananaandstrawberrycake.title",
 		"Recipe": "Banana Strawberry Cake",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
@@ -28,11 +22,11 @@
 		[
 			{ "NpcName": "Jas", "FriendshipLevel": 3 }
 		],
+		"MailReceived": ["willyHours"]
 	},
 	{
 		"Id": "ppja.chocolatemousebreadrecipe",
 		"Text": "chocolatemousebread.text",
-		"Title": "chocolatemousebread.title",
 		"Recipe": "Chocolate Mouse Bread",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y3",
@@ -40,12 +34,11 @@
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Penny", "FriendshipLevel": 8 }
-		],
+		]
 	},
 	{
 		"Id": "ppja.chocolatestrawberrycakerecipeg",
 		"Text": "chocolatestrawberrycake.text",
-		"Title": "chocolatestrawberrycake.title",
 		"Recipe": "Chocolate Strawberry Cake",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y3",
@@ -53,12 +46,11 @@
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Jas", "FriendshipLevel": 7 }
-		],
+		]
 	},
 	{
 		"Id": "ppja.bananachocolatecreperecipe",
 		"Text": "bananachocolatecrepe.text",
-		"Title": "bananachocolatecrepe.title",
 		"Recipe": "Chocolate and Banana Crepe",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 summer Y2",
@@ -67,11 +59,11 @@
 		[
 			{ "NpcName": "Caroline", "FriendshipLevel": 3 }
 		],
+		"MailReceived": ["willyHours"]
 	},
 	{
 		"Id": "ppja.deviledeggsrecipe",
 		"Text": "deviledeggs.text",
-		"Title": "deviledeggs.title",
 		"Recipe": "Deviled Eggs",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
@@ -79,12 +71,11 @@
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Pierre", "FriendshipLevel": 3 }
-		],
+		]
 	},
 	{
 		"Id": "ppja.icedchocolatedonutrecipe",
 		"Text": "icedchocolatedonut.text",
-		"Title": "icedchocolatedonut.title",
 		"Recipe": "Iced Chocolate Donut",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "14 spring Y2",
@@ -92,12 +83,11 @@
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Vincent", "FriendshipLevel": 3 }
-		],
+		]
 	},
 	{
 		"Id": "ppja.keylimepierecipe",
 		"Text": "keylimepie.text",
-		"Title": "keylimepie.title",
 		"Recipe": "Key Lime Pie",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 summer Y1",
@@ -105,12 +95,11 @@
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Lewis", "FriendshipLevel": 3 }
-		],
+		]
 	},
 	{
 		"Id": "ppja.seaweedchipsrecipe",
 		"Text": "seaweedchips.text",
-		"Title": "seaweedchips.title",
 		"Recipe": "Seaweed Chips",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
@@ -118,12 +107,11 @@
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Willy", "FriendshipLevel": 5 }
-		],
+		]
 	},
 	{
 		"Id": "ppja.strawberrypuddingrecipe",
 		"Text": "strawberrypudding.text",
-		"Title": "strawberrypudding.title",
 		"Recipe": "Strawberry Pudding",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
@@ -131,12 +119,11 @@
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Jas", "FriendshipLevel": 5 }
-		],
+		]
 	},
 	{
 		"Id": "ppja.tofurecipe",
 		"Text": "tofu.text",
-		"Title": "tofu.title",
 		"Recipe": "Tofu",
 		"LetterBG": "NicteLetterBackground.png",
 		"Date": "1 spring Y1",
@@ -144,6 +131,6 @@
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Maru", "FriendshipLevel": 3 }
-		],
-	},
+		]
+	}
 ]

@@ -1,0 +1,74 @@
+{
+    "Name": "Mushroom Soup",
+    "Description": "A simple type of soup where a basic roux is thinned with cream or milk and then mushroom are added.",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 685,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Harvey", "Alex", "Marnie", "Sebastian", "Elliott", "Willy", "George", ],
+        "Like": ["Maru", "Sandy", "Jodi", ],
+        "Dislike": ["Penny", "Demetrius"],
+        "Hate": ["Dwarf"]
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Butter",
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": "Shiitake Mushroom",
+            "Count": 1,
+        },
+        {
+            "Object": 404,
+            "Count": 1,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1100,
+        "PurchaseRequirements": ["y 4"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

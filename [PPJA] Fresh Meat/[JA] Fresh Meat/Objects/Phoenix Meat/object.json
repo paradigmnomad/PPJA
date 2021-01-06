@@ -1,43 +1,43 @@
 {
     "Name": "Phoenix Meat",
     "Description": "It's raw, but this meat cut from a phoenix is sizzling hot.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
-    "Price": 75,
+    "Price": 600,
     "IsColored": false,
     "GiftTastes":
     {
+		"Love": ["Gregory"],
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Sebastian"],
+        "Hate": ["Sebastian", "Sheila"],
     },
-    "Recipe": null,
-
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Carne de ave fénix",
+        "ko": "피닉스 고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande de phœnix",
+        "hu": "Főnixhús",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "凤凰肉",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Está cruda, pero esta carne cortada de un ave fénix está muy caliente.",
+        "ko": "날것이지만, 불사조의 일부인 이 고기는 지글지글 끓고 있다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "C'est brut, mais cette tranche de viande de phœnix est crépitante.",
+        "hu": "Nyers, de a főnix húsa mindig tűz forró.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
-    }
+         "zh": "这块凤凰肉是生的，但它从切下来的时候就很烫。",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

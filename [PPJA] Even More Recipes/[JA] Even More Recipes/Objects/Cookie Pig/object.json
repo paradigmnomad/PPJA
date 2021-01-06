@@ -38,14 +38,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 3150,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Galleta de cerdo",
         "ko": "돼지 쿠키",
         "de": "Schweinchenkeks",
-         // "fr": "",
+        "fr": "Biscuit en forme de cochon",
          // "hu": "",
          // "it": "",
         "ja": "ブタクッキー",
@@ -59,13 +58,13 @@
         "es": "¡Una linda galleta con forma de cerdo!",
         "ko": "돼지 모양의 귀여운 쿠키!",
         "de": "Ein süßer Keks in Form eines Schweinchens!",
-         // "fr": "",
+        "fr": "Un biscuit mignon en forme de cochon.",
          // "hu": "",
          // "it": "",
         "ja": "ブタをかたどったかわいいクッキー！",
         "pt": "Um biscoito fofo em forma de porco!",
          // "ru": "",
          // "tr": "",
-        "zh": "小猪饼干。它的形状像一只小猪。",
+        "zh": "它的形状像一只小猪。",
     }
 }

@@ -28,8 +28,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 500,
-        "PurchaseRequirements": null,
-    },
+            },
     "GiftTastes":
     {
         "Love": ["Maru", "Demetrius", "Sam", "Krobus"],
@@ -42,7 +41,7 @@
         "es": "Limonada de fresa",
         "ko": "딸기에이드",
         "de": "Erdbeerlimonade",
-         // "fr": "",
+        "fr": "Limonade à la fraise",
          // "hu": "",
          // "it": "",
         "ja": "ストロベリーレモネード",
@@ -56,13 +55,13 @@
         "es": "¡Limonada recién exprimida con un añadido de fresas!",
         "ko": "갓 짜낸 레모네이드와 딸기!",
         "de": "Frisch gepresste Limonade mit Erdbeeren!",
-         // "fr": "",
+        "fr": "Limonade fraîchement pressée avec de la fraise !",
          // "hu": "",
          // "it": "",
         "ja": "絞りたてのレモネードをイチゴと一緒に！",
         "pt": "Limonada espremida na hora com morangos!",
          // "ru": "",
          // "tr": "",
-        "zh": "草莓柠檬水。用新鲜的柠檬和草莓榨出来的。",
+        "zh": "用新鲜的柠檬和草莓榨出来的。",
     }
 }

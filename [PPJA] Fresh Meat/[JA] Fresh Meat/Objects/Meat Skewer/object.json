@@ -1,0 +1,75 @@
+{
+    "Name": "Meat Skewer",
+    "Description": "It's meat. On a stick.",
+    "Category": "Cooking",
+    "Edibility": 65,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1300,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Alex"],
+        "Like": ["Abigail", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Vincent"],
+        "Dislike": ["Emily", "Haley", "Harvey", "Jas", "Leah"],
+        "Hate": ["Marnie", "Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Beef",
+            "Count": 1,
+        },
+        {
+            "Object": "Mutton",
+            "Count": 1,
+        },
+        {
+            "Object": "Venison",
+            "Count": 1,
+        },
+        {
+            "Object": "Beast Meat",
+            "Count": 1,
+        },
+        {
+            "Object": "Alpaca Meat",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1000,
+        "PurchaseRequirements": ["y 4"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

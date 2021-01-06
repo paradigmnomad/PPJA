@@ -25,11 +25,11 @@
 
     "SeedNameLocalization":
     {
-        // "es": "",
+        "es": "Semillas de okra",
         "ko": "오크라 씨앗",
         "de": "Okra-Saat",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Graines de gombo",
+        "hu": "Gombó magvak",
         // "it": "",
         "ja": "オクラのタネ",
         "pt": "Sementes de Quiabo",
@@ -39,11 +39,11 @@
     },
     "SeedDescriptionLocalization":
     {
-        // "es": "",
+        "es": "Plántalas en verano u otoño. Tardan 10 días en crecer, y continua produciendo después de la primera cosecha.",
         "ko": "여름 또는 가을 작물. 성장하려먼 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
         "de": "Pflanze sie im Sommer oder Herbst. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "À planter en été ou en automne. Prend 10 jours pour arriver à maturité, et continue de produire après la première récolte.",
+        "hu": "Ezeket nyáron vagy ősszel ültesd el. 10 napig tart megérniük, de utána tovább termelnek.",
         // "it": "",
         "ja": "夏または秋植えの作物。そだつのに10日かかる。最初の収穫のあともくりかえし収穫できる。",
         "pt": "Plante-as no verão ou no outono. Leva 10 dias para amadurecer e continua a produzir após a primeira colheita",

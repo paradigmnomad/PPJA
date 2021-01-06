@@ -12,14 +12,13 @@
         "Like": ["Harvey", "Leah", "Linus"],
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
-    "Recipe": null,
     "NameLocalization":
     {
         "es": "Hojas de melaleuca",
         "ko": "멜라루카 잎",
         "de": "Melaleuca-Blätter",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Feuilles d'arbre à thé",
+        "hu": "Niaouli levél",
          // "it": "",
         "ja": "メラレウカの葉",
         "pt": "Folhas de melaleuca",
@@ -30,12 +29,12 @@
     "DescriptionLocalization":
     {
         "es": "Un cono espinoso de hojas que a menudo se usa como un remedio casero para cortes y hematomas.",
-        "ko": "찰과상과 타박상을 치료하기 위해 민간요법으로 자주 쓰이는 가시로 뒤덮인 원추형 잎.",
+        "ko": "찰과상과 타박상을 치료하기 위해 민간요법으로 자주 쓰이는 가시처럼 생긴 잎사귀.",
         "de": "Ein stacheliger Blätterkegel, der häufig als Haussmittel für Schnitte und Quetschungen benutzt wird.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Un cône épineux de feuilles souvent utilisées comme remède maison contre les coupures et autres blessures.",
+        "hu": "Egy tüskés, kúp alakú levél, amit gyakran házi gyógymódként használnak a vágások és zúzódások ellen",
          // "it": "",
-        "ja": "自家製の薬として切り傷や打撲に用いられる、とげ状の円すいの形の葉っぱ。",
+        "ja": "自家製の薬として切り傷や打撲に用いられる、とげ状の円すい形の葉っぱ。",
         "pt": "Um cone espinhoso de folhas que costuma ser usado como remédio caseiro para cortes e contusões.",
         "ru": "Колючие листья, которые часто используются в качестве домашнего средства от порезов и ушибов.",
          // "tr": "",

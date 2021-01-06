@@ -1,0 +1,55 @@
+{
+    "Name": "Broth",
+    "Description": "A simple broth made from vegetables. It's used as a base for some dishes.",
+    "Category": "Cooking",
+    "Edibility": 5,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 100,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Harvey", "Alex", "Marnie", "Sebastian", "Elliott", "Willy", "George", ],
+        "Like": ["Maru", "Sandy", "Jodi", ],
+        "Dislike": ["Penny", "Demetrius"],
+        "Hate": ["Dwarf"]
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": -75,
+            "Count": 4,
+        }, ],
+        "IsDefault": true
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

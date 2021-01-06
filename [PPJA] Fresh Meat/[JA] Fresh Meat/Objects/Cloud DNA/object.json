@@ -1,0 +1,47 @@
+{
+    "Name": "Cloud DNA",
+    "Description": "Some cloud DNA extracted from...a cloud? with the DNA Sythesizer. I don't know how you managed this.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 10,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "ADN de nube",
+        "ko": "구름 DNA",
+        // "de": "",
+        "fr": "ADN de nuage",
+        "hu": "Felhő DNS",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "云朵DNA",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un poco de ADN de nube extraído de... ¿una nube? con el sintetizador de ADN. No sé cómo lo has conseguido.",
+        "ko": "DNA 합성기로 구름에서 추출한 구름 DNA? 당신이 어떻게 이 일을 해냈는지 모르겠어요.",
+        // "de": "",
+        "fr": "De l'ADN de nuage extrait... d'un nuage ? Avec un synthétiseur d'ADN. Mais comment avez-vous réussi cet exploit ?",
+        "hu": "Egy felhő DNS-e amit egy... felhőből nyertek(?) A DNS szintetizátor segítségével. Nem tudom, hogy sikerült ez.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "用DNA离析机从一些...云朵(？？？)中提取的DNA，我不知道你是怎么做到的。",
+    },
+    "ContextTags": [
+        "dna_item",
+    ],
+    "EnableWithMod": "spacechase0.BugNet",
+}

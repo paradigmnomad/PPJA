@@ -1,55 +1,58 @@
 {
-  "Name": "Bacon",
-  "Description": "Breakfast meat is magic.",
-  "Category": "Cooking",
-  "Edibility": 40,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 230,
-  "IsColored": false,
-  "GiftTastes": {
-	"Love": ["Alex"],
-	"Like": ["Abigail", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
-	"Neutral": ["Harvey", "Vincent"],
-	"Dislike": ["Emily", "Haley", "Leah", "Jas", "Marnie"],
-	"Hate": ["Sebastian"],
-  },
-  "Recipe": {
-    "ResultCount": 2,
-    "Ingredients": [
-      {
-        "Object": "Cooked Pork",
-        "Count": 1,
-      }
-    ],
-    "IsDefault": true,
-  },
-  
- "NameLocalization": { 
-    "es": "Tocino",
-    "ko": "베이컨",
-    "de": "Bacon",
-    "fr": "Bacon",
-     // "hu": "",
-     // "it": "",
-      "ja": "ベーコン",
-     // "pt": "",
-    "ru": "Бекон",
-     // "tr": "",
-    "zh": "培根",
-  },
- "DescriptionLocalization": { 
-    "es": "La carne del desayuno es mágica.",
-    "ko": "아침의 고기는 마법입니다.",
-    "de": "Bacon",
-    "fr": "La viande du petit déjeuner est magique.",
-     // "hu": "",
-     // "it": "",
-      "ja": "朝食における魔法のお肉。",
-     // "pt": "",
-    "ru": "Чудесный мясной завтрак.",
-     // "tr": "",
-    "zh": "这份早餐肉有魔力。",
-  },
-  "DisableWithMod": "DIGUS.ANIMALHUSBANDRYMOD"
+    "Name": "Bacon",
+    "Description": "Breakfast meat is magic.",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 115,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Alex"],
+        "Like": ["Abigail", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Harvey", "Vincent"],
+        "Dislike": ["Emily", "Haley", "Leah", "Jas", "Marnie"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 2,
+        "Ingredients": [
+        {
+            "Object": "Pork",
+            "Count": 1,
+        }],
+        "IsDefault": true,
+    },
+
+    "NameLocalization":
+    {
+        "es": "Bacon",
+        "ko": "베이컨",
+        "de": "Bacon",
+        "fr": "Bacon",
+        "hu": "Bacon",
+        // "it": "",
+        "ja": "ベーコン",
+        "pt": "Bacon",
+        "ru": "Бекон",
+        // "tr": "",
+        "zh": "培根",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "La carne del desayuno es mágica.",
+        "ko": "아침식사로 아주 환상적입니다.",
+        "de": "Bacon",
+        "fr": "La viande au petit déjeuner est magique.",
+        "hu": "A reggeli hús csodákra képes.",
+        // "it": "",
+        "ja": "朝食における魔法のお肉。",
+        "pt": "A carne mágica do café da manhã",
+        "ru": "Чудесный мясной завтрак.",
+        // "tr": "",
+        "zh": "这份早餐肉有魔力。",
+    },
+    "DisableWithMod": "DIGUS.ANIMALHUSBANDRYMOD"
 }

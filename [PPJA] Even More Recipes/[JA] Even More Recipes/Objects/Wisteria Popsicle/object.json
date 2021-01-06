@@ -32,14 +32,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1000,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Paleta de glicina",
         "ko": "등나무 팝시클",
         "de": "Glyzinieneis am Stiel",
-         // "fr": "",
+        "fr": "Glace à l'eau à la glycine",
          // "hu": "",
          // "it": "",
         "ja": "藤アイスバー",
@@ -53,13 +52,13 @@
         "es": "Glicina recién recogida, congelado en una paleta.",
         "ko": "갓 따낸 등나무 꽃, 얼린 팝시클.",
         "de": "Frisch gepflückte Glyzinien, zu Eis am Stiel gefroren.",
-         // "fr": "",
+        "fr": "Des fleurs de glycine fraîchement cueillies, gelées dans une glace à l'eau.",
          // "hu": "",
          // "it": "",
         "ja": "摘みたての藤を凍らせてアイスバーに。",
         "pt": "Glicínias recém colhidas, congeladas em um picolée.",
          // "ru": "",
          // "tr": "",
-        "zh": "紫藤冰棒。以刚摘的新鲜紫藤作为原料，冻成冰棍。",
+        "zh": "以刚摘的新鲜紫藤作为原料，冻成冰棍。",
     }
 }

@@ -13,13 +13,12 @@
     "CanPurchase": true,
     "PurchaseFrom": "Pierre",
     "PurchasePrice": 150,
-    "PurchaseRequirements": null,
-    "NameLocalization":
+        "NameLocalization":
     {
         "es": "Semillas de ajonjolí",
         "ko": "참깨",
         "de": "Sesamsamen",
-         // "fr": "",
+        "fr": "Graines de sésame",
          // "hu": "",
          // "it": "",
         "ja": "ゴマ",
@@ -33,13 +32,13 @@
         "es": "No tienen mucho sabor.",
         "ko": "맛이 별로 없어요.",
         "de": "Sie schmecken nach nicht viel.",
-         // "fr": "",
+        "fr": "Elles n'ont pas beaucoup de saveur.",
          // "hu": "",
          // "it": "",
         "ja": "あまり味はない。",
         "pt": "Eles não têm muito sabor.",
          // "ru": "",
          // "tr": "",
-        "zh": "芝麻。它们本身其实没有什么味道。",
+        "zh": "它们本身其实没有什么味道。",
     }
 }

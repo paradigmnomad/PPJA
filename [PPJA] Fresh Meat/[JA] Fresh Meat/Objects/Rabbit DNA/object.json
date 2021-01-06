@@ -3,7 +3,7 @@
     "Description": "Some rabbit DNA extracted from a rabbits foot.",
     "Category": "AnimalGoods",
     "Edibility": -300,
-    "Price": 85,
+    "Price": 10,
     "IsColored": false,
     "GiftTastes":
     {
@@ -14,30 +14,33 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "ADN de conejo",
+        "ko": "토끼 DNA",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "ADN de lapin",
+        "hu": "Nyúl DNS",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "兔子DNA",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Un poco de ADN de conejo extraído de una pata de conejo.",
+        "ko": "토끼발에서 추출한 토끼 DNA.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "De l'ADN de lapin extrait d'une patte de lapin.",
+        "hu": "Egy nyúl DNS-e, melyet a lábából nyertek ki.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "从兔子脚上提取的兔子DNA。",
     },
+    "ContextTags": [
+        "dna_item",
+    ],
 }

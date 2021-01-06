@@ -1,17 +1,17 @@
 ﻿{
-	"Name": "[PFM] Fresh Meat",
-	"Author": "Project Populate Json Assets",
-	"Version": "3.0.9",
-	"Description": "Fresh Meat Producer Framework Mod component.",
-	"UniqueID": "ppja.freshmeatPFM",
-	"MinimumApiVersion": "3.2.0",
-	"UpdateKeys": [],
-	"Dependencies": [
-		{
-			"UniqueID": "paradigmnomad.freshmeat"
-		}
-	],
-	"ContentPackFor": {
-		"UniqueID": "DIGUS.ProducerFrameworkMod"
-	}
+    "Name": "[PFM] Fresh Meat",
+    "Author": "Project Populate Json Assets",
+    "Version": "3.0.3",
+    "Description": "Fresh Meat Producer Framework Mod component.",
+    "UniqueID": "ppja.FreshMeatforPFM",
+    "MinimumApiVersion": "3.7.0",
+    "Dependencies": [
+    {
+        "UniqueID": "paradigmnomad.freshmeat",
+        "IsRequired": true
+    }],
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.ProducerFrameworkMod"
+    }
 }

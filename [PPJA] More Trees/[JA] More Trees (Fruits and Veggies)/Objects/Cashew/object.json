@@ -11,14 +11,13 @@
     {
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
-    "Recipe": null,
     "NameLocalization":
     {
         "es": "Anacardo",
         "ko": "캐슈",
         "de": "Cashewnuss",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Noix de cajou",
+        "hu": "Kesudió",
          // "it": "",
         "ja": "カシューナッツ",
         "pt": "Caju",
@@ -31,8 +30,8 @@
         "es": "Una nuez mantecosa que florece en el fondo de la manzana del anacardo.",
         "ko": "캐슈의 열매꼭지에서 싹이 트는 부드러운 견과류.",
         "de": "Eine buttrige Nuss.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Une noix au goût de beurre qui germe à l'extrémité d'une pomme de cajou.",
+        "hu": "Egy vajas textúrájú dióféle, mely a kesualma alján lévő rugyből származik.",
          // "it": "",
         "ja": "カシューアップルの底部に芽をつけるナッツ。",
         "pt": "Uma noz amanteigada que brota no fundo da maçã de caju.",

@@ -14,14 +14,13 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 50,
-    "PurchaseRequirements": null,
-    "NameLocalization":
+        "NameLocalization":
     {
-        // "es": "",
+        "es": "Flor de colza",
         "ko": "유채꽃",
         "de": "Rapsblüte",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Fleur de colza",
+        "hu": "Repce",
         // "it": "",
         "ja": "菜の花",
         "pt": "Flor de Colza",
@@ -31,11 +30,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Una flor de colza.",
         "ko": "유채의 꽃 부분.",
         "de": "Die Blüte einer Rapspflanze.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une fleur de colza pour faire de l'huile.",
+        "hu": "A repce virága.",
         // "it": "",
         "ja": "アブラナの花の部分。",
         "pt": "Uma flor de colzas.",

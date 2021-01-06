@@ -1,0 +1,41 @@
+{
+    "Name": "Purple Coneflower",
+    "Description": "A lovely purple coneflower that's pleasantly sweet. It is also known as echinacea.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 75,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "NameLocalization":
+    {
+        "es": "Echinacea purpurea",
+        "ko": "자주루드베키아",
+        "de": "Purpurner Sonnenhut",
+        "fr": "Echinacea",
+        "hu": "Kasvirág",
+         // "it": "",
+        "ja": "ムラサキバレンギク",
+        "pt": "Margarida roxa",
+        "ru": "Эхинацея",
+         // "tr": "",
+        "zh": "紫锥花",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un hermosa flor púrpura que es agradablemente dulce.",
+        "ko": "기분좋게 달콤한, 사랑스러운 자주루드베키아. 에키네시아라고 불리기도 합니다.",
+        "de": "Eine wundervolle purpurne Blume, die erfrischen süß duftet. Auch bekannt als Echinacea.",
+        "fr": "Une belle échinacée pourpre agréablement douce. Il est également connu sous le nom d'échinacée.",
+        "hu": "Egy gyönyörű lila kasvirág, mely kellemesen édes. Echinacea néven is ismert.",
+         // "it": "",
+        "ja": "心地よい紫色のバレンギク。「エキナセア」という名でも知られている。",
+        "pt": "Uma linda margarida roxa que é agradavelmente doce. Também é conhecido como ourico da Terra.",
+        "ru": "Прелестная фиолетовый цветок, приятный на вкус. ",
+         // "tr": "",
+        "zh": "可爱的紫色花花，味道甜美。它也被称为紫雏菊。",
+    }
+}

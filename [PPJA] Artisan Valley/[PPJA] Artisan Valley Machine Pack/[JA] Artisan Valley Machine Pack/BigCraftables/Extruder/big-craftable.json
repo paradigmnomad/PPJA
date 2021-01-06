@@ -25,11 +25,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Extrusora",
         "ko": "압출기",
         "de": "Strangpresse",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Extrudeuse",
+        "hu": "Sajtoló",
         // "it": "",
         "ja": "押出機",
         "pt": "Extrusora",
@@ -39,11 +39,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "¡Convierte la harina en fideos y la miel en cera!",
         "ko": "밀가루를 국수로, 꿀을 밀랍으로 만들어줍니다.",
         "de": "Verarbeitet Mehl zu Nudeln und Honig zu Wachs!",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Transforme la farine en nouilles et le miel en cire.",
+        "hu": "A lisztet tésztává, a mézet viasszá alakítja át.",
         // "it": "",
         "ja": "コムギ粉を麺に、ハチミツをワックスに変えます！",
         "pt": "Transforma farinha em macarrão e mel em cera!",

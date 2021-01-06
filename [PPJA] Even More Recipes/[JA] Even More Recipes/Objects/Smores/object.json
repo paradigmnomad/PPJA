@@ -32,14 +32,14 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 450,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Graham-Crackers Chocolate", "y 4", ],
     },
     "NameLocalization":
     {
         "es": "Smores",
         "ko": "스모어",
         "de": "Smores",
-         // "fr": "",
+        "fr": "Guim-o-choco",
          // "hu": "",
          // "it": "",
         "ja": "スモア",
@@ -53,13 +53,13 @@
         "es": "Porque siempre quieres otros adicionales.",
         "ko": "더 먹고 싶어지게 만드는 맛.",
         "de": "Weil du immer mehr willst.",
-         // "fr": "",
+        "fr": "Plat américain ou canadien appelé aussi S'more. C'est une guimauve grillée et un carré de chocolat entre deux biscuits Graham.",
          // "hu": "",
          // "it": "",
         "ja": "どんどんおかわりが欲しくなる。",
         "pt": "Porque você sempre quer mais.",
          // "ru": "",
          // "tr": "",
-        "zh": "曲奇饼。因为你总是想要吃这个经典的口味。",
+        "zh": "因为你总是想要吃这个经典的口味。",
     }
 }

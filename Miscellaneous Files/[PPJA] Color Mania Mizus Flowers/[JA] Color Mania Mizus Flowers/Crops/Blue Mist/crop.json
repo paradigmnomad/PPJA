@@ -1,0 +1,49 @@
+{
+    "Name": "Blue_Mist",
+    "Product": "Blue Mist",
+    "SeedName": "Blue Mist Seeds",
+    "SeedDescription": "Plant in summer. Takes 7 days to produce a blue star-shaped flower.",
+    "Type": "Flower",
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 180,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de niebla azul",
+        "ko": "블루 미스트 씨앗",
+        "de": "Blaue Nebelblumen-Saat",
+        "fr": "Graines d'Ageratum",
+        "hu": "Kék Ködvirág magvak",
+         // "it": "",
+        "ja": "ブルーミストの種",
+        "pt": "Sementes de névoa azul",
+        "ru": "Семена агератума",
+         // "tr": "",
+        "zh": "蓝雾种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 7 días para producir una flor azul en forma de estrella.",
+        "ko": "여름에 심으세요. 7일후 파란 별모양의 꽃이 핍니다.",
+        "de": "Pflanze sie im Sommer. Benötigt 7 Tage, um eine blaue sternförmige Blüte zu bilden.",
+        "fr": "Planter en été. Prend 7 jours pour produire une fleur bleue en forme d'étoile.",
+        "hu": "Ezeket nyáron ültesd el. 7 nap alatt hoz egy kék, csillag alakú virágot.",
+         // "it": "",
+        "ja": "夏植えの花。7日かけて青い星型の花を咲かせる。",
+        "pt": "Plante-as no verão. Demoram 7 dias para nascer uma flor azul em forma de estrela.",
+        "ru": "Сажайте летом. Через 7 дней вырастает голубой цветок в форме звезды.",
+         // "tr": "",
+        "zh": "夏天播种。7天后可收获星形的蓝色花朵。",
+    }
+}

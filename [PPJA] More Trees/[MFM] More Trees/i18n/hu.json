@@ -1,0 +1,31 @@
+{
+    // Text
+    
+    "camphor.text": "Szervusz kedvesem,^^  Ahogyan és és George egyre idősebbek leszünk, egyre jobban oda kell figyelnünk az egészségünkre. Arra jöttem rá, hogy a kámfor csodákat művel az izületekkel és a bőrrel.^Nem tudom, hogy van-e esetleg helyed a farmodon ennek a csemetének, de úgy gondolom, hogy lehet, hogy érdekel téged.^^  -Evelyn",
+    "breadfruit.text": "Kedves @,^^ Ezt Willytől kaptam, aki pedig a déli földeken tett kirándulásán szerezte.^Tudom, hogy most nincs szezonja, de hogyha elülteted télen, akkor tavaszra lesz egy termőképes trópusi kenyérfád.^^  -Elliott",
+    // "cassia.text": "Hello, @.^^ Valamilyen veteránoknak készült alapítvány ezt adta nekem a szolgálataimért. Ez egy jelentőséggel bíró ajándék, és ugyan a szándék a fontos, de nem hiszem, hogy valaha is el fogom ültetni.^Viszont nem szeretném, ha elhalna. Gondolod, hogy el tudnád esetleg ültetni?^^  -Kent",
+    "eucalyptus.text": "Szia @,^^ Gondolkodtál-e már azon, hogy milyen lehet koalákat tenyészteni a farmon?^Valójában én se, egészen addig, amikor egyszer apával egy kutatásban vettünk részt. Úgy tűnik, hogy a koalák nem tudnak megélni Stardew Valley-ben, de az egyetlen táplálékforrásuk igen!^Itt van egy eukaliptusz csemete, ami még a kutatásról maradt meg. Remélem, érdekel.^^  -Maru",
+    "fig.text": "Kedves @,^^ Jelenleg a fügefák természetes fejlődését vizsgálom. Az az én feltevésem, hogy ez a csemete extra nagy gyümölcsöket képes hozni, de ezt csak egyféle képpen tudhatjuk meg!^Ha el tudod ültetni, rendszeresen ránézek majd, hogy adatokat gyűjthessek. Ne aggódj, az összes füge a tiéd lehet!^^ -Demetrius",
+    "grapefruit.text": "@,^^  Minden reggel iszom egy fehérje turmixot grépfrúttal. Muszáj egyensúlyban tartani az étrendet!^Olvastam valahol, hogy a helyi grépfrút egészségesebb, szóval... nem is tudom, most eléggé rákattantam a grépfrútra. Esetleg lennél a beszállítóm?^^  -Alex",
+    "melaleuca.text": "Kedves @,^^  Valami környezetvédők ezt küldték nekem, hogy ültessem el. Valószínűleg valamilyen listán rajta volt a nevem; de gondolom azt nem tudták, hogy én nem növesztek fákat a farmomon. Esetleg téged érdekelne?^Azt hallottam, hogy ezek a fák csodálatosan szépek.^^  -Marnie",
+    "persimmon.text": "Szia.^^ Én találtam ezt. Rendben, tesó?^^ MEgkaphatod, tesó.^^  -kalapos egér",
+    "pomelo.text": "Szia @!^^ Amikor még Zuzu városban éltünk, az anyukám minden nap vett egy pomelot, nem úgy mint itt, ezért Vincent még soha nem is kóstolt pomelot.^Arra gondoltam, hogy talán te növeszthetnél párat, és így mindannyian élvezhetnénk a gyümölcsét. Talán Vincent fel is mászhatna rá! Biztos vagyok menne, hogy egy különleges élmény lenne számára.^^  -Sam",
+    "vanilla.text": "Üdvözletem,^^  Remélem, hogy találsz egy módot ennek a csemetének a hasznosítására. A vaníliarúd sok misztikus tulajdonsággal rendelkezik, és a varázslók szerte a világon évszázadok óta használják bájitalokban és hermetikában.^A tény, hogy isteni az íze, egy merő véletlen csupán.^^ -M. Rasmodius, Wizard",
+    "fragrantwisteria.text": "Szia @,^^ Na, ezt vajon hogy fogom elmagyarázni? Ezeknek a fáknak igazán misztikus az illata.^Tudom, eléggé random, hogy ezt így most elküldöm neked, de bízz bennem -- szeretni fogod.^^  -Abigail",
+    "ylangylang.text": "Szia @,^^ Azt olvastam, hogy ennek a fának a virágai jót tesznek a bőrnek. Ezen kívül pedig nagyon szép, amikor virágzik. Talán megpróbálhatnád elülteni.^^ -Abigail",
+
+    // Titles
+
+    "camphor.title": "Kámforfa csemete",
+    "breadfruit.title": "Trópusi kenyérfa csemete",
+    // "cassia.title": "Kassziafa csemete",
+    "eucalyptus.title": "Eukaliptuszfa csemete",
+    "fig.title": "Fügefa csemete",
+    "grapefruit.title": "Grépfrútfa csemete",
+    "melaleuca.title": "Niaouli fa csemete",
+    "persimmon.title": "Kakifa csemete",
+    "pomelo.title": "Pomelofa csemete",
+    "vanilla.title": "Vaníliafa csemete",
+    "fragrantwisteria.title": "Illatos lilaakácfa csemete",
+    "ylangylang.title": "Kanangafa csemete",
+}

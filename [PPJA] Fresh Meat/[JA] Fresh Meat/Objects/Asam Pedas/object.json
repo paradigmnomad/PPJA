@@ -1,0 +1,70 @@
+{
+    "Name": "Asam Pedas",
+    "Description": "A dish with a distinctive sour and spicy flavor. Prepared with fish, tomatoes, and seasonings.",
+    "Category": "Cooking",
+    "Edibility": 80,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 675,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Gus", "Shane"],
+        "Like": ["Willy", "Sam", "Penny", "Maru", "Haley", "Caroline", "Elliott", "Krobus", "Linus", "Jodi", "Pierre", "Clint"],
+        "Dislike": ["Sebastian", "Marnie", "Harvey", ],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": -4,
+            "Count": 1,
+        },
+        {
+            "Object": 256,
+            "Count": 1,
+        },
+        {
+            "Object": "Seasonings",
+            "Count": 1,
+        },
+        {
+            "Object": "Broth",
+            "Count": 1,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1850,
+        "PurchaseRequirements": ["y 4"],
+    },
+    "EnableWithMod": "ppja.evenmorerecipes",
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

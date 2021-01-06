@@ -1,11 +1,10 @@
 ﻿{
 	"Name": "[MFM] More Trees",
 	"Author": "Project Populate Json Assets",
-	"Version": "1.0.4",
+	"Version": "1.6.10",
 	"Description": "Allows recipes to be mailed to the player.",
 	"UniqueID": "ppja.MoreTreesforMFM",
-	"MinimumApiVersion": "3.2.0",
-	"UpdateKeys": [],
+	"MinimumApiVersion": "3.7.0",
 	"Dependencies": [
 		{
 			"UniqueID": "ppja.moretrees"

@@ -31,35 +31,34 @@
         "PurchaseFrom": "Gus",
         "PurchasePrice": 560,
         "PurchaseRequirements": [
-            "r 0.25",
-        ]
+            "HasCookingRecipe Halloumi Bread", "r 0.25", "y 4"]
     },
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Hamburguesa Halloumi",
         "ko": "할루미 버거",
         "de": "Halloumi Burger",
-         // "fr": "",
+        "fr": "Burger à l'halloumi",
          // "hu": "",
          // "it": "",
         "ja": "ハルーミバーガー",
-         // "pt": "",
+         "pt": "Hambúrguer Halloumi",
          // "ru": "",
          // "tr": "",
           "zh": "哈罗米汉堡",
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "El queso clasico chipriota encaja perfecto en una hamburguesa!",
         "ko": "사이프러스식 버거!",
         "de": "Der zypriotische Käseklassiker passt perfekt zwischen zwei Burgerbrötchen!",
-         // "fr": "",
+        "fr": "Le classique chypriote s'associe à merveille avec du pain pour burger.",
          // "hu": "",
          // "it": "",
         "ja": "キプロスの定番はパンにぴったり！",
-         // "pt": "",
+          "pt": "O clássico cipriótico se encaixa perfeitamente em um hambúrguer!",
          // "ru": "",
          // "tr": "",
-          "zh": "哈罗米汉堡。圆形的面包片配上哈罗米奶酪，塞浦路斯的经典搭配！",
+          "zh": "圆形的面包片配上哈罗米奶酪，塞浦路斯的经典搭配！",
     }
 }

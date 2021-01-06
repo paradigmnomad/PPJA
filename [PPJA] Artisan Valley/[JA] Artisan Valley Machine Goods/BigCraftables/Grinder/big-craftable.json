@@ -29,11 +29,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Amoladora",
         "ko": "분쇄기",
         "de": "Mühle",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Broyeur",
+        "hu": "Őrlőgép",
         // "it": "",
         "ja": "グラインダー",
         "pt": "Moedor",
@@ -43,11 +43,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Úselo para moler productos en bienes valiosos y especias.",
         "ko": "쌀을 가공하거나 농산물을 갈아서 가치있는 상품이나 향신료로 만들 수 있습니다.",
         "de": "Verabeitet Erzeugnisse zu wertvollen Gütern und Gewürzen.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Utilisez-le pour broyer des matières premières en produits de valeur et en épices.",
+        "hu": "Ez a termékek megőrlésével állít elő fűszereket és egyéb értékes árukat.",
         // "it": "",
         "ja": "米を磨いたり、作物を貴重なスパイスにひいたりする。",
         "pt": "Use para moer produtos em bens valiosos ou temperos.",

@@ -2,6 +2,8 @@
     "Name": "Blue Agave",
     "Description": "A cut frond from a blue agave. It can be used the still to make alcohol.",
     "Category": "Vegetable",
+    "CategoryTextOverride": "Succulent",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 8,
     "Price": 300,
     "IsColored": false,
@@ -13,11 +15,11 @@
     },
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Agave azul",
         "ko": "푸른 용설란",
         "de": "Blaue Agave",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Agave bleue",
+        "hu": "Kék Agávé",
          // "it": "",
         "ja": "ブルーアガベ",
         "pt": "Agave Azul",
@@ -27,11 +29,11 @@
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Una hoja cortada de un agave azul. Se puede usar para producir alcohol.",
         "ko": "푸른 용설란에서 잘라낸 잎. 증류 가마를 이용해 술로 만들 수 있습니다.",
         "de": "Ein geschnittener Wedel einer blauen Agave. Er kann in einer Destille zu Alkohol verarbeitet werden.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Une feuille découpée d'agave bleue. Elle peut être distillée pour produire de l'alcool.",
+        "hu": "Egy Kék Agávé levele. Alkohol előállítására használatos.",
          // "it": "",
         "ja": "青いリュウゼツランから切り取られた葉の部分。蒸留器を使ってお酒をつくることができる。",
         "pt": "Um corte frontal de uma agave azul. Pode ser usada no processo de fermentação de álcool,",
@@ -42,7 +44,7 @@
     "ContextTags": [
         "season_summer",
         "color_blue",
-        "vegetable_item",
+        "succulent_item",
         "crop_year_3",
     ],
 }

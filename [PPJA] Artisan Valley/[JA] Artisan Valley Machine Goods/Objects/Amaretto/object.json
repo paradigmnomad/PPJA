@@ -24,8 +24,7 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 120,
-    "PurchaseRequirements": null,
-    "GiftTastes":
+        "GiftTastes":
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
@@ -38,8 +37,8 @@
         "es": "Amaretto",
         "ko": "아마레토",
         "de": "Amaretto",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Amaretto",
+        "hu": "Amaretto",
          // "it": "",
         "ja": "アマレット",
         "pt": "Amaretto",
@@ -52,8 +51,8 @@
         "es": "Un destilado hecho de almendras. Beber con moderación.",
         "ko": "아몬드를 증류시켜 만든 술. 절제해서 드세요.",
         "de": "Ein Schnaps aus Mandeln. Genieße ihn in Maßen.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Un spiritueux distillé à base d'amandes. À consommer avec modération.",
+        "hu": "Mandulaból készített desztillált alkohol. Csak mértékkel fogyasszad!",
          // "it": "",
         "ja": "アーモンドから作られた蒸留酒。飲む時はほどほどに。",
         "pt": "Um destilado feito de amêndoas. Beba com moderação!",

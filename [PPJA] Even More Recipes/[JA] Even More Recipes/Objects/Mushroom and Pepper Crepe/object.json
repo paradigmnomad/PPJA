@@ -39,14 +39,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2510,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Crepa de setas y pimienta",
         "ko": "후추 뿌린 버섯 크레페",
         "de": "Pilz-Pfeffer-Crêpe",
-         // "fr": "",
+        "fr": "Crêpe au champignon et poivron",
          // "hu": "",
          // "it": "",
         "ja": "キノコとパプリカのクレープ",
@@ -60,13 +59,13 @@
         "es": "Una crepa salada y ligeramente picante.",
         "ko": "짭짤하고 약간 매운 크레페.",
         "de": "Ein herzhafter und leicht würziger Crêpe.",
-         // "fr": "",
+        "fr": "Une crêpe savoureuse et légérement pimentée.",
          // "hu": "",
          // "it": "",
         "ja": "香ばしく少し辛いクレープ。",
         "pt": "Um crepe salgado e levemente picante.",
          // "ru": "",
          // "tr": "",
-        "zh": "蘑菇甜椒可丽饼。一份味道鲜美，略带辛辣的可丽饼。",
+        "zh": "一份味道鲜美，略带辛辣的可丽饼。",
     }
 }

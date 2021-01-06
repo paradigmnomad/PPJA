@@ -7,7 +7,7 @@
     "IsColored": false,
     "GiftTastes":
     {
-		"Love": ["Gregory"],
+        "Love": ["Gregory"],
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian", "Sheila"],
     },
@@ -22,9 +22,45 @@
         {
             "Object": "Seasonings",
             "Count": 1,
-        },
-        ],
+        }, ],
+        "IsDefault": true,
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
     "PurchasePrice": 220,
     "PurchaseRequirements": null,
+    "NameLocalization":
+    {
+        "es": "Carne de bicho cocinada",
+        "ko": "구운 크리쳐 고기",
+        //"de": "",
+        "fr": "Viande de bestiole cuite",
+        "hu": "Apró állatok sült húsa",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "熟制小动物肉",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Trozos de carne de bicho cocinados, ya cocidos y listos para ser utilizados en recetas.",
+        "ko": "크리쳐의 고기. 완전히 구워져서 조리될 준비가 되었습니다.",
+        //"de": "",
+        "fr": "Bouts de viande de bestiole, déjà cuits et prêts à être utilisés dans des recettes.",
+        "hu": "Egy kicsi állat apró húsa megsütve, felhasználásra készen.",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "来自小动物的碎肉块，已经煮熟，可用于进一步烹调。",
+    },
+    "ContextTags": [
+        "cooked_meat",
+        "meat_item",
+    ],
+    "EnableWithMod": "spacechase0.BugNet",   
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

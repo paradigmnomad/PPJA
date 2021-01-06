@@ -1,0 +1,46 @@
+{
+    "Name": "Alpaca Fell",
+    "Description": "An alpaca hide that has been tanned.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 120,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Piel de alpaca",
+        "ko": "알파카 모피",
+        //"de": "",
+        "fr": "Fourrure d'alpaga",
+        "hu": "Alpaka bunda",
+        // "it": "",
+        //"ja": "",
+        "pt": "Pele de Alpaca",
+        // "ru": "",
+        // "tr": "",
+        "zh": "羊驼皮",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una piel de alpaca que ha sido curtida.",
+        "ko": "알파카의 가죽.",
+        //"de": "",
+        "fr": "Une peau d'alpaga qui a été tannée.",
+        "hu": "Egy alpaka cserzett bundája.",
+        // "it": "",
+        //"ja": "",
+        "pt": "Uma pele de alpaca que foi bronzeada.",
+        // "ru": "",
+        // "tr": "",
+        "zh": "鞣制过的羊驼皮。",
+    },
+    "ContextTags": [
+        "leather_item",
+    ],
+    "EnableWithMod": "Cherry.MultiYieldCrops"
+}

@@ -25,11 +25,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Exprimidor",
         "ko": "과즙추출기",
         "de": "Saftpresse",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Centrifugeuse",
+        "hu": "Gyümölcsprés",
         // "it": "",
         "ja": "ジューサー",
         "pt": "Espremedor",
@@ -39,11 +39,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Convierte la fruta en jugo recién exprimido.",
         "ko": "과일을 갓 짜낸 주스로 만들어줍니다.",
         "de": "Presst aus Früchten frische Säfte.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Presse les fruits en jus frais.",
+        "hu": "Gyümölcsből frissen facsart gyümölcslevet állít elő.",
         // "it": "",
         "ja": "くだものを搾りたてのジュースにする。",
         "pt": "Esprema frutas e consiga suco fresquinho.",

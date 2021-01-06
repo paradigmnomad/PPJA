@@ -32,14 +32,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1000,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Paleta de fresa con kiwi",
         "ko": "딸기 키위 팝시클",
         "de": "Erdbeer-Kiwieis am Stiel",
-         // "fr": "",
+        "fr": "Glace à l'eau fraise-kiwi",
          // "hu": "",
          // "it": "",
         "ja": "イチゴとキウイのアイスバー",
@@ -53,13 +52,13 @@
         "es": "Se asemeja a una sandia.",
         "ko": "수박 같이 생겼어요.",
         "de": "Es ähnelt einer Wassermelone.",
-         // "fr": "",
+        "fr": "Ça ressemble à la pastèque.",
          // "hu": "",
          // "it": "",
         "ja": "スイカに似ている味。",
         "pt": "Assemelha-se a uma melancia.",
          // "ru": "",
          // "tr": "",
-        "zh": "草莓猕猴桃冰棒。从颜色看起来像是西瓜味的。",
+        "zh": "从颜色看起来像是西瓜味的。",
     }
 }

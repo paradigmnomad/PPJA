@@ -28,14 +28,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 500,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Limonada fresca",
         "ko": "신선한 레모네이드",
         "de": "Frische Limonade",
-         // "fr": "",
+        "fr": "Limonade fraîche",
          // "hu": "",
          // "it": "",
         "ja": "フレッシュレモネード",
@@ -49,13 +48,13 @@
         "es": "¡Limonada recién exprimida!",
         "ko": "갓 짜낸 레모네이드!",
         "de": "Frisch gepresste Limonade!",
-         // "fr": "",
+        "fr": "Limonade fraîchement pressée !",
          // "hu": "",
          // "it": "",
         "ja": "絞りたてのレモネード！",
         "pt": "Limonada espremida na hora!",
          // "ru": "",
          // "tr": "",
-        "zh": "鲜榨柠檬水。用新鲜的柠檬榨出来的！",
+        "zh": "用新鲜的柠檬榨出来的！",
     }
 }

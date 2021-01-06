@@ -23,8 +23,7 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1950,
-    "PurchaseRequirements": null,
-
+    
     "Recipe":
     {
         "ResultCount": 1,
@@ -44,8 +43,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 5950,
-        "PurchaseRequirements": null,
-    },
+            },
 
     "NameLocalization":
     {

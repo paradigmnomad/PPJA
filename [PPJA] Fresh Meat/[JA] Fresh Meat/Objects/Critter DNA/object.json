@@ -1,0 +1,47 @@
+{
+    "Name": "Critter DNA",
+    "Description": "Some critter DNA from scranning various critters found in the overworld with the DNA Sythesizer.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 10,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "ADN de bicho",
+        "ko": "크리터 DNA",
+        // "de": "",
+        "fr": "ADN de bestiole",
+        "hu": "Apró állatok DNS-e",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "小动物DNA",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un poco de ADN de bicho, procedente de escanear distintas variadades de bichos encontrados por el mundo usando el simtetizador de ADN.",
+        "ko": "다양한 크리터에게서 추출한 DNA.",
+        // "de": "",
+        "fr": "De l'ADN de bestiole isolé en scannant des bestioles diverses et variées trouvées dans la carte du monde avec un synthétiseur d'ADN.",
+        "hu": "Különböző apró állatok DNS-e, amit a DNS szintetizátorral való beszkennelésükkel nyertek ki.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "用DNA离析机扫描星露谷世界里找到的各种各样的小生灵后获得的DNA样本。",
+    },
+    "ContextTags": [
+        "dna_item",
+    ],
+    "EnableWithMod": "spacechase0.BugNet",
+}

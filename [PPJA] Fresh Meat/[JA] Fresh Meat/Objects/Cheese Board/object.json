@@ -1,69 +1,71 @@
 {
-  "Name": "Cheese Board",
-  "Description": "A perfect party platter!",
-  "Category": "Cooking",
-  "Edibility": 129,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 375,
-  "IsColored": false,
-  "GiftTastes": {
-    "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
-	"Neutral": ["Harvey", "Lewis", "Vincent"],
-	"Dislike": ["Emily", "Jas", "Marnie"],
-	"Hate": ["Sebastian"],
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": 216,
-        "Count": 1,
-      },
-      {
-        "Object": 424,
-        "Count": 1,
-      },
-      {
-        "Object": "Salami",
-        "Count": 1,
-      },
- {
-        "Object": 398,
-        "Count": 2,
-      }
-    ],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 680,
-    "PurchaseRequirements": ["y 2",
-],
-  },
+    "Name": "Cheese Board",
+    "Description": "A perfect party platter!",
+    "Category": "Cooking",
+    "Edibility": 129,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 375,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Evelyn", "George", "Gus", "Haley", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Harvey", "Lewis", "Vincent"],
+        "Dislike": ["Emily", "Jas", "Marnie"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 216,
+            "Count": 1,
+        },
+        {
+            "Object": 424,
+            "Count": 1,
+        },
+        {
+            "Object": "Salami",
+            "Count": 1,
+        },
+        {
+            "Object": 398,
+            "Count": 2,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 680,
+        "PurchaseRequirements": ["HasCookingRecipe Salami Bread", "y 4", ],
+    },
 
- "NameLocalization": { 
-    "es": "Tabla de quesos",
-    "ko": "치즈 보드",
-    "de": "Kässeplatte",
-     // "fr": "Plateau à Fromage",
-     // "hu": "",
-     // "it": "",
-      "ja": "チーズの盛り合わせ",
-     // "pt": "",
-    "ru": "Сырная доска",
-     // "tr": "",
-    "zh": "奶酪拼盘",
-  },
- "DescriptionLocalization": { 
-    "es": "¡Un plato perfecto para las fiestas!",
-    "ko": "완벽한 파티 접시!",
-    "de": "Pefekt für Party's!",
-    "fr": "Un plateau de fête parfait!",
-     // "hu": "",
-     // "it": "",
-     "ja": "完璧なパーティーのための盛り合わせ。",
-     // "pt": "",
-    "ru": "Идеальное блюдо для вечеринок!",
-     // "tr": "",
-    "zh": "奶酪拼盘。一个完美的派对拼盘",
-  }
+    "NameLocalization":
+    {
+        "es": "Tabla de quesos",
+        "ko": "치즈 모듬",
+        "de": "Kässeplatte",
+        "fr": "Plateau à fromage",
+        "hu": "Sajttál",
+        // "it": "",
+        "ja": "チーズの盛り合わせ",
+        "pt": "Tábua de frios",
+        "ru": "Сырная доска",
+        // "tr": "",
+        "zh": "奶酪拼盘",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡Un plato perfecto para las fiestas!",
+        "ko": "완벽한 파티 모듬!",
+        "de": "Pefekt für Party's!",
+        "fr": "Un plateau parfait pour une fête !",
+        "hu": "Tökéletes bulikra!",
+        // "it": "",
+        "ja": "完璧なパーティーのための盛り合わせ。",
+        "pt": "Um prato perfeito para festas!",
+        "ru": "Идеальное блюдо для вечеринок!",
+        // "tr": "",
+        "zh": "奶酪拼盘。一个完美的派对拼盘",
+    }
 }

@@ -1,0 +1,58 @@
+{
+    "Name": "Steckerlfisch",
+    "Description": "It's a fish on a stick!",
+    "Category": "Cooking",
+    "Edibility": 30,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 175,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian", "Abigail", "Krobus", "Willy", "Sam", "Sandy", "Elliott"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf",  "Emily", "George", "Jodi", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Shane"],
+        "Dislike": ["Haley", "Jas", "Vincent"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": -4,
+            "Count": 1,
+        },
+        {
+            "Object": 169,
+            "Count": 1,
+        },],
+        "IsDefault": true
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

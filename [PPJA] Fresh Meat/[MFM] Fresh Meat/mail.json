@@ -17,4 +17,17 @@
 			{ "SkillName": "Farming", "SkillLevel": 1 }
 		]*/
 	},
+	{
+		"Id": "ppja.spaghettiandmeatballsrecipe",
+		"GroupID": "FreshMeat.CookingRecipe",
+		"Title": "spaghettiandmeatballs.title",
+		"Text": "spaghettiandmeatballs.text",
+		"Recipe": "Spaghetti and Meatballs",
+		"LetterBG": "NicteLetterBackground.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Lewis", "FriendshipLevel": 4 }
+		],
+	},
 ]

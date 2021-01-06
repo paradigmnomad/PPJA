@@ -1,0 +1,47 @@
+{
+    "Name": "Squirrel DNA",
+    "Description": "Some squirrel DNA from scanning squirrels with the DNA Sythesizer.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 10,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "ADN de ardilla",
+        "ko": "다람쥐 DNA",
+        // "de": "",
+        "fr": "ADN d'écureuil",
+        "hu": "Mókus DNS",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "松鼠DNA",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "un poco de ADN de ardilla, procedente de escanear ardillas con el sintetizador de ADN.",
+        "ko": "다람쥐에게서 추출한 다람쥐 DNA.",
+        // "de": "",
+        "fr": "De l'ADN d'écureuil isolé en scannant des écureuils avec un synthétiseur d'ADN.",
+        "hu": "Egy mókus DNS-e, melyet a DNS szintetizátorral nyertek ki.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "这是用DNA离析机扫描松鼠得到的一些松鼠DNA。",
+    },
+    "ContextTags": [
+        "dna_item",
+    ],
+    "EnableWithMod": "spacechase0.BugNet",
+}

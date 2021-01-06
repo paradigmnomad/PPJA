@@ -1,11 +1,11 @@
 {
     "Name": "Seafood Stock",
-    "Description": "Stewed down chicken broth that's often used as a base for soup.",
+    "Description": "Stewed down seafood broth that's often used as a base for soup.",
     "Category": "Cooking",
     "Edibility": 66,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 460,
+    "Price": 560,
     "IsColored": false,
     "GiftTastes":
     {
@@ -23,7 +23,7 @@
             "Object": 719,
             "Count": 1,
         },
-	{
+        {
             "Object": 718,
             "Count": 1,
         },
@@ -46,30 +46,30 @@
     },
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Caldo de marisco",
+        "ko": "해산물 육수",
         // "de": "",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
-         // "ja": "",
-         // "pt": "",
-         // "ru": "",
-         // "tr": "",
-        // "zh": "",
+        "fr": "Bouillon de fruits de mer",
+        "hu": "Tenger gyümölcsei alaplé",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "海鲜高汤",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Caldo de marisco que se usa a menudo como base para sopa.",
+        "ko": "수프의 기초로 자주 사용되는 해산물 육수.",
         // "de": "",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
-         // "ja": "",
-         // "pt": "",
-         // "ru": "",
-         // "tr": "",
-        // "zh": "",
+        "fr": "Mijoté de fruits de mer en bouillon souvent utilisé comme base d'une soupe.",
+        "hu": "Párolt tenger gyümölcsei alaplévé készítve, melyet gyakran használják levesek alapjául.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "炖煮的海鲜高汤，常用作汤底。",
     }
 }

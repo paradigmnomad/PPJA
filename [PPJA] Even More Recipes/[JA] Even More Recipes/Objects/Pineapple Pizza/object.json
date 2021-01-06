@@ -19,14 +19,15 @@
             "Count": 1,
         },
         {
-            "Object": "Pineapple",
+            "Object": 832,
             "Count": 1,
         }],
         "CanPurchase": true,
         "PurchaseFrom": "Pierre",
         "PurchasePrice": 500,
         "PurchaseRequirements": [
-            "y 2"
+            "y 2",
+            "n willyHours",
         ]
     },
     "GiftTastes":
@@ -36,30 +37,30 @@
 
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Pizza de Piña",
         "ko": "파인애플 피자",
         "de": "Pizza Hawaii",
-         // "fr": "",
+        "fr": "Pizza à l'ananas",
          // "hu": "",
          // "it": "",
         "ja": "パイナップルピザ",
-         // "pt": "",
+         "pt": "Pizza de Abacaxi",
          // "ru": "",
          // "tr": "",
         "zh": "凤梨披萨",
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Popular en areas tropicales",
         "ko": "열대지방에서 인기가 있습니다.",
         "de": "Beliebt in tropischen Gebieten aber auch Deutschland.",
-         // "fr": "",
+        "fr": "Populaire dans les régions tropicales.",
          // "hu": "",
          // "it": "",
         "ja": "南国で人気がある。",
-         // "pt": "",
+         "pt": "Popular em áreas tropicais.",
          // "ru": "",
          // "tr": "",
-        "zh": "凤梨披萨。流行于热带地区。",
+        "zh": "流行于热带地区。",
     }
 }

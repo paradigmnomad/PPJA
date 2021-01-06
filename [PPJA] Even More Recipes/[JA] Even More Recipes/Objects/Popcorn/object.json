@@ -28,14 +28,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1425,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Palomitas de maíz",
         "ko": "팝콘",
         "de": "Popcorn",
-        // "fr": "",
+        "fr": "Pop-corn",
         // "hu": "",
         // "it": "",
         "ja": "ポップコーン",
@@ -49,13 +48,13 @@
         "es": "Los granos de maíz se fríen hasta que revientan.",
         "ko": "옥수수 알갱이가 튀어오를 때까지 튀겨요.",
         "de": "Mais in seiner wohl spannensten Form.",
-        // "fr": "",
+        "fr": "Graines de maïs chauffées jusqu'à explosion.",
         // "hu": "",
         // "it": "",
        "ja": "トウモロコシを跳ねだすまで揚げた。",
         "pt": "Grãos de milho fritos até que eles estouraram.",
         // "ru": "",
         // "tr": "",
-        "zh": "爆米花。玉米粒炒到爆裂为止。",
+        "zh": "玉米粒炒到爆裂为止。",
     }
 }

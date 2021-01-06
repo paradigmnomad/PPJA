@@ -1,0 +1,43 @@
+{
+    "Name": "Horsehair",
+    "Description": "Hair from a horses tail and mane.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 80,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Crin de caballo",
+        "ko": "말총",
+        //"de": "",
+        "fr": "Crins de cheval",
+        "hu": "Lószőr",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "马鬃",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Pelo de la cola y crin de un caballo.",
+        "ko": "말의 꼬리와 갈기 털.",
+        //"de": "",
+        "fr": "Crins de crinière et de queue de cheval.",
+        "hu": "Egy ló szőre a farkából és a sörényéből.",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "马尾巴和鬃毛上的毛发。",
+    }
+}
+

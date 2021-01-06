@@ -3,7 +3,7 @@
     "Description": "Who knew frogs were so good in curry?",
     "Category": "Cooking",
     "Edibility": 60,
-    "Price": 175,
+    "Price": 915,
     "IsColored": false,
     "Recipe":
     {
@@ -20,38 +20,40 @@
         {
             "Object": "Batter",
             "Count": 1,
-        },
+        }, ],
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 675,
+        "PurchaseRequirements": [
+            "HasCookingRecipe Batter", "y 3",
         ],
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Fritos al curry",
+        "ko": "칩 앤 커리",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Frites au curry",
+        "hu": "Chips és curry",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "炸鱼薯条店咖喱",
+        "zh": "炸鱼薯条店咖喱",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "¿Quién hubiera dicho que las ranas estaban tan buenas en curry?",
+        "ko": "개구리가 카레와 잘 어울린다는 걸 누가 알아냈을까요?",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Qui aurait cru que les grenouilles sont si bonnes dans du curry ?",
+        "hu": "Ki gondolta volna, hogy a béka ilyen jó currybe?",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "谁知道青蛙在咖喱里这么好吃？",
-    }
+        "zh": "谁知道青蛙在咖喱里这么好吃？",
+    },
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

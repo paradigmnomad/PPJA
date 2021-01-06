@@ -20,11 +20,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Mantequera",
         "ko": "버터 교반기",
         "de": "Butterfass",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Baratte à beurre",
+        "hu": "Köpülő",
         // "it": "",
         "ja": "かくはん器",
         "pt": "Batedeira de Manteiga",
@@ -34,11 +34,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Convierte la leche o las nueces en mantequilla",
         "ko": "우유나 견과류를 버터로 만들어줍니다.",
         "de": "Stampft Milch oder Nüsse zu Butter.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Transforme le lait ou les fruits à coque en beurre.",
+        "hu": "Tejből, valamint diófélékből vajat állít elő",
         // "it": "",
         "ja": "ミルクやナッツを混ぜてバターにする。",
         "pt": "Transforma leite ou castanhas em manteiga.",

@@ -36,14 +36,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1410,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Dedos de dama",
         "ko": "레이디 핑거",
         "de": "Frauenfinger",
-         // "fr": "",
+        "fr": "Boudoirs",
          // "hu": "",
          // "it": "",
         "ja": "レディフィンガービスケット",
@@ -57,13 +56,13 @@
         "es": "Una dulce galletita.",
         "ko": "달콤하고 맛있는 쿠키.",
         "de": "Ein süßer Keks.",
-         // "fr": "",
+        "fr": "Un biscuit sucré et croustillant.",
          // "hu": "",
          // "it": "",
         "ja": "ありきたりな甘いクッキー。",
         "pt": "Um doce, biscoito que parece com pão.",
          // "ru": "",
          // "tr": "",
-        "zh": "手指饼干。一种甜甜的饼干。",
+        "zh": "一种甜甜的饼干。",
     }
 }

@@ -14,31 +14,31 @@
 
     "NameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "cáscara de limón",
+        "ko": "레몬 껍질",
         //"de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Pelure de citron",
+        "hu": "Citromhéj",
         // "it": "",
         "ja": "レモンピール",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "“",
+        "zh": "柠檬皮",
     },
     "DescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Agrega un guarnicion brillante a cualquier comida o bebida",
+        "ko": "음식이나 음료를 밝고 빛나게 해줍니다.",
         //"de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Ajoute une garniture vive à tout aliment ou boisson.",
+        "hu": "Bármely ételnek vagy italnak kölcsönöz különleges ízt.",
         // "it": "",
         "ja": "色んな食べ物や飲み物への飾り付けになる。",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "为食物或饮料增添一抹生机勃勃的亮黄色。",
     }
 
 }

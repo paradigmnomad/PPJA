@@ -5,7 +5,7 @@
     "Edibility": 50,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 345,
+    "Price": 680,
     "IsColored": false,
     "GiftTastes":
     {
@@ -37,35 +37,34 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 550,
-        "PurchaseRequirements": null,
     },
 
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Salchicha Bratwurst",
+        "ko": "브라트부르스트",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Bratwurst",
+        "hu": "Sült kolbász",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "salsicha",
         "ru": "Братвурст",
         // "tr": "",
-         "zh": "德国油煎香肠",
+        "zh": "德国油煎香肠",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Una salchicha bratwurst casera tradicional.",
+        "ko": "전통적인 방식으로 만든 수제 소세지.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une bratwurst (saucisse) traditionnelle fait maison.",
+        "hu": "Egy tradícionális házi sült kolbász.",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Uma tradicional salsicha caseira.",
         "ru": "Традиционные домашние сосиски.",
         // "tr": "",
-         "zh": "一根传统的自制烤肠。",
+        "zh": "一根传统的自制烤肠。",
     }
 }

@@ -24,8 +24,7 @@
   "CanPurchase": true,
   "PurchaseFrom": "Gus",
   "PurchasePrice": 275,
-  "PurchaseRequirements": null,
-    "GiftTastes":
+      "GiftTastes":
     {
         "Love": ["Pam", "Shane", "Gus", "Robin"],
         "Like": ["Caroline", "Elliott", "Jodi", "Leah", "Lewis", "Pierre"],
@@ -36,31 +35,31 @@
 
     "NameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Chambord",
+        "ko": "샴보드",
         //"de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Liqueur de Chambord",
+        "hu": "Chambord",
         // "it": "",
         "ja": "シャンボール・リキュール",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "香博树莓利口酒",
     },
     "DescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Un licor dulce destilado de frambuesas.",
+        "ko": "라즈베리를 증류시켜 만든 달콤한 술.",
         //"de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une liqueur douce obtenue à partir de framboises distillées.",
+        "hu": "Egy édes likőr málnából desztillálva.",
         // "it": "",
         "ja": "ラズベリーから蒸留された甘いお酒。",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "一种用树莓蒸馏而成的甜酒。",
     }
 
 }

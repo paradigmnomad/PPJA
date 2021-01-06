@@ -1,0 +1,49 @@
+{
+    "Name": "White Rhino",
+    "Description": "A hybrid of White Widow and an unknown strain, this indica is a popular choice those those looking for relaxation and symptom relief.",
+    "Category": "Flower",
+    "CategoryTextOverride": "Indica",
+    "Edibility": 18,
+    "Price": 600,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sebastian", "Sam", "Abigail"],
+        "Neutral": ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+        "fr": "White Rhino",
+         "hu": "White Rhino",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+         // "ko": "",
+         // "de": "",
+        "fr": "Un hybride de White Widow et d'une souche inconnue. Cette indica est un choix populaire pour ceux qui cherchent à se relaxer et à soulager des symptômes.",
+         "hu": "A 'White Widow', és egy ismeretlen fajtának a keveréke. Ez az indica tökéletes választás azok számára, akik relaxálni és lazítani akarnak.",
+         // "it": "",
+         // "ja": "",
+         // "pt": "",
+         // "ru": "",
+         // "tr": "",
+         // "zh": "",
+    },
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ]
+}

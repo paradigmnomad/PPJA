@@ -1,0 +1,58 @@
+{
+    "Name": "Hamburger Patty",
+    "Description": "A traditional beef hamburger patty.",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 165,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Beef",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 550,
+    },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 300,
+    "NameLocalization":
+    {
+        "es": "Filete de carne picada",
+        "ko": "햄버거 패티",
+        // "de": "",
+        "fr": "Steak haché",
+        "hu": "Hamburger húspogácsa",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "牛肉饼",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un filete de carme picada tradicional.",
+        "ko": "전통적인 소고기 햄버거 패티.",
+        // "de": "",
+        "fr": "Un steak haché de bœuf traditionnel.",
+        "hu": "Egy tradícionális marhahúspogácsa.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "传统的牛肉汉堡馅饼。",
+    }
+}

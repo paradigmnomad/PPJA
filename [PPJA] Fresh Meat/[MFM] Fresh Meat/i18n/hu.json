@@ -1,0 +1,9 @@
+{
+	// Text
+"grilledskewer.text": "@,^Itt van egy recept a szalonból. Ezt a receptet csak a legjobb barátaimmal osztom meg!^-Gus",
+"spaghettiandmeatballs.text": "@,^Elküldtem a híres spagetti receptemet, de próbáltad már valaha húsgolyókkal? Jas és Shane imádják amikor viszek egy tányérnyit Marnihoz. Próbáld ki te is!^-Lewis",
+
+// Title
+"grilledskewer.title": "Grillezett nyárs recept",
+"spaghettiandmeatballs.title": "Húsgolyós spagetti recept"
+}

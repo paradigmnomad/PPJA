@@ -36,30 +36,30 @@
 
     "NameLocalization":
     {
-         // "es": "",
+        "es": "Salsa de Espinaca",
         "ko": "시금치 딥",
         "de": "Spinatdip",
-         // "fr": "",
+        "fr": "Trempette d'épinard",
          // "hu": "",
          // "it": "",
         "ja": "ホウレンソウディップ",
-         // "pt": "",
+         "pt": "Molho de espinafre",
          // "ru": "",
          // "tr": "",
           "zh": "菠菜奶酪蘸酱",
     },
     "DescriptionLocalization":
     {
-         // "es": "",
+        "es": "Para tus papas fritas!",
         "ko": "칩에 찍어 드세요!",
         "de": "Wie gemacht für Chips.",
-         // "fr": "",
+        "fr": "Pour vos frites !",
          // "hu": "",
          // "it": "",
         "ja": "ポテトにつけて召し上がれ！",
-         // "pt": "",
+         "pt": "Para suas batatas fritas!",
          // "ru": "",
          // "tr": "",
-          "zh": "菠菜奶酪蘸酱。搭配你的蔬菜脆片一起吃！",
+          "zh": "搭配你的蔬菜脆片一起吃！",
     }
 }

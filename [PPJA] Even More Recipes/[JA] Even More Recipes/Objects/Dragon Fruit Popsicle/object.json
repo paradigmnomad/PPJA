@@ -28,14 +28,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Sandy",
         "PurchasePrice": 1300,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Paleta de pitaya",
         "ko": "용과 팝시클",
         "de": "Drachenfruchteis am Stiel",
-         // "fr": "",
+        "fr": "Glace à l'eau au fruit du dragon",
          // "hu": "",
          // "it": "",
         "ja": "ドラゴンフルーツアイスバー",
@@ -49,13 +48,13 @@
         "es": "Las semillas pueden quedar atrapadas en tus dientes.",
         "ko": "씨앗이 이에 끼일수도 있어요.",
         "de": "Nimm dich vor den Samen in Acht, sie bleiben gerne in den Zähnen stecken.",
-         // "fr": "",
+        "fr": "Des graines pourraient se coincer entre vos dents.",
          // "hu": "",
          // "it": "",
         "ja": "タネが歯に詰まる事がある。",
         "pt": "As sementes podem ficar presas nos dentes.",
          // "ru": "",
          // "tr": "",
-        "zh": "火龙果冰棒。果肉种子可能会塞在你的牙缝里。",
+        "zh": "果肉种子可能会塞在你的牙缝里。",
     }
 }

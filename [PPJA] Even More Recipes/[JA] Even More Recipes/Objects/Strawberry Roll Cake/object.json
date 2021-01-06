@@ -37,14 +37,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2420,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Pastel de rollo de fresas",
         "ko": "딸기 롤 케이크",
         "de": "Erdbeerkuchenrolle",
-         // "fr": "",
+        "fr": "Gâteau roulé à la fraise",
          // "hu": "",
          // "it": "",
         "ja": "イチゴのロールケーキ",
@@ -58,13 +57,13 @@
         "es": "Delicioso sabor a fresa!",
         "ko": "맛있는 딸기 맛!",
         "de": "Göttliche Erdbeerleckerei.",
-         // "fr": "",
+        "fr": "Délicieuses saveurs de fraise !",
          // "hu": "",
          // "it": "",
         "ja": "イチゴのおいしさが引き出されてる！",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "草莓蛋糕卷。天哪！草莓味的也太好吃了点吧！",
+        "zh": "天哪！草莓味的也太好吃了点吧！",
     }
 }

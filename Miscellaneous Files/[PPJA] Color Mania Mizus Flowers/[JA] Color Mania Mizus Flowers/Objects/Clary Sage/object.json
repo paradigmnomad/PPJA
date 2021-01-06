@@ -1,0 +1,47 @@
+{
+    "Name": "Clary Sage",
+    "Description": "Beautiful purple-pink inflorescences that produce a euphoric scent.",
+    "Category": "Flower",
+    "Edibility": 18,
+    "Price": 130,
+    "IsColored": true,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Wizard"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "NameLocalization":
+    {
+        "es": "Salvia esclárea",
+        "ko": "클라리 세이지",
+        "de": "Muskatsalbei",
+        "fr": "Sauge Sclarée",
+        "hu": "Muskotályzsálya",
+         // "it": "",
+        "ja": "クラリセージ",
+        "pt": "Sálvia esclereira",
+        "ru": "Шалфей мускатный",
+         // "tr": "",
+        "zh": "快乐鼠尾草",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Hermosas inflorescencias rosadas que producen un aroma eufórico.",
+        "ko": "기분 좋은 향기를 내는 아름다운 보라색과 분홍색의 꽃이 핍니다.",
+        "de": "Wunderschöne, lila bis pinke Blüten mit anregendem Duft.",
+        "fr": "Belles fleurs rose pourpre qui produisent un parfum euphorique.",
+        "hu": "Gyönyörű lilás-rózsaszínes virágzatú növény, melynek eufórikus illata van.",
+         // "it": "",
+        "ja": "うっとりする香りを生み出す美しい桃紫色の花。",
+        "pt": "Lindas inflorescências roxas ou rosasdas que produzem um aroma de euforia.",
+        "ru": "Красивые пурпурно-розовые соцветия, имеющие вызывающий эйфорию аромат.",
+         // "tr": "",
+        "zh": "美丽的紫粉色花，能产生一种让人精神愉悦的香味。",
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_purple",
+        "flower_item",
+    ]
+}

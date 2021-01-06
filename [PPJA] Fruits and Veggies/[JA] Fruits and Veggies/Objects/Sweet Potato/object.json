@@ -14,11 +14,11 @@
     "Recipe": null,
     "NameLocalization":
     {
-        "es": "Camote",
+        "es": "Batata",
         "ko": "고구마",
         "de": "Süßkartoffel",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Patate douce",
+        "hu": "Édesburgonya",
          // "it": "",
         "ja": "サツマイモ",
         "pt": "Batata doce",
@@ -28,11 +28,11 @@
     },
     "DescriptionLocalization":
     {
-        "es": "El primo más agradable de la papa. Es dulce y terrosa cuando se hornea.",
+        "es": "El primo más agradable de la patat. Es dulce y terrosa cuando se hornea.",
         "ko": "감자의 사촌. 구우면 달콤한 맛이 납니다.",
         "de": "Ein Vetter der normalen Kartoffel. Süß und erdig, wenn man sie backt.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Le cousin proche de la pomme de terre. Elle est douce et terreuse lorsque cuisinée au four.",
+        "hu": "A krumpli finomabb rokona. Édes és 'gyökeres' ízű megsütve.",
          // "it": "",
         "ja": "ジャガイモのおいしいいとこ。焼くと甘くほくほくする。",
         "pt": "O melhor primo da batata. É doce e terroso quando assado.",

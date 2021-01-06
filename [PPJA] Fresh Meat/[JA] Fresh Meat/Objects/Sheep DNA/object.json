@@ -3,7 +3,7 @@
     "Description": "Some sheep DNA extracted from wool. You're not quite sure how this worked but it did.",
     "Category": "AnimalGoods",
     "Edibility": -300,
-    "Price": 85,
+    "Price": 10,
     "IsColored": false,
     "GiftTastes":
     {
@@ -14,30 +14,33 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "ADN de oveja",
+        "ko": "양 DNA",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "ADN de mouton",
+        "hu": "Bárány DNS",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "绵羊DNA",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Un poco de ADN de oveja extraído de lana. No estás muy seguro de cómo funcionó, pero lo hizo.",
+        "ko": "양털에서 추출한 양 DNA. 어떤 원리로 작동했는지는 잘 모르겠지만 어쨌든 효과가 있었다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "De l'ADN de mouton extrait de la laine. Vous n'êtes pas certain de la manière dont ça a fonctionné mais ça a fonctionné.",
+        "hu": "Egy bárány DNS-e, melyet a gyapjából nyertek ki. Nem teljesen értem, hogy ez hogyan lehetséges, de működött.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "从羊毛中提取的一些绵羊DNA。你不太清楚这是怎么作用的，但它确实起到了效果。",
     },
+    "ContextTags": [
+        "dna_item",
+    ],
 }

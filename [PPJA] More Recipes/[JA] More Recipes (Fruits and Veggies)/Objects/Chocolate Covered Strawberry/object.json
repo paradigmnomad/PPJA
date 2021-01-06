@@ -22,7 +22,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2695,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Chocolate", "y 4", ],
     },
     "GiftTastes":
     {
@@ -37,7 +37,7 @@
         "es": "Fresa cubierta de chocolate",
         "ko": "초콜릿을 입은 딸기",
         "de": "Schokoerdbeere",
-         // "fr": "",
+        "fr": "Fraise enrobée de chocolat",
          // "hu": "",
          // "it": "",
         "ja": "イチゴチョコ",
@@ -51,7 +51,7 @@
         "es": "¡A un paso de la dicha!",
         "ko": "행복에 가까워 지는 한 걸음!",
         "de": "Erdbeere mit Schokoüberzug!",
-         // "fr": "",
+        "fr": "À un pas du bonheur !",
          // "hu": "",
          // "it": "",
         "ja": "「One step away from bliss!」",

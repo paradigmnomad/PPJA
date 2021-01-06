@@ -16,7 +16,7 @@
             "Count": 1,
         },
         {
-            "Object": "Ginger",
+            "Object": 829,
             "Count": 1,
         },
         {
@@ -31,7 +31,10 @@
             "Object": "Cinnamon Sticks",
             "Count": 1,
         }, ],
-        "IsDefault": true,
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1450,
+        "PurchaseRequirements": ["n willyHours"],
     },
     "GiftTastes":
     {
@@ -42,9 +45,9 @@
     {
         // "es": "",
         "ko": "장식된 진저브레드맨",
-         "de": "Verzierter Lebkuchenmann",
-        // "fr": "",
-        // "hu": "",
+        "de": "Verzierter Lebkuchenmann",
+        "fr": "Bonhomme de pain d'épices décoré",
+        "hu": "Kidekorált mézeskalács ember",
         // "it": "",
         "ja": "ジンジャーブレッドマン",
         "pt": "Homem de Gengibre Decorado",
@@ -56,9 +59,9 @@
     {
         // "es": "",
         "ko": "작은 사람모양의 생강쿠키. 매우 전통적인 모양이다.",
-         "de": "Ein klassischer Keks in Form eines kleinen Mannes.",
-        // "fr": "",
-        // "hu": "",
+        "de": "Ein klassischer Keks in Form eines kleinen Mannes.",
+        "fr": "Un biscuit classique en forme de petit homme.",
+        "hu": "Egy klasszikus ember formájú mézeskalács.",
         // "it": "",
         "ja": "小人の形をした、クリスマスには定番のお菓子。",
         "pt": "Um clássico biscoito em formato de um homem pequeno.",

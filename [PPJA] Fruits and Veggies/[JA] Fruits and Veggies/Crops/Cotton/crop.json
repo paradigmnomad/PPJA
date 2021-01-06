@@ -21,11 +21,11 @@
     "SeedPurchasePrice": 80,
     "SeedNameLocalization":
     {
-        "es": "Semillas de algodon",
+        "es": "Semillas de algodón",
         "ko": "목화 씨앗",
         "de": "Baumwoll-Saat",
-         // "fr": "",
-         // "hu": "",
+        "fr": "graines de cotonnier",
+        "hu": "Gyapot magvak",
          // "it": "",
         "ja": "コットンのタネ",
         "pt": "Sementes de algodão",
@@ -35,11 +35,11 @@
     },
     "SeedDescriptionLocalization":
     {
-        "es": "Plántalas en verano u otoño. Toma 6 días para madurar, continua produciendo después de la primera cosecha.",
+        "es": "Plántalas en verano u otoño. Tardan 6 días en madurar, y continua produciendo después de la primera cosecha.",
         "ko": "여름 또는 가을 작물. 성장하려면 6일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
         "de": "Pflanze sie im Sommer oder Herbst. Wächst in 7 Tagen heran und kann danach mehrmals geerntet werden.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "À planter en été ou en automne. Prend 7 jours pour arriver à maturité, et continue de produire après la première récolte.",
+        "hu": "Ezeket nyáron vagy ősszel ültesd el. 6 napig tart megérniük, de utána tovább termelnek.",
          // "it": "",
         "ja": "夏または秋植えの作物。そだつのに7日かかる。最初の収穫のあともくりかえし収穫できる。",
         "pt": "Plante-os no verão ou no outono. Demora 6 dias para amadurecer e continua produzindo após a primeira colheita.",

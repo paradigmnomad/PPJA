@@ -1,0 +1,70 @@
+{
+    "Name": "Pierogi",
+    "Description": "Filled dumplings made by wrapping unleavened dough around a savory or sweet filling.",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 625,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Harvey", "Alex", "Marnie", "Sebastian", "Elliott", "Willy", "George", ],
+        "Like": ["Maru", "Sandy", "Jodi", ],
+        "Dislike": ["Penny", "Demetrius"],
+        "Hate": ["Dwarf"]
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": 424,
+            "Count": 1,
+        },
+        {
+            "Object": 192,
+            "Count": 1,
+        },
+        {
+            "Object": "Chives",
+            "Count": 1,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1480,
+        "PurchaseRequirements": ["y 4"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

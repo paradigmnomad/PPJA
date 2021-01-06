@@ -22,7 +22,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2685,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Chocolate", "y 4", ],
     },
     "GiftTastes":
     {
@@ -37,7 +37,7 @@
         "es": "Pudin de chocolate",
         "ko": "초콜릿 푸딩",
         "de": "Schokoladenpudding",
-         // "fr": "",
+        "fr": "Pudding au chocolat",
          // "hu": "",
          // "it": "",
         "ja": "チョコレートプリン",
@@ -51,7 +51,7 @@
         "es": "Un favorito de la infancia.",
         "ko": "어릴때 가장 좋아했던 것.",
         "de": "Kinder lieben ihn!",
-         // "fr": "",
+        "fr": "Un favori de l'enfance.",
          // "hu": "",
          // "it": "",
         "ja": "小さかった頃のお気に入り。",

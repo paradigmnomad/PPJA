@@ -1,0 +1,45 @@
+{
+    "Name": "Honey Lavender Ice Cream",
+    "Description": "A rich ice cream infused with lavender buds and honey.",
+    "Category": "ArtisanGoods",
+    "Edibility": 60,
+    "EdibleIsDrink": false,
+    "Price": 425,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Jas", "Vincent"],
+        "Like": ["Demetrius", "Elliott", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Pam", "Robin", "Sandy", "Shane"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn" ,"George", "Gus", "Krobus", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+        "Dislike": ["Abigail"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "허니 라벤더 아이스크림",
+        // "de": "",
+        "fr": "Glace à la lavande et au miel",
+        "hu": "Mézes-levendulás fagyi",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "蜂蜜薰衣草冰淇淋",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "라벤더 꽃 봉오리와 꿀이 들어간 진한 아이스크림.",
+        // "de": "",
+        "fr": "Une glace riche infusée avec des bourgeons de lavande et du miel.",
+        "hu": "Egy ízletes fagylalt levedulával és mézzel.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "一根满含薰衣草嫩芽和蜂蜜的冰淇淋。",
+    }
+}

@@ -2,8 +2,8 @@
     "Name": "Phoenix Au Vin",
     "Description": "Braised phoenix cooked in wine and paired with hearty boar meat. It stays hot no matter how long you leave it out.",
     "Category": "Cooking",
-    "Edibility": 60,
-    "Price": 175,
+    "Edibility": 95,
+    "Price": 2700,
     "IsColored": false,
     "Recipe":
     {
@@ -25,36 +25,40 @@
             "Object": 192,
             "Count": 1,
         }, ],
+        "PurchasePrice": 3000,
+        "PurchaseFrom": "Krobus",
+        "PurchaseRequirements": [
+            "f Wizard 1500",
+            "y 3"
+        ],
     },
-    "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Ave Fénix al vino",
+        "ko": "피닉스 코코뱅",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Phœnix au vin",
+        "hu": "Főnix Au Vin",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "红酒焖凤凰",
+        "zh": "红酒焖凤凰",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Ave fénix estofado en vino y maridado con abundante carne de jabalí. Se mantiene caliente sin importar cuánto tiempo esté fuera.",
+        "ko": "멧돼지고기와 피닉스고기를 와인에 조리했다. 아무리 멀리 해도 열기가 넘친다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Phœnix braisé cuit au vin et couplé avec de la viande de sanglier à l'odeur terreuse. Ça restera chaud peu importe le temps passé dehors.",
+        "hu": "Párolt főnix borban főtt, kiadós vaddisznóhússal párosítva. Soha nem fog kihűlni, bármennyit is vársz az elfogyasztásával.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "红酒焖制的凤凰配上肥美野猪肉。它不管放置多久，始终都是热气腾腾的。",
-    }
+        "zh": "红酒焖制的凤凰配上肥美野猪肉。它不管放置多久，始终都是热气腾腾的。",
+    },
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -129,7 +129,7 @@
         "InputIdentifier": "Bitter Orange",
         "InputStack": 1,
         "MinutesUntilReady": 2360,
-        "OutputIdentifier":"Campari",
+        "OutputIdentifier": "Campari",
         "Sounds": ["Ship"],
     },
     {
@@ -137,7 +137,7 @@
         "InputIdentifier": 635,
         "InputStack": 1,
         "MinutesUntilReady": 2360,
-        "OutputIdentifier":"Cointreau",
+        "OutputIdentifier": "Cointreau",
         "Sounds": ["Ship"],
     },
     {
@@ -145,7 +145,7 @@
         "InputIdentifier": "Raspberry",
         "InputStack": 1,
         "MinutesUntilReady": 2360,
-        "OutputIdentifier":"Chambord",
+        "OutputIdentifier": "Chambord",
         "Sounds": ["Ship"],
     },
     {
@@ -153,7 +153,7 @@
         "InputIdentifier": 408,
         "InputStack": 1,
         "MinutesUntilReady": 2360,
-        "OutputIdentifier":"Frangelico",
+        "OutputIdentifier": "Frangelico",
         "Sounds": ["Ship"],
     },
     {
@@ -161,7 +161,7 @@
         "InputIdentifier": "Cocoa Pod",
         "InputStack": 1,
         "MinutesUntilReady": 2360,
-        "OutputIdentifier":"Creme de Cacao",
+        "OutputIdentifier": "Creme de Cacao",
         "Sounds": ["Ship"],
     },
 
@@ -191,14 +191,6 @@
         "InputStack": 1,
         "MinutesUntilReady": 6000,
         "OutputIdentifier": "Dark Ale",
-        "Sounds": ["Ship"],
-    },
-    {
-        "ProducerName": "Keg",
-        "InputIdentifier": "Ginger",
-        "InputStack": 1,
-        "MinutesUntilReady": 2360,
-        "OutputIdentifier": "Ginger Ale",
         "Sounds": ["Ship"],
     },
     {
@@ -287,9 +279,9 @@
     },
     {
         "ProducerName": "Keg",
-        "InputIdentifier": "406",
+        "InputIdentifier": "245",
         "InputStack": 1,
-        "FuelIdentifier": "245",
+        "FuelIdentifier": "406",
         "FuelStack": 1,
         "MinutesUntilReady": 6000,
         "OutputIdentifier": "Umeshu",
@@ -426,9 +418,6 @@
         "InputStack": 1,
         "MinutesUntilReady": 1600,
         "OutputIdentifier": "Kombucha",
-        "InputPriceBased": true,
-        "OutputPriceIncrement": 200,
-        "OutputPriceMultiplier": 2.5,
         "Sounds": ["Ship"],
     },
     {
@@ -624,7 +613,7 @@
         "InputIdentifier": "Peanut",
         "InputStack": 1,
         "MinutesUntilReady": 180,
-        "OutputIdentifier": "Peanut Butter",
+        "OutputIdentifier": "Smooth Peanut Butter",
         "Sounds": ["Ship"],
     },
     {
@@ -742,12 +731,11 @@
         "FuelStack": 1,
         "MinutesUntilReady": 1600,
         "AdditionalOutputs": [
-            {
-                "OutputProbability": 1,
-                "OutputIdentifier": "Potpourri",
-                "RequiredInputParentIdentifier": [ "-80" ]
-            },
-        ],
+        {
+            "OutputProbability": 1,
+            "OutputIdentifier": "Potpourri",
+            "RequiredInputParentIdentifier": ["-80"]
+        }, ],
         "KeepInputParentIndex": true,
         "InputPriceBased": true,
         "OutputPriceIncrement": 100,
@@ -919,6 +907,22 @@
     },
     {
         "ProducerName": "Extruder",
+        "InputIdentifier": "Buckwheat Flour",
+        "InputStack": 1,
+        "MinutesUntilReady": 360,
+        "OutputIdentifier": "Buckwheat Noodles",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Extruder",
+        "InputIdentifier": "Wheat Flour",
+        "InputStack": 1,
+        "MinutesUntilReady": 360,
+        "OutputIdentifier": "Wheat Noodles",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Extruder",
         "InputIdentifier": "Cassava",
         "InputStack": 1,
         "MinutesUntilReady": 1600,
@@ -975,15 +979,7 @@
         "MinutesUntilReady": 60,
         "OutputIdentifier": "Apple Rind",
         "Sounds": ["Ship"],
-    },
-    {
-        "ProducerName": "Grinder",
-        "InputIdentifier": "262",
-        "InputStack": 1,
-        "MinutesUntilReady": 1600,
-        "OutputIdentifier": "Wheat Flour",
-        "Sounds": ["Ship"],
-    },
+    },   
     {
         "ProducerName": "Grinder",
         "InputIdentifier": "270",
@@ -998,6 +994,14 @@
         "InputStack": 1,
         "MinutesUntilReady": 1600,
         "OutputIdentifier": "Rice Flour",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Grinder",
+        "InputIdentifier": "Buckwheat",
+        "InputStack": 1,
+        "MinutesUntilReady": 1600,
+        "OutputIdentifier": "Buckwheat Flour",
         "Sounds": ["Ship"],
     },
     {
@@ -1176,7 +1180,7 @@
         "OutputTranslationKey": "YogurtJar.Fruit",
         "InputPriceBased": true,
         "OutputPriceIncrement": 0,
-        "OutputPriceMultiplier": 1.25,
+        "OutputPriceMultiplier": 1.75,
         "Sounds": ["Ship"],
     },
 
@@ -1193,12 +1197,12 @@
         "OutputName": "{inputName} Candle",
         "OutputTranslationKey": "WaxBarrel.Candle",
         "InputPriceBased": true,
-        "OutputPriceIncrement": 0,
+        "OutputPriceIncrement": 250,
         "OutputPriceMultiplier": 2,
         "Sounds": ["Ship"],
     },
 
-    // Ice Cream Machine
+    // Ice Cream Machine    
 
     {
         "ProducerName": "Ice Cream Machine",
@@ -1218,6 +1222,20 @@
         "FuelStack": 1,
         "MinutesUntilReady": 120,
         "OutputIdentifier": "Matcha Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Mint",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "Chocolate": 1
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Mint Chip Ice Cream",
         "Sounds": ["Ship"],
     },
     {
@@ -1262,6 +1280,114 @@
     },
     {
         "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "834",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Mango Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "638",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Cherry Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "69",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Banana Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Lemon",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Lemon Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Lime",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Lime Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "408",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Hazelnut Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Pistachio",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Pistachio Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Yogurt",
+        "InputStack": 1,
+        "FuelIdentifier": "638",
+        "FuelStack": 2,
+        "MinutesUntilReady": 240,
+        "OutputIdentifier": "Cherry Yogurt Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "258",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "Mint": 1,
+        },
+        "MinutesUntilReady": 240,
+        "OutputIdentifier": "Blue Angel",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Amaretto",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "638": 1,
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Amarena Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
         "InputIdentifier": "Vanilla Ice Cream",
         "InputStack": 1,
         "FuelIdentifier": "-6",
@@ -1273,6 +1399,20 @@
         },
         "MinutesUntilReady": 120,
         "OutputIdentifier": "Neapolitan Ice Cream",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Ice Cream Machine",
+        "InputIdentifier": "Herbal Lavender",
+        "InputStack": 1,
+        "FuelIdentifier": "-6",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "340": 1,
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Honey Lavender Ice Cream",
         "Sounds": ["Ship"],
     },
 
@@ -1404,7 +1544,7 @@
         "OutputName": "Handmade {inputName} Soap",
         "OutputTranslationKey": "SoapPress.Soap",
         "InputPriceBased": true,
-        "OutputPriceIncrement": 0,
+        "OutputPriceIncrement": 250,
         "OutputPriceMultiplier": 2,
         "Sounds": ["Ship"],
     },
@@ -1419,7 +1559,7 @@
         "OutputName": "Handmade {inputName} Soap",
         "OutputTranslationKey": "SoapPress.Soap",
         "InputPriceBased": true,
-        "OutputPriceIncrement": 0,
+        "OutputPriceIncrement": 250,
         "OutputPriceMultiplier": 2,
         "Sounds": ["Ship"],
     },
@@ -1434,7 +1574,7 @@
         "OutputName": "Handmade {inputName} Soap",
         "OutputTranslationKey": "SoapPress.Soap",
         "InputPriceBased": true,
-        "OutputPriceIncrement": 0,
+        "OutputPriceIncrement": 250,
         "OutputPriceMultiplier": 2,
         "Sounds": ["Ship"],
     },
@@ -1449,7 +1589,7 @@
         "OutputName": "Handmade {inputName} Soap",
         "OutputTranslationKey": "SoapPress.Soap",
         "InputPriceBased": true,
-        "OutputPriceIncrement": 0,
+        "OutputPriceIncrement": 250,
         "OutputPriceMultiplier": 2,
         "Sounds": ["Ship"],
     },
@@ -1548,6 +1688,7 @@
         "ProducerName": "Smoker",
         "InputIdentifier": "fish_river",
         "InputStack": 1,
+        "ExcludeIdentifiers": ["139"],
         "FuelIdentifier": "388",
         "FuelStack": 1,
         "MinutesUntilReady": 4320,
@@ -1555,6 +1696,19 @@
         "OutputName": "Smoked {inputName}",
         "OutputTranslationKey": "Smoker.Fish",
         "InputPriceBased": true,
+        "OutputPriceIncrement": 0,
+        "OutputPriceMultiplier": 3,
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Smoker",
+        "InputIdentifier": "139",
+        "InputStack": 1,
+        "FuelIdentifier": "388",
+        "FuelStack": 1,
+        "MinutesUntilReady": 4320,
+        "OutputIdentifier": "Smoked Salmon",
+        "InputPriceBased": false,
         "OutputPriceIncrement": 0,
         "OutputPriceMultiplier": 3,
         "Sounds": ["Ship"],
@@ -1636,7 +1790,7 @@
     },
     {
         "ProducerName": "Espresso Machine",
-        "InputIdentifier": "Chocolate Syrup",
+        "InputIdentifier": "Chocolate",
         "InputStack": 1,
         "FuelIdentifier": "433",
         "FuelStack": 4,
@@ -1748,13 +1902,13 @@
     },
     {
         "ProducerName": "Espresso Machine",
-        "InputIdentifier": "milk_item",
+        "InputIdentifier": "276",
         "InputStack": 1,
         "FuelIdentifier": "433",
         "FuelStack": 4,
         "AdditionalFuel":
         {
-            "276": 1
+            "-6": 1
         },
         "MinutesUntilReady": 120,
         "OutputIdentifier": "Pumpkin Spice Latte",
@@ -1787,6 +1941,172 @@
         "InputStack": 1,
         "MinutesUntilReady": 750,
         "OutputIdentifier": "Jalapeno Extract",
+        "Sounds": ["Ship"],
+    },
+
+    // Fruit Sorbet Machine
+
+    {
+        "ProducerName": "Sorbet Machine",
+        "InputIdentifier": "258",
+        "InputStack": 1,
+        "FuelIdentifier": "245",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "340": 1,
+            "Lemon": 1
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Blueberry Fruit Sorbet",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Sorbet Machine",
+        "InputIdentifier": "Dragon Fruit",
+        "InputStack": 1,
+        "FuelIdentifier": "245",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "635": 1,
+            "69": 1
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Dragon Fruit Fruit Sorbet",
+        "Sounds": ["Ship"],
+    },
+    /*{
+        "ProducerName": "Sorbet Machine",
+        "InputIdentifier": "Honeydew Melon",
+        "InputStack": 1,
+        "FuelIdentifier": "245",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "340": 1,
+            "88": 1,
+            "Lemon": 1,
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Honeydew Melon Fruit Sorbet",
+        "Sounds": ["Ship"],
+    },*/
+    {
+        "ProducerName": "Sorbet Machine",
+        "InputIdentifier": "834",
+        "InputStack": 1,
+        "FuelIdentifier": "245",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "Lime": 1,
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Mango Fruit Sorbet",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Sorbet Machine",
+        "InputIdentifier": "635",
+        "InputStack": 1,
+        "FuelIdentifier": "245",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "Lemon": 1,
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Orange Fruit Sorbet",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Sorbet Machine",
+        "InputIdentifier": "832",
+        "InputStack": 1,
+        "FuelIdentifier": "245",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "Lemon": 1,
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Pineapple Fruit Sorbet",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Sorbet Machine",
+        "InputIdentifier": "Dragon Fruit",
+        "InputStack": 1,
+        "FuelIdentifier": "245",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "635": 1,
+            "Raspberry": 1
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Raspberry Dragon Fruit Fruit Sorbet",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Sorbet Machine",
+        "InputIdentifier": "Raspberry",
+        "InputStack": 1,
+        "FuelIdentifier": "245",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "340": 1,
+            "Lemon": 1
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Raspberry Fruit Sorbet",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Sorbet Machine",
+        "InputIdentifier": "Salmonberry",
+        "InputStack": 2,
+        "FuelIdentifier": "245",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "340": 1,
+            "Lemon": 1
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Salmonberry Fruit Sorbet",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Sorbet Machine",
+        "InputIdentifier": "400",
+        "InputStack": 1,
+        "FuelIdentifier": "245",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "Dragon Fruit": 1,
+            "Lemon": 1,
+            "Lime": 1
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Strawberry Dragon Fruit Fruit Sorbet",
+        "Sounds": ["Ship"],
+    },
+    {
+        "ProducerName": "Sorbet Machine",
+        "InputIdentifier": "400",
+        "InputStack": 1,
+        "FuelIdentifier": "245",
+        "FuelStack": 1,
+        "AdditionalFuel":
+        {
+            "Lemon": 1,
+        },
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Strawberry Fruit Sorbet",
         "Sounds": ["Ship"],
     },
 ]

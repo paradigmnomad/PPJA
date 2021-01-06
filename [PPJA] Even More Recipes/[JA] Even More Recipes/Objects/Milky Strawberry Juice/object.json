@@ -17,13 +17,12 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 100,
-    "PurchaseRequirements": null,
-    "NameLocalization":
+        "NameLocalization":
     {
         "es": "Jugo de fresa con leche",
         "ko": "우유 가득 딸기 주스",
         "de": "Milchiger Erdbeersaft",
-         // "fr": "",
+        "fr": "Jus de fraise au lait",
          // "hu": "",
          // "it": "",
         "ja": "イチゴミルク缶",
@@ -37,13 +36,13 @@
         "es": "Jugo 100% real!",
         "ko": "100% 리얼 주스!",
         "de": "Aus 100% echtem Saft!",
-         // "fr": "",
+        "fr": "100% pur jus !",
          // "hu": "",
          // "it": "",
         "ja": "100％果汁！",
         "pt": "100% feito com suco natural!",
          // "ru": "",
          // "tr": "",
-        "zh": "草莓味牛奶。百分百天然草莓汁！",
+        "zh": "百分百天然草莓汁！",
     }
 }

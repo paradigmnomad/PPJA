@@ -35,14 +35,14 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 3095,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Cream-Cheese Lady-Fingers", "y 4", ],
     },
     "NameLocalization":
     {
         "es": "Tiramisú",
         "ko": "리치 티라미수",
         "de": "Reichhaltiges Tiramisu",
-         // "fr": "",
+        "fr": "Tiramisu",
          // "hu": "",
          // "it": "",
         "ja": "ティラミス",
@@ -56,13 +56,13 @@
         "es": "Un pastel hecho con galletas bañadas en café.",
         "ko": "커피에 흠뻑 젖은 쿠키를 넣어 만든 케이크.",
         "de": "Ein Kuchen mit Kaffee durchtränkten Keksen.",
-         // "fr": "",
+        "fr": "Un gâteau fait avec des biscuits trempés dans du café.",
          // "hu": "",
          // "it": "",
         "ja": "コーヒーを浸したクッキーで作られたケーキ。",
         "pt": "Um bolo feito com biscoitos de café.",
          // "ru": "",
          // "tr": "",
-        "zh": "提拉米苏。这块蛋糕由可可豆和手指饼干制成。",
+        "zh": "这块蛋糕由可可豆和手指饼干制成。",
     }
 }

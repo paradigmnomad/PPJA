@@ -18,8 +18,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1375,
-        "PurchaseRequirements": null,
-    },
+            },
     "GiftTastes":
     {
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
@@ -31,7 +30,7 @@
         "es": "Té de oolong",
         "ko": "우롱차",
         "de": "Oolong-Tee",
-         // "fr": "",
+        "fr": "Thé Oolong",
          // "hu": "",
          // "it": "",
         "ja": "ウーロン茶",
@@ -45,7 +44,7 @@
         "es": "Un té oscuro popular en el extranjero.",
         "ko": "동양의 인기 차.",
         "de": "Ein dunkler Tee, der in fremden Ländern populär ist.",
-         // "fr": "",
+        "fr": "L'entre-deux du thé noir et du thé vert, populaire dans de lointaines contrées.",
          // "hu": "",
          // "it": "",
         "ja": "外国で一般的な濃い色をしたお茶。",

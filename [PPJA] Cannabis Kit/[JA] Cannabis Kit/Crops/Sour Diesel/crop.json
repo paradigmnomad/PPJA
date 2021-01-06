@@ -14,25 +14,22 @@
     {
         "MinimumPerHarvest": 2,
         "MaximumPerHarvest": 5,
-        "MaxIncreasePerFarmLevel": 5,
+        "MaxIncreasePerFarmLevel": 0,
         "ExtraChance": 0.1,
     },
     "SeedPurchaseFrom": "Harvey",
     "SeedPurchasePrice": 350,
-    "SeedPurchaseRequirements": [
-        "f Sebastian 250"
-    ],
     "SeedNameLocalization":
     {
         "es": "Iniciador de Diesel Agrio",
         "ko": "신 디젤",
         "de": "Saurer Diesel",
-        // "fr": "",
+        "fr": "Graines de Sour Diesel",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Iniciador de Diesel Azedo",
-        // "ru": "",
+        "ru": "Семен каннабиса Кислый Дизель",
         // "tr": "",
         "zh": "酸柴油种子",
     },
@@ -41,12 +38,12 @@
         "es": "Esta variedad da efectos cerebrales energizantes y soñadores. Una de las mejores elecciones entre pacientes medicos. Plantalo en el otoño. Tarda 12 días en madurar, continua produciendo cada 3 días.",
         "ko": "이 품종은 활기를 북돋우고 꿈 같은 뇌 효과를 준다. 환자들 사이에서 최상의 선택이다. 가을에 심으세요. 성숙 기간은 12일이며, 그 후 생산은 3일마다 계속된다.",
         "de": "Diese Sorte liefert energetisierende, verträumte zerebrale Effekte. Eine Top-Wahl unter medizinischen Patienten. Pflanzen Sie diese im Herbst. Die Reifezeit beträgt 12 Tage. Danach wird die Produktion alle 3 Tage fortgesetzt.",
-        // "fr": "",
+        "fr": "Cette souche libère de l'énergie et des effets cérébraux oniriques. Un choix avisé parmi les patients médicaux. À planter en automne. Prend 12 jours pour arriver à maturité, puis continue de produire tous les 3 jours.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Esta variedade dá efeitos cerebrais sonhadores energizantes. Uma das maiores escolhas entre pacientes médicos. Plante-as no outono. Leva 12 dias para amadurecer e continua produzindo a cada 3 dias.",
-        // "ru": "",
+        "ru": "Этот сорт даёт энергетический эффект и погружает в мечты. Лучший выбор среди пациентов медклиник. Сажайте осенью. Вырастает через 12 дней и продолжает давать урожай после первого сбора каждые 3 дня.",
         // "tr": "",
         "zh": "这种品系提供充满活力、白日梦般的效果，是医疗患者的首选。秋天播种。12天成熟，之后每3天收获一次。",
     }

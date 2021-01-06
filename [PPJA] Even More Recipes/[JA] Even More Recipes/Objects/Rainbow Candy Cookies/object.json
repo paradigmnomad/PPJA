@@ -39,14 +39,14 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2835,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Chocolate", "y 4", ],
     },
     "NameLocalization":
     {
         "es": "Galletas arco iris",
         "ko": "무지개 사탕 쿠키",
         "de": "Regenbogenplätzchen",
-         // "fr": "",
+        "fr": "Cookies aux dragées arc-en-ciel",
          // "hu": "",
          // "it": "",
         "ja": "レンボーキャンディクッキー",
@@ -60,13 +60,13 @@
         "es": "Estas galletas tienen piezas coloridas en ellas!",
         "ko": "알록달록한 조각들이 박혀 있어요!",
         "de": "Diese Plätzchen sind voll mit bunten Stückchen.",
-         // "fr": "",
+        "fr": "Ces cookies ont des morceaux colorés en eux !",
          // "hu": "",
          // "it": "",
         "ja": "カラフルな粒を混ぜたクッキー",
         "pt": "Esses biscoitos têm pedaços coloridoas!",
          // "ru": "",
          // "tr": "",
-        "zh": "彩虹糖饼干。这些饼干里面有很多五颜六色的东西！",
+        "zh": "这些饼干里面有很多五颜六色的东西！",
     }
 }

@@ -32,14 +32,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1000,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Paleta de crema de fresa",
         "ko": "딸기 크림 팝시클",
         "de": "Erdbeereis am Stiel",
-         // "fr": "",
+        "fr": "Glace à l'eau crème-fraise",
          // "hu": "",
          // "it": "",
         "ja": "イチゴのクリームアイスバー",
@@ -53,13 +52,13 @@
         "es": "¡Paleta con un sabor cremoso!",
         "ko": "막대기에 매달린 딸기 맛!",
         "de": "Göttliche Erdbeeren am Stiel.",
-         // "fr": "",
+        "fr": "Tous les arômes de la fraise sur un bâton !",
          // "hu": "",
          // "it": "",
         "ja": "アイス棒にイチゴのおいしさ！",
         "pt": "Um morango suculento no palito!",
          // "ru": "",
          // "tr": "",
-        "zh": "草莓奶油雪糕。草莓的精华都在这根雪糕上！",
+        "zh": "草莓的精华都在这根雪糕上！",
     }
 }

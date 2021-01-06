@@ -26,14 +26,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 500,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Limonada",
         "ko": "라임 에이드",
         "de": "Limonade",
-         // "fr": "",
+        "fr": "Soda au citron vert",
          // "hu": "",
          // "it": "",
         "ja": "ライムエード",
@@ -47,13 +46,13 @@
         "es": "¡Limón recién exprimido!",
         "ko": "갓 짜낸 라임 에이드!",
         "de": "Frisch gepresste Limonade!",
-         // "fr": "",
+        "fr": "Soda au citron vert fraîchement pressé !",
          // "hu": "",
          // "it": "",
         "ja": "絞りたてのライムエード！",
         "pt": "Limonada espremida na hora!",
          // "ru": "",
          // "tr": "",
-        "zh": "青柠水。用新鲜的青柠榨出来的！",
+        "zh": "用新鲜的青柠榨出来的！",
     }
 }

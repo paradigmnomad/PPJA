@@ -1,0 +1,42 @@
+{
+    "Name": "Deer Antler",
+    "Description": "A singular deer antler.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 180,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,
+	"NameLocalization": { 
+		"es": "Cuerno del ciervo",
+		"ko": "녹용",
+        //"de": "",
+        "fr": "Ramure de cerf",
+        "hu": "Szarvasagancs",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "鹿茸",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un cuerno de ciervo singular.",
+        "ko": "사슴의 뿔.",
+        //"de": "",
+        "fr": "Une ramure de cerf singulière.",
+        "hu": "Egy szarvasagancs",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "一种奇异的鹿角。",
+    },  
+    "EnableWithMod": "Cherry.MultiYieldCrops"    
+}

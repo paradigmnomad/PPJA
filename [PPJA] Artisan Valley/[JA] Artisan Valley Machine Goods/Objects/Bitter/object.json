@@ -24,8 +24,7 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 120,
-    "PurchaseRequirements": null,
-    "GiftTastes":
+        "GiftTastes":
     {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
@@ -38,8 +37,8 @@
         "es": "Bitter",
         "ko": "비터",
         "de": "Bitter",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Amer",
+        "hu": "Bitter",
         // "it": "",
         "ja": "ビターズ",
         "pt": "Bitter",
@@ -50,10 +49,10 @@
     "DescriptionLocalization":
     {
         "es": "Comúnmente utilizado en bebidas alcohólicas. Hecho de flores.",
-        "ko": "일반적으로 주류에 사용됩니다. 꽃으로 만듭니다.",
+        "ko": "주로 다른 음료를 만드는 데 재료로 사용됩니다. 꽃으로 만듭니다.",
         "de": "Häufig in alkoholischen Getränken genutzt. Hergestellt aus Blumen.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "L'amer est couramment utilisé dans les boissons alcoolisées. Fabriqué à partir de fleurs.",
+        "hu": "Gyakran használják alkoholos italokban. Virágokból állítják elő.",
         // "it": "",
         "ja": "アルコール飲料に足して使う。花から作られている。",
         "pt": "Geralmente usado em bebidas alcóolicas. Beba com moderação.",

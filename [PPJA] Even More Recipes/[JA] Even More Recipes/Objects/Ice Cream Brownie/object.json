@@ -29,8 +29,9 @@
         "PurchaseFrom": "Gus",
         "PurchasePrice": 3105,
         "PurchaseRequirements": [
+            "HasCookingRecipe Brownie",
             "r 0.25",
-            "y 2",
+            "y 4",
         ]
     },
     "NameLocalization":
@@ -38,7 +39,7 @@
         "es": "Helado de brownie",
         "ko": "아이스크림 브라우니",
         "de": "Brownie mit Eis",
-         // "fr": "",
+        "fr": "Brownie et crème glacée",
          // "hu": "",
          // "it": "",
         "ja": "アイスクリームブラウニー",
@@ -52,13 +53,13 @@
         "es": "¡Un delicioso y cálido capricho!",
         "ko": "맛있고 따뜻한 간식!",
         "de": "Ein leckeres, warmes Vergnügen!",
-         // "fr": "",
+        "fr": "Une gourmandise appétissante et chaude.",
          // "hu": "",
          // "it": "",
         "ja": "おいしいおやつ！",
         "pt": "Um deleite gostoso e quente!",
          // "ru": "",
          // "tr": "",
-        "zh": "冰淇淋布朗尼。超好吃的，温暖的甜点！",
+        "zh": "超好吃的，温暖的甜点！",
     }
 }

@@ -1,0 +1,44 @@
+{
+    "Name": "Pineapple Fruit Sorbet",
+    "Description": "A refreshing fruit sorbet made from delicious pineapple and lemons.",
+    "Category": "ArtisanGoods",
+    "Edibility": 60,
+    "EdibleIsDrink": false,
+    "Price": 350,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Haley", "Vincent", "Jas"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Dwarf"],
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "파인애플 과일 셔벗",
+        // "de": "",
+        "fr": "Sorbet à l'ananas",
+        "hu": "Ananász sörbet",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "菠萝果汁雪葩",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "맛있는 파인애플과 레몬으로 만든 상큼한 과일 셔벗.",
+        // "de": "",
+        "fr": "Un sorbet rafraîchissant fait à partir d'un délicieux ananas et un citron.",
+        "hu": "Egy frissítő sörbet ízletes ananászból és citromból.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "由美味的菠萝和柠檬制成的清爽水果雪葩。",
+    }
+}

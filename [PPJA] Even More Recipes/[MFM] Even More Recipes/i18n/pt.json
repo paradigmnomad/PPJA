@@ -1,0 +1,30 @@
+{ 
+ // Texto
+
+    "amethystcookie.text": "Ei @!^^ Essa é definitivamente uma das melhores ideias que já tive! Eu sei que você vai ser capaz de apreciá-lo. Eu fiz um lote destes no início da semana e eu tenho comido eles desde então.Eles são perfeitamente seguros para comer!Eles têm sido seguros para mim, pelo menos.^^  -Abigail",
+    "bananaandstrawberrycake.text": "Querido @,^^ a Srta. Penny está nos fazendo escrever cartas para nossos amigos adultos para a escola, e eu escolhi você.^Esta é a minha receita para o meu delicioso Bolo de Morango e Banana! Tem gosto de Bolo Rosa, só que  mais doce! Gosto de fazer isso com minha tia Marnie, que me ensinou como fazer. Por favor, aproveite!^^ -Jas",
+    "chocolatemousebread.text": "Querido @,^^ eu queria que você soubesse sobre uma receita divertida que eu peguei de um dos livros de receitas da biblioteca. É como um projeto de arte que você pode comer, e é uma das coisas mais divertidas que eu já fiz na cozinha. O melhor de tudo, é possivel até mesmo para uma desastrada na cozinha como eu!^^ -Penny",
+    "chocolatestrawberrycake.text": "Querido @,^^Eu estou aprendendo a assar na cozinha sozinha. Isso é algo que eu fiz em casa. Você quer fazer isso também? Bolo de morango e chocolate... mmmmmmm!^^  -Jas",
+    "bananachocolatecrepe.text": "Querido @,^^ Nada é mais satisfatório do que cozinhar com produtos frescos do seu próprio jardim! Eu cozinhei em casa por 20 anos e meu único conselho é sempre escolher os pratos mais saudáveis para cada refeição.^Estou brincando! Não há nada saudável nesta receita que eu estou enviando para você.^Dê-lhe uma tentativa de um bom café da manhã!^^ -Caroline",
+    "deviledeggs.text": "Querido @,^^Eu consegui a receita de ovo demoníaco do Gus do último festival de ovos.Sabe, aqueles que metade da cidade adora fazer o D.D. a cada ano? Gus disse que tudo bem, desde que a receita dele não chegue a toda a cidade, mas você pode manter um segredo, certo?^^  -Pierre",
+    "icedchocolatedonut.text": "Oi @!^^ mamãe fez essa receita há muito tempo e muito BOM!! Mas ela não quer que eu tenha muito açúcar. Você pode fazer isso  e me trazer 1?^Ela tem uma regra que você não pode dizer não quando recebemos um presente. Acredite, é super gostoso. Eu acho que você vai gostar!^^  -Vincent",
+    "keylimepie.text": "Querido @,^^ eu estava folheando algumas receitas antigas e eu encontrei esta, dada a mim pelo seu próprio avô. Ele já fez isso para você quando você era jovem? Bem, talvez você possa fazer isso, ou talvez você simplesmente goste de ver sua caligrafia.^Boa sorte, @!^^  -Lewis",
+    "seaweedchips.text": "Querido @,^^ Você já pescou alguma alga extra? Se você fizer isso, certifique-se de não  colocá-la no lixo. Aqui está uma receita do meu pai para um lanche gostoso.^^  -Willy",
+    "strawberrypudding.text": "Querido @,^^ Oi! Como você está?^Você já cultiva morangos em sua fazenda? Eu ia fazer isso com a tia Marnie, mas achei que seria o melhor com morangos frescos da sua fazenda.De qualquer forma, tenha um bom dia!^^  -Jas",
+    "tofu.text": "Ei @,^^ Você gosta de comer coalhada de feijão fermentado? Haha,quero dizer tofu, é claro. Fiz um lote e monitorei a fermentação sob um microscópio. É realmente interessante, cozinhar com biologia em vez de química. Sem mencionar que é ainda mais delicioso do que você esperaria! Talvez você experimente se você gosta desse estilo de vida caseiro.^^  -Maru",
+    
+	// Titulos
+	
+
+    "amethystcookie.title": "Receita de Biscoito Ametista",
+    "bananaandstrawberrycake.title": "Receita de Bolo de Banana e Morango",
+    "chocolatemousebread.title": "Receita de Pão de Chocolate em forma de Rato",
+    "chocolatestrawberrycake.title": "Receita de Bolo de Morango e Chocolate",
+    "bananachocolatecrepe.title": "Receita de crepe de Chocolate e Banana",
+    "deviledeggs.title": "Receita de Ovos Diabólicos",
+    "icedchocolatedonut.title": "Receita de Donut de Chocolate Gelado",
+    "keylimepie.title": "Receita de Torta de Limão",
+    "seaweedchips.title": "Receita de Chips de Algas Marinhas",
+    "strawberrypudding.title": "Receita de Pudim de Morango",
+    "tofu.title": "Receita de Tofu"
+}

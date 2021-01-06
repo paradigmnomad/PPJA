@@ -1,0 +1,47 @@
+{
+    "Name": "Firefly DNA",
+    "Description": "Some firefly DNA from scanning fireflies with the DNA Sythesizer.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 10,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "ADN de luciérnaga",
+        "ko": "반딧불 DNA",
+        // "de": "",
+        "fr": "ADN de luciole",
+        "hu": "Szentjánosbogár DNS",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "萤火虫DNA",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un poco de ADN de luciérnagas, procedente de escanear luciérnagas con el sintetizador de ADN.",
+        "ko": "반딧불에서 추출한 DNA.",
+        // "de": "",
+        "fr": "De l'ADN de luciole isolé en scannant des lucioles avec un synthétiseur d'ADN.",
+        "hu": "Egy szentjánosbogár DNS-e, melyet a DNS szintetizátorral nyertek.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "用DNA离析机扫描萤火虫得到的萤火虫DNA。",
+    },
+    "ContextTags": [
+        "dna_item",
+    ],
+    "EnableWithMod": "spacechase0.BugNet",
+}

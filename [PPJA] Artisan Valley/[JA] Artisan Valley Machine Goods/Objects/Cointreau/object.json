@@ -24,8 +24,7 @@
   "CanPurchase": true,
   "PurchaseFrom": "Gus",
   "PurchasePrice": 350,
-  "PurchaseRequirements": null,
-  "GiftTastes":
+    "GiftTastes":
     {
         "Love": ["Pam", "Shane", "Gus"],
         "Like": ["Caroline", "Elliott", "Jodi", "Leah", "Lewis", "Pierre", "Robin"],
@@ -36,31 +35,31 @@
 
     "NameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Cointreau",
+        "ko": "쿠앵트로",
         //"de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Cointreau",
+        "hu": "Cointreau",
         // "it": "",
         "ja": "コアントロー",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "君度利口酒",
     },
     "DescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Un licor fuerte hecho de naranjas.",
+        "ko": "오렌지로 만든 독한 술.",
         //"de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une liqueur forte faite d'écorces d'oranges.",
+        "hu": "Narancs felhasználásával előállított erős likőr.",
         // "it": "",
         "ja": "オレンジから作られた度数強めのリキュール。",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "用橙子酿制的烈性酒。",
     }
 
 }

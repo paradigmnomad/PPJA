@@ -24,7 +24,6 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1950,
     "PurchaseRequirements": ["f Lewis 2500", ],
-
     "Recipe":
     {
         "ResultCount": 1,
@@ -46,7 +45,7 @@
             "Count": 1,
         },
         {
-            "Object": "Pineapple",
+            "Object": 832,
             "Count": 1,
         }],
         "CanPurchase": false,

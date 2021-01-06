@@ -37,14 +37,14 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2725,
-        "PurchaseRequirements": ["y 2", ],
+        "PurchaseRequirements": ["HasCookingRecipe Chocolate", "y 4", ],
     },
     "NameLocalization":
     {
         "es": "Dona con forma de oso",
         "ko": "곰돌이 도넛",
         "de": "Bärendonut",
-         // "fr": "",
+        "fr": "Beignet en ours",
          // "hu": "",
          // "it": "",
         "ja": "クマドーナツ",
@@ -58,13 +58,13 @@
         "es": "¡Tiene forma de oso! ¡Que lindo!",
         "ko": "곰돌이 모양의 도넛!귀엽죠!",
         "de": "Er sieht aus wie ein Bär. Wie süß!",
-         // "fr": "",
+        "fr": "Ça a la forme d'un ours. C'est si mignon !",
          // "hu": "",
          // "it": "",
         "ja": "クマの形をしている！かわいい！",
         "pt": "Tem a forma de um urso! Que fofinho!",
          // "ru": "",
          // "tr": "",
-        "zh": "小熊甜甜圈。它有着萌萌的熊耳形状！超可爱！",
+        "zh": "它有着萌萌的熊耳形状！超可爱！",
     }
 }

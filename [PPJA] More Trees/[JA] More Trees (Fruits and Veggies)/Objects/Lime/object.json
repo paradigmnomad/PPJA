@@ -10,14 +10,13 @@
         "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
         "Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
     },
-    "Recipe": null,
     "NameLocalization":
     {
         "es": "Lima",
         "ko": "라임",
         "de": "Limone",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Citron vert",
+        "hu": "Lime",
          // "it": "",
         "ja": "ライム",
         "pt": "Limão",
@@ -28,10 +27,10 @@
     "DescriptionLocalization":
     {
         "es": "El primo tártaro del limón. A menudo se utiliza como una espacia en numerosos platos.",
-        "ko": "레몬의 사촌. 종종 수많은 요리에 사용됩니다.",
+        "ko": "레몬의 사촌. 수많은 요리에 맛을 더해 줍니다.",
         "de": "Gehört zur Familie der  Zitrone. Oft verwendet in Getränken und Gerichten.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Aussi nommé Lime, cet agrume très acide est utilisé pour relever boissons et plats.",
+        "hu": "A citrom még savanyúbb rokona. Sokszor ételek ízesítésére használják.",
          // "it": "",
         "ja": "レモンの酸っぱいいとこ。多くの料理のアクセントとしてよく使用される。",
         "pt": "O primo tarter do limão. É frequentemente usado como acento em vários pratos.",

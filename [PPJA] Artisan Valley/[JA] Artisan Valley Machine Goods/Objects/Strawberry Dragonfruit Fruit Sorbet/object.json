@@ -1,0 +1,44 @@
+{
+    "Name": "Strawberry Dragon Fruit Fruit Sorbet",
+    "Description": "A refreshing fruit sorbet made from strawberries, dragon fruit, and citrus.",
+    "Category": "ArtisanGoods",
+    "Edibility": 60,
+    "EdibleIsDrink": false,
+    "Price": 560,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Jas", "Vincent", "Demetrius", "Maru"],
+        "Like": ["Elliott", "Haley", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Shane"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Penny", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "딸기 용과 과일 셔벗",
+        // "de": "",
+        "fr": "Sorbet au fruit du dragon et à la framboise",
+        "hu": "Epres-sárkánygyümölcsös sörbet",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "草莓火龙果果汁雪葩",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "딸기, 용과, 감귤로 만든 상큼한 과일 셔벗.",
+        // "de": "",
+        "fr": "Un sorbet rafraîchissant fait à partir de framboises, fruit du dragon et citron.",
+        "hu": "Egy frissítő gyümölcs sörbet eperből, sárkánygyümölcsből, és citrusból.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+         "zh": "由草莓、火龙果和几种柑橘类水果制成的清爽雪葩。",
+    }
+}

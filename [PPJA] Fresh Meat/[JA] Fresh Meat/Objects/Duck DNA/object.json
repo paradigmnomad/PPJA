@@ -3,7 +3,7 @@
     "Description": "Some duck DNA extracted from a feather.",
     "Category": "AnimalGoods",
     "Edibility": -300,
-    "Price": 85,
+    "Price": 10,
     "IsColored": false,
     "GiftTastes":
     {
@@ -14,30 +14,33 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "ADN de pato",
+        "ko": "오리 DNA",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "ADN de canard",
+        "hu": "Kacsa DNS",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "鸭子DNA",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Un poco de ADN de pato extraído de una pluma.",
+        "ko": "깃털에서 추출한 오리 DNA.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "De l'ADN de canard extrait d'une plume.",
+        "hu": "Egy kacsa DNS-e, melyet tollból nyertek ki.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "从鸭毛中提取的鸭子DNA。",
     },
+    "ContextTags": [
+        "dna_item",
+    ],
 }

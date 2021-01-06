@@ -15,11 +15,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Calabacín",
         "ko": "주키니",
         "de": "Zucchini",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Courgette",
+        "hu": "Cukkini",
         // "it": "",
         "ja": "ズッキーニ",
         "pt": "Abobrinha",
@@ -29,11 +29,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Primo de la calabaza, se usa para platos de verduras. Tiene mucho sabor cuando se hornea.",
         "ko": "애호박의 사촌으로, 야채요리에 사용됩니다. 구우면 맛이 더 좋아집니다.",
         "de": "Eine Verwandte des Kürbis, in Gemüsemahlzeiten genutzt. Hat viel Geschmack nach dem Rösten.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "La cousine de la courge, utilisée comme légume dans les plats. Elle a beaucoup de goût une fois cuite au four.",
+        "hu": "A főzőtök rokona, zöldségként használják ételekben. Több íze van sütve.",
         // "it": "",
         "ja": "このカボチャのいとこは、野菜料理に使われる。焼くと風味が増す。",
         "pt": "Uma variante de abóbora, é usado em dietas vegetais. Tem muito mais sabor quando assado.",

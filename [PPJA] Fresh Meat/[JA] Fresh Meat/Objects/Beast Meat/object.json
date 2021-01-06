@@ -1,9 +1,9 @@
 {
     "Name": "Beast Meat",
     "Description": "A cut of meat from a wild beast.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
-    "Price": 75,
+    "Price": 150,
     "IsColored": false,
     "GiftTastes":
     {
@@ -11,33 +11,33 @@
         "Hate": ["Sebastian"],
     },
     "Recipe": null,
-    
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Carne de bestia",
+        "ko": "야생짐승 고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande de bête",
+        "hu": "Vadhús",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Carne de Besta",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "野兽肉",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Un trozo de carne de una bestia salvaje.",
+        "ko": "야생짐승의 고기.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une pièce de viande d'une bête sauvage.",
+        "hu": "Egy vadállat húsának darabja.",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Um corte de carne de uma besta selvagem.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
-    }
+         "zh": "从野兽身上切下来的肉。",
+    },
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

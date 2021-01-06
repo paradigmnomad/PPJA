@@ -28,14 +28,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1320,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Paleta corazón",
         "ko": "하트 롤리팝",
         "de": "Herzlutscher",
-        // "fr": "",
+        "fr": "Sucette en cœur",
         // "hu": "",
         // "it": "",
         "ja": "ハートのキャンディ",
@@ -49,13 +48,13 @@
         "es": "Una paleta con sabor a fresa, en forma de corazón.",
         "ko": "딸기맛이 나는, 하트 모양의 롤리팝.",
         "de": "Ein herzförmiger Lutscher mit Erdbeergeschmack.",
-        // "fr": "",
+        "fr": "Une sucette en forme de cœur, saveur fraise.",
         // "hu": "",
         // "it": "",
        "ja": "ハート形のイチゴのキャンディ。",
         "pt": "Um pirulito com sabor de morango e em forma de coração.",
         // "ru": "",
         // "tr": "",
-        "zh": "心形棒棒糖。一种草莓味的心形棒棒糖。",
+        "zh": "一种草莓味的心形棒棒糖。",
     }
 }

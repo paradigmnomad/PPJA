@@ -1,7 +1,7 @@
 {
     "Name": "Bison Meat",
     "Description": "A cut of meat from a buffalo.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
     "Price": 75,
     "IsColored": false,
@@ -14,30 +14,31 @@
 
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Carnce de bisonte",
+        "ko": "들소고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande de bison",
+        "hu": "Bölényhús",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Carne de Bisão",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "野牛肉",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Un corte de carne de búfalo.",
+        "ko": "버팔로의 고기.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une pièce de viande de bison.",
+        "hu": "Egy bölény húsának darabja.",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Um corte de carne de um bisão.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
-    }
+         "zh": "从野牛身上切下来的肉。",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

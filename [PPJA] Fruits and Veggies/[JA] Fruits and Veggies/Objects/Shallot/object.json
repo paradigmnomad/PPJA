@@ -16,14 +16,13 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 50,
-    "PurchaseRequirements": null,
-    "NameLocalization":
+        "NameLocalization":
     {
-        // "es": "",
+        "es": "Chalota",
         "ko": "샬롯",
         "de": "Schalotte",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Échalote",
+        "hu": "Mogyoróhagyma",
         // "it": "",
         "ja": "エシャロット",
         "pt": "Chalota",
@@ -33,11 +32,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Versión más suave de la cebolla.",
         "ko": "양파의 작은 버전.",
         "de": "Eine mildere Unterart der Zwiebel.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Version douce de l'oignon.",
+        "hu": "A vöröshagyma kevésbé erős változata.",
         // "it": "",
         "ja": "よりマイルドなタマネギの仲間。",
         "pt": "Uma versão mais suave de cebola.",

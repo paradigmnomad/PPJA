@@ -24,13 +24,12 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1500,
-    "PurchaseRequirements": null,
-    "NameLocalization":
+        "NameLocalization":
     {
         "es": "Galleta Pathos",
         "ko": "연민 쿠키",
         "de": "Pathos Keks",
-         // "fr": "",
+        "fr": "Biscuit pathos",
          // "hu": "",
          // "it": "",
         "ja": "パトスクッキー",
@@ -44,13 +43,13 @@
         "es": "...no vamos a descubrir qué pasa si lo comes",
         "ko": "...먹으면 무슨 일이 일어나는지 알아내지 맙시다.",
         "de": "... willst du wirklich herausfinden, wass passiert, wenn du ihn isst ?",
-         // "fr": "",
+        "fr": "... mieux ne vaut pas savoir ce qu'il se passe lorsque l'on croque dedans.",
          // "hu": "",
          // "it": "",
         "ja": "食べたらどうなるかわからない…。",
         "pt": "...não vamos descobrir o que acontece se você comer",
          // "ru": "",
          // "tr": "",
-        "zh": "痛苦饼干。如果你吃了它，不知道会发生什么情况。",
+        "zh": "如果你吃了它，不知道会发生什么情况。",
     }
 }

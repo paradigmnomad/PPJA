@@ -1,9 +1,9 @@
 {
     "Name": "Alpaca Meat",
     "Description": "A cut of meat from an alpaca.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
-    "Price": 75,
+    "Price": 135,
     "IsColored": false,
     "GiftTastes":
     {
@@ -14,30 +14,31 @@
 
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Carne de alpaca",
+        "ko": "알파카 고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande d'alpaga",
+        "hu": "Alpaka hús",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Carne de Alpaca",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "羊驼肉",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Un corte de carne de una alpaca.",
+        "ko": "알파카의 고기.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une pièce de viande d'un alpaga.",
+        "hu": "Egy alpaka húsának darabja.",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+         "pt": "Um corte de carne de uma alpaca.",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
-    }
+         "zh": "从羊驼身上切下来的肉。",
+    },
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

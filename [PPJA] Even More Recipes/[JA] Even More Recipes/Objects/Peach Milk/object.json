@@ -18,13 +18,12 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 100,
-    "PurchaseRequirements": null,
-    "NameLocalization":
+        "NameLocalization":
     {
         "es": "Leche de melocotón",
         "ko": "복숭아 우유",
         "de": "Pfirsichmilch",
-        // "fr": "",
+        "fr": "Lait aux pêches",
         // "hu": "",
         // "it": "",
         "ja": "ピーチミルク缶",
@@ -38,13 +37,13 @@
         "es": "¡Leche, pero con sabor a melocotón fresco!",
         "ko": "우유지만 신선한 복숭아 맛이나요!",
         "de": "Milch, aber sie schmeckt wie ein frischer Pfirsich!",
-        // "fr": "",
+        "fr": "Du lait, mais il a le goût de pêches fraîches !",
         // "hu": "",
         // "it": "",
        "ja": "ミルクなのに、新鮮なモモの味がする！",
         "pt": "Leite, mas tem gosto de pêssego fresco!",
         // "ru": "",
         // "tr": "",
-        "zh": "桃味牛奶。它的味道尝起来像新鲜的桃子！",
+        "zh": "它的味道尝起来像新鲜的桃子！",
     }
 }

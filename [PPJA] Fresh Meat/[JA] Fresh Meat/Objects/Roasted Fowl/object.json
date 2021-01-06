@@ -20,38 +20,36 @@
         {
             "Object": 648,
             "Count": 1,
-        },
-        ],
+        }, ],
     },
     "PurchasePrice": 200,
-    "PurchaseRequirements": null,
-
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Ave asada",
+        "ko": "구운 새고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Volaille rôtie",
+        "hu": "Vadmadár pecsenye",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "烤飞禽",
+        "zh": "烤飞禽",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Aves de caza marinadas asadas al horno y acompañadas de arroz y repollo.",
+        "ko": "양념하여 오븐에 구운 새고기에 밥과 양배추 샐러드를 곁들였다.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Marinade de gibier de volaille rôti au four et servi avec du riz et du chou cru.",
+        "hu": "Marinált vadmadár hús rizzsel és káposztasalátával tálalva.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "腌制好的飞禽送入烤箱烤制，配合米饭和卷心菜沙拉食用。",
-    }
+        "zh": "腌制好的飞禽送入烤箱烤制，配合米饭和卷心菜沙拉食用。",
+    },
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

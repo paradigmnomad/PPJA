@@ -1,0 +1,65 @@
+{
+    "Name": "Oyster Sauce",
+    "Description": "A simple sauce made with the liquid from oysters.",
+    "Category": "Cooking",
+    "Edibility": 5,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 320,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Krobus", "Willy"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Wizard"],
+        "Dislike": ["Haley", "Jas", "Sam", "Vincent"],
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Soy Sauce",
+            "Count": 1,
+        },
+        {
+            "Object": 723,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 1,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Willy",
+        "PurchasePrice": 450,
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DisableWithMod": "SSaturn.TropicalFarm"
+}

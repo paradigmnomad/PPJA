@@ -31,14 +31,14 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2760,
-        "PurchaseRequirements": ["z spring fall winter", ],
+        "PurchaseRequirements": ["HasCookingRecipe Graham-Crackers", "z spring fall winter", "y 4"],
     },
     "NameLocalization":
     {
         "es": "Tarta de limón",
         "ko": "레몬 파이",
         "de": "Zitronenkuchen",
-         // "fr": "",
+        "fr": "Tarte au citron",
          // "hu": "",
          // "it": "",
         "ja": "レモンパイ",
@@ -52,13 +52,13 @@
         "es": "Pastel de limón en picnics, son la forma de disfrutar de su verano.",
         "ko": "레몬 파이와 피크닉은 여름을 즐기는 좋은 방법입니다.",
         "de": "Zitronenkuchen und Picknicks sind der richtige Weg, um den Sommer zu genießen.",
-         // "fr": "",
+        "fr": "Une tarte au citron à un pique-nique est un moyen de profiter de l'été.",
          // "hu": "",
          // "it": "",
         "ja": "レモンパイとピクニックは、夏を楽しむ方法です。",
         "pt": "Torta de limão siciliano e piqueniques são a melhor maneira de aproveitar o seu verão.",
          // "ru": "",
          // "tr": "",
-        "zh": "柠檬派。野餐里有柠檬派是享受夏天的最好方式之一。",
+        "zh": "野餐里有柠檬派是享受夏天的最好方式之一。",
     }
 }

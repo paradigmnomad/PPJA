@@ -1,0 +1,73 @@
+{
+    "Name": "Handbattered Ebi Tempura",
+    "Description": "Succulent shrimp, lightly coated in batter and fried. Served with soy sauce.",
+    "Category": "Cooking",
+    "Edibility": 15,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 775,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 720,
+            "Count": 1,
+        },
+        {
+            "Object": 246,
+            "Count": 1,
+        },
+        {
+            "Object": "Batter",
+            "Count": 1,
+        },
+        {
+            "Object": 829,
+            "Count": 1,
+        },
+        {
+            "Object": "Soy Sauce",
+            "Count": 1,
+        }, ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1775,
+        "PurchaseRequirements": ["HasCookingRecipe Batter", "n willyHours", "y 3"],
+    },
+    "GiftTastes":
+    {
+        "Neutral": ["Demetrius", "Elliott", "Linus", "Pam", "Sebastian", "Willy"],
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Emily", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
+        "Hate": ["Evelyn", "Haley", "Pierre"]
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "새우 튀김",
+        // "de": "",
+        "fr": "Crevettes panées",
+        "hu": "Ebi Tempura",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "日式炸虾天妇罗",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "즙이 많은 새우에 반죽을 살짝 입혀서 튀긴 후, 간장과 함께 제공됩니다.",
+        // "de": "",
+        "fr": "Crevette succulente, légèrement enrobée de panure et frite. Servie avec une sauce de soja.",
+        "hu": "Zamatos, tésztával enyhén bevonatolt garnélarák. Szójaszósszal tálalják.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        "zh": "多汁的虾仁挂上少许面糊下锅油炸捞出，品尝它时酱油必不可少。",
+    }
+}

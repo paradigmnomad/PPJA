@@ -33,14 +33,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2520,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Pastel de fresa rosa",
         "ko": "핑크 딸기 케이크",
         "de": "Rosa Erdbeerkuchen",
-         // "fr": "",
+        "fr": "Gâteau rose à la fraise",
          // "hu": "",
          // "it": "",
         "ja": "ピンクストロベリーケーキ",
@@ -54,13 +53,13 @@
         "es": "¡Sabroso!",
         "ko": "맛있어요!",
         "de": "Lecker!",
-         // "fr": "",
+        "fr": "Appétissant !",
          // "hu": "",
          // "it": "",
         "ja": "うまい！",
         "pt": "Delicioso!",
          // "ru": "",
          // "tr": "",
-        "zh": "粉色草莓蛋糕。好吃！",
+        "zh": "好吃！",
     }
 }

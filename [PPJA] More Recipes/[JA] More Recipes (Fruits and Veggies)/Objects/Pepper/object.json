@@ -10,8 +10,7 @@
     "CanPurchase": true,
     "PurchaseFrom": "Pierre",
     "PurchasePrice": 150,
-    "PurchaseRequirements": null,
-    "GiftTastes":
+        "GiftTastes":
     {
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
@@ -21,7 +20,7 @@
         "es": "Pimienta",
         "ko": "후추",
         "de": "Pfeffer",
-         // "fr": "",
+        "fr": "Piment",
          // "hu": "",
          // "it": "",
         "ja": "コショウ",
@@ -35,7 +34,7 @@
         "es": "Te hará estornudar.",
         "ko": "재채기를 유발시켜요.",
         "de": "Er wird dich zum Niesen bringen.",
-         // "fr": "",
+        "fr": "Ça va vous faire pleurer.",
          // "hu": "",
          // "it": "",
         "ja": "くしゃみが出ます。",

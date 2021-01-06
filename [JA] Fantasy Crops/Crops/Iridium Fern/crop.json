@@ -15,7 +15,7 @@
         "MinimumPerHarvest": 2,
         "MaximumPerHarvest": 3,
         "MaxIncreasePerFarmLevel": 5,
-        "ExtraChance": 0.2,
+        "ExtraChance": 0.2
     },
 "SeedPurchaseFrom": "Krobus",
   "SeedPurchasePrice": 400,
@@ -25,25 +25,25 @@
     "ko": "이리듐 씨앗",
     "de": "Iridium Samen",
     "fr": "Graines d'Iridium",
-    "hu": "Iridium magok",
+    "hu": "Iridium magvak",
     "it": "Semi Di Iridio",
     "ja": "イリジウムの種",
     "pt": "Sementes de Irídio",
     "ru": "Семена иридия",
     "tr": "İridyum Tohumları",
-    "zh": "铱矿种子",
+    "zh": "铱矿种子"
     },
 "SeedDescriptionLocalization": { 
     "es": "Plantalas en invierno. Toma 24 dias para madurar.",
     "ko": "겨울 작물. 성장하려면 24일이 소요됩니다.",
     "de": "Pflanzen Sie diese im Winter. Die Reifezeit beträgt 24 Tage.",
-    "fr": "Plantez-les en hiver. Prend 24 jours pour mûrir.",
-    "hu": "Ültesse ezeket télen. 24 napig tart.",
+    "fr": "À planter en hiver. Prend 24 jours pour produire de l'iridium.",
+    "hu": "Ezeket télen ültesse el. 24 napig tart megérniük.",
     "it": "Piantali in inverno. Ci vogliono 24 giorni per maturare.",
     "ja": "冬にこれらを植えます。 成熟するには24日かかります。",
     "pt": "Plante-as no inverno. Leva 24 dias para amadurecer.",
-    "ru": "Сажайте зимой. Вырастает через 24 дня.",
+    "ru": "Высаживайте их зимой. Созревание занимает 24 дня.",
     "tr": "Bunları kışın dikin. Olgunlaşması 24 gün sürer.",
-    "zh": "冬天播种。24天成熟。",
+    "zh": "冬天播种。24天成熟。"
     }
 }

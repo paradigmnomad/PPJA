@@ -25,14 +25,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1250,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Algodón de azúcar",
         "ko": "솜사탕",
         "de": "Zuckerwatte",
-         // "fr": "",
+        "fr": "Barbe à papa",
          // "hu": "",
          // "it": "",
         "ja": "わたあめ",
@@ -46,13 +45,13 @@
         "es": "Es azúcar hilado.",
         "ko": "보드라운 솜사탕.",
         "de": "Feine Zuckerfäden zu etwas Leckerem verwoben.",
-         // "fr": "",
+        "fr": "C'est du sucre filé.",
          // "hu": "",
          // "it": "",
         "ja": "糸状にした砂糖を紡いだもの。",
         "pt": "É tecido com açúcar.",
          // "ru": "",
          // "tr": "",
-        "zh": "棉花糖。这种糖像丝一样。",
+        "zh": "这种糖像丝一样。",
     }
 }

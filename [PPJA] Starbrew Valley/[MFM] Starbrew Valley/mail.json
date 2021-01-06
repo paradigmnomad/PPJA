@@ -154,20 +154,6 @@
 		],
 	},
 	{
-		"Id": "ppja.pinacoladarecipe",
-		"GroupID": "StarbrewValley.CookingRecipe",
-		"Title": "pinacolada.title",
-		"Text": "pinacolada.text",
-		"Recipe": "Pina Colada",
-		"LetterBG": "NicteLetterBackground.png",
-		"Date": "1 spring Y1",
-		"Repeatable": false,
-		"FriendshipConditions":
-		[
-			{ "NpcName": "Emily", "FriendshipLevel": 4 }
-		],
-	},
-	{
 		"Id": "ppja.planterspunchrecipe",
 		"GroupID": "StarbrewValley.CookingRecipe",
 		"Title": "planterspunch.title",
@@ -180,6 +166,7 @@
 		[
 			{ "NpcName": "Lewis", "FriendshipLevel": 10 }
 		],
+		"MailReceived": ["willyHours"]
 	},
 	{
 		"Id": "ppja.seabreezerecipe",

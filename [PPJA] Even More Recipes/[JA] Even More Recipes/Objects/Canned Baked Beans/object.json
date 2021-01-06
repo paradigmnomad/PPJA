@@ -27,14 +27,13 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2775,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Frijoles enlatados horneados",
         "ko": "구운 콩 통조림",
         "de": "Gebackene Bohnen aus der Dose",
-         // "fr": "",
+        "fr": "Conserve de fèves au lard",
          // "hu": "",
          // "it": "",
         "ja": "豆の缶詰",
@@ -48,13 +47,13 @@
         "es": "Frijoles ligeramente dulces.",
         "ko": "단맛이 나는 살짝 익힌 콩.",
         "de": "Herzhaft gebackene Bohnen um leicht süß zu schmecken.",
-         // "fr": "",
+        "fr": "Harciots blancs copieux cuisinés pour être légérement sucrés.",
          // "hu": "",
          // "it": "",
         "ja": "ほんのり甘めに調理されたボリュームたっぷりの豆。",
         "pt": "Um feijão saudável cozido feito para ser levemente doce.",
          // "ru": "",
          // "tr": "",
-        "zh": "罐装烤菜豆。这罐烤菜豆的口味偏甜。",
+        "zh": "这罐烤菜豆的口味偏甜。",
     }
 }

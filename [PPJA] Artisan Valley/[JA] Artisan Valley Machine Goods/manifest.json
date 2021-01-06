@@ -1,34 +1,34 @@
 {
-   "Name": "Artisan Valley Machine Goods",
-   "Author": "Project Populate JsonAssets",
-   "Description": "Adds new items to the game via PFM machines. Requires PFM and JA to work properly.",
-   "Version": "3.0.13",
-   "MinimumApiVersion": "3.3.2",
-   "UniqueID": "ppja.artisanvalleymachinegoods",
-   "ContentPackFor": {
-       "UniqueID": "spacechase0.JsonAssets"
+    "Name": "Artisan Valley Machine Goods",
+    "Author": "Project Populate JsonAssets",
+    "Description": "Adds new items to the game via PFM machines. Requires PFM and JA to work properly.",
+    "Version": "3.0.20",
+    "MinimumApiVersion": "3.7.0",
+    "UniqueID": "ppja.artisanvalleymachinegoods",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
     },
-   "Dependencies": [
-   {
-      "UniqueID": "ppja.fruitsandveggies",
-      "IsRequired": true,
-   },
-   {
-      "UniqueID": "ppja.moretrees",
-      "IsRequired": true,
-   },
-   {
-      "UniqueID": "mizu.flowers",
-      "IsRequired": true,
-   },
-   {
-      "UniqueID": "paradigmnomad.morefood",
-      "IsRequired": true,
-   },
- {
-      "UniqueID": "DIGUS.ProducerFrameworkMod",
-      "IsRequired": true,
-   },
-],
-"UpdateKeys": [ "Nexus:1926" ],
+    "Dependencies": [
+    {
+        "UniqueID": "ppja.fruitsandveggies",
+        "IsRequired": true,
+    },
+    {
+        "UniqueID": "ppja.moretrees",
+        "IsRequired": true,
+    },
+    {
+        "UniqueID": "mizu.flowers",
+        "IsRequired": true,
+    },
+    {
+        "UniqueID": "paradigmnomad.morefood",
+        "IsRequired": true,
+    },
+    {
+        "UniqueID": "DIGUS.ProducerFrameworkMod",
+        "IsRequired": true,
+    }, ],
+    "UpdateKeys": ["Nexus:1926"],
 }

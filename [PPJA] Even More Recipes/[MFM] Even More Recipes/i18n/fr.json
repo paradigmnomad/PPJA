@@ -1,0 +1,29 @@
+{
+    // Text
+
+    "amethystcookie.text": "Hey @ !^^  C'est décidément la meilleure idée que j'ai jamais eu ! Je sais que tu seras en mesure de l'apprécier.^Oui, tu lis correctement la liste des ingrédients. J'en ai fait une fournée un peu plus tôt dans la semaine et je n'arrête pas d'en grignoter depuis.^On peut parfaitement les manger sans danger ! En tout cas, ils l'ont été pour moi.^^  -Abigail",
+    "bananaandstrawberrycake.text": "Cher @,^^  Mme. Penny nous fait écrire des lettres à l'école pour nos amis adultes, et je t'ai choisi.^C'est ma recette pour mon délicieux gâteau banane-fraise ! Il a le goût du gâteau rose mais en plus sucré ! J'aime bien le faire avec tata Marnie, qui m'a appris comment faire. Vas-y, régale-toi !^^ -Jas",
+    "chocolatemousebread.text": "Cher @,^^ Je voulais te faire découvrir une petite recette sympa que j'ai choisi d'un des livres de cuisine de la bibliothèque. C'est comme un projet d'art que tu peux manger, et c'est une des choses les plus amusantes que j'ai fait dans la cuisine. Le mieux c'est que même une empotée comme moi peut le faire !^^ -Penny",
+    "chocolatestrawberrycake.text": "Cher @,^^Je suis en train d'apprendre comment cuire dans la cuisine tout seul. C'est un truc que j'ai fait à la maison. Tu veux le faire toi aussi ? Le gâteau chocolat-fraise... Mmmmmmh !^^  -Jas",
+    "bananachocolatecrepe.text": "Cher @,^^ Rien de plus satisfaisant que de cuisiner avec les produits frais de ton propre jardin ! J'ai cuisiné à la maison pendant 20 ans et mon conseil est de toujours choisir les plats les plus sains à chaque repas.^Je plaisante ! Il n'y a rien de sain dans cette recette que je t'envoie.^Essaie-la pour te régaler pendant un petit déjeuner !^^ -Caroline",
+    "deviledeggs.text": "Cher @,^^J'ai réussi à avoir la recette des œufs mimosa de Gus dans la dernière Fête des Œufs. Tu sais, ceux que la moitié de la ville adore se remplir le ventre avec chaque année ? Gus m'a dit qu'il était d'accord tant que sa recette ne faisait pas le tour de la ville entière, mais tu sais garder un secret, pas vrai ?^^  -Pierre",
+    "icedchocolatedonut.text": "Salut @ !^^ Maman à fais cette ressette ya lontant et s'est tros booooooooooooon !! Mais elle veux pas que j'ai tro de sucre. Tu peut en fére 1 a la place est me l'apporté ?^Elle a une regle c que tu peut pas dire non a quelkun ki te donne 1 kdo, donc sa devré marché. Croi moi, c super boooooon. Je pense que tu aimera toi aussi !^^  -Vincent",
+    "keylimepie.text": "Cher @,^^ J'étais en train de feuilleter quelques vieilles recettes et j'ai trouvé celle-ci, que votre propre grand-père m'avait donnée. Vous en a-t-il jamais préparé lorsque vous étiez plus jeune ?^C'est plutôt incroyable de penser à la manière dont les choses sont un cycle sans fin. Bon, peut-être pouvez-vous en préparer, ou peut-être aimerez-vous simplement voir son écriture.^Bonne chance, @ !^^  -Lewis",
+    "seaweedchips.text": "Cher @,^^  Est-ce qu'il t'arrive de pêcher des algues en trop ? Si c'est le cas, assure-toi de ne pas les gaspiller. Voici une recette de mon papy pour un savoureux petit en-cas.^^  -Willy",
+    "strawberrypudding.text": "Cher @,^^ Salut ! J'espère que tu vas bien.^Est-ce que tu fais pousser des fraises dans ta ferme ? J'allais faire ça avec tata Marnie, mais j'ai pensé que ce serait encore mieux avec des fraises fraîches de ta ferme.^Bref, bonne journée !^^  -Jas",
+    "tofu.text": "Hey @,^^ Est-ce que tu aimes manger des germes de soja fermentées ? Ahah, Je voulais dire du tofu, bien sûr. J'en ai fait une fournée et j'ai surveillé la fermentation sous un microscope. C'est un truc très intéressant, cuisiner avec la biologie plutôt que la chimie. Sans mentionner que c'est encore plus délicieux que ce que tu pourrais imaginer ! Peut-être que tu essayeras si tu es en plein dans un style de vie avec du fait maison.^^  -Maru",
+
+    // Titles
+
+    "amethystcookie.title": "Recette du biscuit à l'améthyste",
+    "bananaandstrawberrycake.title": "Recette du gâteau banane-fraise",
+    "chocolatemousebread.title": "Recette du pain au chocolat en forme de souris",
+    "chocolatestrawberrycake.title": "Recette du gâteau chocolat-fraise",
+    "bananachocolatecrepe.title": "Recette de la crêpe au chocolat et à la banane",
+    "deviledeggs.title": "Recette des œufs mimosa",
+    "icedchocolatedonut.title": "Recette du beignet glacé au chocolat",
+    "keylimepie.title": "Recette de la tarte au citron vert",
+    "seaweedchips.title": "Recette des frites d'algues",
+    "strawberrypudding.title": "Recette du pudding à la fraise",
+    "tofu.title": "Recette du tofu"
+}

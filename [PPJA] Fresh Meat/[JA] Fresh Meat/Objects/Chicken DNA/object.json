@@ -3,7 +3,7 @@
     "Description": "Some chicken DNA extracted from an egg.",
     "Category": "AnimalGoods",
     "Edibility": -300,
-    "Price": 85,
+    "Price": 10,
     "IsColored": false,
     "GiftTastes":
     {
@@ -14,30 +14,33 @@
     "Recipe": null,
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "ADN de pollo",
+        "ko": "닭 DNA",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "ADN de poulet",
+        "hu": "Csirke DNS",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "鸡类DNA",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Un poco de ADN de pollo, extraído de un huevo.",
+        "ko": "달걀에서 추출한 닭 DNA.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "De l'ADN de poulet, extrait d'un œuf.",
+        "hu": "Egy csirke DNS-e egy tojásból nyerve.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "从鸡蛋中提取的一些鸡类DNA。",
     },
+    "ContextTags": [
+        "dna_item",
+    ],
 }

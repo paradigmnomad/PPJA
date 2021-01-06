@@ -1,50 +1,52 @@
 {
-  "Name": "Potted Dahlia",
-  "Description": "A dahlia potted in a little wooden pot. Remember to water it!",
-  "Price": 1,
-  "ProvidesLight": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-		  "Object": "Dahlia",
-		  "Count": 1,
-      },
-      {
-		  "Object": 388,
-		  "Count": 10,
-      },
-	  {
-		  "Object": 330,
-		  "Count": 10,
-	  },
-    ],
-	"CanPurchase": false,
-  },
-  "NameLocalization": { 
-    "es": "Dalia en maceta",
-    "ko": "실내 화초 달리아",
-    "de": "Topf Dahlie",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",
-     //"ja": "",
-    "pt": "Vaso de Dália",
-    "ru": "Георгин в горшке",
-     //"tr": "",
-    "zh": "大丽花盆栽",
-     },
- "DescriptionLocalization": { 
-    "es": "Una dalia en una pequeña maceta de madera. ¡Recuerda regarla!",
-    "ko": "작은 나무 화분에 심겨진 달리아 입니다. 물 주는거 잊지마세요!",
-    "de": "Eine Dahlie in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-     //"fr": "",
-     //"hu": "",
-     //"it": "",
-     //"ja": "",
-    "pt": "Uma dália em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
-    "ru": "Георгин в маленьком деревянном горшочке. Не забывайте поливать!",
-     //"tr": "",
-    "zh": "一个小木盆里的大丽花。记得给它浇水！",
+    "Name": "Potted Dahlia",
+    "Description": "A dahlia potted in a little wooden pot. Remember to water it!",
+    "Price": 1,
+    "ProvidesLight": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Dahlia",
+            "Count": 1,
+        },
+        {
+            "Object": 388,
+            "Count": 10,
+        },
+        {
+            "Object": 330,
+            "Count": 10,
+        }, ],
+        "CanPurchase": false,
+    },
+    "NameLocalization":
+    {
+        "es": "Dalia en maceta",
+        "ko": "실내 화초 달리아",
+        "de": "Topf Dahlie",
+        //"fr": "",
+        "hu": "Cserepes Dália",
+        //"it": "",
+        "ja": "ダリアの鉢植え",
+        "pt": "Vaso de Dália",
+        "ru": "Георгин в горшке",
+        //"tr": "",
+        "zh": "大丽花盆栽",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una dalia en una pequeña maceta de madera. ¡Recuerda regarla!",
+        "ko": "작은 나무 화분에 심겨진 달리아 입니다. 물 주는거 잊지마세요!",
+        "de": "Eine Dahlie in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+        //"fr": "",
+        "hu": "Egy dália cserépben. Ne felejtsd el megöntözni!",
+        //"it": "",
+        "ja": "ダリアが植えられた木製の小さな鉢。水やりを忘れずに。",
+        "pt": "Uma dália em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
+        "ru": "Георгин в маленьком деревянном горшочке. Не забывайте поливать!",
+        //"tr": "",
+        "zh": "一个小木盆里的大丽花。记得给它浇水！",
     }
 }

@@ -2,6 +2,8 @@
     "Name": "Chamomile",
     "Description": "White daisy like flowers with a scent reminiscent of apples or pineapple.",
     "Category": "Flower",
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 18,
     "Price": 45,
     "IsColored": false,
@@ -16,8 +18,8 @@
         "es": "Manzanilla",
         "ko": "캐모마일",
         "de": "Kamille",
-        "fr": "Chamomile",
-         // "hu": "",
+        "fr": "Camomille",
+        "hu": "Kamilla",
          // "it": "",
         "ja": "カモミール",
         "pt": "Camomila",
@@ -30,8 +32,8 @@
         "es": "Margarita blanca como flores con un aroma que recuerda a las manzanas o la piña.",
         "ko": "사과나 파인애플을 연상시키는 향기가 나는 꽃처럼 하얀 데이지.",
         "de": "Kleine, dem Gänseblümchen ähnliche Blumen mit einem Geruch nach Apfel und Ananas.",
-        "fr": "Marguerite blanche comme des fleurs avec un parfum qui rappelle les pommes ou l'ananas.",
-         // "hu": "",
+        "fr": "Fleur ressemblant à une Marguerite blanche avec un parfum qui rappelle les pommes ou l'ananas.",
+        "hu": "A fehér százszorszéphez hasonlító virág, az illata az almára és az ananászra hasonlít.",
          // "it": "",
         "ja": "リンゴやパインを思わせる香りのする白い花。",
         "pt": "Uma espécie de margarida branca com um perfume que lembra macas e abacaxis.",
@@ -42,6 +44,6 @@
     "ContextTags": [
         "season_spring",
         "color_whitre",
-        "flower_item",
+        "herb_item",
     ]
 }

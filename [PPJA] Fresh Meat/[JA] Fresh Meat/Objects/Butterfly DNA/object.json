@@ -1,0 +1,47 @@
+{
+    "Name": "Butterfly DNA",
+    "Description": "Some butterly DNA from scanning butterflies with the DNA Sythesizer.",
+    "Category": "AnimalGoods",
+    "Edibility": -300,
+    "Price": 10,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "ADN de mariposa",
+        "ko": "나비 DNA",
+        // "de": "",
+        "fr": "ADN de papillon",
+        "hu": "Lepke DNS",
+        // "it": "",
+        // "ja": "",
+         "pt": "DNA da borboleta",
+        // "ru": "",
+        // "tr": "",
+         "zh": "蝴蝶DNA",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "",
+        "ko": "나비에게서 추출한 DNA.",
+        // "de": "Un poco de ADN de mariposa escaneado con el sintetizador de ADN.",
+        "fr": "De l'ADN de papillon isolé en scannant des papillons avec le synthétiseur d'ADN.",
+        "hu": "Egy lepke DNS-e, amit a DNS szintetizátorral nyertek.",
+        // "it": "",
+        // "ja": "",
+         "pt": "Algum DNA de borboleta scaneado com o DNA Sintetizador.",
+        // "ru": "",
+        // "tr": "",
+         "zh": "这是用DNA离析机扫描蝴蝶后得到的DNA。",
+    },
+    "ContextTags": [
+        "dna_item",
+    ],
+    "EnableWithMod": "spacechase0.BugNet",
+}

@@ -26,15 +26,14 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 500,
-        "PurchaseRequirements": null,
-    },
+            },
     "NameLocalization":
     {
         "es": "Bizcocho",
         "ko": "파운드 케이크",
         "de": "Pfund-Kuchen",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Quatre-quarts",
+        "hu": "Egyensúlysütemény",
          // "it": "",
         "ja": "パウンドケーキ",
         "pt": "Bolo de Libra",
@@ -45,10 +44,10 @@
     "DescriptionLocalization":
     {
         "es": "Una rica rebanada de pastel mantecosa. Queda muy bien con café.",
-        "ko": "풍부하고 버터 같은 케이크 조각. 커피와 잘 어울립니다.",
+        "ko": "버터의 맛이 들어간 케이크 조각. 커피와 잘 어울립니다.",
         "de": "Ein gehaltvolles, buttriges Stück Kuchen. Passt hervorragend zum Kaffee.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Une tranche de gâteau riche et beurrée. Accompagne très bien le café.",
+        "hu": "Egy gazdag, vajas tortaszelet. Jól megy hozzá a kávé.",
          // "it": "",
         "ja": "濃厚でバターのようなケーキ。コーヒーと相性がいい。",
         "pt": "Uma rica fatia de bolo amanteigado, que casa muito bem com café.",

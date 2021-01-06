@@ -24,8 +24,7 @@
   "CanPurchase": true,
   "PurchaseFrom": "Gus",
   "PurchasePrice": 400,
-  "PurchaseRequirements": null,
-    "GiftTastes":
+      "GiftTastes":
     {
         "Love": ["Pam", "Shane", "Gus", "Robin"],
         "Like": ["Caroline", "Jodi", "Lewis", "Pierre", "Leah"],
@@ -36,31 +35,31 @@
 
     "NameLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Framboise Lambic",
+        "ko": "프랑부아즈 람빅",
         //"de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Lambic Framboise",
+        "hu": "Framboise Lambic",
         // "it": "",
         "ja": "フランボワーズランビック",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "树莓兰比克啤酒",
     },
     "DescriptionLocalization":
     {
-        //"es": "",
-        //"ko": "",
+        "es": "Una cerveza elaborada con frambuesas.",
+        "ko": "라즈베리로 만든 맥주.",
         //"de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Une bière brassée avec des framboises.",
+        "hu": "Egy sör málnával főzve.",
         // "it": "",
         "ja": "ラズベリーを使って醸造したビール。",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        //"zh": "",
+        "zh": "用树莓酿造的啤酒。",
     }
 
 }

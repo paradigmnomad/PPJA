@@ -22,8 +22,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1425,
-        "PurchaseRequirements": null,
-    },
+            },
     "GiftTastes":
     {
         "Love": ["Elliott", "Jas"],
@@ -37,7 +36,7 @@
         "es": "Té de jazmín",
         "ko": "자스민 티",
         "de": "Jasmintee",
-         // "fr": "",
+        "fr": "Thé au jasmin",
          // "hu": "",
          // "it": "",
         "ja": "ジャスミンティー",
@@ -51,7 +50,7 @@
         "es": "Un té exótico hecho con pétalos de jazmín.",
         "ko": "자스민 꽃잎으로 만든 이국적인 차.",
         "de": "Ein exotischer Tee aus Jasminblättern.",
-         // "fr": "",
+        "fr": "Un thé exotique à base de pétales de jasmin.",
          // "hu": "",
          // "it": "",
         "ja": "ジャスミンの花びらでいれるエキゾチックなお茶。",

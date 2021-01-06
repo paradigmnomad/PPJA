@@ -41,9 +41,9 @@
     "NameLocalization":
     {
         "es": "Té de diente de león",
-        "ko": "민들레 티",
+        "ko": "민들레 차",
         "de": "Löwenzahntee",
-         // "fr": "",
+        "fr": "Thé au pissenlit",
          // "hu": "",
          // "it": "",
         "ja": "タンポポ茶",
@@ -57,7 +57,7 @@
         "es": "¿Quién diría que una hierba podría saber tan bien?",
         "ko": "들꽃이 이렇게 맛이 좋단 걸 누가 알았을까요?",
         "de": "Wer wusste, dass Unkraut so gut schmecken könnte?",
-         // "fr": "",
+        "fr": "Qui aurait cru qu'une herbe aurait si bon goût ?",
          // "hu": "",
          // "it": "",
         "ja": "雑草がこんなにおいしくなるなんて知ってた？",

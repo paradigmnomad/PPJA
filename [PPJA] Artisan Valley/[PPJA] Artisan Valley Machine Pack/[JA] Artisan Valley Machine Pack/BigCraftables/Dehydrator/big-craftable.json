@@ -22,11 +22,11 @@
     },
     "NameLocalization":
     {
-        // "es": "",
+        "es": "Desidratador",
         "ko": "과일 건조기",
         "de": "Dörrgerät",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Déshydrateur",
+        "hu": "Aszaló",
         // "it": "",
         "ja": "脱水乾燥器",
         "pt": "Desidratador",
@@ -36,11 +36,11 @@
     },
     "DescriptionLocalization":
     {
-        // "es": "",
+        "es": "Ponga fruta aquí para secarlos para más tarde.",
         "ko": "과일을 넣어서 건조시킬 수 있습니다.",
         "de": "Trocknet Früchte.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Mettez-y les fruits dedans afin de les déshydrater pour plus tard.",
+        "hu": "Tegyél bele gyümölcsöt, hogy kiszárítsd későbbre.",
         // "it": "",
         "ja": "くだものを入れてじっくりと乾燥させる。",
         "pt": "Coloque frutas aqui para desidratá-las para mais tarde.",

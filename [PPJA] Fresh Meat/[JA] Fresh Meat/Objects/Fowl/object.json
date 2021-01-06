@@ -1,7 +1,7 @@
 {
     "Name": "Fowl",
     "Description": "Meat from a wild bird.",
-    "Category": "AnimalGoods",
+    "Category": "Meat",
     "Edibility": -300,
     "Price": 75,
     "IsColored": false,
@@ -14,30 +14,31 @@
 
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Ave",
+        "ko": "새고기",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Volaille",
+        "hu": "Vadmadár hús",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
+         "zh": "飞禽肉",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Carne de un ave salvaje.",
+        "ko": "야생 새의 고기.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Viande d'un oiseau sauvage.",
+        "hu": "Egy vadmadár húsa.",
         // "it": "",
         // "ja": "",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        // "zh": "",
-    }
+         "zh": "野生飞禽的肉。",
+    },    
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

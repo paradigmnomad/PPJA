@@ -23,11 +23,11 @@
 
     "SeedNameLocalization":
     {
-         // "es": "",
+         "es": "Semillas de avena",
         "ko": "귀리 씨앗",
         "de": "Hafer-Saat",
-         // "fr": "",
-         // "hu": "",
+        "fr": "Graines d'avoine",
+        "hu": "Zab magvak",
          // "it": "",
         "ja": "カラスムギのタネ",
         "pt": "Sementes de Aveia",
@@ -37,11 +37,11 @@
     },
     "SeedDescriptionLocalization":
     {
-         // "es": "",
+        "es": "Plántalas en otoño. Tardan 4 días en madurar.",
         "ko": "가을 작물. 성장하려면 4일이 소요됩니다.",
         "de": "Pflanze sie im Herbst. Wächst in 4 Tagen heran.",
-         // "fr": "",
-         // "hu": "",
+        "fr": "À planter en automne. Prend 4 jours pour arriver à maturité.",
+        "hu": "Ezeket ősszel ültesd el. 4 napig tart megérniük.",
          // "it": "",
         "ja": "秋植えの作物。そだつのに4日かかる。",
         "pt": "Plante-as no outono. Leva 4 dias para amadurecer.",

@@ -5,7 +5,7 @@
     "Edibility": 5,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 235,
+    "Price": 275,
     "IsColored": false,
     "Recipe":
     {
@@ -34,30 +34,31 @@
     "DisableWithMod": "Zosa.eatums",
     "NameLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "Masa",
+        "ko": "반죽",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Pâte crue",
+        "hu": "Tészta massza",
         // "it": "",
         "ja": "バッター液",
-        // "pt": "",
+         "pt": "Massa",
         // "ru": "",
         // "tr": "",
          "zh": "面糊",
     },
     "DescriptionLocalization":
     {
-        // "es": "",
-        // "ko": "",
+        "es": "El primer paso de un bonito pastel.",
+        "ko": "아름다운 페이스트리를 만드는 첫걸음.",
         // "de": "",
-        // "fr": "",
-        // "hu": "",
+        "fr": "La première étape d'une belle pâte.",
+        "hu": "A süteménykészítés alapja.",
         // "it": "",
         "ja": "上質なペストリーへの初めの一歩。",
-        // "pt": "",
+         "pt": "O primeiro passo para uma bela massa.",
         // "ru": "",
         // "tr": "",
          "zh": "制作精美糕点的第一步。",
-    }
+    },
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }
