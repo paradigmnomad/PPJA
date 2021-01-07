@@ -11,11 +11,11 @@
         {
             "Object": 335,
             "Count": 5,
-        },  
-	{
+        },
+        {
             "Object": 336,
             "Count": 5,
-        },      
+        },
         {
             "Object": 709,
             "Count": 5,
@@ -30,11 +30,11 @@
         "fr": "Sorbetière",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Máquina de Sorbet",
+        "ja": "シャーベットマシン",
+        "pt": "Máquina de Sorbet",
         // "ru": "",
         // "tr": "",
-         "zh": "冰沙搅拌机",
+        "zh": "冰沙搅拌机",
     },
     "DescriptionLocalization":
     {
@@ -44,10 +44,10 @@
         "fr": "Fabrique de délicieux sorbets faits maison avec des fruits frais.",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Faz deliciosos sorvetes artesanais de frutas frescas.",
+        "ja": "新鮮なくだものからおいしい手作りシャーベットをつくれる。",
+        "pt": "Faz deliciosos sorvetes artesanais de frutas frescas.",
         // "ru": "",
         // "tr": "",
-         "zh": "用新鲜水果自制美味的雪葩。",
+        "zh": "用新鲜水果自制美味的雪葩。",
     }
 }

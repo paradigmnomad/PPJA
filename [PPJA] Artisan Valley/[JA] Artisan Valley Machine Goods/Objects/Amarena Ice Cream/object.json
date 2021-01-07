@@ -20,11 +20,11 @@
         "fr": "Glace Amarena",
         "hu": "Amarena fagylalt",
         // "it": "",
-        // "ja": "",
+        "ja": "アマレーナアイスクリーム",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "阿玛蕾娜樱桃冰淇淋",
+        "zh": "阿玛蕾娜樱桃冰淇淋",
     },
     "DescriptionLocalization":
     {
@@ -34,10 +34,10 @@
         "fr": "Spécialité légèrement alcoolisée à l'arôme naturel de cerise.",
         "hu": "Egy enyhén alkoholos különlegesség valódi cseresznye aromával.",
         // "it": "",
-        // "ja": "",
+        "ja": "サクランボが材料のジェラート。かすかにお酒の風味がある。",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "散发天然樱桃芳香的冰淇淋，在香味中又蕴含一丝酒精的味道。",
+        "zh": "散发天然樱桃芳香的冰淇淋，在香味中又蕴含一丝酒精的味道。",
     }
 }

@@ -30,7 +30,7 @@
         "IsDefault": true,
     },
     "GiftTastes":
-    {   
+    {
         "Love": ["Evelyn"],
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
@@ -43,11 +43,11 @@
         "fr": "Biscuit lavande-citron",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "レモンとラベンダーのクッキー",
         "pt": "Biscoito de Lavanda de Limão",
         // "ru": "",
         // "tr": "",
-         "zh": "柠檬薰衣草饼干",
+        "zh": "柠檬薰衣草饼干",
     },
     "DescriptionLocalization":
     {
@@ -57,10 +57,10 @@
         "fr": "Un biscuit dur avec de la confiture lavande-citron en son centre saupoudré de sucre glace.",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Um biscoito duro com uma geleia de lavanda de limão no centro polvilhado com açúcar em pó.",
+        "ja": "中央にレモンとラベンダーのゼリーをあしらい粉砂糖のかかっているクッキー。",
+        "pt": "Um biscoito duro com uma geleia de lavanda de limão no centro polvilhado com açúcar em pó.",
         // "ru": "",
         // "tr": "",
-         "zh": "一种撒有糖粉、中间有柠檬薰衣草果冻的硬饼干。",
+        "zh": "一种撒有糖粉、中间有柠檬薰衣草果冻的硬饼干。",
     }
 }

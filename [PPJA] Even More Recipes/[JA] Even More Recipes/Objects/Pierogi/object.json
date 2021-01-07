@@ -39,6 +39,7 @@
         "PurchasePrice": 1480,
         "PurchaseRequirements": ["y 4"],
     },
+    "EnableWithMod": "ppja.evenmorerecipes",
     "NameLocalization":
     {
         // "es": "",
@@ -47,7 +48,7 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "ピエロギ",
         // "pt": "",
         // "ru": "",
         // "tr": "",
@@ -61,7 +62,7 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "具材を無発酵の生地で包んだ団子料理。具には香味や甘い具などを使う。",
         // "pt": "",
         // "ru": "",
         // "tr": "",

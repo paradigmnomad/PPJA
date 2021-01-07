@@ -46,11 +46,11 @@
         "fr": "Crème brûlée",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Creme Queimado",
+        "ja": "クレームブリュレ",
+        "pt": "Creme Queimado",
         // "ru": "",
         // "tr": "",
-         "zh": "法式焦糖布丁",
+        "zh": "法式焦糖布丁",
     },
     "DescriptionLocalization":
     {
@@ -60,10 +60,10 @@
         "fr": "Un classique indémodable.",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Um clássico atemporal.",
+        "ja": "時代を選ばない伝統。",
+        "pt": "Um clássico atemporal.",
         // "ru": "",
         // "tr": "",
-         "zh": "永恒的经典。",
+        "zh": "永恒的经典。",
     }
 }

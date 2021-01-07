@@ -47,11 +47,11 @@
         "fr": "Onigiri à l'umé",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Ume Onigiri",
+        "ja": "梅おにぎり",
+        "pt": "Ume Onigiri",
         // "ru": "",
         // "tr": "",
-         "zh": "梅子饭团",
+        "zh": "梅子饭团",
     },
     "DescriptionLocalization":
     {
@@ -61,10 +61,10 @@
         "fr": "Un plat japonais traditionnel avec de l'umé.",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Uma comida japonesa quintessencial.",
+        "ja": "日本でおなじみの食べ物。",
+        "pt": "Uma comida japonesa quintessencial.",
         // "ru": "",
         // "tr": "",
-         "zh": "典型的日本食物。",
+        "zh": "典型的日本食物。",
     },
 }

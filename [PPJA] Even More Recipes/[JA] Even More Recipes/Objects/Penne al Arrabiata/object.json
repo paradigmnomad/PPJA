@@ -46,11 +46,11 @@
         "fr": "Penne à l'arrabbiata",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Penne al Arrabiata",
+        "ja": "ペンネアラビアータ",
+        "pt": "Penne al Arrabiata",
         // "ru": "",
         // "tr": "",
-         "zh": "香辣茄酱直通粉",
+        "zh": "香辣茄酱直通粉",
     },
     "DescriptionLocalization":
     {
@@ -60,10 +60,10 @@
         "fr": "Un classique italien très épicé.",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Um clássico italiano muito picante.",
+        "ja": "とても辛いイタリアの伝統料理。",
+        "pt": "Um clássico italiano muito picante.",
         // "ru": "",
         // "tr": "",
-         "zh": "非常辣的意大利经典面食。",
+        "zh": "非常辣的意大利经典面食。",
     }
 }

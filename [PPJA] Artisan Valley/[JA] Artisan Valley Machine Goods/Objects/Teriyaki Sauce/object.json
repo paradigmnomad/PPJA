@@ -25,18 +25,18 @@
             "Object": "Ginger",
             "Count": 1,
         },
-{
+        {
             "Object": 340,
             "Count": 1,
         },
-{
+        {
             "Object": 248,
             "Count": 1,
-        },],
+        }, ],
         "CanPurchase": true,
         "PurchaseFrom": "Willy",
         "PurchasePrice": 450,
-            },
+    },
     "NameLocalization":
     {
         // "es": "",
@@ -45,7 +45,7 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "テリヤキソース",
         // "pt": "",
         // "ru": "",
         // "tr": "",
@@ -59,7 +59,7 @@
         // "fr": "",
         // "hu": "",
         // "it": "",
-        // "ja": "",
+        "ja": "このシンプルでいて最高のソースはあなたの料理を別次元のレベルに引き上げます！",
         // "pt": "",
         // "ru": "",
         // "tr": "",

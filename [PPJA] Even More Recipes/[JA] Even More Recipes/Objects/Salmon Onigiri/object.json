@@ -43,11 +43,11 @@
         "fr": "Onigiri au saumon",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Salmon Onigiri",
+        "ja": "しゃけのおにぎり",
+        "pt": "Salmon Onigiri",
         // "ru": "",
         // "tr": "",
-         "zh": "三文鱼饭团",
+        "zh": "三文鱼饭团",
     },
     "DescriptionLocalization":
     {
@@ -57,10 +57,10 @@
         "fr": "Un plat typiquement japonais.",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Uma comida japonesa quintessencial.",
+        "ja": "日本でおなじみの食べ物。",
+        "pt": "Uma comida japonesa quintessencial.",
         // "ru": "",
         // "tr": "",
-         "zh": "典型的日本风味食物。",
+        "zh": "典型的日本风味食物。",
     },
 }

@@ -31,7 +31,7 @@
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2000,
         "PurchaseRequirements": [
-            "y 2", 
+            "y 2",
             "z spring fall winter"
         ],
     },
@@ -49,11 +49,11 @@
         "fr": "Gâteau glacé à la fraise",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Bolo de Morango Gelado",
+        "ja": "ストロベリーアイスケーキ",
+        "pt": "Bolo de Morango Gelado",
         // "ru": "",
         // "tr": "",
-         "zh": "冰镇草莓蛋糕",
+        "zh": "冰镇草莓蛋糕",
     },
     "DescriptionLocalization":
     {
@@ -63,10 +63,10 @@
         "fr": "Ça a un goût si appétissant ! Il doit y avoir un tas de fraises dedans.",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Tem um gosto tão gostoso! Deve haver muitos morangos aqui.",
+        "ja": "とてもおいしい！イチゴがたっぷり。",
+        "pt": "Tem um gosto tão gostoso! Deve haver muitos morangos aqui.",
         // "ru": "",
         // "tr": "",
-         "zh": "它尝起来好好吃！这里面一定有很多草莓。",
+        "zh": "它尝起来好好吃！这里面一定有很多草莓。",
     },
 }

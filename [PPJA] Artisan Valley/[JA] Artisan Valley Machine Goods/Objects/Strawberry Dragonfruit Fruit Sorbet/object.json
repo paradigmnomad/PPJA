@@ -21,11 +21,11 @@
         "fr": "Sorbet au fruit du dragon et à la framboise",
         "hu": "Epres-sárkánygyümölcsös sörbet",
         // "it": "",
-        // "ja": "",
+        "ja": "イチゴとドラゴンフルーツのシャーベット",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "草莓火龙果果汁雪葩",
+        "zh": "草莓火龙果果汁雪葩",
     },
     "DescriptionLocalization":
     {
@@ -35,10 +35,10 @@
         "fr": "Un sorbet rafraîchissant fait à partir de framboises, fruit du dragon et citron.",
         "hu": "Egy frissítő gyümölcs sörbet eperből, sárkánygyümölcsből, és citrusból.",
         // "it": "",
-        // "ja": "",
+        "ja": "イチゴとドラゴンフルーツとかんきつ類を使った、さわやかなシャーベット。",
         // "pt": "",
         // "ru": "",
         // "tr": "",
-         "zh": "由草莓、火龙果和几种柑橘类水果制成的清爽雪葩。",
+        "zh": "由草莓、火龙果和几种柑橘类水果制成的清爽雪葩。",
     }
 }

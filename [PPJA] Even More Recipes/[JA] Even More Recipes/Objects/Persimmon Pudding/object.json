@@ -46,11 +46,11 @@
         "fr": "Pudding aux kakis",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Pudim de caqui",
+        "ja": "柿のプリン",
+        "pt": "Pudim de caqui",
         // "ru": "",
         // "tr": "",
-         "zh": "柿子布丁",
+        "zh": "柿子布丁",
     },
     "DescriptionLocalization":
     {
@@ -60,10 +60,10 @@
         "fr": "Un délicieux pudding fait avec des kakis.",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-         "pt": "Um delicioso pudim feito com caqui de blendet.",
+        "ja": "柿を材料にしたおいしいプリン。",
+        "pt": "Um delicioso pudim feito com caqui de blendet.",
         // "ru": "",
         // "tr": "",
-         "zh": "混合了柿子做成的美味布丁。",
+        "zh": "混合了柿子做成的美味布丁。",
     }
 }
