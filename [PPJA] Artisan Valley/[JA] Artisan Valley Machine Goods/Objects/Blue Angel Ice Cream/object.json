@@ -21,10 +21,10 @@
         "hu": "kék angyal",
         // "it": "",
         "ja": "ブルーエンジェルアイスクリーム",
-        // "pt": "",
+        "pt": "Sorvete Anjo Azul",
         // "ru": "",
         // "tr": "",
-         "zh": "蓝天使冰淇淋",
+        "zh": "蓝天使冰淇淋",
     },
     "DescriptionLocalization":
     {
@@ -35,9 +35,9 @@
         "hu": "Isteni különlegesség áfonyából és borsmentából.",
         // "it": "",
         "ja": "ブルーベリーとペパーミントでつくった天国産のアイス。",
-        // "pt": "",
+        "pt": "Especialidade celestial composta de mirtilos e hortelã-pimenta.",
         // "ru": "",
         // "tr": "",
-         "zh": "由蓝莓和薄荷组成的天堂特产。",
+        "zh": "由蓝莓和薄荷组成的天堂特产。",
     }
 }

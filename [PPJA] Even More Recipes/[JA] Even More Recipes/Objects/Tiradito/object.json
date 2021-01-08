@@ -28,11 +28,11 @@
         {
             "Object": "Lime",
             "Count": 1,
-        },],
+        }, ],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1600,
-            },
+    },
     "NameLocalization":
     {
         // "es": "",
@@ -42,7 +42,7 @@
         // "hu": "",
         // "it": "",
         "ja": "ティラディート",
-        // "pt": "",
+        "pt": "Tiradito",
         // "ru": "",
         // "tr": "",
         // "zh": "",
@@ -56,7 +56,7 @@
         // "hu": "",
         // "it": "",
         "ja": "薄くスライスした生魚にレモンとライムのソースと香味野菜をトッピングしたもの。",
-        // "pt": "",
+        "pt": "Feito com peixes finos fatiados, crus, legumes e gotas de sucos de limão.",
         // "ru": "",
         // "tr": "",
         // "zh": "",

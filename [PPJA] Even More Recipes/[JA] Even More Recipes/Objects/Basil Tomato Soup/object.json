@@ -28,11 +28,11 @@
         {
             "Object": -6,
             "Count": 1,
-        },],
+        }, ],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2000,
-            },
+    },
     "NameLocalization":
     {
         // "es": "",
@@ -42,7 +42,7 @@
         // "hu": "",
         // "it": "",
         "ja": "バジルとトマトのスープ",
-        // "pt": "",
+        "pt": "Sopa de Tomate e Manjericão",
         // "ru": "",
         // "tr": "",
         // "zh": "",
@@ -56,7 +56,7 @@
         // "hu": "",
         // "it": "",
         "ja": "バジルが入ったクリーミーなトマトスープ。",
-        // "pt": "",
+        "pt": "Uma sopa de tomate cremosa com manjericão",
         // "ru": "",
         // "tr": "",
         // "zh": "",
