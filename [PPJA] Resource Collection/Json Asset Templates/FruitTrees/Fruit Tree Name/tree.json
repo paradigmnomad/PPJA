@@ -1,0 +1,42 @@
+{
+    "Name": "___", //The name you would like your object to have, this should be identical to the subfolder name.
+    "Product": "___", //Determines what the fruit tree produces. This will correspond to a folder with the same name in Objects (ex. Both folders will be named "Honeysuckle"). (optional) You can produce vanilla items. Instead of a named object you will use the objects ID number and not include a corresponding Objects folder.
+    "SaplingName": "___", //The name of the sapling, typically product + sapling.
+    "SaplingDescription": "Takes 28 days to produce a mature [product] tree. Bears [type] in the [season]. Only grows if the 8 surrounding \"tiles\" are empty.", //The description of the sapling, often sticks to vanilla format: Takes 28 days to produce a mature product tree. Bears type in the summer. Only grows if the 8 surrounding "tiles" are empty.
+    "Season": "summer", //Season must be in lowercase and in quotation marks. Fruit trees can support only one season. If you want to make winter fruit trees, you will have to require [SpaceCore]
+    "SaplingPurchasePrice": 1700, //Determines how much the sapling can be purchased for.
+    "SaplingPurchaseFrom": "Pierre", //Who you can purchase saplings from. Valid entries are: Willy, Pierre, Robin, Sandy, Krobus, Clint, Harvey, Marlon, and Dwarf. If an NPC isn't listed here they can't be used. Pierre is the default vendor.
+    "SaplingPurchaseRequirements": null, //See Event Preconditions (https://stardewvalleywiki.com/Modding:Event_data#Event_preconditions). 
+                                         //If you do not want to have any PurchaseRequirements set this to null
+
+    // Localization
+
+    "SaplingNameLocalization":
+    {
+        "es": "", //Spansih
+        "ko": "", //Korean
+        "de": "", //German
+        "fr": "", //French
+        "hu": "", //Hungarian
+        "it": "", //Italian
+        "ja": "", //Japanese
+        "pt": "", //Portuguese
+        "ru": "", //Russian
+        "tr": "", //Turkish
+        "zh": "", //Chinese (Simplified)
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "es": "", //Spansih
+        "ko": "", //Korean
+        "de": "", //German
+        "fr": "", //French
+        "hu": "", //Hungarian
+        "it": "", //Italian
+        "ja": "", //Japanese
+        "pt": "", //Portuguese
+        "ru": "", //Russian
+        "tr": "", //Turkish
+        "zh": "", //Chinese (Simplified)
+    }
+}

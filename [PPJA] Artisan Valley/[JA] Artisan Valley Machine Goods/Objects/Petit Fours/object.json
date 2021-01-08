@@ -1,0 +1,58 @@
+{
+    "Name": "Petit Fours",
+    "Description": "Fluffy layers of almond cake and cream, iced and topped with sugary flowers.",
+    "Category": "Cooking",
+    "Edibility": 36,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 220,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Almond",
+            "Count": 2,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        },
+        {
+            "Object": 245,
+            "Count": 2,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1500,
+            },
+    "NameLocalization":
+    {
+        "es": "Petit Fours",
+        "ko": "프티 푸르",
+        "de": "Petit Fours",
+         // "fr": "",
+        "hu": "Petit Fours",
+         // "it": "",
+        "ja": "プチフール",
+        "pt": "Petit Fours",
+        "ru": "Птифур",
+         // "tr": "",
+        "zh": "小蛋糕",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Trocitos esponjosos de pastes de almendras y crema, cubierto de azúcar.",
+        "ko": "아몬드 케이크와 크림의 푹신한 층, 슈가 플라워로 장식해서 얼렸습니다.",
+        "de": "Flauschige Schichten von Mandelkuchen und Sahne, gefroren und mit Zuckerblüten belegt.",
+         // "fr": "",
+        "hu": "Bolyhos mandulatorta- és tejszínrétegekből áll, melyek be vannak vonva cukormázzal, cukorvirágokkal a tetején.",
+         // "it": "",
+        "ja": "アーモンドケーキとクリームをふわふわの層にして、アイスとシュガーフラワーをトッピング。",
+        "pt": "Camadas fofas de bolo de amêndoa e creme gelado com cobertura de açúcar.",
+        "ru": "Воздушные слоёные миндально-сливочные пироженые, покрытые глазурью и сахарными цветами.",
+         // "tr": "",
+        "zh": "蓬松的杏仁蛋糕和奶油层，冰镇，上面点缀着糖花。",
+    }
+}

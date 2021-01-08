@@ -1,0 +1,53 @@
+{
+    "Name": "Ostrich",
+    "Product": "Ostrich Meat",
+    "SeedName": "Ostrich Seeds",
+    "SeedDescription": "Plant these in summer. Takes 13 days to mature.",
+    "Type": "ArtisanGoods",
+    "Seasons": ["summer", "winter"],
+    "Phases": [3, 2, 3, 2, 3],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 0,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchasePrice": 450,
+    "SeedPurchaseRequirements": [
+        "y 3",
+        "HasCookingRecipe Ostrich-Incubator"
+    ],
+    "SeedNameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+}
