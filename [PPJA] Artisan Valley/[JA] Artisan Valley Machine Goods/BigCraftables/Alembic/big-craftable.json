@@ -22,6 +22,12 @@
         }, ],
         "CanPurchase": false,
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1000,
+    "PurchaseRequirements": [
+        "y 2",
+    ],
     "NameLocalization":
     {
         "es": "Alambique",

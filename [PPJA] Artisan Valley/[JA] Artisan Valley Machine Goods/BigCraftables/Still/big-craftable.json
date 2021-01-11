@@ -18,6 +18,12 @@
         }, ],
         "CanPurchase": false,
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1000,
+    "PurchaseRequirements": [
+        "y 3",
+    ],
     "NameLocalization":
     {
         "es": "Destilador",
