@@ -30,18 +30,18 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 100,
-        "NameLocalization":
+    "NameLocalization":
     {
         "es": "Café negro",
         "ko": "블랙 커피",
         "de": "Schwarzer Kaffee",
         "fr": "Café noir",
-         // "hu": "",
-         // "it": "",
+        "hu": "Fekete kávé",
+        // "it": "",
         "ja": "ブラックコーヒー",
         "pt": "Café preto",
-         // "ru": "",
-         // "tr": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "黑咖啡",
     },
     "DescriptionLocalization":
@@ -50,12 +50,12 @@
         "ko": "엄청 써요.",
         "de": "Er ist verdammt bitter.",
         "fr": "C'est extrêmement amer.",
-         // "hu": "",
-         // "it": "",
+        "hu": "Hihetetlenül keserű.",
+        // "it": "",
         "ja": "とてもにがい。",
         "pt": "É extremamente amargo.",
-         // "ru": "",
-         // "tr": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "它超级苦。",
     }
 }
