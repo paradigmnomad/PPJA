@@ -2,7 +2,7 @@
     "Name": "Bird Meat",
     "Description": "A very small hunk of meat from a bird. Maybe a cat will like it?",
     "Category": "Meat",
-    "Edibility": 250,
+    "Edibility": -300,
     "Price": 90,
     "IsColored": false,
     "GiftTastes":

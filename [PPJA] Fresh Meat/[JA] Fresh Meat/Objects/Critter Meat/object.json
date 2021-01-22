@@ -2,7 +2,7 @@
     "Name": "Critter Meat",
     "Description": "Small chunks of meat from a small animal. Kind of bland.",
     "Category": "Meat",
-    "Edibility": 250,
+    "Edibility": -300,
     "Price": 100,
     "IsColored": false,
     "GiftTastes":
