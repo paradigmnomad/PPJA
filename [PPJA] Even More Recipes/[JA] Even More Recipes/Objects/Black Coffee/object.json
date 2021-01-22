@@ -1,7 +1,7 @@
 {
     "Name": "Black Coffee",
     "Description": "It's extremely bitter.",
-    "Category": "Cooking",
+    "Category": "ArtisanGoods",
     "Edibility": 5,
     "EdibleIsDrink": true,
     "EdibleBuffs":

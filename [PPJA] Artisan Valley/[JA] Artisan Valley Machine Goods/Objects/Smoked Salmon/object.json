@@ -1,7 +1,7 @@
 {
     "Name": "Smoked Salmon",
     "Description": "A simple dish of smoked salmon. It was smoking for hours.",
-    "Category": "Cooking",
+    "Category": "ArtisanGoods",
     "Edibility": 20,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,

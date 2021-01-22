@@ -1,7 +1,7 @@
 {
     "Name": "Milky Coffee",
     "Description": "Coffee with milk added to it, in a can!",
-    "Category": "Cooking",
+    "Category": "ArtisanGoods",
     "Edibility": 22,
     "EdibleIsDrink": true,
     "EdibleBuffs": null,
@@ -17,18 +17,18 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 100,
-        "NameLocalization":
+    "NameLocalization":
     {
         "es": "Café con leche",
         "ko": "밀크 커피",
         "de": "Milchiger Kaffee",
         "fr": "Café au lait",
-         // "hu": "",
-         // "it": "",
+        // "hu": "",
+        // "it": "",
         "ja": "ミルクコーヒー缶",
         "pt": "Café com leite",
-         // "ru": "",
-         // "tr": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "牛奶咖啡",
     },
     "DescriptionLocalization":
@@ -37,12 +37,12 @@
         "ko": "우유가 첨가된 캔 커피!",
         "de": "Kaffee mit Milch aus der Dose!",
         "fr": "Café avec du lait ajouté, dans une conserve !",
-         // "hu": "",
-         // "it": "",
+        // "hu": "",
+        // "it": "",
         "ja": "缶入りのミルク入りコーヒー！",
         "pt": "Café com leite adicionado a ele, dentro de uma lata!",
-         // "ru": "",
-         // "tr": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "加了牛奶的咖啡，罐装的！",
     }
 }

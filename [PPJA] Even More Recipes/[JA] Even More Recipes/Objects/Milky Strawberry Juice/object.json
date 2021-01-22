@@ -1,7 +1,7 @@
 {
     "Name": "Milky Strawberry Juice",
     "Description": "100% Real Juice!",
-    "Category": "Cooking",
+    "Category": "ArtisanGoods",
     "Edibility": 44,
     "EdibleIsDrink": true,
     "EdibleBuffs": null,
@@ -17,18 +17,18 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 100,
-        "NameLocalization":
+    "NameLocalization":
     {
         "es": "Jugo de fresa con leche",
         "ko": "우유 가득 딸기 주스",
         "de": "Milchiger Erdbeersaft",
         "fr": "Jus de fraise au lait",
-         // "hu": "",
-         // "it": "",
+        // "hu": "",
+        // "it": "",
         "ja": "イチゴミルク缶",
         "pt": "Suco de morango com leite",
-         // "ru": "",
-         // "tr": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "草莓味牛奶",
     },
     "DescriptionLocalization":
@@ -37,12 +37,12 @@
         "ko": "100% 리얼 주스!",
         "de": "Aus 100% echtem Saft!",
         "fr": "100% pur jus !",
-         // "hu": "",
-         // "it": "",
+        // "hu": "",
+        // "it": "",
         "ja": "100％果汁！",
         "pt": "100% feito com suco natural!",
-         // "ru": "",
-         // "tr": "",
+        // "ru": "",
+        // "tr": "",
         "zh": "百分百天然草莓汁！",
     }
 }

@@ -1,7 +1,7 @@
 {
     "Name": "Cola",
     "Description": "Tastes better than Joja Cola.",
-    "Category": "Cooking",
+    "Category": "ArtisanGoods",
     "Edibility": 5,
     "EdibleIsDrink": true,
     "EdibleBuffs":
