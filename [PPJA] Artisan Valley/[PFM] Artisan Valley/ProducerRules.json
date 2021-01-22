@@ -1300,7 +1300,7 @@
     },
     {
         "ProducerName": "Ice Cream Machine",
-        "InputIdentifier": "69",
+        "InputIdentifier": "91",
         "InputStack": 1,
         "FuelIdentifier": "-6",
         "FuelStack": 1,
@@ -1970,7 +1970,7 @@
         "AdditionalFuel":
         {
             "635": 1,
-            "69": 1
+            "91": 1
         },
         "MinutesUntilReady": 120,
         "OutputIdentifier": "Dragon Fruit Fruit Sorbet",
