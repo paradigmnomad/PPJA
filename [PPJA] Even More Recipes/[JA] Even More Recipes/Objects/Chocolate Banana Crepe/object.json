@@ -45,7 +45,7 @@
         "ja": "チョコバナナクレープ",
         "pt": "Crepe de Chocolate e Banana",
          // "ru": "",
-         // "tr": "",
+         "tr": "Çikolatalı ve Muzlu Krep",
         "zh": "巧克力香蕉可丽饼",
     },
     "DescriptionLocalization":
@@ -59,7 +59,7 @@
         "ja": "チョコをかけてバナナをトッピングした甘い朝のおやつ。",
         "pt": "Um pequeno doce de café da manha, coberto de chocolate e com bananas por cima.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çikolata kaplı ve muzla süslenmiş tatlı bir kahvaltı atıştırmalığı.",
         "zh": "一份覆盖着巧克力和香蕉的甜美早餐。",
     }
 }

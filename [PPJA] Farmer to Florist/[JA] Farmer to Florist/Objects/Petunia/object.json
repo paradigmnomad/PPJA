@@ -17,8 +17,8 @@
         "ja": "ペチュニア",
         "pt": "Petunia",
         "ru": "Петуния",
-        // "tr": "",
-        "zh": "矮牵牛花",
+        "tr": "Petunya",
+        "zh": "矮牵牛花"
     },
     "DescriptionLocalization":
     {
@@ -31,8 +31,8 @@
         "ja": "繊細な甘い香りの花。",
         "pt": "Uma flor delicada e perfumada.",
         "ru": "Нежный, душистый цветок.",
-        // "tr": "",
-        "zh": "一种娇嫩，芬芳的花。",
+        "tr": "Narin, tatlı kokulu bir çiçek.",
+        "zh": "一种娇嫩，芬芳的花。"
     },
     "ContextTags": [
         "color_pink",

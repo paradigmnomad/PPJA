@@ -36,32 +36,30 @@
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2440,
     },
-    "NameLocalization":
-    {
-        "es": "Tarta de cerezas",
-        "ko": "체리 파이",
-        "de": "Kirschkuchen",
-        "fr": "Tarte à la cerise",
-        "hu": "Cseresznyés pite",
-        // "it": "",
-        "ja": "チェリーパイ",
-        "pt": "Torta de cereja",
-        // "ru": "",
-        // "tr": "",
-        "zh": "樱桃派",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Una tarta rellena de suaves y pegajosas cerezas.",
-        "ko": "부드럽고 끈적끈적한 체리로 채워진 파이.",
-        "de": "Ein Kuchen, gefüllt mit weichen, klebrigen Kirschen.",
-        "fr": "Une tarte croustillante garnie de cerises molles et gluantes.",
-        "hu": "Lágy, nyálkás cseresznyeszósszal töltött pite.",
-        // "it": "",
-        "ja": "柔らかくとろみをつけたチェリーを散りばめたパイ。",
-        "pt": "Uma massa de torta cheia de cerejas macias e pegajosas.",
-        // "ru": "",
-        // "tr": "",
-        "zh": "这个派里面有软软黏黏的樱桃。",
-    }
+  "NameLocalization": {
+    "es": "Tarta de cerezas",
+    "ko": "체리 파이",
+    "de": "Kirschkuchen",
+    "fr": "Tarte à la cerise",
+    "hu": "Cseresznyés pite",
+    // "it": "",
+    "ja": "チェリーパイ",
+    "pt": "Torta de cereja",
+    // "ru": "",
+    "tr": "Kiraz Turtası",
+    "zh": "樱桃派"
+  },
+  "DescriptionLocalization": {
+    "es": "Una tarta rellena de suaves y pegajosas cerezas.",
+    "ko": "부드럽고 끈적끈적한 체리로 채워진 파이.",
+    "de": "Ein Kuchen, gefüllt mit weichen, klebrigen Kirschen.",
+    "fr": "Une tarte croustillante garnie de cerises molles et gluantes.",
+    "hu": "Lágy, nyálkás cseresznyeszósszal töltött pite.",
+    // "it": "",
+    "ja": "柔らかくとろみをつけたチェリーを散りばめたパイ。",
+    "pt": "Uma massa de torta cheia de cerejas macias e pegajosas.",
+    // "ru": "",
+    "tr": "Vıcık vıcık ve yumuşak kirazlarla dolu bir turta.",
+    "zh": "这个派里面有软软黏黏的樱桃。"
+  }
 }

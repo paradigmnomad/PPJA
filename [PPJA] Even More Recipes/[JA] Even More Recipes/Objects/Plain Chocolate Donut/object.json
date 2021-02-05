@@ -50,21 +50,20 @@
         "ja": "プレーンチョコレートドーナツ",
         "pt": "Donut de chocolate simples",
          // "ru": "",
-         // "tr": "",
+        "tr": "Sade Çikolatalı Donut",
         "zh": "纯巧克力甜甜圈",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una simple dona de chocolate.",
-        "ko": "평범한 모양의 초콜릿 도넛.",
-        "de": "Ein stinknormaler Schokoladendonut.",
-        "fr": "Un beignet fourré... au chocolat.",
-         // "hu": "",
-         // "it": "",
-        "ja": "普通のチョコレートドーナツ。",
-        "pt": "Um donut de chocolate simples.",
-         // "ru": "",
-         // "tr": "",
-        "zh": "一个由巧克力占主要成分的甜甜圈。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una simple dona de chocolate.",
+    "ko": "평범한 모양의 초콜릿 도넛.",
+    "de": "Ein stinknormaler Schokoladendonut.",
+    "fr": "Un beignet fourré... au chocolat.",
+    // "hu": "",
+    // "it": "",
+    "ja": "普通のチョコレートドーナツ。",
+    "pt": "Um donut de chocolate simples.",
+    // "ru": "",
+    "tr": "Sade, çikolatalı bir donut.",
+    "zh": "一个由巧克力占主要成分的甜甜圈。"
+  }
 }

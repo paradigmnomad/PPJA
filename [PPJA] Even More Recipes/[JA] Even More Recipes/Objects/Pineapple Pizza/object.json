@@ -46,7 +46,7 @@
         "ja": "パイナップルピザ",
          "pt": "Pizza de Abacaxi",
          // "ru": "",
-         // "tr": "",
+        "tr": "Ananaslı Pizza",
         "zh": "凤梨披萨",
     },
     "DescriptionLocalization":
@@ -60,7 +60,7 @@
         "ja": "南国で人気がある。",
          "pt": "Popular em áreas tropicais.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tropikal yerlerde popüler.",
         "zh": "流行于热带地区。",
     }
 }

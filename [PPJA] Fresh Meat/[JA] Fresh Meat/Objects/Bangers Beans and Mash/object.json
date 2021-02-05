@@ -54,7 +54,7 @@
         "ja": "豆ソーセージとマッシュポテト",
         "pt": "Salsichas, feijões e purê de batatas",
         "ru": "Картофельное пюре с фасолью и сосисками",
-        // "tr": "",
+        "tr": "Sosisler, Fasulyeler ve Püre",
         "zh": "香肠菜豆土豆泥",
     },
     "DescriptionLocalization":
@@ -68,7 +68,7 @@
         "ja": "マッシュポテトに豆のソーセージを添えて。",
          "pt": "Purê de batatas, feijão e salsicha.",
         "ru": "Нежнейшее картофельное пюре, немного фасоли и две сосиски.",
-        // "tr": "",
+        "tr": "Ezilmiş patatesler, fasulyeler ve sosis.",
         "zh": "香肠菜豆土豆泥。里面是土豆泥，一些豆子，还有香肠。",
     }
 }

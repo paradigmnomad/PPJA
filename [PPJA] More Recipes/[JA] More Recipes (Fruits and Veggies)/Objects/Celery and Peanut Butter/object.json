@@ -31,32 +31,30 @@
         "Dislike": ["Abigail", "Sam", "Jas", "Vincent"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Apio con mantequilla de maní",
-        "ko": "셀러리와 땅콩 버터",
-        "de": "Sellerie mit Erdnussbutter",
-        "fr": "Céleri au beurre de cacahuète",
-         // "hu": "",
-         // "it": "",
-        "ja": "セロリとピーナッツバター",
-        "pt": "Aipo e Manteiga de Amendoim",
-        "ru": "Сельдерей с арахисовым маслом",
-         // "tr": "",
-        "zh": "芹菜花生酱",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Un snack fácil y ligero, pero sabroso.",
-        "ko": "쉽고 간편한 고소한 간식.",
-        "de": "Ein einfacher Snack, leicht und herzhaft.",
-        "fr": "Un en-cas léger, simple mais savoureux.",
-         // "hu": "",
-         // "it": "",
-        "ja": "簡単だが風味を味わえるスナック。",
-        "pt": "Um lanche fácil, leve, mas saboroso.",
-        "ru": "Лёгкая и вкусная закуска.",
-         // "tr": "",
-        "zh": "芹菜花生酱。这是一种清淡但十分美味的零食。",
-    }
+  "NameLocalization": {
+    "es": "Apio con mantequilla de maní",
+    "ko": "셀러리와 땅콩 버터",
+    "de": "Sellerie mit Erdnussbutter",
+    "fr": "Céleri au beurre de cacahuète",
+    // "hu": "",
+    // "it": "",
+    "ja": "セロリとピーナッツバター",
+    "pt": "Aipo e Manteiga de Amendoim",
+    "ru": "Сельдерей с арахисовым маслом",
+    "tr": "Kereviz ve Fıstık Ezmesi",
+    "zh": "芹菜花生酱"
+  },
+  "DescriptionLocalization": {
+    "es": "Un snack fácil y ligero, pero sabroso.",
+    "ko": "쉽고 간편한 고소한 간식.",
+    "de": "Ein einfacher Snack, leicht und herzhaft.",
+    "fr": "Un en-cas léger, simple mais savoureux.",
+    // "hu": "",
+    // "it": "",
+    "ja": "簡単だが風味を味わえるスナック。",
+    "pt": "Um lanche fácil, leve, mas saboroso.",
+    "ru": "Лёгкая и вкусная закуска.",
+    "tr": "Zahmetsiz ve hafif. Ama tuzlu.",
+    "zh": "芹菜花生酱。这是一种清淡但十分美味的零食。"
+  }
 }

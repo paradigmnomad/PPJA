@@ -45,7 +45,7 @@
         "ja": "ケチャップ",
         "pt": "Ketchup",
         "ru": "Кетчуп",
-        // "tr": "",
+        "tr": "Ketçap",
         "zh": "番茄酱",
     },
     "DescriptionLocalization":
@@ -59,7 +59,7 @@
         "ja": "トマトペーストに甘味を付けたもの。",
         "pt": "Uma massa de tomate adoçada com açúcar.",
         "ru": "Томатная паста со специями.",
-        // "tr": "",
+        "tr": "Şekerle tatlandırılan domates püresi.",
         "zh": "番茄酱。这其实是一种加糖的西红柿。",
     }
 }

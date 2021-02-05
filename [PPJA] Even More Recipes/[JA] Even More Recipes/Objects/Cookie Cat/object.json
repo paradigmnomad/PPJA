@@ -49,7 +49,7 @@
         "ja": "ネコクッキー",
         "pt": "Biscoito de gatinho",
          // "ru": "",
-         // "tr": "",
+        "tr": "Kedi Şekilli Kurabiye",
         "zh": "小猫饼干",
     },
     "DescriptionLocalization":
@@ -63,7 +63,7 @@
         "ja": "この子はあなたのお腹のペットです。この子はとてもおいしいです。",
         "pt": "É tipo um animal de estimação para sua barriga. É super gostoso.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Karnın için bir evcil hayvan. Süper leziz.",
         "zh": "很可爱！",
     }
 }

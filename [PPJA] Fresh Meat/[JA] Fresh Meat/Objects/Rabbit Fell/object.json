@@ -22,7 +22,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tavşan Derisi",
         "zh": "兔皮",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Güneşte bekletilen tavşan derisi.",
         "zh": "经过鞣制的兔子皮。",
     },
     "ContextTags": [

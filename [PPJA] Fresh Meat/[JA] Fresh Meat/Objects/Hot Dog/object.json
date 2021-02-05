@@ -49,7 +49,7 @@
         "ja": "ホットドッグ",
         "pt": "Cachorro-quente",
         "ru": "Хот-дог",
-        // "tr": "",
+        "tr": "Sosisli",
         "zh": "热狗",
     },
     "DescriptionLocalization":
@@ -63,7 +63,7 @@
         "ja": "ソーセージを挟んだ長いパン。",
         "pt": "Um pão longo envolvendo uma salsicha.",
         "ru": "Пшеничная булочка с сосиской.",
-        // "tr": "",
+        "tr": "Uzun bir ekmeğin içinde büyük bir sosis.",
         "zh": "热狗。一个长面包围绕着一个诱人的香肠。",
     }
 }

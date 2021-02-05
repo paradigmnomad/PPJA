@@ -32,21 +32,20 @@
         "ja": "メープルマキアート",
         "pt": "Macchiato de Carvalho",
         "ru": "Кленовый маккиато",
-         // "tr": "",
+        "tr": "Akçaağaç Macchiato",
         "zh": "枫糖玛奇朵",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Beber esto en una tarde de otoño se siente tan bien.",
-        "ko": "늦가을 오후에 마시면 좋습니다.",
-        "de": "Dies an einem späten Herbstnachmittag zu trinken fühlt sich einfach so richtig an.",
-        "fr": "Boire ça dans un après-midi tardif d'automne est tellement bon.",
-        "hu": "Ez egy késő őszi délutánon esik a legjobban.",
-         // "it": "",
-        "ja": "晩秋の午後に飲むのにはこれがちょうどいい具合。",
-        "pt": "Beber isto em uma tarde de outono é uma coisa tão boa...",
-        "ru": "Это кажется таким правильным решением - пить это в дни поздней осени.",
-         // "tr": "",
-        "zh": "在深秋的下午喝这个感觉真不错。",
-    }
+  "DescriptionLocalization": {
+    "es": "Beber esto en una tarde de otoño se siente tan bien.",
+    "ko": "늦가을 오후에 마시면 좋습니다.",
+    "de": "Dies an einem späten Herbstnachmittag zu trinken fühlt sich einfach so richtig an.",
+    "fr": "Boire ça dans un après-midi tardif d'automne est tellement bon.",
+    "hu": "Ez egy késő őszi délutánon esik a legjobban.",
+    // "it": "",
+    "ja": "晩秋の午後に飲むのにはこれがちょうどいい具合。",
+    "pt": "Beber isto em uma tarde de outono é uma coisa tão boa...",
+    "ru": "Это кажется таким правильным решением - пить это в дни поздней осени.",
+    "tr": "Bunu güzün sonunda doğru öğleden sonra içmek kulağa çok iyi geliyor.",
+    "zh": "在深秋的下午喝这个感觉真不错。"
+  }
 }

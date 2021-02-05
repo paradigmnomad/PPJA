@@ -37,7 +37,7 @@
         "ja": "マーマレード",
         "pt": "Marmelada",
          // "ru": "",
-         // "tr": "",
+        "tr": "Marmelat",
         "zh": "橙子果酱",
     },
     "DescriptionLocalization":
@@ -51,7 +51,7 @@
         "ja": "かんきつ類の皮と砂糖から作られたくだものの保存食。",
         "pt": "Conserva de frutas feita de cascas de frutas cítricas e açúcar.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Narenciye kabukları ve şekerden yapılan bir meyve konservesi.",
         "zh": "由橙子皮和糖制成的果酱。",
     }
 }

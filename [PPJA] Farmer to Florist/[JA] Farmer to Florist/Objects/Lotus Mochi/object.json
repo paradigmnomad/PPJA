@@ -38,8 +38,8 @@
         "ja": "ハスの実餅",
         "pt": "Mochi de Lótus",
         "ru": "Моти с лотусом",
-        // "tr": "",
-        "zh": "莲子糯米团",
+        "tr": "Nilüferli Pirinç Keki",
+        "zh": "莲子糯米团"
     },
     "DescriptionLocalization":
     {
@@ -52,7 +52,7 @@
         "ja": "米粉にハスの実を練り込んだ甘くて噛み応えのあるお菓子。",
         "pt": "Uma massa doce feita com farinha de arroz, preenchida com uma pasta feita com sementes de lótus.",
         "ru": "Сладкая выпечка из рисовой муки, наполненная пастой из семян лотоса. Очень тягучая.",
-        // "tr": "",
-        "zh": "莲子糯米团。一种由米浆制成的甜糕点，馅料是莲子糊。非常有嚼劲。",
+        "tr": "Pirinç unuyla yapılan tatlı bir hamurişi, içi nilüfer tohumlarının ezmesiyle dolu. Sakız gibi",
+        "zh": "莲子糯米团。一种由米浆制成的甜糕点，馅料是莲子糊。非常有嚼劲。"
     }
 }

@@ -45,7 +45,7 @@
         "ja": "カンパリ",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Campari",
         "zh": "金巴利利口酒",
     },
     "DescriptionLocalization":
@@ -59,7 +59,7 @@
         "ja": "ビター・オレンジから作られた食前酒。",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Acı portakaldan yapılan bir aperatif.",
         "zh": "用苦橙制成的开胃酒。",
     }
 

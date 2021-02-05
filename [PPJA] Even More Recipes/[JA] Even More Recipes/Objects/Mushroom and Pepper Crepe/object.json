@@ -51,7 +51,7 @@
         "ja": "キノコとパプリカのクレープ",
         "pt": "Crepe de cogumelos e pimenta",
          // "ru": "",
-         // "tr": "",
+        "tr": "Mantarlı ve Biberli Krep",
         "zh": "蘑菇甜椒可丽饼",
     },
     "DescriptionLocalization":
@@ -65,7 +65,7 @@
         "ja": "香ばしく少し辛いクレープ。",
         "pt": "Um crepe salgado e levemente picante.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tuzlu ve biraz da acılı bir krep.",
         "zh": "一份味道鲜美，略带辛辣的可丽饼。",
     }
 }

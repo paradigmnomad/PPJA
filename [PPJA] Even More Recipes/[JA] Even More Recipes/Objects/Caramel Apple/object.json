@@ -43,7 +43,7 @@
         "ja": "リンゴのキャラメルがけ",
         "pt": "Maça caramelizada",
         // "ru": "",
-        // "tr": "",
+        "tr": "Karamelli Elma",
         "zh": "焦糖苹果",
     },
     "DescriptionLocalization":
@@ -57,7 +57,7 @@
         "ja": "熱々のキャラメルに浸した甘いリンゴ。",
         "pt": "Uma maçã doce que foi mergulhada em caramelo quente.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Sıcak karamele batırılmış elma.",
         "zh": "一个浸在热焦糖里的超甜的苹果。",
     }
 }

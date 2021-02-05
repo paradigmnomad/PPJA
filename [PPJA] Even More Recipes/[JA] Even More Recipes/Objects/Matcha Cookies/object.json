@@ -47,7 +47,7 @@
         "ja": "抹茶クッキー",
         "pt": "Biscoitos de Matcha",
          // "ru": "",
-         // "tr": "",
+        "tr": "Maça Kurabiyesi",
         "zh": "抹茶饼干",
     },
     "DescriptionLocalization":
@@ -61,7 +61,7 @@
         "ja": "この緑色のクッキーはびっくりするほどおいしい。",
         "pt": "Esses biscoitos verdes são surpreendentemente deliciosos.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Bu yeşil kurabiyeler şaşırtıcı bir şekilde leziz.",
         "zh": "这些绿色的饼干竟然出奇的好吃。",
     }
 }

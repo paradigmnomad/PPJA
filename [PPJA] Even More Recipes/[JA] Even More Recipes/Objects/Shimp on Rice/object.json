@@ -41,7 +41,7 @@
         "ja": "エビの炊き込みご飯",
         "pt": "Camarão no Arroz",
         // "ru": "",
-        // "tr": "",
+        "tr": "Pilav Üstü Karides",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -55,7 +55,7 @@
         "ja": "ご飯とエビを一緒に調理した簡単料理。",
         "pt": "Um prato simples de camarões cozidos sobre arroz.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Karidesin pişirilip pirincin üstüne konulduğu basit bir yemek.",
         // "zh": "",
     }
 }

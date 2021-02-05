@@ -24,7 +24,7 @@
         "ja": "スパイスコンブチャ",
         "pt": "Kombuchá Temperado",
         "ru": "Пряная комбуча",
-        // "tr": "",
+        "tr": "Acılı Kombucha",
         "zh": "香料康普茶",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "普通のコンブチャより高価なブレンド。",
         "pt": "Uma das mais caras misturas de Kombuchá",
         "ru": "Один из самых дорогих видов комбучи.",
-        // "tr": "",
+        "tr": "Kombuchanın daha pahalı karışımlarından biri.",
         "zh": "由香料茶发酵而成。一种较昂贵的混合康普茶。",
     }
 }

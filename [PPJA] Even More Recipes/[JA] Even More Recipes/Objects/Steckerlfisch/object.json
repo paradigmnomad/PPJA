@@ -38,7 +38,7 @@
         "ja": "シュテッカルフィッシュ",
         "pt": "Steckerlfisch",
         // "ru": "",
-        // "tr": "",
+        "tr": "Balık Şiş",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -52,7 +52,7 @@
         "ja": "魚の串焼き！",
         "pt": "É um peixe em uma vara.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Çubukta balık.",
         // "zh": "",
     }
 }

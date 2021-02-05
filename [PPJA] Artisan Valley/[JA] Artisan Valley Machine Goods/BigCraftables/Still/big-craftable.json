@@ -35,21 +35,20 @@
         "ja": "蒸留器",
         "pt": "Destilador",
         "ru": "Дистиллятор",
-        // "tr": "",
+        "tr": "Damıtıcı",
         "zh": "酒蒸馏器",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un sistema de destilación utilizado para hacer licor.",
-        "ko": "술을 만드는데 사용되는 증류장치.",
-        "de": "Ein Destillationssystem, das für die Likörherstellung genutzt wird.",
-        "fr": "Un distillateur en cuivre utilisé pour faire des liqueurs.",
-        "hu": "Egy desztilláló berendezés, melyet likőr előállítására használnak.",
-        // "it": "",
-        "ja": "蒸留の仕組みでお酒を造るのに使う。",
-        "pt": "Usado para destilar bebidas alcoólicas.",
-        "ru": "Система дистилляции, используемая для приготовления ликера.",
-        // "tr": "",
-        "zh": "一种用来酿酒的蒸馏系统。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un sistema de destilación utilizado para hacer licor.",
+    "ko": "술을 만드는데 사용되는 증류장치.",
+    "de": "Ein Destillationssystem, das für die Likörherstellung genutzt wird.",
+    "fr": "Un distillateur en cuivre utilisé pour faire des liqueurs.",
+    "hu": "Egy desztilláló berendezés, melyet likőr előállítására használnak.",
+    // "it": "",
+    "ja": "蒸留の仕組みでお酒を造るのに使う。",
+    "pt": "Usado para destilar bebidas alcoólicas.",
+    "ru": "Система дистилляции, используемая для приготовления ликера.",
+    "tr": "Likör yapmak için kullanılan bir damıtma sistemi.",
+    "zh": "一种用来酿酒的蒸馏系统。"
+  }
 }

@@ -23,7 +23,7 @@
         // "ja": "",
         "pt": "Carne de Bisão",
         // "ru": "",
-        // "tr": "",
+        "tr": "Bizon Eti",
          "zh": "野牛肉",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
          "pt": "Um corte de carne de um bisão.",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bir parça bizon eti.",
          "zh": "从野牛身上切下来的肉。",
     },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"

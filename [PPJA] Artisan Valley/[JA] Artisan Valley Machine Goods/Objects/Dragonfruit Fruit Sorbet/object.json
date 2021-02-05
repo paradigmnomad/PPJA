@@ -25,21 +25,20 @@
         "ja": "ドラゴンフルーツシャーベット",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "火龙果果汁雪葩",
+        "tr": "Ejderha Meyveli Şerbet",
+        "zh": "火龙果果汁雪葩",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "용과, 바나나, 오렌지로 만든 상큼한 과일 셔벗.",
-        // "de": "",
-        "fr": "Un sorbet rafraîchissant fait à partir de fruit du dragon, de bananes et d'oranges.",
-        "hu": "Egy frissítő gyümölcs sörbet sárkánygyümölcsből, banánból, és narancsból.",
-        // "it": "",
-        "ja": "ドラゴンフルーツ、バナナ、オレンジを使った、さわやかなフルーツシャーベット。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "由火龙果、香蕉和橙子制成的清爽水果雪葩。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "용과, 바나나, 오렌지로 만든 상큼한 과일 셔벗.",
+    // "de": "",
+    "fr": "Un sorbet rafraîchissant fait à partir de fruit du dragon, de bananes et d'oranges.",
+    "hu": "Egy frissítő gyümölcs sörbet sárkánygyümölcsből, banánból, és narancsból.",
+    // "it": "",
+    "ja": "ドラゴンフルーツ、バナナ、オレンジを使った、さわやかなフルーツシャーベット。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Ejderha meyvesi, muz ve portakaldan yapılan ferahlatıcı bir meyve şerbeti.",
+    "zh": "由火龙果、香蕉和橙子制成的清爽水果雪葩。"
+  }
 }

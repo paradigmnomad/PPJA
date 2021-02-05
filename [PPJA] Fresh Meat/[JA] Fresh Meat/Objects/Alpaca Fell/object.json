@@ -11,10 +11,9 @@
         "Hate": ["Sebastian"],
     },
     "Recipe": null,
-    "NameLocalization":
-    {
-        "es": "Piel de alpaca",
-        "ko": "알파카 모피",
+	"NameLocalization": { 
+		"es": "Piel de alpaca",
+		"ko": "알파카 모피",
         //"de": "",
         "fr": "Fourrure d'alpaga",
         "hu": "Alpaka bunda",
@@ -22,7 +21,7 @@
         //"ja": "",
         "pt": "Pele de Alpaca",
         // "ru": "",
-        // "tr": "",
+        "tr": "Alpaka Derisi",
         "zh": "羊驼皮",
     },
     "DescriptionLocalization":
@@ -36,11 +35,11 @@
         //"ja": "",
         "pt": "Uma pele de alpaca que foi bronzeada.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Güneşte bekletilmiş alpaka sırtı.",
         "zh": "鞣制过的羊驼皮。",
-    },
-    "ContextTags": [
+    },  
+	"ContextTags": [
         "leather_item",
     ],
-    "EnableWithMod": "Cherry.MultiYieldCrops"
+    "EnableWithMod": "Cherry.MultiYieldCrops"  
 }

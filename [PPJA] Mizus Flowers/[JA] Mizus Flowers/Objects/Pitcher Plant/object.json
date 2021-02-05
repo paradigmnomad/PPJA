@@ -13,32 +13,30 @@
         "Dislike": ["Caroline", "Elliott", "Kent"],
         "Hate": ["Alex", "Clint", "Emily", "Evelyn", "George", "Gus", "Jodi", "Marnie", "Pam", "Penny", "Pierre", "Willy", "Wizard", "Haley", "Jas", "Vincent"],
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        "ko": "벌레잡이풀",
-        "de": "Kannenpflanze",
-        "fr": "Sarracénie",
-        "hu": "Kancsóka",
-        // "it": "",
-        "ja": "ウツボカズラ",
-        "pt": "Planta de Jarro",
-        "ru": "Кувшиночник",
-        // "tr": "",
-        "zh": "猪笼草",
-    },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "덫으로 곤충을 잡는, 종 모양의 늪지대 식물입니다.",
-        "de": "Eine Sumpfpflanze mit einem glockenförmigen Unterteil, mit dem sie Insekten fängt.",
-        "fr": "Une plante marécageuse avec une fleur en forme de cloche qui piège les insectes.",
-        "hu": "Ez a növény a mocsárban él, a virága harang alakú, és elkapja a rovarokat.",
-        // "it": "",
-        "ja": "昆虫を捕らえるための鐘型の袋を持つ、沼地に生息する植物。",
-        "pt": "Uma planta típica de pântanos em formato de sino que se alimenta de insetos.",
-        "ru": "Болотное растение с колоколообразным цветком, ловящим насекомых. ",
-        // "tr": "",
-        "zh": "一种生长在沼泽中的植物，因外形像猪笼而得名，能捕捉昆虫。",
-    }
+  "NameLocalization": {
+    // "es": "",
+    "ko": "벌레잡이풀",
+    "de": "Kannenpflanze",
+    "fr": "Sarracénie",
+    "hu": "Kancsóka",
+    // "it": "",
+    "ja": "ウツボカズラ",
+    "pt": "Planta de Jarro",
+    "ru": "Кувшиночник",
+    "tr": "Etobur Bitki",
+    "zh": "猪笼草"
+  },
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "덫으로 곤충을 잡는, 종 모양의 늪지대 식물입니다.",
+    "de": "Eine Sumpfpflanze mit einem glockenförmigen Unterteil, mit dem sie Insekten fängt.",
+    "fr": "Une plante marécageuse avec une fleur en forme de cloche qui piège les insectes.",
+    "hu": "Ez a növény a mocsárban él, a virága harang alakú, és elkapja a rovarokat.",
+    // "it": "",
+    "ja": "昆虫を捕らえるための鐘型の袋を持つ、沼地に生息する植物。",
+    "pt": "Uma planta típica de pântanos em formato de sino que se alimenta de insetos.",
+    "ru": "Болотное растение с колоколообразным цветком, ловящим насекомых. ",
+    "tr": "Baharda ekilir. Etçil bir bitkiye dönüşmesi 15 gün sürer ve ilk hasattan sonra yetişmeye devam eder. Sırıkta yetişir.",
+    "zh": "一种生长在沼泽中的植物，因外形像猪笼而得名，能捕捉昆虫。"
+  }
 }

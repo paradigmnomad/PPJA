@@ -26,8 +26,8 @@
         "ja": "デイジー",
         "pt": "Margarida",
         "ru": "Маргаритка",
-        // "tr": "",
-        "zh": "雏菊",
+        "tr": "Papatya",
+        "zh": "雏菊"
     },
     "DescriptionLocalization":
     {
@@ -40,7 +40,7 @@
         "ja": "漢方薬に用いられる小さな可愛い花。花冠作りにも向いている。",
         "pt": "Uma pequena flor bonita, usada na fitoterapia. Também é bom para fazer coroas.",
         "ru": "Милый маленький цветок, используемый в фитотерапии. Также хорош для создания цветочных корон.",
-        // "tr": "",
+        "tr": "Bitkisel ilaçlarda kullanılan küçük sevimli bir çiçek.Taç yapmak için de iyi.",
         "zh": "一种可以入药的可爱小花。也可制作花冠。",
     },
     "ContextTags": [

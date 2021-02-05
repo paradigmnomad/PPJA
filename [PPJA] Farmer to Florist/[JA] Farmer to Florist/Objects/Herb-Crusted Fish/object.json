@@ -50,8 +50,8 @@
         "ja": "ハーブと魚のフライ",
         "pt": "Peixe com Crosta de Ervas",
         "ru": "Пряная рыба",
-        // "tr": "",
-        "zh": "酥炸香草鱼",
+        "tr": "Ot Kabuklu Balık",
+        "zh": "酥炸香草鱼"
     },
     "DescriptionLocalization":
     {
@@ -64,7 +64,7 @@
         "ja": "パン粉とハーブをまぶして揚げた魚。",
         "pt": "Um peixe a milanesa coberto de ervas e selado.",
         "ru": "Панированная рыба, покрытая зеленью и обжаренная.",
-        // "tr": "",
-        "zh": "酥炸香草鱼。给鱼裹上面包糠后外覆薰衣草入锅炸制而成。",
+        "tr": "Balığı otlarla kaplanıp kızartılmış ekmek arası balık.",
+        "zh": "酥炸香草鱼。给鱼裹上面包糠后外覆薰衣草入锅炸制而成。"
     }
 }

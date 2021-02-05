@@ -22,7 +22,7 @@
         //"ja": "",
         "pt": "Couro bison",
         // "ru": "",
-        // "tr": "",
+        "tr": "Bizon Derisi",
         "zh": "野牛皮",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         //"ja": "",
         "pt": "Um couro bisão que foi bronzeado",
         // "ru": "",
-        // "tr": "",
+        "tr": "Güneşte bekletilmiş bizon derisi.",
         "zh": "经过鞣制的野牛皮。",
     },
     "ContextTags": [

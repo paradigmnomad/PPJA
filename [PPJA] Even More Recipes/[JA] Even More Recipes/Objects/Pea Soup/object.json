@@ -45,7 +45,7 @@
         "ja": "グリーンピーススープ",
           "pt": "Sopa de ervilha",
          // "ru": "",
-         // "tr": "",
+        "tr": "Bezelye Çorbası",
         "zh": "豌豆汤",
     },
     "DescriptionLocalization":
@@ -59,7 +59,7 @@
         "ja": "主食のひとつ。",
           "pt": "Um alimento básico.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Olmazsa olmaz.",
         "zh": "一份主食。",
     }
 }

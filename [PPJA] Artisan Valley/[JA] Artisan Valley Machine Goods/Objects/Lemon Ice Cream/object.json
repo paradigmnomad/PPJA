@@ -23,21 +23,20 @@
         "ja": "レモンアイスクリーム",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "柠檬冰淇淋",
+        "tr": "Limonlu Dondurma",
+        "zh": "柠檬冰淇淋",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "풍성한 과일향이 향긋하고 새콤한 간식.",
-        "de": "Eine prickelnde, fruchtig, saure Erfrischung.",
-        "fr": "Un rafraîchissement plaisant, fruité et acidulé.",
-        "hu": "Egy népszerű, gyümölcsös, savanyú frissítő.",
-        // "it": "",
-        "ja": "フルーティーで酸味がさわやかな味。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "一种酸酸的果味提神点心，口感奇妙。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "풍성한 과일향이 향긋하고 새콤한 간식.",
+    "de": "Eine prickelnde, fruchtig, saure Erfrischung.",
+    "fr": "Un rafraîchissement plaisant, fruité et acidulé.",
+    "hu": "Egy népszerű, gyümölcsös, savanyú frissítő.",
+    // "it": "",
+    "ja": "フルーティーで酸味がさわやかな味。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Ferahlatıcı, ekşi, meyveli ve de süslü.",
+    "zh": "一种酸酸的果味提神点心，口感奇妙。"
+  }
 }

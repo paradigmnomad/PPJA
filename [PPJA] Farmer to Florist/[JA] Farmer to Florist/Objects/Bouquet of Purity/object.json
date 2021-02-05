@@ -47,8 +47,8 @@
         "ja": "純粋の花束",
         "pt": "Buquê da Pureza",
         "ru": "Букет невинности",
-         // "tr": "",
-        "zh": "纯洁花束",
+        "tr": "Saflık Buketi",
+        "zh": "纯洁花束"
     },
     "DescriptionLocalization":
     {
@@ -61,7 +61,7 @@
         "ja": "純白の花束。無邪気さと若さを象徴している。",
         "pt": "Flores brancas e puras, destinadas a simbolizar inocência e juventude.",
         "ru": "Чисто белые цветы, призванные символизировать невинность и молодость.",
-         // "tr": "",
+        "tr": "Masumiyeti ve saflığı sembolize eden bembeyaz çiçekler.",
         "zh": "纯白的花朵，象征着纯洁和青春。",
     }
 }

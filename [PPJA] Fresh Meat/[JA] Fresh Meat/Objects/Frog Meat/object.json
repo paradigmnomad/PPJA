@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Kurbağa Eti",
          "zh": "蛙肉",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bir kurbağanın eti. Acaba tadı tavuk gibi mi?",
          "zh": "青蛙肉。我想知道它尝起来是不是类似鸡肉的口感？",
     },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"

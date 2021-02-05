@@ -33,7 +33,7 @@
         "ja": "ワインイースト",
         "pt": "Levedura de Vinho",
         "ru": "Винные дрожжи",
-        // "tr": "",
+        "tr": "Şarap Mayası",
         "zh": "葡萄酒酵母",
     },
     "DescriptionLocalization":
@@ -47,7 +47,7 @@
         "ja": "醸造に役立つ。",
         "pt": "Útil para fermentação.",
         "ru": "Полезно для пивоварения.",
-        // "tr": "",
+        "tr": "İçki üretimi için yararlı",
         "zh": "用于酿造。",
     }
 }

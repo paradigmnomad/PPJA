@@ -45,21 +45,20 @@
         "ja": "天丼",
         "pt": "Tendon",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tendon",
         // "zh": "",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        "ja": "衣をつけて揚げた魚介類を炊きたてのご飯に乗せて食べる。",
-        "pt": "Frutos do mar esmagados e fritos colocados sobre uma cama de arroz recém-cozido.",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    "ja": "衣をつけて揚げた魚介類を炊きたてのご飯に乗せて食べる。",
+    "pt": "Frutos do mar esmagados e fritos colocados sobre uma cama de arroz recém-cozido.",
+    // "ru": "",
+    "tr": "Parçalanmış ve bol yağda kızartılmış deniz ürünü, buharda pişmiş taze pirincin üstüne konulmuş ",
+    // "zh": "",
+  }
 }

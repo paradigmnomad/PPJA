@@ -17,7 +17,7 @@
         "ja": "ゼラニウム",
         "pt": "Gerânio",
         "ru": "Герань",
-        // "tr": "",
+        "tr": "Turnagagası",
         "zh": "天竺葵",
     },
     "DescriptionLocalization":
@@ -31,7 +31,7 @@
         "ja": "園芸愛好家にとても人気の有る花。",
         "pt": "Esta flor é incrivelmente popular entre os jardineiros domésticos..",
         "ru": "Этот цветок невероятно популярен среди садоводов.",
-        // "tr": "",
+        "tr": "Bu çiçek ev bahçecileri arasında inanılmaz ünlüdür.",
         "zh": "这种花在园艺爱好者中特别受欢迎。",
     },
     "ContextTags": [

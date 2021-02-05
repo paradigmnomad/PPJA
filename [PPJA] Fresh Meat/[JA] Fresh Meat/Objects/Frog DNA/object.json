@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Kurbağa DNA'sı",
          "zh": "蛙类DNA",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "DNA sentezleyiciyle etraftaki kurbağaların taranmasıyla elde edilen DNA.",
          "zh": "用DNA离析机扫描青蛙得到的蛙类DNA。",
     },
     "ContextTags": [

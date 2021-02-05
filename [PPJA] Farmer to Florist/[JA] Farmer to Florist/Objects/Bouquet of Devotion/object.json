@@ -46,8 +46,8 @@
         "ja": "献身の花束",
         "pt": "Buquê de Devoção",
         "ru": "Букет преданности",
-         // "tr": "",
-        "zh": "忠贞花束",
+        "tr": "Bağlılık Buketi",
+        "zh": "忠贞花束"
     },
     "DescriptionLocalization":
     {
@@ -60,7 +60,7 @@
         "ja": "赤紫色の花束。他者への献身を象徴している。",
         "pt": "Um buquê de flores de cor magenta. É para mostrar a devoção de alguém para outro.",
         "ru": "Букет цветов пурпурного цвета. Предназначен для выражения своей преданности тому, кто его получит.",
-         // "tr": "",
-        "zh": "一束品红色的花，它象征着一个人对另一个人的忠诚。",
+        "tr": "Eflatun çiçeklerden bir buket. Anlamı ise birinin ötekine bağlılığı.",
+        "zh": "一束品红色的花，它象征着一个人对另一个人的忠诚。"
     }
 }

@@ -38,7 +38,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Hamburger Köftesi",
         "zh": "牛肉饼",
     },
     "DescriptionLocalization":
@@ -52,7 +52,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Geleneksel sığırdan hamburger köftesi.",
         "zh": "传统的牛肉汉堡馅饼。",
     }
 }

@@ -40,7 +40,7 @@
         "ja": "ソフトプレッツェル",
         "pt": "Pretzel macio",
          // "ru": "",
-         // "tr": "",
+        "tr": "Brezel",
         "zh": "蝴蝶圈饼",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
         "ja": "クラシックなスナック。",
         "pt": "Um lanche clássico.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Klasik bir atıştırmalık.",
         "zh": "经典的小吃。",
     }
 }

@@ -51,7 +51,7 @@
           "ja": "ストロベリーマカロン",
           "pt": "Macaron de morango",
            // "ru": "",
-           // "tr": "",
+          "tr": "Çilekli Makaron",
           "zh": "草莓马卡龙",
       },
       "DescriptionLocalization":
@@ -65,7 +65,7 @@
           "ja": "イチゴ風味のマカロンの典型。",
           "pt": "O melhor macaron de todos, com sabor de morangos.",
            // "ru": "",
-           // "tr": "",
+          "tr": "Özetle çilek tadı olan makaron.",
           "zh": "很经典的马卡龙，草莓味的。",
       }
   }

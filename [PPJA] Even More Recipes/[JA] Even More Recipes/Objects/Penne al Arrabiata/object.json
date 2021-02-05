@@ -49,7 +49,7 @@
         "ja": "ペンネアラビアータ",
         "pt": "Penne al Arrabiata",
         // "ru": "",
-        // "tr": "",
+        "tr": "Arabiata Soslu Makarna",
         "zh": "香辣茄酱直通粉",
     },
     "DescriptionLocalization":
@@ -63,7 +63,7 @@
         "ja": "とても辛いイタリアの伝統料理。",
         "pt": "Um clássico italiano muito picante.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Çok acılı bir İtalyan klasiği.",
         "zh": "非常辣的意大利经典面食。",
     }
 }

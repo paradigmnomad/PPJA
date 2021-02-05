@@ -33,32 +33,32 @@
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2000,
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Schnitzel",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Uma fina fatia de carne de porco frita em gordura.",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "NameLocalization": 
+  {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Schnitzel",
+    // "ru": "",
+    "tr": "Þinitzel"
+    // "zh": "",
+  },
+  "DescriptionLocalization": 
+  {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Uma fina fatia de carne de porco frita em gordura.",
+    // "ru": "",
+    "tr": "Ýnce bir dilim domuz eti yaðda kýzartýlmýþ."
+    // "zh": "",
+  }
 }

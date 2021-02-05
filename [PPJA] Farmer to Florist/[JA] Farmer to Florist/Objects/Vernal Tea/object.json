@@ -58,8 +58,8 @@
         "ja": "春のお茶",
         "pt": "Chá Vernal",
         "ru": "Весенний чай",
-        // "tr": "",
-        "zh": "春日茶",
+        "tr": "Bahar Çayı",
+        "zh": "春日茶"
     },
     "DescriptionLocalization":
     {
@@ -72,7 +72,7 @@
         "ja": "甘い花のお茶。忙しい1日の朝にぴったり。",
         "pt": "Um chá doce e florido.  É o começo perfeito para um dia agitado.",
         "ru": "Сладкий цветочный чай. Идеальный способ начать день.",
-        // "tr": "",
-        "zh": "春日茶。味道甜美的花茶。完美的一天由此开始。",
+        "tr": "Tatlı, çiçekli bir çay. Meşgul bir güne birlikte başlamak için mükemmel",
+        "zh": "春日茶。味道甜美的花茶。完美的一天由此开始。"
     }
 }

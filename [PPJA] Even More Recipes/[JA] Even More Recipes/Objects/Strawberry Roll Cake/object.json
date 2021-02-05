@@ -49,7 +49,7 @@
         "ja": "イチゴのロールケーキ",
         "pt": "Rocambole de morango",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çilekli Rulo Pasta",
         "zh": "草莓蛋糕卷",
     },
     "DescriptionLocalization":
@@ -63,7 +63,7 @@
         "ja": "イチゴのおいしさが引き出されてる！",
          // "pt": "",
          // "ru": "",
-         // "tr": "",
+        "tr": "Leziz çilek özü!",
         "zh": "天哪！草莓味的也太好吃了点吧！",
     }
 }

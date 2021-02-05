@@ -23,21 +23,20 @@
         "ja": "アマレーナアイスクリーム",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Amarena Dondurma",
         "zh": "阿玛蕾娜樱桃冰淇淋",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "체리주의 향이 감도는 어른스러운 간식.",
-        "de": "Leicht alkoholische Spezialität mit Kirscharoma.",
-        "fr": "Spécialité légèrement alcoolisée à l'arôme naturel de cerise.",
-        "hu": "Egy enyhén alkoholos különlegesség valódi cseresznye aromával.",
-        // "it": "",
-        "ja": "サクランボが材料のジェラート。かすかにお酒の風味がある。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "散发天然樱桃芳香的冰淇淋，在香味中又蕴含一丝酒精的味道。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "체리주의 향이 감도는 어른스러운 간식.",
+    "de": "Leicht alkoholische Spezialität mit Kirscharoma.",
+    "fr": "Spécialité légèrement alcoolisée à l'arôme naturel de cerise.",
+    "hu": "Egy enyhén alkoholos különlegesség valódi cseresznye aromával.",
+    // "it": "",
+    "ja": "サクランボが材料のジェラート。かすかにお酒の風味がある。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Doğal kiraz aromalı ve biraz alkolik özelliğe sahip.", //Benim kiraz yerine önce yanlışlıkla çilek yazmam??('Çeri','Çilek'?)
+    "zh": "散发天然樱桃芳香的冰淇淋，在香味中又蕴含一丝酒精的味道。"
+  }
 }

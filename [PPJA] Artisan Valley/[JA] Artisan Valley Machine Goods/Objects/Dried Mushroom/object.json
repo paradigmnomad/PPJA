@@ -21,7 +21,7 @@
         "ja": "干しキノコ",
         "pt": "Cogumelos Secos",
         "ru": "Сушёные грибы.",
-         // "tr": "",
+        "tr": "Kurutulmuş Mantar",
         "zh": "干蘑菇",
     },
     "DescriptionLocalization":
@@ -35,7 +35,7 @@
         "ja": "乾燥させたキノコのビン詰め。",
         "pt": "Uma jarra de cogumelos secos.",
         "ru": "Баночка сушёных грибов.",
-         // "tr": "",
+        "tr": "Bir kavanoz kurutulmuş mantar.",
         "zh": "一罐干的蘑菇。",
     }
 }

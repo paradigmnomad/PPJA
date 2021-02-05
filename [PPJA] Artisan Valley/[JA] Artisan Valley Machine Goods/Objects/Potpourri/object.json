@@ -22,21 +22,20 @@
         "ja": "ポプリ",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+       "tr": "Potpuri",
         "zh": "百花香囊",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una fragancia natural fragante con aromas en pétalos secos.",
-        "ko": "말린 꽃잎에 아로마 향기를 불어넣은 향긋한 천연 방향제.",
-        //"de": "",
-        "fr": "Mélange de plantes et de fleurs séchées choisies pour leurs parfums et arômes.",
-        "hu": "Egy illatos természetes illat a szárított virágszirmok aromájával.",
-        // "it": "",
-        "ja": "乾燥した花びらにアロマが香る天然の芳香剤。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "天然芳香剂，散发着干花瓣的芬芳。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una fragancia natural fragante con aromas en pétalos secos.",
+    "ko": "말린 꽃잎에 아로마 향기를 불어넣은 향긋한 천연 방향제.",
+    //"de": "",
+    "fr": "Mélange de plantes et de fleurs séchées choisies pour leurs parfums et arômes.",
+    "hu": "Egy illatos természetes illat a szárított virágszirmok aromájával.",
+    // "it": "",
+    "ja": "乾燥した花びらにアロマが香る天然の芳香剤。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Kurutulmuş çiçeklerdeki aroma kokan doğal koku.",
+    "zh": "天然芳香剂，散发着干花瓣的芬芳。"
+  }
 }

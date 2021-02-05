@@ -46,8 +46,8 @@
         "ja": "憧憬の花束",
         "pt": "Buquê da Saudade",
         "ru": "Букет вожделения",
-         // "tr": "",
-        "zh": "憧憬花束",
+        "tr": "Özlem Buketi",
+        "zh": "憧憬花束"
     },
     "DescriptionLocalization":
     {
@@ -60,7 +60,7 @@
         "ja": "紫紺の花束。終わらない欲望を象徴している。",
         "pt": "Um arranjo de flores roxas escuras, significava uma manifestação de desejo persistente.",
         "ru": "Композиция из темно-фиолетовых цветов, предназначенная для выражения сохраняющегося вожделения.",
-         // "tr": "",
-        "zh": "暗紫色的花束，蕴含着强烈的渴望的心情。",
+        "tr": "Koyu mor çiçeklerin bir kombinasyonu, özlemini göstermek için.",
+        "zh": "暗紫色的花束，蕴含着强烈的渴望的心情。"
     }
 }

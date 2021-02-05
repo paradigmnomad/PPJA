@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Tavuk DNA'sı",
          "zh": "鸡类DNA",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bir yumurtadan alınmış tavuk DNA'sı.",
          "zh": "从鸡蛋中提取的一些鸡类DNA。",
     },
     "ContextTags": [

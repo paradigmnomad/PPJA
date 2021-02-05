@@ -44,7 +44,7 @@
         "ja": "ティラディート",
         "pt": "Tiradito",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tiradito",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -58,7 +58,7 @@
         "ja": "薄くスライスした生魚にレモンとライムのソースと香味野菜をトッピングしたもの。",
         "pt": "Feito com peixes finos fatiados, crus, legumes e gotas de sucos de limão.",
         // "ru": "",
-        // "tr": "",
+        "tr": "İnce dilimlenmiş çiğ balık, sebzeler,limon ve misket limonu sulu sosla yapılmış.",
         // "zh": "",
     }
 }

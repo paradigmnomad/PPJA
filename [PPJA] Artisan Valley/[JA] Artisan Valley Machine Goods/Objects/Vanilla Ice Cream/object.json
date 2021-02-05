@@ -23,7 +23,7 @@
         "ja": "バニラアイスクリーム",
         "pt": "Sorvete de Baunilha",
         "ru": "Ванильное мороженое",
-         // "tr": "",
+        "tr": "Vanilyalı Dondurma",
         "zh": "香草冰淇淋",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "定番を選んでおけば間違いありません。",
         "pt": "Você nunca pode enganar-se com os clássicos.",
         "ru": "Вы никогда не ошибетесь с классикой.",
-         // "tr": "",
+        "tr": "Klasiklerle asla kötü yapmazsın.",
         "zh": "你绝对不要错过这份经典的味道。",
     }
 }

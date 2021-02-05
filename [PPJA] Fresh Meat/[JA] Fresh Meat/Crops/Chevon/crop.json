@@ -29,7 +29,7 @@
         "ja": "ヤギ肉の種",
         "pt": "Sementes de... Cabra?",
         "ru": "Семена козлятины",
-        // "tr": "",
+        "tr": "Keçi Tohumu",
         "zh": "山羊肉种子",
     },
     "SeedDescriptionLocalization":
@@ -43,7 +43,7 @@
         "ja": "夏と秋植えの作物。8日で収穫できる。",
         "pt": "Plante-as no verão ou no outono. Demoram 8 dias para amadurecer.",
         "ru": "Сажайте летом или осенью. Вырастает через 8 дней.",
-        // "tr": "",
+        "tr": "Yazın veya güzde ekilir. 8 günde yetişir.(İyi o zaman Marnie'ye para vermek yerine bunu ekelim. :D)",
         "zh": "夏天或秋天播种。8天成熟。",
     },
 }

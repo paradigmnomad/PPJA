@@ -53,7 +53,7 @@
         "ja": "ペカンナッツパイ",
         "pt": "Torta de nozes",
          // "ru": "",
-         // "tr": "",
+        "tr": "Pekanlı Turta",
         "zh": "核桃派",
     },
     "DescriptionLocalization":
@@ -67,7 +67,7 @@
         "ja": "つや出しをしたナッツパイ。",
         "pt": "Uma torta de nozes com cobertura de glacé.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Parlak süslemeli yemişli bir turta.",
         "zh": "这份派上面覆盖着核桃。",
     }
 }

@@ -45,8 +45,8 @@
         "ja": "菊とデイジーのゆで野菜",
         "pt": "Cozido Verde",
         "ru": "Вареная зелень",
-        // "tr": "",
-        "zh": "菊汁小白菜",
+        "tr": "Kaynamış Yeşillikler",
+        "zh": "菊汁小白菜"
     },
     "DescriptionLocalization":
     {
@@ -59,7 +59,7 @@
         "ja": "苦いけど体に良い。",
         "pt": "É amargo, mas é saudável.",
         "ru": "Горько, но полезно.",
-        // "tr": "",
-        "zh": "其味苦涩，但很养生。",
+        "tr": "Acı ama sağlıklı.",
+        "zh": "其味苦涩，但很养生。"
     }
 }

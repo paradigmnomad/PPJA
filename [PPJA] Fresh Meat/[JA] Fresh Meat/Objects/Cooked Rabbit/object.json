@@ -39,7 +39,7 @@
         "ja": "調理済みウサギ肉",
         "pt": "Coelho cozido",
         "ru": "Приготовленная крольчатина",
-        // "tr": "",
+        "tr": "Pişmiş Tavşan Eti",
         "zh": "熟兔肉",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         "ja": "臭みを取り除いたウサギ肉。下ごしらえが済んでいるのですぐにレシピで使えます。",
         "pt": "Um corte saboroso de um coelho, totalmente cozido e pronto para ser usado em uma receita.",
         "ru": "Вырезка из кролика, полностью готовая для использования в рецепте.",
-        // "tr": "",
+        "tr": "Bir tavşan eti parçası, zaten pişmiş ve tariflerde kullanıma hazır.",
         "zh": "从兔子身上切下的肉，煮熟后可用于烹饪。",
     },
     "ContextTags": [

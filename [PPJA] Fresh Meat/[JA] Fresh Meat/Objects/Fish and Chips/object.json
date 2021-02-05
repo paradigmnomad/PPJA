@@ -35,32 +35,30 @@
         "PurchasePrice": 2000,
         "PurchaseRequirements": ["HasCookingRecipe Batter", "y 4"]
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Peixe e Batatas Fritas",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Um filÃ© de peixe recÃ©m-frito com grandes batatas fritas fatiadas. Um clÃ¡ssico.",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "NameLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Peixe e Batatas Fritas",
+    // "ru": "",
+    "tr": "Balýk ve Cips"
+    // "zh": "",
+  },
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Um filé de peixe recém-frito com grandes batatas fritas fatiadas. Um clássico.",
+    // "ru": "",
+    "tr": "Taze kýzartýlmýþ bir balýk filetonun yanýnda büyük dilimli patates kýzartmasý. Bir klasik."
+    // "zh": "",
+  }
 }

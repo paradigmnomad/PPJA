@@ -44,7 +44,7 @@
         "ja": "イチゴのクリームアイスバー",
         "pt": "Picolé de creme de morango",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çilek Kremalı Çubuklu Dondurma",
         "zh": "草莓奶油雪糕",
     },
     "DescriptionLocalization":
@@ -58,7 +58,7 @@
         "ja": "アイス棒にイチゴのおいしさ！",
         "pt": "Um morango suculento no palito!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çubukta çilek güzelliği!",
         "zh": "草莓的精华都在这根雪糕上！",
     }
 }

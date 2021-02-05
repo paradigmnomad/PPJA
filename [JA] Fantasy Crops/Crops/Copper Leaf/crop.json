@@ -30,7 +30,7 @@
     "ja": "銅の種",
     "pt": "Sementes de cobre",
     "ru": "Семена меди",
-    "tr": "Bakır Tohumlar",
+    "tr": "Bakır Tohumu",
     "zh": "铜矿种子"
     },
 "SeedDescriptionLocalization": { 
@@ -43,7 +43,7 @@
     "ja": "これらを春に植えます。 成熟するのに10日かかります。",
     "pt": "Plante-as na primavera. Leva 10 dias para amadurecer.",
     "ru": "Высаживайте их весной. Вырастают за 10 дней.",
-    "tr": "Bunları ilkbaharda dikin. Olgunlaşması 10 gün sürer.",
+    "tr": "Baharda ekilir. 10 günde yetişir.",
     "zh": "春天播种。10天成熟。"
     }
 }

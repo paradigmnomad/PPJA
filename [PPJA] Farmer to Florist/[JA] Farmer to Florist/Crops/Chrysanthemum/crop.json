@@ -20,35 +20,33 @@
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 1,
         "MaxIncreasePerFarmLevel": 5,
-        "ExtraChance": 0.0,
+        "ExtraChance": 0.0
     },
     "SeedPurchasePrice": 15,
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de crisantemo",
-        "ko": "국화 씨앗",
-        "de": "Chrysantheme-Saat",
-        // "fr": "",
-        "hu": "Krizantém magvak",
-        // "it": "",
-        "ja": "キクの種",
-        "pt": "Semente de Crisântemo",
-        "ru": "Семена хризантемы",
-        // "tr": "",
-        "zh": "菊花种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en otoño. Toma 4 días para producir flores.",
-        "ko": "가을에 심습니다. 4일후에 꽃이 핍니다.",
-        "de": "Pflanze im Herbst. Dauert 4 Tage, um Blumen zu produzieren.",
-        // "fr": "",
-        "hu": "Ezeket ősszel ültesd el. 4 nap alatt hoz virágokat.",
-        // "it": "",
-        "ja": "秋植えの花。4日かけて育ち花を咲かせる。",
-        "pt": "Plante-a  no outono. Demoram 4 dias para nascerem flores.",
-        "ru": "Сажайте осенью. Вырастает через 4 дня.",
-        // "tr": "",
-        "zh": "秋天播种。4天后开花。",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de crisantemo",
+    "ko": "국화 씨앗",
+    "de": "Chrysantheme-Saat",
+    // "fr": "",
+    "hu": "Krizantém magvak",
+    // "it": "",
+    "ja": "キクの種",
+    "pt": "Semente de Crisântemo",
+    "ru": "Семена хризантемы",
+    "tr": "Kasımpatı Tohumu",
+    "zh": "菊花种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en otoño. Toma 4 días para producir flores.",
+    "ko": "가을에 심습니다. 4일후에 꽃이 핍니다.",
+    "de": "Pflanze im Herbst. Dauert 4 Tage, um Blumen zu produzieren.",
+    // "fr": "",
+    "hu": "Ezeket ősszel ültesd el. 4 nap alatt hoz virágokat.",
+    // "it": "",
+    "ja": "秋植えの花。4日かけて育ち花を咲かせる。",
+    "pt": "Plante-a  no outono. Demoram 4 dias para nascerem flores.",
+    "ru": "Сажайте осенью. Вырастает через 4 дня.",
+    "tr": "Güzde ekilir. 4 günde yetişir.",
+    "zh": "秋天播种。4天后开花。"
+  }
 }

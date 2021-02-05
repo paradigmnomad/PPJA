@@ -21,7 +21,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Geyik Boynuzu",
         "zh": "鹿茸",
     },
     "DescriptionLocalization":
@@ -35,7 +35,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tek bir geyik boynuzu",
         "zh": "一种奇异的鹿角。",
     },  
     "EnableWithMod": "Cherry.MultiYieldCrops"    

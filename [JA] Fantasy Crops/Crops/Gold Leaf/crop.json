@@ -30,7 +30,7 @@
     "ja": "金の種",
     "pt": "Sementes de ouro",
     "ru": "Семена золота",
-    "tr": "Altın Tohumlar",
+    "tr": "Altın Tohumu",
     "zh": "金矿种子"
     },
 "SeedDescriptionLocalization": { 
@@ -43,7 +43,7 @@
     "ja": "秋にこれらを植えます。 成熟するには20日かかります。",
     "pt": "Plante-as no outono. Leva 20 dias para amadurecer.",
     "ru": "Высаживайте их осенью. Созревание занимает 20 дней.",
-    "tr": "Bunları sonbaharda ekin. Olgunlaşması 20 gün sürer.",
+    "tr": "Güzde ekilir. 20 günde yetişir.",
     "zh": "秋天播种。20天成熟。"
     }
 }

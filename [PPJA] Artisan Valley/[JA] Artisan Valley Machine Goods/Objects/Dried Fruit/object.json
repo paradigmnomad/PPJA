@@ -22,7 +22,7 @@
         "ja": "ドライフルーツ",
         "pt": "Fruta Seca",        
         "ru": "Сухофрукт",
-         // "tr": "",
+        "tr": "Kurutulmuş Meyve",
         "zh": "水果干",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "乾燥させたくだものの箱詰め。",
         "pt": "Uma caixa de frutas desidratadas",
         "ru": "Коробка с обезвоженными фруктами.",
-         // "tr": "",
+        "tr": "Bir kutu kurutulmuş meyve.",
         "zh": "一盒水果干。",
     }
 }

@@ -52,7 +52,7 @@
         "ja": "キツネドーナツ",
         "pt": "Donut de raposinha",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tilki Şekilli Donut",
         "zh": "小狐狸甜甜圈",
     },
     "DescriptionLocalization":
@@ -66,7 +66,7 @@
         "ja": "キツネの形をしています！かわいいね！",
         "pt": "Tem o formato de uma raposa! Que fofo!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tilki şeklinde! Ne kadar sevimli!",
         "zh": "它的形状像一只小狐狸，超可爱！",
     }
 }

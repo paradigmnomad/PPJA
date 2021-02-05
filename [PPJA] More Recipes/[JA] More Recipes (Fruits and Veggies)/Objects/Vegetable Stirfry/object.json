@@ -40,32 +40,30 @@
         "Neutral": ["Dwarf", "Elliott", "Krobus"],
         "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
     },
-    "NameLocalization":
-    {
-        "es": "Vegetales salteados",
-        "ko": "야채 볶음",
-        "de": "Gebratenes Wokgemüse",
-        "fr": "Poêlée de légumes",
-         // "hu": "",
-         // "it": "",
-        "ja": "野菜炒め",
-        "pt": "Salteados de legumes",
-        "ru": "Овощной стир-фрай",
-         // "tr": "",
-        "zh": "炒时蔬",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Verduras salteadas.",
-        "ko": "달구어 볶은 야채.",
-        "de": "Angebratene Gemüsestreifen.",
-        "fr": "Légumes sautés à la poêle.",
-         // "hu": "",
-         // "it": "",
-        "ja": "野菜を炒めたもの。",
-        "pt": "Legumes salteados.",
-        "ru": "Обжаренные овощи.",
-         // "tr": "",
-        "zh": "炒时蔬。简单的炒蔬菜。",
-    }
+  "NameLocalization": {
+    "es": "Vegetales salteados",
+    "ko": "야채 볶음",
+    "de": "Gebratenes Wokgemüse",
+    "fr": "Poêlée de légumes",
+    // "hu": "",
+    // "it": "",
+    "ja": "野菜炒め",
+    "pt": "Salteados de legumes",
+    "ru": "Овощной стир-фрай",
+    "tr": "Sebzeli Vogda Kızartma",
+    "zh": "炒时蔬"
+  },
+  "DescriptionLocalization": {
+    "es": "Verduras salteadas.",
+    "ko": "달구어 볶은 야채.",
+    "de": "Angebratene Gemüsestreifen.",
+    "fr": "Légumes sautés à la poêle.",
+    // "hu": "",
+    // "it": "",
+    "ja": "野菜を炒めたもの。",
+    "pt": "Legumes salteados.",
+    "ru": "Обжаренные овощи.",
+    "tr": "Sotelenmiş sebzeler.",
+    "zh": "炒时蔬。简单的炒蔬菜。"
+  }
 }

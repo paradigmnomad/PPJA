@@ -39,7 +39,7 @@
         "ja": "ミントシュナップス",
         "pt": "Aguardente de Menta",
         "ru": "Мятный шнапс",
-         // "tr": "",
+        "tr": "Nane Schnapps",
         "zh": "薄荷味烈酒",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         "ja": "飲む時はほどほどに。",
         "pt": "Beba com moderação!",
         "ru": "Пейте в меру.",
-         // "tr": "",
+        "tr": "Kararında içilmeli.",
         "zh": "适量饮酒。",
     }
 }

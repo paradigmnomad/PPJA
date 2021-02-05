@@ -23,33 +23,33 @@
     },
 
 	"SeedPurchaseRequirements": [
-		"y 3",
+		"y 3"
 	],
     "SeedPurchasePrice": 50,
-    "SeedNameLocalization": { 
+  "SeedNameLocalization": {
     "es": "Semillas de hortensia",
     "ko": "수국 씨앗",
     "de": "Hortensie Samen",
-     // "fr": "",
+    // "fr": "",
     "hu": "Hortenzia magvak",
-     // "it": "",
+    // "it": "",
     "ja": "アジサイの種",
     "pt": "Semente de Hortênsia",
     "ru": "Семена гортензии",
-     // "tr": "",
-    "zh": "八仙花种子",
-    },
-"SeedDescriptionLocalization": { 
+    "tr": "Ortanca Tohumu",
+    "zh": "八仙花种子"
+  },
+  "SeedDescriptionLocalization": {
     "es": "Plántalas en verano. Toma 10 días para producir un grupo de flores redondas.",
     "ko": "여름에 심습니다. 10일후에 작은 송이의 꽃들이 둥글게 모여 핍니다.",
     "de": "Im Sommer pflanzen. Dauert 10 Tage, um runde Blütenbüschel zu bilden.",
-     // "fr": "",
+    // "fr": "",
     "hu": "Ezeket nyáron ültesd el. 10 nap alatt hoz egy gömb alakú virágot.",
-     // "it": "",
+    // "it": "",
     "ja": "夏植えの花。10日かけて育ち、房の丸い花を咲かせる。",
     "pt": "Plante-a no verão. Demoram 10 dias para crescer conjuntos redondos de flores.",
     "ru": "Сажайте летом. Через 10 дней вырастает круглый пучок цветов.",
-     // "tr": "",
-    "zh": "夏天播种。10天产出圆形花簇。",
-    }
+    "tr": "Yazın ekilir. 10 günde yuvarlak çiçek kümelerine dönüşür.",
+    "zh": "夏天播种。10天产出圆形花簇。"
+  }
 }

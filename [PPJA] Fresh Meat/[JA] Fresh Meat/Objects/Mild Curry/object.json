@@ -55,7 +55,7 @@
          // "ja": "",
          // "pt": "",
          // "ru": "",
-         // "tr": "",
+        "tr": "Hafif Küri",
         "zh": "微辣咖喱",
     },
     "DescriptionLocalization":
@@ -69,7 +69,7 @@
          // "ja": "",
          // "pt": "",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tuzlu, biraz tatlı olan küri tavukla bir araya gelmiş.",
         "zh": "微辣咖喱。一种美味的，略带甜味的咖喱，其中掺有鸡肉。",
     }
 }

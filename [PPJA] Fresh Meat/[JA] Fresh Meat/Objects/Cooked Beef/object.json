@@ -39,7 +39,7 @@
         "ja": "調理済み牛肉",
         "pt": "Carne cozida",
         "ru": "Приготовленная говядина",
-        // "tr": 
+        "tr": "Pişmiş Sığır Eti",
         "zh": "熟牛肉",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         "ja": "下ごしらえが済んだ分厚くてジューシーな牛肉の切り身。",
         "pt": "Um grosso e suculento pedaço de bife, já cozido e pronto para ser usado em receitas.",
         "ru": "Толстый, сочный кусок говядины, готовый к использованию в рецептах.",
-        // "tr": "",
+        "tr": "Kaba ve sulu bir parça sığır eti, zaten pişmiş ve tariflerde kullanıma hazır.",
         "zh": "一块又厚又多汁的牛肉，已经煮熟，可以用于烹饪。",
     },
     "ContextTags": [

@@ -34,21 +34,20 @@
         "ja": "ペッパーブレンダー",
         "pt": "Liquidificador de Pimenta",
         "ru": "Смешиватель перцев",
-        // "tr": "",
+        "tr": "Biber Blender'ı",
         "zh": "辣椒搅拌机",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Mezcla pimientos en un delicioso líquido picante",
-        "ko": "고추를 갈아 맛있고 매운 추출액을 만들 수 있습니다.",
-        "de": "Mixt Pfeffer zu einer leckeren, scharfen Flüssigkeit.",
-        "fr": "Mixe les poivres en de délicieux liquides épicés.",
-        "hu": "Borsból állít elő pikáns folyadékot.",
-        // "it": "",
-        "ja": "トウガラシをスパイシーでおいしいエキスにする。",
-        "pt": "Usado para transformar pimenta em um extrato picante.",
-        "ru": "Молотит перцы в вкусную пряную жидкость.",
-        // "tr": "",
-        "zh": "把辣椒搅拌成美味的辣味液体。",
-    }
+  "DescriptionLocalization": {
+    "es": "Mezcla pimientos en un delicioso líquido picante",
+    "ko": "고추를 갈아 맛있고 매운 추출액을 만들 수 있습니다.",
+    "de": "Mixt Pfeffer zu einer leckeren, scharfen Flüssigkeit.",
+    "fr": "Mixe les poivres en de délicieux liquides épicés.",
+    "hu": "Borsból állít elő pikáns folyadékot.",
+    // "it": "",
+    "ja": "トウガラシをスパイシーでおいしいエキスにする。",
+    "pt": "Usado para transformar pimenta em um extrato picante.",
+    "ru": "Молотит перцы в вкусную пряную жидкость.",
+    "tr": "Biberleri leziz ve acılı bir sıvı için parçalar.",
+    "zh": "把辣椒搅拌成美味的辣味液体。"
+  }
 }

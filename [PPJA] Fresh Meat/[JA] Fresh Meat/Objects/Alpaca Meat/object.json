@@ -23,7 +23,7 @@
         // "ja": "",
          "pt": "Carne de Alpaca",
         // "ru": "",
-        // "tr": "",
+         "tr": "Alpaka Eti",
          "zh": "羊驼肉",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
          "pt": "Um corte de carne de uma alpaca.",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bir alpakadan bir parça et.",
          "zh": "从羊驼身上切下来的肉。",
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"

@@ -48,7 +48,7 @@
         // "ja": "",
         "pt": "Caldo de carne",
         "ru": "Говяжий бульон",
-        // "tr": "",
+        "tr": "Sığır Etsuyu Güveci",
         "zh": "牛肉高汤",
     },
     "DescriptionLocalization":
@@ -62,7 +62,7 @@
         // "ja": "",
          "pt": "Ensopado caldo de carne que é muitas vezes usado como base para sopa.",
         "ru": "Бульон из тушёной говядины, который часто используют в качестве основы для одноимённого супа.",
-        // "tr": "",
+        "tr": "Normalde çorba ana malzemesi olarak kullanılan sığır et suyu, burada güveç yapılmış.",
         "zh": "牛肉高汤。这是一碗牛肉高汤，简单点来说，它常常作为汤底。",
     }
 }

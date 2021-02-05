@@ -21,7 +21,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Ejderha Eti",
          "zh": "龙肉",
     },
     "DescriptionLocalization":
@@ -35,7 +35,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Yeşilimsi garip bir ejderha bifteği.",
          "zh": "从一条龙身上切下来的奇怪绿色肉排。",
     },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"

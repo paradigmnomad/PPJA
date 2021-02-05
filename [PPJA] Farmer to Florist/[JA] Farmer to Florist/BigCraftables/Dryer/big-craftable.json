@@ -35,7 +35,7 @@
         "ja": "乾燥ラック", //Japanese
         "pt": "Secador", //Portuguese
         "ru": "Сушилка", //Russian
-        //"tr": "", //Turkish
+        "tr": "Kurutucu",//Turkish
         "zh": "晾晒架", //Chinese (Simplified)
     },
     "DescriptionLocalization": //Used for localization. 
@@ -49,7 +49,7 @@
         "ja": "草花を乾燥させてお茶にしたり、野菜チップスを作るのに使われる。", //Japanese
         "pt": "É usado para secar folhas e flores para fazer chá e seca legumes para fazer frituras.", //Portuguese
         "ru": "Используется для сушки цветов и листьев для последующего приготовления чая и сушки овощей в чипсы.", //Russian
-        //"tr": "", //Turkish
+        "tr": "Çiçekleri ve yaprakları çay yapımı için, sebzeleri de cips yapmak için kurutur.",//Turkish
         "zh": "用来把花和叶子晒干，把蔬菜做成蔬菜脆片。", //Chinese (Simplified)
     }
 }

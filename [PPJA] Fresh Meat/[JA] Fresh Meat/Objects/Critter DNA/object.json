@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Yaratık DNA'sı",
          "zh": "小动物DNA",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Dünyanın etrafındaki çeşitli yaratıkları DNA sentezleyiciyle tarayarak alınmış DNA.",
          "zh": "用DNA离析机扫描星露谷世界里找到的各种各样的小生灵后获得的DNA样本。",
     },
     "ContextTags": [

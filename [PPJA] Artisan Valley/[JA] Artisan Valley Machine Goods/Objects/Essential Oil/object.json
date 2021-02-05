@@ -23,21 +23,20 @@
         "ja": "精油",
         "pt": "Óleo Essencial", 
         "ru": "Эфирное масло",
-         // "tr": "",
+        "tr": "Esans Yağı",
         "zh": "精油",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un líquido concentrado que contiene los compuestos aromáticos de una planta.",
-        "ko": "식물의 방향 화합물이 포함된 농축액.",
-        "de": "Eine konzentrierte Flüssigkeit, die die Aromaverbindungen einer Pflanze enthält.",
-        "fr": "Un liquide concentré contenant les composés aromatiques d'une plante.",
-        "hu": "Egy sűrített folyadék, mely a növény aroma összetevőit tartalmazza.",
-         // "it": "",
-        "ja": "植物の芳香成分を濃縮させたエキス。",
-        "pt": "Um líquido concentrado que contém os compostos aromáticos de uma planta.",
-        "ru": "Концентрированная жидкость, содержащая ароматические соединения растений.",
-         // "tr": "",
-        "zh": "含有植物芳香化合物的浓缩液体。 ",
-    }
+  "DescriptionLocalization": {
+    "es": "Un líquido concentrado que contiene los compuestos aromáticos de una planta.",
+    "ko": "식물의 방향 화합물이 포함된 농축액.",
+    "de": "Eine konzentrierte Flüssigkeit, die die Aromaverbindungen einer Pflanze enthält.",
+    "fr": "Un liquide concentré contenant les composés aromatiques d'une plante.",
+    "hu": "Egy sűrített folyadék, mely a növény aroma összetevőit tartalmazza.",
+    // "it": "",
+    "ja": "植物の芳香成分を濃縮させたエキス。",
+    "pt": "Um líquido concentrado que contém os compostos aromáticos de uma planta.",
+    "ru": "Концентрированная жидкость, содержащая ароматические соединения растений.",
+    "tr": "Bir bitkinin aromasını içeren konsantre edilmiş sıvı.",
+    "zh": "含有植物芳香化合物的浓缩液体。 "
+  }
 }

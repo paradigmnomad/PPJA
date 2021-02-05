@@ -22,21 +22,20 @@
         "ja": "そば麺",
         "pt": "Macarrão Sobá",
         "ru": "Гречневая лапша",
-         // "tr": "",
+        "tr": "Karabuğday Noodle",
         "zh": "荞麦面",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una bolsa de fideos gruesos, con sabor a tierra.",
-        "ko": "소박한 맛의 국수 한 봉지.",
-        "de": "Eine Tüte mit groben, erdigen Nudeln.",
-        "fr": "Un sac de nouilles grossières, à saveur terreuse.",
-        "hu": "Egy zacskó durva, 'földes' ízű tészta.",
-         // "it": "",
-        "ja": "粗めに切られた素朴な風味の麺",
-        "pt": "Uma bolsa de trigo grosso, com sabor terroso.",
-        "ru": "Мешок с грубой лапшой, имеющей земляной привкус.",
-         // "tr": "",
-        "zh": "一袋粗的荞麦面条。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una bolsa de fideos gruesos, con sabor a tierra.",
+    "ko": "소박한 맛의 국수 한 봉지.",
+    "de": "Eine Tüte mit groben, erdigen Nudeln.",
+    "fr": "Un sac de nouilles grossières, à saveur terreuse.",
+    "hu": "Egy zacskó durva, 'földes' ízű tészta.",
+    // "it": "",
+    "ja": "粗めに切られた素朴な風味の麺",
+    "pt": "Uma bolsa de trigo grosso, com sabor terroso.",
+    "ru": "Мешок с грубой лапшой, имеющей земляной привкус.",
+    "tr": "Bir poşet kalın ve tadı topraksı noodle.",
+    "zh": "一袋粗的荞麦面条。"
+  }
 }

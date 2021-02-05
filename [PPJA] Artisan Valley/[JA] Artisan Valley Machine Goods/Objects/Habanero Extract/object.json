@@ -25,21 +25,20 @@
         "ja": "ハバネロエキス",
         "pt": "Extrato de Habanero",
         "ru": "Перец «Хабанеро»",
-         // "tr": "",
+        "tr": "Habanero Ekstratı",
         "zh": "哈瓦那辣椒提取液",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Este líquido ha sido extraído de un pimiento.",
-        "ko": "고추에서 추출됐습니다.",
-        "de": "Diese Flüssigkeit wurde aus einem Pfeffer extrahiert.",
-        "fr": "Ce liquide a été extrait d'un piment.",
-        "hu": "Ezt a folyadékot egy paprikából nyerték.",
-         // "it": "",
-        "ja": "トウガラシから抽出したエキス。",
-        "pt": "Este líquido foi extraído de uma pimenta.",
-        "ru": "Эта жидкость была извлечена из перца.",
-         // "tr": "",
-        "zh": "这种液体是从哈瓦那辣椒中提取出来的。",
-    }
+  "DescriptionLocalization": {
+    "es": "Este líquido ha sido extraído de un pimiento.",
+    "ko": "고추에서 추출됐습니다.",
+    "de": "Diese Flüssigkeit wurde aus einem Pfeffer extrahiert.",
+    "fr": "Ce liquide a été extrait d'un piment.",
+    "hu": "Ezt a folyadékot egy paprikából nyerték.",
+    // "it": "",
+    "ja": "トウガラシから抽出したエキス。",
+    "pt": "Este líquido foi extraído de uma pimenta.",
+    "ru": "Эта жидкость была извлечена из перца.",
+    "tr": "Bu sıvı bir biberden temin edilmiş.",
+    "zh": "这种液体是从哈瓦那辣椒中提取出来的。"
+  }
 }

@@ -23,21 +23,20 @@
         "ja": "チェリーヨーグルトアイス",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "樱桃酸奶冰淇淋",
+        "tr": "Kiraz Yoğurtlu Dondurma",
+        "zh": "樱桃酸奶冰淇淋",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "과일의 신선함과 요거트가 어우러진 간식.",
-        "de": "Eine fruchtig frische Erfrischung auf Joghurtbasis.",
-        "fr": "Un rafraîchissement fruité, basé sur un yaourt.",
-        "hu": "Egy gyümölcsös, joghurtos frissítő.",
-        // "it": "",
-        "ja": "ヨーグルトベースのフルーティーで新鮮でさわやかなアイス。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "以酸奶为基础的樱桃味清新甜品。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "과일의 신선함과 요거트가 어우러진 간식.",
+    "de": "Eine fruchtig frische Erfrischung auf Joghurtbasis.",
+    "fr": "Un rafraîchissement fruité, basé sur un yaourt.",
+    "hu": "Egy gyümölcsös, joghurtos frissítő.",
+    // "it": "",
+    "ja": "ヨーグルトベースのフルーティーで新鮮でさわやかなアイス。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Meyveli, taze ve ferahlatıcı. Yoğurt temelli.",
+    "zh": "以酸奶为基础的樱桃味清新甜品。"
+  }
 }

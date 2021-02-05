@@ -17,8 +17,8 @@
         "ja": "シャクヤク",
         "pt": "Erva de Peônia",
         "ru": "Пион",
-        // "tr": "",
-        "zh": "芍药",
+        "tr": "Şakayık",
+        "zh": "芍药"
     },
     "DescriptionLocalization":
     {
@@ -31,8 +31,8 @@
         "ja": "信じられないほど良い香りの花。摘み取るとすぐに枯れてしまう。",
         "pt": "Uma flor incrivelmente perfumada. Depois de colhidas, as flores são de curta duração.",
         "ru": "Невероятно ароматный цветок. После сбора живет недолго.",
-        // "tr": "",
-        "zh": "一种香气扑鼻的花。采摘后花朵保鲜期很短。",
+        "tr": "İnanılmaz kokulu bir çiçek. Toplandığında çok uzun yaşamaz.",
+        "zh": "一种香气扑鼻的花。采摘后花朵保鲜期很短。"
     },
     "ContextTags": [
         "color_pink",

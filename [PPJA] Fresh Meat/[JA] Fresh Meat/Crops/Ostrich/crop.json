@@ -33,7 +33,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Devekuþu Tohumu",
         // "zh": "",
     },
     "SeedDescriptionLocalization":
@@ -47,7 +47,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Yazýn ekilir. 13 günde yetiþir.",
         // "zh": "",
     },
 }

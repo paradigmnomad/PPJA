@@ -12,16 +12,16 @@
         "Ingredients": [
         {
             "Object": 709,
-            "Count": 20,
+            "Count": 20
         },
         {
             "Object": 382,
-            "Count": 5,
+            "Count": 5
         },
         {
             "Object": 336,
-            "Count": 1,
-        }, ],
+            "Count": 1
+        } ]
     },
     // Localization
 
@@ -36,8 +36,8 @@
         "ja": "ソープメーカー", //Japanese
         "pt": "Máquina de Sabão", //Portuguese
         "ru": "Мыловарка", //Russian
-        //"tr": "", //Turkish
-        "zh": "香皂制造机", //Chinese (Simplified)
+        "tr": "Sabun Makinesi", //Turkish
+        "zh": "香皂制造机" //Chinese (Simplified)
     },
     "DescriptionLocalization": //Used for localization. 
     {
@@ -50,7 +50,7 @@
         "ja": "花とオイルで石けんバーを作る。", //Japanese
         "pt": "Combina flores e óleo em uma barra de sabonete.", //Portuguese
         "ru": "Смешивает цветы и масло в кусок мыла", //Russian
-        //"tr": "", //Turkish
-        "zh": "将花和油混合加工制成香皂", //Chinese (Simplified)
+        "tr": "Çiçekleri ve yağı bir kalıp sabun yapmak üzere birleştirir.", //Turkish
+        "zh": "将花和油混合加工制成香皂" //Chinese (Simplified)
     }
 }

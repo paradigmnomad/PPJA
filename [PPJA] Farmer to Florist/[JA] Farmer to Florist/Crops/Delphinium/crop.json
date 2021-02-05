@@ -26,30 +26,30 @@
 		"y 2",
 	],
     "SeedPurchasePrice": 50,
-    "SeedNameLocalization": { 
+  "SeedNameLocalization": {
     "es": "Semillas de delfinio",
     "ko": "델피니움 씨앗",
     "de": "Delphinium Samen",
-     // "fr": "",
+    // "fr": "",
     "hu": "Sarkantyúfű magvak",
-     // "it": "",
+    // "it": "",
     "ja": "デルフィニウムの種",
     "pt": "Semente de Esporinha",
     "ru": "Семена дельфиниума",
-     // "tr": "",
-    "zh": "翠雀花种子",
-    },
-"SeedDescriptionLocalization": { 
+    "tr": "Hezaren Tohumu",
+    "zh": "翠雀花种子"
+  },
+  "SeedDescriptionLocalization": {
     "es": "Plántalas en primavera. Toma 9 días para producir un gran racimo de flores azules.",
     "ko": "봄에 심습니다. 9일후에 푸른 꽃들이 핍니다.",
     "de": "Im Frühjahr pflanzen. Es dauert 9 Tage, um eine große Ansammlung blauer Blüten zu bilden.",
-     // "fr": "",
+    // "fr": "",
     "hu": "Ezeket tavasszal ültesd el. 9 nap alatt hoz egy nagy kék csokor virágot.",
-     // "it": "",
+    // "it": "",
     "ja": "春植えの花。9日かけて育ち、大きくまとまった青い花を咲かせる。",
     "pt": "Plante-a na primavera. Demoram 9 dias para nascer um grande amontoado de flores azuis.",
     "ru": "Сажайте весной. Через 9 дней вырастает большое скопление голубых цветов.",
-     // "tr": "",
-    "zh": "春天播种。9天收获茂盛的蓝色花簇。",
-    }
+    "tr": "Baharda ekilir. 9 günde mavi, büyük bir çiçek kümesine dönüşür.",
+    "zh": "春天播种。9天收获茂盛的蓝色花簇。"
+  }
 }

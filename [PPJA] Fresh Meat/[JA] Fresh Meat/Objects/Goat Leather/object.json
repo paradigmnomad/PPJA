@@ -22,7 +22,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Keçi Derisi",
         "zh": "山羊皮",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Güneşte bekletilmiş keçi derisi.",
         "zh": "经过鞣制的山羊皮。",
     },
     "ContextTags": [

@@ -22,7 +22,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "At Derisi",
         "zh": "马皮",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Güneşte bekletilmiş at derisi.",
         "zh": "经过鞣制的马皮。",
     },
     "ContextTags": [

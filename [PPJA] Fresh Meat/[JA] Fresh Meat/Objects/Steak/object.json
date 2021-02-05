@@ -46,7 +46,7 @@
         "ja": "ステーキ",
         "pt": "Filé",
         "ru": "Стейк",
-        // "tr": "",
+        "tr": "Biftek",
         "zh": "牛排",
     },
     "DescriptionLocalization":
@@ -60,7 +60,7 @@
         "ja": "これ以外は何もいらない。",
         "pt": "Se você está adicionando mais alguma coisa, você fez errado.",
         "ru": "Толстый кусок обжаренного мяса.",
-        // "tr": "",
+        "tr": "Eğer başka bir şey ekliyorsan, yanlış yaptın.",
         "zh": "牛排。如果你添加了其他东西，那你做错了。",
     },
     "EnableWithMod": "paradigmnomad.morefood"

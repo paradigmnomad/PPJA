@@ -22,8 +22,8 @@
         "ja": "ティーバッグ",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "茶包",
+       "tr": "Kurutulmuş Çay Yaprakları.",
+       "zh": "茶包",
     },
     "DescriptionLocalization":
     {
@@ -36,7 +36,7 @@
         "ja": "お湯に入れるだけでお茶ができる。",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "已经准备好放入热水中的茶包。",
+        "tr": "Sıcak suya yerleştirilmeye hazır bir çay poşeti.",
+        "zh": "已经准备好放入热水中的茶包。",
     }
 }

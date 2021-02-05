@@ -22,7 +22,7 @@
         "ja": "リンゴの皮",
         "pt": "Casca de Maça",
         "ru": "Яблочная кожура",
-         // "tr": "",
+        "tr": "Elma Kabuğu",
         "zh": "苹果皮",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "ねじれる様に切ったリンゴの皮。",
         "pt": "Uma simples casca de maçã.",        
         "ru": "Извилистая кожура яблока.",
-         // "tr": "",
+        "tr": "Elmanın yuvarlak kabuğu.",
         "zh": "弯弯曲曲的苹果皮。",
     }
 }

@@ -17,8 +17,8 @@
         "ja": "アイリス",
         "pt": "Íris",
         "ru": "Ирис",
-        // "tr": "",
-        "zh": "鸢尾花",
+        "tr": "İris",
+        "zh": "鸢尾花"
     },
     "DescriptionLocalization":
     {
@@ -31,7 +31,7 @@
         "ja": "ユニークな形をした紫色の花。",
         "pt": "Uma estranha flor que vem em deliciosos tons de roxo.",
         "ru": "Странный цветок, имеющий восхитительные оотенки фиолетового.",
-        // "tr": "",
+        "tr": "Morun hoş tonlarıyla gelen garip bir çiçek.",
         "zh": "一种令人喜爱的奇特紫色花朵。",
     },
     "ContextTags": [

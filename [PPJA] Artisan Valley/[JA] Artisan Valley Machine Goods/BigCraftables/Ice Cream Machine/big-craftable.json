@@ -34,22 +34,20 @@
         "ja": "アイスクリームマシン",
         "pt": "Máquina de Sorvete",
         "ru": "Мороженица",
-        // "tr": "",
-
+        "tr": "Dondurma Makinesi",
         "zh": "冰淇淋机",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una máquina para hacer deliciosos helados en casa",
-        "ko": "맛있는 아이스크림을 만드는 기계.",
-        "de": "Eine Maschine, mit der man zuhause köstliche Eiscreme machen kann.",
-        "fr": "Une machine pour faire de délicieuses glaces à la maison.",
-        "hu": "Ezzel a géppel ízletes fagylaltokat lehet készíteni otthon.",
-        // "it": "",
-        "ja": "この機械でおいしいお手製アイスクリームを作れる。",
-        "pt": "Uma máquina para fazer sorvete delicioso em casa.",
-        "ru": "Машина для приготовления вкусного мороженого в домашних условиях.",
-        // "tr": "",
-        "zh": "有了它在家中即可自制美味冰淇淋。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una máquina para hacer deliciosos helados en casa",
+    "ko": "맛있는 아이스크림을 만드는 기계.",
+    "de": "Eine Maschine, mit der man zuhause köstliche Eiscreme machen kann.",
+    "fr": "Une machine pour faire de délicieuses glaces à la maison.",
+    "hu": "Ezzel a géppel ízletes fagylaltokat lehet készíteni otthon.",
+    // "it": "",
+    "ja": "この機械でおいしいお手製アイスクリームを作れる。",
+    "pt": "Uma máquina para fazer sorvete delicioso em casa.",
+    "ru": "Машина для приготовления вкусного мороженого в домашних условиях.",
+    "tr": "Evde leziz dondurmalar yapmak için bir makine.",
+    "zh": "有了它在家中即可自制美味冰淇淋。"
+  }
 }

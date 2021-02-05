@@ -38,21 +38,20 @@
         "ja": "プチフール",
         "pt": "Petit Four",
         "ru": "Птифур",
-         // "tr": "",
+        "tr": "Petit Four",
         "zh": "花色小蛋糕",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Trocitos esponjosos de pastes de almendras y crema, cubierto de azúcar.",
-        "ko": "아몬드 케이크와 크림의 푹신한 층, 슈가 플라워로 장식해서 얼렸습니다.",
-        "de": "Flauschige Schichten von Mandelkuchen und Sahne, gefroren und mit Zuckerblüten belegt.",
-        "fr": "Gâteau aux amandes avec des couches moelleuses de crème glacée et parsemé de fleurs sucrées.",
-        "hu": "Bolyhos mandulatorta- és tejszínrétegekből áll, melyek be vannak vonva cukormázzal, cukorvirágokkal a tetején.",
-         // "it": "",
-        "ja": "アーモンドケーキとクリームをふわふわの層にして、アイスとシュガーフラワーをトッピング。",
-        "pt": "Camadas fofas de bolo de amêndoa e creme gelado com cobertura de açúcar.",
-        "ru": "Воздушные слоёные миндально-сливочные пироженые, покрытые глазурью и сахарными цветами.",
-         // "tr": "",
-        "zh": "经过冰镇的松软杏仁奶油蛋糕，顶上点缀着糖花。",
-    }
+  "DescriptionLocalization": {
+    "es": "Trocitos esponjosos de pastes de almendras y crema, cubierto de azúcar.",
+    "ko": "아몬드 케이크와 크림의 푹신한 층, 슈가 플라워로 장식해서 얼렸습니다.",
+    "de": "Flauschige Schichten von Mandelkuchen und Sahne, gefroren und mit Zuckerblüten belegt.",
+    "fr": "Gâteau aux amandes avec des couches moelleuses de crème glacée et parsemé de fleurs sucrées.",
+    "hu": "Bolyhos mandulatorta- és tejszínrétegekből áll, melyek be vannak vonva cukormázzal, cukorvirágokkal a tetején.",
+    // "it": "",
+    "ja": "アーモンドケーキとクリームをふわふわの層にして、アイスとシュガーフラワーをトッピング。",
+    "pt": "Camadas fofas de bolo de amêndoa e creme gelado com cobertura de açúcar.",
+    "ru": "Воздушные слоёные миндально-сливочные пироженые, покрытые глазурью и сахарными цветами.",
+    "tr": "Bademli kek ve kremalı, üstü şekerli çiçeklerle süslenen ve dondurulan yumuşacık katlar.",
+    "zh": "经过冰镇的松软杏仁奶油蛋糕，顶上点缀着糖花。"
+  }
 }

@@ -40,21 +40,20 @@
         "ja": "スパークリングワイン",
         "pt": "Vinho Espumante",
         "ru": "Игристое вино",
-        // "tr": "",
+        "tr": "Parıldayan Şarap",
         "zh": "气泡酒",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Vino carbonatado con burbujas que hacen cosquillas en tu nariz. Beber con moderación.",
-        "ko": "코를 간지럽히고, 톡 쏘는 거품이 나는 탄산 와인. 절제해서 드세요.",
-        "de": "Kohlensäurehaltiger Wein mit Blasen, die deine Nase kitzeln. Genieße ihn in Maßen.",
-        "fr": "Vin concentré en dioxyde de carbone avec des bulles qui chatouillent le nez. À boire avec modération.",
-        "hu": "Szénsavas bor, melynek buborékai megcsiklandozzák az orrod. Fogyasszad mértékkel!",
-        // "it": "",
-        "ja": "鼻をくすぐる泡の出る炭酸ワイン。適度に飲んでください。",
-        "pt": "Vinho com gás carbônico e bolhas que fazem cócegas ao seu nariz. Beba com moderação!",
-        "ru": "Газированное вино с пузырьками, щекочущими ваш нос. Пейте в меру.",
-        // "tr": "",
-        "zh": "有气泡的碳酸酒，会使你的鼻子发痒。适量饮酒。",
-    }
+  "DescriptionLocalization": {
+    "es": "Vino carbonatado con burbujas que hacen cosquillas en tu nariz. Beber con moderación.",
+    "ko": "코를 간지럽히고, 톡 쏘는 거품이 나는 탄산 와인. 절제해서 드세요.",
+    "de": "Kohlensäurehaltiger Wein mit Blasen, die deine Nase kitzeln. Genieße ihn in Maßen.",
+    "fr": "Vin concentré en dioxyde de carbone avec des bulles qui chatouillent le nez. À boire avec modération.",
+    "hu": "Szénsavas bor, melynek buborékai megcsiklandozzák az orrod. Fogyasszad mértékkel!",
+    // "it": "",
+    "ja": "鼻をくすぐる泡の出る炭酸ワイン。適度に飲んでください。",
+    "pt": "Vinho com gás carbônico e bolhas que fazem cócegas ao seu nariz. Beba com moderação!",
+    "ru": "Газированное вино с пузырьками, щекочущими ваш нос. Пейте в меру.",
+    "tr": "Burnunu gıdıklayan baloncukları olan karbonatlı şarap. Kararında içilmeli.",
+    "zh": "有气泡的碳酸酒，会使你的鼻子发痒。适量饮酒。"
+  }
 }

@@ -33,32 +33,30 @@
         "PurchaseFrom": "Gus",
         "PurchasePrice": 900,
     },
-    "NameLocalization":
-    {
-        "es": "Paleta de crema de arándanos",
-        "ko": "블루베리 크림 팝시클",
-        "de": "Blaubeercreme am Stiel",
-        "fr": "Glace à l'eau crème-myrtille",
-        "hu": "Áfonya szószos jégkrém",
-        // "it": "",
-        "ja": "ブルーベリークリームアイスバー",
-        "pt": "Picolé de creme de mirtilo",
-        // "ru": "",
-        // "tr": "",
-        "zh": "蓝莓奶油冰棒",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Los arándanos y la crema son excelentes para el verano.",
-        "ko": "블루베리와 크림은 여름철 최고의 간식이에요.",
-        "de": "Blaubeeren und Creme eignen sich perfekt für einen Sommersnack.",
-        "fr": "Myrtilles et crème faites pour un excellent délice d'été au soleil.",
-        "hu": "Mi is lehet jobb az áfonyánál egy kis jégkrémmel egy nyári napon?",
-        // "it": "",
-        "ja": "夏の日にすばらしいおやつ。",
-        "pt": "Mirtilos e creme são um excelente presente para um dia de verão.",
-        // "ru": "",
-        // "tr": "",
-        "zh": "蓝莓和奶油是夏天解暑的最佳选择。",
-    }
+  "NameLocalization": {
+    "es": "Paleta de crema de arándanos",
+    "ko": "블루베리 크림 팝시클",
+    "de": "Blaubeercreme am Stiel",
+    "fr": "Glace à l'eau crème-myrtille",
+    "hu": "Áfonya szószos jégkrém",
+    // "it": "",
+    "ja": "ブルーベリークリームアイスバー",
+    "pt": "Picolé de creme de mirtilo",
+    // "ru": "",
+    "tr": "Yabanmersini Kremalı Çubuklu Dondurma",
+    "zh": "蓝莓奶油冰棒"
+  },
+  "DescriptionLocalization": {
+    "es": "Los arándanos y la crema son excelentes para el verano.",
+    "ko": "블루베리와 크림은 여름철 최고의 간식이에요.",
+    "de": "Blaubeeren und Creme eignen sich perfekt für einen Sommersnack.",
+    "fr": "Myrtilles et crème faites pour un excellent délice d'été au soleil.",
+    "hu": "Mi is lehet jobb az áfonyánál egy kis jégkrémmel egy nyári napon?",
+    // "it": "",
+    "ja": "夏の日にすばらしいおやつ。",
+    "pt": "Mirtilos e creme são um excelente presente para um dia de verão.",
+    // "ru": "",
+    "tr": "Mükemmel bir yaz atıştırmalığı için yabanmersini ve krema bir araya gelmiş.",
+    "zh": "蓝莓和奶油是夏天解暑的最佳选择。"
+  }
 }

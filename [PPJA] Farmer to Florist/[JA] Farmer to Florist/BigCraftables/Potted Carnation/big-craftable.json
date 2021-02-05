@@ -19,7 +19,7 @@
             "Object": 330,
             "Count": 10,
         }, ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
     "NameLocalization":
     {
@@ -32,21 +32,20 @@
         "ja": "カーネーションの鉢植え",
         "pt": "Vaso de Cravo",
         "ru": "Гвоздика в горшке",
-        //"tr": "",
-        "zh": "康乃馨盆栽",
+        "tr": "Saksıda Karanfil Çiçeği",
+        "zh": "康乃馨盆栽"
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un clavel en una pequeña maceta de madera. ¡Recuerda regarlo!",
-        "ko": "작은 나무 화분에 심겨진 카네이션 입니다. 물 주는거 잊지마세요!",
-        "de": "Eine Nelke in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-        //"fr": "",
-        "hu": "Egy szegfű cserépben. Ne felejtsd el megöntözni!",
-        //"it": "",
-        "ja": "カーネーションが植えられた木製の小さな鉢。水やりを忘れずに。",
-        "pt": "Um cravo em um pequeno vaso de madeira. Lembre-se de sempre regá-lo!",
-        "ru": "Гвоздика в маленьком деревянном горшочке. Не забывайте поливать!",
-        //"tr": "",
-        "zh": "一个小木盆里的康乃馨。记得给它浇水！",
-    }
+  "DescriptionLocalization": {
+    "es": "Un clavel en una pequeña maceta de madera. ¡Recuerda regarlo!",
+    "ko": "작은 나무 화분에 심겨진 카네이션 입니다. 물 주는거 잊지마세요!",
+    "de": "Eine Nelke in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+    //"fr": "",
+    "hu": "Egy szegfű cserépben. Ne felejtsd el megöntözni!",
+    //"it": "",
+    "ja": "カーネーションが植えられた木製の小さな鉢。水やりを忘れずに。",
+    "pt": "Um cravo em um pequeno vaso de madeira. Lembre-se de sempre regá-lo!",
+    "ru": "Гвоздика в маленьком деревянном горшочке. Не забывайте поливать!",
+    "tr": "Küçük tahta bir saksıda bir karanfil çiçeği. Sulamayı unutma!",
+    "zh": "一个小木盆里的康乃馨。记得给它浇水！"
+  }
 }

@@ -33,7 +33,7 @@
     "ja": "石炭の種",
     "pt": "Sementes de carvão",
     "ru": "Cемена угля",
-    "tr": "Kömür tohumları",
+    "tr": "Kömür Tohumu",
     "zh": "煤炭种子"
     },
 "SeedDescriptionLocalization": { 
@@ -46,7 +46,7 @@
     "ja": "これらを春または夏に植えます。 成熟するのに10日かかります。",
     "pt": "Plante-as na primavera ou no verão. Leva 10 dias para amadurecer.",
     "ru": "Высаживайте их весной или летом. Созревание занимает 10 дней.",
-    "tr": "Bunları ilkbahar veya yaz aylarında dikin. Olgunlaşması 10 gün sürer.",
+    "tr": "Baharda veya yazın ekilir. 10 günde yetişir.",
     "zh": "春天或夏天播种。10天成熟。"
     }
 }

@@ -16,7 +16,7 @@
         "ja": "パンノキ",
         "pt": "Fruta-pão",
         "ru": "Хлебный плод",
-        //"tr": "",
+        "tr": "Ekmek Meyvesi",
         "zh": "面包果",
     },
     "DescriptionLocalization":
@@ -30,7 +30,7 @@
         "ja": "ジャックフルーツの近縁。驚くほどフルーティーで強い甘味を持つ。",
         "pt": "Um parente da jaca. Ele tem um sabor robusto que é surpreendentemente frutado e doce.",
         "ru": "Родственник джекфрута. Имеет яркий вкус, удивительно фруктовый и сладкий.",
-        //"tr": "",
+        "tr": "Jak meyvesinin bir yakını. Şaşırtıcı bir şekilde meyvemsi ve tatlı bir tadı var",
         "zh": "菠萝蜜的亲戚。它有着浓郁的果香和甜味。",
     }
 }

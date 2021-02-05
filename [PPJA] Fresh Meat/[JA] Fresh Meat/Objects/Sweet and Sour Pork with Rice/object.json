@@ -43,23 +43,22 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        "pt": "Carne de porco doce e azeda com arroz",
+        // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Pirinçle Tatlý ve Ekþi Domuz Eti",
         // "zh": "",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Um prato feito de carne de porco, arroz e molho azedo.",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "Domuz eti, pirinç ile tatlý ve ekþi sostan yapýlan bir yemek.",
+    // "zh": "",
+  }
 }

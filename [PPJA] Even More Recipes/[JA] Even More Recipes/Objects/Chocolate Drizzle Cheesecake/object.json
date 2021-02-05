@@ -45,7 +45,7 @@
         "ja": "チョコレートチーズケーキ",
         "pt": "Cheesecake de chuvisco de chocolate",
         // "ru": "",
-        // "tr": "",
+        "tr": "Üstüne Çikolata Sosu Serpiştirilmiş Cheesecake",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -59,7 +59,7 @@
         "ja": "チョコレートですべてがよくなる。",
         "pt": "Tudo é melhor com chocolate.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Çikolatayla her şey daha iyi.",
         // "zh": "",
     }
 }

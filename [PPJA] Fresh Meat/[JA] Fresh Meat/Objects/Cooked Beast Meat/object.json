@@ -39,7 +39,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Pişmiş Canavar Eti",
          "zh": "熟制野兽肉",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Vahşi bir canavarın eti, zaten pişmiş ve tariflerde kullanıma hazır.",
          "zh": "来自野生动物的肉，已经煮熟，准备用于烹调。",
     },
     "ContextTags": [

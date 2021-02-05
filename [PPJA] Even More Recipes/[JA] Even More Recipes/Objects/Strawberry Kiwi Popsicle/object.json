@@ -44,7 +44,7 @@
         "ja": "イチゴとキウイのアイスバー",
         "pt": "Picolé de Kiwi e Morango",
          // "ru": "",
-         // "tr": "",
+         "tr": "Çilekli ve Kivili Çubuklu Dondurma",
         "zh": "草莓猕猴桃冰棒",
     },
     "DescriptionLocalization":
@@ -58,7 +58,7 @@
         "ja": "スイカに似ている味。",
         "pt": "Assemelha-se a uma melancia.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Karpuza benziyor.",
         "zh": "从颜色看起来像是西瓜味的。",
     }
 }

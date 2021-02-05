@@ -23,7 +23,7 @@
         "ja": "金の糸",
         "pt": "Fio Dourado",
         "ru": "Золотая нить",
-         // "tr": "",
+        "tr": "Altın İplik",
         "zh": "金线",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "金色の糸を巻き上げたもの。光り輝いている。",
         "pt": "Um carretel de fio dourado. Brilha na luz.",
         "ru": "Катушка с золотой нитью. Она сверкает на свету.",
-         // "tr": "",
+        "tr": "Bir makara altın iplik. Işığa tutulunca parlıyor.",
         "zh": "一卷金线。它在阳光下闪闪发光。",
     }
 }

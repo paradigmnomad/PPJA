@@ -22,7 +22,7 @@
         "ja": "ドライフラワー",
         "pt": "Flores Secas",
         "ru": "Сушёный цветок",
-         // "tr": "",
+        "tr": "Kurutulmuş Çiçek",
         "zh": "干花",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "乾燥させた花を束ねたもの。",
         "pt": "Um agrupamento de flores secas.",
         "ru": "Пучок сухих цветов.",
-         // "tr": "",
+        "tr": "Bir demet kurutulmuş çiçek.",
         "zh": "一束干花。",
     }
 }

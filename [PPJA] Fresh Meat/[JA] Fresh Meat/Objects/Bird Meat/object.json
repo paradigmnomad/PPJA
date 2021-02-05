@@ -24,7 +24,7 @@
         // "ja": "",
          "pt": "Carne de Pássaro",
         // "ru": "",
-        // "tr": "",
+         "tr": "Kuş Eti",
          "zh": "鸟肉",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         // "ja": "",
          "pt": "Um pequeno pedaço de carne de um pássaro. Talvez um gato goste?",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bir kuşun etinin çok küçük bir parçası. Belki de kedi bunu beğenir?",
          "zh": "一块很小的鸟肉。也许某只猫会喜欢它？",
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"

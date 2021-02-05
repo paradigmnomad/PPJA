@@ -39,7 +39,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Pişmiş Hindi Eti",
          "zh": "熟制火鸡",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Kızarmış bütün hindi, tariflerde kullanıma hazır.",
          "zh": "一整只烤火鸡，已烹制熟透，可用于进一步烹调。",
     },
     "ContextTags": [

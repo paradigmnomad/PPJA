@@ -24,7 +24,7 @@
         "ja": "タンポポコンブチャ",
         "pt": "Kombuchá de Dente de Leão",
         "ru": "Одуванчиковая комбуча",
-        // "tr": "",
+        "tr": "Karahindibalı Kombucha",
         "zh": "蒲公英康普茶",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "いい物は自然が教えてくれる。",
         "pt": "A natureza conhece o melhor.",
         "ru": "Природа знает лучше.",
-        // "tr": "",
+        "tr": "Doğa en iyisini bilir.",
         "zh": "大自然知道最好的。",
     }
 }

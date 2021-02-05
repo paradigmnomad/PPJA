@@ -55,7 +55,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Karides Etsuyu",
         "zh": "虾肉高汤",
     },
     "DescriptionLocalization":
@@ -69,7 +69,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Normalde çorba ana malzemesi olarak kullanılan bu etsuyu, burada güveç yapılmış.",
         "zh": "炖煮的虾仁汤，通常用作汤底。",
     }
 }

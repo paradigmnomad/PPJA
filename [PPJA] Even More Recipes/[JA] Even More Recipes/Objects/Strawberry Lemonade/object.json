@@ -47,7 +47,7 @@
         "ja": "ストロベリーレモネード",
         "pt": "Limonada de morango",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çilekli Limonata",
         "zh": "草莓柠檬水",
     },
     "DescriptionLocalization":
@@ -61,7 +61,7 @@
         "ja": "絞りたてのレモネードをイチゴと一緒に！",
         "pt": "Limonada espremida na hora com morangos!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Taze sıkılmış limonatanın yanında çilek!",
         "zh": "用新鲜的柠檬和草莓榨出来的。",
     }
 }

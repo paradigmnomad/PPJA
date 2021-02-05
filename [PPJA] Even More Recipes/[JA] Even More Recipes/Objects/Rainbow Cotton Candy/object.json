@@ -48,7 +48,7 @@
         "ja": "レインボーわたあめ",
         "pt": "Algodão doce de arco-íris",
          // "ru": "",
-         // "tr": "",
+        "tr": "Gökkuşağı Pamuk Şekeri",
         "zh": "彩虹棉花糖",
     },
     "DescriptionLocalization":
@@ -62,7 +62,7 @@
         "ja": "とてもカラフルな砂糖菓子。",
         "pt": "É muito colorido tecido com açúcar.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Rengarenk eğrilmiş şeker.",
         "zh": "这真是一个多彩的棉花糖。",
     }
 }

@@ -24,7 +24,7 @@
         "ja": "納豆スターター",
         "pt": "Base de Nattô",
         "ru": "Основа для натто",
-         // "tr": "",
+        "tr": "Natto Başlatıcı",
         "zh": "纳豆发酵液",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "納豆の熟成を促進させるために使われる菌のタネ。",
         "pt": "É usada na preparação de comidas.",
         "ru": "Основа, используемая для создания натто-продуктов.",
-         // "tr": "",
+        "tr": "Natto üretimini artırmak için başlatıcı kültür.",
         "zh": "一种促进纳豆发酵的液体。",
     }
 }

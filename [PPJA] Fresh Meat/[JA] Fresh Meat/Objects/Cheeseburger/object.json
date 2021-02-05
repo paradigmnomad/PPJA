@@ -44,7 +44,7 @@
         "ja": "チーズバーガー",
         "pt": "X-Burguer",
         "ru": "Чизбургер",
-        // "tr": "",
+        "tr": "Cheeseburger",
         "zh": "芝士汉堡",
     },
     "DescriptionLocalization":
@@ -58,7 +58,7 @@
         "ja": "チーズ入りハンバーガー。",
         "pt": "Um hambúrguer, mas com queijo.",
         "ru": "Как гамбургер, но с сыром.",
-        // "tr": "",
+        "tr": "Hamburger, ama peynirli.",
         "zh": "芝士汉堡。一个汉堡，里面夹有丰富的芝士。",
     }
 }

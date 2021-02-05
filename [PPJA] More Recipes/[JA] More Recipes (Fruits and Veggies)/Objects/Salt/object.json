@@ -15,32 +15,30 @@
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Sal",
-        "ko": "소금",
-        "de": "Salz",
-        "fr": "Sel",
-         // "hu": "",
-         // "it": "",
-        "ja": "塩",
-        "pt": "Sal",
-        "ru": "Соль",
-         // "tr": "",
-        "zh": "盐",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Siempre agregue una pizca de sal.",
-        "ko": "항상 약간의 소금을 넣으세요.",
-        "de": "Immer eine Prise Salz hinzufügen.",
-        "fr": "Ajoutez toujours une pincée de sel.",
-         // "hu": "",
-         // "it": "",
-        "ja": "塩を少々",
-        "pt": "Sempre adicione uma pitada de sal.",
-        "ru": "Всегда добавляйте щепотку соли.",
-         // "tr": "",
-        "zh": "总是加一点盐。",
-    }
+  "NameLocalization": {
+    "es": "Sal",
+    "ko": "소금",
+    "de": "Salz",
+    "fr": "Sel",
+    // "hu": "",
+    // "it": "",
+    "ja": "塩",
+    "pt": "Sal",
+    "ru": "Соль",
+    "tr": "Tuz",
+    "zh": "盐"
+  },
+  "DescriptionLocalization": {
+    "es": "Siempre agregue una pizca de sal.",
+    "ko": "항상 약간의 소금을 넣으세요.",
+    "de": "Immer eine Prise Salz hinzufügen.",
+    "fr": "Ajoutez toujours une pincée de sel.",
+    // "hu": "",
+    // "it": "",
+    "ja": "塩を少々",
+    "pt": "Sempre adicione uma pitada de sal.",
+    "ru": "Всегда добавляйте щепотку соли.",
+    "tr": "Her zaman bir tutam tuz ekle.",
+    "zh": "总是加一点盐。"
+  }
 }

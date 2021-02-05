@@ -23,7 +23,7 @@
         "ja": "ピーナッツバター",
         "pt": "Manteiga de Amendoim Suave",
         "ru": "Гладкое арахисовое масло",
-         // "tr": "",
+        "tr": "Yumuşak Fıstık Ezmesi",
         "zh": "花生黄油",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "定番中の定番。絹の様ななめらかな質感にすりおろして作る。",
         "pt": "Um importante clássico. Moído em uma textura suave e sedosa.",
         "ru": "Классический продукт. Измельчено до гладкой шелковистой текстуры.",
-         // "tr": "",
+        "tr": "Olmazsa olmaz. İpeksi ve yumuşak bir dokusu var.",
         "zh": "经典的主食搭配。",
     }
 }

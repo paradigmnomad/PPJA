@@ -21,7 +21,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bulut Eti",
          "zh": "云朵肉",
     },
     "DescriptionLocalization":
@@ -35,7 +35,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Tadı... hiç gibi. Pişirirsen uçup gidecek.",
          "zh": "它尝起来像...什么味都尝不出。煮熟了就会蒸发掉。",
     },
     "EnableWithMod": "spacechase0.BugNet",

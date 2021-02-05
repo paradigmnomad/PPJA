@@ -34,21 +34,20 @@
         "ja": "ワックスバレル",
         "pt": "Barril de Cera",
         "ru": "Восковой бочонок",
-        // "tr": "",
+        "tr": "Balmumu Varili",
         "zh": "制蜡桶",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Barril para convertir la cera en velas.",
-        "ko": "디핑 캔들을 만들기 위한 통.",
-        "de": "Eine Tonne, um Kerzen zu ziehen.",
-        "fr": "Un tonneau pour créer des bougies par plongée dans de la cire.",
-        "hu": "Egy hordó, melyet gyertyák viasszal való bemártására használnak.",
-        // "it": "",
-        "ja": "ロウソクを漬けるためのタル。",
-        "pt": "Um barril para mergulhar velas.",
-        "ru": "Бочка для превращения воска в свечи.",
-        // "tr": "",
-        "zh": "将蜂蜡倒入其中，制作蜡烛。",
-    }
+  "DescriptionLocalization": {
+    "es": "Barril para convertir la cera en velas.",
+    "ko": "디핑 캔들을 만들기 위한 통.",
+    "de": "Eine Tonne, um Kerzen zu ziehen.",
+    "fr": "Un tonneau pour créer des bougies par plongée dans de la cire.",
+    "hu": "Egy hordó, melyet gyertyák viasszal való bemártására használnak.",
+    // "it": "",
+    "ja": "ロウソクを漬けるためのタル。",
+    "pt": "Um barril para mergulhar velas.",
+    "ru": "Бочка для превращения воска в свечи.",
+    "tr": "Mum yapmak için bir varil.",
+    "zh": "将蜂蜡倒入其中，制作蜡烛。"
+  }
 }

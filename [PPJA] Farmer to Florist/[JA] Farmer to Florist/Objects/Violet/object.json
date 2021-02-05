@@ -17,7 +17,7 @@
         "ja": "スミレ",
         "pt": "Violeta",
         "ru": "Фиалка",
-        // "tr": "",
+        "tr": "Menekşe",
         "zh": "紫罗兰",
     },
     "DescriptionLocalization":
@@ -31,8 +31,8 @@
         "ja": "春に咲くタフな植物。様々な用途に用いられる。",
         "pt": "Uma planta resistente que floresce na primavera. Tem uma variedade de usos.",
         "ru": "Выносливое растение, цветущее весной. Имеет множество применений.",
-        // "tr": "",
-        "zh": "一种春天开花的耐寒植物。有多种用途。",
+        "tr": "Baharda çiçek açan sert bir bitki. Birçok alanda kullanılır.",
+        "zh": "一种春天开花的耐寒植物。有多种用途。"
     },
     "ContextTags": [
         "color_purple",

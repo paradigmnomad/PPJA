@@ -30,7 +30,7 @@
     "ja": "イリジウムの種",
     "pt": "Sementes de Irídio",
     "ru": "Семена иридия",
-    "tr": "İridyum Tohumları",
+    "tr": "İridyum Tohumu",
     "zh": "铱矿种子"
     },
 "SeedDescriptionLocalization": { 
@@ -43,7 +43,7 @@
     "ja": "冬にこれらを植えます。 成熟するには24日かかります。",
     "pt": "Plante-as no inverno. Leva 24 dias para amadurecer.",
     "ru": "Высаживайте их зимой. Созревание занимает 24 дня.",
-    "tr": "Bunları kışın dikin. Olgunlaşması 24 gün sürer.",
+    "tr": "Kışın ekilir. 24 günde yetişir.",
     "zh": "冬天播种。24天成熟。"
     }
 }

@@ -24,18 +24,18 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1500,
-    "NameLocalization":
+        "NameLocalization":
     {
         "es": "Galleta Pathos",
         "ko": "연민 쿠키",
         "de": "Pathos Keks",
         "fr": "Biscuit pathos",
-        // "hu": "",
-        // "it": "",
+         // "hu": "",
+         // "it": "",
         "ja": "パトスクッキー",
         "pt": "Biscoitos de Mágoas",
-        // "ru": "",
-        // "tr": "",
+         // "ru": "",
+        "tr": "Perişan Kurabiye",
         "zh": "痛苦饼干",
     },
     "DescriptionLocalization":
@@ -44,12 +44,12 @@
         "ko": "...먹으면 무슨 일이 일어나는지 알아내지 맙시다.",
         "de": "... willst du wirklich herausfinden, wass passiert, wenn du ihn isst ?",
         "fr": "... mieux ne vaut pas savoir ce qu'il se passe lorsque l'on croque dedans.",
-        // "hu": "",
-        // "it": "",
+         // "hu": "",
+         // "it": "",
         "ja": "食べたらどうなるかわからない…。",
         "pt": "...não vamos descobrir o que acontece se você comer",
-        // "ru": "",
-        // "tr": "",
+         // "ru": "",
+        "tr": "...yiyince ne olacağını öğrenmeyelim.",
         "zh": "如果你吃了它，不知道会发生什么情况。",
     }
 }

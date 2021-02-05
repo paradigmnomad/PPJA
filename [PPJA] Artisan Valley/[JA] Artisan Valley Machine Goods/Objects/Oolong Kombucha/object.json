@@ -25,21 +25,20 @@
        "ja": "ウーロンコンブチャ",
        "pt": "Kombuchá de Oolong",
        "ru": "Улуновая комбуча",
-        // "tr": "",
-        "zh": "乌龙康普茶",
+       "tr": "Oolong Kombucha",
+       "zh": "乌龙康普茶",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un kombucha estándar hecho con té oolong.",
-        "ko": "우롱차로 만든 일반적인 콤부차.",
-        "de": "Ein einfacher Kombucha aus Oolong-Tee.",
-        "fr": "Un kombucha basique fait avec du thé Oolong.",
-       "hu": "Egy alap kombucha Oolong teával készítve.",
-        // "it": "",
-       "ja": "ウーロン茶で作った標準的なコンブチャ。",
-       "pt": "Um kombuchá padrão feito com chá oolong.",       
-       "ru": "Стандартная комбуча, приготовленная из чая улун.",
-        // "tr": "",
-        "zh": "乌龙茶制作的标准康普茶。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un kombucha estándar hecho con té oolong.",
+    "ko": "우롱차로 만든 일반적인 콤부차.",
+    "de": "Ein einfacher Kombucha aus Oolong-Tee.",
+    "fr": "Un kombucha basique fait avec du thé Oolong.",
+    "hu": "Egy alap kombucha Oolong teával készítve.",
+    // "it": "",
+    "ja": "ウーロン茶で作った標準的なコンブチャ。",
+    "pt": "Um kombuchá padrão feito com chá oolong.",
+    "ru": "Стандартная комбуча, приготовленная из чая улун.",
+    "tr": "Oolong çayıyla yapılmış standart bir kombucha.",
+    "zh": "乌龙茶制作的标准康普茶。"
+  }
 }

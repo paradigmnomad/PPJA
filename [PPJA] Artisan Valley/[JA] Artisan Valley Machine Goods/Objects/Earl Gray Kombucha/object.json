@@ -23,21 +23,20 @@
        "ja": "アールグレイコンブチャ",
        "pt": "Kombuchá de Earl Grey",       
        "ru": "Комбуча из «Эрл Грея».",
-        // "tr": "",
-        "zh": "格雷伯爵康普茶",
+       "tr": "Earl Grey'li Kombucha",
+       "zh": "格雷伯爵康普茶",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una kombucha no tradicional hecha con té Earl Grey.",
-        "ko": "얼 그레이로 만든 비전통식 콤부차.",
-        "de": "Ein nicht traditioneller Kombucha aus Earl Grey-Tee.",
-        "fr": "Un kombucha non-traditionnel fait à partir de thé Earl Grey.",
-       "hu": "Egy nem hagyományos kombucha Earl Grey teából.",
-        // "it": "",
-       "ja": "アールグレイで作られた新しいコンブチャ。",
-       "pt": "Um kombuchá não convencional feito com chá Earl Grey.",
-       "ru": "Нетрадиционная комбуча, приготовленная с использованием чая «Эрл Грей».",
-        // "tr": "",
-        "zh": "格雷伯爵红茶经发酵制成，一种非传统的康普茶。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una kombucha no tradicional hecha con té Earl Grey.",
+    "ko": "얼 그레이로 만든 비전통식 콤부차.",
+    "de": "Ein nicht traditioneller Kombucha aus Earl Grey-Tee.",
+    "fr": "Un kombucha non-traditionnel fait à partir de thé Earl Grey.",
+    "hu": "Egy nem hagyományos kombucha Earl Grey teából.",
+    // "it": "",
+    "ja": "アールグレイで作られた新しいコンブチャ。",
+    "pt": "Um kombuchá não convencional feito com chá Earl Grey.",
+    "ru": "Нетрадиционная комбуча, приготовленная с использованием чая «Эрл Грей».",
+    "tr": "Geleneksel olmayan Earl Grey çayıyla yapılan bir kombucha.",
+    "zh": "格雷伯爵红茶经发酵制成，一种非传统的康普茶。"
+  }
 }

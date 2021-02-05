@@ -40,7 +40,7 @@
         "ja": "ダークエール",
         "pt": "Cerveja Escura",
         "ru": "Темный Эль",
-         // "tr": "",
+        "tr": "Koyu Bira",
         "zh": "深色艾尔啤酒",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
         "ja": "飲む時は適量を守ってほどほどに。",
         "pt": "Beba com moderação.",
         "ru": "Пейте в меру.",
-         // "tr": "",
+        "tr": "Kararında içilmeli.",
         "zh": "适度饮酒。",
     }
 }

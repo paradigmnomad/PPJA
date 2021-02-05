@@ -24,7 +24,7 @@
         "ja": "ケフィア",
         "pt": "Kefir",
         "ru": "Кефир",
-         // "tr": "",
+        "tr": "Kefir",
         "zh": "开菲尔酸奶",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "ヒツジまたはヤギのミルクにケフィア酵母を入れて作られる。クリーミー。",
         "pt": "Um iogurte cremoso feito de leite de cabra ou de ovelha, com levedura de Kefir",        
         "ru": "Сделано из овечьего или козьего молока и кефирных дрожжей.",
-         // "tr": "",
+        "tr": "Keçi veya koyun sütünden kefir mayasıyla beraber yapılan bir içecek. Kremalı.",
         "zh": "用羊奶或山羊奶混入开菲尔酵母制成。这种酸奶有奶油的口感。",
     }
 }

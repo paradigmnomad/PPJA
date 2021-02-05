@@ -22,7 +22,7 @@
         "ja": "スライムバター",
         "pt": "Manteiga de Lodo",
         "ru": "Слаймовое масло",
-         // "tr": "",
+        "tr": "Balçık Tereyağı mı?",
         "zh": "史莱姆油",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "スライムから作った緑色のバター…",
         "pt": "Uma manteiga verde feita de lava...",
         "ru": "Зелёное масло, сделанное из слизи...",
-         // "tr": "",
+        "tr": "Balçıktan yapılma tereyağı...",
         "zh": "一种绿色的油，由史莱姆制成...",
     }
 }

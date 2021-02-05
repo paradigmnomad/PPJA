@@ -41,7 +41,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "구운 크림",
+        "ko": "구운 크림",
         "de": "Crème Brûlée",
         "fr": "Crème brûlée",
         // "hu": "",
@@ -49,7 +49,7 @@
         "ja": "クレームブリュレ",
         "pt": "Creme Queimado",
         // "ru": "",
-        // "tr": "",
+        "tr": "Krem Brule",
         "zh": "法式焦糖布丁",
     },
     "DescriptionLocalization":
@@ -63,7 +63,7 @@
         "ja": "時代を選ばない伝統。",
         "pt": "Um clássico atemporal.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Ebedi bir klasik.",
         "zh": "永恒的经典。",
     }
 }

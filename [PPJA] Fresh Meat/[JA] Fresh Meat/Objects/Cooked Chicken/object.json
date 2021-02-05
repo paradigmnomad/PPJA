@@ -39,7 +39,7 @@
         "ja": "調理済み鶏肉",
         "pt": "Frango cozido",
         "ru": "Приготовленная курица",
-        // "tr": "",
+        "tr": "Pişmiş Tavuk",
         "zh": "熟鸡肉",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         "ja": "レシピですぐに使えるよう下ごしらえが済んだまるごと一羽の鶏。",
         "pt": "Um frango inteiro assado, pronto para ser usado em receitas.",
         "ru": "Зажаренная целиком курица гриль, готовая для использования в рецептах.",
-        // "tr": "",
+        "tr": "Bütün bir tavuk, zaten pişmiş ve tariflerde kullanıma hazır.",
         "zh": "一整只熟鸡，可以用于烹饪。",
     },
     "ContextTags": [

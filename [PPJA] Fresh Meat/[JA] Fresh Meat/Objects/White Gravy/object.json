@@ -45,7 +45,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Beyaz Sos",
         "zh": "鸡肉汁",
     },
     "DescriptionLocalization":
@@ -59,7 +59,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tuzlu ve biberli bir sos.",
         "zh": "鸡肉汁。一份以鸡肉高汤打底制成的美味酱汁",
     }
 }

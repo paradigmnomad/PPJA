@@ -37,8 +37,8 @@
         "ja": "ティラミス",
         "pt": "Tiramisu",
         "ru": "Тирамису",
-        // "tr": "",
-        "zh": "提拉米苏蛋糕",
+        "tr": "Tiramisu",
+        "zh": "提拉米苏蛋糕"
     },
     "DescriptionLocalization":
     {
@@ -51,7 +51,7 @@
         "ja": "みんな大好き、コーヒー味のスイーツ。",
         "pt": "Sobremesa favorita de todos, com sabor de café.",
         "ru": "Всеми любимый кофейный десерт",
-        // "tr": "",
-        "zh": "提拉米苏蛋糕。每个人最喜欢的咖啡甜点。",
+        "tr": "Herkesin en sevdiği kahve aromalı tatlı.",
+        "zh": "提拉米苏蛋糕。每个人最喜欢的咖啡甜点。"
     }
 }

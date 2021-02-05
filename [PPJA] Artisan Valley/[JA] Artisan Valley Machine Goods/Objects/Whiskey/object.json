@@ -40,21 +40,20 @@
         "ja": "ウィスキー",
         "pt": "Uísque",
         "ru": "Виски",
-         // "tr": "",
+        "tr": "Viski",
         "zh": "威士忌",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una bebida destilada a base de malta de trigo. Beber con moderación.",
-        "ko": "밀 맥아를 증류시켜 만든 술. 절제해서 드세요.",
-        "de": "Ein Schnaps aus Weizenmalz destilliert. Genieße ihn in Maßen.",
-        "fr": "Un spiritueux distillé à partir de malt de blé. À boire avec modération.",
-        "hu": "Egy búza malátából desztillált szeszesital. Fogyasszad mértékkel!",
-         // "it": "",
-        "ja": "麦芽から蒸留したスピリッツ。飲む時はほどほどに。",
-        "pt": "Uma bebida destilada a partir do malte de trigo. Beba com moderação!",
-        "ru": "Алкогольный напиток, дистиллированный из пшеничного солода. Пейте в меру.",
-         // "tr": "",
-        "zh": "一种由小麦中蒸馏而来的烈酒。适量饮酒。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una bebida destilada a base de malta de trigo. Beber con moderación.",
+    "ko": "밀 맥아를 증류시켜 만든 술. 절제해서 드세요.",
+    "de": "Ein Schnaps aus Weizenmalz destilliert. Genieße ihn in Maßen.",
+    "fr": "Un spiritueux distillé à partir de malt de blé. À boire avec modération.",
+    "hu": "Egy búza malátából desztillált szeszesital. Fogyasszad mértékkel!",
+    // "it": "",
+    "ja": "麦芽から蒸留したスピリッツ。飲む時はほどほどに。",
+    "pt": "Uma bebida destilada a partir do malte de trigo. Beba com moderação!",
+    "ru": "Алкогольный напиток, дистиллированный из пшеничного солода. Пейте в меру.",
+    "tr": "Maltlanmış buğdaydan damıtılan içecek. Kararında içilmeli.",
+    "zh": "一种由小麦中蒸馏而来的烈酒。适量饮酒。"
+  }
 }

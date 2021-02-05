@@ -25,7 +25,7 @@
         "ja": "ワサビマヨネーズ",
         "pt": "Maionese de Wasabi",
         "ru": "Васаби-майонез",
-         // "tr": "",
+        "tr": "Vasabi Mayonezi",
         "zh": "芥末沙拉酱",
     },
     "DescriptionLocalization":
@@ -39,7 +39,7 @@
         "ja": "わずかに緑色がかっている。",
         "pt": "Ligeiramente tingida de verde.",        
         "ru": "Слегка окрашено в зелёный цвет.",
-         // "tr": "",
+        "tr": "Biraz yeşilimsi.",
         "zh": "它看上去透着点绿。",
     }
 }

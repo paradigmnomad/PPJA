@@ -22,7 +22,7 @@
         "ja": "フルーツヨーグルト",
         "pt": "Iogurte de Frutas",
         "ru": "Фруктовый йогурт",
-         // "tr": "",
+        "tr": "Meyveli Yoğurt",
         "zh": "水果酸奶",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "フルーツ風味のヨーグルト。",
         "pt": "Iogurte com sabor de frutas.",
         "ru": "Йогурт со вкусом фруктов.",
-         // "tr": "",
+        "tr": "Bir meyvenin tadında yoğurt.",
         "zh": "这罐酸奶有水果的味道。",
     }
 }

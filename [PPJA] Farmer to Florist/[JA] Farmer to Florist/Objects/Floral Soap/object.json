@@ -17,7 +17,7 @@
         "ja": "フローラルソープ",
         "pt": "Sabonete Floral",
         "ru": "Цветочное мыло",
-        // "tr": "",
+        "tr": "Çiçekli Sabun",
         "zh": "花味香皂",
     },
     "DescriptionLocalization":
@@ -31,7 +31,7 @@
         "ja": "花の香りの石けん。リボンで飾り付けられている。",
         "pt": "Uma barra de sabão que cheira a flores. Foi decorado com um lanço roxo.",
         "ru": "Кусок мыла, пахнущий цветами. Украшен ленточкой.",
-        // "tr": "",
+        "tr": "Çiçek gibi kokan bir kalıp sabun. Kurdeleyle süslenmiş.",
         "zh": "闻起来有花香的肥皂。中间系着蝴蝶结。",
     }
 }

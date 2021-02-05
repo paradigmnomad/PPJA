@@ -45,7 +45,7 @@
         "ja": "マスタード",
         "pt": "Mostarda",
         "ru": "Горчица",
-        // "tr": "",
+        "tr": "Hardal",
         "zh": "芥末",
     },
     "DescriptionLocalization":
@@ -59,7 +59,7 @@
         "ja": "もう1つのピクニックの定番。",
         "pt": "Outro molho utilizado em lanches.",
         "ru": "Еще одно основное блюдо для пикника.",
-        // "tr": "",
+        "tr": "Başka bir piknik vazgeçilmezi.",
         "zh": "芥末。另一个野餐主食。",
     }
 }

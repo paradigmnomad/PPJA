@@ -41,8 +41,8 @@
         "ja": "ライラックのスコーン",
         "pt": "Bolinhos de Lilás",
         "ru": "Булочка с сиренью",
-        // "tr": "",
-        "zh": "紫丁香烤饼",
+        "tr": "Leylak Çörekleri",
+        "zh": "紫丁香烤饼"
     },
     "DescriptionLocalization":
     {
@@ -55,7 +55,7 @@
         "ja": "ほんのり甘くてお茶のお供にピッタリ。",
         "pt": "Levemente adoçados, estes vão muito bem com uma xícara de chá.",
         "ru": "Слегка подслащенная и прекрасно сочетается с чашкой чая.",
-        // "tr": "",
-        "zh": "微甜，配上一杯茶再好不过了。",
+        "tr": "Hafifçe tatlı, bir bardak çayla çok iyi gider.",
+        "zh": "微甜，配上一杯茶再好不过了。"
     }
 }

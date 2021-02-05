@@ -41,7 +41,7 @@
         "ja": "カニのオイスター炒め",
         "pt": "Caranguejo no Molho de Ostra",
         // "ru": "",
-        // "tr": "",
+        "tr": "İstiridye Sosunda Yengeç",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -55,7 +55,7 @@
         "ja": "カニにオイスターソースをからめた香ばしい魚介料理。",
         "pt": "Um prato de frutos do mar de caranguejo servido com um molho de ostra salgado.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Yengecin yanında tuzlu istiridye sosunun servis edildiği bir deniz ürünü yemeği.",
         // "zh": "",
     }
 }

@@ -39,7 +39,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Pişmiş Ejderha Eti",
          "zh": "熟制龙肉",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Yeşilimsi bir ejderha bifteği, zaten pişmiş ve tariflerde kullanıma hazır.",
          "zh": "一种绿龙的肉排，已经烹调好，可以在食谱中使用。",
     },
     "ContextTags": [

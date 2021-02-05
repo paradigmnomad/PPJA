@@ -22,7 +22,7 @@
         "ja": "カモ肉",
         "pt": "Carne de pato",
         "ru": "Утка",
-        // "tr": "",
+        "tr": "Ördek Eti",
         "zh": "鸭肉",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "カモのモモ肉。",
         "pt": "A coxa de um pato.",
         "ru": "Утиная ножка.",
-        // "tr": "",
+        "tr": "Bir ördek butu.",
         "zh": "鸭腿肉。",
     },
     "DisableWithMod": "DIGUS.ANIMALHUSBANDRYMOD"

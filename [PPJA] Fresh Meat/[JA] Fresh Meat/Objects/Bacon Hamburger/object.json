@@ -57,7 +57,7 @@
         "ja": "ベーコンバーガー",
         "pt": "Hamburguer de Bacon",
         "ru": "Гамбургер с беконом",
-        // "tr": "",
+        "tr": "Pastırmalı Burger",
         "zh": "培根汉堡",
     },
     "DescriptionLocalization":
@@ -71,7 +71,7 @@
         "ja": "昔からある人気のメニューにベーコンをトッピング。",
         "pt": "A versão clássica da refeição popular, mas com bacon.",
         "ru": "Классическая версия популярного блюда, но с беконом.",
-        // "tr": "",
+        "tr": "Klasik, popüler yemeğin pastırmalı versiyonu.",
         "zh": "培根汉堡。这是经典的流行快餐，但是里面有培根。",
     }
 }

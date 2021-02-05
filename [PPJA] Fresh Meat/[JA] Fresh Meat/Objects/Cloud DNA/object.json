@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bulut DNA'sı",
          "zh": "云朵DNA",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bir buluttan alınan... DNA mı, DNA sentezleyiciyle? Nasıl başardın bilemiyorum.",
          "zh": "用DNA离析机从一些...云朵(？？？)中提取的DNA，我不知道你是怎么做到的。",
     },
     "ContextTags": [

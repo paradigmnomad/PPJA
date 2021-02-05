@@ -23,7 +23,7 @@
         "ja": "キャロライナ・リーパーエキス",
         "pt": "Extrato Roubador de Carolina",
         "ru": "Перец «Каролинский Жнец»",
-         // "tr": "",
+        "tr": "Karolina Azraili Ekstratı",
         "zh": "卡罗莱纳死神辣椒提取液",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "あなたの財布を盗もうとする人への完璧な贈り物。",
         "pt": "O presente perfeito para alguém que tenta roubar sua carteira.",
         "ru": "Идеальный подарок для тех, кто пытается украсть ваш кошелек.",
-         // "tr": "",
+        "tr": "Cüzdanını çalmaya çalışana verilecek en güzel hediye.",
         "zh": "这是一个想要偷你钱包的人的完美礼物。",
     }
 }

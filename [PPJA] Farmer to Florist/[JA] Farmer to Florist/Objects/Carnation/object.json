@@ -24,7 +24,7 @@
         "ja": "カーネーション",
         "pt": "Cravo",
         "ru": "Гвоздика",
-         // "tr": "",
+         "tr": "Karanfil Çiçeği",
         "zh": "康乃馨",
     },
     "DescriptionLocalization":
@@ -38,8 +38,8 @@
         "ja": "春夏に咲く繊細な花。それぞれの色は特別を持つ。",
         "pt": "Uma flor frágil que floresce na primavera e no verão. Cada cor tem um significado especial.",
         "ru": "Хрупкий цветок, цветущий весной и летом. Каждый цвет имеет свое особое значение.",
-         // "tr": "",
-        "zh": "春天和夏天盛开的一朵纤弱的花。每种颜色都有特殊的寓意。",
+         "tr": "Baharda ve yazın açan kırılgan bir çiçek. Her renginin ayrı bir anlamı var. ",
+        "zh": "春天和夏天盛开的一朵纤弱的花。每种颜色都有特殊的寓意。"
     },
     "ContextTags": [
     	"season_spring",

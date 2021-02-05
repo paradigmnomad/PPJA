@@ -24,8 +24,8 @@
         "ja": "アリウム",
         "pt": "Alho Ornamental",
         "ru": "Декоративный лук",
-         // "tr": "",
-        "zh": "大花葱",
+        "tr": "Alyum",
+        "zh": "大花葱"
     },
     "DescriptionLocalization":
     {
@@ -38,7 +38,7 @@
         "ja": "丸く育った花は沢山の蝶を引き寄せる。",
         "pt": "A flor cresce em uma esfera para atrair o máximo de borboleta possíveis.",
         "ru": "Цветок растет в форме сферы, чтобы привлечь как можно больше бабочек.",
-         // "tr": "",
+         "tr": "Çiçeği olabildiğince çok kelebek çekmek için küre şeklinde yetişir.",
         "zh": "花朵长成球形，以吸引尽可能多的蝴蝶。",
     },
     "ContextTags": [

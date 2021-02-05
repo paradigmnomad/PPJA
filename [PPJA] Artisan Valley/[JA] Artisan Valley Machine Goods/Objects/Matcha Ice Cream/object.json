@@ -24,7 +24,7 @@
         "ja": "抹茶アイスクリーム",
         "pt": "Sorvete de Matcha",
         "ru": "Маття-мороженое",
-         // "tr": "",
+        "tr": "Maçalı Dondurma",
         "zh": "抹茶冰淇淋",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "お茶の味がする。",
         "pt": "Com sabor de chá.",
         "ru": "На вкус как чай.",
-         // "tr": "",
+        "tr": "Tadı çay gibi.",
         "zh": "它尝起来是茶味的。",
     }
 }

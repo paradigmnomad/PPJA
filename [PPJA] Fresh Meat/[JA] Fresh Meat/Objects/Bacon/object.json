@@ -37,7 +37,7 @@
         "ja": "ベーコン",
         "pt": "Bacon",
         "ru": "Бекон",
-        // "tr": "",
+        "tr": "Pastırma",
         "zh": "培根",
     },
     "DescriptionLocalization":
@@ -51,7 +51,7 @@
         "ja": "朝食における魔法のお肉。",
         "pt": "A carne mágica do café da manhã",
         "ru": "Чудесный мясной завтрак.",
-        // "tr": "",
+        "tr": "Sihirli kahvaltı eti.",
         "zh": "这份早餐肉有魔力。",
     },
     "DisableWithMod": "DIGUS.ANIMALHUSBANDRYMOD"

@@ -22,7 +22,7 @@
         "ja": "アーモンドバター",
         "pt": "Manteiga de Amêndoas",
         "ru": "Миндальное масло",
-         // "tr": "",
+        "tr": "Badem Ezmesi",
         "zh": "杏仁黄油",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "すこしざらざらしているバター。",
         "pt": "Uma manteiga ligeiramente arenosa.",
         "ru": "Легкое, слегка зернистое масло.",
-         // "tr": "",
+        "tr": "Hafif ve biraz kıvamı sert bir ezme.",
         "zh": "一种味道清淡且略带颗粒口感的坚果黄油。",
     }
 }

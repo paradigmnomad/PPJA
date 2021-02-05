@@ -24,32 +24,30 @@
         "y 3",
     ],
 
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de flor de cactus",
-        "ko": "선인장 꽃 씨앗",
-        "de": "Kaktusblüten-Saat",
-        "fr": "Graines de cactus à fleur",
-        "hu": "Kaktuszvirág magvak",
-         // "it": "",
-        "ja": "サボテンのタネ",
-        "pt": "Flor do Cacto",
-        "ru": "Семена цветочного кактуса",
-         // "tr": "",
-          "zh": "仙人掌花籽",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en primavera, verano u otoño. Tardan 24 días en crecer, y continúan produciendo después de la primera cosecha",
-        "ko": "봄 또는 여름 또는 가을 작물. 성장하려면 24일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
-        "de": "Pflanze sie im Frühling, Sommer oder Herbst. Wächst in 24 Tagen heran und kann danach mehrmals geerntet werden.",
-        "fr": "À planter au printemps, en été ou en automne. Prend 24 jours pour arriver à maturité, et continue de produire après la première récolte.",
-        "hu": "Ezeket tavasszal, nyáron, vagy ősszel ültesd el. 24 napig tart megérniük, de utána tovább termelnek.",
-         // "it": "",
-        "ja": "春または夏植えの作物。そだつのに24日かかる。最初の収穫のあともくりかえし収穫できる。",
-        "pt": "Plante-as na primavera, verão ou outono. Leva 24 dias para amadurecer, e continua a produzir depois da primeira colheita.",
-        "ru": "Сажайте весной, летом или осенью. Вырастает через 24 дня и продолжает давать урожай после первого сбора.",
-         // "tr": "",
-          "zh": "在春天、夏天或秋天播种。24天成熟，在第一次收获后循环生产。",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de flor de cactus",
+    "ko": "선인장 꽃 씨앗",
+    "de": "Kaktusblüten-Saat",
+    "fr": "Graines de cactus à fleur",
+    "hu": "Kaktuszvirág magvak",
+    // "it": "",
+    "ja": "サボテンのタネ",
+    "pt": "Flor do Cacto",
+    "ru": "Семена цветочного кактуса",
+    "tr": "Kaktüs Çiçeği Tohumu",
+    "zh": "仙人掌花籽"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en primavera, verano u otoño. Tardan 24 días en crecer, y continúan produciendo después de la primera cosecha",
+    "ko": "봄 또는 여름 또는 가을 작물. 성장하려면 24일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
+    "de": "Pflanze sie im Frühling, Sommer oder Herbst. Wächst in 24 Tagen heran und kann danach mehrmals geerntet werden.",
+    "fr": "À planter au printemps, en été ou en automne. Prend 24 jours pour arriver à maturité, et continue de produire après la première récolte.",
+    "hu": "Ezeket tavasszal, nyáron, vagy ősszel ültesd el. 24 napig tart megérniük, de utána tovább termelnek.",
+    // "it": "",
+    "ja": "春または夏植えの作物。そだつのに24日かかる。最初の収穫のあともくりかえし収穫できる。",
+    "pt": "Plante-as na primavera, verão ou outono. Leva 24 dias para amadurecer, e continua a produzir depois da primeira colheita.",
+    "ru": "Сажайте весной, летом или осенью. Вырастает через 24 дня и продолжает давать урожай после первого сбора.",
+    "tr": "Baharda, yazın veya güzde ekilir. 24 günde yetişir ve ilk hasattan sonra yetişmeye devam eder.",
+    "zh": "在春天、夏天或秋天播种。24天成熟，在第一次收获后循环生产。"
+  }
 }

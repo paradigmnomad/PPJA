@@ -54,8 +54,8 @@
         "ja": "ローズ・ヌガー",
         "pt": "Torrone de Rosa",
         "ru": "Нуга с розами",
-        // "tr": "",
-        "zh": "玫瑰牛轧糖",
+        "tr": "Güllü Koz Helvası",
+        "zh": "玫瑰牛轧糖"
     },
     "DescriptionLocalization":
     {
@@ -68,7 +68,7 @@
         "ja": "卵、砂糖、蜂蜜で作ったお菓子にバラをトッピング。",
         "pt": "Uma confeitaria feito com ovos, açúcar e mel. Este é coberto com rosas.",
         "ru": "Кондитерское изделие из яиц, сахара и меда, украшенное розами.",
-        // "tr": "",
-        "zh": "玫瑰牛轧糖。由鸡蛋、糖和蜂蜜制成的糖果。上面覆盖有玫瑰花。",
+        "tr": "Yumurta, şeker ve baldan yapılan bir şekerleme. Üstünde güller var.",
+        "zh": "玫瑰牛轧糖。由鸡蛋、糖和蜂蜜制成的糖果。上面覆盖有玫瑰花。"
     }
 }

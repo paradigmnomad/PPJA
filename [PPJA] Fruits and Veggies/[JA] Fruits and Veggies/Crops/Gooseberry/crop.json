@@ -22,32 +22,30 @@
     "SeedPurchaseRequirements": [
         "y 2",
     ],
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de grosella",
-        "ko": "구스베리 씨앗",
-        "de": "Stachelbeeren-Saat",
-        "fr": "Graines de groseille",
-        "hu": "Egres magvak",
-         // "it": "",
-        "ja": "グーズベリーのタネ",
-        "pt": "Sementes de groselha",
-        "ru": "Семена крыжовника",
-         // "tr": "",
-        "zh": "醋栗种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en verano. Tardan 13 días en crecer, y continuan produciendo después de la primera cosecha.",
-        "ko": "여름 작물. 성장하려면 13일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
-        "de": "Pflanze sie im Sommer. Wächst in 13 Tagen heran und kann danach mehrmals geerntet werden.",
-        "fr": "À planter en été. Prend 13 jours pour arriver à maturité, et continue de produire après la première récolte.",
-        "hu": "Ezeket nyáron ültesd el. 13 napig tart megérniük, de utána tovább termelnek.",
-         // "it": "",
-        "ja": "夏植えの作物。そだつのに13日かかるが、そのあともくりかえし収穫できる。",
-        "pt": "Plante-as no verão. Demora 13 dias para amadurecer e continua produzindo após a primeira colheita.",
-        "ru": "Сажайте летом. Вырастает через 13 дней и продолжает давать урожай после первого сбора.",
-         // "tr": "",
-        "zh": "夏天播种。13天成熟，在第一次收获后循环生产。",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de grosella",
+    "ko": "구스베리 씨앗",
+    "de": "Stachelbeeren-Saat",
+    "fr": "Graines de groseille",
+    "hu": "Egres magvak",
+    // "it": "",
+    "ja": "グーズベリーのタネ",
+    "pt": "Sementes de groselha",
+    "ru": "Семена крыжовника",
+    "tr": "Bektaşi Üzümü Tohumu",
+    "zh": "醋栗种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en verano. Tardan 13 días en crecer, y continuan produciendo después de la primera cosecha.",
+    "ko": "여름 작물. 성장하려면 13일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
+    "de": "Pflanze sie im Sommer. Wächst in 13 Tagen heran und kann danach mehrmals geerntet werden.",
+    "fr": "À planter en été. Prend 13 jours pour arriver à maturité, et continue de produire après la première récolte.",
+    "hu": "Ezeket nyáron ültesd el. 13 napig tart megérniük, de utána tovább termelnek.",
+    // "it": "",
+    "ja": "夏植えの作物。そだつのに13日かかるが、そのあともくりかえし収穫できる。",
+    "pt": "Plante-as no verão. Demora 13 dias para amadurecer e continua produzindo após a primeira colheita.",
+    "ru": "Сажайте летом. Вырастает через 13 дней и продолжает давать урожай после первого сбора.",
+    "tr": "Yazın ekilir. 13 günde yetişir ve ilk hasattan sonra yetişmeye devam eder.",
+    "zh": "夏天播种。13天成熟，在第一次收获后循环生产。"
+  }
 }

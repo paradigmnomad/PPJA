@@ -22,32 +22,30 @@
     "SeedPurchaseRequirements": [
         "n willyHours",
     ],
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de jengibre",
-        "ko": "생강 씨앗",
-        "de": "Ingwer-Saat",
-        "fr": "Graines de gingembre",
-        "hu": "Gyömbér magvak",
-         // "it": "",
-        "ja": "ショウガのタネ",
-        "pt": "Sementes de gengibre",
-        "ru": "Семена имбиря",
-         // "tr": "",
-        "zh": "姜种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en otoño. Tardan 7 días en madurar.",
-        "ko": "가을 작물. 성장하려면 7일이 소요됩니다.",
-        "de": "Pflanze sie im Herbst. Wächst in 7 Tagen heran.",
-        "fr": "À planter en automne. Prend 7 jours pour arriver à maturité.",
-        "hu": "Ezeket ősszel ültesd el. 7 napig tart megérniük.",
-         // "it": "",
-        "ja": "秋植えの作物。そだつのに7日かかる。",
-        "pt": "Plante-as no outono. Demora 7 dias para amadurecer.",
-        "ru": "Сажайте осенью. Вырастает через 7 дней.",
-         // "tr": "",
-        "zh": "秋天播种。7天成熟。",
-    },    
+  "SeedNameLocalization": {
+    "es": "Semillas de jengibre",
+    "ko": "생강 씨앗",
+    "de": "Ingwer-Saat",
+    "fr": "Graines de gingembre",
+    "hu": "Gyömbér magvak",
+    // "it": "",
+    "ja": "ショウガのタネ",
+    "pt": "Sementes de gengibre",
+    "ru": "Семена имбиря",
+    "tr": "Zencefil Tohumu",
+    "zh": "姜种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en otoño. Tardan 7 días en madurar.",
+    "ko": "가을 작물. 성장하려면 7일이 소요됩니다.",
+    "de": "Pflanze sie im Herbst. Wächst in 7 Tagen heran.",
+    "fr": "À planter en automne. Prend 7 jours pour arriver à maturité.",
+    "hu": "Ezeket ősszel ültesd el. 7 napig tart megérniük.",
+    // "it": "",
+    "ja": "秋植えの作物。そだつのに7日かかる。",
+    "pt": "Plante-as no outono. Demora 7 dias para amadurecer.",
+    "ru": "Сажайте осенью. Вырастает через 7 дней.",
+    "tr": "Yazın ekilir 7 günde yetişir.",
+    "zh": "秋天播种。7天成熟。"
+  },    
 }

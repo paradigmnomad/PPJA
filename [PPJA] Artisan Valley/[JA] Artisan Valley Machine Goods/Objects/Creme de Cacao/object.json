@@ -44,22 +44,21 @@
         "ja": "クレーム・ド・カカオ",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Çikolata Likörü",
         "zh": "可可利口酒",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Licor suave y chocolateoso",
-        "ko": "부드럽고 초콜릿 향이 나는 술.",
-        //"de": "",
-        "fr": "Liqueur crèmeuse et chocolatée.",
-        "hu": "Egy lágy, csokoládés likőr.",
-        // "it": "",
-        "ja": "滑らかでチョコレートのような風味のお酒。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "柔和的巧克力风味利口酒。",
-    }
+  "DescriptionLocalization": {
+    "es": "Licor suave y chocolateoso",
+    "ko": "부드럽고 초콜릿 향이 나는 술.",
+    //"de": "",
+    "fr": "Liqueur crèmeuse et chocolatée.",
+    "hu": "Egy lágy, csokoládés likőr.",
+    // "it": "",
+    "ja": "滑らかでチョコレートのような風味のお酒。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Tatlı ve çikolatalı likör.",
+    "zh": "柔和的巧克力风味利口酒。"
+  }
 
 }

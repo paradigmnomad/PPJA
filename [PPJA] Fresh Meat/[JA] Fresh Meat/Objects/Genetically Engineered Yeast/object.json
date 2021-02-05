@@ -22,7 +22,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Genetiği Düzenlenmiş Maya",
          "zh": "基因工程酵母",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bitki temelli et yapmak için kullanılır. Hayvan DNA'sıyla birleştirilmiş.",
          "zh": "用于制作植物性肉类。可与动物DNA融合。",
     }
 }

@@ -23,7 +23,7 @@
         "ja": "ブレックファストコンブチャ",
         "pt": "Kombuchá de Café da Manhã",
         "ru": "Комбуча для завтрака",
-        // "tr": "",
+        "tr": "Kahvaltılık Kombucha",
         "zh": "早餐康普茶",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "「そうね、それが普通かもしれない。でも私は、普通よりも自然体で居たいの。」",
         "pt": "Pode ser normal, querida: Mas prefiro ser natural.",
         "ru": "Дорогая, этот вкус может и обычный, но хотелось бы, чтобы он был более естественным",
-        // "tr": "",
+        "tr": "Normal olabilir, tatlım ; ama doğal olmayı tercih ederim.",
         "zh": "味道尝起来或许挺普通，亲爱的；但我希望它更自然一点。",
     }
 }

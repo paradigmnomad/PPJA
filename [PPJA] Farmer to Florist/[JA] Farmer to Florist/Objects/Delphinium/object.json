@@ -25,8 +25,8 @@
         "ja": "デルフィニウム",
         "pt": "Esporinha",
         "ru": "Дельфиниум",
-         // "tr": "",
-        "zh": "翠雀花",
+        "tr": "Hezaren",
+        "zh": "翠雀花"
     },
     "DescriptionLocalization":
     {
@@ -39,8 +39,8 @@
         "ja": "大きな茎に沿って無数の花が咲く。アルカロイド系の毒を持っている。",
         "pt": "Uma planta que cultiva flores ao longo de um caule grande e saliente. É venenoso,toma cuidado para não ingerir.",
         "ru": "Растение с большим выпуклым стеблем, вдоль которого растут цветы. Ядовито.",
-         // "tr": "",
-        "zh": "花茎大而突出，沿茎身密布花朵，有毒，不可食用。",
+        "tr": "Çıkıntılı büyük bir sapın üzerinde çiçekleri yetişen bir bitki. Yenilmesi halinde zehirlidir.",
+        "zh": "花茎大而突出，沿茎身密布花朵，有毒，不可食用。"
     },
     "ContextTags": [
     	"color_blue",

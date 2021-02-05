@@ -47,21 +47,20 @@
         "ja": "ビスコッティ",
         "pt": "Biscotti",
         "ru": "Бискотти",
-         // "tr": "",
+        "tr": "Biscotti",
         "zh": "比斯科蒂饼干",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una golosina con chocolate desmenuzable y crujiente.",
-        "ko": "잘 바스러지는, 초콜릿을 바른 바삭바삭한 간식.",
-        "de": "Ein bröckeliger, knuspriger Leckerbissen mit Schokoladenüberzug.",
-        "fr": "Une biscotte friable et croquante garnie de chocolat.",
-        "hu": "Egy morzsás, ropogós finomság csokoládéval a tetején.",
-         // "it": "",
-        "ja": "チョコレートをトッピングした、パリパリサクサクのお菓子。",
-        "pt": "Uma guloseima crocante com cobertura de chocolate.",
-        "ru": "Хрупкое хрустящее угощение с шоколадом.",
-         // "tr": "",
-        "zh": "意大利的传统饼干，上面放有巧克力，口感松脆坚硬。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una golosina con chocolate desmenuzable y crujiente.",
+    "ko": "잘 바스러지는, 초콜릿을 바른 바삭바삭한 간식.",
+    "de": "Ein bröckeliger, knuspriger Leckerbissen mit Schokoladenüberzug.",
+    "fr": "Une biscotte friable et croquante garnie de chocolat.",
+    "hu": "Egy morzsás, ropogós finomság csokoládéval a tetején.",
+    // "it": "",
+    "ja": "チョコレートをトッピングした、パリパリサクサクのお菓子。",
+    "pt": "Uma guloseima crocante com cobertura de chocolate.",
+    "ru": "Хрупкое хрустящее угощение с шоколадом.",
+    "tr": "Üstü çikolatalı, ufalanan ve kıtır bir atıştırmalık.",
+    "zh": "意大利的传统饼干，上面放有巧克力，口感松脆坚硬。"
+  }
 }

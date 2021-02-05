@@ -24,21 +24,20 @@
         "ja": "イチゴのシャーベット",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Çilekli Meyve Şerbeti",
         "zh": "草莓果汁雪葩",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "딸기로 만든 상큼한 과일 소르베트와 갓 짠 레몬.",
-        // "de": "",
-        "fr": "Un sorbet rafraîchissant fait à partir de fraises et d'un citron fraîchement pressé.",
-        "hu": "Egy frissítő gyümölcs sörbet eperből, és frissen facsart citromból.",
-        // "it": "",
-        "ja": "イチゴとしぼりたてのレモンを使った、さわやかなフルーツシャーベット。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "由草莓和鲜榨柠檬制成的新鲜水果雪葩。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "딸기로 만든 상큼한 과일 소르베트와 갓 짠 레몬.",
+    // "de": "",
+    "fr": "Un sorbet rafraîchissant fait à partir de fraises et d'un citron fraîchement pressé.",
+    "hu": "Egy frissítő gyümölcs sörbet eperből, és frissen facsart citromból.",
+    // "it": "",
+    "ja": "イチゴとしぼりたてのレモンを使った、さわやかなフルーツシャーベット。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Çilek ve taze sıkılmış limondan yapılmış ferahlatıcı bir şerbet.",
+    "zh": "由草莓和鲜榨柠檬制成的新鲜水果雪葩。"
+  }
 }

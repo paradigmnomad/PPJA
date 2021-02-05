@@ -17,8 +17,8 @@
         "ja": "ラベンダー",
         "pt": "Lavanda",
         "ru": "Лаванда",
-        // "tr": "",
-        "zh": "薰衣草",
+        "tr": "Lavanta",
+        "zh": "薰衣草"
     },
     "DescriptionLocalization":
     {
@@ -31,8 +31,8 @@
         "ja": "色々な調理法と薬効を持つ上品な花。",
         "pt": "Uma planta elegante que tem uma variedade de usos culinários e medicinais.(Ajuda a diminuir o estresse).",
         "ru": "Изящное растение, имеющее множество кулинарных и лекарственных применений.",
-        // "tr": "",
-        "zh": "一种具有多种烹饪和药用用途的漂亮花朵。",
+        "tr": "Mutfakta ve tedavilerde çok kullanılan zarif bir çiçek.",
+        "zh": "一种具有多种烹饪和药用用途的漂亮花朵。"
     },
     "ContextTags": [
         "color_purple",

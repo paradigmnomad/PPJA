@@ -24,7 +24,7 @@
         "ja": "コンブチャ",
         "pt": "Kombuchá",        
         "ru": "Комбуча",
-        //"tr": "",
+        "tr": "Kombucha",
         "zh": "普通蘑菇康普茶",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "キノコを発酵させてできた、お茶のような飲み物。",
         "pt": "Uma bebida similar ao chá feita com cogumelos fermentados.",        
         "ru": "Чаеподобный напиток, приготовленный из сбродивших грибов.",
-        //"tr": "",
+        "tr": "Fermente mantardan yapılan çayımsı bir içecek.",
         "zh": "一种类似茶的饮料，由发酵的普通蘑菇制成。",
     }
 }

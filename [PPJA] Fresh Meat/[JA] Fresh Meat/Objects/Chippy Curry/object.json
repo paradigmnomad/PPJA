@@ -38,7 +38,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Chippy Küri",
         "zh": "炸鱼薯条店咖喱",
     },
     "DescriptionLocalization":
@@ -52,7 +52,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Kurbağaların küriyle çok iyi gittiğini kim bilebilirdi?",
         "zh": "谁知道青蛙在咖喱里这么好吃？",
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"

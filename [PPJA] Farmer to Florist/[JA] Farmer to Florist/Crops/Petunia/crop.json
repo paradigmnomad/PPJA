@@ -27,30 +27,30 @@
 	],
 
     "SeedPurchasePrice": 25,
-    "SeedNameLocalization": { 
+  "SeedNameLocalization": {
     "es": "Semillas de petunia",
     "ko": "페튜니아 씨앗",
     "de": "Petunia Seeds",
-     // "fr": "",
+    // "fr": "",
     "hu": "Petúnia magvak",
-     // "it": "",
+    // "it": "",
     "ja": "ペチュニアの種",
     "pt": "Semente de Petúnia",
     "ru": "Семена петунии",
-     // "tr": "",
-    "zh": "矮牵牛花种子",
-    },
-"SeedDescriptionLocalization": { 
+    "tr": "Petunya Tohumu",
+    "zh": "矮牵牛花种子"
+  },
+  "SeedDescriptionLocalization": {
     "es": "Plántalas en verano. Toma 6 días para producir una flor como trompeta.",
     "ko": "여름에 식물. 나팔 같은 꽃을 생산하는 데 6 일이 걸립니다.",
     "de": "Im Sommer pflanzen. Die Herstellung einer trompetenartigen Blume dauert 6 Tage.",
-     // "fr": "",
+    // "fr": "",
     "hu": "Ezeket nyáron ültesd el. 6 nap alatt hoz egy trombita alakú virágot.",
-     // "it": "",
+    // "it": "",
     "ja": "夏植えの花。6日かけて育ち、ラッパ型の花を咲かせる。",
     "pt": "Plante-a  no verão. Demoram 6 dias para nascer uma flor semelhante a  uma trombeta.",
     "ru": "Сажайте летом. Через 6 дней вырастает трубчатый цветок.",
-     // "tr": "",
-    "zh": "夏天播种。6天产出喇叭状花朵。",
-    }
+    "tr": "Yazın ekilir. 6 günde trompete benzeyen bir çiçeğe dönüşür.",
+    "zh": "夏天播种。6天产出喇叭状花朵。"
+  }
 }

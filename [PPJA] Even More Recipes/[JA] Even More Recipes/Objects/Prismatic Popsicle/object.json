@@ -66,7 +66,7 @@
         "ja": "プリズムアイスバー",
         "pt": "Picolé prismático",
          // "ru": "",
-         // "tr": "",
+        "tr": "Prizmatik Çubuklu Dondurma",
         "zh": "五彩冰棒",
     },
     "DescriptionLocalization":
@@ -80,7 +80,7 @@
         "ja": "谷で最も珍しいくだものを使っていて、食べるとやっぱりおいしい。",
         "pt": "Dizem que contém a fruta mais rara do vale, ela te enche de alegria.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Vadi'deki en nadir meyveyi içerdiği söylenir, içini neşeyle dolduruyor.",
         "zh": "这根冰棒里面有整个星露谷最稀有的水果的味道，它能使你愉悦。",
     }
 }

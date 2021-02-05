@@ -46,7 +46,7 @@
         "ja": "パスタボウル",
         "pt": "Tigela de Macarrão",
         // "ru": "",
-        // "tr": "",
+        "tr": "Makarna Kasesi",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -60,7 +60,7 @@
         "ja": "イタリア地方の料理で、通常は発酵させないコムギ生地を使いソースをかけて出される。",
         "pt": "Um tipo de comida italiana, tipicamente feita com massa não fermentada e servida geralmente com molho.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tipik olarak mayasız hamurdan yapılan ve sosla servis edilen bir İtalyan yemeği.",
         // "zh": "",
     }
 }

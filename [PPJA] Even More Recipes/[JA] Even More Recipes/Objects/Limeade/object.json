@@ -38,8 +38,8 @@
         "ja": "ライムエード",
         "pt": "Limonada de lima",
          // "ru": "",
-         // "tr": "",
-        "zh": "青柠水",
+        "tr": "Misket Limonatası",
+        "zh": "青柠水"
     },
     "DescriptionLocalization":
     {
@@ -52,7 +52,7 @@
         "ja": "絞りたてのライムエード！",
         "pt": "Limonada espremida na hora!",
          // "ru": "",
-         // "tr": "",
-        "zh": "用新鲜的青柠榨出来的！",
+        "tr": "Taze sıkılmış misket limonatası.",
+        "zh": "用新鲜的青柠榨出来的！"
     }
 }

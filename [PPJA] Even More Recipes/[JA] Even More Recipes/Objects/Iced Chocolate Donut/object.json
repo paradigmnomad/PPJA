@@ -48,7 +48,7 @@
         "ja": "チョコアイスドーナツ",
         "pt": "Donut de Chocolate Gelado",
          // "ru": "",
-         // "tr": "",
+        "tr": "Buzlu Çikolatalı Donut",
         "zh": "冰巧克力甜甜圈",
     },
     "DescriptionLocalization":
@@ -62,7 +62,7 @@
         "ja": "シンプルなチョコアイスドーナツ。",
         "pt": "Um simples donut de chocolate gelado.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Basit, buzlu çikolatalı bir donut.",
         "zh": "一份简单的，冰的巧克力甜甜圈",
     }
 }

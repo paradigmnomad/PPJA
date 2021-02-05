@@ -24,7 +24,7 @@
         "ja": "ラッキーパープルマヨネーズ",
         "pt": "Maionese Roxa da Sorte",
         "ru": "Фиолетовый майонез",
-        // "tr": "",
+        "tr": "Mor Şanslı... Mayonez mi?",
         "zh": "幸运的紫色蛋黄酱",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "アイテムスポナーでも使ってください。",
         "pt": "Espero que você tenha usado um gerador de ítens.",
         "ru": "Я надеюсь, что вы использовали читы, чтобы получить это.",
-        // "tr": "",
+        "tr": "Umarım eşya üreteci kullanmışsındır.",
         "zh": "我希望你用点能正常放入鸡舍孵化器里的东西来制作.....",
     }
 }

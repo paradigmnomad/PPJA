@@ -45,8 +45,8 @@
         "ja": "ガーリックブレッド",
         "pt": "Pão de alho",
          // "ru": "",
-         // "tr": "",
-        "zh": "大蒜面包",
+        "tr": "Sarımsak Ekmeği",
+        "zh": "大蒜面包"
     },
     "DescriptionLocalization":
     {
@@ -59,7 +59,7 @@
         "ja": "ガーリックバターのブレッド。夕食に添えて。",
         "pt": "Pão de alho amanteigado. Sirva junto do jantar.",
          // "ru": "",
-         // "tr": "",
-        "zh": "抹上黄油的大蒜面包，经常在晚餐中食用。",
+        "tr": "Tereyağlı sarımsak ekmeği. Akşam yemeğiyle servis edin.",
+        "zh": "抹上黄油的大蒜面包，经常在晚餐中食用。"
     }
 }

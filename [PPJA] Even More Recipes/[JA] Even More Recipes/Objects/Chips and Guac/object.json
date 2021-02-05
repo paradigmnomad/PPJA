@@ -42,32 +42,30 @@
         "PurchasePrice": 750,
         "PurchaseRequirements": ["HasCookingRecipe Tortilla", "y 3"]
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        "ja": "ワカモレとトルティーヤチップス",
-        "pt": "Chips e Guacamole",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        "ja": "グリッドボールの試合を見ながら食べるのにぴったりの食べ物。",
-        "pt": "A comida perfeita para ter enquanto assiste a um jogo de Gridball.",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "NameLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    "ja": "ワカモレとトルティーヤチップス",
+    "pt": "Chips e Guacamole",
+    // "ru": "",
+    "tr": "Cips ve Guacamole Sos"
+    // "zh": "",
+  },
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    "ja": "グリッドボールの試合を見ながら食べるのにぴったりの食べ物。",
+    "pt": "A comida perfeita para ter enquanto assiste a um jogo de Gridball.",
+    // "ru": "",
+    "tr": "Gridball maçı izlerken yemek için mükemmel yiyecek!"
+    // "zh": "",
+  }
 }

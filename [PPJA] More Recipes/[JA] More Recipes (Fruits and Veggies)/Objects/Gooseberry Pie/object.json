@@ -36,32 +36,30 @@
         "Dislike": ["Krobus", "Willy"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Pastel de grosella",
-        "ko": "구스베리 파이",
-        "de": "Stachelbeerkuchen",
-        "fr": "Tarte aux groseilles",
-         // "hu": "",
-         // "it": "",
-        "ja": "グーズベリーパイ",
-        "pt": "Torta de Groselha",
-        "ru": "Пирог с крыжовником",
-         // "tr": "",
-        "zh": "醋栗派",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Un pastel hecho de bayas silvestres y cubierto con un crumble streusel.",
-        "ko": "산딸기와 스트로이젤 크럼블로 만든 파이.",
-        "de": "Ein Kuchen aus wilden Beeren und mit Streuseln.",
-        "fr": "Une tarte aux baies sauvages et recouverte d'un crumble (streusel).",
-         // "hu": "",
-         // "it": "",
-        "ja": "野になっているベリーで作ったパイ。食べようとすると表面のシュトロイゼルがぼろぼろくずれてしまう。",
-        "pt": "Uma torta feita com frutas silvestres com uma cobertura pedaços quebradiços.",
-        "ru": "Пирог из лесных ягод, сверху покрытый крошкой.",
-         // "tr": "",
-        "zh": "醋栗派。这是一种由野生浆果制成的馅饼，上面撒上了奶油和面包屑。",
-    }
+  "NameLocalization": {
+    "es": "Pastel de grosella",
+    "ko": "구스베리 파이",
+    "de": "Stachelbeerkuchen",
+    "fr": "Tarte aux groseilles",
+    // "hu": "",
+    // "it": "",
+    "ja": "グーズベリーパイ",
+    "pt": "Torta de Groselha",
+    "ru": "Пирог с крыжовником",
+    "tr": "Bektaşi Üzümü Turtası",
+    "zh": "醋栗派"
+  },
+  "DescriptionLocalization": {
+    "es": "Un pastel hecho de bayas silvestres y cubierto con un crumble streusel.",
+    "ko": "산딸기와 스트로이젤 크럼블로 만든 파이.",
+    "de": "Ein Kuchen aus wilden Beeren und mit Streuseln.",
+    "fr": "Une tarte aux baies sauvages et recouverte d'un crumble (streusel).",
+    // "hu": "",
+    // "it": "",
+    "ja": "野になっているベリーで作ったパイ。食べようとすると表面のシュトロイゼルがぼろぼろくずれてしまう。",
+    "pt": "Uma torta feita com frutas silvestres com uma cobertura pedaços quebradiços.",
+    "ru": "Пирог из лесных ягод, сверху покрытый крошкой.",
+    "tr": "Yabani meyvelerden yapılan ve üstünde streusel parçaları olan bir turta.",
+    "zh": "醋栗派。这是一种由野生浆果制成的馅饼，上面撒上了奶油和面包屑。"
+  }
 }

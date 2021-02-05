@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Sincap DNA'sı",
          "zh": "松鼠DNA",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "DNA sentezleyiciyle etraftaki sincapların taranmasıyla elde edilen DNA.",
          "zh": "这是用DNA离析机扫描松鼠得到的一些松鼠DNA。",
     },
     "ContextTags": [

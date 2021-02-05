@@ -11,7 +11,7 @@
     {
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Krobus", "Willy"],
-        "Hate": ["Sebastian"],
+        "Hate": ["Sebastian"]
     },
     "Recipe":
     {
@@ -31,7 +31,7 @@
         }],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
-        "PurchasePrice": 2535,
+        "PurchasePrice": 2535
             },
     "NameLocalization":
     {
@@ -44,8 +44,8 @@
         "ja": "グリルチーズサンド",
         "pt": "Queijo grelhado",
         // "ru": "",
-        // "tr": "",
-        "zh": "煎芝士",
+        "tr": "Kızarmış Peynir",
+        "zh": "煎芝士"
     },
     "DescriptionLocalization":
     {
@@ -58,7 +58,7 @@
        "ja": "伝統的なサンドイッチ。",
         "pt": "O sanduíche clássico.",
         // "ru": "",
-        // "tr": "",
-        "zh": "经典的三明治。",
+        "tr": "Klasik bir sandviç",
+        "zh": "经典的三明治。"
     }
 }

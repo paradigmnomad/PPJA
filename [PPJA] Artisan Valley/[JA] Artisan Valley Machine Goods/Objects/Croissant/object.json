@@ -38,7 +38,7 @@
         "ja": "クロワッサン",
         "pt": "Croissant",
         "ru": "Круассан",
-         // "tr": "",
+        "tr": "Kruvasan",
         "zh": "牛角面包",
     },
     "DescriptionLocalization":
@@ -52,7 +52,7 @@
         "ja": "バター風味でサクサクで温かい。",
         "pt": "Escamoso, amanteigado, quente.",
         "ru": "Слоистый, маслянистый, теплый.",
-         // "tr": "",
+        "tr": "Çıtır, tereyağlı, ılık.",
         "zh": "一块上覆黄油的温热的面包。",
     }
 }

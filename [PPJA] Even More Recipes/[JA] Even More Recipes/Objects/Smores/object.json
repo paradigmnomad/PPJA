@@ -45,7 +45,7 @@
         "ja": "スモア",
         "pt": "S'mores",
          // "ru": "",
-         // "tr": "",
+        "tr": "S'mores",
         "zh": "曲奇饼",
     },
     "DescriptionLocalization":
@@ -59,7 +59,7 @@
         "ja": "どんどんおかわりが欲しくなる。",
         "pt": "Porque você sempre quer mais.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çünkü her zaman fazladan istersin.",
         "zh": "因为你总是想要吃这个经典的口味。",
     }
 }

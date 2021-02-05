@@ -34,7 +34,7 @@
         "ja": "香水製造機", //Japanese
         "pt": "Máquina de Perfume", //Portuguese
         "ru": "Парфюмерная машина", //Russian
-        //"tr": "", //Turkish
+        "tr": "Parfümeri", //Turkish
         "zh": "香水制造机", //Chinese (Simplified)
     },
     "DescriptionLocalization": //Used for localization. 
@@ -48,7 +48,7 @@
         "ja": "花を加工し香水を作る。", //Japanese
         "pt": "Processa flores para fazer perfumes.", //Portuguese
         "ru": "Перерабатывает цветы в духи.", //Russian
-        //"tr": "", //Turkish
+        "tr": "Parfüm yapmak için çiçekleri işler.", //Turkish
         "zh": "把花加工成香水。", //Chinese (Simplified)
     }
 }

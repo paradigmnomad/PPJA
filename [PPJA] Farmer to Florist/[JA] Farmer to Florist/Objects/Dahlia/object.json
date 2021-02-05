@@ -24,7 +24,7 @@
         "ja": "ダリア",
         "pt": "Dália",
         "ru": "Георгин",
-         // "tr": "",
+        "tr": "Yıldız Çiçeği",
         "zh": "大丽花",
     },
     "DescriptionLocalization":
@@ -38,8 +38,8 @@
         "ja": "秋になると庭の至る所で咲き乱れる花。",
         "pt": "Um jardim favorito que floresce durante todo o outono.",
         "ru": "Любимец садоводов, цветущий всю осень.",
-         // "tr": "",
-        "zh": "在秋天盛开的繁多花朵中它备受喜爱。",
+        "tr": "Güz boyunca çiçek açan bir bahçe favorisi.",
+        "zh": "在秋天盛开的繁多花朵中它备受喜爱。"
     },
     "ContextTags": [
     	"season_fall",

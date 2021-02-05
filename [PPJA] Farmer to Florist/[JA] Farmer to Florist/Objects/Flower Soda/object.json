@@ -54,8 +54,8 @@
         "ja": "フラワーソーダ",
         "pt": "Refrigerante de Flor",
         "ru": "Цветочная сода",
-        // "tr": "",
-        "zh": "花蜜苏打水",
+        "tr": "Çiçek Sodası",
+        "zh": "花蜜苏打水"
     },
     "DescriptionLocalization":
     {
@@ -68,7 +68,7 @@
         "ja": "甘くてスパイシーなリキュール。とっても良い香り。",
         "pt": "Uma mistura doce e picante. Também é bem perfumado.",
         "ru": "Весьма ароматная сладко-острая смесь.",
-        // "tr": "",
-        "zh": "花蜜苏打水。味道超甜的饮品，芬芳四溢。",
+        "tr": "Tatlı ve tadı keskin bir içecek. Çok da güzel kokuyor.",
+        "zh": "花蜜苏打水。味道超甜的饮品，芬芳四溢。"
     }
 }

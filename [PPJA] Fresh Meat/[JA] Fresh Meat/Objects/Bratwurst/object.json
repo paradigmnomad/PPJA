@@ -50,7 +50,7 @@
         // "ja": "",
         "pt": "salsicha",
         "ru": "Братвурст",
-        // "tr": "",
+        "tr": "Bratwurst",
         "zh": "德国油煎香肠",
     },
     "DescriptionLocalization":
@@ -64,7 +64,7 @@
         // "ja": "",
         "pt": "Uma tradicional salsicha caseira.",
         "ru": "Традиционные домашние сосиски.",
-        // "tr": "",
+        "tr": "Geleneksel ev yapımı bratwurst.",
         "zh": "一根传统的自制烤肠。",
     }
 }

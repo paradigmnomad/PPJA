@@ -40,7 +40,7 @@
         "ja": "ポップコーン",
         "pt": "Pipoca",
         // "ru": "",
-        // "tr": "",
+        "tr": "Patlamış Mısır",
         "zh": "爆米花",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
        "ja": "トウモロコシを跳ねだすまで揚げた。",
         "pt": "Grãos de milho fritos até que eles estouraram.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Mısır taneleri patlayana kadar ısıtılmış.",
         "zh": "玉米粒炒到爆裂为止。",
     }
 }

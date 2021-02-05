@@ -39,7 +39,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Pişmiş Bizon Eti",
          "zh": "熟制野牛肉",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Bir parça bizon eti,zaten pişmiş ve tariflerde kullanıma hazır.",
          "zh": "从野牛身上取下的肉，已经煮熟，可以用于进一步烹调。",
     },
     "ContextTags": [

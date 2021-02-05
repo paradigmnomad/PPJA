@@ -34,21 +34,20 @@
         "ja": "ヨーグルト瓶",
         "pt": "Iogurteira",
         "ru": "Йогуртница",
-        // "tr": "",
+        "tr": "Yoğurt Kavanozu",
         "zh": "酸奶罐",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un tarro para permitir que la leche fermente en yogurt",
-        "ko": "우유를 요거트로 발효시키는 단지.",
-        "de": "Ein großes Glas, um Milk zu Joghurt zu fermentieren.",
-        "fr": "Un bocal permettant la fermentation du lait en yaourt.",
-        "hu": "Egy korsó, melyet a tej joghurttá való átalakítására használnak.",
-        // "it": "",
-       "ja": "ミルクを発酵させてヨーグルトにするための瓶。",
-        "pt": "Iogurteira top therm, fermenta leite para fazer iogurte.",
-        "ru": "Сосуд, в котором можно заквасить молоко в йогурт.",
-        // "tr": "",
-        "zh": "这个罐子能够将牛奶与其它东西发酵成酸奶。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un tarro para permitir que la leche fermente en yogurt",
+    "ko": "우유를 요거트로 발효시키는 단지.",
+    "de": "Ein großes Glas, um Milk zu Joghurt zu fermentieren.",
+    "fr": "Un bocal permettant la fermentation du lait en yaourt.",
+    "hu": "Egy korsó, melyet a tej joghurttá való átalakítására használnak.",
+    // "it": "",
+    "ja": "ミルクを発酵させてヨーグルトにするための瓶。",
+    "pt": "Iogurteira top therm, fermenta leite para fazer iogurte.",
+    "ru": "Сосуд, в котором можно заквасить молоко в йогурт.",
+    "tr": "Sütten yoğurt yapmak için bir kavanoz.",
+    "zh": "这个罐子能够将牛奶与其它东西发酵成酸奶。"
+  }
 }

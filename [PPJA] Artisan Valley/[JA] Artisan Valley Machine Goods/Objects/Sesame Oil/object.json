@@ -21,7 +21,7 @@
         "ja": "ゴマ油",
         "pt": "Óleo de Gergelim",
         "ru": "Кунжутное масло",
-         // "tr": "",
+         // "tr": "Susam Yağı",
         "zh": "芝麻油",
     },
     "DescriptionLocalization":
@@ -35,7 +35,7 @@
         "ja": "ゴマから搾った油。",
         "pt": "Um óleo feito com sementes de gergelim.",
         "ru": "Масло, выжатое из семян кунжута.",
-         // "tr": "",
+        "tr": "Susamlardan çıkarılan yağ.",
         "zh": "一种用芝麻籽压榨的油。",
     }
 }

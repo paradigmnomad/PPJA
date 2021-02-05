@@ -23,32 +23,30 @@
         "y 4",
     ],
 
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de setas Pollo de los bosques",
-        "ko": "붉은덕다리버섯",
-        "de": "Gemeiner Schwefelporling-Saat",
-        "fr": "Spores de polypore soufré",
-        "hu": "Sárga gévagomba magvak",
-        // "it": "",
-        "ja": "アイカワタケのタネ",
-        "pt": "Sementes de Cogumelo Pólipo de Enxofre",
-        "ru": "Семена трутовика серно-жёлтого",
-        // "tr": "",
-        "zh": "硫磺菌种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en verano u otoño. Tardan 10 días en madurar.",
-        "ko": "여름 또는 가을 작물. 성장하려면 10일이 소요됩니다.",
-        "de": "Pflanze sie im Sommer oder Herbst. Wächst in 10 Tagen heran.",
-        "fr": "À planter en été ou en automne. Prend 10 jours pour arriver à maturité.",
-        "hu": "Ezeket nyáron vagy ősszel ültesd el. 10 napig tart megérniük.",
-        // "it": "",
-        "ja": "夏または秋植えの作物。そだつのに10日かかる。",
-        "pt": "Plante-as no verão ou outono. Leva 10 dias para amadurecer.",
-        "ru": "Сажайте летом или осенью. Вырастает через 10 дней.",
-        // "tr": "",
-        "zh": "夏天或秋天播种，10天成熟。",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de setas Pollo de los bosques",
+    "ko": "붉은덕다리버섯",
+    "de": "Gemeiner Schwefelporling-Saat",
+    "fr": "Spores de polypore soufré",
+    "hu": "Sárga gévagomba magvak",
+    // "it": "",
+    "ja": "アイカワタケのタネ",
+    "pt": "Sementes de Cogumelo Pólipo de Enxofre",
+    "ru": "Семена трутовика серно-жёлтого",
+    "tr": "Kükürt Mantarı Tohumu",
+    "zh": "硫磺菌种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en verano u otoño. Tardan 10 días en madurar.",
+    "ko": "여름 또는 가을 작물. 성장하려면 10일이 소요됩니다.",
+    "de": "Pflanze sie im Sommer oder Herbst. Wächst in 10 Tagen heran.",
+    "fr": "À planter en été ou en automne. Prend 10 jours pour arriver à maturité.",
+    "hu": "Ezeket nyáron vagy ősszel ültesd el. 10 napig tart megérniük.",
+    // "it": "",
+    "ja": "夏または秋植えの作物。そだつのに10日かかる。",
+    "pt": "Plante-as no verão ou outono. Leva 10 dias para amadurecer.",
+    "ru": "Сажайте летом или осенью. Вырастает через 10 дней.",
+    "tr": "Yazın veya güzde ekilir. 10 günde yetişir.",
+    "zh": "夏天或秋天播种，10天成熟。"
+  }
 }

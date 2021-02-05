@@ -32,21 +32,20 @@
         "ja": "ココナッツモカ",
         "pt": "Mocha de Coco Torrado",
         "ru": "Кокосовый мокко",
-         // "tr": "",
+        "tr": "Kızarmış Hindistan Cevizi Mocha",
         "zh": "炙椰摩卡",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una mezcla suave de chocolate y coco. El aroma es celestial.",
-        "ko": "초콜릿과 코코넛의 부드러운 혼합. 향이 천국같아요.",
-        "de": "Eine sanfte Mischung aus Schokoladen- und Kokosaromen. Das Aroma ist himmlisch.",
-        "fr": "Un doux mélange de saveurs de chocolat et de noix de coco. L'arôme est divin.",
-        "hu": "A csokoládé és a kókusz kellemes keveréke. Az íze mennyei.",
-         // "it": "",
-        "ja": "チョコとココナッツの優雅な風味。天にも昇る香り。",
-        "pt": "Uma mistura suave de chocolate e coco. Seu aroma é celestial.",
-        "ru": "Нежная смесь вкусов шоколада и кокоса. Райский вкус.",
-         // "tr": "",
-        "zh": "巧克力和椰子的味道在杯中糅合氤氲。闻之令人愉悦。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una mezcla suave de chocolate y coco. El aroma es celestial.",
+    "ko": "초콜릿과 코코넛의 부드러운 혼합. 향이 천국같아요.",
+    "de": "Eine sanfte Mischung aus Schokoladen- und Kokosaromen. Das Aroma ist himmlisch.",
+    "fr": "Un doux mélange de saveurs de chocolat et de noix de coco. L'arôme est divin.",
+    "hu": "A csokoládé és a kókusz kellemes keveréke. Az íze mennyei.",
+    // "it": "",
+    "ja": "チョコとココナッツの優雅な風味。天にも昇る香り。",
+    "pt": "Uma mistura suave de chocolate e coco. Seu aroma é celestial.",
+    "ru": "Нежная смесь вкусов шоколада и кокоса. Райский вкус.",
+    "tr": "Çikolata ve hindistan cevizi tatlarının hoş bir karışımı. Aroması muhteşem.",
+    "zh": "巧克力和椰子的味道在杯中糅合氤氲。闻之令人愉悦。"
+  }
 }

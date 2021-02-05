@@ -46,7 +46,7 @@
         "ja": "イチゴのタルト",
         "pt": "Torta de Morango",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çilekli Turta",
         "zh": "草莓蛋挞",
     },
     "DescriptionLocalization":
@@ -60,7 +60,7 @@
         "ja": "イチゴをのせたタルト",
         "pt": "Uma torta cheia de morango.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çilek dolu bir turta.",
         "zh": "这个蛋挞里面塞满了草莓。",
     }
 }

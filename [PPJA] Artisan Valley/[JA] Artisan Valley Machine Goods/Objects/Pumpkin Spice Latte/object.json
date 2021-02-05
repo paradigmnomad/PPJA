@@ -32,21 +32,20 @@
         "ja": "パンプキンスパイスラテ",
         "pt": "Latte de Tempero de Abóbora",        
         "ru": "Тыквенное пряное латте",
-         // "tr": "",
+        "tr": "Balkabağı Tatlı Latte",
         "zh": "南瓜香味拿铁",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un favorito en otoño. Generalmente popular entre mujers jóvenes, pero puede ser un tema de controversia.",
-        "ko": "가을의 인기 식품. 일반적으로 젊은 여성들에게 인기가 있지만, 논쟁의 대상이 될 수도 있습니다.",
-        "de": "Ein Herbstliebling. Generell beliebt bei jungen Frauen, kann aber Gegenstand von Kontroversen sein.",
-        "fr": "Un favoris automnal. Généralement populaire auprès des jeunes femmes, mais peut être sujet à controverse.",
-        "hu": "Egy őszi favorit. Általában a fiatal nők körében népszerű, de összetűzés tárgyává válhat.",
-         // "it": "",
-        "ja": "秋のお気に入り。若い女性に人気があるが、ある論争の対象になっている。",
-        "pt": "Um favorito do outono, bastante popular entre mulheres jovens, mas é um tema controverso.",
-        "ru": "Осенний фаворит. Популярный среди молодых женщин, он является объектом некоторых споров.",
-         // "tr": "",
-        "zh": "秋天的最爱。通常在年轻女性中很受欢迎，但可能会引起争议。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un favorito en otoño. Generalmente popular entre mujers jóvenes, pero puede ser un tema de controversia.",
+    "ko": "가을의 인기 식품. 일반적으로 젊은 여성들에게 인기가 있지만, 논쟁의 대상이 될 수도 있습니다.",
+    "de": "Ein Herbstliebling. Generell beliebt bei jungen Frauen, kann aber Gegenstand von Kontroversen sein.",
+    "fr": "Un favoris automnal. Généralement populaire auprès des jeunes femmes, mais peut être sujet à controverse.",
+    "hu": "Egy őszi favorit. Általában a fiatal nők körében népszerű, de összetűzés tárgyává válhat.",
+    // "it": "",
+    "ja": "秋のお気に入り。若い女性に人気があるが、ある論争の対象になっている。",
+    "pt": "Um favorito do outono, bastante popular entre mulheres jovens, mas é um tema controverso.",
+    "ru": "Осенний фаворит. Популярный среди молодых женщин, он является объектом некоторых споров.",
+    "tr": "Bir güz favorisi. Genellikle genç kadınlar arasında ünlüdür ancak tartışma konusu olabilir.",
+    "zh": "秋天的最爱。通常在年轻女性中很受欢迎，但可能会引起争议。"
+  }
 }

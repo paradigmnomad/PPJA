@@ -31,7 +31,7 @@
         "ja": "乾燥棚",
         "pt": "Cremalheira de Secagem",
         "ru": "Сушилка",
-        // "tr": "",
+        "tr": "Kurutma Askısı",
         "zh": "干燥架",
     },
     "DescriptionLocalization":
@@ -45,7 +45,7 @@
         "ja": "花やハーブや野菜を入れてじっくり乾燥させる。",
         "pt": "Coloque flores, ervas ou vegetais para secá-los para mais tarde.",
         "ru": "Положите сюда цветы, травы или овощи, чтобы засушить их.",
-        // "tr": "",
+        "tr": "Daha sonrasına kurutmaya çiçek, ot veya sebze koy.",
         "zh": "把花、香草或蔬菜放在这里晾干。",
     }
 }

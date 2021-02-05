@@ -44,7 +44,7 @@
         "ja": "コアントロー",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Cointreau",
         "zh": "君度利口酒",
     },
     "DescriptionLocalization":
@@ -58,7 +58,7 @@
         "ja": "オレンジから作られた度数強めのリキュール。",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Portakallardan yapılan sert bir likör.",
         "zh": "用橙子酿制的烈性酒。",
     }
 

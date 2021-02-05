@@ -42,7 +42,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Köfteli Spagetti",
         "zh": "意式肉丸面",
     },
     "DescriptionLocalization":
@@ -56,7 +56,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Bir klasik.",
         "zh": "一道经典。",
     }
 }

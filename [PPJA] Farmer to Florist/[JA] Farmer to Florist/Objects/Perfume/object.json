@@ -17,8 +17,8 @@
         "ja": "香水",
         "pt": "Perfume",
         "ru": "Духи",
-        // "tr": "",
-        "zh": "香水",
+        "tr": "Parfüm",
+        "zh": "香水"
     },
     "DescriptionLocalization":
     {
@@ -31,7 +31,7 @@
         "ja": "小瓶に入った魅惑の香り。",
         "pt": "Um perfume encantador em uma garrafa.",
         "ru": "Чарующий аромат в бутылке.",
-        // "tr": "",
-        "zh": "一个散发着迷人气味的小瓶。",
+        "tr": "Bir şişenin içinde büyüleyici bir koku.",
+        "zh": "一个散发着迷人气味的小瓶。"
     }
 }

@@ -48,7 +48,7 @@
         "ja": "ティラミス",
         "pt": "Tiramisu valioso",
          // "ru": "",
-         // "tr": "",
+        "tr": "Zengin Tiramisu",
         "zh": "提拉米苏",
     },
     "DescriptionLocalization":
@@ -62,7 +62,7 @@
         "ja": "コーヒーを浸したクッキーで作られたケーキ。",
         "pt": "Um bolo feito com biscoitos de café.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Kahveyle sırılsıklam olmuş kurabiyelerle yapılan bir kek.",
         "zh": "这块蛋糕由可可豆和手指饼干制成。",
     }
 }

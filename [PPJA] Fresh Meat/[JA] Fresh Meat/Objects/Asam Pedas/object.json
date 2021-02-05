@@ -50,21 +50,20 @@
         // "ja": "",
         "pt": "Asam Pedas",
         // "ru": "",
-        // "tr": "",
+        "tr": "Asam Pedas",
         // "zh": "",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Um prato com um sabor azedo e picante distinto. Preparado com peixes, tomates e temperos.",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Um prato com um sabor azedo e picante distinto. Preparado com peixes, tomates e temperos.",
+    // "ru": "",
+    "tr": "Ayýrt edici acýlý ve ekþi bir tadý var. Balýk,domates ve baharatlarla hazýrlanýr."
+    // "zh": "",
+  }
 }

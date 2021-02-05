@@ -18,8 +18,8 @@
         {
             "Object": 330,
             "Count": 10
-        }, ],
-        "CanPurchase": false,
+        } ],
+        "CanPurchase": false
     },
     "NameLocalization":
     {
@@ -32,21 +32,20 @@
         "ja": "チューリップの鉢植え",
         "pt": "Vaso de Tulipa",
         "ru": "Тюльпан в горшке",
-        //"tr": "",
-        "zh": "郁金香盆栽",
+        "tr": "Saksıda Lale",
+        "zh": "郁金香盆栽"
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un tulipán en una maceta de madera. ¡Recuerda regarlo!",
-        "ko": "작은 나무 화분에 심겨진 튤립 입니다. 물 주는거 잊지마세요!",
-        "de": "Eine Tulpe in einem hölzernen Topf eingemacht. Denken Sie daran, es zu gießen!",
-        //"fr": "",
-        "hu": "Egy tulipán cserépben. Ne felejtsd el megöntözni!",
-        //"it": "",
-        "ja": "チューリップが植えられた木製の小さな鉢。水やりを忘れずに。",
-        "pt": "Uma tulipa em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
-        "ru": "Тюльпан в маленьком деревянном горшочке. Не забывайте поливать!",
-        //"tr": "",
-        "zh": "一个小木盆里的郁金香。记得给它浇水！",
-    }
+  "DescriptionLocalization": {
+    "es": "Un tulipán en una maceta de madera. ¡Recuerda regarlo!",
+    "ko": "작은 나무 화분에 심겨진 튤립 입니다. 물 주는거 잊지마세요!",
+    "de": "Eine Tulpe in einem hölzernen Topf eingemacht. Denken Sie daran, es zu gießen!",
+    //"fr": "",
+    "hu": "Egy tulipán cserépben. Ne felejtsd el megöntözni!",
+    //"it": "",
+    "ja": "チューリップが植えられた木製の小さな鉢。水やりを忘れずに。",
+    "pt": "Uma tulipa em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
+    "ru": "Тюльпан в маленьком деревянном горшочке. Не забывайте поливать!",
+    "tr": "Küçük tahta bir saksıda bir lale. Sulamayı unutma!",
+    "zh": "一个小木盆里的郁金香。记得给它浇水！"
+  }
 }
