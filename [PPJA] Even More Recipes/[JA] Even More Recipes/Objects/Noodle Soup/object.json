@@ -42,7 +42,7 @@
         "ja": "ヌードルスープ",
         "pt": "Sopa de Macarrão",
         // "ru": "",
-        // "tr": "",
+        "tr": "Noodle Çorbası",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -56,7 +56,7 @@
         "ja": "コムギ麺を薄味のスープでめしあがれ。",
         "pt": "Uma sopa com macarrão servido em um caldo leve.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Hafif etsuyunun içinde noodle'ın servis edildiği bir çorba.",
         // "zh": "",
     }
 }

@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Tavşan DNA'sı",
          "zh": "兔子DNA",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Tavşan ayağından alınmış tavşan DNA'sı.",
          "zh": "从兔子脚上提取的兔子DNA。",
     },
     "ContextTags": [

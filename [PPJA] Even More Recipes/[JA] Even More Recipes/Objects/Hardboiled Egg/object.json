@@ -33,7 +33,7 @@
         "ja": "ゆでタマゴ",
         "pt": "Ovo Cozido",
          // "ru": "",
-         // "tr": "",
+        "tr": "Haşlanmış Yumurta",
         "zh": "水煮蛋",
     },
     "DescriptionLocalization":
@@ -47,7 +47,7 @@
         "ja": "デビルドエッグ、エッグサラダ、または塩をかけてそのままで食べるのがおすすめ。",
         "pt": "Eles são ótimos para ovos recheados, salada de ovos ou apenas para se comer com uma pitada de sal.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Acılı yumurta veya yumurta salatası yapmak ya da üstüne bir tutam tuzla olduğu gibi yemek için harika.",
         "zh": "它们经常被用于辛辣鸡蛋，鸡蛋沙拉，或者仅仅只是直接撒上一点盐。",
     }
 }

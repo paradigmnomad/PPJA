@@ -45,21 +45,20 @@
         "ja": "ケーキポップ",
         "pt": "Picolé de Bolo",
         "ru": "Кейк поп",
-         // "tr": "",
+        "tr": "Lolipop Kek",
         "zh": "蛋糕棒棒糖",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un placentero y delicioso pastel puesto en un palito. Vas a querer más de uno.",
-        "ko": "롤리팝 스틱에 꽂혀있는 작은 케이크. 한 개 먹으면 멈출 수가 없을 걸요.",
-        "de": "Ein bisschen Kuchengenuss auf einem Lutscherstäbchen. Du wirst mehr als eins wollen.",
-        "fr": "Un petit gâteau délicieux sur un bâton de sucette. Vous en redemanderez.",
-        "hu": "Egy apró sütis finomság egy nyalókásbot végén. Bizonyosan fogsz kérni repetát belőle.",
-         // "it": "",
-        "ja": "小さな粒のケーキを棒に刺したもの。1つだけでは足りないでしょう。",
-        "pt": "Um pedacinho de bolo delicioso posto em um palito. Você vai querer mais de um.",
-        "ru": "Немного сладости на палочке. Вам захочется съесть больше одного.",
-         // "tr": "",
-        "zh": "小蛋糕插在棒棒糖棍上。你会想多要几个。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un placentero y delicioso pastel puesto en un palito. Vas a querer más de uno.",
+    "ko": "롤리팝 스틱에 꽂혀있는 작은 케이크. 한 개 먹으면 멈출 수가 없을 걸요.",
+    "de": "Ein bisschen Kuchengenuss auf einem Lutscherstäbchen. Du wirst mehr als eins wollen.",
+    "fr": "Un petit gâteau délicieux sur un bâton de sucette. Vous en redemanderez.",
+    "hu": "Egy apró sütis finomság egy nyalókásbot végén. Bizonyosan fogsz kérni repetát belőle.",
+    // "it": "",
+    "ja": "小さな粒のケーキを棒に刺したもの。1つだけでは足りないでしょう。",
+    "pt": "Um pedacinho de bolo delicioso posto em um palito. Você vai querer mais de um.",
+    "ru": "Немного сладости на палочке. Вам захочется съесть больше одного.",
+    "tr": "Lolipop çubuğu üstünde biraz kekli bir tatlı. Bir taneden fazlasını isteyeceksin.",
+    "zh": "小蛋糕插在棒棒糖棍上。你会想多要几个。"
+  }
 }

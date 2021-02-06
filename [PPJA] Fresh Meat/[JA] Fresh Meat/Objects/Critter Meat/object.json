@@ -24,7 +24,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Yaratık Eti",
         "zh": "小动物肉",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Küçük bir hayvandan küçük et parçaları. Biraz yavan.",
         "zh": "小动物身上的小肉块。味道有点平淡。",
     },
     "EnableWithMod": "spacechase0.BugNet",

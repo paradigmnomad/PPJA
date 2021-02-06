@@ -39,7 +39,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Pişmiş Geyik Eti",
          "zh": "熟制鹿肉",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Bir parça geyik eti, zaten pişmiş ve tariflerde kullanıma hazır.",
          "zh": "一大块鹿肉，已煮熟，准备用于进一步烹饪。",
     },
     "ContextTags": [

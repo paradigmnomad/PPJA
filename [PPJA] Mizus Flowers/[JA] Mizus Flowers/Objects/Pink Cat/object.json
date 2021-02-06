@@ -11,32 +11,30 @@
         "Love": ["Haley", "Jas"],
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
     },
-    "NameLocalization":
-    {
-        "es": "Pink Cat",
-        "ko": "핑크 캣",
-        "de": "Geaderte Katzenminze",
-        "fr": "Népète",
-        "hu": "Macskamenta Virág",
-         // "it": "",
-        "ja": "ピンクキャット",
-        "pt": "Rosa de gato",
-        "ru": "Котовник",
-         // "tr": "",
-        "zh": "粉色兰花",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Esta flor tiene un olor a menta, su hierba enloquece a los gatos.",
-        "ko": "민트 향이 나는 꽃입니다.",
-        "de": "Diese Blume hat einen minzigen Duft.",
-        "fr": "Cette fleur a un parfum de menthe.",
-        "hu": "Ennek a virágnak van egy mentás beütése.",
-         // "it": "",
-        "ja": "ミントのような香りのする花。",
-        "pt": "Esta flor tem um perfume estranho que lembra hortelã, mas os gatos amam!",
-        "ru": "Цветок, имеющий мятный аромат.",
-         // "tr": "",
-        "zh": "这朵花有一股薄荷味。",
-    }
+  "NameLocalization": {
+    "es": "Pink Cat",
+    "ko": "핑크 캣",
+    "de": "Geaderte Katzenminze",
+    "fr": "Népète",
+    "hu": "Macskamenta Virág",
+    // "it": "",
+    "ja": "ピンクキャット",
+    "pt": "Rosa de gato",
+    "ru": "Котовник",
+    "tr": "Pembe Kedi",
+    "zh": "粉色兰花"
+  },
+  "DescriptionLocalization": {
+    "es": "Esta flor tiene un olor a menta, su hierba enloquece a los gatos.",
+    "ko": "민트 향이 나는 꽃입니다.",
+    "de": "Diese Blume hat einen minzigen Duft.",
+    "fr": "Cette fleur a un parfum de menthe.",
+    "hu": "Ennek a virágnak van egy mentás beütése.",
+    // "it": "",
+    "ja": "ミントのような香りのする花。",
+    "pt": "Esta flor tem um perfume estranho que lembra hortelã, mas os gatos amam!",
+    "ru": "Цветок, имеющий мятный аромат.",
+    "tr": "Baharda ekilir.6 günde yetişir. Plant in spring. Takes 6 days to produce a minty pink flower.",
+    "zh": "这朵花有一股薄荷味。"
+  }
 }

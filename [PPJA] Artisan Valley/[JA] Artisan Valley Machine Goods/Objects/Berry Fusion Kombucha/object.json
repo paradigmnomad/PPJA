@@ -24,21 +24,20 @@
        "ja": "ベリーフュージョンコンブチャ",
        "pt": "Kombuchá de bagas fundidas",
        "ru": "Ягодная комбуча",
-        // "tr": "",
+       "tr": "Meyve Füzyonu Kombucha",
         "zh": "混合浆果康普茶",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una sabrosa mezcla de frutas espumosas.",
-        "ko": "향긋한 스파클링 과일 블렌드.",
-        "de": "Eine würzige Fruchtmischung.",
-        "fr": "Un savoureux mélange pétillant de fruits.",
-       "hu": "Egy ízletes és gyöngyöző gyümölcskeverék.",
-        // "it": "",
-       "ja": "香り豊かなフルーツブレンド。",
-       "pt": "Uma saborosa mistura de frutas espumantes.",
-       "ru": "Вкусная игристая фруктовая смесь.",
-        // "tr": "",
-        "zh": "由混合浆果茶发酵而成，一种可口的水果混合饮料。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una sabrosa mezcla de frutas espumosas.",
+    "ko": "향긋한 스파클링 과일 블렌드.",
+    "de": "Eine würzige Fruchtmischung.",
+    "fr": "Un savoureux mélange pétillant de fruits.",
+    "hu": "Egy ízletes és gyöngyöző gyümölcskeverék.",
+    // "it": "",
+    "ja": "香り豊かなフルーツブレンド。",
+    "pt": "Uma saborosa mistura de frutas espumantes.",
+    "ru": "Вкусная игристая фруктовая смесь.",
+    "tr": "Lezzetli, parıldayan bir meyve karışımı.",
+    "zh": "由混合浆果茶发酵而成，一种可口的水果混合饮料。"
+  }
 }

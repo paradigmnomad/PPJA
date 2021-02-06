@@ -26,32 +26,30 @@
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1250,
     },
-    "NameLocalization":
-    {
-        "es": "Algodón de azúcar de conejito",
-        "ko": "토끼 솜사탕",
-        "de": "Hasenzuckerwatte",
-        "fr": "Barbe à papa en lapin",
-        "hu": "Nyuszis vattacukor",
-        // "it": "",
-        "ja": "ウサギのわたあめ",
-        "pt": "Algodão doce de coelhinho",
-        // "ru": "",
-        // "tr": "",
-        "zh": "兔耳棉花糖",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "¡Tiene forma de conejito!",
-        "ko": "토끼 모양으로 된 솜사탕이에요!",
-        "de": "Zuckerwatte mit flauschigen Hasenohren!",
-        "fr": "Ça a une forme de lapin !",
-        "hu": "Nyuszi alakú!",
-        // "it": "",
-        "ja": "ウサギのような形をしています！",
-        "pt": "Tem a forma de um coelho!",
-        // "ru": "",
-        // "tr": "",
-        "zh": "它的形状像兔耳！",
-    }
+  "NameLocalization": {
+    "es": "Algodón de azúcar de conejito",
+    "ko": "토끼 솜사탕",
+    "de": "Hasenzuckerwatte",
+    "fr": "Barbe à papa en lapin",
+    "hu": "Nyuszis vattacukor",
+    // "it": "",
+    "ja": "ウサギのわたあめ",
+    "pt": "Algodão doce de coelhinho",
+    // "ru": "",
+    "tr": "Tavşan Şekilli Pamuk Şekeri",
+    "zh": "兔耳棉花糖"
+  },
+  "DescriptionLocalization": {
+    "es": "¡Tiene forma de conejito!",
+    "ko": "토끼 모양으로 된 솜사탕이에요!",
+    "de": "Zuckerwatte mit flauschigen Hasenohren!",
+    "fr": "Ça a une forme de lapin !",
+    "hu": "Nyuszi alakú!",
+    // "it": "",
+    "ja": "ウサギのような形をしています！",
+    "pt": "Tem a forma de um coelho!",
+    // "ru": "",
+    "tr": "Tavşan şeklinde!",
+    "zh": "它的形状像兔耳！"
+  }
 }

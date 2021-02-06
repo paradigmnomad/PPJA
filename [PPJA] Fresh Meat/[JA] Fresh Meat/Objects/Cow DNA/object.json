@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "İnek DNA'sı",
          "zh": "奶牛DNA",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Sütten alınmış inek DNA'sı.",
          "zh": "从牛奶中提取的奶牛DNA。",
     },
     "ContextTags": [

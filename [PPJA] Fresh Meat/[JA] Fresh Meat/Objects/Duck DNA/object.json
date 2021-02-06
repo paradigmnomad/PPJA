@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Ördek DNA'sı",
          "zh": "鸭子DNA",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bir tüyden alınmış ördek DNA'sı.",
          "zh": "从鸭毛中提取的鸭子DNA。",
     },
     "ContextTags": [

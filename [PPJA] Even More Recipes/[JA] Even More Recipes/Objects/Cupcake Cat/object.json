@@ -47,7 +47,7 @@
         "ja": "ネコのカップケーキ",
         "pt": "Cupcake de gatinho",
          // "ru": "",
-         // "tr": "",
+        "tr": "Kedi Şekilli Cupcake",
         "zh": "猫猫纸杯蛋糕",
     },
     "DescriptionLocalization":
@@ -61,7 +61,7 @@
         "ja": "かわい過ぎて食べられない！",
         "pt": "É fofo demais para se comer!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Neredeyse yemek için çok fazla sevimli!",
         "zh": "它太可爱了以至于你不忍心吃它！",
     }
 }

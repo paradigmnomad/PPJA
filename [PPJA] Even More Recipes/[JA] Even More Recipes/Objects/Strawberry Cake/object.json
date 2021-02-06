@@ -51,7 +51,7 @@
         "ja": "ストロベリーケーキ",
         "pt": "Bolo de morango",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çilekli Pasta",
         "zh": "草莓蛋糕",
     },
     "DescriptionLocalization":
@@ -65,7 +65,7 @@
         "ja": "おいしい夏のごちそう！",
         "pt": "Um delicioso deleite de verão!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Leziz bir yaz atıştırmalığı!",
         "zh": "一份美味的夏日甜点！",
     }
 }

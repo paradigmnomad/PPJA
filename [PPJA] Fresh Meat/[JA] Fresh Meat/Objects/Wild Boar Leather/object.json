@@ -22,7 +22,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Yaban Domuzu Derisi",
         "zh": "野猪皮",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Güneşte bekletilmiş yaban domuzu derisi.",
         "zh": "经过鞣制的野猪皮。",
     },
     "ContextTags": [

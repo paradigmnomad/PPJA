@@ -46,7 +46,7 @@
         "ja": "レモンとラベンダーのクッキー",
         "pt": "Biscoito de Lavanda de Limão",
         // "ru": "",
-        // "tr": "",
+        "tr": "Limonlu Lavantalı Kurabiye",
         "zh": "柠檬薰衣草饼干",
     },
     "DescriptionLocalization":
@@ -60,7 +60,7 @@
         "ja": "中央にレモンとラベンダーのゼリーをあしらい粉砂糖のかかっているクッキー。",
         "pt": "Um biscoito duro com uma geleia de lavanda de limão no centro polvilhado com açúcar em pó.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Üstü pudra şekerli, içi limonlu ve lavantalı bir jelli, sert bir kurabiye.",
         "zh": "一种撒有糖粉、中间有柠檬薰衣草果冻的硬饼干。",
     }
 }

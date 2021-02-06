@@ -23,7 +23,7 @@
         "ja": "毛糸",
         "pt": "Bola de Fios",
         "ru": "Пряжа",
-        // "tr": "",
+        "tr": "Yün",
         "zh": "纱线",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "やわらかい毛糸を丸めたもの",
         "pt": "Uma bola de fios macios.",
         "ru": "Клубок мягкой пряжи.",
-        // "tr": "",
+        "tr": "Bir yumak yumuşacık yün.",
         "zh": "一团柔软的纱线。",
     }
 }

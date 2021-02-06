@@ -42,7 +42,7 @@
         "ja": "デビルドエッグ",
         "pt": "Ovos recheados",
          // "ru": "",
-         // "tr": "",
+        "tr": "Acılı Yumurta",
         "zh": "辛辣煎蛋",
     },
     "DescriptionLocalization":
@@ -56,7 +56,7 @@
         "ja": "悪魔よ、私の口に入れなさい。",
         "pt": "Entre na minha boca, PARA JÁ!.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Şunları ağzıma sok, şeytan.",
         "zh": "放进我的嘴里，撒旦。",
     }
 }

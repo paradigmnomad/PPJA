@@ -22,21 +22,20 @@
         "ja": "クルミバター",
         "pt": "Manteiga de Noz",
         "ru": "Масло грецкого ореха",
-         // "tr": "",
+        "tr": "Ceviz Ezmesi",
         "zh": "胡桃黄油",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una mantequilla crujiente con trozos de nuez.",
-        "ko": "조그마한 호두가 들어있는 바삭바삭한 버터.",
-        "de": "Eine knusprige Butter mit Walnussstücken.",
-        "fr": "Un beurre croquant avec des morceaux de noix.",
-        "hu": "Egy ropogós vaj diódarabokkal.",
-         // "it": "",
-        "ja": "クルミの粒を混ぜたカリカリなバター。",
-        "pt": "Uma manteiga crocante com pedaços de noz.",
-        "ru": "Хрустящее масло с кусочками грецкого ореха.",
-         // "tr": "",
-        "zh": "黄油里有着松脆的胡桃。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una mantequilla crujiente con trozos de nuez.",
+    "ko": "조그마한 호두가 들어있는 바삭바삭한 버터.",
+    "de": "Eine knusprige Butter mit Walnussstücken.",
+    "fr": "Un beurre croquant avec des morceaux de noix.",
+    "hu": "Egy ropogós vaj diódarabokkal.",
+    // "it": "",
+    "ja": "クルミの粒を混ぜたカリカリなバター。",
+    "pt": "Uma manteiga crocante com pedaços de noz.",
+    "ru": "Хрустящее масло с кусочками грецкого ореха.",
+    "tr": "İçinde ceviz parçaları olan gevrek bir ezme.",
+    "zh": "黄油里有着松脆的胡桃。"
+  }
 }

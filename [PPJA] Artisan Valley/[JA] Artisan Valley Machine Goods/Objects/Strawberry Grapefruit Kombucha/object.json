@@ -23,21 +23,20 @@
         "ja": "イチゴグレープフルーツコンブチャ",
         "pt": "Kombuchá de Morango e Toranja",
         "ru": "Клубнично-грейпфрутовая комбуча",
-        // "tr": "",
+        "tr": "Çilekli Greyfurtlu Kombucha",
         "zh": "草莓西柚康普茶",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una sabrosa mezcla de frutas espumosas.",
-        "ko": "향긋한 스파클링 과일 블렌드.",
-        "de": "Eine würzige Fruchtmischung.",
-        "fr": "Un mélange de fruits parfumé et pétillant.",
-       "hu": "Ízletes pezsgő gyümölcskeverék.",
-        // "it": "",
-        "ja": "風味豊かなフルーツブレンド。",
-        "pt": "Uma saborosa mistura de frutas espumantes.",
-        "ru": "Вкусная игристая фруктовая смесь.",
-        // "tr": "",
-        "zh": "一种可口的水果混合饮料。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una sabrosa mezcla de frutas espumosas.",
+    "ko": "향긋한 스파클링 과일 블렌드.",
+    "de": "Eine würzige Fruchtmischung.",
+    "fr": "Un mélange de fruits parfumé et pétillant.",
+    "hu": "Ízletes pezsgő gyümölcskeverék.",
+    // "it": "",
+    "ja": "風味豊かなフルーツブレンド。",
+    "pt": "Uma saborosa mistura de frutas espumantes.",
+    "ru": "Вкусная игристая фруктовая смесь.",
+    "tr": "Tatlı ve parıldayan bir meyve karışımı.",
+    "zh": "一种可口的水果混合饮料。"
+  }
 }

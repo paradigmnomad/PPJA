@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Domuz DNA'sı",
          "zh": "猪DNA",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Yermantarından alınmış domuz DNA'sı. Bunun nasıl işe yaradığından emin değilsin.",
          "zh": "从松露中提取的猪DNA。你不太清楚它是如何工作的，但它确实起到了效果。",
     },
     "ContextTags": [

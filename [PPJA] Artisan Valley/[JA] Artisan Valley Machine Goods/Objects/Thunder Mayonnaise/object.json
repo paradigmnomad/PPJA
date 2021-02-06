@@ -23,7 +23,7 @@
         "ja": "サンダーマヨネーズ",
         "pt": "Maionese Trovão",
         "ru": "Громовой майонез",
-         // "tr": "",
+        "tr": "Fırtınalı Mayonez",
         "zh": "雷公蛋蛋黄酱",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "電気びりびり！",
         "pt": "É elétrico!",
         "ru": "Электрический!",
-         // "tr": "",
+        "tr": "Elektrikli!",
         "zh": "雷电环绕着它！",
     }
 }

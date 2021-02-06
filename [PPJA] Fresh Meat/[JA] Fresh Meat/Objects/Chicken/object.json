@@ -22,7 +22,7 @@
         "ja": "鶏肉",
         "pt": "Frango",
         "ru": "Курица",
-        // "tr": "",
+        "tr": "Tavuk",
         "zh": "鸡肉",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "調理準備の整った鶏がまるごと一羽。",
         "pt": "Um frango inteiro, pronto para cozinhar.",
         "ru": "Целая курица, готовая к готовке.",
-        // "tr": "",
+        "tr": "Bütün bir tavuk, pişirmeye hazır ve nazır.",
         "zh": "有一整只鸡，就可以准备好做饭了。",
     },
     "DisableWithMod": "DIGUS.ANIMALHUSBANDRYMOD"

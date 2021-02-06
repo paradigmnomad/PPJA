@@ -47,7 +47,7 @@
         "ja": "サルサ",
         "pt": "Salsa",
          // "ru": "",
-         // "tr": "",
+        "tr": "Salsa Sosu",
         "zh": "萨尔萨辣酱",
     },
     "DescriptionLocalization":
@@ -61,7 +61,7 @@
         "ja": "辛さがかなり効いてます。",
         "pt": "Isso parece dar um ótimo estimulo.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Biraz yoğun bir kıvamı var.",
         "zh": "很好的辣味刺激。它是墨西哥菜肴中常用的烹调和佐餐酱料。",
     }
 }

@@ -42,7 +42,7 @@
         "ja": "プレーンチーズケーキ",
         "pt": "Cheesecake simples",
         // "ru": "",
-        // "tr": "",
+        "tr": "Sade Cheesecake",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -56,7 +56,7 @@
         "ja": "あまり味はしない。",
         "pt": "Não tem muito sabor.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Kendi başına pek tadı yok",
         // "zh": "",
     }
 }

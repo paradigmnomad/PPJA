@@ -34,32 +34,30 @@
         "PurchasePrice": 2000,
         "PurchaseRequirements": ["HasCookingRecipe Spaghetti", "y 4"],
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Espaguete √† bolonhesa",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Macarr√£o longo, servido com um molho √† base de carne.",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "NameLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Espaguete ‡ bolonhesa",
+    // "ru": "",
+    "tr": "Spagetti Bolonez"
+    // "zh": "",
+  },
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Macarr„o longo, servido com um molho ‡ base de carne.",
+    // "ru": "",
+    "tr": "Uzun noodle'lar et temelli bir sosla servis edilir."
+    // "zh": "",
+  }
 }

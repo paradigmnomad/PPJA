@@ -21,21 +21,20 @@
         "ja": "粉末ハーブ",
         "pt": "Ervas Moídas",
         "ru": "Молотая трава",
-         // "tr": "",
+        "tr": "Öğütülmüş Ot",
         "zh": "草药粉",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un frasco de hierbas molidas.",
-        "ko": "허브 가루 한 병.",
-        "de": "Ein Glas voll gemahlener Kräuter.",
-        "fr": "Un bocal d'herbes moulues.",
-        "hu": "Egy üvegnyi őrölt gyógynövény.",
-         // "it": "",
-        "ja": "すりおろしたハーブのビン詰め。",
-        "pt": "Um recipiente de ervas moídas.",
-        "ru": "Баночка с молотыми травами.",
-         // "tr": "",
-        "zh": "一罐草药粉。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un frasco de hierbas molidas.",
+    "ko": "허브 가루 한 병.",
+    "de": "Ein Glas voll gemahlener Kräuter.",
+    "fr": "Un bocal d'herbes moulues.",
+    "hu": "Egy üvegnyi őrölt gyógynövény.",
+    // "it": "",
+    "ja": "すりおろしたハーブのビン詰め。",
+    "pt": "Um recipiente de ervas moídas.",
+    "ru": "Баночка с молотыми травами.",
+    "tr": "Bir kavanoz öğütülmüş ot.",
+    "zh": "一罐草药粉。"
+  }
 }

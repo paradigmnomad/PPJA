@@ -29,7 +29,7 @@
         // "ja": "",
          "pt": "Sementes de Pássaro",
         // "ru": "",
-        // "tr": "",
+         "tr": "Kuş Tohumu",
          "zh": "鸟肉种子",
     },
     "SeedDescriptionLocalization":
@@ -43,7 +43,7 @@
         // "ja": "",
          "pt": "Plante isso no outono. Leva 8 dias para amadurecer.",
         // "ru": "",
-        // "tr": "",
+         "tr": "Güzde ekilir. 8 günde yetişir.",
          "zh": "秋天播种。8天成熟。",
     },
 }

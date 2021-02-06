@@ -39,7 +39,7 @@
         "ja": "アランビック",
         "pt": "Alambique",
         "ru": "Перегонный куб",
-        // "tr": "",
+        "tr": "İmbik",
         "zh": "精油蒸馏器",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         "ja": "花や果物やハーブ、野菜を精油に蒸留する。",
         "pt": "Destila flores, frutas, ervas e vegetais em óleos essenciais.",
         "ru": "Дистиллирует цветы, фрукты, травы и овощи в эфирные масла.",
-        // "tr": "",
+        "tr": "Esans yağları için çiçekleri, otları, meyveleri ve sebzeleri damıtır.",
         "zh": "将花、水果、香草和蔬菜提炼成精油。",
     }
 }

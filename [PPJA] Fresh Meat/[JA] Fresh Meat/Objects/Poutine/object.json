@@ -46,7 +46,7 @@
          // "ja": "",
          // "pt": "",
          // "ru": "",
-         // "tr": "",
+        "tr": "Putin",
         "zh": "肉汁奶酪薯条",
     },
     "DescriptionLocalization":
@@ -60,7 +60,7 @@
          // "ja": "",
          // "pt": "",
          // "ru": "",
-         // "tr": "",
+        "tr": "Patates kızartmaları, lora ve sosa boğulmuş. ",
         "zh": "肉汁奶酪薯条。薯条被浓厚的奶酪和牛肉汁覆盖。",
     }
 }

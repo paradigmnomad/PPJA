@@ -47,8 +47,8 @@
         "ja": "情熱の花束",
         "pt": "Buquê da Paixão",
         "ru": "Букет страсти",
-         // "tr": "",
-        "zh": "热情花束",
+        "tr": "Tutku Buketi",
+        "zh": "热情花束"
     },
     "DescriptionLocalization":
     {
@@ -61,7 +61,7 @@
         "ja": "深紅の花束。燃えるような情熱を象徴している。",
         "pt": "Um buquê de flores vermelhas profundas para simbolizar paixão ardente.",
         "ru": "Букет темно-красных цветов, символизирующий жгучую страсть.",
-         // "tr": "",
+        "tr": "Yanıp tutuşturan tutkuyu sembolize etmesi için koyu kırmızı çiçeklerden bir buket.",
         "zh": "象征着热情的深红色花束。",
     }
 }

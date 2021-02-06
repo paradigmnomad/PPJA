@@ -54,7 +54,7 @@
          // "ja": "",
          // "pt": "",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çin Mantısı",
         "zh": "饺子",
     },
     "DescriptionLocalization":
@@ -68,7 +68,7 @@
          // "ja": "",
          // "pt": "",
          // "ru": "",
-         // "tr": "",
+        "tr": "Domuz etli ve taze soğanlı kızarmış mantı.",
         "zh": "饺子。馅料以油炸的猪肉配上红叶卷心菜与大葱混合而成。",
     }
 }

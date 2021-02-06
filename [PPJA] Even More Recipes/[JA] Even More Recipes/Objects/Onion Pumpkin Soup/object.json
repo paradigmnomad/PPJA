@@ -44,7 +44,7 @@
         "ja": "オニオンパンプキンスープ",
          "pt": "Sopa de Abóbora de Cebola",
         // "ru": "",
-        // "tr": "",
+        "tr": "Soğanlı Balkabağı Çorbası",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -58,7 +58,7 @@
         "ja": "隠し味にタマネギを入れたおいしいカボチャスープ。",
         "pt": "Uma deliciosa sopa de abóbora com uma pitada de cebola.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Azıcık soğan hissi olan leziz bir balkabağı çorbası.",
         // "zh": "",
     }
 }

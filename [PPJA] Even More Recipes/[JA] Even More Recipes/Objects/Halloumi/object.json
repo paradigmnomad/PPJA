@@ -34,32 +34,30 @@
             "r 0.25",
         ]
     },
-    "NameLocalization":
-    {
-        "es": "Halloumi",
-        "ko": "할루미",
-        "de": "Halloumi.",
-        "fr": "Halloumi",
-         // "hu": "",
-         // "it": "",
-        "ja": "ハルーミ",
-          "pt": "Halloumi",
-         // "ru": "",
-         // "tr": "",
-          "zh": "哈罗米",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "La mezcla chipriota clasica de leche de vaca y leche de cabra",
-        "ko": "우유와 염소젖을 섞어 만든 키프로스의 치즈.",
-        "de": "Der zypriotische Käseklassiker aus Kuhmilch und Ziegenmilch.",
-        "fr": "Le mélange classique chypriote du lait de vache et du lait de chèvre.",
-         // "hu": "",
-         // "it": "",
-        "ja": "ミルクとヤギミルクを混ぜた、キプロスの伝統料理。",
-          "pt": "A mistura clássica cipriótica de leite de vaca e leite de cabra.",
-         // "ru": "",
-         // "tr": "",
-          "zh": "用牛奶和羊奶混合制作的塞浦路斯经典奶酪。",
-    }
+  "NameLocalization": {
+    "es": "Halloumi",
+    "ko": "할루미",
+    "de": "Halloumi.",
+    "fr": "Halloumi",
+    // "hu": "",
+    // "it": "",
+    "ja": "ハルーミ",
+    "pt": "Halloumi",
+    // "ru": "",
+    "tr": "Hellim",
+    "zh": "哈罗米"
+  },
+  "DescriptionLocalization": {
+    "es": "La mezcla chipriota clasica de leche de vaca y leche de cabra",
+    "ko": "우유와 염소젖을 섞어 만든 키프로스의 치즈.",
+    "de": "Der zypriotische Käseklassiker aus Kuhmilch und Ziegenmilch.",
+    "fr": "Le mélange classique chypriote du lait de vache et du lait de chèvre.",
+    // "hu": "",
+    // "it": "",
+    "ja": "ミルクとヤギミルクを混ぜた、キプロスの伝統料理。",
+    "pt": "A mistura clássica cipriótica de leite de vaca e leite de cabra.",
+    // "ru": "",
+    "tr": "Keçi ve inek sütlerinin karışımıyla yapılan bir Kıbrıs klasiği.",
+    "zh": "用牛奶和羊奶混合制作的塞浦路斯经典奶酪。"
+  }
 }

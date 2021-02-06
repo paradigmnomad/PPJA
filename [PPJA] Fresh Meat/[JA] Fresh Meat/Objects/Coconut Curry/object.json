@@ -40,7 +40,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Hindistan Cevizli Küri",
         "zh": "椰子咖喱",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Hindistan cevizi sütüne ve sürüngen etine boğulmuş küri.",
         "zh": "用新鲜椰汁和鲜嫩的爬行动物肉炖制而成的咖喱",
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"

@@ -54,7 +54,7 @@
         "ja": "スプリンクルラベンダードーナツ",
         "pt": "Donut de lanvanda com granulado",
          // "ru": "",
-         // "tr": "",
+        "tr": "Üstü Şekerlemeli Lavantalı Donut",
         "zh": "砂糖薰衣草甜甜圈",
     },
     "DescriptionLocalization":
@@ -68,7 +68,7 @@
         "ja": "楽しげなラベンダードーナツ。",
         "pt": "Uma rosquinha engraçada de lavanda.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Eğlenceli ve lavantalı bir donut.",
         "zh": "一个好吃的有薰衣草涂层的甜甜圈。",
     }
 }

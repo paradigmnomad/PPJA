@@ -23,7 +23,7 @@
         "ja": "レモンピール",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Limon Kabuğu",
         "zh": "柠檬皮",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "色んな食べ物や飲み物への飾り付けになる。",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Her yemeğe ya da içeceğe hafif bir tat ekler.",
         "zh": "为食物或饮料增添一抹生机勃勃的亮黄色。",
     }
 

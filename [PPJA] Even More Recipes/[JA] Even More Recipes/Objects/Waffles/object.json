@@ -41,7 +41,7 @@
         "ja": "ワッフル",
         "pt": "Waffles",
          // "ru": "",
-         // "tr": "",
+        "tr": "Waffle'lar",
         "zh": "华夫饼",
     },
     "DescriptionLocalization":
@@ -55,7 +55,7 @@
         "ja": "朝食によく食べる円形のペイストリー。",
         "pt": "Bolos de café da manhã em forma de círculo.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Yuvarlak şekilli kahvaltılık hamurişi",
         "zh": "圆形的早餐点心。",
     }
 }

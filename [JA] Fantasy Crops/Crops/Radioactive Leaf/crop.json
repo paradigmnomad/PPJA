@@ -23,7 +23,6 @@
     "SeedPurchaseRequirements": [
         "n willyHours",
     ],
-
     "SeedNameLocalization":
     {
         // "es": "",
@@ -35,7 +34,7 @@
         // "ja": "",
         "pt": "Folha Radioativa",
         // "ru": "",
-        // "tr": "",
+        "tr": "Radyoaktif Tohumlar",
         // "zh": "",
     },
     "SeedDescriptionLocalization":
@@ -49,7 +48,7 @@
         // "ja": "",
         "pt": "Plante isso no inverno. Leva 24 dias para amadurecer.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Kýþýn ekilir. 24 günde yetiþir.",
         // "zh": "",
     }
 }

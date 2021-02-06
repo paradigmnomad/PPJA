@@ -26,7 +26,7 @@
         "ja": "チューイングガム",
         "pt": "Chiclete",
         "ru": "Жевательная резинка",
-         // "tr": "",
+        "tr": "Sakız",
         "zh": "口香糖",
     },
     "DescriptionLocalization":
@@ -40,7 +40,7 @@
         "ja": "世界的な現象",
         "pt": "Um fenônemo mundial.",
         "ru": "Мировое явление.",
-         // "tr": "",
+        "tr": "Dünya çapında fenomen.",
         "zh": "这是一种全球的现象。",
     }
 }

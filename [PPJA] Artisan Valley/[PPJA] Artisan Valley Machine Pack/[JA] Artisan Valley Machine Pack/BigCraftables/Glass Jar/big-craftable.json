@@ -31,7 +31,7 @@
         "ja": "ガラス瓶",
         "pt": "Jarra de Vidro",
         "ru": "Стеклянная банка",
-        // "tr": "",
+        "tr": "Cam Kavanoz",
         "zh": "玻璃罐",
     },
     "DescriptionLocalization":
@@ -45,7 +45,7 @@
         "ja": "ノンアルコール飲料を発酵させるための瓶。キノコや様々なお茶をコンブチャにする。",
         "pt": "Uma jarra para fermentar bebidas não alcoólicas. Transforma cogumelos em diversos tipos de kombuchas.",
         "ru": "Баночка для брожения безалкогольных напитков. Перерабатывает грибы и разные чаи в комбучу.",
-        // "tr": "",
+        "tr": "Alkolik olmayan içecek fermentesi için bir kavanoz. Birçok çayı ve mantarı kombuchaya dönüştürür.",
         "zh": "发酵非酒精饮料的罐子。把蘑菇和各种茶变成康普茶。",
     }
 }

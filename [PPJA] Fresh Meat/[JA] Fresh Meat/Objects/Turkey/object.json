@@ -22,22 +22,21 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+       "tr": "Hindi",
          "zh": "火鸡",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un pavo entero, listo para rellenar y asar.",
-        "ko": "통 칠면조, 속을 채워서 구울 준비가 되었다.",
-        // "de": "",
-        "fr": "Une dinde entière, prête à être farcie et rôtie.",
-        "hu": "Egy egész pulyka, bepácolásra és sütésre készen.",
-        // "it": "",
-        // "ja": "",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "一整只火鸡，随时可以填入馅料烘烤。",
-    },    
+  "DescriptionLocalization": {
+    "es": "Un pavo entero, listo para rellenar y asar.",
+    "ko": "통 칠면조, 속을 채워서 구울 준비가 되었다.",
+    // "de": "",
+    "fr": "Une dinde entière, prête à être farcie et rôtie.",
+    "hu": "Egy egész pulyka, bepácolásra és sütésre készen.",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Bütün bir hindi, doldurulmaya ve kızartılmaya hazır.",
+    "zh": "一整只火鸡，随时可以填入馅料烘烤。"
+  },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

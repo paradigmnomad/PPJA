@@ -41,7 +41,7 @@
         "ja": "ネズミチョコパン",
         "pt": "Pão com Mousse de Chocolate",
          // "ru": "",
-         // "tr": "",
+        "tr": "Fare Şekilli Çikolatalı Ekmek",
         "zh": "巧克力鼠面包",
     },
     "DescriptionLocalization":
@@ -55,7 +55,7 @@
         "ja": "食べたくないと思ってたでしょう！？",
         "pt": "Você parece não querer comer!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Neredeyse yemeyi istemeyeceksin!",
         "zh": "你几乎不想吃它！",
     }
 }

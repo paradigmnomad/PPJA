@@ -23,8 +23,8 @@
         "ja": "マンゴーアイスクリーム",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "芒果冰淇淋",
+        "tr": "Mangolu Dondurma",
+        "zh": "芒果冰淇淋",
     },
     "DescriptionLocalization":
     {
@@ -37,7 +37,7 @@
         "ja": "フルーティーで新鮮でさわやかな味。",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Meyveli, taze ve ferahlatıcı.",
          "zh": "清新的芒果风味。",
     }
 }

@@ -54,7 +54,7 @@
          // "ja": "",
          // "pt": "",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tavuklu ve Ispanaklı Krep",
         "zh": "菠菜鸡肉可丽饼",
     },
     "DescriptionLocalization":
@@ -68,7 +68,7 @@
          // "ja": "",
          // "pt": "",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tuzlu, ıspanak ve tavukla doldurulmuş bir krep.",
         "zh": "菠菜鸡肉可丽饼。一份填满了鸡肉和菠菜的可丽饼，好吃。",
     }
 }

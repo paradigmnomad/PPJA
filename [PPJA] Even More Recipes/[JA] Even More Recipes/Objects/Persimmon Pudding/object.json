@@ -49,7 +49,7 @@
         "ja": "柿のプリン",
         "pt": "Pudim de caqui",
         // "ru": "",
-        // "tr": "",
+        "tr": "Trabzon Hurması Pudingi",
         "zh": "柿子布丁",
     },
     "DescriptionLocalization":
@@ -63,7 +63,7 @@
         "ja": "柿を材料にしたおいしいプリン。",
         "pt": "Um delicioso pudim feito com caqui de blendet.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Göz kamaştıran Trabzon hurmasıyla yapılan leziz bir puding.",
         "zh": "混合了柿子做成的美味布丁。",
     }
 }

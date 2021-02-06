@@ -32,21 +32,20 @@
         "ja": "フェアリーローズの鉢植え",
         "pt": "Vaso de Rosa-de-Fada",
         "ru": "Сказочная роза в горшке",
-        //"tr": "",
-        "zh": "仙女玫瑰盆栽",
+        "tr": "Saksıda Perigülü",
+        "zh": "仙女玫瑰盆栽"
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un hada rosa en una pequeña maceta de madera.¡Recuerda regarla!",
-        "ko": "작은 나무 화분에 심겨진 요정 장미 입니다. 물 주는거 잊지마세요!",
-        "de": "Eine feenhafte Rose in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-        //"fr": "",
-        "hu": "Egy tündér rózsa cserépben. Ne felejtsed el megöntözni!",
-        //"it": "",
-        "ja": "フェアリーローズが植えられた木製の小さな鉢。水やりを忘れずに。",
-        "pt": "Uma rosa-de-fada em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
-        "ru": "Сказочная роза в маленьком деревянном горшочке. Не забывайте поливать!",
-        //"tr": "",
-        "zh": "一个小木盆里的仙女玫瑰盆栽。记得给它浇水！",
-    }
+  "DescriptionLocalization": {
+    "es": "Un hada rosa en una pequeña maceta de madera.¡Recuerda regarla!",
+    "ko": "작은 나무 화분에 심겨진 요정 장미 입니다. 물 주는거 잊지마세요!",
+    "de": "Eine feenhafte Rose in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+    //"fr": "",
+    "hu": "Egy tündér rózsa cserépben. Ne felejtsed el megöntözni!",
+    //"it": "",
+    "ja": "フェアリーローズが植えられた木製の小さな鉢。水やりを忘れずに。",
+    "pt": "Uma rosa-de-fada em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
+    "ru": "Сказочная роза в маленьком деревянном горшочке. Не забывайте поливать!",
+    "tr": "Küçük tahta bir saksıda bir perigülü. Sulamayı unutma!",
+    "zh": "一个小木盆里的仙女玫瑰盆栽。记得给它浇水！"
+  }
 }

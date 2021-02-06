@@ -9,17 +9,17 @@
         "Ingredients": [
         {
             "Object": "Petunia",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 388,
-            "Count": 10,
+            "Count": 10
         },
         {
             "Object": 330,
-            "Count": 10,
-        }, ],
-        "CanPurchase": false,
+            "Count": 10
+        } ],
+        "CanPurchase": false
     },
     "NameLocalization":
     {
@@ -32,21 +32,20 @@
         "ja": "ペチュニアの鉢植え",
         "pt": "Vaso de Petúnia",
         "ru": "Петуния в горшке",
-        //"tr": "",
-        "zh": "矮牵牛花盆栽",
+        "tr": "Saksıda Petunya",
+        "zh": "矮牵牛花盆栽"
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una petunia en una maceta de madera. ¡Recuerda regarloa!",
-        "ko": "작은 나무 화분에 심겨진 페튜니아 입니다. 물 주는거 잊지마세요!",
-        "de": "Eine Petunie in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-        //"fr": "",
-        "hu": "Egy petúnia cserépben. Ne felejtsd el megöntözni!",
-        //"it": "",
-        "ja": "ペチュニアが植えられた木製の小さな鉢。水やりを忘れずに。",
-        "pt": "Uma petúnia em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
-        "ru": "Петуния в маленьком деревянном горшочке. Не забывайте поливать!",
-        //"tr": "",
-        "zh": "一个小木盆里的矮牵牛花。记得给它浇水！",
-    }
+  "DescriptionLocalization": {
+    "es": "Una petunia en una maceta de madera. ¡Recuerda regarloa!",
+    "ko": "작은 나무 화분에 심겨진 페튜니아 입니다. 물 주는거 잊지마세요!",
+    "de": "Eine Petunie in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+    //"fr": "",
+    "hu": "Egy petúnia cserépben. Ne felejtsd el megöntözni!",
+    //"it": "",
+    "ja": "ペチュニアが植えられた木製の小さな鉢。水やりを忘れずに。",
+    "pt": "Uma petúnia em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
+    "ru": "Петуния в маленьком деревянном горшочке. Не забывайте поливать!",
+    "tr": "Küçük tahta bir saksıda bir petunya. Sulamayı unutma!",
+    "zh": "一个小木盆里的矮牵牛花。记得给它浇水！"
+  }
 }

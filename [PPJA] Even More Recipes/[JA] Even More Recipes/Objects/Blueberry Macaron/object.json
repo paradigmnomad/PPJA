@@ -40,32 +40,30 @@
               "y 3",
           ],
       },
-      "NameLocalization":
-      {
-          "es": "Macaron de arándanos",
-          "ko": "블루베리 마카롱",
-          "de": "Blaubeermacaron",
-          "fr": "Macaron à la myrtille",
-          "hu": "Áfonyás makaron",
-          // "it": "",
-          "ja": "ブルーベリーマカロン",
-          "pt": "Macaron de mirtilo",
-          // "ru": "",
-          // "tr": "",
-          "zh": "蓝莓马卡龙",
-      },
-      "DescriptionLocalization":
-      {
-          "es": "El macaron por excelencia, con sabor a arándanos.",
-          "ko": "블루베리 맛이 나는, 전형적인 마카롱.",
-          "de": "Der Inbegriff von Macaron, mit dem Geschmack von Blaubeeren.",
-          "fr": "Le macaron typique, parfumé à la myrtille.",
-          "hu": "Egy sima makaron, áfonyás ízesítéssel.",
-          // "it": "",
-          "ja": "ブルベリー風味のおなじみのマカロン。",
-          "pt": "O melhor macaron de todos, com sabor de mirtilos.",
-          // "ru": "",
-          // "tr": "",
-          "zh": "经典的马卡龙，蓝莓味。",
-      }
+    "NameLocalization": {
+      "es": "Macaron de arándanos",
+      "ko": "블루베리 마카롱",
+      "de": "Blaubeermacaron",
+      "fr": "Macaron à la myrtille",
+      "hu": "Áfonyás makaron",
+      // "it": "",
+      "ja": "ブルーベリーマカロン",
+      "pt": "Macaron de mirtilo",
+      // "ru": "",
+      "tr": "Yabanmersini Makaron",
+      "zh": "蓝莓马卡龙"
+    },
+    "DescriptionLocalization": {
+      "es": "El macaron por excelencia, con sabor a arándanos.",
+      "ko": "블루베리 맛이 나는, 전형적인 마카롱.",
+      "de": "Der Inbegriff von Macaron, mit dem Geschmack von Blaubeeren.",
+      "fr": "Le macaron typique, parfumé à la myrtille.",
+      "hu": "Egy sima makaron, áfonyás ízesítéssel.",
+      // "it": "",
+      "ja": "ブルベリー風味のおなじみのマカロン。",
+      "pt": "O melhor macaron de todos, com sabor de mirtilos.",
+      // "ru": "",
+      "tr": "Özetle yabanmersini tadı olan makaron.",
+      "zh": "经典的马卡龙，蓝莓味。"
+    }
   }

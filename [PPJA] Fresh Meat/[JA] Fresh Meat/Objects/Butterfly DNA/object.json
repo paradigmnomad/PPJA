@@ -23,7 +23,7 @@
         // "ja": "",
          "pt": "DNA da borboleta",
         // "ru": "",
-        // "tr": "",
+         "tr": "Kelebek DNA'sı",
          "zh": "蝴蝶DNA",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
          "pt": "Algum DNA de borboleta scaneado com o DNA Sintetizador.",
         // "ru": "",
-        // "tr": "",
+         "tr": "DNA sentezleyicinin havada taratılmasıyla elde edilen kelebek DNA'sı.",
          "zh": "这是用DNA离析机扫描蝴蝶后得到的DNA。",
     },
     "ContextTags": [

@@ -24,21 +24,20 @@
         "ja": "ココナッツバター",
         "pt": "Manteiga de Coco",
         "ru": "Кокосовая паста",
-         // "tr": "",
+        "tr": "Hindistan Cevizi Ezmesi",
         "zh": "椰子黄油",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Mantequilla ligera con un aroma tropical.",
-        "ko": "열대 향이 나는 가벼운 버터.",
-        "de": "Eine leichte Butter mit einem tropischen Duft.",
-        "fr": "Un beurre léger avec une senteur tropicale.",
-        "hu": "Egy lágyabb vaj enyhe trópusi beütéssel.",
-         // "it": "",
-        "ja": "トロピカルな香りの軽めのバター。",
-        "pt": "Manteiga leve com um aroma tropical.",
-        "ru": "Легкая паста с тропическим ароматом.",
-         // "tr": "",
-        "zh": "一种充满椰香的素黄油。",
-    }
+  "DescriptionLocalization": {
+    "es": "Mantequilla ligera con un aroma tropical.",
+    "ko": "열대 향이 나는 가벼운 버터.",
+    "de": "Eine leichte Butter mit einem tropischen Duft.",
+    "fr": "Un beurre léger avec une senteur tropicale.",
+    "hu": "Egy lágyabb vaj enyhe trópusi beütéssel.",
+    // "it": "",
+    "ja": "トロピカルな香りの軽めのバター。",
+    "pt": "Manteiga leve com um aroma tropical.",
+    "ru": "Легкая паста с тропическим ароматом.",
+    "tr": "Tropikal kokusuyla hafif bir ezme.",
+    "zh": "一种充满椰香的素黄油。"
+  }
 }

@@ -38,7 +38,7 @@
         "ja": "キャラメル",
         "pt": "Caramelo",
         // "ru": "",
-        // "tr": "",
+        "tr": "Karamel",
         "zh": "焦糖",
     },
     "DescriptionLocalization":
@@ -52,7 +52,7 @@
         "ja": "バターのように甘く、キャンディやお菓子によく使われる。",
         "pt": "Amanteigado e doce, é comumente usado em doces e guloseimas.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Yağlı gibi ve tatlı, şekerlerin ve atıştırmalıkların içinde kullanılır.",
         "zh": "甜甜的，它经常被用于各种甜点和餐点中。",
     }
 }

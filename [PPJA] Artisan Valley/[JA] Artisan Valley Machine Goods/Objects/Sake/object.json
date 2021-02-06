@@ -40,21 +40,20 @@
         "ja": "日本酒",
         "pt": "Saquê",
         "ru": "Сакэ",
-         // "tr": "",
+        "tr": "Sake",
         "zh": "日本米酒",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una bebida fermentada a partir de arroz. Beber con moderación.",
-        "ko": "쌀을 발효시켜 만든 술. 절제해서 드세요.",
-        "de": "Ein aus Reis fermentierter Wein. Genieße ihn in Maßen.",
-        "fr": "Une boisson fermentée à partir de riz. À boire avec modération.",
-        "hu": "Egy bor, melyet a rizs erjesztésével készítenek. Fogyasszad mértékkel!",
-         // "it": "",
-        "ja": "米を発酵させたワイン。適度に飲んでください。",
-        "pt": "Uma bebida fermentada a partir do arroz. Beba com moderação!",        
-        "ru": "Вино, сброжённое из риса. Пейте в меру.",
-         // "tr": "",
-        "zh": "一种由大米发酵的酒。适量饮酒。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una bebida fermentada a partir de arroz. Beber con moderación.",
+    "ko": "쌀을 발효시켜 만든 술. 절제해서 드세요.",
+    "de": "Ein aus Reis fermentierter Wein. Genieße ihn in Maßen.",
+    "fr": "Une boisson fermentée à partir de riz. À boire avec modération.",
+    "hu": "Egy bor, melyet a rizs erjesztésével készítenek. Fogyasszad mértékkel!",
+    // "it": "",
+    "ja": "米を発酵させたワイン。適度に飲んでください。",
+    "pt": "Uma bebida fermentada a partir do arroz. Beba com moderação!",
+    "ru": "Вино, сброжённое из риса. Пейте в меру.",
+    "tr": "Pirinç fermentesi bir şarap. Kararında içilmeli.",
+    "zh": "一种由大米发酵的酒。适量饮酒。"
+  }
 }

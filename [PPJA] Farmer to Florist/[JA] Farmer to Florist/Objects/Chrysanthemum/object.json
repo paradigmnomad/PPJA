@@ -24,8 +24,8 @@
         "ja": "キクの花",
         "pt": "Crisântemo",
         "ru": "Хризантема",
-         // "tr": "",
-        "zh": "菊花",
+        "tr": "Kasımpatı",
+        "zh": "菊花"
     },
     "DescriptionLocalization":
     {
@@ -38,8 +38,8 @@
         "ja": "色のバリエーションが豊富なボタン形の花。",
         "pt": "ma flor em forma de botão que vem em uma variedade de cores.",
         "ru": "Цветок в форме пуговицы. Он бывает разных цветов.",
-         // "tr": "",
-        "zh": "花朵呈纽扣状，有多种颜色。",
+        "tr": "Çeşitli renkleri olan düğmemsi bir çiçek.",
+        "zh": "花朵呈纽扣状，有多种颜色。"
     },
     "ContextTags": [
     	"season_fall",

@@ -21,22 +21,21 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Yaban Domuzu Eti",
          "zh": "野猪肉",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un corte de jabalí jugoso y sabroso.",
-        "ko": "누린내가 있지만 맛있는 야생 멧돼지 고기.",
-        // "de": "",
-        "fr": "Une tranche de sanglier sauvage à l'odeur de gibier mais savoureuse.",
-        "hu": "Egy vaddisznó rágós, de ízletes hússzelete.",
-        // "it": "",
-        // "ja": "",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "美味可口的野猪肉。",
-    },    
+  "DescriptionLocalization": {
+    "es": "Un corte de jabalí jugoso y sabroso.",
+    "ko": "누린내가 있지만 맛있는 야생 멧돼지 고기.",
+    // "de": "",
+    "fr": "Une tranche de sanglier sauvage à l'odeur de gibier mais savoureuse.",
+    "hu": "Egy vaddisznó rágós, de ízletes hússzelete.",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Yaban domuzundan kesilmiş lezzetli et.",
+    "zh": "美味可口的野猪肉。"
+  },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

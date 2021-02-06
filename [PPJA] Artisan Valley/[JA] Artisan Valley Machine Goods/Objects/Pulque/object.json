@@ -43,7 +43,7 @@
         "ja": "プルケ",
         "pt": "Pulque",
         "ru": "Пульке",
-         // "tr": "",
+        "tr": "Pulque",
         "zh": "普奎龙舌兰酒",
     },
     "DescriptionLocalization":
@@ -57,7 +57,7 @@
         "ja": "リュウゼツランの葉から作った発酵飲料。飲む時はほどほどに。",
         "pt": "Uma bebida fermentada a partir do agave. Beba com moderação!",        
         "ru": "Напиток из сбродившей агавы. Пейте в меру.",
-         // "tr": "",
+        "tr": "Agaveden yapılan fermente bir içecek. Kararında içilmeli.",
         "zh": "用龙舌兰草的心为原料，经过发酵而制造出的发酵酒类，最早由古代的印第安文明发现，也是所有龙舌兰酒的基础原型。适量饮酒。",
     }
 }

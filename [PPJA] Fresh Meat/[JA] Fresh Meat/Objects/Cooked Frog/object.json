@@ -40,7 +40,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Pişmiş Kurbağa Eti",
          "zh": "熟制蛙肉",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Kurbağa eti, zaten pişmiş ve tariflerde kullanıma hazır.",
          "zh": "来自青蛙的肉，已经煮熟，可用于进一步烹调。",
     },
     "ContextTags": [

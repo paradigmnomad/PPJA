@@ -39,7 +39,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Pişmiş Alpaka Eti",
          "zh": "熟制羊驼肉",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Alpaka bifteği, zaten pişmiş ve tariflerde kullanıma hazır.",
          "zh": "从羊驼身上取下的肉排，已煮熟，可用于进一步烹调。",
     },
     "ContextTags": [

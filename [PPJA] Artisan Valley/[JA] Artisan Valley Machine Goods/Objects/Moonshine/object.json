@@ -40,21 +40,20 @@
         "ja": "ムーンシャイン",
         "pt": "Moonshine",
         "ru": "Самогон",
-         // "tr": "",
+        "tr": "Moonshine",
         "zh": "月光酒",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una bebida muy fuerte destilada a partir del maíz. Beber con estricta moderación.",
-        "ko": "옥수수를 증류시켜 만든 술. 절제해서 드세요.",
-        "de": "Ein starker Schnaps, der aus Mais destilliert wird. Genieße ihn in Maßen.",
-        "fr": "Un spiritueux fort distillé à partir de maïs. Considéré comme un alcool de contrebande, à boire avec une stricte modération.",
-        "hu": "Egy kukoricából desztillált szeszesital. Szigorú mértékkel fogyasszad!",
-         // "it": "",
-        "ja": "トウモロコシの成分を蒸留してできた強めのスピリット。飲む時はほどほどに。",
-        "pt": "Uma bebida muito forte destilada a partir do milho. Beba com estrita moderação!",        
-        "ru": "Крепкий алкогольный напиток, дистиллированный из кукурузы. Пейте в очень ограниченых количествах.",
-         // "tr": "",
-        "zh": "一种从玉米中蒸馏而来的烈酒。适量饮酒。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una bebida muy fuerte destilada a partir del maíz. Beber con estricta moderación.",
+    "ko": "옥수수를 증류시켜 만든 술. 절제해서 드세요.",
+    "de": "Ein starker Schnaps, der aus Mais destilliert wird. Genieße ihn in Maßen.",
+    "fr": "Un spiritueux fort distillé à partir de maïs. Considéré comme un alcool de contrebande, à boire avec une stricte modération.",
+    "hu": "Egy kukoricából desztillált szeszesital. Szigorú mértékkel fogyasszad!",
+    // "it": "",
+    "ja": "トウモロコシの成分を蒸留してできた強めのスピリット。飲む時はほどほどに。",
+    "pt": "Uma bebida muito forte destilada a partir do milho. Beba com estrita moderação!",
+    "ru": "Крепкий алкогольный напиток, дистиллированный из кукурузы. Пейте в очень ограниченых количествах.",
+    "tr": "Mısırdan damıtılan sert bir içecek. Kesinlikle kararında içilmeli.",
+    "zh": "一种从玉米中蒸馏而来的烈酒。适量饮酒。"
+  }
 }

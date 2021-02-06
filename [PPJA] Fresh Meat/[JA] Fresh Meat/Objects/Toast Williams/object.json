@@ -48,7 +48,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Williams Tostu",
          "zh": "威廉姆斯吐司",
     },
     "DescriptionLocalization":
@@ -62,7 +62,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+       "tr": "Hawaii tostu ama içinde ananas değil armut var.",
          "zh": "一份夏威夷吐司，但用梨代替了菠萝。",
     }
 }

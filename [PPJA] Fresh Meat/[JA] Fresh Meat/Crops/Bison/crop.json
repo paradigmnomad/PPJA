@@ -30,7 +30,7 @@
         // "ja": "",
          "pt": "Sementes de Bisão",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bizon Tohumu",
          "zh": "野牛肉种子",
     },
     "SeedDescriptionLocalization":
@@ -44,7 +44,7 @@
         // "ja": "",
          "pt": "Plante isso na primavera ou no verão. Leva 8 dias para amadurecer.",
         // "ru": "",
-        // "tr": "",
+         "tr": "Baharda veya yazın ekilir. 8 günde yetişir.",
          "zh": "春天或夏天播种。8天成熟。",
     },
 }

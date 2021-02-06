@@ -40,7 +40,7 @@
         "ja": "カイム",
         "pt": "Cauim",
         "ru": "Каим",
-         // "tr": "",
+        "tr": "Cauim",
         "zh": "木薯啤酒",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
         "ja": "キャッサバが原料の発酵飲料。飲む時はほどほどに。",
         "pt": "Uma bebida fermentada a partir da mandioca. Beba com moderação.",
         "ru": "Напиток из сбродившей маниоки. Пейте в меру.",
-         // "tr": "",
+        "tr": "Manyoğun fermente edilmesiyle yapılan bir içecek. Kararında içilmeli.",
         "zh": "一种由木薯制成的发酵酒精饮料。适量饮酒。",
     }
 }

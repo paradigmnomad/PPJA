@@ -35,32 +35,30 @@
         "Dislike": ["Abigail", "Dwarf", "Krobus", "Willy"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Pastel de yuca",
-        "ko": "카사바 케이크",
-        "de": "Maniokkuchen",
-        "fr": "Gâteau au manioc",
-         // "hu": "",
-         // "it": "",
-        "ja": "キャッサバケーキ",
-        "pt": "Bolo de Mandioca",
-        "ru": "Пирог из маниоки",
-         // "tr": "",
-        "zh": "木薯蛋糕",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "¡Delicioso y sabroso!",
-        "ko": "맛있고 군침도는 케이크!",
-        "de": "Lecker und schmackhaft!",
-        "fr": "Crémeux et délicieux !",
-         // "hu": "",
-         // "it": "",
-        "ja": "なめらかでおいしい！",
-        "pt": "Delicioso e cremoso!",
-        "ru": "Вкусный и заварной!",
-         // "tr": "",
-        "zh": "木薯蛋糕。尝起来是美味的、黏糊糊的！",
-    }
+  "NameLocalization": {
+    "es": "Pastel de yuca",
+    "ko": "카사바 케이크",
+    "de": "Maniokkuchen",
+    "fr": "Gâteau au manioc",
+    // "hu": "",
+    // "it": "",
+    "ja": "キャッサバケーキ",
+    "pt": "Bolo de Mandioca",
+    "ru": "Пирог из маниоки",
+    "tr": "Manyok Keki",
+    "zh": "木薯蛋糕"
+  },
+  "DescriptionLocalization": {
+    "es": "¡Delicioso y sabroso!",
+    "ko": "맛있고 군침도는 케이크!",
+    "de": "Lecker und schmackhaft!",
+    "fr": "Crémeux et délicieux !",
+    // "hu": "",
+    // "it": "",
+    "ja": "なめらかでおいしい！",
+    "pt": "Delicioso e cremoso!",
+    "ru": "Вкусный и заварной!",
+    "tr": "Lezzetli ve kremalı!",
+    "zh": "木薯蛋糕。尝起来是美味的、黏糊糊的！"
+  }
 }

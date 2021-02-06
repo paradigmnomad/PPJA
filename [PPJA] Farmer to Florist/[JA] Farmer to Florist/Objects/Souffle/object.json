@@ -37,8 +37,8 @@
         "ja": "スフレ",
         "pt": "Suflê",
         "ru": "Суфле",
-        // "tr": "",
-        "zh": "蛋奶酥",
+        "tr": "Sufle",
+        "zh": "蛋奶酥"
     },
     "DescriptionLocalization":
     {
@@ -51,7 +51,7 @@
         "ja": "カップに入ったふわふわの焼き菓子にスミレの砂糖漬けを添えて。",
         "pt": "A Uma sobremesa cozida em um copo. É coberto com violetas cristalizadas",
         "ru": "Десерт запеченный в чашке. Украшен засахаренными фиалками.",
-        // "tr": "",
+        "tr": "Bir kapta pişirilmiş bir tatlı.Üstünde şekerli menekşeler var.",
         "zh": "舒芙蕾。中文学名蛋奶酥。在杯中烘焙的甜点。顶端点缀了紫罗兰。",
     }
 }

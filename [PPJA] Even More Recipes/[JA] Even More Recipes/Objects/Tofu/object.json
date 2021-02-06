@@ -33,7 +33,7 @@
         "ja": "豆腐",
         "pt": "Tofu",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tofu",
         "zh": "豆腐",
     },
     "DescriptionLocalization":
@@ -47,7 +47,7 @@
         "ja": "豆乳から作られた。「ビーンカード」とも呼ばれる。",
         "pt": "Feito a partir de leite de soja. Também conhecida como coalhada de feijão.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Soya sütünden yapılmış. Fasulye loru olarak da bilinir.",
         "zh": "由豆浆制成。又称黄豆凝乳。",
     }
 }

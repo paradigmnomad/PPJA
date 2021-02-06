@@ -23,8 +23,8 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "爬行动物肉",
+        "tr": "Sürüngen Eti",
+        "zh": "爬行动物肉",
     },
     "DescriptionLocalization":
     {
@@ -37,8 +37,8 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "来自爬行动物的嫩肉。",
+        "tr": "Bir sürüngenden alınmış yumuşak et.",
+        "zh": "来自爬行动物的嫩肉。",
     },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -23,21 +23,20 @@
         "ja": "ヤギヨーグルト",
         "pt": "Iogurte de Cabra",
         "ru": "Йогурт козий",
-         // "tr": "",
+        "tr": "Keçi Sütlü Yoğurt",
         "zh": "酸羊奶",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un yogur agrio preparado a partir de leche de cabra.",
-        "ko": "몇몇 나라에서 선호하는 시큼한 요거트.",
-        "de": "Ein herber Joghurt, der in einigen Ländern bevorzugt wird.",
-        "fr": "Un yaourt acidulé qui est préféré dans certaines régions.",
-        "hu": "Egy savanyú joghurt, számos országban közkedvelt.",
-         // "it": "",
-        "ja": "一部の土地で好まれている酸味のあるヨーグルト。",
-        "pt": "Um iogurte azedo feito a partir de leite de cabra.",
-        "ru": "Кислый йогурт, которому отдают предпочтение в некоторых странах.",
-         // "tr": "",
-        "zh": "在一些地方很受欢迎的酸奶。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un yogur agrio preparado a partir de leche de cabra.",
+    "ko": "몇몇 나라에서 선호하는 시큼한 요거트.",
+    "de": "Ein herber Joghurt, der in einigen Ländern bevorzugt wird.",
+    "fr": "Un yaourt acidulé qui est préféré dans certaines régions.",
+    "hu": "Egy savanyú joghurt, számos országban közkedvelt.",
+    // "it": "",
+    "ja": "一部の土地で好まれている酸味のあるヨーグルト。",
+    "pt": "Um iogurte azedo feito a partir de leite de cabra.",
+    "ru": "Кислый йогурт, которому отдают предпочтение в некоторых странах.",
+    "tr": "Bazı bölgelerde sevilen ekşi bir yoğurt.",
+    "zh": "在一些地方很受欢迎的酸奶。"
+  }
 }

@@ -24,7 +24,7 @@
         "ja": "ラッシー",
         "pt": "Lassi",        
         "ru": "Ласси",
-         // "tr": "",
+         "tr": "Lassi",
         "zh": "印度奶昔",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "ヨーグルトを更に発酵させて作る発泡飲料。",
         "pt": "Uma bebida espumosa feita de iogurte fermentado.",  
         "ru": "Пенистый напиток из сбродившего йогурта.",
-         // "tr": "",
+        "tr": "Fermente yoğurttan yapılan köpüklü bir içecek.(Ayran gibi ama farklı.)",
         "zh": "一种由发酵酸奶制成的泡沫饮料。",
     }
 }

@@ -51,7 +51,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Hawaii Tostu",
         "zh": "夏威夷吐司",
     },
     "DescriptionLocalization":
@@ -65,7 +65,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Peynirli ve ananaslı tost.",
         "zh": "奶酪吐司和菠萝片。",
     }
 }

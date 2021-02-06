@@ -1,7 +1,7 @@
 {
     "Name": "Smoked Salmon",
     "Description": "A simple dish of smoked salmon. It was smoking for hours.",
-    "Category": "ArtisanGoods",
+    "Category": "Cooking",
     "Edibility": 20,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
@@ -24,21 +24,20 @@
         "ja": "スモークサーモン",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tütsülenmiş Somon"
         // "zh": "",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        "ja": "サーモンを数時間スモークしてつくったシンプルな料理。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    "ja": "サーモンを数時間スモークしてつくったシンプルな料理。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Bir tabak tütsülenmiş somon. Saatlerce tütsülendi."
+    // "zh": "",
+  }
 }

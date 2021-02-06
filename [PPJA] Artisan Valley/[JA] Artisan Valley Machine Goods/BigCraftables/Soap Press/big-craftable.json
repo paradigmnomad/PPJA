@@ -38,7 +38,7 @@
         "ja": "ソーププレス",
         "pt": "Prensa de Sabonete",
         "ru": "Пресс для мыла",
-        // "tr": "",
+        "tr": "Sabun Presi",
         "zh": "压皂机",
     },
     "DescriptionLocalization":
@@ -52,7 +52,7 @@
         "ja": "石けんをプレスしかたどる機械。",
         "pt": "Um prensa feita para moldar sabonete.",
         "ru": "Пресс, используемый для формирования мыла.",
-        // "tr": "",
+        "tr": "Sabun yapmak için tasarlanan bir pres.",
         "zh": "一种用来制作肥皂的压力机。",
     }
 }

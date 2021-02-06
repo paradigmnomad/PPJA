@@ -25,21 +25,20 @@
         "ja": "マンゴーとパッションフルーツのシャーベット",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "芒果百香雪葩",
+        "tr": "Mangolu ve Çarkıfelek Meyveli Şerbet",
+        "zh": "芒果百香雪葩",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "신선한 망고와 패션프루트, 보드카 한 방울로 만든 상큼한 과일 셔벗.",
-        // "de": "",
-        "fr": "Un sorbet rafraîchissant fait à partir de mangue, d'un fruit de la passion et d'un trait de vodka.",
-        "hu": "Egy frissítő gyümölcs sörbet, mely mangó, maracuja, és egy kevés vodka felhaszálásával készült.",
-        // "it": "",
-        "ja": "新鮮なマンゴーとパッションフルーツを炭酸ウォッカと合わせてつくった、さわやかなシャーベット。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "清新口味的水果雪葩，用新鲜的芒果、百香果和少量的伏特加制成。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "신선한 망고와 패션프루트, 보드카 한 방울로 만든 상큼한 과일 셔벗.",
+    // "de": "",
+    "fr": "Un sorbet rafraîchissant fait à partir de mangue, d'un fruit de la passion et d'un trait de vodka.",
+    "hu": "Egy frissítő gyümölcs sörbet, mely mangó, maracuja, és egy kevés vodka felhaszálásával készült.",
+    // "it": "",
+    "ja": "新鮮なマンゴーとパッションフルーツを炭酸ウォッカと合わせてつくった、さわやかなシャーベット。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Taze mango, ejderha meyvesi ve birazcık vodkayla yapılmış ferahlatıcı meyve şerbeti",
+    "zh": "清新口味的水果雪葩，用新鲜的芒果、百香果和少量的伏特加制成。"
+  }
 }

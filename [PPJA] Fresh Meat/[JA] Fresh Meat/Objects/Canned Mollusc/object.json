@@ -23,21 +23,20 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Konserve Yumuşakça",
          "zh": "软体动物罐头",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Moluscos recién recolectados de una cesta de cangrejos, ahora en forma de lata.",
-        "ko": "통발에서 수확한 신선한 연체통물으로 만든 통조림.",
-        // "de": "",
-        "fr": "Mollusque fraîchement récolté d'un casier à crabes ou de la cueillette, dorénavant en boîte.",
-        "hu": "Frissen szedett puhatestű konzervált állapotban.",
-        // "it": "",
-        // "ja": "",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "可以从觅食或者蟹笼中收获新鲜的软体动物，把它们加工成罐头。",
-    }
+  "DescriptionLocalization": {
+    "es": "Moluscos recién recolectados de una cesta de cangrejos, ahora en forma de lata.",
+    "ko": "통발에서 수확한 신선한 연체통물으로 만든 통조림.",
+    // "de": "",
+    "fr": "Mollusque fraîchement récolté d'un casier à crabes ou de la cueillette, dorénavant en boîte.",
+    "hu": "Frissen szedett puhatestű konzervált állapotban.",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Yengeç çömleğinden alınan yada etrafta bulunan yumuşakça şimdi konservede.",
+    "zh": "可以从觅食或者蟹笼中收获新鲜的软体动物，把它们加工成罐头。"
+  }
 }

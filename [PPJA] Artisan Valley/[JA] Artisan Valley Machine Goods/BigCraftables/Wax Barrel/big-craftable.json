@@ -34,7 +34,7 @@
         "ja": "ワックスバレル",
         "pt": "Barril de Cera",
         "ru": "Восковой бочонок",
-        // "tr": "",
+        "tr": "Balmumu Varili",
         "zh": "制蜡桶",
     },
     "DescriptionLocalization":
@@ -48,7 +48,7 @@
         "ja": "ロウソクを漬けるためのタル。",
         "pt": "Um barril para mergulhar velas.",
         "ru": "Бочка для превращения воска в свечи.",
-        // "tr": "",
+        "tr": "Mum yapmak için bir varil.",
         "zh": "将蜂蜡倒入其中，制作蜡烛。",
     }
 }

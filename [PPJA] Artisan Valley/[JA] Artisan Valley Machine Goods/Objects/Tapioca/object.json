@@ -21,21 +21,20 @@
         "ja": "タピオカ",
         "pt": "Tapioca",
         "ru": "Тапиока",
-         // "tr": "",
+        "tr": "Tapyoka",
         "zh": "木薯粉",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una sustancia similar a la gelatina con una textura masticable.",
-        "ko": "쫄깃쫄깃한 식감의 젤라틴같은 식품.",
-        "de": "Eine gelatineartige Substanz mit einer zähen Konsistenz.",
-        "fr": "Une substance gélatineuse avec une texture caoutchouteuse.",
-        "hu": "Rágós állagú zselatinszerű anyag.",
-         // "it": "",
-        "ja": "歯ごたえが有るゼラチン質の食べ物。",
-        "pt": "Uma substância próxima à gelatina com uma textura mastigável.",
-        "ru": "Желатиноподобное вещество с жевательной текстурой.",
-         // "tr": "",
-        "zh": "加热水后，变成一种有嚼劲的凝胶状物质。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una sustancia similar a la gelatina con una textura masticable.",
+    "ko": "쫄깃쫄깃한 식감의 젤라틴같은 식품.",
+    "de": "Eine gelatineartige Substanz mit einer zähen Konsistenz.",
+    "fr": "Une substance gélatineuse avec une texture caoutchouteuse.",
+    "hu": "Rágós állagú zselatinszerű anyag.",
+    // "it": "",
+    "ja": "歯ごたえが有るゼラチン質の食べ物。",
+    "pt": "Uma substância próxima à gelatina com uma textura mastigável.",
+    "ru": "Желатиноподобное вещество с жевательной текстурой.",
+    "tr": "Jelatine benzer sert bir madde.",
+    "zh": "加热水后，变成一种有嚼劲的凝胶状物质。"
+  }
 }

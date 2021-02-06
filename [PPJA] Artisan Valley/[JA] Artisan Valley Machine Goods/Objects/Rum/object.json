@@ -40,7 +40,7 @@
         "ja": "ラム酒",
         "pt": "Rum",
         "ru": "Ром",
-         // "tr": "",
+        "tr": "Rom",
         "zh": "朗姆酒",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
         "ja": "「なんでラム酒はいつもなくなってるんだ？」…見付けても飲むのはほどほどに。",
         "pt": "Por quê o rum se foi? Quando encontrá-lo, beba com moderação.",
         "ru": "Почему ром сожжён? Как узнаете, пейте в меру.",
-         // "tr": "",
+        "tr": "Rom neden gitti? Bulduğunda kararında iç.",
         "zh": "为什么朗姆酒没了？当你找到它的时候，注意节制。",
     }
 }

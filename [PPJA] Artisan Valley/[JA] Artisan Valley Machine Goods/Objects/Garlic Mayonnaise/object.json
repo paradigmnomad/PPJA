@@ -23,7 +23,7 @@
         "ja": "ガーリックマヨネーズ",
         "pt": "Maionese de Alho",
         "ru": "Чесночный майонез",
-         // "tr": "",
+        "tr": "Sarımsaklı Mayonez",
         "zh": "大蒜蛋黄酱",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "サンドイッチに使える。",
         "pt": "Você pode usá-lo em um sanduíche.",
         "ru": "Вы можете использовать его в бутербродах.",
-         // "tr": "",
+        "tr": "Bir sandviçte kullanabilirsin.",
         "zh": "你可以把它涂在三明治里。",
     }
 }

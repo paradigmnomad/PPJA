@@ -44,7 +44,7 @@
         "ja": "レモンパイ",
         "pt": "Torta de limão siciliano",
          // "ru": "",
-         // "tr": "",
+        "tr": "Limonlu Turta",
         "zh": "柠檬派",
     },
     "DescriptionLocalization":
@@ -58,7 +58,7 @@
         "ja": "レモンパイとピクニックは、夏を楽しむ方法です。",
         "pt": "Torta de limão siciliano e piqueniques são a melhor maneira de aproveitar o seu verão.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Limonlu turta ve piknik yazın eğlenmenin yolu.",
         "zh": "野餐里有柠檬派是享受夏天的最好方式之一。",
     }
 }

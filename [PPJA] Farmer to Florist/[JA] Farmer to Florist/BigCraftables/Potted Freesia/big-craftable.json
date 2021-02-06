@@ -9,17 +9,17 @@
         "Ingredients": [
         {
             "Object": "Freesia",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 388,
-            "Count": 10,
+            "Count": 10
         },
         {
             "Object": 330,
-            "Count": 10,
-        }, ],
-        "CanPurchase": false,
+            "Count": 10
+        } ],
+        "CanPurchase": false
     },
     "NameLocalization":
     {
@@ -32,21 +32,20 @@
         "ja": "フリージアの鉢植え",
         "pt": "Vaso de Frésia",
         "ru": "Фрезия в горшке",
-        //"tr": "",
-        "zh": "小苍兰盆栽",
+        "tr": "Saksıda Frezya",
+        "zh": "小苍兰盆栽"
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una fresia en una pequeña maceta de madera. ¡Recuerda regarla!",
-        "ko": "작은 나무 화분에 심겨진 프리지아 입니다. 물 주는거 잊지마세요!",
-        "de": "Eine Freesie in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-        //"fr": "",
-        "hu": "Egy frézia cserépben. Ne felejtsed el megöntözni!",
-        //"it": "",
-        "ja": "フリージアが植えられた木製の小さな鉢。水やりを忘れずに。",
-        "pt": "Uma frésia em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
-        "ru": "Фрезия в маленьком деревянном горшочке. Не забывайте поливать!",
-        //"tr": "",
-        "zh": "一个小木盆里的小苍兰。记得给它浇水！",
-    }
+  "DescriptionLocalization": {
+    "es": "Una fresia en una pequeña maceta de madera. ¡Recuerda regarla!",
+    "ko": "작은 나무 화분에 심겨진 프리지아 입니다. 물 주는거 잊지마세요!",
+    "de": "Eine Freesie in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+    //"fr": "",
+    "hu": "Egy frézia cserépben. Ne felejtsed el megöntözni!",
+    //"it": "",
+    "ja": "フリージアが植えられた木製の小さな鉢。水やりを忘れずに。",
+    "pt": "Uma frésia em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
+    "ru": "Фрезия в маленьком деревянном горшочке. Не забывайте поливать!",
+    "tr": "Küçük tahta bir saksıda bir frezya. Sulamayı unutma!",
+    "zh": "一个小木盆里的小苍兰。记得给它浇水！"
+  }
 }

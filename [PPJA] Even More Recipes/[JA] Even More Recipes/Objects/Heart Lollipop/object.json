@@ -40,7 +40,7 @@
         "ja": "ハートのキャンディ",
         "pt": "Pirulito de coração",
         // "ru": "",
-        // "tr": "",
+        "tr": "Kalp Şekilli Lolipop",
         "zh": "心形棒棒糖",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
        "ja": "ハート形のイチゴのキャンディ。",
         "pt": "Um pirulito com sabor de morango e em forma de coração.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Çilek aromalı, kalp şekilli bir lolipop.",
         "zh": "一种草莓味的心形棒棒糖。",
     }
 }

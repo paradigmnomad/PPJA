@@ -23,21 +23,20 @@
         "ja": "ヘーゼルナッツバター",
         "pt": "Manteiga de Avelã",
         "ru": "Масло из фундука",
-        // "tr": "",
+        "tr": "Fındık Ezmesi",
         "zh": "榛子奶油",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una irresistible mantequilla de avellanas.",
-        "ko": "거부할 수 없는 초콜릿 맛.",
-        "de": "Ein unwiderstehlicher Brotaufstrich mit Schokoladengeschmack.",
-        "fr": "Une pâte à tartiner irrésistible aux saveurs de chocolat.",
-        "hu": "Egy ellenállhatatlan, csokoládé ízesítésű krém.",
-        // "it": "",
-        "ja": "チョコレートの風味がたまらないスプレッド。",
-        "pt": "Uma irresistível manteiga de avelãs.",
-        "ru": "Паста с шоколадным вкусом, перед которым не устоять.",
-        // "tr": "",
-        "zh": "令人无法拒绝的巧克力味弥散在空中。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una irresistible mantequilla de avellanas.",
+    "ko": "거부할 수 없는 초콜릿 맛.",
+    "de": "Ein unwiderstehlicher Brotaufstrich mit Schokoladengeschmack.",
+    "fr": "Une pâte à tartiner irrésistible aux saveurs de chocolat.",
+    "hu": "Egy ellenállhatatlan, csokoládé ízesítésű krém.",
+    // "it": "",
+    "ja": "チョコレートの風味がたまらないスプレッド。",
+    "pt": "Uma irresistível manteiga de avelãs.",
+    "ru": "Паста с шоколадным вкусом, перед которым не устоять.",
+    "tr": "Karşı konulamaz, çikolata tadında ve sürülebilir.",
+    "zh": "令人无法拒绝的巧克力味弥散在空中。"
+  }
 }

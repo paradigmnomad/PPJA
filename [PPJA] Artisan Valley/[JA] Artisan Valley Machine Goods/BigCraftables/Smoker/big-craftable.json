@@ -30,7 +30,7 @@
         "ja": "くん製器",
         "pt": "Defumador",
         "ru": "Коптильня",
-        // "tr": "",
+        "tr": "Tütsüleyici.",
         "zh": "熏炉",
     },
     "DescriptionLocalization":
@@ -44,7 +44,7 @@
         "ja": "くん製器を使って魚やチーズをいぶす。",
         "pt": "Usado para defumar peixes.",
         "ru": "Коптильня используется для копчения рыбы или сыров.",
-        // "tr": "",
+        "tr": "Balık tütsülemek için.",
         "zh": "用来熏制鱼和奶酪的熏炉。",
     }
 }

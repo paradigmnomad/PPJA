@@ -23,21 +23,20 @@
         "ja": "ミントチップアイスクリーム",
         "pt": "Sorevete Granulado de Menta",
         "ru": "Мятное мороженое с крошкой",
-         // "tr": "",
+        "tr": "Naneli Çikolata Parçacıklı Dondurma",
         "zh": "薄荷冰淇淋",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Tiene trocitos de chocolate hecho a mano.",
-        "ko": "조그마한 수제 초콜릿 칩으로 완성됩니다.",
-        "de": "Komplett mit Stücken von handgemachter Schokolade.",
-        "fr": "Complète avec des morceaux de chocolat fait maison.",
-        "hu": "Apró házi csokidarabkákat tartalmaz.",
-         // "it": "",
-        "ja": "手作りチョコレートを少し加えましょう。",
-        "pt": "Completado com pedaços de chocolate caseiro!",
-        "ru": "Мороженое с кусочками домашнего шоколада.",
-         // "tr": "",
-        "zh": "配上少量的手工巧克力。",
-    }
+  "DescriptionLocalization": {
+    "es": "Tiene trocitos de chocolate hecho a mano.",
+    "ko": "조그마한 수제 초콜릿 칩으로 완성됩니다.",
+    "de": "Komplett mit Stücken von handgemachter Schokolade.",
+    "fr": "Complète avec des morceaux de chocolat fait maison.",
+    "hu": "Apró házi csokidarabkákat tartalmaz.",
+    // "it": "",
+    "ja": "手作りチョコレートを少し加えましょう。",
+    "pt": "Completado com pedaços de chocolate caseiro!",
+    "ru": "Мороженое с кусочками домашнего шоколада.",
+    "tr": "Elyapımı çikolata parçalarıyla tam olmuş.",
+    "zh": "配上少量的手工巧克力。"
+  }
 }

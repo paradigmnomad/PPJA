@@ -37,32 +37,30 @@
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2000,
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Teriyaki",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Carneiro grelhado, marinado em molho teriyaki.",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "NameLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Teriyaki",
+    // "ru": "",
+    "tr": "Teriyaki"
+    // "zh": "",
+  },
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Carneiro grelhado, marinado em molho teriyaki.",
+    // "ru": "",
+    "tr": "Izgara koyun eti, teriyaki sosunda marine edilmiþ."
+    // "zh": "",
+  }
 }

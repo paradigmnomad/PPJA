@@ -35,7 +35,7 @@
         "ja": "かにかま",
         "pt": "Surimi",
          // "ru": "",
-         // "tr": "",
+        "tr": "Surimi",
         "zh": "蟹味棒",
     },
     "DescriptionLocalization":
@@ -49,7 +49,7 @@
         "ja": "ペースト状に加工された魚のすり身。",
         "pt": "Um peixe picado que foi transformado em pasta.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Püre yapılmış balık kıyması.",
         "zh": "已加工成糊状的鱼肉糜。",
     }
 }

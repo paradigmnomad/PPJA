@@ -17,8 +17,8 @@
         "ja": "野菜チップス",
         "pt": "Fandangos de Vegetais",
         "ru": "Вегетарианские чипсы",
-        // "tr": "",
-        "zh": "蔬菜脆片",
+        "tr": "Sebze Cipsi",
+        "zh": "蔬菜脆片"
     },
     "DescriptionLocalization":
     {
@@ -31,7 +31,7 @@
         "ja": "野菜のポテトチップス。袋入り。",
         "pt": "Um saco com pedaços de vegetais secos.",
         "ru": "Пачка сушеных кусочков овощей.",
-        // "tr": "",
-        "zh": "蔬菜脆片。一袋干蔬菜片。",
+        "tr": "Bir torba dolusu kurutulmuş sebze parçası.",
+        "zh": "蔬菜脆片。一袋干蔬菜片。"
     }
 }

@@ -21,7 +21,7 @@
         "ja": "そば粉",
         "pt": "Farinha de Trigo Sarraceno",
         "ru": "Гречневая мука",
-         // "tr": "",
+        "tr": "Karabuğday Unu",
         "zh": "荞麦粉",
     },
     "DescriptionLocalization":
@@ -35,7 +35,7 @@
         "ja": "ソバの実を粉砕して作った料理材料。",
         "pt": "Um ingrediente de cozinha feito de sementes de trigo sarraceno trituradas.",
         "ru": "Кулинарный ингредиент, изготовленный из измёльченных семян гречихи.",
-         // "tr": "",
+        "tr": "Ezilmiş karabuğday çekirdeklerinden yapılan pişirme malzemesi.",
         "zh": "一种用荞麦种子制成的烹饪原料。",
     }
 }

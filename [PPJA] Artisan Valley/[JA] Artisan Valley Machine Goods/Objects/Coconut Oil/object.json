@@ -24,21 +24,20 @@
         "ja": "ココナッツオイル",
         "pt": "Óleo de Coco",
         "ru": "Кокосовое масло",
-         // "tr": "",
+        "tr": "Hindistan Cevizi Yağı",
         "zh": "椰子油",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un aceite multiuso usado en productos de cocina y de hogar. Sólido a temperatura ambiente.",
-        "ko": "요리 및 가정용품에 쓰이는 다목적 오일. 상온에서 고체상태를 유지합니다.",
-        "de": "Ein Mehrzwecköl, das in Koch- und Haushaltsprodukten verwendet wird. Fest bei Raumtemperatur.",
-        "fr": "Une huile aux usages multiples utilisée en cuisine et pour des produits domestiques. Solide à température ambiante.",
-         "hu": "Egy széles körben, például sütéshez, valamint háztartási cikkekhez felhasznált olaj. Szobahőmérsékleten szilárd halmazállapotú.",
-         // "it": "",
-        "ja": "料理の他にも生活全般にも使われる多目的なオイル。室温で固まる。",
-        "pt": "Um óleo multiuso usado em produtos de casa e de cozinha. Sólido à temperatura ambiente.",
-        "ru": "Многоцелевое масло, используемое в кулинарии и бытовой химии. Твёрдое при комнатной температуре.",
-         // "tr": "",
-        "zh": "一种用于烹饪和家居用品的多功能油。在室温下有稳定的状态。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un aceite multiuso usado en productos de cocina y de hogar. Sólido a temperatura ambiente.",
+    "ko": "요리 및 가정용품에 쓰이는 다목적 오일. 상온에서 고체상태를 유지합니다.",
+    "de": "Ein Mehrzwecköl, das in Koch- und Haushaltsprodukten verwendet wird. Fest bei Raumtemperatur.",
+    "fr": "Une huile aux usages multiples utilisée en cuisine et pour des produits domestiques. Solide à température ambiante.",
+    "hu": "Egy széles körben, például sütéshez, valamint háztartási cikkekhez felhasznált olaj. Szobahőmérsékleten szilárd halmazállapotú.",
+    // "it": "",
+    "ja": "料理の他にも生活全般にも使われる多目的なオイル。室温で固まる。",
+    "pt": "Um óleo multiuso usado em produtos de casa e de cozinha. Sólido à temperatura ambiente.",
+    "ru": "Многоцелевое масло, используемое в кулинарии и бытовой химии. Твёрдое при комнатной температуре.",
+    "tr": "Pişirmede ve ev ürünlerinde kullanılan çok amaçlı bir yağ. Oda sıcaklığında renksizdir.",
+    "zh": "一种用于烹饪和家居用品的多功能油。在室温下有稳定的状态。"
+  }
 }

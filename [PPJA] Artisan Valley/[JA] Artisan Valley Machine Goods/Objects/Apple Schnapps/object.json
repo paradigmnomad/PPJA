@@ -40,7 +40,7 @@
         "ja": "アップルシュナップス",
         "pt": "Aguardente de Maçã",
         "ru": "Яблочный шнапс",
-         // "tr": "",
+        "tr": "Elma Schnapps",
         "zh": "苹果味烈酒",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
         "ja": "飲む時は適量を守ってほどほどに。",
         "pt": "Beba com moderação!",        
         "ru": "Пейте в меру.",
-         // "tr": "",
+        "tr": "Kararında içilmeli.",
         "zh": "适量饮酒。",
     }
 }

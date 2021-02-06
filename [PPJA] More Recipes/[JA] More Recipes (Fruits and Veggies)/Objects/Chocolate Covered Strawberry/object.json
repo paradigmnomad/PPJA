@@ -32,32 +32,30 @@
         "Dislike": ["Krobus", "Willy"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Fresa cubierta de chocolate",
-        "ko": "초콜릿을 입은 딸기",
-        "de": "Schokoerdbeere",
-        "fr": "Fraise enrobée de chocolat",
-         // "hu": "",
-         // "it": "",
-        "ja": "イチゴチョコ",
-        "pt": "Morango coberto de chocolate",
-        "ru": "Клубника в шоколаде",
-         // "tr": "",
-        "zh": "草莓巧克力",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "¡A un paso de la dicha!",
-        "ko": "행복에 가까워 지는 한 걸음!",
-        "de": "Erdbeere mit Schokoüberzug!",
-        "fr": "À un pas du bonheur !",
-         // "hu": "",
-         // "it": "",
-        "ja": "「One step away from bliss!」",
-        "pt": "A um passo da felicidade!",
-        "ru": "В шаге от блаженства!",
-         // "tr": "",
-        "zh": "草莓巧克力。离幸福只有一步之遥！",
-    }
+  "NameLocalization": {
+    "es": "Fresa cubierta de chocolate",
+    "ko": "초콜릿을 입은 딸기",
+    "de": "Schokoerdbeere",
+    "fr": "Fraise enrobée de chocolat",
+    // "hu": "",
+    // "it": "",
+    "ja": "イチゴチョコ",
+    "pt": "Morango coberto de chocolate",
+    "ru": "Клубника в шоколаде",
+    "tr": "Çikolata Kaplı Çilek",
+    "zh": "草莓巧克力"
+  },
+  "DescriptionLocalization": {
+    "es": "¡A un paso de la dicha!",
+    "ko": "행복에 가까워 지는 한 걸음!",
+    "de": "Erdbeere mit Schokoüberzug!",
+    "fr": "À un pas du bonheur !",
+    // "hu": "",
+    // "it": "",
+    "ja": "「One step away from bliss!」",
+    "pt": "A um passo da felicidade!",
+    "ru": "В шаге от блаженства!",
+    "tr": "Mutluluktan bir adım ötede!",
+    "zh": "草莓巧克力。离幸福只有一步之遥！"
+  }
 }

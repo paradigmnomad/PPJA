@@ -35,21 +35,20 @@
         "ja": "アイリッシュコーヒー",
         "pt": "Café Irlandês Quente",        
         "ru": "Горячий ирландский кофе",
-         // "tr": "",
+        "tr": "Sıcak İrlanda Kahvesi",
         "zh": "热爱尔兰咖啡",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Café caliente con whisky, ¡por fin juntos!",
-        "ko": "뜨거운 커피와 위스키, 마침내 만나다!",
-        "de": "Endlich heißer Kaffee und Whiskey zusammen!",
-        "fr": "Café chaud et whiskey, enfin réunis !",
-        "hu": "Forró kávé és whisky, végre együtt!",
-         // "it": "",
-        "ja": "ホットコーヒーとウィスキーをとうとう一緒に！",
-        "pt": "Café quente com uísque. Por fim, juntos!",
-        "ru": "Долгожданное сочетание: горячий кофе и виски!",
-         // "tr": "",
-        "zh": "热咖啡和威士忌终于凑在一起了！",
-    }
+  "DescriptionLocalization": {
+    "es": "Café caliente con whisky, ¡por fin juntos!",
+    "ko": "뜨거운 커피와 위스키, 마침내 만나다!",
+    "de": "Endlich heißer Kaffee und Whiskey zusammen!",
+    "fr": "Café chaud et whiskey, enfin réunis !",
+    "hu": "Forró kávé és whisky, végre együtt!",
+    // "it": "",
+    "ja": "ホットコーヒーとウィスキーをとうとう一緒に！",
+    "pt": "Café quente com uísque. Por fim, juntos!",
+    "ru": "Долгожданное сочетание: горячий кофе и виски!",
+    "tr": "Sıcak kahve ve viski, sonunda bir arada!",
+    "zh": "热咖啡和威士忌终于凑在一起了！"
+  }
 }

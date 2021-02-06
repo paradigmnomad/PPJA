@@ -29,7 +29,7 @@
         // "ja": "",
          "pt": "Sementes de Javali Silvestre",
         // "ru": "",
-        // "tr": "",
+         "tr": "Yaban Domuzu Tohumu",
          "zh": "野猪肉种子",
     },
     "SeedDescriptionLocalization":
@@ -43,7 +43,7 @@
         // "ja": "",
          "pt": "Plante isso na primavera ou no verão. Leva 13 dias para amadurecer.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Baharda veya yazın ekilir. 13 günde yetişir.",
          "zh": "春天或夏天播种。13天成熟。",
     },
 }

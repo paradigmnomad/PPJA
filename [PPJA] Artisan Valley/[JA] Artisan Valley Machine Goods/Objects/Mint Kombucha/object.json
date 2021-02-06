@@ -25,21 +25,20 @@
        "ja": "ミントコンブチャ",
        "pt": "Kombuchá de Menta",
        "ru": "Мятная комбуча",
-        // "tr": "",
-        "zh": "薄荷康普茶",
+       "tr": "Naneli Kombucha",
+       "zh": "薄荷康普茶",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una kombucha con sabores a menta.",
-        "ko": "민트 맛이 나는 콤부차.",
-        "de": "Ein Kombucha mit Minzaromen.",
-        "fr": "Un kombucha fait à partir de saveurs menthées.",
-       "hu": "Egy mentaízű kombucha.",
-        // "it": "",
-       "ja": "ミント風味のコンブチャ。",
-       "pt": "Um Kombuchá com sabor de menta.",
-       "ru": "Комбуча с мятным вкусом.",
-        // "tr": "",
-        "zh": "有薄荷味的康普茶。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una kombucha con sabores a menta.",
+    "ko": "민트 맛이 나는 콤부차.",
+    "de": "Ein Kombucha mit Minzaromen.",
+    "fr": "Un kombucha fait à partir de saveurs menthées.",
+    "hu": "Egy mentaízű kombucha.",
+    // "it": "",
+    "ja": "ミント風味のコンブチャ。",
+    "pt": "Um Kombuchá com sabor de menta.",
+    "ru": "Комбуча с мятным вкусом.",
+    "tr": "Nane aromalı kombucha.",
+    "zh": "有薄荷味的康普茶。"
+  }
 }

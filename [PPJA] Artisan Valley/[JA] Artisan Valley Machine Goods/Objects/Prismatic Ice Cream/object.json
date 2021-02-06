@@ -38,7 +38,7 @@
         "ja": "プリズムアイスクリーム",
         "pt": "Sorvete Prismático",
         "ru": "Призматическое мороженое",
-         // "tr": "",
+        "tr": "Prizmatik Dondurma",
         "zh": "五彩冰淇淋",
     },
     "DescriptionLocalization":
@@ -52,7 +52,7 @@
         "ja": "それを味わう人に幸運をもたらすといわれている。",
         "pt": "Se disseram que traz grande fortuna a aqueles que o provam....",
         "ru": "Говорят, оно приносит удачу всем, кто его попробует.",
-         // "tr": "",
+        "tr": "Tadına bakana çok büyük şans getireceği söylenir.",
         "zh": "据说它能给那些品尝它的人带来巨大的财富。",
     }
 }

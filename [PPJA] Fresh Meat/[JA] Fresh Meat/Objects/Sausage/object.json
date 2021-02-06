@@ -46,7 +46,7 @@
         "ja": "ソーセージ",
         "pt": "Linguiça",
         "ru": "Колбаса",
-        // "tr": "",
+        "tr": "Sosis",
         "zh": "香肠",
     },
     "DescriptionLocalization":
@@ -60,7 +60,7 @@
         "ja": "豚ひき肉に調味料を加えたソーセージ。",
         "pt": "Um tubo de carne de porco e temperos.",
         "ru": "Свинной фарш и приправы.",
-        // "tr": "",
+        "tr": "Domuz eti ve baharatlarla yapılmış yuvarlak bir tüp.",
         "zh": "香肠。由猪肉和其他调味品组成。",
     }
 }

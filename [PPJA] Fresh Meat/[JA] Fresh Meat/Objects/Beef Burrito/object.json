@@ -52,7 +52,7 @@
         "ja": "牛肉のブリトー",
         "pt": "Burrito de carne",
         "ru": "Буррито из говядины",
-        // "tr": "",
+        "tr": "Sığır Etli Burito",
         "zh": "牛肉卷饼",
     },
     "DescriptionLocalization":
@@ -66,7 +66,7 @@
         "ja": "Zuzu Cityのものと同じくらい高クオリティ！",
         "pt": "Tão bom quanto o da cidade de Zuzu!",
         "ru": "Такое же хорошее, как и в городе Зузу!",
-        // "tr": "",
+        "tr": "Zuzu Şehri'ndeki kadar iyi!",
         "zh": "牛肉卷饼。就像在Zuzu城一样好！",
     }
 }

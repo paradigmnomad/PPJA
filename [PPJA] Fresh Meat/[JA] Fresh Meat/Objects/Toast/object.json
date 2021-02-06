@@ -36,7 +36,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tost",
          "zh": "吐司",
     },
     "DescriptionLocalization":
@@ -50,7 +50,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Basit bir dilim tost.",
          "zh": "一片普通的吐司。",
     }
 }

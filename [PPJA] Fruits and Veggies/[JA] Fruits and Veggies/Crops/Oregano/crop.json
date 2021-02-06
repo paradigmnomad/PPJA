@@ -19,32 +19,30 @@
         "ExtraChance": 0.0,
     },
     "SeedPurchasePrice": 30,
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de orégano",
-        "ko": "오레가노 씨앗",
-        "de": "Oregano-Saat",
-        "fr": "Graines d'origan",
-        "hu": "Oregánó magvak",
-         // "it": "",
-        "ja": "オレガノのタネ",
-        "pt": "Sementes de orégano",
-        "ru": "Семена душицы",
-         // "tr": "",
-        "zh": "牛至种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en verano. Tardan 4 días en madurar.",
-        "ko": "여름 작물. 성장하려면 4일이 소요됩니다.",
-        "de": "Pflanze sie im Sommer. Wächst in 4 Tagen heran.",
-        "fr": "À planter en été. Prend 4 jours pour arriver à maturité.",
-        "hu": "Ezeket nyáron ültesd el. 4 napig tart megérniük.",
-         // "it": "",
-        "ja": "夏植えの作物。そだつのに4日かかる。",
-        "pt": "Plante-as no verão. Demora 4 dias para amadurecer.",
-        "ru": "Сажайте летом. Вырастает через 4 дня.",
-         // "tr": "",
-        "zh": "夏天播种。4天成熟。",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de orégano",
+    "ko": "오레가노 씨앗",
+    "de": "Oregano-Saat",
+    "fr": "Graines d'origan",
+    "hu": "Oregánó magvak",
+    // "it": "",
+    "ja": "オレガノのタネ",
+    "pt": "Sementes de orégano",
+    "ru": "Семена душицы",
+    "tr": "Keklikotu Tohumu",
+    "zh": "牛至种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en verano. Tardan 4 días en madurar.",
+    "ko": "여름 작물. 성장하려면 4일이 소요됩니다.",
+    "de": "Pflanze sie im Sommer. Wächst in 4 Tagen heran.",
+    "fr": "À planter en été. Prend 4 jours pour arriver à maturité.",
+    "hu": "Ezeket nyáron ültesd el. 4 napig tart megérniük.",
+    // "it": "",
+    "ja": "夏植えの作物。そだつのに4日かかる。",
+    "pt": "Plante-as no verão. Demora 4 dias para amadurecer.",
+    "ru": "Сажайте летом. Вырастает через 4 дня.",
+    "tr": "Yazın ekilir. 4 günde yetişir.",
+    "zh": "夏天播种。4天成熟。"
+  }
 }

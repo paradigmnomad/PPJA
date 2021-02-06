@@ -38,32 +38,30 @@
         "PurchasePrice": 900,
         "PurchaseRequirements": ["HasCookingRecipe Chicken-Stock", "y 4"],
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Sopa de AlazÃ£o",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Uma sopa simples feita de espinafre, bok choy, e dente-de-leÃ£o.",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "NameLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Sopa de Alazão",
+    // "ru": "",
+    "tr": "Kuzukulaðý Çorbasý"
+    // "zh": "",
+  },
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Uma sopa simples feita de espinafre, bok choy, e dente-de-leão.",
+    // "ru": "",
+    "tr": "Ispanak, çin lahanasý ve karahindibadan yapýlmýþ basit bir çorba."
+    // "zh": "",
+  }
 }

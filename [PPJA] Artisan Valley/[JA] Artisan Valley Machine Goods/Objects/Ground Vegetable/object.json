@@ -21,7 +21,7 @@
         "ja": "粉末野菜",
         "pt": "Vegetais Moídos",
         "ru": "Молотый овощ",
-         // "tr": "",
+        "tr": "Öğütülmüş Sebze",
         "zh": "蔬菜粉",
     },
     "DescriptionLocalization":
@@ -35,7 +35,7 @@
         "ja": "すりおろした野菜のビン詰め。",
         "pt": "Um recipiente de vegetais moídos.",
         "ru": "Баночка измельчённых овощей.",
-         // "tr": "",
+        "tr": "Bir kavanoz öğütülmüş sebze.",
         "zh": "一罐蔬菜粉。",
     }
 }

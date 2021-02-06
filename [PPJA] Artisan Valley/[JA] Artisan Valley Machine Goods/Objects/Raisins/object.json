@@ -22,21 +22,20 @@
         "ja": "レーズン",
         "pt": "Uvas Passas",
         "ru": "Изюм",
-         // "tr": "",
+        "tr": "Kuru Üzüm",
         "zh": "葡萄干",
     },
-    "DescriptionLocalization":
-    {
-        "es": "¡Uvas deshidratadas transformadas en un rico aperitivo!",
-        "ko": "맛있는 간식인 건포도!",
-        "de": "Getrocknete Trauben, ein leckerer Snack!",
-        "fr": "Raisins secs qui font un en-cas savoureux !",
-        "hu": "Szárított szőlő, mely egy ízletes nassolnivaló.",
-         // "it": "",
-        "ja": "この乾燥ブドウでおいしいおやつを作れる！",
-        "pt": "Uvas desidratadas transformadas em um rico aperitivo!",
-        "ru": "Вкусная закуска - сушёный виноград!",
-         // "tr": "",
-        "zh": "葡萄干，是一种美味的小吃！",
-    }
+  "DescriptionLocalization": {
+    "es": "¡Uvas deshidratadas transformadas en un rico aperitivo!",
+    "ko": "맛있는 간식인 건포도!",
+    "de": "Getrocknete Trauben, ein leckerer Snack!",
+    "fr": "Raisins secs qui font un en-cas savoureux !",
+    "hu": "Szárított szőlő, mely egy ízletes nassolnivaló.",
+    // "it": "",
+    "ja": "この乾燥ブドウでおいしいおやつを作れる！",
+    "pt": "Uvas desidratadas transformadas em um rico aperitivo!",
+    "ru": "Вкусная закуска - сушёный виноград!",
+    "tr": "Lezzetli bir atıştımalık olabilen kuru üzümler!",
+    "zh": "葡萄干，是一种美味的小吃！"
+  }
 }

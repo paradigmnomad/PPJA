@@ -48,7 +48,7 @@
         "ja": "ナポリタンアイスバー",
         "pt": "Picolé napolitano",
          // "ru": "",
-         // "tr": "",
+        "tr": "Napoliten Çubuklu Dondurma",
         "zh": "三色雪糕",
     },
     "DescriptionLocalization":
@@ -62,7 +62,7 @@
         "ja": "3つのフレーバーを1つに！",
         "pt": "Três sabores em um!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Üç tat bir arada!",
         "zh": "三种味道在同一个雪糕里！",
     }
 }

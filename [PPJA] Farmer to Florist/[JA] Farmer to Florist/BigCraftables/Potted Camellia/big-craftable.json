@@ -32,21 +32,21 @@
         "ja": "ツバキの鉢植え",
         "pt": "Vaso de Chá-da-Índia",
         "ru": "Камелия в горшке",
-        //"tr": "",
-        "zh": "山茶花盆栽",
+        "tr": "Saksıda Kamelya",
+        "zh": "山茶花盆栽"
     },
-    "DescriptionLocalization":
+    "DescriptionLocalization": 
     {
-        "es": "Una pequeña planta de camelia en una pequeña maceta de madera. ¡Recuerda regarla!",
-        "ko": "작은 나무 화분에 심겨진 카멜리아입니다. 물 주는거 잊지마세요!",
-        "de": "Eine kleine Kamelienpflanze in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-        //"fr": "",
-        "hu": "Egy kamélia cserépben. Ne felejtsd el megöntözni!",
-        //"it": "",
-        "ja": "小さなツバキが植えられた木製の小さな鉢。水やりを忘れずに。",
-        "pt": "Uma pequena planta de chá-da-índia em um vaso de madeira. Lembre-se de sempre regá-la!",
-        "ru": "Камелия в маленьком деревянном горшочке. Не забывайте поливать!",
-        //"tr": "",
-        "zh": "一个小木盆里的山茶花。记得给它浇水！",
+      "es": "Una pequeña planta de camelia en una pequeña maceta de madera. ¡Recuerda regarla!",
+      "ko": "작은 나무 화분에 심겨진 카멜리아입니다. 물 주는거 잊지마세요!",
+      "de": "Eine kleine Kamelienpflanze in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+      //"fr": "",
+      "hu": "Egy kamélia cserépben. Ne felejtsd el megöntözni!",
+      //"it": "",
+      "ja": "小さなツバキが植えられた木製の小さな鉢。水やりを忘れずに。",
+      "pt": "Uma pequena planta de chá-da-índia em um vaso de madeira. Lembre-se de sempre regá-la!",
+      "ru": "Камелия в маленьком деревянном горшочке. Не забывайте поливать!",
+      "tr": "Küçük tahta bir saksıda bir kamelya. Sulamayı unutma!",
+      "zh": "一个小木盆里的山茶花。记得给它浇水！"
     }
 }

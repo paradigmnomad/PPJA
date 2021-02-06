@@ -42,7 +42,7 @@
         // "ja": "",
          "pt": "Sanduíche de café da manhã",
         // "ru": "",
-        // "tr": "",
+        "tr": "Kahvaltılık Sandviç",
         "zh": "早餐三明治",
     },
     "DescriptionLocalization":
@@ -56,7 +56,7 @@
         // "ja": "",
          "pt": "Um sanduíche quente empilhado com ovos, queijo derretido, e bacon agradável e crocante.",
         // "ru": "",
-        // "tr": "",
+        "tr": "İçinde yumurta, erimiş peynir ve güzel, çıtır pastırma olan sıcak bir sandviç.",
         "zh": "早餐三明治。一份热三明治，里面有鸡蛋、融化的奶酪和香脆的培根。",
     }
 }

@@ -17,8 +17,8 @@
         "ja": "アジサイ",
         "pt": "Hortênsia",
         "ru": "Гортензия",
-        // "tr": "",
-        "zh": "八仙花",
+        "tr": "Ortanca",
+        "zh": "八仙花"
     },
     "DescriptionLocalization":
     {
@@ -31,8 +31,8 @@
         "ja": "低木に咲く大きく円い花。園芸愛好家の間で人気が高い。",
         "pt": "Com grandes conjuntos de flores redondas, este arbusto é incrivelmente popular entre os jardineiros.",
         "ru": "Куст, невероятно популярный среди садоводов благодаря своим большим скоплениям цветов.",
-        // "tr": "",
-        "zh": "俗名绣球花或紫阳花，这种灌木有大而圆的花簇，备受花匠和园丁们的欢迎。",
+        "tr": "Bu çalılık; büyük, yuvarlak çiçek kümeleriyle bahçeciler arasında çok meşhur.",
+        "zh": "俗名绣球花或紫阳花，这种灌木有大而圆的花簇，备受花匠和园丁们的欢迎。"
     },
     "ContextTags": [
         "flower_poisonous",

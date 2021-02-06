@@ -21,7 +21,7 @@
         "ja": "干し野菜",
         "pt": "Vegetais Secos",
         "ru": "Сушёные овощи",
-         // "tr": "",
+        "tr": "Kurutulmuş Sebze",
         "zh": "蔬菜干",
     },
     "DescriptionLocalization":
@@ -35,7 +35,7 @@
         "ja": "乾燥させた野菜の袋詰め。",
         "pt": "Uma sacola de verduras secas.",
         "ru": "Мешок с сушёными овощами.",
-         // "tr": "",
+        "tr": "Bir torba kurutulmuş sebze.",
         "zh": "一包蔬菜干。",
     }
 }

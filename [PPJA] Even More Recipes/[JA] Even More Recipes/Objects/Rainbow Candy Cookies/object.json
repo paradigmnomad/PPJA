@@ -52,7 +52,7 @@
         "ja": "レンボーキャンディクッキー",
         "pt": "Biscoitos doces de arco-íris",
          // "ru": "",
-         // "tr": "",
+        "tr": "Gökkuşağı Şekerli Kurabiye",
         "zh": "彩虹糖饼干",
     },
     "DescriptionLocalization":
@@ -66,7 +66,7 @@
         "ja": "カラフルな粒を混ぜたクッキー",
         "pt": "Esses biscoitos têm pedaços coloridoas!",
          // "ru": "",
-         // "tr": "",
+        "tr": "İçinde rengarenk parçalar var.",
         "zh": "这些饼干里面有很多五颜六色的东西！",
     }
 }

@@ -24,8 +24,8 @@
         "ja": "クレマチス",
         "pt": "Atragene",
         "ru": "Ломонос",
-         // "tr": "",
-        "zh": "铁线莲",
+        "tr": "Akasma",
+        "zh": "铁线莲"
     },
     "DescriptionLocalization":
     {
@@ -38,8 +38,8 @@
         "ja": "秋に咲くツル科の花。園芸愛好家に人気。",
         "pt": "Uma videira que floresce no outono. Popular entre jardineiros.",
         "ru": "Лоза, цветущая осенью. Популярна среди садоводов.",
-         // "tr": "",
-        "zh": "秋天开花的藤蔓植物。很受园丁欢迎。",
+        "tr": "Güzde büyüyen ve çiçek açan bir sarmaşık. Bahçeciler arasında ünlüdür.",
+        "zh": "秋天开花的藤蔓植物。很受园丁欢迎。"
     },
     "ContextTags": [
     	"color_purple",

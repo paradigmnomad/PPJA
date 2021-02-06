@@ -35,32 +35,30 @@
         "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Farofa",
-        "ko": "파로파",
-        "de": "Farofa",
-        "fr": "Farofa",
-         // "hu": "",
-         // "it": "",
-        "ja": "ファロファ",
-        "pt": "Farofa",
-        "ru": "Фарофа",
-         // "tr": "",
-        "zh": "奶油木薯粉",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Una mezcla tostada de mandioca molida y otras verduras.",
-        "ko": "갈아놓은 카사바와 다른 야채들을 구워 섞은 것.",
-        "de": "Eine geröstete Mischung aus gemahlenem Maniok und anderem Gemüse.",
-        "fr": "Un mélange grillé de farine de manioc et d'autres légumes.",
-         // "hu": "",
-         // "it": "",
-        "ja": "キャッサバの粉末をあぶって他の野菜とあえたもの。",
-        "pt": "Uma mistura torrada de mandioca moída e outros vegetais.",
-        "ru": "Жареная смесь молотой маниоки и других овощей.",
-         // "tr": "",
-        "zh": "奶油木薯粉。木薯粉和其他蔬菜的烘烤混合物。",
-    }
+  "NameLocalization": {
+    "es": "Farofa",
+    "ko": "파로파",
+    "de": "Farofa",
+    "fr": "Farofa",
+    // "hu": "",
+    // "it": "",
+    "ja": "ファロファ",
+    "pt": "Farofa",
+    "ru": "Фарофа",
+    "tr": "Farofa",
+    "zh": "奶油木薯粉"
+  },
+  "DescriptionLocalization": {
+    "es": "Una mezcla tostada de mandioca molida y otras verduras.",
+    "ko": "갈아놓은 카사바와 다른 야채들을 구워 섞은 것.",
+    "de": "Eine geröstete Mischung aus gemahlenem Maniok und anderem Gemüse.",
+    "fr": "Un mélange grillé de farine de manioc et d'autres légumes.",
+    // "hu": "",
+    // "it": "",
+    "ja": "キャッサバの粉末をあぶって他の野菜とあえたもの。",
+    "pt": "Uma mistura torrada de mandioca moída e outros vegetais.",
+    "ru": "Жареная смесь молотой маниоки и других овощей.",
+    "tr": "Yerden çıkmış manyoğun ve diğer sebzelerin kızarmış bir karışımı.",
+    "zh": "奶油木薯粉。木薯粉和其他蔬菜的烘烤混合物。"
+  }
 }

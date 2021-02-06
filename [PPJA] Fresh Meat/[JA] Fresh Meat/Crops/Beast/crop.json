@@ -29,7 +29,7 @@
         // "ja": "",
          "pt": "Sementes de Besta",
         // "ru": "",
-        // "tr": "",
+         "tr": "Canavar Tohumu",
          "zh": "野兽肉种子",
     },
     "SeedDescriptionLocalization":
@@ -43,7 +43,7 @@
         // "ja": "",
          "pt": "Plante isso no verão. Leva 14 dias para amadurecer.",
         // "ru": "",
-        // "tr": "",
+         "tr": "Baharda veya yazın ekilir. 14 günde yetişir.",
          "zh": "春天或夏天播种。14天成熟。",
     },
 }

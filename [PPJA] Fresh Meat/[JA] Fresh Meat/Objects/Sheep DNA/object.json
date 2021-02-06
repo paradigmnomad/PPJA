@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+       "tr": "Koyun DNA'sı",
          "zh": "绵羊DNA",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Yünden alınmış koyun DNA'sı. Bunun nasıl işe yaradığından emin değilsin.",
          "zh": "从羊毛中提取的一些绵羊DNA。你不太清楚这是怎么作用的，但它确实起到了效果。",
     },
     "ContextTags": [

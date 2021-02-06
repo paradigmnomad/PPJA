@@ -33,7 +33,7 @@
         "ja": "シャーベットマシン",
         "pt": "Máquina de Sorbet",
         // "ru": "",
-        // "tr": "",
+        "tr": "Şerbet Makinesi",
         "zh": "冰沙搅拌机",
     },
     "DescriptionLocalization":
@@ -47,7 +47,7 @@
         "ja": "新鮮なくだものからおいしい手作りシャーベットをつくれる。",
         "pt": "Faz deliciosos sorvetes artesanais de frutas frescas.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Taze meyveden ev yapımı leziz şerbetler yapar.",
         "zh": "用新鲜水果自制美味的雪葩。",
     }
 }

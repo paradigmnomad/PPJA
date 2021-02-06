@@ -39,7 +39,7 @@
         "ja": "ポテトチップスうすしお味",
         "pt": "Batatinhas fritas com sabor de sal",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tuzlu Patates Cipsi",
         "zh": "咸味薯片",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         "ja": "おなじみのポテトチップス。",
         "pt": "Batatas fritas clássicas.",
          // "ru": "",
-         // "tr": "",
-        "zh": "超经典口味的薯片。",
+        "tr": "Bildiğimiz patates cipsi.",
+        "zh": "超经典口味的薯片。"
     }
 }

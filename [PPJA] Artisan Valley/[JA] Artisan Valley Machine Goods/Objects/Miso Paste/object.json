@@ -22,21 +22,20 @@
         "ja": "みそ",
         "pt": "Pasta de Missô",        
         "ru": "Паста мисо",
-         // "tr": "",
+        "tr": "Miso Ezmesi",
         "zh": "味噌酱",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una pasta hecha de soja. Se usa para hacer sopa.",
-        "ko": "대두로 만든 페이스트. 국을 끓일때 사용됩니다.",
-        "de": "Eine Paste aus Sojabohnen. Verwendet, um Suppe zu machen.",
-        "fr": "Une pâte de soja fermenté. Utilisé pour faire de la soupe.",
-        "hu": "Egy szójából készült paszta. Levest készítenek belőle.",
-         // "it": "",
-        "ja": "大豆から作られたペースト。これでスープを作る。",
-        "pt": "Uma pasta feita de soja. Usada para fazer sopas.",
-        "ru": "Паста из соевых бобов. Используется для приготовления супа.",
-         // "tr": "",
-        "zh": "一种由大豆制成的糊状物。用来做汤。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una pasta hecha de soja. Se usa para hacer sopa.",
+    "ko": "대두로 만든 페이스트. 국을 끓일때 사용됩니다.",
+    "de": "Eine Paste aus Sojabohnen. Verwendet, um Suppe zu machen.",
+    "fr": "Une pâte de soja fermenté. Utilisé pour faire de la soupe.",
+    "hu": "Egy szójából készült paszta. Levest készítenek belőle.",
+    // "it": "",
+    "ja": "大豆から作られたペースト。これでスープを作る。",
+    "pt": "Uma pasta feita de soja. Usada para fazer sopas.",
+    "ru": "Паста из соевых бобов. Используется для приготовления супа.",
+    "tr": "Soya fasulyesinden yapılma ezme. Çorba yapımında kullanılır.",
+    "zh": "一种由大豆制成的糊状物。用来做汤。"
+  }
 }

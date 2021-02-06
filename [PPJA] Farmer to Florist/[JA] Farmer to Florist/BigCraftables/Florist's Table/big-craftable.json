@@ -28,7 +28,7 @@
         "ja": "花屋のテーブル",
         "pt": "Meda de Flores",
         "ru": "Стол флориста",
-        // "tr": "",
+        "tr": "Çiçekçinin Masası",
         "zh": "花桌",
     },
     "DescriptionLocalization":
@@ -42,7 +42,7 @@
         "ja": "アレンジメントフラワー用のテーブル（申し訳ありません。ただのインテリアです。）",
         "pt": "Uma mesa onde você pode organizar suas flores! (Desculpe, mas é apenas uma decoração.)",
         "ru": "Место, где вы можете расположить свои цветы! (простите, это просто декорация)",
-        // "tr": "",
+        "tr": "Çiçeklerini düzenleyebileceğin bir masa!(Üzgünüm ama bu sadece dekoratif)",
         "zh": "一张桌子，你可以在那里摆放你的花！（emmm，但其实这只是个装饰。）",
     }
 }

@@ -22,7 +22,7 @@
         "ja": "ドライハーブ",
         "pt": "Ervas Secas",
         "ru": "Сушёные травы",
-         // "tr": "",
+        "tr": "Kurutulmuş Ot",
         "zh": "干草药",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "乾燥ハーブを束にしたもの。",
         "pt": "Um agrupamento de ervas secas.",
         "ru": "Пучок сушёных трав.",
-         // "tr": "",
+        "tr": "Bir demet kurutulmuş ot.",
         "zh": "一束干草药。",
     }
 }

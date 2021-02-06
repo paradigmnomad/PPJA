@@ -23,7 +23,7 @@
         "ja": "糸",
         "pt": "Linha",
         "ru": "Нить",
-         // "tr": "",
+        "tr": "İplik",
         "zh": "线",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "コットンを細く巻いた糸。",
         "pt": "Um carretel de fio fino de algodão.",
         "ru": "Катушка из тонкой хлопковой нити.",
-         // "tr": "",
+        "tr": "Bir makara pamuk ipliği.",
         "zh": "一卷细棉线。",
     }
 }

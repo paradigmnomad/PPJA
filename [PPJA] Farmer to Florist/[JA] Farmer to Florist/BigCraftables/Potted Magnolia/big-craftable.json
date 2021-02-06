@@ -9,17 +9,17 @@
         "Ingredients": [
         {
             "Object": "Magnolia",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 388,
-            "Count": 10,
+            "Count": 10
         },
         {
             "Object": 330,
-            "Count": 10,
-        }, ],
-        "CanPurchase": false,
+            "Count": 10
+        } ],
+        "CanPurchase": false
     },
     "NameLocalization":
     {
@@ -32,21 +32,20 @@
         "ja": "モクレンの鉢植え",
         "pt": "Vaso de Magnólia",
         "ru": "Магнолия в горшке",
-        //"tr": "",
-        "zh": "木兰花盆栽",
+        "tr": "Saksıda Manolya",
+        "zh": "木兰花盆栽"
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un pequeño árbol de magnolia ornamental en una maceta de madera. ¡Recuerda regarla!",
-        "ko": "작은 나무 화분에 심겨진 정말로 작은 장식용 목련 입니다. 물 주는거 잊지마세요!",
-        "de": "Ein kleiner, dekorativer Magnolienbaum in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-        //"fr": "",
-        "hu": "Egy kicsi magnólia cserépben. Ne felejtsd el megöntözni!",
-        //"it": "",
-        "ja": "飾り用にミニサイズのモクレンの木が植えられた木製の小さな鉢。水やりを忘れずに。",
-        "pt": "Um pequeno arbusto de magnólia, em um pequeno vaso de madeira. Lembre-se sempre de regá-lo",
-        "ru": "Крошечное декоративное дерево магнолии в маленьком деревянном горшочке. Не забывайте поливать!",
-        //"tr": "",
-        "zh": "一个小木盆里的木兰花。记得给它浇水！",
-    }
+  "DescriptionLocalization": {
+    "es": "Un pequeño árbol de magnolia ornamental en una maceta de madera. ¡Recuerda regarla!",
+    "ko": "작은 나무 화분에 심겨진 정말로 작은 장식용 목련 입니다. 물 주는거 잊지마세요!",
+    "de": "Ein kleiner, dekorativer Magnolienbaum in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+    //"fr": "",
+    "hu": "Egy kicsi magnólia cserépben. Ne felejtsd el megöntözni!",
+    //"it": "",
+    "ja": "飾り用にミニサイズのモクレンの木が植えられた木製の小さな鉢。水やりを忘れずに。",
+    "pt": "Um pequeno arbusto de magnólia, em um pequeno vaso de madeira. Lembre-se sempre de regá-lo",
+    "ru": "Крошечное декоративное дерево магнолии в маленьком деревянном горшочке. Не забывайте поливать!",
+    "tr": "Küçük tahta bir saksıda süs olsun diye ekilen bir manolya fidanı. Sulamayı unutma!",
+    "zh": "一个小木盆里的木兰花。记得给它浇水！"
+  }
 }

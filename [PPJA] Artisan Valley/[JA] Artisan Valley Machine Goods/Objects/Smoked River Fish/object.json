@@ -23,22 +23,21 @@
         "pt": "Peixe Defumado de Rio",
         "ru": "Копчёная речная рыба",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tütsülenmiş Nehir Balığı",
         "zh": "烟熏河鱼",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un plato sencillo de pescado de río ahumado. Ahumado por horas.",
-        "ko": "간단한 강 훈제어. 훈제하는데 몇 시간이 소요됩니다.",
-        "de": "Ein einfaches Gericht mit über Stunden geräuchertem Flussfisch.",
-        "fr": "Un simple plat fait avec un poisson de rivière fumé. Il a été enfumé pendant des heures.",
-        "hu": "Egy egyszerű étel füstölt folyami halból. Órákig füstölték",
-        // "it": "",
-        "ja": "シンプルな魚のくん製。時間をかけていぶした。",
-        "pt": "Uma iguaria simples de peixe defumado de rio. Foi defumado por várias horas.",
-        "ru": "Простое блюдо из копчёной речной рыбы. Коптилось часами.",
-        // "ru": "",
-        // "tr": "",
-        "zh": "一盘简单的熏河鱼。它已经被熏制好几个小时了。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un plato sencillo de pescado de río ahumado. Ahumado por horas.",
+    "ko": "간단한 강 훈제어. 훈제하는데 몇 시간이 소요됩니다.",
+    "de": "Ein einfaches Gericht mit über Stunden geräuchertem Flussfisch.",
+    "fr": "Un simple plat fait avec un poisson de rivière fumé. Il a été enfumé pendant des heures.",
+    "hu": "Egy egyszerű étel füstölt folyami halból. Órákig füstölték",
+    // "it": "",
+    "ja": "シンプルな魚のくん製。時間をかけていぶした。",
+    "pt": "Uma iguaria simples de peixe defumado de rio. Foi defumado por várias horas.",
+    "ru": "Простое блюдо из копчёной речной рыбы. Коптилось часами.",
+    // "ru": "",
+    "tr": "Bir tabak tütsülenmiş nehir balığı. Saatlerce tütsülendi.",
+    "zh": "一盘简单的熏河鱼。它已经被熏制好几个小时了。"
+  }
 }

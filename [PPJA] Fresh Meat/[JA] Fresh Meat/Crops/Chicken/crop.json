@@ -29,7 +29,7 @@
         "ja": "鶏肉の種",
         "pt": "Sementes de... Frango?",
         "ru": "Семена курятины",
-        // "tr": "",
+        "tr": "Tavuk Asması Tohumu",
         "zh": "鸡肉种子",
     },
     "SeedDescriptionLocalization":
@@ -43,7 +43,7 @@
         "ja": "春と夏植えの作物。8日で収穫できる。",
         "pt": "Plante-as na primavera ou no verão. Demoram 8 dias para amadurecer.",
         "ru": "Сажайте весной или летом. Вырастает через 8 дней.",
-        // "tr": "",
+        "tr": "Baharda veya yazın ekilir. 8 günde yetişir.",
         "zh": "春天或夏天播种。8天成熟。",
     },
 }

@@ -23,21 +23,20 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Konserve Ton Balığı",
          "zh": "金枪鱼罐头",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Sería genial usarlo en un sandwich de atún con queso. Mmmm, sandwich de atún con queso.",
-        "ko": "음, 참치가 살살 녹습니다.",
-        // "de": "",
-        "fr": "Ce serait génial de s'en servir dans un sandwich au thon. Mmh, un sandwich au thon...",
-        "hu": "Alkalmas tonhalas szendvics készítésére. Mmmm tonhalas szendvics.",
-        // "it": "",
-        // "ja": "",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "它被用于热金枪鱼三明治上一定会很棒。嗯....融化的金枪鱼三明治。",
-    }
+  "DescriptionLocalization": {
+    "es": "Sería genial usarlo en un sandwich de atún con queso. Mmmm, sandwich de atún con queso.",
+    "ko": "음, 참치가 살살 녹습니다.",
+    // "de": "",
+    "fr": "Ce serait génial de s'en servir dans un sandwich au thon. Mmh, un sandwich au thon...",
+    "hu": "Alkalmas tonhalas szendvics készítésére. Mmmm tonhalas szendvics.",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Ton balıklı sandviçte kullanmak için harika olur. Mmmm ton balıklı sandviç.",
+    "zh": "它被用于热金枪鱼三明治上一定会很棒。嗯....融化的金枪鱼三明治。"
+  }
 }

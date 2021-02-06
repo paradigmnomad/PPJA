@@ -32,21 +32,20 @@
         "ja": "バニララテ",
         "pt": "Latte de Baunilha",        
         "ru": "Ванильный латте",
-         // "tr": "",
+        "tr": "Vanilyalı Latte",
         "zh": "香草拿铁",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Fresca, permufada vainilla en una bebida clásica.",
-        "ko": "신선하고, 향기로운 바닐라.",
-        "de": "Frische, duftende Vanille in einem klassischen Getränk.",
-        "fr": "Frais, le parfum vanille dans une boisson classique.",
-        "hu": "Friss, illatos vanília egy klasszikus italban.",
-         // "it": "",
-        "ja": "新鮮で香り高いバニラをお馴染みの飲み物に。",
-        "pt": "Baunilha fresca e perfumada em uma bebida clássica.",
-        "ru": "Свежая ароматная ваниль в классическом напитке.",
-         // "tr": "",
-        "zh": "加入了新鲜芬芳的香草的经典饮品。",
-    }
+  "DescriptionLocalization": {
+    "es": "Fresca, permufada vainilla en una bebida clásica.",
+    "ko": "신선하고, 향기로운 바닐라.",
+    "de": "Frische, duftende Vanille in einem klassischen Getränk.",
+    "fr": "Frais, le parfum vanille dans une boisson classique.",
+    "hu": "Friss, illatos vanília egy klasszikus italban.",
+    // "it": "",
+    "ja": "新鮮で香り高いバニラをお馴染みの飲み物に。",
+    "pt": "Baunilha fresca e perfumada em uma bebida clássica.",
+    "ru": "Свежая ароматная ваниль в классическом напитке.",
+    "tr": "Klasik bir içeceğin için taze, kokulu vanilya.",
+    "zh": "加入了新鲜芬芳的香草的经典饮品。"
+  }
 }

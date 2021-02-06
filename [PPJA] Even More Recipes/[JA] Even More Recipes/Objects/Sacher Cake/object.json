@@ -43,20 +43,19 @@
         "PurchasePrice": 1900,
         "PurchaseRequirements": ["HasCookingRecipe Chocolate", "y 4"],
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        "ja": "ザッハトルテ",
-        "pt": "Sachertorte",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    },
+  "NameLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    "ja": "ザッハトルテ",
+    "pt": "Sachertorte",
+    // "ru": "",
+    "tr": "Sacher Turtası",
+    // "zh": "",
+  },
     "DescriptionLocalization":
     {
         // "es": "",
@@ -68,7 +67,7 @@
         "ja": "世界でもっとも有名なケーキ。",
         "pt": "O bolo mais famoso do mundo.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Dünyanın en ünlü keki.",
         // "zh": "",
     }
 }

@@ -44,7 +44,7 @@
         "ja": "サーモンの切り身",
         "pt": "Filé de Salmão",
         // "ru": "",
-        // "tr": "",
+        "tr": "Somon Fileto",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -58,7 +58,7 @@
         "ja": "新鮮なサーモンの切り身。",
         "pt": "Um filé de salmão recém-capturado.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Taze yakalanmış somonun filetosu.",
         // "zh": "",
     }
 }

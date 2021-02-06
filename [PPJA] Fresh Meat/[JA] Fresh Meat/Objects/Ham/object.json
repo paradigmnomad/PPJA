@@ -36,7 +36,7 @@
         "ja": "ハム",
         "pt": "Presunto",
         "ru": "Ветчина",
-        // "tr": "",
+        "tr": "Jambon",
         "zh": "火腿",
     },
     "DescriptionLocalization":
@@ -50,7 +50,7 @@
         "ja": "ジューシーな豚肉。",
         "pt": "Um suculento corte de carne de porco.",
         "ru": "Сочный срез свинины.",
-        // "tr": "",
+        "tr": "Kocaman sulu bir domuz eti parçası.",
         "zh": "火腿。由猪肉组成。",
     }
 }

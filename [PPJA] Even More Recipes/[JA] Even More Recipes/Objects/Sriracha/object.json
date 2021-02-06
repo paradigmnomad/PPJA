@@ -48,7 +48,7 @@
         "ja": "シラチャーソース",
         "pt": "Molho sriracha",
          // "ru": "",
-         // "tr": "",
+        "tr": "Sriracha Sosu",
         "zh": "”红公鸡“辣椒酱",
     },
     "DescriptionLocalization":
@@ -62,7 +62,7 @@
         "ja": "より辛いソース。",
         "pt": "Um molho ainda mais picante.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çok daha acı bir sos.",
         "zh": "这是一种非常辣的辣酱。",
     }
 }

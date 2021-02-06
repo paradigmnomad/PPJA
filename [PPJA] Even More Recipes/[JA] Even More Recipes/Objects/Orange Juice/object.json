@@ -39,7 +39,7 @@
         "ja": "オレンジジュース",
         "pt": "Suco de laranja",
          // "ru": "",
-         // "tr": "",
+        "tr": "Portakal Suyu",
         "zh": "橙汁",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         "ja": "絞りたてのオレンジジュース！",
         "pt": "Suco de laranja espremido na hora!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Taze sıkılmış portakal suyu!",
         "zh": "鲜榨橙汁！",
     }
 }

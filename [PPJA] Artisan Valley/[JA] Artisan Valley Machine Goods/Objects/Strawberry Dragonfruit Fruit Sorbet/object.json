@@ -24,21 +24,20 @@
         "ja": "イチゴとドラゴンフルーツのシャーベット",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Çilekli Ejderha Meyveli Meyve Şerbeti",
         "zh": "草莓火龙果果汁雪葩",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "딸기, 용과, 감귤로 만든 상큼한 과일 셔벗.",
-        // "de": "",
-        "fr": "Un sorbet rafraîchissant fait à partir de framboises, fruit du dragon et citron.",
-        "hu": "Egy frissítő gyümölcs sörbet eperből, sárkánygyümölcsből, és citrusból.",
-        // "it": "",
-        "ja": "イチゴとドラゴンフルーツとかんきつ類を使った、さわやかなシャーベット。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "由草莓、火龙果和几种柑橘类水果制成的清爽雪葩。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "딸기, 용과, 감귤로 만든 상큼한 과일 셔벗.",
+    // "de": "",
+    "fr": "Un sorbet rafraîchissant fait à partir de framboises, fruit du dragon et citron.",
+    "hu": "Egy frissítő gyümölcs sörbet eperből, sárkánygyümölcsből, és citrusból.",
+    // "it": "",
+    "ja": "イチゴとドラゴンフルーツとかんきつ類を使った、さわやかなシャーベット。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Çilek, ejder meyvesi ve limondan yapılan ferahlatıcı bir şerbet.",
+    "zh": "由草莓、火龙果和几种柑橘类水果制成的清爽雪葩。"
+  }
 }

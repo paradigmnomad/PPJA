@@ -43,7 +43,7 @@
         "ja": "ラーメン",
         "pt": "Miojo",
          // "ru": "",
-         // "tr": "",
+        "tr": "Ramen",
         "zh": "拉面",
     },
     "DescriptionLocalization":
@@ -57,7 +57,7 @@
         "ja": "少し歯ごたえのある麺を使ったシンプルな料理。",
         "pt": "Um prato simples com macarrão levemente mastigável.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Biraz sert noodle'ları olan basit bir yemek.",
         "zh": "一份简单的菜肴。",
     }
 }

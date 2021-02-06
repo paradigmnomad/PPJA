@@ -45,32 +45,30 @@
             "y 2",
         ]
     },
-    "NameLocalization":
-    {
-        "es": "Muffin otoñal",
-        "ko": "가을 머핀",
-        "de": "Herbst Muffin",
-        "fr": "Muffin d'automne",
-        "hu": "Őszi muffin",
-        // "it": "",
-        "ja": "オータムマフィン",
-        "pt": "Muffin de Outono",
-        // "ru": "",
-        // "tr": "",
-        "zh": "秋日松饼",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Un panecillo que está cubierto con azúcar en polvo.",
-        "ko": "슈가 파우더를 뿌린 머핀.",
-        "de": "Ein dekadenter Muffin bedeckt mit Puderzucker.",
-        "fr": "Un muffin en déclin recouvert de sucre glace.",
-        "hu": "Egy dekandens muffin porcukorral lehintve.",
-        // "it": "",
-        "ja": "粉砂糖をトッピングした魅惑的なマフィン。",
-        "pt": "Um bolinho decadente coberto com açúcar em pó.",
-        // "ru": "",
-        // "tr": "",
-        "zh": "一个上面撒满糖粉的软塌塌松饼。",
-    }
+  "NameLocalization": {
+    "es": "Muffin otoñal",
+    "ko": "가을 머핀",
+    "de": "Herbst Muffin",
+    "fr": "Muffin d'automne",
+    "hu": "Őszi muffin",
+    // "it": "",
+    "ja": "オータムマフィン",
+    "pt": "Muffin de Outono",
+    // "ru": "",
+    "tr": "Güz Keki",
+    "zh": "秋日松饼"
+  },
+  "DescriptionLocalization": {
+    "es": "Un panecillo que está cubierto con azúcar en polvo.",
+    "ko": "슈가 파우더를 뿌린 머핀.",
+    "de": "Ein dekadenter Muffin bedeckt mit Puderzucker.",
+    "fr": "Un muffin en déclin recouvert de sucre glace.",
+    "hu": "Egy dekandens muffin porcukorral lehintve.",
+    // "it": "",
+    "ja": "粉砂糖をトッピングした魅惑的なマフィン。",
+    "pt": "Um bolinho decadente coberto com açúcar em pó.",
+    // "ru": "",
+    "tr": "Üstü pudra şekeriyle süslenmiş decadent bir kek.",
+    "zh": "一个上面撒满糖粉的软塌塌松饼。"
+  }
 }

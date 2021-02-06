@@ -33,7 +33,7 @@
         "ja": "DNAシンセサイザー",
          "pt": "Sintetizador de DNA",
         // "ru": "",
-        // "tr": "",
+         "tr": "DNA Sentezleyici",
          "zh": "DNA离析机",
     },
     "DescriptionLocalization":
@@ -45,9 +45,9 @@
         "hu": "Ez a legmodernebb gép a farmon. Állatok termékeiből tudsz előállítani DNS-t vele.",
         // "it": "",
         "ja": "農業用ハイテクマシン。製品から動物のDNAを採取する。",
-         "pt": "É a máquina mais de alta tecnologia da fazenda. Use-o para criar DNA animal a partir de produtos.",
+        "pt": "É a máquina mais de alta tecnologia da fazenda. Use-o para criar DNA animal a partir de produtos.",
         // "ru": "",
-        // "tr": "",
-         "zh": "这是农场里最高科技的机器。用它从产品中分离动物DNA。",
+        "tr": "Çiftlikteki en yüksek teknolojiye sahip makine. Ürünlerden hayvan DNA'sı çıkartmak için kullanılır.",
+        "zh": "这是农场里最高科技的机器。用它从产品中分离动物DNA。",
     }
 }

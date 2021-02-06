@@ -39,7 +39,7 @@
         "ja": "調理済み豚肉",
         "pt": "Porco cozido",
         "ru": "Приготовленная свинина",
-        // "tr": "",
+        "tr": "Pişmiş Domuz Eti",
         "zh": "熟猪肉",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         "ja": "脂身を取り除いた豚肉。何時間も煮込んであってすぐにレシピで使えます。",
         "pt": "Um corte gordo de porco. Esteve cozinhando por horas. Está pronto para ser usado em uma receita agora.",
         "ru": "Жирный кусок свинины. Запекался часами и теперь готов к использованию.",
-        // "tr": "",
+        "tr": "Yağlı domuz eti, zaten pişmiş ve tariflerde kullanıma hazır.",
         "zh": "一块肥美的猪肉。已经煮了好几个小时了。可以用来进一步烹饪。",
     },
     "ContextTags": [

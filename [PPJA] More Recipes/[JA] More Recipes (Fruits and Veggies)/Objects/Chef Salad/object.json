@@ -40,32 +40,30 @@
         "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Ensalada del chef",
-        "ko": "셰프의 샐러드",
-        "de": "Chefsalat",
-        "fr": "Salade du chef",
-         // "hu": "",
-         // "it": "",
-        "ja": "シェフサラダ",
-        "pt": "Salada do chef",
-        "ru": "Салат шефа",
-         // "tr": "",
-        "zh": "主厨沙拉",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "La elección del chef en ensaladas.",
-        "ko": "셰프가 선택한 샐러드.",
-        "de": "Ein grüner Salat. Chefsache!",
-        "fr": "La salade approuvée par le chef !",
-         // "hu": "",
-         // "it": "",
-        "ja": "シェフ厳選のサラダ。",
-        "pt": "A escolha de saladas do chef.",
-        "ru": "Выбор шеф-повара.",
-         // "tr": "",
-        "zh": "主厨沙拉。主厨选择的沙拉。",
-    }
+  "NameLocalization": {
+    "es": "Ensalada del chef",
+    "ko": "셰프의 샐러드",
+    "de": "Chefsalat",
+    "fr": "Salade du chef",
+    // "hu": "",
+    // "it": "",
+    "ja": "シェフサラダ",
+    "pt": "Salada do chef",
+    "ru": "Салат шефа",
+    "tr": "Şef Salatası",
+    "zh": "主厨沙拉"
+  },
+  "DescriptionLocalization": {
+    "es": "La elección del chef en ensaladas.",
+    "ko": "셰프가 선택한 샐러드.",
+    "de": "Ein grüner Salat. Chefsache!",
+    "fr": "La salade approuvée par le chef !",
+    // "hu": "",
+    // "it": "",
+    "ja": "シェフ厳選のサラダ。",
+    "pt": "A escolha de saladas do chef.",
+    "ru": "Выбор шеф-повара.",
+    "tr": "Şefin salata seçimi.",
+    "zh": "主厨沙拉。主厨选择的沙拉。"
+  }
 }

@@ -22,7 +22,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Anka Eti",
          "zh": "凤凰肉",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Aslında çiğ, ama ankadan kesilen bu et cayır cayır yanıyor.",
          "zh": "这块凤凰肉是生的，但它从切下来的时候就很烫。",
     },    
     "DisableWithMod": "HadiZosa.BFAVnewmeat"

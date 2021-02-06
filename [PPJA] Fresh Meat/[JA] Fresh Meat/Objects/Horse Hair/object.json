@@ -22,7 +22,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "At Kılı",
         "zh": "马鬃",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Atın yelesinden ve kuyruğundan alınan kıllar.",
         "zh": "马尾巴和鬃毛上的毛发。",
     }
 }

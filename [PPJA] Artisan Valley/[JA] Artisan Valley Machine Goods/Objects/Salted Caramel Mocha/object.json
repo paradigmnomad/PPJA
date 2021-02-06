@@ -32,21 +32,20 @@
         "ja": "塩キャラメルモカ",
         "pt": "Mocha de Caramelo Salgado",
         "ru": "Солёное карамельное мокко",
-         // "tr": "",
+        "tr": "Tuzlu Karamel Mocha",
         "zh": "咸焦糖摩卡",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Los sabores salados y dulces se mezclan maravillosamente.",
-        "ko": "단짠단짠의 완벽한 조합.",
-        "de": "Die salzigen und süßen Aromen vermischen sich wunderbar.",
-        "fr": "Les goûts sucré et salé se marrient superbement.",
-        "hu": "A sós és az édes ízek tökéletesen mennek együtt.",
-         // "it": "",
-        "ja": "塩味と甘味が見事に調和している。",
-        "pt": "Os sabores salgados e doces se juntam maravilhosamente.",        
-        "ru": "Солёные и сладкие вкусы, прекрасно смешанные друг с другом.",
-         // "tr": "",
-        "zh": "咸和甜的味道完美地融合在一起。",
-    }
+  "DescriptionLocalization": {
+    "es": "Los sabores salados y dulces se mezclan maravillosamente.",
+    "ko": "단짠단짠의 완벽한 조합.",
+    "de": "Die salzigen und süßen Aromen vermischen sich wunderbar.",
+    "fr": "Les goûts sucré et salé se marrient superbement.",
+    "hu": "A sós és az édes ízek tökéletesen mennek együtt.",
+    // "it": "",
+    "ja": "塩味と甘味が見事に調和している。",
+    "pt": "Os sabores salgados e doces se juntam maravilhosamente.",
+    "ru": "Солёные и сладкие вкусы, прекрасно смешанные друг с другом.",
+    "tr": "Tuzlu ve tatlı tatlar inanılmaz şekilde birbirine karışmış.",
+    "zh": "咸和甜的味道完美地融合在一起。"
+  }
 }

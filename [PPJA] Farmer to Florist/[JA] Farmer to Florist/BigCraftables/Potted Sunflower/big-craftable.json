@@ -9,17 +9,17 @@
         "Ingredients": [
         {
             "Object": 421,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 388,
-            "Count": 10,
+            "Count": 10
         },
         {
             "Object": 330,
-            "Count": 10,
-        }, ],
-        "CanPurchase": false,
+            "Count": 10
+        } ],
+        "CanPurchase": false
     },
     "NameLocalization":
     {
@@ -32,21 +32,20 @@
         "ja": "ヒマワリの鉢植え",
         "pt": "Vaso de girassol",
         "ru": "Подсолнух в горшке",
-        //"tr": "",
-        "zh": "向日葵盆栽",
+        "tr": "Saksıda Ayçiçeği",
+        "zh": "向日葵盆栽"
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un girasol en una pequeña maceta de madera. ¡Recuerda regarlo!",
-        "ko": "작은 나무 화분에 심겨진 해바라기 입니다. 물 주는거 잊지마세요!",
-        "de": "Eine Sonnenblume in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-        //"fr": "",
-        "hu": "Egy napraforgó cserépben. Ne felejtsd el megöntözni!",
-        //"it": "",
-        "ja": "ヒマワリが植えられた木製の小さな鉢。水やりを忘れずに。",
-        "pt": "Um girassol em um pequeno vaso de madeira. Lembre-se sempre de regá-lo!",
-        "ru": "Подсолнух в маленьком деревянном горшочке. Не забывайте поливать!",
-        //"tr": "",
-        "zh": "一个小木盆里的向日葵。记得给它浇水！",
-    }
+  "DescriptionLocalization": {
+    "es": "Un girasol en una pequeña maceta de madera. ¡Recuerda regarlo!",
+    "ko": "작은 나무 화분에 심겨진 해바라기 입니다. 물 주는거 잊지마세요!",
+    "de": "Eine Sonnenblume in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+    //"fr": "",
+    "hu": "Egy napraforgó cserépben. Ne felejtsd el megöntözni!",
+    //"it": "",
+    "ja": "ヒマワリが植えられた木製の小さな鉢。水やりを忘れずに。",
+    "pt": "Um girassol em um pequeno vaso de madeira. Lembre-se sempre de regá-lo!",
+    "ru": "Подсолнух в маленьком деревянном горшочке. Не забывайте поливать!",
+    "tr": "Küçük tahta bir saksıda bir ayçiçeği. Sulamayı unutma!",
+    "zh": "一个小木盆里的向日葵。记得给它浇水！"
+  }
 }

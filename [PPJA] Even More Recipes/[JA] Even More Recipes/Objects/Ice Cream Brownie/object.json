@@ -45,7 +45,7 @@
         "ja": "アイスクリームブラウニー",
         "pt": "Brownie de sorvete",
          // "ru": "",
-         // "tr": "",
+        "tr": "Dondurmalı Brownie",
         "zh": "冰淇淋布朗尼",
     },
     "DescriptionLocalization":
@@ -59,7 +59,7 @@
         "ja": "おいしいおやつ！",
         "pt": "Um deleite gostoso e quente!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Leziz ve ılık bir atıştırmalık!",
         "zh": "超好吃的，温暖的甜点！",
     }
 }

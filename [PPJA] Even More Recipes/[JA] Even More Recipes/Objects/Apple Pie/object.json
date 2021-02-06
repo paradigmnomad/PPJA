@@ -41,32 +41,30 @@
         "PurchasePrice": 2600,
         "PurchaseRequirements": ["y 2", ],
     },
-    "NameLocalization":
-    {
-        "es": "Tarta de manzana",
-        "ko": "애플 파이",
-        "de": "Apfelkuchen",
-        "fr": "Tarte aux pommes",
-        "hu": "Almás pite",
-        // "it": "",
-        "ja": "アップルパイ",
-        "pt": "Torta de maçã",
-        // "ru": "",
-        // "tr": "",
-        "zh": "苹果派",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Un delicioso pastel hecho con manzana y canela.",
-        "ko": "사과와 시나몬으로 만든 맛있는 파이.",
-        "de": "Ein schmackhafter Kuchen mit Äpfeln und Zimt.",
-        "fr": "Une tarte délicieuse faite de pommes et de cannelle.",
-        "hu": "Egy isteni pite almával, és fahéjjal.",
-        // "it": "",
-        "ja": "リンゴとシナモンで作ったおいしいパイ。",
-        "pt": "Uma deliciosa torta feita com maçãs e canela.",
-        // "ru": "",
-        // "tr": "",
-        "zh": "用苹果和肉桂做成的美味甜点。",
-    }
+  "NameLocalization": {
+    "es": "Tarta de manzana",
+    "ko": "애플 파이",
+    "de": "Apfelkuchen",
+    "fr": "Tarte aux pommes",
+    "hu": "Almás pite",
+    // "it": "",
+    "ja": "アップルパイ",
+    "pt": "Torta de maçã",
+    // "ru": "",
+    "tr": "Elmalı Turta",
+    "zh": "苹果派"
+  },
+  "DescriptionLocalization": {
+    "es": "Un delicioso pastel hecho con manzana y canela.",
+    "ko": "사과와 시나몬으로 만든 맛있는 파이.",
+    "de": "Ein schmackhafter Kuchen mit Äpfeln und Zimt.",
+    "fr": "Une tarte délicieuse faite de pommes et de cannelle.",
+    "hu": "Egy isteni pite almával, és fahéjjal.",
+    // "it": "",
+    "ja": "リンゴとシナモンで作ったおいしいパイ。",
+    "pt": "Uma deliciosa torta feita com maçãs e canela.",
+    // "ru": "",
+    "tr": "Elma ve tarçınla yapılmış leziz bir turta.",
+    "zh": "用苹果和肉桂做成的美味甜点。"
+  }
 }

@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Konserve Et",
          "zh": "肉罐头",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Kimse bunu gerçekten seviyor mu? Güveçte kullanmak için iyi ama mangal için değil.",
          "zh": "有人喜欢这个玩意吗？它适合炖菜，但不适合烧烤。",
     }
 }

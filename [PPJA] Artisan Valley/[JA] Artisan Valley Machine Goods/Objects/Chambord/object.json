@@ -44,7 +44,7 @@
         "ja": "シャンボール・リキュール",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Chambord",
         "zh": "香博树莓利口酒",
     },
     "DescriptionLocalization":
@@ -58,7 +58,7 @@
         "ja": "ラズベリーから蒸留された甘いお酒。",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Ahududulardan damıtılan bir içecek.",
         "zh": "一种用树莓蒸馏而成的甜酒。",
     }
 

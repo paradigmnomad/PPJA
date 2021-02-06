@@ -55,7 +55,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Deniz Ürünü Etsuyu",
         "zh": "海鲜高汤",
     },
     "DescriptionLocalization":
@@ -69,7 +69,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+       "tr": "Normalde çorba ana malzemesi olarak kullanılan bu etsuyu, burada güveç yapılmış.",
         "zh": "炖煮的海鲜高汤，常用作汤底。",
     }
 }

@@ -23,7 +23,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Konserve Balık",
          "zh": "鱼肉罐头",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Konservede bir balık",
          "zh": "一听新鲜的鱼肉罐头。",
     }
 }

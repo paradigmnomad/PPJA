@@ -1,6 +1,6 @@
 {
     "Name": "Meuniere",
-    "Description": "Fish fillets lightly dusted in flower then sauteed in butter.",
+    "Description": "Fish fillets lightly dusted in flour then sauteed in butter.",
     "Category": "Cooking",
     "Edibility": 55,
     "EdibleIsDrink": false,
@@ -42,7 +42,7 @@
         "ja": "ムニエル",
         "pt": "Meuniere",
         // "ru": "",
-        // "tr": "",
+        "tr": "Menüer Sos",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -56,7 +56,7 @@
         "ja": "魚の切り身にコムギ粉を軽くまぶしバターで炒める。",
         "pt": "filés de peixes levemente enfarinhados, em seguida, refogado em manteiga",
         // "ru": "",
-        // "tr": "",
+        "tr": "Balık filetolar önce unlanıp sonra tereyağına doyurulmuş.",
         // "zh": "",
     }
 }

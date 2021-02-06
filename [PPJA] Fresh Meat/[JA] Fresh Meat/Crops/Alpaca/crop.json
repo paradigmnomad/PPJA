@@ -30,7 +30,7 @@
         // "ja": "",
          "pt": "Sementes de Alpaca",
         // "ru": "",
-        // "tr": "",
+         "tr": "Alpaka Tohumu",
          "zh": "羊驼肉种子",
     },
     "SeedDescriptionLocalization":
@@ -44,7 +44,7 @@
         // "ja": "",
          "pt": "Plante isso no verão. Leva 11 dias para amadurecer.",
         // "ru": "",
-        // "tr": "",
+         "tr": "Yazın ekilir. 11 günde yetişir.",
          "zh": "夏天播种。11天成熟。",
     },
 }

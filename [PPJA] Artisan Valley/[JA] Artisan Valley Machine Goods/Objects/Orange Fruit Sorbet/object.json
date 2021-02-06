@@ -18,26 +18,25 @@
         "ko": "오렌지 과일 셔벗",
         // "de": "",
         "fr": "Sorbet à l'orange",
-       "hu": "Narancs sörbet",
+        "hu": "Narancs sörbet",
         // "it": "",
         "ja": "オレンジシャーベット",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "橙汁雪葩",
+        "tr": "Portakallı Şerbet",
+        "zh": "橙汁雪葩",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "오렌지와 레몬으로 만든 상큼한 과일 셔벗.",
-        // "de": "",
-        "fr": "Un sorbet rafraîchissant fait à partir d'oranges et de citron.",
-       "hu": "Egy frissítő gyümölcs sörbet, narancsból és citromból.",
-        // "it": "",
-        "ja": "オレンジとレモンを使った、さわやかなフルーツシャーベット。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "由橙子和柠檬制成的清爽水果雪葩。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "오렌지와 레몬으로 만든 상큼한 과일 셔벗.",
+    // "de": "",
+    "fr": "Un sorbet rafraîchissant fait à partir d'oranges et de citron.",
+    "hu": "Egy frissítő gyümölcs sörbet, narancsból és citromból.",
+    // "it": "",
+    "ja": "オレンジとレモンを使った、さわやかなフルーツシャーベット。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Portakal ve limondan yapılan ferahlatıcı bir meyve şerbeti.",
+    "zh": "由橙子和柠檬制成的清爽水果雪葩。"
+  }
 }

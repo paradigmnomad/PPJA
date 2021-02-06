@@ -23,7 +23,7 @@
         // "ja": "",
         "pt": "DNA de pássaro",
         // "ru": "",
-        // "tr": "",
+         "tr": "Kuş DNA'sı",
          "zh": "鸟类DNA",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         // "ja": "",
          "pt": "Um pouco de DNA de pássaro. É extraído de vários produtos.",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bir kuşun DNA'sı. Birçok üründen temin edilebilir.",
          "zh": "一些鸟类的DNA。它是从各种产品中提取的。",
     },
     "ContextTags": [

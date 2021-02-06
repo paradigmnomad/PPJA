@@ -17,8 +17,8 @@
         "ja": "フルーティーソープ",
         "pt": "Sabonete Frutados",
         "ru": "Фруктовое мыло",
-        // "tr": "",
-        "zh": "果味香皂",
+        "tr": "Meyveli Sabun",
+        "zh": "果味香皂"
     },
     "DescriptionLocalization":
     {
@@ -31,7 +31,7 @@
         "ja": "ハンドメイドの石けんバー。果物の香り付き。",
         "pt": "Uma barra de sabão caseiro. Cheira a fruta",
         "ru": "Кусок домашнего мыла, пахнущий фруктами.",
-        // "tr": "",
-        "zh": "一块自制肥皂。闻起来是水果味。",
+        "tr": "Ev yapımı kalıp sabun. Meyve gibi kokuyor.",
+        "zh": "一块自制肥皂。闻起来是水果味。"
     }
 }

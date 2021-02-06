@@ -21,21 +21,20 @@
         "ja": "抹茶粉",
         "pt": "Pó de Matcha",
         "ru": "Маття-порошок",
-         // "tr": "",
+        "tr": "Maça Tozu",
         "zh": "抹茶粉",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Contiene muchos antioxidantes. No dura mucho tiempo frescos.",
-        "ko": "항산화제가 많이 들어있습니다. 신선할 때 만들면, 오래 지속되지 않습니다.",
-        "de": "Es enthält viele Antioxidantien. Wenn frisch gemacht, hält es sich nicht lange.",
-        "fr": "Contient beaucoup d'antioxydants. Lorsqu'elle est fraîche, elle ne dure pas longtemps.",
-        "hu": "Sok antioxidánst tartalmaz. Nem áll el sokáig, ha frissen készítették.",
-         // "it": "",
-        "ja": "抗酸化物質が沢山含まれている。生のままだと長持ちしない。",
-        "pt": "Contém muios antioxidantes. Quando feito fresco, não dura muito tempo.",        
-        "ru": "Содержит много антиоксидантов. Долго не хранится.",
-         // "tr": "",
-        "zh": "当它刚被制造出来的时候含有大量的抗氧化剂，它的新鲜度不会持续太久。",
-    }
+  "DescriptionLocalization": {
+    "es": "Contiene muchos antioxidantes. No dura mucho tiempo frescos.",
+    "ko": "항산화제가 많이 들어있습니다. 신선할 때 만들면, 오래 지속되지 않습니다.",
+    "de": "Es enthält viele Antioxidantien. Wenn frisch gemacht, hält es sich nicht lange.",
+    "fr": "Contient beaucoup d'antioxydants. Lorsqu'elle est fraîche, elle ne dure pas longtemps.",
+    "hu": "Sok antioxidánst tartalmaz. Nem áll el sokáig, ha frissen készítették.",
+    // "it": "",
+    "ja": "抗酸化物質が沢山含まれている。生のままだと長持ちしない。",
+    "pt": "Contém muios antioxidantes. Quando feito fresco, não dura muito tempo.",
+    "ru": "Содержит много антиоксидантов. Долго не хранится.",
+    "tr": "Birçok antioksidan içeriyor. Taze yapıldığında çok dayanmaz.",
+    "zh": "当它刚被制造出来的时候含有大量的抗氧化剂，它的新鲜度不会持续太久。"
+  }
 }

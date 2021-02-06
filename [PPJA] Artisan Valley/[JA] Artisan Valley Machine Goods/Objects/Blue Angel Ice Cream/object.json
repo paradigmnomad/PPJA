@@ -23,7 +23,7 @@
         "ja": "ブルーエンジェルアイスクリーム",
         "pt": "Sorvete Anjo Azul",
         // "ru": "",
-        // "tr": "",
+        "tr": "Melek Mavisi Dondurma",
         "zh": "蓝天使冰淇淋",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "ブルーベリーとペパーミントでつくった天国産のアイス。",
         "pt": "Especialidade celestial composta de mirtilos e hortelã-pimenta.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Nane şekerli ve yabanmersinli, cennetten gelmiş gibi bir spesyal.",
         "zh": "由蓝莓和薄荷组成的天堂特产。",
     }
 }

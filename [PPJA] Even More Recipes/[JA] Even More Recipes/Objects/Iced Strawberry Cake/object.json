@@ -41,20 +41,19 @@
         "Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
         "Dislike": ["Krobus", "Sebastian", "Willy"],
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        "ko": "아이스 딸기 케이크",
-        // "de": "",
-        "fr": "Gâteau glacé à la fraise",
-        // "hu": "",
-        // "it": "",
-        "ja": "ストロベリーアイスケーキ",
-        "pt": "Bolo de Morango Gelado",
-        // "ru": "",
-        // "tr": "",
-        "zh": "冰镇草莓蛋糕",
-    },
+  "NameLocalization": {
+    // "es": "",
+    "ko": "아이스 딸기 케이크",
+    // "de": "",
+    "fr": "Gâteau glacé à la fraise",
+    // "hu": "",
+    // "it": "",
+    "ja": "ストロベリーアイスケーキ",
+    "pt": "Bolo de Morango Gelado",
+    // "ru": "",
+    "tr": "Buzlu Çilekli Pasta",
+    "zh": "冰镇草莓蛋糕"
+  },
     "DescriptionLocalization":
     {
         // "es": "",
@@ -66,7 +65,7 @@
         "ja": "とてもおいしい！イチゴがたっぷり。",
         "pt": "Tem um gosto tão gostoso! Deve haver muitos morangos aqui.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tadı çok leziz! İçinde muhtemelen bir sürü çilek olmalı.",
         "zh": "它尝起来好好吃！这里面一定有很多草莓。",
     },
 }

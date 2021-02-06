@@ -34,32 +34,30 @@
         "PurchasePrice": 2000,
         "PurchaseRequirements": ["HasCookingRecipe Sausage Mustard", "y 4"],
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Churrasco de Salsicha",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Uma salsicha assada, servida com mostarda.",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "NameLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Churrasco de Salsicha",
+    // "ru": "",
+    "tr": "Barbekü Sosis"
+    // "zh": "",
+  },
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Uma salsicha assada, servida com mostarda.",
+    // "ru": "",
+    "tr": "Barbeküde piþirilmiþ sosis, yanýnda hardalla servis edilir."
+    // "zh": "",
+  }
 }

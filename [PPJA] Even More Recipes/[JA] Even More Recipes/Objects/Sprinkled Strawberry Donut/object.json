@@ -55,7 +55,7 @@
         "ja": "スプリンクルイチゴドーナツ",
         "pt": "Donut de morango com granulado",
          // "ru": "",
-         // "tr": "",
+        "tr": "Üstü Şekerlemeli Çilekli Donut",
         "zh": "砂糖草莓甜甜圈",
     },
     "DescriptionLocalization":
@@ -69,7 +69,7 @@
         "ja": "楽しげなイチゴドーナツ。",
         "pt": "Uma rosquinha engraçada de morango.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Eğlenceli ve çilekli bir donut.",
         "zh": "一个好吃的有草莓涂层的甜甜圈。",
     }
 }

@@ -35,7 +35,7 @@
         "ja": "蒸留器",
         "pt": "Destilador",
         "ru": "Дистиллятор",
-        // "tr": "",
+        "tr": "Damıtıcı",
         "zh": "酒蒸馏器",
     },
     "DescriptionLocalization":
@@ -49,7 +49,7 @@
         "ja": "蒸留の仕組みでお酒を造るのに使う。",
         "pt": "Usado para destilar bebidas alcoólicas.",
         "ru": "Система дистилляции, используемая для приготовления ликера.",
-        // "tr": "",
+        "tr": "Likör yapmak için kullanılan bir damıtma sistemi.",
         "zh": "一种用来酿酒的蒸馏系统。",
     }
 }

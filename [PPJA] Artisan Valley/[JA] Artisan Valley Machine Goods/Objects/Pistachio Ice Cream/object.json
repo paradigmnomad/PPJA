@@ -23,8 +23,8 @@
         "ja": "ピスタチオアイスクリーム",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "开心果冰淇淋",
+        "tr": "Antep Fıstıklı Dondurma",
+        "zh": "开心果冰淇淋",
     },
     "DescriptionLocalization":
     {
@@ -37,7 +37,7 @@
         "ja": "ナッツの風味でおいしい。",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Yemişli bir ziyafet.",
          "zh": "坚果味的美味冰淇淋。",
     },
     "EnableWithMod": "CPBoardingHouse"

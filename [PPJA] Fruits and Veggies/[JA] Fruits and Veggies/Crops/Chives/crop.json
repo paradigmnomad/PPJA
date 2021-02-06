@@ -19,32 +19,30 @@
         "ExtraChance": 0.0,
     },
     "SeedPurchasePrice": 20,
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de cebollino",
-        "ko": "차이브 씨앗",
-        "de": "Schnittlauch-Saat",
-        "fr": "Graines de ciboulette",
-        "hu": "Metélőhagyma magvak",
-         // "it": "",
-        "ja": "チャイブのタネ",
-        "pt": "Sementes de cebolinha",
-        "ru": "Семена шнитт-лука",
-         // "tr": "",
-        "zh": "香葱种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en verano. Tardan 5 días en madurar.",
-        "ko": "여름 작물. 성장하려면 5일이 소요됩니다.",
-        "de": "Pflanze sie im Sommer. Wächst in 5 Tagen heran.",
-        "fr": "À planter en été. Prend 5 jours pour arriver à maturité.",
-        "hu": "Ezeket nyáron ültesd el. 5 napig tart megérniük.",
-         // "it": "",
-        "ja": "夏植えの作物。そだつのに5日かかる。",
-        "pt": "Plante-as no verão. Demora 5 dias para amadurecer.",
-        "ru": "Сажайте летом. Вырастает через 5 дней.",
-         // "tr": "",
-        "zh": "夏天播种。5天成熟。",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de cebollino",
+    "ko": "차이브 씨앗",
+    "de": "Schnittlauch-Saat",
+    "fr": "Graines de ciboulette",
+    "hu": "Metélőhagyma magvak",
+    // "it": "",
+    "ja": "チャイブのタネ",
+    "pt": "Sementes de cebolinha",
+    "ru": "Семена шнитт-лука",
+    "tr": "Yaprak Soğanı Tohumu",
+    "zh": "香葱种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en verano. Tardan 5 días en madurar.",
+    "ko": "여름 작물. 성장하려면 5일이 소요됩니다.",
+    "de": "Pflanze sie im Sommer. Wächst in 5 Tagen heran.",
+    "fr": "À planter en été. Prend 5 jours pour arriver à maturité.",
+    "hu": "Ezeket nyáron ültesd el. 5 napig tart megérniük.",
+    // "it": "",
+    "ja": "夏植えの作物。そだつのに5日かかる。",
+    "pt": "Plante-as no verão. Demora 5 dias para amadurecer.",
+    "ru": "Сажайте летом. Вырастает через 5 дней.",
+    "tr": "Yazın ekilir. 5 günde yetişir.",
+    "zh": "夏天播种。5天成熟。"
+  }
 }

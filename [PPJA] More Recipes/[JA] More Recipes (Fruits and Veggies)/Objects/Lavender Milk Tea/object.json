@@ -37,32 +37,30 @@
         "Dislike": ["Alex", "Kent", "Sebastian", "Shane", "Willy"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Té de lavanda con leche",
-        "ko": "라벤더 밀크 티",
-        "de": "Lavendel-Milch-Tee",
-        "fr": "Thé à la lavande et au lait",
-         // "hu": "",
-         // "it": "",
-        "ja": "ラベンダーミルクティー",
-        "pt": "Chá de Leite com Lavanda",
-        "ru": "Лавандовый чай с молоком",
-         // "tr": "",
-        "zh": "薰衣草奶茶",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Leche, azúcar y lavanda en las proporciones adecuadas.",
-        "ko": "우유, 설탕, 그리고 라벤더의 완벽한 비율.",
-        "de": "Milch, Zucker und Lavendel in genau den richtigen Verhältnissen.",
-        "fr": "Lait, sucre et lavande dans de justes proportions.",
-         // "hu": "",
-         // "it": "",
-        "ja": "ミルク、砂糖、ラベンダーをちょうどいい割合で。",
-        "pt": "Leite, açúcar e lavanda nas proporções certas.",
-        "ru": "Молоко, сахар и лаванда в правильных пропорциях.",
-         // "tr": "",
-        "zh": "薰衣草奶茶。牛奶、糖和薰衣草的比例恰到好处。",
-    }
+  "NameLocalization": {
+    "es": "Té de lavanda con leche",
+    "ko": "라벤더 밀크 티",
+    "de": "Lavendel-Milch-Tee",
+    "fr": "Thé à la lavande et au lait",
+    // "hu": "",
+    // "it": "",
+    "ja": "ラベンダーミルクティー",
+    "pt": "Chá de Leite com Lavanda",
+    "ru": "Лавандовый чай с молоком",
+    "tr": "Lavantalı Süt Çayı",
+    "zh": "薰衣草奶茶"
+  },
+  "DescriptionLocalization": {
+    "es": "Leche, azúcar y lavanda en las proporciones adecuadas.",
+    "ko": "우유, 설탕, 그리고 라벤더의 완벽한 비율.",
+    "de": "Milch, Zucker und Lavendel in genau den richtigen Verhältnissen.",
+    "fr": "Lait, sucre et lavande dans de justes proportions.",
+    // "hu": "",
+    // "it": "",
+    "ja": "ミルク、砂糖、ラベンダーをちょうどいい割合で。",
+    "pt": "Leite, açúcar e lavanda nas proporções certas.",
+    "ru": "Молоко, сахар и лаванда в правильных пропорциях.",
+    "tr": "Sadece doğru oranda süt, şeker ve lavanta.",
+    "zh": "薰衣草奶茶。牛奶、糖和薰衣草的比例恰到好处。"
+  }
 }

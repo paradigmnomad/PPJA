@@ -51,7 +51,7 @@
         "ja": "イチゴアイスドーナツ",
         "pt": "Donut de morango gelado",
          // "ru": "",
-         // "tr": "",
+        "tr": "Buzlu Çilekli Donut",
         "zh": "冰草莓甜甜圈",
     },
     "DescriptionLocalization":
@@ -65,7 +65,7 @@
         "ja": "シンプルなイチゴアイスドーナツ。",
         "pt": "Um simples donut de morango gelado.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Basit, buzlu ve çilekli bir donut.",
         "zh": "一份简单的，冰的草莓甜甜圈",
     }
 }

@@ -47,7 +47,7 @@
         "ja": "クマクッキー",
         "pt": "Biscoito de ursinho",
          // "ru": "",
-         // "tr": "",
+        "tr": "Ayı Şekilli Kurabiye",
         "zh": "小熊饼干",
     },
     "DescriptionLocalization":
@@ -61,7 +61,7 @@
         "ja": "クマをかたどったかわいいクッキー。",
         "pt": "Um biscoito fofo em forma de urso.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Ayı şekilli sevimli bir kurabiye.",
         "zh": "一个形状像小熊的可爱饼干。",
     }
 }

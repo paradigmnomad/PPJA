@@ -44,32 +44,30 @@
         "PurchasePrice": 1000,
         "PurchaseRequirements": ["y 4"],
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Espeto de carne",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        // "ja": "",
-        "pt": "Ã‰ carne em um espeto.",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "NameLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "Espeto de carne",
+    // "ru": "",
+    "tr": "Et Þiþ"
+    // "zh": "",
+  },
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    "pt": "É carne em um espeto.",
+    // "ru": "",
+    "tr": "Et. Bir çubuðun üstünde."
+    // "zh": "",
+  }
 }

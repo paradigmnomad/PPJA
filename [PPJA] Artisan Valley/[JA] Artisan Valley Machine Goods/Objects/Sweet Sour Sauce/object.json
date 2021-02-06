@@ -53,21 +53,20 @@
         "ja": "スイートサワーソース",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tatlı Ekşi Sos",
         // "zh": "",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        "ja": "甘酸っぱい味わいが人気の調味料。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    "ja": "甘酸っぱい味わいが人気の調味料。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Tatlı ve ekşi tadı olan popüler bir çeşni.",
+    // "zh": "",
+  }
 }

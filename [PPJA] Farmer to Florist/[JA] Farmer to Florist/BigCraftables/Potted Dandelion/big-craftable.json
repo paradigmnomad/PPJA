@@ -32,8 +32,8 @@
         "ja": "タンポポの鉢植え",
         "pt": "Vaso de Dente-de-Leão",
         "ru": "Одуванчик в горшке",
-        //"tr": "",
-        "zh": "蒲公英盆栽",
+        "tr": "Saksıda Karahindiba",
+        "zh": "蒲公英盆栽"
     },
     "DescriptionLocalization":
     {
@@ -46,7 +46,7 @@
         "ja": "ええと…その、なんでタンポポなんて植えたの？ 水やりを忘れてもたぶん大丈夫…。",
         "pt": "O que é...? Por que... Por que você colocaria um dente-de-leão em um vaso de madeira? Ah bem;  provavelmente viverá mesmo que você se esqueça de regá-lo...",
         "ru": "Что за... Зачем... Зачем сажать одуванчик в горшок? Ай, ладно. Он, скорее всего, выживет, даже если его не поливать.",
-        //"tr": "",
-        "zh": "一个小木盆里的蒲公英。记得给它浇水！",
+        "tr": "Bu...? Neden...? Neden bir karahindibayı saksıya ekersin? Ah pekala; sulamayı unutsan da yaşayacak gibi görünüyor.",
+        "zh": "一个小木盆里的蒲公英。记得给它浇水！"
     }
 }

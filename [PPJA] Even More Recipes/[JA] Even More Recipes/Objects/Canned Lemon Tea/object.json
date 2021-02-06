@@ -40,7 +40,7 @@
         "ja": "レモンティー缶",
         "pt": "Chá de limão enlatado",
         // "ru": "",
-        // "tr": "",
+        "tr": "Konserve Limon Çayı",
         "zh": "罐装柠檬茶",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
         "ja": "缶入りのレモン風味の紅茶！",
         "pt": "Chá com sabor de limão, dentro de um lata!",
         // "ru": "",
-        // "tr": "",
+        "tr": "Limon aromalı çay, konservede!",
         "zh": "柠檬味的茶，罐装的！",
     }
 }

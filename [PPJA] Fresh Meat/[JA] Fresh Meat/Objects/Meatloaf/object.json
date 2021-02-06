@@ -38,7 +38,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Dalyan Köfte",
         "zh": "烘肉卷",
     },
     "DescriptionLocalization":
@@ -52,7 +52,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Artakalmış dalyan köfteye karşı duramıyorum.",
         "zh": "我不能忍受烘肉卷被剩下。",
     }
 }

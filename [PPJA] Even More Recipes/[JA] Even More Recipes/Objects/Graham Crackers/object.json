@@ -43,7 +43,7 @@
         "ja": "グラハムクラッカー",
         "pt": "Biscoitos de Graham",
          // "ru": "",
-         // "tr": "",
+        "tr": "Graham Krakeri",
         "zh": "全麦饼干",
     },
     "DescriptionLocalization":
@@ -57,7 +57,7 @@
         "ja": "とりあえずグラハムって誰？",
         "pt": "Quem é Graham, afinal?",
          // "ru": "",
-         // "tr": "",
+        "tr": "Hem Graham da kim?",
         "zh": "全麦到底是怎么样的？",
     }
 }

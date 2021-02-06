@@ -11,43 +11,43 @@
         {
             "Object": 335,
             "Count": 5,
-        },  
-	{
+        },
+        {
             "Object": 336,
             "Count": 5,
-        },      
+        },
         {
             "Object": 709,
             "Count": 5,
         }, ],
-        "CanPurchase": false,
+        "IsDefault": true
     },
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "셔벗 머신",
         // "de": "",
         "fr": "Sorbetière",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-        // "pt": "",
+        "ja": "シャーベットマシン",
+        "pt": "Máquina de Sorbet",
         // "ru": "",
-        // "tr": "",
-        // "zh": "",
+        "tr": "Şerbet Makinesi",
+        "zh": "冰沙搅拌机",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "신선한 과일로 맛있는 수제 셔벗을 만듭니다.",
         // "de": "",
         "fr": "Fabrique de délicieux sorbets faits maison avec des fruits frais.",
         // "hu": "",
         // "it": "",
-        // "ja": "",
-        // "pt": "",
+        "ja": "新鮮なくだものからおいしい手作りシャーベットをつくれる。",
+        "pt": "Faz deliciosos sorvetes artesanais de frutas frescas.",
         // "ru": "",
-        // "tr": "",
-        // "zh": "",
+        "tr": "Taze meyveden ev yapımı leziz şerbetler yapar.",
+        "zh": "用新鲜水果自制美味的雪葩。",
     }
 }

@@ -22,7 +22,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+       "tr": "Koyun Derisi",
         "zh": "绵羊皮",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         //"ja": "",
         //"pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Güneşte bekletilmiş koyun derisi.",
         "zh": "经过鞣制的绵羊皮。",
     },
     "ContextTags": [

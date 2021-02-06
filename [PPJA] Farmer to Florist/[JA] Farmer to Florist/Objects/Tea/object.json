@@ -42,8 +42,8 @@
         "ja": "ツバキ茶",
         "pt": "Chá",
         "ru": "Чай",
-        // "tr": "",
-        "zh": "茶",
+        "tr": "Çay",
+        "zh": "茶"
     },
     "DescriptionLocalization":
     {
@@ -56,7 +56,7 @@
         "ja": "良い香りのお茶。あなたもきっと気に入るはず。",
         "pt": "Cheiro delicioso. Isso certamente lhe daria energia.",
         "ru": "Вкусно пахнет и наверняка приободрит Вас.",
-        // "tr": "",
-        "zh": "茶。闻起来很香。这肯定会使你健步如飞。",
+        "tr": "Leziz kokuyor. Sana enerji verecek",
+        "zh": "茶。闻起来很香。这肯定会使你健步如飞。"
     }
 }

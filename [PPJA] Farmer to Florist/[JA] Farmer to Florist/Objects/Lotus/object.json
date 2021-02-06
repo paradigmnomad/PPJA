@@ -17,8 +17,8 @@
         "ja": "ハス",
         "pt": "Lótus",
         "ru": "Лотос",
-        // "tr": "",
-        "zh": "荷花",
+        "tr": "Nilüfer",
+        "zh": "荷花"
     },
     "DescriptionLocalization":
     {
@@ -31,8 +31,8 @@
         "ja": "水中で育つ大輪の花。複数の文化で崇拝されている。",
         "pt": "Uma grande flor que cresce na água. Reverenciado por várias culturas.",
         "ru": "Большой цветок, растущий в воде. Почитается несколькими культурами.",
-        // "tr": "",
-        "zh": "一种生长在水中的大花。被多种人类文化所推崇。",
+        "tr": "Suda yetişen büyük bir çiçek. Bazı kültürler ona saygı duyar.",
+        "zh": "一种生长在水中的大花。被多种人类文化所推崇。"
     },
     "ContextTags": [
         "color_pink",

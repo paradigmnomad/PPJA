@@ -34,8 +34,7 @@
         "ja": "アイスクリームマシン",
         "pt": "Máquina de Sorvete",
         "ru": "Мороженица",
-        // "tr": "",
-
+        "tr": "Dondurma Makinesi",
         "zh": "冰淇淋机",
     },
     "DescriptionLocalization":
@@ -49,7 +48,7 @@
         "ja": "この機械でおいしいお手製アイスクリームを作れる。",
         "pt": "Uma máquina para fazer sorvete delicioso em casa.",
         "ru": "Машина для приготовления вкусного мороженого в домашних условиях.",
-        // "tr": "",
+        "tr": "Evde leziz dondurmalar yapmak için bir makine.",
         "zh": "有了它在家中即可自制美味冰淇淋。",
     }
 }

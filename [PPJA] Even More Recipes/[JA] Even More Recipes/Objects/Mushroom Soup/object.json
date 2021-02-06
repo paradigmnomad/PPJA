@@ -54,7 +54,7 @@
         "ja": "キノコスープ",
         "pt": "Sopa de Cogumelo",
         // "ru": "",
-        // "tr": "",
+        "tr": "Mantar Çorbası",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -68,7 +68,7 @@
         "ja": "ベーシックなルウをクリームとミルクで薄めキノコを加えたシンプルなスープ。",
         "pt": "Um tipo simples de sopa onde um roux básico é diluído com creme ou leite e, em seguida, cogumelo são adicionados.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Meyanenin süt veya kremayla inceltilip içine mantar eklenmesiyle yapılan basit bir çorba.",
         // "zh": "",
     }
 }

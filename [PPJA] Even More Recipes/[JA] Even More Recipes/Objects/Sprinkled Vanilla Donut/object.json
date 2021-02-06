@@ -54,7 +54,7 @@
         "ja": "スプリンクルバニラドーナツ",
         "pt": "Donut de baunilha com granulado",
          // "ru": "",
-         // "tr": "",
+        "tr": "Üstü Şekerlemeli Vanilyalı Donut",
         "zh": "砂糖香草甜甜圈",
     },
     "DescriptionLocalization":
@@ -68,7 +68,7 @@
         "ja": "楽しげなバニラドーナツ。",
         "pt": "Uma rosquinha baunilha de morango.",
          // "ru": "",
-         // "tr": "",
+         "tr": "Eğlenceli ve vanilyalı bir donut.",
         "zh": "一个好吃的有香草涂层的甜甜圈。",
     }
 }

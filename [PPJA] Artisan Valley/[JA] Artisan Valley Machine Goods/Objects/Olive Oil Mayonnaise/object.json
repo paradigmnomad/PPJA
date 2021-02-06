@@ -23,7 +23,7 @@
         "ja": "オリーブオイルマヨネーズ",
         "pt": "Maionese de Oliva",
         "ru": "Майонез из оливкового масла",
-         // "tr": "",
+        "tr": "Zeytinyağlı Mayonez",
         "zh": "橄榄油蛋黄酱",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "オリーブオイルから作られたマヨネーズ。",
         "pt": "Maionese feita com azeite de oliva.",
         "ru": "Майонез, сделанный из оливкового масла.",
-         // "tr": "",
+        "tr": "Zeytinyağıyla yapılmış mayonez.",
         "zh": "这瓶蛋黄酱由橄榄油制成。",
     }
 }

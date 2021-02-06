@@ -23,7 +23,7 @@
         "ja": "ろうそく",
         "pt": "Vela",
         "ru": "Свеча",
-         // "tr": "",
+        "tr": "Mum",
         "zh": "蜡烛",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "花の香りがするろうそく。",
         "pt": "Uma vela com aroma de flores.",        
         "ru": "Свеча с ароматом цветов.",
-         // "tr": "",
+        "tr": "Çiçek kokulu bir mum.",
         "zh": "有花香味的蜡烛。",
     }
 }

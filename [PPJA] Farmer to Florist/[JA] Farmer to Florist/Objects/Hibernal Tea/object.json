@@ -50,8 +50,8 @@
         "ja": "冬のお茶",
         "pt": "Chá Hibernal",
         "ru": "Зимний чай",
-        // "tr": "",
-        "zh": "冬日茶",
+        "tr": "Kış Çayı",
+        "zh": "冬日茶"
     },
     "DescriptionLocalization":
     {
@@ -64,7 +64,7 @@
         "ja": "心まで温める爽やかでまろみのあるお茶。読書のおともに。",
         "pt": "Um chá bem arredondado que aquece a alma. Faz você querer se aconchegar com um bom livro.",
         "ru": "Хорошо собранный чай, согревающий душу. Вызывает желание удобно устроиться и почитывать книгу.",
-        // "tr": "",
-        "zh": "冬日茶。沁人心脾的醇厚香茶。使人想读一本好书。",
+        "tr": "Ruhu ısıtan tam donanımlı bir çay. Canın istiyor ki eline kitap alıp rahatlayasın.",
+        "zh": "冬日茶。沁人心脾的醇厚香茶。使人想读一本好书。"
     }
 }

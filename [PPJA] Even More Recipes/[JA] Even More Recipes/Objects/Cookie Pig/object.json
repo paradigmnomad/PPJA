@@ -50,7 +50,7 @@
         "ja": "ブタクッキー",
         "pt": "Biscoito de porquinho",
          // "ru": "",
-         // "tr": "",
+        "tr": "Domuz Şekilli Kurabiye",
         "zh": "小猪饼干",
     },
     "DescriptionLocalization":
@@ -64,7 +64,7 @@
         "ja": "ブタをかたどったかわいいクッキー！",
         "pt": "Um biscoito fofo em forma de porco!",
          // "ru": "",
-         // "tr": "",
+         "tr": "Domuz şeklinde bir kurabiye.(Ben buna sevimli demezdim ama sen bilirsin.)",
         "zh": "它的形状像一只小猪。",
     }
 }

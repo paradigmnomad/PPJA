@@ -1,44 +1,41 @@
 {
-    "Name": "Sunflower Butter",
-    "Description": "A peanut butter substitute with a sunny flavor.",
-    "Category": "ArtisanGoods",
-    "Edibility": 26,
-    "Price": 120,
-    "IsColored": false,
-    "Recipe": null,
-    "GiftTastes":
-    {
-        "Love": ["Haley"],
-        "Like": ["Gus"],
-        "Neutral": ["Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
-        "Hate": ["Clint", "George", "Sebastian"]
-    },
-    "NameLocalization":
-    {
-        "es": "Mantequilla de girasol",
-        "ko": "해바라기 버터",
-        "de": "Sonnenblumenbutter",
-        "fr": "Beurre de tournesol",
-        "hu": "Napraforgóvaj",
-        // "it": "",
-        "ja": "ヒマワリバター",
-        "pt": "Manteiga de Girassol",
-        "ru": "Подсолнечное масло",
-        // "tr": "",
-        "zh": "向日葵黄油",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Un sustituto de la mantequilla de maní con un sabor soleado.",
-        "ko": "싱그러운 맛을 내는 땅콩 버터 대체품.",
-        "de": "Ein Erdnussbutter-Ersatz mit einem sonnigen Geschmack.",
-        "fr": "Un beurre avec des graines de tournesol auquel s'ajoute une touche de soleil.",
-        "hu": "Egy napos ízű földimogyoróvaj alternatíva.",
-        // "it": "",
-        "ja": "お日さま風味な、ピーナッツバターの代用品。",
-        "pt": "Um substituto da manteiga de amendoim com sabor ensolarado.",
-        "ru": "Заменитель арахисового масла с солнечным вкусом.",
-        // "tr": "",
-        "zh": "一种带有阳光气息的花生酱替代品。",
-    }
+  "Name": "Sunflower Butter",
+  "Description": "A peanut butter substitute with a sunny flavor.",
+  "Category": "ArtisanGoods",
+  "Edibility": 26,
+  "Price": 120,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+    "Love": [ "Haley" ],
+    "Like": [ "Gus" ],
+    "Neutral": [ "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard" ],
+    "Hate": [ "Clint", "George", "Sebastian" ]
+  },
+  "NameLocalization": {
+    "es": "Mantequilla de girasol",
+    "ko": "해바라기 버터",
+    "de": "Sonnenblumenbutter",
+    "fr": "Beurre de tournesol",
+    "hu": "Napraforgóvaj",
+    // "it": "",
+    "ja": "ヒマワリバター",
+    "pt": "Manteiga de Girassol",
+    "ru": "Подсолнечное масло",
+    "tr": "Ayçiçeği Ezmesi",
+    "zh": "向日葵黄油",
+  },
+  "DescriptionLocalization": {
+    "es": "Un sustituto de la mantequilla de maní con un sabor soleado.",
+    "ko": "싱그러운 맛을 내는 땅콩 버터 대체품.",
+    "de": "Ein Erdnussbutter-Ersatz mit einem sonnigen Geschmack.",
+    "fr": "Un beurre avec des graines de tournesol auquel s'ajoute une touche de soleil.",
+    "hu": "Egy napos ízű földimogyoróvaj alternatíva.",
+    // "it": "",
+    "ja": "お日さま風味な、ピーナッツバターの代用品。",
+    "pt": "Um substituto da manteiga de amendoim com sabor ensolarado.",
+    "ru": "Заменитель арахисового масла с солнечным вкусом.",
+    "tr": "Güneşsi tadıyla fıstık ezmesinin yerine geçebilir.",
+    "zh": "一种带有阳光气息的花生酱替代品。"
+  }
 }

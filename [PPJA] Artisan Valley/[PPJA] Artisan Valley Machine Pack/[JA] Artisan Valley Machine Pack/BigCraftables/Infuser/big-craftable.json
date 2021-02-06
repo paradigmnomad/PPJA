@@ -33,7 +33,7 @@
         "ja": "インフューザー",
         "pt": "Infusor",
         "ru": "Инфьюзер",
-        // "tr": "",
+        "tr": "Demlik",
         "zh": "浸煮瓶",
     },
     "DescriptionLocalization":
@@ -47,7 +47,7 @@
         "ja": "香りや風味を蒸留酒に注入し、リキュールやシュナップスを作るのに使われる化学装置。",
         "pt": "Um aparelho químico usado para infundir sabores em vodca criando liquores e schanpps.",
         "ru": "Устройство для ароматизации водки и создания из неё ликеров и шнапсов.",
-        // "tr": "",
+        "tr": "Tatları; vodka, likör ve schnapps'e çevirmek için kullanılan kimyasal bir alet.",
         "zh": "一种化学仪器，用于将香料注入伏特加，制成利口酒和杜松子酒。",
     }
 }

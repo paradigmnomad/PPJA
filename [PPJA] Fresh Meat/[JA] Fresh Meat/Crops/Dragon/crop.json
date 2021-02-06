@@ -35,7 +35,7 @@
         // "ja": "",
         "pt": "]Sementes de Dragão",
         // "ru": "",
-        // "tr": "",
+         "tr": "Ejderha Tohumu",
          "zh": "龙肉种子",
     },
     "SeedDescriptionLocalization":
@@ -49,7 +49,7 @@
         // "ja": "",
          "pt": "Plante isso no verão ou outono. Leva 18 dias para amadurecer. ",
         // "ru": "",
-        // "tr": "",
+         "tr": "Yazın veya güzde ekilir. 18 günde yetişir.",
          "zh": "夏天或秋天播种。18天成熟。",
     },
 }

@@ -51,21 +51,20 @@
         "ja": "ピエロギ",
         "pt": "Bolinhos",
         // "ru": "",
-        // "tr": "",
+        "tr": "Piruhi",
         // "zh": "",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        // "ko": "",
-        // "de": "",
-        // "fr": "",
-        // "hu": "",
-        // "it": "",
-        "ja": "具材を無発酵の生地で包んだ団子料理。具には香味や甘い具などを使う。",
-        "pt": "Bolinhos recheados feitos de massa sem fermento com recheio salgado ou doce.",
-        // "ru": "",
-        // "tr": "",
-        // "zh": "",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    "ja": "具材を無発酵の生地で包んだ団子料理。具には香味や甘い具などを使う。",
+    "pt": "Bolinhos recheados feitos de massa sem fermento com recheio salgado ou doce.",
+    // "ru": "",
+    "tr": "Mayalanmamış hamurun tuzlu ya da tatlı bir iç harcın etrafına sarılmasıyla yapılan mantı benzeri bir yemek.",
+    // "zh": "",
+  }
 }

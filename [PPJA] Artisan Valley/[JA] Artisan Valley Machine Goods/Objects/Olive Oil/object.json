@@ -23,21 +23,20 @@
         "ja": "オリーブオイル",
         "pt": "Azeite de Oliva",        
         "ru": "Оливковое масло",
-         // "tr": "",
+        "tr": "Zeytinyağı",
         "zh": "橄榄油",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un aceite vegetal ligero, usualmente utilizado en ensaladas.",
-        "ko": "샐러드에 자주 사용되는 식물성 기름.",
-        "de": "Ein leichtes Pflanzenöl, das oft für Salate verwendet wird.",
-        "fr": "Une huile végétale légère souvent utilisée pour les salades.",
-        "hu": "Egy könnyed növényi olaj, melyet gyakran salátákhoz használnak.",
-         // "it": "",
-        "ja": "サラダによく使われるライトな植物油。",
-        "pt": "Um azeite vegetal leve geralmente usado em saladas.",        
-        "ru": "Легкое растительное масло, часто используемое для салатов",
-         // "tr": "",
-        "zh": "一种常用于沙拉的植物油。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un aceite vegetal ligero, usualmente utilizado en ensaladas.",
+    "ko": "샐러드에 자주 사용되는 식물성 기름.",
+    "de": "Ein leichtes Pflanzenöl, das oft für Salate verwendet wird.",
+    "fr": "Une huile végétale légère souvent utilisée pour les salades.",
+    "hu": "Egy könnyed növényi olaj, melyet gyakran salátákhoz használnak.",
+    // "it": "",
+    "ja": "サラダによく使われるライトな植物油。",
+    "pt": "Um azeite vegetal leve geralmente usado em saladas.",
+    "ru": "Легкое растительное масло, часто используемое для салатов",
+    "tr": "Genelde salatalarda kullanılan hafif bir sebze yağı.",
+    "zh": "一种常用于沙拉的植物油。"
+  }
 }

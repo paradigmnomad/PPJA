@@ -17,39 +17,36 @@
         "MinimumPerHarvest": 2,
         "MaximumPerHarvest": 3,
         "MaxIncreasePerFarmLevel": 10,
-        "ExtraChance": 0.02,
+        "ExtraChance": 0.02
     },
     "SeedPurchaseRequirements": [
-        "y 2",
+        "y 2"
     ],
     "SeedPurchasePrice": 60,
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de camelia",
-        "ko": "카멜리아 씨앗",
-        "de": "Kamelie-Saat",
-         // "fr": "",
-        "hu": "Kamélia magvak",
-         // "it": "",
-        "ja": "ツバキの種",
-        "pt": "Semente de Chá-da-Índia",
-        "ru": "Семена камелии",
-         // "tr": "",
-        "zh": "山茶花种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Crece en primavera y otoño. Toma 13 días para madurar, pero puede ser cosechado múltiples veces.",
-        "ko": "봄과 가을에 심습니다. 성장하려면 13일이 소요되며, 수확한 후에서 계속 생산됩니다.",
-        "de": "Wächst im Frühjahr und Herbst. Das Wachstum dauert 13 Tage, kann aber mehrmals geerntet werden.",
-         // "fr": "",
-        "hu": "Ezeket tavasszal, vagy ősszel ültesd el. 13 nap alatt hoz virágot, de utána tovább termel.",
-         // "it": "",
-        "ja": "春と秋植えの花。13日かけて育ち、花を咲かせる。くり返し収穫できる。",
-        "pt": "Plante-a na primavera e no outono. Demoram 13 dias para nascer, e continuam a produção após a primeira colheita",
-        "ru": "Сажайте осенью. Вырастает через 13 дней и продолжает расти после сбора. ",
-         // "tr": "",
-        "zh": "春天或秋天播种。13天成熟，在第一次收获后循环生产。",
-    }
-
+  "SeedNameLocalization": {
+    "es": "Semillas de camelia",
+    "ko": "카멜리아 씨앗",
+    "de": "Kamelie-Saat",
+    // "fr": "",
+    "hu": "Kamélia magvak",
+    // "it": "",
+    "ja": "ツバキの種",
+    "pt": "Semente de Chá-da-Índia",
+    "ru": "Семена камелии",
+    "tr": "Kamelya Tohumu",
+    "zh": "山茶花种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Crece en primavera y otoño. Toma 13 días para madurar, pero puede ser cosechado múltiples veces.",
+    "ko": "봄과 가을에 심습니다. 성장하려면 13일이 소요되며, 수확한 후에서 계속 생산됩니다.",
+    "de": "Wächst im Frühjahr und Herbst. Das Wachstum dauert 13 Tage, kann aber mehrmals geerntet werden.",
+    // "fr": "",
+    "hu": "Ezeket tavasszal, vagy ősszel ültesd el. 13 nap alatt hoz virágot, de utána tovább termel.",
+    // "it": "",
+    "ja": "春と秋植えの花。13日かけて育ち、花を咲かせる。くり返し収穫できる。",
+    "pt": "Plante-a na primavera e no outono. Demoram 13 dias para nascer, e continuam a produção após a primeira colheita",
+    "ru": "Сажайте осенью. Вырастает через 13 дней и продолжает расти после сбора. ",
+    "tr": "Baharda ve güzde yetişir. 13 günde büyür ancak birden fazla hasat verir.",
+    "zh": "春天或秋天播种。13天成熟，在第一次收获后循环生产。"
+  }
 }

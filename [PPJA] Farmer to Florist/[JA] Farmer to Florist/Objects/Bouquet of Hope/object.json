@@ -45,8 +45,8 @@
         "ja": "希望の花束",
         "pt": "Buquê da Esperança",
         "ru": "Букет надежды.",
-         // "tr": "",
-        "zh": "希冀花束",
+        "tr": "Umut Buketi",
+        "zh": "希冀花束"
     },
     "DescriptionLocalization":
     {
@@ -59,7 +59,7 @@
         "ja": "鮮やかな黄色の花束。希望に満ちている。",
         "pt": "Flores amarelas brilhantes, envolto em um buquê.Isso te enche de esperança.",
         "ru": "Ярко-желтые цветы, завернутые в букет. Он наполняет Вас надеждой.",
-         // "tr": "",
-        "zh": "明丽的黄色花束，使人充满希望。",
+         "tr": "Açık sarı çiçeklerden bir buket. İçini umutla dolduruyor.",
+        "zh": "明丽的黄色花束，使人充满希望。"
     }
 }

@@ -43,7 +43,7 @@
         "ja": "わさび豆",
         "pt": "Ervilhas de Wasabi",
          // "ru": "",
-         // "tr": "",
+        "tr": "Vasabi Kaplı Bezelye",
         "zh": "芥辣豌豆",
     },
     "DescriptionLocalization":
@@ -57,7 +57,7 @@
         "ja": "ワサビをまぶした乾燥エンドウ。",
         "pt": "Ervilhas secas que foram polvilhadas com wasabi.",
          // "ru": "",
-         // "tr": "",
+         "tr": "Vasabi tozuyla kaplanmış kurutulmuş bezelye.",
         "zh": "撒上芥末粉的干豌豆。",
     }
 }

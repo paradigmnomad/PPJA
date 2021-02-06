@@ -39,7 +39,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Pişmiş Kümes Hayvanı Eti",
          "zh": "熟制飞禽肉",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Bir kuş eti, zaten pişmiş ve tariflerde kullanıma hazır.",
          "zh": "来自鸟类的肉，已经煮熟，可以用于烹饪。",
     },
     "ContextTags": [
