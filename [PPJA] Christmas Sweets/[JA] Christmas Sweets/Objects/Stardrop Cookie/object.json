@@ -40,21 +40,20 @@
         "ja": "スタードロップクッキー",
         "pt": "Biscoito de Fruta Estrela",
         // "ru": "",
-        // "tr": "",
+        "tr": "Yıldızkaydı Kurabiye",
         "zh": "星之果实饼干",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "별방울모양으로 장식한 딱딱한 쿠키",
-        "de": "Ein harter Keks, dekoriert wie ein Stardrop.",
-        "fr": "Un biscuit dur décoré pour ressembler à un fruit étoilé.",
-       "hu": "Egy kemény keksz Csillaghullónak dekorálva.",
-        // "it": "",
-        "ja": "スタードロップの形に焼いたクッキー。",
-        "pt": "Um biscoito duro decorado em forma de fruta estrela.",
-        // "ru": "",
-        // "tr": "",
-        "zh": "一块星之果实形状的硬饼干。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "별방울모양으로 장식한 딱딱한 쿠키",
+    "de": "Ein harter Keks, dekoriert wie ein Stardrop.",
+    "fr": "Un biscuit dur décoré pour ressembler à un fruit étoilé.",
+    "hu": "Egy kemény keksz Csillaghullónak dekorálva.",
+    // "it": "",
+    "ja": "スタードロップの形に焼いたクッキー。",
+    "pt": "Um biscoito duro decorado em forma de fruta estrela.",
+    // "ru": "",
+    "tr": "Yıldızkaydı gibi süslenmiş sert bir kurabiye.",
+    "zh": "一块星之果实形状的硬饼干。"
+  }
 }

@@ -39,7 +39,7 @@
         "ja": "ペパーミントキャンディ",
         "pt": "Hortelã Picante",
         // "ru": "",
-        // "tr": "",
+        "tr": "Naneli Şeker",
         "zh": "薄荷糖",
     },
     "DescriptionLocalization":
@@ -53,7 +53,7 @@
         "ja": "自家製ペパーミントキャンディ。",
         "pt": "Alguns doces caseiros de Hortelã Picante.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Evyapımı naneli şekerler.",
         "zh": "一些自制的薄荷糖。",
     }
 }

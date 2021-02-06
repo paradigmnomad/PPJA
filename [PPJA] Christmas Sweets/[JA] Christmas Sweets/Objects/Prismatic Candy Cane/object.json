@@ -44,21 +44,20 @@
         "ja": "プリズムキャンディーケイン",
         "pt": "Bastão Doce Prismático",
         // "ru": "",
-        // "tr": "",
+        "tr": "Prizmatik Kamış Şeker",
         "zh": "五彩手杖糖",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "이 사탕을 만든다고 무지개빛파편이 손상되진 않았습니다.",
-        "de": "Bei der Herstellung dieser Zuckerstange wurden keine prismatischen Scherben verletzt.",
-        "fr": "Aucun éclat prismatique n'a été blessé durant la confection de cette canne à sucre d'orge.",
-        "hu": "Ennek a cukorpálcának a készítése közben egyetlen Prizmás töredék se sérült meg.",
-        // "it": "",
-        "ja": "このお菓子の作成にはレインボージェムは要りません。",
-        "pt": "Nenhum fragmento prismático foi quebrado na fabricação deste biscoito.",
-        // "ru": "",
-        // "tr": "",
-        "zh": "在制作这根手杖糖的过程中，可以发誓没有五彩碎片受到伤害。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "이 사탕을 만든다고 무지개빛파편이 손상되진 않았습니다.",
+    "de": "Bei der Herstellung dieser Zuckerstange wurden keine prismatischen Scherben verletzt.",
+    "fr": "Aucun éclat prismatique n'a été blessé durant la confection de cette canne à sucre d'orge.",
+    "hu": "Ennek a cukorpálcának a készítése közben egyetlen Prizmás töredék se sérült meg.",
+    // "it": "",
+    "ja": "このお菓子の作成にはレインボージェムは要りません。",
+    "pt": "Nenhum fragmento prismático foi quebrado na fabricação deste biscoito.",
+    // "ru": "",
+    "tr": "Bu şekerin üretiminde hiçbir prizma parçasına zarar verilmemiştir.",
+    "zh": "在制作这根手杖糖的过程中，可以发誓没有五彩碎片受到伤害。"
+  }
 }

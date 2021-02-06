@@ -40,21 +40,20 @@
         "ja": "ミトンクッキー",
         "pt": "Biscoito de Luva",
         // "ru": "",
-        // "tr": "",
+        "tr": "Eldiven Kurabiye",
         "zh": "圣诞手套饼干",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "장갑모양으로 장식한 딱딱한 쿠키",
-        "de": "Ein harter Keks, dekoriert wie ein Fäustling",
-        "fr": "Un biscuit dur décoré pour ressembler à une moufle.",
-        "hu": "Egy kemény keksz kesztyűnek dekorálva.",
-        // "it": "",
-        "ja": "手袋の形に焼いたクッキー。",
-        "pt": "Um biscoito duro decorado em forma de luva.",
-        // "ru": "",
-        // "tr": "",
-        "zh": "一块圣诞手套形状的硬饼干。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "장갑모양으로 장식한 딱딱한 쿠키",
+    "de": "Ein harter Keks, dekoriert wie ein Fäustling",
+    "fr": "Un biscuit dur décoré pour ressembler à une moufle.",
+    "hu": "Egy kemény keksz kesztyűnek dekorálva.",
+    // "it": "",
+    "ja": "手袋の形に焼いたクッキー。",
+    "pt": "Um biscoito duro decorado em forma de luva.",
+    // "ru": "",
+    "tr": "Eldiven gibi süslenmiş sert bir kurabiye.",
+    "zh": "一块圣诞手套形状的硬饼干。"
+  }
 }

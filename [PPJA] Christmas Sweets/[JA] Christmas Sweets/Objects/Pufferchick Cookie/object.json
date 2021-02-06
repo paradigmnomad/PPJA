@@ -40,21 +40,20 @@
         "ja": "パファーチッククッキー",
         "pt": "Biscoito de Frango de Pelúcia",
         // "ru": "",
-        // "tr": "",
+        "tr": "Balontavuğu Kurabiye",
         "zh": "豚鸡饼干",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "복어닭모양으로 장식한 딱딱한 쿠키",
-        "de": "Ein harter Keks, dekoriert wie ein Pufferküken.",
-        "fr": "Un biscuit dur décoré comme une peluche de poulet.",
-        "hu": "Egy kemény keksz 'Gömbcsirkének' dekorálva.",
-        // "it": "",
-        "ja": "フグのようなニワトリの形のクッキー。",
-        "pt": "Um biscoito duro decorado em formato de frango de pelúcia.",
-        // "ru": "",
-        // "tr": "",
-        "zh": "嗯，如你所见，一个外形酷似游戏吉祥物豚鸡的饼干。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "복어닭모양으로 장식한 딱딱한 쿠키",
+    "de": "Ein harter Keks, dekoriert wie ein Pufferküken.",
+    "fr": "Un biscuit dur décoré comme une peluche de poulet.",
+    "hu": "Egy kemény keksz 'Gömbcsirkének' dekorálva.",
+    // "it": "",
+    "ja": "フグのようなニワトリの形のクッキー。",
+    "pt": "Um biscoito duro decorado em formato de frango de pelúcia.",
+    // "ru": "",
+    "tr": "Balontavuğu gibi süslenmiş bir kurabiye.",
+    "zh": "嗯，如你所见，一个外形酷似游戏吉祥物豚鸡的饼干。"
+  }
 }

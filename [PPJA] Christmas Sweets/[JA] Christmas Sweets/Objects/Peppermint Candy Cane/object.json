@@ -36,21 +36,20 @@
         "ja": "ペパーミントキャンディケイン",
         "pt": "Doces de Hortelã",
         // "ru": "",
-        // "tr": "",
+        "tr": "Naneli Baston Şeker",
         "zh": "薄荷手杖糖",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "부숴서 쿠키에 넣어도 좋습니다.",
-        "de": "Zerquetsche sie und sie passen hervorragend zu Keksen.",
-        "fr": "Écrasez-les et ça ira parfaitement pour faire des biscuits.",
-        "hu": "Ha összezúzod, remek adalék lehet kekszekbe.",
-        // "it": "",
-        "ja": "クッキーによく合う。",
-        "pt": "Quebre-os e então eles ficarão ótimos em biscoitos!",
-        // "ru": "",
-        // "tr": "",
-        "zh": "把它们压碎，加入饼干里会很好吃的。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "부숴서 쿠키에 넣어도 좋습니다.",
+    "de": "Zerquetsche sie und sie passen hervorragend zu Keksen.",
+    "fr": "Écrasez-les et ça ira parfaitement pour faire des biscuits.",
+    "hu": "Ha összezúzod, remek adalék lehet kekszekbe.",
+    // "it": "",
+    "ja": "クッキーによく合う。",
+    "pt": "Quebre-os e então eles ficarão ótimos em biscoitos!",
+    // "ru": "",
+    "tr": "Parçalandığında kurabiyelerde iyi gider.",
+    "zh": "把它们压碎，加入饼干里会很好吃的。"
+  }
 }

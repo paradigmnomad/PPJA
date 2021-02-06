@@ -39,21 +39,20 @@
         "ja": "ストロベリーサンタ",
         "pt": "Papai Noel de Morango",
         // "ru": "",
-        // "tr": "",
+        "tr": "Çilekten Noel Baba",
         "zh": "草莓圣诞老人",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "잘 익은 딸기를 산타모양으로 장식했습니다!",
-        "de": "Eine reife Erdbeere, die so dekoriert ist, dass sie wie der Weihnachtsmann aussieht!",
-        "fr": "Une framboise mûre décorée pour ressembler au père Noël.",
-        "hu": "Egy érett eper Mikulásnak dekorálva.",
-        // "it": "",
-        "ja": "完熟イチゴをサンタに見立ててデコレーション！",
-        "pt": "Um morango maduro decorado em forma de Papai Noel!",
-        // "ru": "",
-        // "tr": "",
-        "zh": "一个圣诞老人形状的成熟草莓！",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "잘 익은 딸기를 산타모양으로 장식했습니다!",
+    "de": "Eine reife Erdbeere, die so dekoriert ist, dass sie wie der Weihnachtsmann aussieht!",
+    "fr": "Une framboise mûre décorée pour ressembler au père Noël.",
+    "hu": "Egy érett eper Mikulásnak dekorálva.",
+    // "it": "",
+    "ja": "完熟イチゴをサンタに見立ててデコレーション！",
+    "pt": "Um morango maduro decorado em forma de Papai Noel!",
+    // "ru": "",
+    "tr": "Taze bir çilek noel babaya benzemesi için süslenmiş.",
+    "zh": "一个圣诞老人形状的成熟草莓！"
+  }
 }

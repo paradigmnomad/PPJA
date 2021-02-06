@@ -44,21 +44,20 @@
         "ja": "ジャムクッキー",
         "pt": "Maslenki",
         // "ru": "",
-        // "tr": "",
+        "tr": "Reçel Dolu Kurabiye",
         "zh": "果酱饼干",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "달콤한 잼으로 속을 채운 쿠키",
-        "de": "Ein harter Keks gefüllt mit leckerer Marmelade.",
-        "fr": "Un biscuit dur rempli avec de la confiture délicieuse.",
-        "hu": "Egy kemény keksz ízletes lekvárral töltve.",
-        // "it": "",
-        "ja": "固めに焼いたクッキーにおいしいジャムを練り込んだ。",
-        "pt": "Um biscoito duro cheio de geléia deliciosa.",
-        // "ru": "",
-        // "tr": "",
-        "zh": "装满美味果酱的硬饼干。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "달콤한 잼으로 속을 채운 쿠키",
+    "de": "Ein harter Keks gefüllt mit leckerer Marmelade.",
+    "fr": "Un biscuit dur rempli avec de la confiture délicieuse.",
+    "hu": "Egy kemény keksz ízletes lekvárral töltve.",
+    // "it": "",
+    "ja": "固めに焼いたクッキーにおいしいジャムを練り込んだ。",
+    "pt": "Um biscoito duro cheio de geléia deliciosa.",
+    // "ru": "",
+    "tr": "Leziz reçel dolu sert bir kurabiye.",
+    "zh": "装满美味果酱的硬饼干。"
+  }
 }

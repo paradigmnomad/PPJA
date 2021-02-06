@@ -40,32 +40,30 @@
         "Neutral": ["Emily", "Krobus", "Willy"],
         "Hate": ["Evelyn"],
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        "ko": "녹색 크리스마스 트리",
-         "de": "Gefrorener grüner Weihnachtsbaum",
-        "fr": "Sapin de Noël vert glacé",
-        "hu": "Zöld cukormázas Karácsonyfa",
-        // "it": "",
-        "ja": "ツリーアイシングクッキー(緑)",
-        "pt": "Biscoito de Árvore de Natal",
-        // "ru": "",
-        // "tr": "",
-        "zh": "冰绿圣诞树",
-    },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "녹색아이싱으로 장식한 트리모양 쿠키",
-         "de": "Es sieht irgendwie aus wie ein Weihnachtsbaum - mit einem Schuss grüner Glasur.",
-        "fr": "Ça ressemble à peu près à un sapin de Noël - avec une giclure de vert givré.",
-        "hu": "Valamennyire hasonlít egy Karácsonyfára a zöld cukormáz segítségével.",
-        // "it": "",
-        "ja": "緑のアイシングをトッピングしてクリスマスツリーの形に。",
-        "pt": "É um pouco parecido com uma árvore de Natal - mergulhado em gelo verde.",
-        // "ru": "",
-        // "tr": "",
-        "zh": "它看起来有点像一棵圣诞树——点缀着绿色的糖霜。",
-    }
+  "NameLocalization": {
+    // "es": "",
+    "ko": "녹색 크리스마스 트리",
+    "de": "Gefrorener grüner Weihnachtsbaum",
+    "fr": "Sapin de Noël vert glacé",
+    "hu": "Zöld cukormázas Karácsonyfa",
+    // "it": "",
+    "ja": "ツリーアイシングクッキー(緑)",
+    "pt": "Biscoito de Árvore de Natal",
+    // "ru": "",
+    "tr": "Buzlu Yeşil Noel Ağacı",
+    "zh": "冰绿圣诞树"
+  },
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "녹색아이싱으로 장식한 트리모양 쿠키",
+    "de": "Es sieht irgendwie aus wie ein Weihnachtsbaum - mit einem Schuss grüner Glasur.",
+    "fr": "Ça ressemble à peu près à un sapin de Noël - avec une giclure de vert givré.",
+    "hu": "Valamennyire hasonlít egy Karácsonyfára a zöld cukormáz segítségével.",
+    // "it": "",
+    "ja": "緑のアイシングをトッピングしてクリスマスツリーの形に。",
+    "pt": "É um pouco parecido com uma árvore de Natal - mergulhado em gelo verde.",
+    // "ru": "",
+    "tr": "Noel ağacı gibi duruyor, üstünde yeşil buz kaplaması var.",
+    "zh": "它看起来有点像一棵圣诞树——点缀着绿色的糖霜。"
+  }
 }
