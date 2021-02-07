@@ -7,22 +7,23 @@
     "IsColored": false,
     "GiftTastes":
     {
-		"Love": ["Gregory"],
+        "Love": ["Gregory"],
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian", "Sheila"],
     },
     "Recipe": null,
     "PurchasePrice": 480,
-  "NameLocalization": { 
-		"es": "Carne de caballo",
-		"ko": "말고기",
+    "NameLocalization":
+    {
+        "es": "Carne de caballo",
+        "ko": "말고기",
         //"de": "",
         "fr": "Viande de cheval",
         "hu": "Lóhús",
         // "it": "",
         //"ja": "",
         //"pt": "",
-        // "ru": "",
+        "ru": "Мясо лошади",
         "tr": "At Eti",
         "zh": "马肉",
     },
@@ -36,9 +37,9 @@
         // "it": "",
         //"ja": "",
         //"pt": "",
-        // "ru": "",
+        "ru": "На это немного неприятно смотреть... но, вероятно, из этого получится приличная еда.",
         "tr": "Buna bakmak biraz üzücü... ama muhtemelen iyi bir öğün yapılabilir.",
         "zh": "看着有点不舒服...但它可能会成为一顿像样的饭。",
-    },    
-    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
+    },
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

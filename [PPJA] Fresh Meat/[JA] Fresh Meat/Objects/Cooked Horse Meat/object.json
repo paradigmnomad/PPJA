@@ -39,7 +39,7 @@
         // "it": "",
         //"ja": "",
         //"pt": "",
-        // "ru": "",
+        "ru": "Приготовленное мясо лошади",
         "tr": "Pişmiş At Eti",
         "zh": "熟制马肉",
     },
@@ -53,13 +53,13 @@
         // "it": "",
         //"ja": "",
         //"pt": "",
-        // "ru": "",
+        "ru": "Мясо от лошади, уже приготовленное и готовое к использованию в рецептах.",
         "tr": "At eti, pişmiş ve tariflerde kullanıma hazır.",
         "zh": "取自马的肉，已经煮熟，可用于进一步烹调。",
     },
     "ContextTags": [
         "cooked_meat",
         "meat_item",
-    ],    
-    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
+    ],
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -38,9 +38,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Pişmiş Sürüngen Eti",
-         "zh": "熟制爬行动物肉",
+        "ru": "Приготовленное мясо рептилии",
+        "tr": "Pişmiş Sürüngen Eti",
+        "zh": "熟制爬行动物肉",
     },
     "DescriptionLocalization":
     {
@@ -52,13 +52,13 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Мясо рептилии, уже приготовленное и готовое к использованию в рецептах. На вкус как курица.",
         "tr": "Sürüngen eti, zaten pişmiş ve tariflerde kullanıma hazır.",
-         "zh": "来自爬行动物的肉，已经煮熟，可以用于烹饪。尝起来味道像鸡肉。",
+        "zh": "来自爬行动物的肉，已经煮熟，可以用于烹饪。尝起来味道像鸡肉。",
     },
     "ContextTags": [
         "cooked_meat",
         "meat_item",
-    ],    
-    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
+    ],
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

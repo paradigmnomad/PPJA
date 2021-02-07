@@ -7,8 +7,8 @@
     "IsColored": false,
     "GiftTastes":
     {
-	"Love": ["Demetrius", "Maru"],
-	"Like": ["Krobus", "Wizard", "Harvey"],
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
         "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
     },
     "Recipe": null,
@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "ДНК утки",
         "tr": "Ördek DNA'sı",
-         "zh": "鸭子DNA",
+        "zh": "鸭子DNA",
     },
     "DescriptionLocalization":
     {
@@ -36,9 +36,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Bir tüyden alınmış ördek DNA'sı.",
-         "zh": "从鸭毛中提取的鸭子DNA。",
+        "ru": "Небольшой фрагмент ДНК утки, извлеченной из пера",
+        "tr": "Bir tüyden alınmış ördek DNA'sı.",
+        "zh": "从鸭毛中提取的鸭子DNA。",
     },
     "ContextTags": [
         "dna_item",

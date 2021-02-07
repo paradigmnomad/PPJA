@@ -52,21 +52,22 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Пицца 'Дьявол'",
         "tr": "Acılı Pizza",
         "zh": "恶魔披萨",
     },
-  "DescriptionLocalization": {
-    "es": "Pizza con chorizo picante y pimiento rojo.",
-    "ko": "매운 소시지와 고추가 들어간 피자.",
-    "de": "Pizza mit scharfer Salami und Chili",
-    "fr": "Pizza avec de la saucisse épicée et du piment rouge.",
-    "hu": "Csípős szalámis és csilis pizza.",
-    // "it": "",
-    // "ja": "",
-    // "pt": "",
-    // "ru": "",
-    "tr": "Acılı sosisli ve kırmızı biberli pizza.",
-    "zh": "红辣椒香肠披萨，辣得可怕。"
-  }
+    "DescriptionLocalization":
+    {
+        "es": "Pizza con chorizo picante y pimiento rojo.",
+        "ko": "매운 소시지와 고추가 들어간 피자.",
+        "de": "Pizza mit scharfer Salami und Chili",
+        "fr": "Pizza avec de la saucisse épicée et du piment rouge.",
+        "hu": "Csípős szalámis és csilis pizza.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Пицца с острой колбасой и красным перцем",
+        "tr": "Acılı sosisli ve kırmızı biberli pizza.",
+        "zh": "红辣椒香肠披萨，辣得可怕。"
+    }
 }

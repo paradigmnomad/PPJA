@@ -35,30 +35,32 @@
         "PurchasePrice": 2000,
         "PurchaseRequirements": ["HasCookingRecipe Batter", "y 4"]
     },
-  "NameLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "Peixe e Batatas Fritas",
-    // "ru": "",
-    "tr": "Bal�k ve Cips"
-    // "zh": "",
-  },
-  "DescriptionLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "Um fil� de peixe rec�m-frito com grandes batatas fritas fatiadas. Um cl�ssico.",
-    // "ru": "",
-    "tr": "Taze k�zart�lm�� bir bal�k filetonun yan�nda b�y�k dilimli patates k�zartmas�. Bir klasik."
-    // "zh": "",
-  }
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Peixe e Batatas Fritas",
+        "ru": "Рыба с жареной картошкой",
+        "tr": "Balýk ve Cips",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Um filé de peixe recém-frito com grandes batatas fritas fatiadas. Um clássico.",
+        "ru": "Свежеобжаренное рыбное филе с крупными ломтиками жареного картофеля. Классика.",
+        "tr": "Taze kýzartýlmýþ bir balýk filetonun yanýnda büyük dilimli patates kýzartmasý. Bir klasik.",
+        // "zh": "",
+    }
 }

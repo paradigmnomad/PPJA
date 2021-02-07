@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Yaratık DNA'sı",
-         "zh": "小动物DNA",
+        "ru": "ДНК существа",
+        "tr": "Yaratık DNA'sı",
+        "zh": "小动物DNA",
     },
     "DescriptionLocalization":
     {
@@ -36,9 +36,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Небольшой фрагмент ДНК существа, найденного в загробном мире, полученного путем сканирования с помощью синтезатора ДНК.",
         "tr": "Dünyanın etrafındaki çeşitli yaratıkları DNA sentezleyiciyle tarayarak alınmış DNA.",
-         "zh": "用DNA离析机扫描星露谷世界里找到的各种各样的小生灵后获得的DNA样本。",
+        "zh": "用DNA离析机扫描星露谷世界里找到的各种各样的小生灵后获得的DNA样本。",
     },
     "ContextTags": [
         "dna_item",

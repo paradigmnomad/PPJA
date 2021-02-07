@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Kümes Hayvanı Eti",
-         "zh": "飞禽肉",
+        "ru": "Дичь",
+        "tr": "Kümes Hayvanı Eti",
+        "zh": "飞禽肉",
     },
     "DescriptionLocalization":
     {
@@ -36,9 +36,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Yabani bir kuşun eti.",
-         "zh": "野生飞禽的肉。",
-    },    
+        "ru": "Мясо дичи",
+        "tr": "Yabani bir kuşun eti.",
+        "zh": "野生飞禽的肉。",
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

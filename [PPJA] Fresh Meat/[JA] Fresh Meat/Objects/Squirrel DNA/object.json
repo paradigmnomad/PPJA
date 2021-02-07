@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "ДНК белки",
         "tr": "Sincap DNA'sı",
-         "zh": "松鼠DNA",
+        "zh": "松鼠DNA",
     },
     "DescriptionLocalization":
     {
@@ -36,9 +36,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Небольшой фрагмент ДНК белки, полученный с помощью синтезатора ДНК",
         "tr": "DNA sentezleyiciyle etraftaki sincapların taranmasıyla elde edilen DNA.",
-         "zh": "这是用DNA离析机扫描松鼠得到的一些松鼠DNA。",
+        "zh": "这是用DNA离析机扫描松鼠得到的一些松鼠DNA。",
     },
     "ContextTags": [
         "dna_item",

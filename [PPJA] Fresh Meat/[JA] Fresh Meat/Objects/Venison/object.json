@@ -10,7 +10,7 @@
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian"],
     },
-    "Recipe": null,    
+    "Recipe": null,
     "NameLocalization":
     {
         "es": "Venado",
@@ -21,22 +21,23 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Оленина",
         "tr": "Geyik Eti",
         "zh": "鹿肉",
     },
-  "DescriptionLocalization": {
-    "es": "Carne blanda y tierna cortada de un ciervo.",
-    "ko": "부드럽고 연한 사슴고기.",
-    // "de": "",
-    "fr": "Pièce de viande de cerf tendre et douce.",
-    "hu": "Egy őz lágy, porhanyós hússzelete.",
-    // "it": "",
-    // "ja": "",
-    // "pt": "",
-    // "ru": "",
-    "tr": "Bir geyikten kesilen yumuşak et.",
-    "zh": "从鹿身上切下来的柔软的肉。"
-  },    
+    "DescriptionLocalization":
+    {
+        "es": "Carne blanda y tierna cortada de un ciervo.",
+        "ko": "부드럽고 연한 사슴고기.",
+        // "de": "",
+        "fr": "Pièce de viande de cerf tendre et douce.",
+        "hu": "Egy őz lágy, porhanyós hússzelete.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Мягкое, нежное мясо, вырезанное из оленя",
+        "tr": "Bir geyikten kesilen yumuşak et.",
+        "zh": "从鹿身上切下来的柔软的肉。"
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

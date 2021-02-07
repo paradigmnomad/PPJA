@@ -49,21 +49,22 @@
         // "it": "",
         // "ja": "",
         "pt": "Asam Pedas",
-        // "ru": "",
+        "ru": "Бульон кисло-пряный",
         "tr": "Asam Pedas",
         // "zh": "",
     },
-  "DescriptionLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "Um prato com um sabor azedo e picante distinto. Preparado com peixes, tomates e temperos.",
-    // "ru": "",
-    "tr": "Ay�rt edici ac�l� ve ek�i bir tad� var. Bal�k,domates ve baharatlarla haz�rlan�r."
-    // "zh": "",
-  }
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Um prato com um sabor azedo e picante distinto. Preparado com peixes, tomates e temperos.",
+        "ru": "Блюдо с характерным кисло - пряным вкусом. Готовится с рыбой, помидорами и приправами",
+        "tr": "Ayýrt edici acýlý ve ekþi bir tadý var. Balýk,domates ve baharatlarla hazýrlanýr.",
+        // "zh": "",
+    }
 }

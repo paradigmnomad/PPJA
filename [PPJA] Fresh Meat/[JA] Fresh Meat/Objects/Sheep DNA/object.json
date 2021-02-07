@@ -7,8 +7,8 @@
     "IsColored": false,
     "GiftTastes":
     {
-	"Love": ["Demetrius", "Maru"],
-	"Like": ["Krobus", "Wizard", "Harvey"],
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
         "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
     },
     "Recipe": null,
@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-       "tr": "Koyun DNA'sı",
-         "zh": "绵羊DNA",
+        "ru": "ДНК овцы",
+        "tr": "Koyun DNA'sı",
+        "zh": "绵羊DNA",
     },
     "DescriptionLocalization":
     {
@@ -36,9 +36,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Небольшой фрагмент ДНК овцы, извлеченный из шерсти, вы не совсем уверены как у вас это получилось, но это получилось.",
         "tr": "Yünden alınmış koyun DNA'sı. Bunun nasıl işe yaradığından emin değilsin.",
-         "zh": "从羊毛中提取的一些绵羊DNA。你不太清楚这是怎么作用的，但它确实起到了效果。",
+        "zh": "从羊毛中提取的一些绵羊DNA。你不太清楚这是怎么作用的，但它确实起到了效果。",
     },
     "ContextTags": [
         "dna_item",

@@ -11,16 +11,17 @@
         "Hate": ["Sebastian"],
     },
     "Recipe": null,
-	"NameLocalization": { 
-		"es": "Cuerno del ciervo",
-		"ko": "녹용",
+    "NameLocalization":
+    {
+        "es": "Cuerno del ciervo",
+        "ko": "녹용",
         //"de": "",
         "fr": "Ramure de cerf",
         "hu": "Szarvasagancs",
         // "it": "",
         //"ja": "",
         //"pt": "",
-        // "ru": "",
+        "ru": "Оленьи рога",
         "tr": "Geyik Boynuzu",
         "zh": "鹿茸",
     },
@@ -34,9 +35,9 @@
         // "it": "",
         //"ja": "",
         //"pt": "",
-        // "ru": "",
+        "ru": "Странные оленьи рога",
         "tr": "Tek bir geyik boynuzu",
         "zh": "一种奇异的鹿角。",
-    },  
-    "EnableWithMod": "Cherry.MultiYieldCrops"    
+    },
+    "EnableWithMod": "Cherry.MultiYieldCrops"
 }

@@ -40,22 +40,23 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Дракон в кисло-сладкой глазури",
         "tr": "Tatlı ve Ekşi Lokmalar.",
         "zh": "酸甜肉块",
     },
-  "DescriptionLocalization": {
-    "es": "Trozos de suculenta carne de dragón salteados con un glaseado agridulce espeso.",
-    "ko": "육즙이 풍부한 드래곤 고기에 끈적하고 새콤달콤한 소스를 듬뿍 발랐다.",
-    // "de": "",
-    "fr": "Morceaux de viande de dragon succulente sautés avec un glaçage épais et aigre-doux.",
-    "hu": "Szaftos sárkányhús darabok sűrű, édes-savanyú mártással pácolva.",
-    // "it": "",
-    // "ja": "",
-    // "pt": "",
-    // "ru": "",
-    "tr": "Sulu ejderha eti parçaları; yoğun, tatlı ve ekşi bir parıltıya doymuş.",
-    "zh": "大块多汁的龙肉，用浓糖醋汁猛火收汁炒制而成。"
-  },
+    "DescriptionLocalization":
+    {
+        "es": "Trozos de suculenta carne de dragón salteados con un glaseado agridulce espeso.",
+        "ko": "육즙이 풍부한 드래곤 고기에 끈적하고 새콤달콤한 소스를 듬뿍 발랐다.",
+        // "de": "",
+        "fr": "Morceaux de viande de dragon succulente sautés avec un glaçage épais et aigre-doux.",
+        "hu": "Szaftos sárkányhús darabok sűrű, édes-savanyú mártással pácolva.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Куски сочного драконьего мяса, обжаренные в густой кисло-сладкой глазури.",
+        "tr": "Sulu ejderha eti parçaları; yoğun, tatlı ve ekşi bir parıltıya doymuş.",
+        "zh": "大块多汁的龙肉，用浓糖醋汁猛火收汁炒制而成。"
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

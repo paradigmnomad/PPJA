@@ -20,9 +20,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Bulut Eti",
-         "zh": "云朵肉",
+        "ru": "Облачное мясо",
+        "tr": "Bulut Eti",
+        "zh": "云朵肉",
     },
     "DescriptionLocalization":
     {
@@ -34,9 +34,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Tadı... hiç gibi. Pişirirsen uçup gidecek.",
-         "zh": "它尝起来像...什么味都尝不出。煮熟了就会蒸发掉。",
+        "ru": "На вкус ... ничего. Оно испарится, если его сварить.",
+        "tr": "Tadı... hiç gibi. Pişirirsen uçup gidecek.",
+        "zh": "它尝起来像...什么味都尝不出。煮熟了就会蒸发掉。",
     },
     "EnableWithMod": "spacechase0.BugNet",
 }

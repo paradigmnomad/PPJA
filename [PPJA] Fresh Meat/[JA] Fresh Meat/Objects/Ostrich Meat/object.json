@@ -11,32 +11,32 @@
         "Dislike": ["Abigail", "Dwarf", "Haley", "Jas", "Pam", "Vincent", "Wizard"],
         "Hate": ["Sebastian", "Sheila"],
     },
-  "NameLocalization": 
-  {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "Carne de avestruz",
-    // "ru": "",
-    "tr": "Deveku�u Eti"
-    // "zh": "",
-  },
-  "DescriptionLocalization": 
-  {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "Este peda�o de carne pesa 130 lbs.",
-    // "ru": "",
-    "tr": "Bu et par�as�n�n a��rl��� 130lbs. Etkilendim."
-    // "zh": "",
-  },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Carne de avestruz",
+        "ru": "Мясо страуса",
+        "tr": "Devekuþu Eti",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Este pedaço de carne pesa 130 lbs.",
+        "ru": "Этот кусок мяса весит 130 фунтов. Я впечатлен.",
+        "tr": "Bu et parçasýnýn aðýrlýðý 130lbs. Etkilendim.",
+        // "zh": "",
+    },
 }

@@ -44,21 +44,22 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        "tr": "Pirin�le Tatl� ve Ek�i Domuz Eti",
+        "ru": "Свинина в кисло-сладком соусе с рисом",
+        "tr": "Pirinçle Tatlý ve Ekþi Domuz Eti",
         // "zh": "",
     },
-  "DescriptionLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    // "pt": "",
-    // "ru": "",
-    // "tr": "Domuz eti, pirin� ile tatl� ve ek�i sostan yap�lan bir yemek.",
-    // "zh": "",
-  }
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Блюдо из свинины, риса и кисло-сладкого соуса.",
+        "tr": "Domuz eti, pirinç ile tatlý ve ekþi sostan yapýlan bir yemek.",
+        // "zh": "",
+    }
 }

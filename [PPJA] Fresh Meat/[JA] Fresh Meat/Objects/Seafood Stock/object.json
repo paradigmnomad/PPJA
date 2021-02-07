@@ -54,7 +54,7 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Бульон из морепродуктов",
         "tr": "Deniz Ürünü Etsuyu",
         "zh": "海鲜高汤",
     },
@@ -68,8 +68,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-       "tr": "Normalde çorba ana malzemesi olarak kullanılan bu etsuyu, burada güveç yapılmış.",
+        "ru": "Бульон из тушеных морепродуктов, который часто используется в качестве основы для супа.",
+        "tr": "Normalde çorba ana malzemesi olarak kullanılan bu etsuyu, burada güveç yapılmış.",
         "zh": "炖煮的海鲜高汤，常用作汤底。",
     }
 }

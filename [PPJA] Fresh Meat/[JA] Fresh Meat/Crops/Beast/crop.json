@@ -27,10 +27,10 @@
         "hu": "Vadhús magvak",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes de Besta",
-        // "ru": "",
-         "tr": "Canavar Tohumu",
-         "zh": "野兽肉种子",
+        "pt": "Sementes de Besta",
+        "ru": "Семена мяса зверя",
+        "tr": "Canavar Tohumu",
+        "zh": "野兽肉种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -41,9 +41,9 @@
         "hu": "Ezeket tavasszal, vagy nyáron ültesse el. 8 napig tart megérniük.",
         // "it": "",
         // "ja": "",
-         "pt": "Plante isso no verão. Leva 14 dias para amadurecer.",
-        // "ru": "",
-         "tr": "Baharda veya yazın ekilir. 14 günde yetişir.",
-         "zh": "春天或夏天播种。14天成熟。",
+        "pt": "Plante isso no verão. Leva 14 dias para amadurecer.",
+        "ru": "Сажайте их весной или летом. Созревание занимает 14 дней",
+        "tr": "Baharda veya yazın ekilir. 14 günde yetişir.",
+        "zh": "春天或夏天播种。14天成熟。",
     },
 }

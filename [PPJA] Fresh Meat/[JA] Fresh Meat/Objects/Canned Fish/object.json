@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Konserve Balık",
-         "zh": "鱼肉罐头",
+        "ru": "Рыбные консервы",
+        "tr": "Konserve Balık",
+        "zh": "鱼肉罐头",
     },
     "DescriptionLocalization":
     {
@@ -36,8 +36,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Konservede bir balık",
-         "zh": "一听新鲜的鱼肉罐头。",
+        "ru": "Жестянка со свежими рыбными консервами.",
+        "tr": "Konservede bir balık",
+        "zh": "一听新鲜的鱼肉罐头。",
     }
 }

@@ -34,30 +34,32 @@
         "PurchasePrice": 2000,
         "PurchaseRequirements": ["HasCookingRecipe Sausage Mustard", "y 4"],
     },
-  "NameLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "Churrasco de Salsicha",
-    // "ru": "",
-    "tr": "Barbek� Sosis"
-    // "zh": "",
-  },
-  "DescriptionLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "Uma salsicha assada, servida com mostarda.",
-    // "ru": "",
-    "tr": "Barbek�de pi�irilmi� sosis, yan�nda hardalla servis edilir."
-    // "zh": "",
-  }
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Churrasco de Salsicha",
+        "ru": "Сосиски барбекю",
+        "tr": "Barbekü Sosis",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Uma salsicha assada, servida com mostarda.",
+        "ru": "Жареная сосиски, поданные с горчицей.",
+        "tr": "Barbeküde piþirilmiþ sosis, yanýnda hardalla servis edilir.",
+        // "zh": "",
+    }
 }

@@ -1,53 +1,55 @@
 {
-  "Name": "Roasted Fowl",
-  "Description": "Marinated game fowl roasted in the oven and served with rice and slaw.",
-  "Category": "Cooking",
-  "Edibility": 60,
-  "Price": 175,
-  "IsColored": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Fowl",
-        "Count": 1,
-      },
-      {
-        "Object": 232,
-        "Count": 2,
-      },
-      {
-        "Object": 648,
-        "Count": 1,
-      },
-    ],
-  },
-  "PurchasePrice": 200,
-  "NameLocalization": {
-    "es": "Ave asada",
-    "ko": "구운 새고기",
-    // "de": "",
-    "fr": "Volaille rôtie",
-    "hu": "Vadmadár pecsenye",
-    // "it": "",
-    // "ja": "",
-    // "pt": "",
-    // "ru": "",
-    "tr": "Kızartılmış Kümes Hayvanı Eti",
-    "zh": "烤飞禽",
-  },
-  "DescriptionLocalization": {
-    "es": "Aves de caza marinadas asadas al horno y acompañadas de arroz y repollo.",
-    "ko": "양념하여 오븐에 구운 새고기에 밥과 양배추 샐러드를 곁들였다.",
-    // "de": "",
-    "fr": "Marinade de gibier de volaille rôti au four et servi avec du riz et du chou cru.",
-    "hu": "Marinált vadmadár hús rizzsel és káposztasalátával tálalva.",
-    // "it": "",
-    // "ja": "",
-    // "pt": "",
-    // "ru": "",
-   "tr": " Marine edilmiş kümes hayvanı eti fırında pişirilmiş ve lahana salatası ve pirinçle servis edilir.",
-    "zh": "腌制好的飞禽送入烤箱烤制，配合米饭和卷心菜沙拉食用。"
-  },
-  "DisableWithMod": "HadiZosa.BFAVnewmeat"
+    "Name": "Roasted Fowl",
+    "Description": "Marinated game fowl roasted in the oven and served with rice and slaw.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 175,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Fowl",
+            "Count": 1,
+        },
+        {
+            "Object": 232,
+            "Count": 2,
+        },
+        {
+            "Object": 648,
+            "Count": 1,
+        }, ],
+    },
+    "PurchasePrice": 200,
+    "NameLocalization":
+    {
+        "es": "Ave asada",
+        "ko": "구운 새고기",
+        // "de": "",
+        "fr": "Volaille rôtie",
+        "hu": "Vadmadár pecsenye",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Жаренная дичь",
+        "tr": "Kızartılmış Kümes Hayvanı Eti",
+        "zh": "烤飞禽",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Aves de caza marinadas asadas al horno y acompañadas de arroz y repollo.",
+        "ko": "양념하여 오븐에 구운 새고기에 밥과 양배추 샐러드를 곁들였다.",
+        // "de": "",
+        "fr": "Marinade de gibier de volaille rôti au four et servi avec du riz et du chou cru.",
+        "hu": "Marinált vadmadár hús rizzsel és káposztasalátával tálalva.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Маринованное мясо дичи жарится в духовке и подается с рисом и капустой.",
+        "tr": " Marine edilmiş kümes hayvanı eti fırında pişirilmiş ve lahana salatası ve pirinçle servis edilir.",
+        "zh": "腌制好的飞禽送入烤箱烤制，配合米饭和卷心菜沙拉食用。"
+    },
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

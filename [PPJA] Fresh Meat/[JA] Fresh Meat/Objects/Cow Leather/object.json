@@ -11,16 +11,17 @@
         "Hate": ["Sebastian"],
     },
     "Recipe": null,
-	"NameLocalization": { 
-		"es": "Piel de vaca",
-		"ko": "소가죽",
+    "NameLocalization":
+    {
+        "es": "Piel de vaca",
+        "ko": "소가죽",
         //"de": "",
         "fr": "Cuir de vache",
         "hu": "Tehénbőr",
         // "it": "",
         //"ja": "",
         //"pt": "",
-        // "ru": "",
+        "ru": "Шкура коровы",
         "tr": "İnek Derisi",
         "zh": "奶牛皮",
     },
@@ -34,12 +35,12 @@
         // "it": "",
         //"ja": "",
         //"pt": "",
-        // "ru": "",
+        "ru": "Коровья выдубленная шкура",
         "tr": "Güneşte bekletilmiş inek derisi.",
         "zh": "经过鞣制的奶牛皮。",
     },
-	"ContextTags": [
+    "ContextTags": [
         "leather_item",
     ],
-    "EnableWithMod": "Cherry.MultiYieldCrops"    
+    "EnableWithMod": "Cherry.MultiYieldCrops"
 }

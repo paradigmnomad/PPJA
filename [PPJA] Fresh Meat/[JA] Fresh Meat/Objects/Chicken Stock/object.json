@@ -47,24 +47,25 @@
         "de": "Hühnerbrühe",
         "fr": "Bouillon de poulet",
         "hu": "Csirke alaplé",
-         // "it": "",
-         // "ja": "",
-         // "pt": "",
-         // "ru": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Куринный бульон",
         "tr": "Tavuk Etsuyu Güveci",
         "zh": "鸡肉高汤",
     },
-  "DescriptionLocalization": {
-    "es": "A menudo se usa como base para la sopa.",
-    "ko": "수프의 기본으로 자주 사용되는 닭고기 국물.",
-    "de": "Gedünstete Hühnerbrühe, die oft als Grundlage für Suppe verwendet wird.",
-    "fr": "Mijoté de poule en bouillon souvent utilisé comme base d'une soupe.",
-    "hu": "Párolt csirkehús alaplévé készítve, melyet gyakran használják levesek alapjául",
-    // "it": "",
-    // "ja": "",
-    // "pt": "",
-    // "ru": "",
-    "tr": "Normalde çorba ana malzemesi olarak kullanılan tavuk et suyu, burada güveç yapılmış.",
-    "zh": "鸡肉高汤。这是一碗鸡肉高汤，简单点来说，它常常作为汤底。"
-  }
+    "DescriptionLocalization":
+    {
+        "es": "A menudo se usa como base para la sopa.",
+        "ko": "수프의 기본으로 자주 사용되는 닭고기 국물.",
+        "de": "Gedünstete Hühnerbrühe, die oft als Grundlage für Suppe verwendet wird.",
+        "fr": "Mijoté de poule en bouillon souvent utilisé comme base d'une soupe.",
+        "hu": "Párolt csirkehús alaplévé készítve, melyet gyakran használják levesek alapjául",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Тушеный куриный бульон, который часто используют в качестве основы для супа.",
+        "tr": "Normalde çorba ana malzemesi olarak kullanılan tavuk et suyu, burada güveç yapılmış.",
+        "zh": "鸡肉高汤。这是一碗鸡肉高汤，简单点来说，它常常作为汤底。"
+    }
 }

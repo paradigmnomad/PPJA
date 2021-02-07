@@ -9,7 +9,7 @@
     {
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian"],
-    },    
+    },
     "NameLocalization":
     {
         "es": "Carne de jabalí",
@@ -20,22 +20,23 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Мясо дикого кабана",
         "tr": "Yaban Domuzu Eti",
-         "zh": "野猪肉",
+        "zh": "野猪肉",
     },
-  "DescriptionLocalization": {
-    "es": "Un corte de jabalí jugoso y sabroso.",
-    "ko": "누린내가 있지만 맛있는 야생 멧돼지 고기.",
-    // "de": "",
-    "fr": "Une tranche de sanglier sauvage à l'odeur de gibier mais savoureuse.",
-    "hu": "Egy vaddisznó rágós, de ízletes hússzelete.",
-    // "it": "",
-    // "ja": "",
-    // "pt": "",
-    // "ru": "",
-    "tr": "Yaban domuzundan kesilmiş lezzetli et.",
-    "zh": "美味可口的野猪肉。"
-  },    
+    "DescriptionLocalization":
+    {
+        "es": "Un corte de jabalí jugoso y sabroso.",
+        "ko": "누린내가 있지만 맛있는 야생 멧돼지 고기.",
+        // "de": "",
+        "fr": "Une tranche de sanglier sauvage à l'odeur de gibier mais savoureuse.",
+        "hu": "Egy vaddisznó rágós, de ízletes hússzelete.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Жесткое, но вкусное мясо дикого кабана.",
+        "tr": "Yaban domuzundan kesilmiş lezzetli et.",
+        "zh": "美味可口的野猪肉。"
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -1,59 +1,61 @@
 {
-  "Name": "Venison Handpie",
-  "Description": "A fried pasty stuffed with soft, garlicky deer meat and vegetables.",
-  "Category": "Cooking",
-  "Edibility": 60,
-  "Price": 890,
-  "IsColored": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Cooked Venison",
-        "Count": 1,
-      },
-      {
-        "Object": 20,
-        "Count": 1,
-      },
-      {
-        "Object": 248,
-        "Count": 1,
-      },
-      {
-        "Object": "Batter",
-        "Count": 1,
-      },
-    ],
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 1190,
-    "PurchaseRequirements": [ "HasCookingRecipe Batter", "y 3" ],
-  },
-  "NameLocalization": {
-    "es": "Empanada de venado",
-    "ko": "사슴고기 핸드파이",
-    // "de": "",
-    "fr": "Tourte de venaison",
-    "hu": "Őzhúsos papucs",
-    // "it": "",
-    // "ja": "",
-    // "pt": "",
-    // "ru": "",
-    "tr": "Koyun Etli Turta",
-    "zh": "鹿肉手馅饼",
-  },
-  "DescriptionLocalization": {
-    "es": "Una empanada frita rellena de tierna carne de ciervo al ajo y verduras.",
-    "ko": "마늘로 양념한 부드러운 사슴고기와 야채를 채워 튀긴 파이.",
-    // "de": "",
-    "fr": "Un pâté frit farci de viande de cerf douce et aillée avec des légumes.",
-    "hu": "Egy péksütemény lágy, fokhagymás őzhússal és zöldségekkel.",
-    // "it": "",
-    // "ja": "",
-    // "pt": "",
-    // "ru": "",
-    "tr": "Yumuşak ve sarımsaklı geyik eti ve sebzeler bir mantının içine doldurulup kızartılmış.",
-    "zh": "一种油炸的馅饼，里面塞有柔软的蒜香鹿肉和蔬菜。"
-  },
-  "DisableWithMod": "HadiZosa.BFAVnewmeat"
+    "Name": "Venison Handpie",
+    "Description": "A fried pasty stuffed with soft, garlicky deer meat and vegetables.",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "Price": 890,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cooked Venison",
+            "Count": 1,
+        },
+        {
+            "Object": 20,
+            "Count": 1,
+        },
+        {
+            "Object": 248,
+            "Count": 1,
+        },
+        {
+            "Object": "Batter",
+            "Count": 1,
+        }, ],
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1190,
+        "PurchaseRequirements": ["HasCookingRecipe Batter", "y 3"],
+    },
+    "NameLocalization":
+    {
+        "es": "Empanada de venado",
+        "ko": "사슴고기 핸드파이",
+        // "de": "",
+        "fr": "Tourte de venaison",
+        "hu": "Őzhúsos papucs",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Пирог из оленины",
+        "tr": "Koyun Etli Turta",
+        "zh": "鹿肉手馅饼",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una empanada frita rellena de tierna carne de ciervo al ajo y verduras.",
+        "ko": "마늘로 양념한 부드러운 사슴고기와 야채를 채워 튀긴 파이.",
+        // "de": "",
+        "fr": "Un pâté frit farci de viande de cerf douce et aillée avec des légumes.",
+        "hu": "Egy péksütemény lágy, fokhagymás őzhússal és zöldségekkel.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Пирог, фаршированный мягким чесночным оленьим мясом и овощами.",
+        "tr": "Yumuşak ve sarımsaklı geyik eti ve sebzeler bir mantının içine doldurulup kızartılmış.",
+        "zh": "一种油炸的馅饼，里面塞有柔软的蒜香鹿肉和蔬菜。"
+    },
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

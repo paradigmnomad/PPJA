@@ -20,10 +20,10 @@
         "hu": "Vadhús",
         // "it": "",
         // "ja": "",
-         "pt": "Carne de Besta",
-        // "ru": "",
-         "tr": "Canavar Eti",
-         "zh": "野兽肉",
+        "pt": "Carne de Besta",
+        "ru": "Мясо зверя",
+        "tr": "Canavar Eti",
+        "zh": "野兽肉",
     },
     "DescriptionLocalization":
     {
@@ -34,10 +34,10 @@
         "hu": "Egy vadállat húsának darabja.",
         // "it": "",
         // "ja": "",
-         "pt": "Um corte de carne de uma besta selvagem.",
-        // "ru": "",
-         "tr": "Vahşi bir canavardan bir parça et.",
-         "zh": "从野兽身上切下来的肉。",
+        "pt": "Um corte de carne de uma besta selvagem.",
+        "ru": "Кусок мяса дикого зверя",
+        "tr": "Vahşi bir canavardan bir parça et.",
+        "zh": "从野兽身上切下来的肉。",
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -7,13 +7,13 @@
     "IsColored": false,
     "GiftTastes":
     {
-		"Love": ["Gregory"],
+        "Love": ["Gregory"],
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian", "Sheila"],
     },
     "Recipe": null,
     "PurchasePrice": 100,
-	"NameLocalization":
+    "NameLocalization":
     {
         "es": "Carne de pájaro",
         "ko": "새고기",
@@ -22,10 +22,10 @@
         "hu": "Madárhús",
         // "it": "",
         // "ja": "",
-         "pt": "Carne de Pássaro",
-        // "ru": "",
-         "tr": "Kuş Eti",
-         "zh": "鸟肉",
+        "pt": "Carne de Pássaro",
+        "ru": "Мясо птицы",
+        "tr": "Kuş Eti",
+        "zh": "鸟肉",
     },
     "DescriptionLocalization":
     {
@@ -36,10 +36,10 @@
         "hu": "Egy nagyon apró szelet egy madár húsából. Lehet, hogy egy cicának ízlene.",
         // "it": "",
         // "ja": "",
-         "pt": "Um pequeno pedaço de carne de um pássaro. Talvez um gato goste?",
-        // "ru": "",
-         "tr": "Bir kuşun etinin çok küçük bir parçası. Belki de kedi bunu beğenir?",
-         "zh": "一块很小的鸟肉。也许某只猫会喜欢它？",
+        "pt": "Um pequeno pedaço de carne de um pássaro. Talvez um gato goste?",
+        "ru": "Очень маленький кусочек мяса птицы. Может быть, кошке это понравится?",
+        "tr": "Bir kuşun etinin çok küçük bir parçası. Belki de kedi bunu beğenir?",
+        "zh": "一块很小的鸟肉。也许某只猫会喜欢它？",
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

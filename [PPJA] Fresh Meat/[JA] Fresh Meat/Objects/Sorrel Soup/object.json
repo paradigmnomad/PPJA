@@ -38,30 +38,32 @@
         "PurchasePrice": 900,
         "PurchaseRequirements": ["HasCookingRecipe Chicken-Stock", "y 4"],
     },
-  "NameLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "Sopa de Alaz�o",
-    // "ru": "",
-    "tr": "Kuzukula�� �orbas�"
-    // "zh": "",
-  },
-  "DescriptionLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "Uma sopa simples feita de espinafre, bok choy, e dente-de-le�o.",
-    // "ru": "",
-    "tr": "Ispanak, �in lahanas� ve karahindibadan yap�lm�� basit bir �orba."
-    // "zh": "",
-  }
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Sopa de Alazão",
+        "ru": "Щавелевый суп",
+        "tr": "Kuzukulaðý Çorbasý",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Uma sopa simples feita de espinafre, bok choy, e dente-de-leão.",
+        "ru": "Простой суп из шпината, бок-чоя и одуванчика.",
+        "tr": "Ispanak, çin lahanasý ve karahindibadan yapýlmýþ basit bir çorba.",
+        // "zh": "",
+    }
 }

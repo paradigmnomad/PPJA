@@ -7,7 +7,7 @@
     "IsColored": false,
     "GiftTastes":
     {
-		"Love": ["Gregory"],
+        "Love": ["Gregory"],
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian", "Sheila"],
     },
@@ -21,9 +21,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Anka Eti",
-         "zh": "凤凰肉",
+        "ru": "Мясо феникса",
+        "tr": "Anka Eti",
+        "zh": "凤凰肉",
     },
     "DescriptionLocalization":
     {
@@ -35,9 +35,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Aslında çiğ, ama ankadan kesilen bu et cayır cayır yanıyor.",
-         "zh": "这块凤凰肉是生的，但它从切下来的时候就很烫。",
-    },    
+        "ru": "Кусок сырого мяса, вырезанное из феникса. Это мясо обжигающе горячее.",
+        "tr": "Aslında çiğ, ama ankadan kesilen bu et cayır cayır yanıyor.",
+        "zh": "这块凤凰肉是生的，但它从切下来的时候就很烫。",
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

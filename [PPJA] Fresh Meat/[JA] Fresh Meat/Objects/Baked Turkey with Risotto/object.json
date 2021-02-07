@@ -35,22 +35,23 @@
         // "it": "",
         "ja": "ローストターキーのリゾット",
         "pt": "Peru assado com risoto",
-        // "ru": "",
+        "ru": "Запеченная индейка с ризотто",
         "tr": "Pişmiş Hindiyle Risotto",
         "zh": "烤火鸡配意式烩饭",
     },
-  "DescriptionLocalization": {
-    "es": "Rebanadas de pavo tiernas y jugosas sobre risotto bien caliente.",
-    "ko": "뜨거운 리조또와 부드럽고 맛있는 칠면조 고기의 조화.",
-    // "de": "",
-    "fr": "Tranches de dinde juteuse, tendre sur un risotto brûlant.",
-    "hu": "Lédús, zamatos pulykaszeletek forró rizottóval.",
-    // "it": "",
-    "ja": "パイで包んだリゾット。ジューシーで柔らかいターキーのスライスが入っている。",
-    "pt": "Fatias de peru suculentas e macias sobre risoto quente.",
-    // "ru": "",
-    "tr": "Sulu, ince hindi dilimleri aşırı sıcak risottonun üzerine serilmiş.",
-    "zh": "鲜嫩多汁的火鸡切片，配上滚烫的意大利烩饭。"
-  },
+    "DescriptionLocalization":
+    {
+        "es": "Rebanadas de pavo tiernas y jugosas sobre risotto bien caliente.",
+        "ko": "뜨거운 리조또와 부드럽고 맛있는 칠면조 고기의 조화.",
+        // "de": "",
+        "fr": "Tranches de dinde juteuse, tendre sur un risotto brûlant.",
+        "hu": "Lédús, zamatos pulykaszeletek forró rizottóval.",
+        // "it": "",
+        "ja": "パイで包んだリゾット。ジューシーで柔らかいターキーのスライスが入っている。",
+        "pt": "Fatias de peru suculentas e macias sobre risoto quente.",
+        "ru": "Сочные, нежные ломтики индейки поверх обжигающе горячего ризотто.",
+        "tr": "Sulu, ince hindi dilimleri aşırı sıcak risottonun üzerine serilmiş.",
+        "zh": "鲜嫩多汁的火鸡切片，配上滚烫的意大利烩饭。"
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -47,9 +47,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Тост Уильямс",
         "tr": "Williams Tostu",
-         "zh": "威廉姆斯吐司",
+        "zh": "威廉姆斯吐司",
     },
     "DescriptionLocalization":
     {
@@ -61,8 +61,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-       "tr": "Hawaii tostu ama içinde ananas değil armut var.",
-         "zh": "一份夏威夷吐司，但用梨代替了菠萝。",
+        "ru": "Тост Гавайи, но вместо ананаса груша",
+        "tr": "Hawaii tostu ama içinde ananas değil armut var.",
+        "zh": "一份夏威夷吐司，但用梨代替了菠萝。",
     }
 }

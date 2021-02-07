@@ -38,9 +38,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Pişmiş Kümes Hayvanı Eti",
-         "zh": "熟制飞禽肉",
+        "ru": "Приготовленное мясо дичи",
+        "tr": "Pişmiş Kümes Hayvanı Eti",
+        "zh": "熟制飞禽肉",
     },
     "DescriptionLocalization":
     {
@@ -52,13 +52,13 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Bir kuş eti, zaten pişmiş ve tariflerde kullanıma hazır.",
-         "zh": "来自鸟类的肉，已经煮熟，可以用于烹饪。",
+        "ru": "Мясо дичи, уже приготовленное и готовое к использованию в рецептах.",
+        "tr": "Bir kuş eti, zaten pişmiş ve tariflerde kullanıma hazır.",
+        "zh": "来自鸟类的肉，已经煮熟，可以用于烹饪。",
     },
     "ContextTags": [
         "cooked_meat",
         "meat_item",
-    ],    
-    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
+    ],
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -8,20 +8,20 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 50,
-    "PurchaseRequirements": null,    
+    "PurchaseRequirements": null,
     "NameLocalization":
     {
         "es": "Condimentos",
         "ko": "시즈닝",
         // "de": "",
         "fr": "Assaisonnements",
-       "hu": "Fűszerek",
+        "hu": "Fűszerek",
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Приправы",
         "tr": "Baharatlar",
-         "zh": "调料品",
+        "zh": "调料品",
     },
     "DescriptionLocalization":
     {
@@ -33,9 +33,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Набор специй для приготовления вкусных мясных блюд.",
         "tr": "Eti ovmak için bir baharat koleksiyonu.",
-         "zh": "为腌制肉类而准备的各种调料合集。",
-    },    
+        "zh": "为腌制肉类而准备的各种调料合集。",
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

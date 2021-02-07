@@ -19,10 +19,9 @@
     },
     "SeedPurchasePrice": 310,
     "SeedPurchaseFrom": "Krobus",
-    "SeedPurchaseRequirements":
-    [
+    "SeedPurchaseRequirements": [
         "f Wizard 1500",
-	"y 3"
+        "y 3"
     ],
     "SeedNameLocalization":
     {
@@ -33,22 +32,23 @@
         "hu": "Főnix magvak",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes de Fênix",
-        // "ru": "",
-         "tr": "Anka Tohumu",
-         "zh": "凤凰肉种子",
+        "pt": "Sementes de Fênix",
+        "ru": "Семена мяса феникса",
+        "tr": "Anka Tohumu",
+        "zh": "凤凰肉种子",
     },
-  "SeedDescriptionLocalization": {
-    "es": "Plántalas en verano u otoño. Tardan 14 días en madurar.",
-    "ko": "봄 또는 여름 작물. 성장하려면 14일이 소요됩니다.",
-    // "de": "",
-    "fr": "À planter en été ou en automne. Prend 14 jours pour arriver à maturité.",
-    "hu": "Ezeket nyáron, vagy ősszel ültesse el. 14 napig tart megérniük.",
-    // "it": "",
-    // "ja": "",
-    "pt": "Pante isso no verão ou outono. Leva 14 dias para amadurecer.",
-    // "ru": "",
-    "tr": "Yazın veya güzde ekilir. 14 günde yetişir.(İyi hoş da kendisi gerçek değilken bitkisi nasıl oluyor??)",
-    "zh": "夏天或秋天播种。14天成熟。"
-  },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano u otoño. Tardan 14 días en madurar.",
+        "ko": "봄 또는 여름 작물. 성장하려면 14일이 소요됩니다.",
+        // "de": "",
+        "fr": "À planter en été ou en automne. Prend 14 jours pour arriver à maturité.",
+        "hu": "Ezeket nyáron, vagy ősszel ültesse el. 14 napig tart megérniük.",
+        // "it": "",
+        // "ja": "",
+        "pt": "Pante isso no verão ou outono. Leva 14 dias para amadurecer.",
+        "ru": "Сажайте их летом или осенью. Созревание занимает 14 дней",
+        "tr": "Yazın veya güzde ekilir. 14 günde yetişir.(İyi hoş da kendisi gerçek değilken bitkisi nasıl oluyor??)",
+        "zh": "夏天或秋天播种。14天成熟。"
+    },
 }

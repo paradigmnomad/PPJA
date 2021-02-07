@@ -11,7 +11,7 @@
         "Hate": ["Sebastian"],
     },
     "Recipe": null,
-    
+
     "NameLocalization":
     {
         "es": "Carne de reptil",
@@ -22,7 +22,7 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Мясо рептилии",
         "tr": "Sürüngen Eti",
         "zh": "爬行动物肉",
     },
@@ -36,9 +36,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Нежное мясо рептилии",
         "tr": "Bir sürüngenden alınmış yumuşak et.",
         "zh": "来自爬行动物的嫩肉。",
-    },    
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

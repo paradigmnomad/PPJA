@@ -7,8 +7,8 @@
     "IsColored": false,
     "GiftTastes":
     {
-	"Love": ["Demetrius", "Maru"],
-	"Like": ["Krobus", "Wizard", "Harvey"],
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
         "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
     },
     "Recipe": null,
@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "ДНК коровы",
         "tr": "İnek DNA'sı",
-         "zh": "奶牛DNA",
+        "zh": "奶牛DNA",
     },
     "DescriptionLocalization":
     {
@@ -36,9 +36,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-         "tr": "Sütten alınmış inek DNA'sı.",
-         "zh": "从牛奶中提取的奶牛DNA。",
+        "ru": "Небольшой фрагмент ДНК коровы, извлеченный из молока.",
+        "tr": "Sütten alınmış inek DNA'sı.",
+        "zh": "从牛奶中提取的奶牛DNA。",
     },
     "ContextTags": [
         "dna_item",

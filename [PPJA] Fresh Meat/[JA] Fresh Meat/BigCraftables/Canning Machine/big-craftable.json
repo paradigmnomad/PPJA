@@ -28,7 +28,7 @@
         // "it": "",
         "ja": "缶詰マシン",
         "pt": "Máquina de Conservação",
-        // "ru": "",
+        "ru": "Аппарат для консервирования",
         "tr": "Konserve Makinesi",
         "zh": "灌装机",
     },
@@ -41,9 +41,9 @@
         "hu": "Általában tengeri herkentyűk konzerválására használják.",
         // "it": "",
         "ja": "主に魚介類の缶詰作業に使われる。",
-         "pt": "Usado para conservar principalmente frutos do mar.",
-        // "ru": "",
+        "pt": "Usado para conservar principalmente frutos do mar.",
+        "ru": "Используется для консервирования продуктов, в основном морепродуктов",
         "tr": "Çoğunlukla deniz ürünü konserve etmek için kullanılır.",
-         "zh": "主要用于罐装海鲜作业。",
+        "zh": "主要用于罐装海鲜作业。",
     }
 }

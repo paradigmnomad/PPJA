@@ -42,22 +42,23 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
+        "ru": "Феникс с вином",
         "tr": "Şarapta Anka",
         "zh": "红酒焖凤凰",
     },
-  "DescriptionLocalization": {
-    "es": "Ave fénix estofado en vino y maridado con abundante carne de jabalí. Se mantiene caliente sin importar cuánto tiempo esté fuera.",
-    "ko": "멧돼지고기와 피닉스고기를 와인에 조리했다. 아무리 멀리 해도 열기가 넘친다.",
-    // "de": "",
-    "fr": "Phœnix braisé cuit au vin et couplé avec de la viande de sanglier à l'odeur terreuse. Ça restera chaud peu importe le temps passé dehors.",
-    "hu": "Párolt főnix borban főtt, kiadós vaddisznóhússal párosítva. Soha nem fog kihűlni, bármennyit is vársz az elfogyasztásával.",
-    // "it": "",
-    // "ja": "",
-    // "pt": "",
-    // "ru": "",
-    "tr": "Kızarmış anka eti şarabın içinde pişirilip yaban domuzu etiyle biraraya getirilmiş. Ne kadar uzun süre bırakırsan bırak soğumuyor.",
-    "zh": "红酒焖制的凤凰配上肥美野猪肉。它不管放置多久，始终都是热气腾腾的。"
-  },
+    "DescriptionLocalization":
+    {
+        "es": "Ave fénix estofado en vino y maridado con abundante carne de jabalí. Se mantiene caliente sin importar cuánto tiempo esté fuera.",
+        "ko": "멧돼지고기와 피닉스고기를 와인에 조리했다. 아무리 멀리 해도 열기가 넘친다.",
+        // "de": "",
+        "fr": "Phœnix braisé cuit au vin et couplé avec de la viande de sanglier à l'odeur terreuse. Ça restera chaud peu importe le temps passé dehors.",
+        "hu": "Párolt főnix borban főtt, kiadós vaddisznóhússal párosítva. Soha nem fog kihűlni, bármennyit is vársz az elfogyasztásával.",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Тушеное мясо феникса, приготовленное в вине, с добавлением мяса кабана, с землистым запахом. Согреет вас вне зависимости от того, сколько времени вы провели на улице.",
+        "tr": "Kızarmış anka eti şarabın içinde pişirilip yaban domuzu etiyle biraraya getirilmiş. Ne kadar uzun süre bırakırsan bırak soğumuyor.",
+        "zh": "红酒焖制的凤凰配上肥美野猪肉。它不管放置多久，始终都是热气腾腾的。"
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

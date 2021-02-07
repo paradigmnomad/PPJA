@@ -44,30 +44,32 @@
         "PurchasePrice": 1000,
         "PurchaseRequirements": ["y 4"],
     },
-  "NameLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "Espeto de carne",
-    // "ru": "",
-    "tr": "Et �i�"
-    // "zh": "",
-  },
-  "DescriptionLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "� carne em um espeto.",
-    // "ru": "",
-    "tr": "Et. Bir �ubu�un �st�nde."
-    // "zh": "",
-  }
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Espeto de carne",
+        "ru": "Мясной шампур",
+        "tr": "Et Þiþ",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "É carne em um espeto.",
+        "ru": "Это мясо. На палочке.",
+        "tr": "Et. Bir çubuðun üstünde.",
+        // "zh": "",
+    }
 }

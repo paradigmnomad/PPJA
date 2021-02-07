@@ -27,10 +27,10 @@
         "hu": "Madár magvak",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes de Pássaro",
-        // "ru": "",
-         "tr": "Kuş Tohumu",
-         "zh": "鸟肉种子",
+        "pt": "Sementes de Pássaro",
+        "ru": "Семена мяса птицы",
+        "tr": "Kuş Tohumu",
+        "zh": "鸟肉种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -41,9 +41,9 @@
         "hu": "Ezeket ősszel ültesse el. 8 napig tart megérniük",
         // "it": "",
         // "ja": "",
-         "pt": "Plante isso no outono. Leva 8 dias para amadurecer.",
-        // "ru": "",
-         "tr": "Güzde ekilir. 8 günde yetişir.",
-         "zh": "秋天播种。8天成熟。",
+        "pt": "Plante isso no outono. Leva 8 dias para amadurecer.",
+        "ru": "Сажайте их осенью. Созревание занимает 8 дней",
+        "tr": "Güzde ekilir. 8 günde yetişir.",
+        "zh": "秋天播种。8天成熟。",
     },
 }

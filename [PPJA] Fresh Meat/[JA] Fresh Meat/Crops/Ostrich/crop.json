@@ -32,8 +32,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        "tr": "Deveku�u Tohumu",
+        "ru": "Семена мяса страуса",
+        "tr": "Devekuþu Tohumu",
         // "zh": "",
     },
     "SeedDescriptionLocalization":
@@ -46,8 +46,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        "tr": "Yaz�n ekilir. 13 g�nde yeti�ir.",
+        "ru": "Сажайте их летом. Созревание занимает 13 дней",
+        "tr": "Yazýn ekilir. 13 günde yetiþir.",
         // "zh": "",
     },
 }

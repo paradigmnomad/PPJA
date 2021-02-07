@@ -33,32 +33,32 @@
         "PurchaseFrom": "Gus",
         "PurchasePrice": 2000,
     },
-  "NameLocalization": 
-  {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "Schnitzel",
-    // "ru": "",
-    "tr": "�initzel"
-    // "zh": "",
-  },
-  "DescriptionLocalization": 
-  {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    // "ja": "",
-    "pt": "Uma fina fatia de carne de porco frita em gordura.",
-    // "ru": "",
-    "tr": "�nce bir dilim domuz eti ya�da k�zart�lm��."
-    // "zh": "",
-  }
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Schnitzel",
+        "ru": "Шнитцель",
+        "tr": "Þinitzel",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Uma fina fatia de carne de porco frita em gordura.",
+        "ru": "Тонкий ломтик свинины, обжаренный в жире.",
+        "tr": "Ýnce bir dilim domuz eti yaðda kýzartýlmýþ.",
+        // "zh": "",
+    }
 }

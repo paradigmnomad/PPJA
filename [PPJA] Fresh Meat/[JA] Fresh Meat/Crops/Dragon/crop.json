@@ -19,10 +19,9 @@
     },
     "SeedPurchasePrice": 400,
     "SeedPurchaseFrom": "Krobus",
-    "SeedPurchaseRequirements":
-    [
+    "SeedPurchaseRequirements": [
         "f Wizard 1500",
-	"y 2"
+        "y 2"
     ],
     "SeedNameLocalization":
     {
@@ -34,9 +33,9 @@
         // "it": "",
         // "ja": "",
         "pt": "]Sementes de Dragão",
-        // "ru": "",
-         "tr": "Ejderha Tohumu",
-         "zh": "龙肉种子",
+        "ru": "Семена мяса дракона",
+        "tr": "Ejderha Tohumu",
+        "zh": "龙肉种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -47,9 +46,9 @@
         "hu": "Ezeket tavasszal, vagy nyáron ültesse el. 8 napig tart megérniük.",
         // "it": "",
         // "ja": "",
-         "pt": "Plante isso no verão ou outono. Leva 18 dias para amadurecer. ",
-        // "ru": "",
-         "tr": "Yazın veya güzde ekilir. 18 günde yetişir.",
-         "zh": "夏天或秋天播种。18天成熟。",
+        "pt": "Plante isso no verão ou outono. Leva 18 dias para amadurecer. ",
+        "ru": "Сажайте их летом или осенью. Созревание занимает 18 дней",
+        "tr": "Yazın veya güzde ekilir. 18 günde yetişir.",
+        "zh": "夏天或秋天播种。18天成熟。",
     },
 }

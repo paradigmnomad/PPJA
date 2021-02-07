@@ -18,7 +18,6 @@
         "ExtraChance": 0.1,
     },
     "SeedPurchasePrice": 100,
-
     "SeedNameLocalization":
     {
         "es": "Semillas de venado",
@@ -28,22 +27,23 @@
         "hu": "Őzhús magvak",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes de veado",
-        // "ru": "",
-         "tr": "Geyik Tohumu",
-         "zh": "鹿肉种子",
+        "pt": "Sementes de veado",
+        "ru": "Семена оленины",
+        "tr": "Geyik Tohumu",
+        "zh": "鹿肉种子",
     },
-  "SeedDescriptionLocalization": {
-    "es": "Plántalas en primavera o verano. Tardan 10 días en madurar.",
-    "ko": "봄 또는 여름 작물. 성장하려면 10일이 소요됩니다.",
-    // "de": "",
-    "fr": "À planter au printemps ou en été. Prend 10 jours pour arriver à maturité.",
-    "hu": "Ezeket tavasszal, vagy nyáron ültesse el. 10 napig tart megérniük.",
-    // "it": "",
-    // "ja": "",
-    "pt": "Plante isso na primavera ou no verão. Leva 10 dias para amadurecer.",
-    // "ru": "",
-    "tr": "Baharda veya yazın ekilir. 10 günde yetişir.",
-    "zh": "春天或夏天播种。10天成熟。"
-  },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera o verano. Tardan 10 días en madurar.",
+        "ko": "봄 또는 여름 작물. 성장하려면 10일이 소요됩니다.",
+        // "de": "",
+        "fr": "À planter au printemps ou en été. Prend 10 jours pour arriver à maturité.",
+        "hu": "Ezeket tavasszal, vagy nyáron ültesse el. 10 napig tart megérniük.",
+        // "it": "",
+        // "ja": "",
+        "pt": "Plante isso na primavera ou no verão. Leva 10 dias para amadurecer.",
+        "ru": "Сажайте их весной или летом. Созревание занимает 10 дней.",
+        "tr": "Baharda veya yazın ekilir. 10 günde yetişir.",
+        "zh": "春天或夏天播种。10天成熟。"
+    },
 }

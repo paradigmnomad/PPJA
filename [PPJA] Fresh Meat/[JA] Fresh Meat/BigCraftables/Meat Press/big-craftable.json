@@ -28,7 +28,7 @@
         // "it": "",
         "ja": "ミートプレス機",
         "pt": "Prensa de Carne",
-        // "ru": "",
+        "ru": "Пресс для мяса",
         "tr": "Et Presi Makinesi",
         "zh": "肉品培养机",
     },
@@ -42,8 +42,8 @@
         // "it": "",
         "ja": "動物のDNAを肉に差し込むためのマシン。",
         "pt": "Uma máquina usada para prensar DNA animal em carne.",
-        // "ru": "",
+        "ru": "Машина, используемая для прессования ДНК животных в мясо.",
         "tr": "Hayvan DNA'sını ete geçirmek için kullanılır.",
-         "zh": "将提取的动物DNA注入培养基中并培养成型的机器。",
+        "zh": "将提取的动物DNA注入培养基中并培养成型的机器。",
     }
 }
