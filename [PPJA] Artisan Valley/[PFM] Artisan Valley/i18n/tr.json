@@ -1,0 +1,17 @@
+{
+    "Dehydrator.Tea": "Kurutulmuþ {inputName} Yapraklarý",
+    "Dehydrator.Fruit": "Kurutulmuþ {inputName}",
+    "DryingRack.Flower": "Kurutulmuþ {inputName}",
+    "DryingRack.Herb": "Kurutulmuþ {inputName}",
+    "DryingRack.Vegetable": "Kurutulmuþ {inputName}",
+    "DryingRack.Mushroom": "Kurutulmuþ {inputName}",
+    "Grinder.Herb": "Öðütülmüþ {inputName}",
+    "Grinder.Vegetable": "Öðütülmüþ {inputName}",
+    "Infuser.Schnapps": "{inputName} Schnapps",
+    "YogurtJar.Fruit": "{inputName} Yoðurdu",
+    "WaxBarrel.Candle": "{inputName} Mumu",
+    "Alembic.EssentialOil": "{inputName} Esans Yaðý",
+    "Juice.Fruit": "{inputName} Suyu",
+    "SoapPress.Soap": "Elyapýmý {inputName} Sabun",
+    "Smoker.Fish": "Tütsülenmiþ {inputName} ",
+}
