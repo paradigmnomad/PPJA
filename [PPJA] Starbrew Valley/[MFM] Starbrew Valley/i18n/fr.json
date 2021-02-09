@@ -1,0 +1,57 @@
+{
+    // Text
+
+    "americano.text": "J’ai ramené cette recette-là de mes voyages. Profite-en bien!^^C’est pour te remercier de m’avoir fait sentir le bienvenue à mon retour. ^^  -Kent",
+    "brandyalexander.text": "Cher @,^^J’ai commandé trop de muscade! J’étais tellement excitée quand le paquet est arrivé, mais j’ai eu tout un choc quand je l’ai ouvert! Je veux partager avec toi la recette de Brandy Alexander qui venait avec. J’ai bien hâte de l’essayer. Prends soin de toi!^^  -Jodi",
+    "cosmo.text": "@,^^J’ai pensé que ce serait amusant de t’écrire.^^Voici ma version personnelle du traditionnel Cosmo. À bientôt!^^  -Haley",
+    "darkandstormy.text": "@,^^Je ne bois pas beaucoup, mais il y a un bar à Zuzu Ville qui sert mes meilleurs Dark and Stormy. Le barman m’a donné la recette et je veux la partager avec toi.^^  -Sebastian",
+    "espressomartini.text": "Salut!^^ J’avais un peu de temps libre, et je me suis dit que je m’amuserais à essayer de brasser quelques cocktails. Fais-moi savoir ce que tu en penses! ^^ -Robin",
+    "french75.text": "L’humain bleu laisse des traces étranges dans la mine. Voici quelque chose que je l’ai vu cacher sous une pierre. C’est la recette d’un brevage humain prétentieux. ^^  -Nain^^(Regarde, je sais écrire dans ton langage! Les livres humains sont très pratiques.)",
+    "hemingwayspecial.text": "Cher @,^^ Est-ce que tu aimerais aller prendre un verre une bonne fois? J’ai inclus une recette que tu devrais aimer.^Ernest Hemingway a dit un jour : « Attends toujours d’être sobre pour faire ce que tu as dit que tu ferais quand tu étais ivre. Ça devrait t’apprendre à garder tes idées pour toi. » Quel énergumène fascinant il faisait, quand même! ^^  -Elliott",
+    "mintjulep.text": "Cher voisin,^^Quand je ne suis pas en train de m’occuper des animaux, J,aime bien faire des expériences en cuisine. Comme nous sommes rendus bons amis, j’ai envie de partager quelques recettes avec toi.^J’espère que tu vas aimer! ^^  -Marnie",
+    "moonshinecherries.text": "Cher @,^^ Merci encore de toujours encourager mon art. Quand je ne suis pas concentrée sur une sculpture, j’aime bien aider Gus à préparer les Moonshine Cherries. Ne lui dit pas que je t’ai donné la recette! ^^  -Leah",
+    "nightonthebeach.text": "@,^^ Vodka, Peach Schnapps, et quelques agrumes sont un excellent mélange à martini, alors que de la vodka avec du jus d’orange, du sirop et une jolie garniture en font une version rafraichissante. Qu’est-ce que tu en penses? Quel est ta façon à toi de mélanger la vodka et les agrumes? Ma préférée est définitivement le Night on the Beach.^^  -Demetrius",
+    "paradise.text": "Cher @^^J’ai mis la main sur la recette de ceci, et je ne pouvais pas attendre de l’essayer. Essaie le toi aussi! Des fois, j’ai juste envie de boire quelque chose de terriblement sucré! ^^  -Emily",    
+    "planterspunch.text": "@, Tu travailles vraiment fort sur ta fferme. Pouruoi ne prendrs-tu pas un peu de temps pour te détendre et te faire un cocktail? C’est la meilleure façon de finir la semaine!^^  -Lewis",
+    "seabreeze.text": "J’imagine que c’est le temps de partager avec toi l’un de mes cocktail préférés. C’est pas le fun de sortir avec des amis si on ne sait pas ce que l’autre aime! ^^  -Haley",
+    "vampiro.text": "...^^ Tiens, c’est pour toi. Ça flottait dans les égouts. Peut être que tu peux en faire quelque chose… ^^  -Krobus",
+
+    // New Additions
+
+    "atomiccocktail.text": "Cher @,^^ Cette recette est halucinante! J’aespère que tu vas l’aimer.^^  -Maru",
+    "frangelicosour.text": "Cher @,^^J’adore tout simplement la saveur fraîche de cette recette.^^J’espère que tu l’aimeras aussi! ^^  -Leah",
+    "harlemmugger.text": "@,^^Ne laisse pas le nom de ce cocktail te décourager, je suis sur que tu vas l’aimer.^^  -Sebastian",
+    "lemonadococktail.text": "Cher @,^^Voici la recette estivale parfaite. J’espère que tu aimeras la préparer autant que moi!^^  -Gus",
+    "negroni.text": "Fermier @,^^ J’ai toujours aimé cette recette.^^Peut être que tu l’aimeras aussi. ^^ -George",
+    "poinsettiacocktail.text": "Cher @,^^Je faisait le tour de mes vieilles recettes et j’ai mis la main sur ce délicieux cocktail que j’aimais beaucoup.^^ Il est simplement parfait pour vous réchauffer quand il fait froid dehors^^  -Evelyn",
+    "spritzveneziano.text": "Salut Fermier @,^^ J’avais l’habitude de déguster ce cocktail avec ma femme. J’ai pensé que tu l’aimerais toi aussi. ^^  -Kent",
+    "sweetpinkcocktail.text": "Salut @,^^ Ce cocktail est super délicieux. J’espère que tu va m’en faire un bientôt!^^  -Haley",
+
+    // Titles
+
+    "americano.title": "Recette du Américano",
+    "brandyalexander.title": "Recette du Brandy Alexander",
+    "cosmo.title": "Recette du Cosmo",
+    "darkandstormy.title": "Recette du Dark and Stormy",
+    "espressomartini.title": "Recette du Martini Espresso ",
+    "french75.title": "Recette du French 75",
+    "hemingwayspecial.title": "Recette du Spécial Hemingway",
+    "mintjulep.title": "Recette du Julep à la menthe",
+    "moonshinecherries.title": "Recette du Moonshine Cherries",
+    "nightonthebeach.title": "Recette du Night on the Beach",
+    "paradise.title": "Recette du Paradisio",
+    "planterspunch.title": "Recette du Punch du planteur",
+    "seabreeze.title": "Recette du Brise du large",
+    "vampiro.title": "Recette du Vampiro",
+
+    // New Additions
+
+     "atomiccocktail.title": "Recette du Cocktail Atomique",
+    "frangelicosour.title": "Recette du Frangelico Sour",
+    "harlemmugger.title": "Recette du Harlem Mugger",
+    "lemonadococktail.title": "Recette du Cocktail Limonada",
+    "negroni.title": "Recette du Negroni",
+    "poinsettiacocktail.title": "Recette du Cocktail Poinsettia",
+    "spritzveneziano.title": "Recette du Spritz Veneziano",
+    "sweetpinkcocktail.title": "Recette du Cocktail Sweet Pink",
+}
