@@ -42,20 +42,20 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 6100,
-            },
+    },
 
     "NameLocalization":
     {
         "es": "Café irlandés",
         "ko": "아이리시 커피",
         "de": "Irish Coffee",
-        // "fr": "",
+        "fr": "Café irlandais",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Café Irlandês",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Ирландский кофе",
+        "tr": "İrlandalı Kahvesi",
         "zh": "爱尔兰咖啡",
     },
     "DescriptionLocalization":
@@ -63,13 +63,13 @@
         "es": "¿Alguna petición? La entregaremos.",
         "ko": "요구사항이 있나요? 들어드릴게요.",
         "de": "Haben Sie eine Anfrage? Ich werde liefern.",
-        // "fr": "",
+        "fr": "Une demande spéciale? On s'en occupe.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Algum pedido? O Entrgaremos.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "У вас есть просьба? Доставит.",
+        "tr": "İstek mi var? Yerine getirilecek.",
         "zh": "爱尔兰咖啡鸡尾酒。有要求吗？可为您实现。",
     }
 }

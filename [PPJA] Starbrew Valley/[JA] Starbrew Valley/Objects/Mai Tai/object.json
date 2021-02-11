@@ -23,7 +23,7 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1820,
-    
+
     "Recipe":
     {
         "ResultCount": 1,
@@ -55,13 +55,13 @@
         "es": "Mai Tai",
         "ko": "마이 타이",
         "de": "Mai Tai",
-        // "fr": "",
+        "fr": "Mai Tai",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Mai Tai",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Май Тай",
+        "tr": "Mai Tai",
         "zh": "迈泰",
     },
     "DescriptionLocalization":
@@ -69,13 +69,13 @@
         "es": "¡Tu eres tai, el es tai, ella es tai, todos son tai!",
         "ko": "당신의 타이, 그의 타이, 그녀의 타이, 모두의 타이!",
         "de": "Ihr tai, sein tai, ihr tai, jeder ist tai!",
-        // "fr": "",
+        "fr": "Mon Tai, ton Tai, son Tai, le Tai à tout le monde!",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Seu tai, tai dele, tai dela, tai de todos!!",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Твой хвост, его хвост, ее тай, все тай!",
+        "tr": "Senin tain, onun tai, herkesin taisi!",
         "zh": "迈泰。你的迈泰，我的迈泰，每个人的迈泰！",
     }
 }

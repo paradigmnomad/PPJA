@@ -23,7 +23,7 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 1650,
-    
+
     "Recipe":
     {
         "ResultCount": 1,
@@ -43,20 +43,20 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 5650,
-            },
+    },
 
     "NameLocalization":
     {
         "es": "Dama blanca",
         "ko": "화이트 레이디",
         "de": "Weiße Lady",
-        // "fr": "",
+        "fr": "White Lady",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Dama Branca",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Леди в белом",
+        "tr": "Beyaz Kadın",
         "zh": "白色佳人",
     },
     "DescriptionLocalization":
@@ -64,13 +64,13 @@
         "es": "Una misteriosa dama vestida de blanco.",
         "ko": "새하얀 드레스를 입은 불가사의한 여인.",
         "de": "Eine mysteriöse Dame in Weiß",
-        // "fr": "",
+        "fr": "Une mystérieuse dame en blanc.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Uma misterosa dama vestida de branco.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Таинственная дама, одетая в белое.",
+        "tr": "Beyaz giyinen gizemli bir kadın.",
         "zh": "白色佳人。一位神秘的白衣女士。",
     }
 }

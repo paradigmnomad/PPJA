@@ -1,4 +1,3 @@
-
 {
     "Name": "Negroni",
     "Description": "Traditionally served over ice.",
@@ -61,13 +60,13 @@
         "es": "Negroni",
         "ko": "네그로니",
         // "de": "",
-        // "fr": "",
+        "fr": "Negroni",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Negroni",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Негрони",
+        "tr": "Negroni",
         "zh": "尼格罗尼",
     },
     "DescriptionLocalization":
@@ -75,13 +74,13 @@
         "es": "Tradicionalmente servido con hielo",
         "ko": "전통적으론 얼음과 함께 나옵니다.",
         // "de": "",
-        // "fr": "",
+         "fr": "Traditionnellement servi sur glace.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Tradicionalmente servido com gelo.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Традиционный коктейль, подается со льдом",
+        "tr": "Geleneksel olarak buzla servis edilir.",
         "zh": "传统做法上会加冰。",
     }
 

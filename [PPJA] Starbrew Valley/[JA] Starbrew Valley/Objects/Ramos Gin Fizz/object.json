@@ -50,20 +50,20 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1900,
-            },
+    },
 
     "NameLocalization":
     {
         "es": "Ramos Gin Fizz",
         "ko": "라모스 진 피즈",
         "de": "Ramos Gin Fizz",
-        // "fr": "",
+        "fr": "Ramos Gin Fizz",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Ramos Gim Fizz",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Шипучий джин Рамос",
+        "tr": "Ramos Cin Fizz",
         "zh": "拉莫斯金菲士",
     },
     "DescriptionLocalization":
@@ -71,13 +71,13 @@
         "es": "Se rumorea que esta bebida fue agitada durante 12 minutos por su creador.",
         "ko": "이 음료를 12분 동안 셰이킹했다는 소문이 있습니다.",
         "de": "Gerüchten zufolge wurde dieses Getränk von seinem Schöpfer 12 Minuten lang geschüttelt.",
-        // "fr": "",
+        "fr": "La rumeur veut que son créateur l'a agité pendant 12 minutes.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Há rumores de que esta bebida foi agitada por 12 minutos pelo seu criador.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "По слухам, этот напиток взбалтывали в течение 12 минут.",
+        "tr": "Söylenti bu içeceğin bulanı tarafından 12 dakika çalkanlandığı yönünde.",
         "zh": "拉莫斯金菲士。传言说这种饮料被它的创造者摇了12分钟才创造出来。",
     }
 }
