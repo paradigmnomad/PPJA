@@ -6,7 +6,7 @@
     "CanPurchase": false,
     "PurchaseFrom": null,
     "PurchasePrice": 0,
-        "Recipe":
+    "Recipe":
     {
         "ResultCount": 1,
         "Ingredients": [
@@ -25,12 +25,12 @@
     },
     "NameLocalization": //Used for localization. 
     {
-        //"es": "", //Spanish
+        // "es": "", //Spanish
         "ko": "향수 제조기", //Korean
         "de": "Parfümerie", //German
-        //"fr": "", //French
+        // "fr": "", //French
         "hu": "Parfüméria", //Hungarian
-        //"it": "", //Italian
+        // "it": "", //Italian
         "ja": "香水製造機", //Japanese
         "pt": "Máquina de Perfume", //Portuguese
         "ru": "Парфюмерная машина", //Russian
@@ -39,12 +39,12 @@
     },
     "DescriptionLocalization": //Used for localization. 
     {
-        //"es": "", //Spanish
+        // "es": "", //Spanish
         "ko": "꽃을 향수로 만들어줍니다.", //Korean
         "de": "Verarbeitet Blumen zu Parfüm.", //German
-        //"fr": "", //French
+        // "fr": "", //French
         "hu": "A virágokból parfümt allít elő.", //Hungarian
-        //"it": "", //Italian
+        // "it": "", //Italian
         "ja": "花を加工し香水を作る。", //Japanese
         "pt": "Processa flores para fazer perfumes.", //Portuguese
         "ru": "Перерабатывает цветы в духи.", //Russian

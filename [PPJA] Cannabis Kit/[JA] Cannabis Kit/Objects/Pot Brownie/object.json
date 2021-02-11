@@ -54,7 +54,7 @@
         // "ja": "",
         "pt": "Brownie de Maconha",
         "ru": "Брауни с марихуаной",
-        // "tr": "",
+        "tr": "Esrarlı Brownie",
         "zh": "大麻布朗尼",
     },
     "DescriptionLocalization":
@@ -68,7 +68,7 @@
         // "ja": "",
         "pt": "Alguém não gostou muito de todo deste brownie.",
         "ru": "Что-то не так с этим Брауни...",
-        // "tr": "",
+        "tr": "Bu brownie'nin tadında doğru olmayan bir şeyler var.",
         "zh": "这个布朗尼有些不对劲。",
     }
 }

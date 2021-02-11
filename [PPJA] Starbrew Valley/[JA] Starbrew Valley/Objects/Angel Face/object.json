@@ -46,13 +46,13 @@
         "es": "Cara de angel",
         "ko": "엔젤 페이스",
         "de": "Engelsgesicht",
-        // "fr": "",
+        "fr": "Angel Face",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Cara de Anjo",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Ангельское личико",
+        "tr": "Melek Yüzü",
         "zh": "天使之颜",
     },
     "DescriptionLocalization":
@@ -65,8 +65,8 @@
         // "it": "",
         // "ja": "",
         "pt": "Agite bem e sirva em um copo de coquetel.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Хорошо встряхните и процедите в бокал для коктейля.",
+        "tr": "İyi çalkala ve bir kokteyl bardağına dök",
         "zh": "天使之颜。摇匀，然后倒入鸡尾酒杯。",
     }
 }

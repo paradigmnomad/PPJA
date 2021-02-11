@@ -14,14 +14,14 @@
     {
         // "es": "",
         // "ko": "",
-        //"de": "",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Escama metálica",
         // "ru": "",
-        // "tr": "",
+        "tr": "Metalik Pul",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -35,7 +35,7 @@
         // "ja": "",
         "pt": "Uma escama que brilha na luz do sol. Eu me pergunto de que criatura isso veio.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Güneş ışığında parlayan bir pul. Hangi yaratıktan geldiğini merak ediyorum.",
         // "zh": "",
     },
     "ContextTags": [

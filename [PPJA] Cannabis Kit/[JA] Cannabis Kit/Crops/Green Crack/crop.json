@@ -30,7 +30,7 @@
         // "ja": "",
         "pt": "Iniciador de Crack Verde",
         "ru": "Семена каннабиса Зелёный Крэк",
-        // "tr": "",
+        "tr": "Yeşil Çatlak Yetiştirici",
         "zh": "绿色裂纹种子",
     },
     "SeedDescriptionLocalization":
@@ -44,7 +44,7 @@
         // "ja": "",
         "pt": "Um forte sabor frutal de manga, é um bom relaxante diurno. Plante-o no verão ou outono. Leva 13 dias para amadurecer e continua produzindo a cada 3 dias.",
         "ru": "Острый, фруктовый аромат благоухающего манго, это отличный сорт для дневного времени. Посади их летом или осенью. Сажайте летом или осенью. Вырастает через 13 дней и продолжает давать урожай после первого сбора каждые 3 дня.",
-        // "tr": "",
+        "tr": "Keskin, mangoyu andıran meyvemsi tadı ile harika bir gün içi bitkisi. Yazın veya güzde ekilir. 13 günde yetişir ve ilk hasattan sonra 3 günde bir hasat edilebilir.",
         "zh": "带有强烈的芒果香气，适合白天使用的品系。夏天或秋天播种。13天成熟，之后每3天收获一次。",
     }
 }

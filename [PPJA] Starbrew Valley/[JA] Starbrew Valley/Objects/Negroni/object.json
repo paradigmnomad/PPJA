@@ -1,3 +1,4 @@
+
 {
     "Name": "Negroni",
     "Description": "Traditionally served over ice.",
@@ -59,7 +60,7 @@
     {
         "es": "Negroni",
         "ko": "네그로니",
-        //"de": "",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -73,7 +74,7 @@
     {
         "es": "Tradicionalmente servido con hielo",
         "ko": "전통적으론 얼음과 함께 나옵니다.",
-        //"de": "",
+        // "de": "",
         // "fr": "",
         // "hu": "",
         // "it": "",

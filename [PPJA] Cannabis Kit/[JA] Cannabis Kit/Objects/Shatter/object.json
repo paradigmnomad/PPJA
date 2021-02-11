@@ -34,7 +34,7 @@
         // "ja": "",
         "pt": "Destroçador",
         "ru": "Шаттер",
-        // "tr": "",
+        "tr": "Shatter",
         "zh": "大麻浓缩油",
     },
     "DescriptionLocalization":
@@ -48,7 +48,7 @@
         // "ja": "",
         "pt": "Um tipo de concentrado de maconha, uma substância suave e brilhante que é muito mais potente quando fumada.",
         "ru": "Тип конопляного концентрата. Гладкое стеклообразное вещество, которое усиливает эффект при курении.",
-        // "tr": "",
+        "tr": "Bir çeşit kenevir konsantresi; yumuşak, camsı ve yakıldığında çok daha etkili bir madde.",
         "zh": "一种光滑玻璃状的大麻浓缩油，效果明显更加强力。",
     }
 }

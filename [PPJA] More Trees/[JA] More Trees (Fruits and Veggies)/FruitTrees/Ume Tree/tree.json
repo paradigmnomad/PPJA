@@ -5,30 +5,32 @@
     "SaplingDescription": "Takes 28 days to produce a mature Ume tree. Bears fruit in the summer. Only grows if the 8 surrounding tiles are empty.",
     "Season": "summer",
     "SaplingPurchasePrice": 2000,
-  "SaplingNameLocalization": {
-    "es": "Brote de Ume",
-    "ko": "매화 묘목",
-    //"de": "",
-    "fr": "Jeune abricotier du Japon",
-    "hu": "Japán kajszifa csemete",
-    // "it": "",
-    "ja": "ウメの苗",
-    "pt": "Broto de Ume",
-    //"ru": "",
-    "tr": "Ume Ağacı",
-    "zh": "梅树苗"
-  },
-  "SaplingDescriptionLocalization": {
-    "es": "Tarda 28 días en producir un árbol de Ume maduro. Da fruto en el verano. Solo crece si las 8 casillas circundantes están vacías",
-    "ko": "28일후에 성목이 됩니다. 여름에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
-    //"de": "",
-    "fr": "Il faut 28 jours pour produire un abricotier du Japon mature. Produit des umes en été. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
-    "hu": "28 nap múlva érik meg, és japán kajszifa lesz belőle. Nyáron hoz gyümölcsöt. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
-    // "it": "",
-    "ja": "28日かけて成木にそだち、夏になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
-    "pt": "Demora 28 dias para produzir uma árvore madura de Ume. Dá frutos no verão. Só cresce se os 8 espaços adjacentes estiverem vazios.",
-    //"ru": "",
-    "tr": "28 günde olgunlaşarak Ume Ağacı olur. Yazın meyve verir. Sadece etrafındaki 8 \"kare\" boşken yetişir.",
-    "zh": "28天成熟为成年梅树。夏天结果。只有在附近8块地块都空置的情况下才会成长。"
-  }
+    "SaplingNameLocalization":
+    {
+        "es": "Brote de Ume",
+        "ko": "매화 묘목",
+        // "de": "",
+        "fr": "Jeune abricotier du Japon",
+        "hu": "Japán kajszifa csemete",
+        // "it": "",
+        "ja": "ウメの苗",
+        "pt": "Broto de Ume",
+        // "ru": "",
+        "tr": "Ume Ağacı",
+        "zh": "梅树苗"
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "es": "Tarda 28 días en producir un árbol de Ume maduro. Da fruto en el verano. Solo crece si las 8 casillas circundantes están vacías",
+        "ko": "28일후에 성목이 됩니다. 여름에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
+        // "de": "",
+        "fr": "Il faut 28 jours pour produire un abricotier du Japon mature. Produit des umes en été. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
+        "hu": "28 nap múlva érik meg, és japán kajszifa lesz belőle. Nyáron hoz gyümölcsöt. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
+        // "it": "",
+        "ja": "28日かけて成木にそだち、夏になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
+        "pt": "Demora 28 dias para produzir uma árvore madura de Ume. Dá frutos no verão. Só cresce se os 8 espaços adjacentes estiverem vazios.",
+        // "ru": "",
+        "tr": "28 günde olgunlaşarak Ume Ağacı olur. Yazın meyve verir. Sadece etrafındaki 8 \"kare\" boşken yetişir.",
+        "zh": "28天成熟为成年梅树。夏天结果。只有在附近8块地块都空置的情况下才会成长。"
+    }
 }

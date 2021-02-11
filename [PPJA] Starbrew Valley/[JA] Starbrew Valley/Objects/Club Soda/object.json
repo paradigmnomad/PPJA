@@ -11,19 +11,19 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 150,
-    
+
     "NameLocalization":
     {
         "es": "Club Soda",
         "ko": "클럽 소다",
         "de": "Club Soda",
-        // "fr": "",
+        "fr": "Club Soda",
         // "hu": "",
         // "it": "",
         // "ja": "",
-       "pt": "Club Soda",
-        // "ru": "",
-        // "tr": "",
+        "pt": "Club Soda",
+        "ru": "Клубная содовая",
+        "tr": "Club Soda",
         "zh": "苏打水",
     },
     "DescriptionLocalization":
@@ -31,13 +31,13 @@
         "es": "Sabe un poco a seltzer.",
         "ko": "약간 탄산수 맛이 나요.",
         "de": "Es schmeckt irgendwie nach Selter",
-        // "fr": "",
+        "fr": "Ça goùte purement l'eau gazeuse.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Um pouco similar ao Seltzer",
-        // "ru": "",
-        // "tr": "",
+        "ru": "На вкус как сельтерская.",
+        "tr": "Tadı maden suyu gibi.",
         "zh": "苏打水。它有点像塞尔脱兹（含气）矿泉水的味道。",
     }
 

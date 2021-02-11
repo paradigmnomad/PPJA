@@ -23,7 +23,7 @@
          // "ja": "",
          "pt": "Cânhamo",
          "ru": "Конопля",
-         // "tr": "",
+         "tr": "Esrar",
          "zh": "工业大麻",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
          // "ja": "",
          "pt": "Uma variante das espécies de maconha que não interfere no THC. Pode ser usado em uma variedade de produtos industriais.",
          "ru": "Вариант сортов Сативы с небольшим количеством ТГК или без него. Можно использовать в различных промышленных целях.",
-         // "tr": "",
+         "tr": "THC'yi çok az içeren ya da içermeyen bir tür kenevir, hint keneviri birçok endüstriyel amaçla kullanılabilir.",
          "zh": "一种几乎不含四氢大麻酚的苜蓿大麻变种，可被用于各种各样的工业环境。",
     },
     "ContextTags": [

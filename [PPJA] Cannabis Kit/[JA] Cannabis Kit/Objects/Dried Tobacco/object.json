@@ -17,7 +17,7 @@
         // "ja": "",
         "pt": "Tabaco Seco",
         "ru": "Сушёный табак",
-        // "tr": "",
+        "tr": "Kurutulmuş Tütün",
         "zh": "干烟草",
     },
     "DescriptionLocalization":
@@ -31,7 +31,7 @@
         // "ja": "",
         "pt": "Bom para fazer cigarros e fumar sozinho.",
         "ru": "Хорошо подходит для изготовления самокруток и курения в одиночку.",
-        // "tr": "",
+        "tr": "Kendi başına yakmak ve sigara yapmak için iyi.",
         "zh": "适合制成卷烟或者独自吸烟。",
     }
 }

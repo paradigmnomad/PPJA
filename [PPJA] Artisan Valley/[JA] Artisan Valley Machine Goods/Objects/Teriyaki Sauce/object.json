@@ -42,7 +42,7 @@
         // "es": "",
         // "ko": "",
         // "de": "",
-        // "fr": "",
+        "fr": "Sauce teriyaki",
         // "hu": "",
         // "it": "",
         "ja": "テリヤキソース",
@@ -51,17 +51,18 @@
         "tr": "Teriyaki Sos",
         // "zh": "",
     },
-  "DescriptionLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    "ja": "このシンプルでいて最高のソースはあなたの料理を別次元のレベルに引き上げます！",
-    // "pt": "",
-    // "ru": "",
-    "tr": "Bu basit ama inanılmaz teriyaki sosu yemeğini yeni bir seviyeye uçuracak!",
-    // "zh": "",
-  }
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Cette sauce simple mais unique fera passer vos plats au niveau supérieur.",
+        // "hu": "",
+        // "it": "",
+        "ja": "このシンプルでいて最高のソースはあなたの料理を別次元のレベルに引き上げます！",
+        // "pt": "",
+        // "ru": "",
+        "tr": "Bu basit ama inanılmaz teriyaki sosu yemeğini yeni bir seviyeye uçuracak!",
+        // "zh": "",
+    }
 }

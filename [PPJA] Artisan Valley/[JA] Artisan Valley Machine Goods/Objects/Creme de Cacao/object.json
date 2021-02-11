@@ -37,7 +37,7 @@
     {
         "es": "Creme de Cacao",
         "ko": "크렘 드 카카오",
-        //"de": "",
+        // "de": "",
         "fr": "Crème de cacao",
         "hu": "Crème de cacao",
         // "it": "",
@@ -50,7 +50,7 @@
   "DescriptionLocalization": {
     "es": "Licor suave y chocolateoso",
     "ko": "부드럽고 초콜릿 향이 나는 술.",
-    //"de": "",
+    // "de": "",
     "fr": "Liqueur crèmeuse et chocolatée.",
     "hu": "Egy lágy, csokoládés likőr.",
     // "it": "",

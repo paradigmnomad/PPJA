@@ -22,7 +22,7 @@
          // "ja": "",
          "pt": "Manteiga de Cânhamo",
          "ru": "Конопляное масло",
-         // "tr": "",
+         "tr": "Esrar Ezmesi",
          "zh": "工业大麻黄油",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
          // "ja": "",
          "pt": "Uma manteiga caseira com cânhamo adicionado.",
          "ru": "Домашнее масло с добавлением конопли.",
-         // "tr": "",
+         "tr": "Ev yapımı, esrar eklenmiş bir ezme.",
          "zh": "一种加入了工业大麻的自制黄油。",
     }
 }

@@ -23,7 +23,7 @@
   "SeedNameLocalization": {
     "es": "Semillas de trigo sarraceno",
     "ko": "메밀 씨앗",
-    //"de": "",
+    // "de": "",
     "fr": "Graines de blé noir",
     "hu": "Hajdina magvak",
     // "it": "",
@@ -36,7 +36,7 @@
   "SeedDescriptionLocalization": {
     "es": "Plántalas en primavera. Tardan 4 días en madurar. Cosecha con una guadaña.",
     "ko": "봄 작물. 성장하려면 4일이 소요됩니다. 낫으로 수확합니다.",
-    //"de": "",
+    // "de": "",
     "fr": "À planter au printemps. Prend 4 jours pour arriver à maturité. À récolter à la faux.",
     "hu": "Ezeket tavasszal ültesd el. 4 napig tart megérniük. Kaszával arathatod le.",
     // "it": "",

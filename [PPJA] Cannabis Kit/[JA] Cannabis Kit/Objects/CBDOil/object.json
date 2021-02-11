@@ -24,7 +24,7 @@
         // "ja": "",
         "pt": "Óleo de Canabidiol",
         "ru": "КБД масло",
-        // "tr": "",
+        "tr": "CBD Yağı",
         "zh": "大麻二酚油",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         // "ja": "",
         "pt": "Um óleo com maravilhosos benefícios à saúde.",
         "ru": "Замечательное масло, полезное для здоровья.",
-        // "tr": "",
+        "tr": "Sağlığa inanılmaz faydaları olan bir yağ.",
         "zh": "一种有益健康的油。",
     }
 }

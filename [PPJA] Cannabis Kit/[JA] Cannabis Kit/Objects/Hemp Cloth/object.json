@@ -23,7 +23,7 @@
          // "ja": "",
          "pt": "Pano de Cânhamo",
          "ru": "Конопляная ткань",
-         // "tr": "",
+         "tr": "Esrar Kumaşı",
          "zh": "工业大麻布料",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
          // "ja": "",
          "pt": "Uma espécie sustentável de pano.",
          "ru": "Более прочная, чем обычная ткань.",
-         // "tr": "",
+         "tr": "Daha dayanıklı bir kumaş türü.",
          "zh": "一种更可持续的布料。",
     }
 }

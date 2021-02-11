@@ -57,7 +57,7 @@
         // "ja": "",
         "pt": "Skooma Infundido em Ervas",
         "ru": "Скума",
-        // "tr": "",
+        "tr": "Ottan Damıtılmış Skooma",
         "zh": "大麻斯古玛",
     },
     "DescriptionLocalization":
@@ -71,7 +71,7 @@
         // "ja": "",
         "pt": "Provêm de uma terra cheia de dragões.",
         "ru": "Он пришёл из земли населённой драконами.",
-        // "tr": "",
+        "tr": "Ejderhalarla dolu bir yerden geliyor.",
         "zh": "它来自一片遍布着龙的大地。（可能出梗自上古卷轴）",
     }
 }

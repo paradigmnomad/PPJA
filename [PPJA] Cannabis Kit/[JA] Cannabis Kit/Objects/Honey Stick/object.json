@@ -53,7 +53,7 @@
          // "ja": "",
          "pt": "Pau de Mel",
          "ru": "Медовая палочка",
-         // "tr": "",
+         "tr": "Bal Çubuğu",
          "zh": "蜂蜜棒",
     },
     "DescriptionLocalization":
@@ -67,7 +67,7 @@
          // "ja": "",
          "pt": "Mel doce e pegajoso.",
          "ru": "Сладкий, липкий мёд.",
-         // "tr": "",
+         "tr": "Tatlı, yapışkan bal.",
          "zh": "甜而黏的蜂蜜。",
     }
 }

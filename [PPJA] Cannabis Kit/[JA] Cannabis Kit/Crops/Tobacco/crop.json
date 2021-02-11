@@ -29,7 +29,7 @@
          // "ja": "",
          "pt": "Sementes de Tabaco",
          "ru": "Семена табака",
-         // "tr": "",
+         "tr": "Tütün Tohumu",
          "zh": "烟草种子",
     },
     "SeedDescriptionLocalization":
@@ -43,7 +43,7 @@
          // "ja": "",
          "pt": "Plante-as na primavera ou verão. Leva 7 dias para amadurecer.",
          "ru": "Сажайте весной или летом. Вырастает через 14 дней.",
-         // "tr": "",
+         "tr": "Baharda veya yazın ekilir. 7 günde yetişir.",
          "zh": "春天或夏天播种。7天成熟，",
     }
 }

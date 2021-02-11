@@ -46,7 +46,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 5575,
-        
+
     },
 
     "NameLocalization":
@@ -54,13 +54,13 @@
         "es": "Cuba Libre",
         "ko": "큐바 리브레",
         "de": "Kuba Libre",
-        // "fr": "",
+        "fr": "Cuba Libre",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Cuba Livre",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Свободная Куба",
+        "tr": "Küba Libre",
         "zh": "自由古巴",
     },
     "DescriptionLocalization":
@@ -68,13 +68,13 @@
         "es": "Tiene sus orígenes en la Cuba del siglo XX.",
         "ko": "20세기 쿠바에서 기원됩니다.",
         "de": "Es hat seinen Ursprung im Kuba des 20. Jahrhunderts.",
-        // "fr": "",
+        "fr": "Il est né dans le Cuba du 20e siècle.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Tem suas origens na Cuba do século XX.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Этот напиток берет свое начало в 20 веке на Кубе.",
+        "tr": "20.yy'da Küba'da ortaya çıkmış.",
         "zh": "自由古巴。它起源于二十世纪的古巴。",
     }
 }

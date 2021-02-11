@@ -30,7 +30,7 @@
         // "ja": "",
         "pt": "Iniciador de Maconha",
         "ru": "Семена каннабиса",
-        // "tr": "",
+        "tr": "Kenevir Yetiştirici",
         "zh": "大麻种子",
     },
     "SeedDescriptionLocalization":
@@ -44,7 +44,7 @@
         // "ja": "",
         "pt": "Plante-as na primavera, verão ou outono. Leva 12 dias para amadurecer e continua produzindo a cada 4 dias.",
         "ru": "Сажайте весной, летом или осенью. Вырастает через 12 дней и продолжает давать урожай после первого сбора каждые 4 дня.",
-        // "tr": "",
+        "tr": "Baharda, yazın veya güzde ekilir. 12 günde yetişir ve ilk hasattan sonra 4 günde bir hasat edilebilir.",
         "zh": "春天、夏天或秋天播种。12天成熟。之后每4天收获一次。",
     }
 }

@@ -1,0 +1,57 @@
+{
+    // Text
+
+    "americano.text": "Denizin ötesindeyken bu tarifi buldum. Tadýný çýkar.^^ Beni rahat hissettirdiðin için teþekkür etmek istiyorum.^^  -Kent",
+    "brandyalexander.text": "Sevgili @,^^ Çok fazla hindistan cevizi tozu sipariþ etmiþim! Paketin geldiðini görünce heyecanlandým ama içindeki görünce pek deðil! Paketten çýkan bir `Brandy Alexander` tarifini paylaþýyorum. Denemek için sabýrsýzlanýyorum. Kendine iyi bak!^^  -Jodi",
+    "cosmo.text": "@,^^ Sana not yazmanýn eðlenceli olabileceðini düþündüm.^^ Ýþte geleneksel bir Kozmo tarifim. Yakýnda görüþürüz.^^  -Haley",
+    "darkandstormy.text": "@,^^ Pek içmem ama Zuzu Þehri'nde en iyi Karanlýk ve Fýrtýnalýyý yapan bir bar var. Seninle paylaþmak için tarifi barmenden aldým.^^  -Sebastian",
+    "espressomartini.text": "Selam!^^ Biraz fazladan zamaným oldu ve düþündüm ki bazý içecekleri karýþtýrmak ilginç olabilir. Ne düþündüðünü anlatýrsýn!^^ -Robin",
+    "french75.text": "Mavi insan madenlerde garip eþyalar saklýyor. Ýþte onu saklarken gördüðüm bir þey. Gösteriþli bir insan içeceði için bir tarif.^^  -Cüce^^(Bana baksana! Dilinizde yazýyorum! Ýnsan kitaplarý kullanýþlý.)",
+    "hemingwayspecial.text": "Sevgili @,^^ Bir ara bir içecek paylaþmayý düþünür müsün? Beðenebileceðin bir tarif.^Ernest Hemingway bir keresinde, 'Ýçmiþken yapacaðým dediklerini her zaman ayýkken yap. Bu sana çeneni kapalý tutmayý öðretir.' demiþ. Aslýnda ne kadar eðlendirici bir þekilde saygýsýz bir adammýþ!^^  -Elliott",
+    "mintjulep.text": "Sevgili komþum,^^ hayvanlarla ilgilenmiyorken mutfakte yeni þeyler denemeyi seviyorum. Yakýn arkadaþ olmamýzdan dolayý seninle bazý tariflerimi paylaþmak istiyorum.^Umarým beðenirsin!^^  -Marnie",
+    "moonshinecherries.text": "Sevgili @,^^ Sanatým konusunda bana karþý destekleyici olduðun için tekrar teþekkür ederim. Heykel yapmýyorken Gus'ýn Moonshine Viþnesi'ne yardým etmeyi seviyorum. Sana bu tarifi verdiðimi ona söyleme.^^  -Leah",
+    "nightonthebeach.text": "@,^^ Vodka, Þeftali Schnapps, ve biraz portakal suyu martinide harika bir karýþým oluyor, vodka portakal suyuyla karýþýrken, basit þurup ve garnitür ferahlýk katýyor. Ne düþünüyorsun? Portakal suyu ve vodkayý biraraya getirmeyi en çok nasýl seversin? Benimki Sahilde Gece.^^  -Demetrius",
+    "paradise.text": "Sevgili @^^ Bundsn bir bardak yapmayý denedim ve tadýna bakmadan edemedim. Ýþte, kendin dene! Bazen canýn aþýrý tatlý bir þey içmek ister!^^  -Emily",
+    "planterspunch.text": "@, Çiftlikte çok sýký çalýþýyorsun. Neden bir içecek yapmayý denemiyorsun? Haftayý bitirmek için mükemmel bir yol!^^  -Lewis",
+    "seabreeze.text": "Sanýrým seninle en sevdiðim içeceklerden birini paylaþmanýn zamaný. Birbirimizin ne sevdiðini bilmeden dýþarý çýkmak eðlenceli olmaz!^^  -Haley",
+    "vampiro.text": "...^^ Lütfen, bunu al. Laðýmda yüzüyordu. Belki iþine yarayabilir...^^  -Krobus",
+
+    // New Additions
+
+    "atomiccocktail.text": "Sevgili @,^^ Bu tarif olaðanüstü! Umarým beðenirsin.^^  -Maru",
+    "frangelicosour.text": "Sevgili @,^^ Bu tarifteki taze lezzetlere bayýlýyorum.^^ Umarým sende seversin.^^  -Leah",
+    "harlemmugger.text": "@,^^ Ýsmine aldanma.^^ Bunu beðeneceksin.^^  -Sebastian",
+    "lemonadococktail.text": "Sevgili @,^^ Bu, yaz için mükemmel bir tarif!^^ Umarým sen de benim sevdiðim kadar seversin.^^  -Gus",
+    "negroni.text": "Çiftçi @,^^ Eskiden bu içeceði severdim.^^ Belki sende beðenebilirsin.^^ -George",
+    "poinsettiacocktail.text": "Sevgili @,^^ Eskiden beðendiðim bu lezzetli içeceði eski tarif kartlarýma göz atarken buldum.^^ Þu soðuk havada içini ýsýtman için mükemmel.^^  -Evelyn",
+    "spritzveneziano.text": "Merhaba Çiftçi @,^^ Eskiden karýmla bu içeceði severdik.^^ Beðenirsin diye düþündüm.^^  -Kent",
+    "sweetpinkcocktail.text": "Selam @,^^ Bu kokteyl süper leziz.^^ Umarým yakýnda benim için de yaparsýn!  -Haley",
+
+    // Titles
+
+    "americano.title": "Americano Tarifi",
+    "brandyalexander.title": "Brandy Alexander Tarifi",
+    "cosmo.title": "Kozmo Tarifi",
+    "darkandstormy.title": "Karanlýk ve Fýrtýnalý Tarifi",
+    "espressomartini.title": "Martini Espresso Tarifi",
+    "french75.title": "Fransýz 75 Tarifi",
+    "hemingwayspecial.title": "Hemingway Spesyali Tarifi",
+    "mintjulep.title": "Nane Julep Tarifi",
+    "moonshinecherries.title": "Moonshine Viþnesi Tarifi",
+    "nightonthebeach.title": "Sahilde Gece Tarifi",
+    "paradise.title": "Cennet Tarifi",
+    "planterspunch.title": "Ekici'nin Yumruðu Tarifi",
+    "seabreeze.title": "Deniz Rüzgarý Tarifi",
+    "vampiro.title": "Vampiro Tarifi",
+
+    // New Additions
+
+     "atomiccocktail.title": "Atom Kokteyli Tarifi",
+    "frangelicosour.title": "Frangelico Ekþisi Tarifi",
+    "harlemmugger.title": "Harlem Mugger Tarifi",
+    "lemonadococktail.title": "Limonata Kokteyli Tarifi",
+    "negroni.title": "Negroni Tarifi",
+    "poinsettiacocktail.title": "Yýlbaþý Çiçeði Kokteyli Tarifi",
+    "spritzveneziano.title": "Spritz Veneziano Tarifi",
+    "sweetpinkcocktail.title": "Tatlý Pembe Kokteyl Tarifi",
+}

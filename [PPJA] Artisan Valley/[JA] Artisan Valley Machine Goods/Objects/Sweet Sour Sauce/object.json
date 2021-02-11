@@ -25,18 +25,18 @@
             "Object": 419,
             "Count": 1,
         },
-{
+        {
             "Object": "Soy Sauce",
             "Count": 1,
         },
-{
+        {
             "Object": 284,
             "Count": 1,
         },
-{
+        {
             "Object": 245,
             "Count": 1,
-        },],
+        }, ],
         "CanPurchase": true,
         "PurchaseFrom": "Willy",
         "PurchasePrice": 450,
@@ -47,7 +47,7 @@
         // "es": "",
         // "ko": "",
         // "de": "",
-        // "fr": "",
+        "fr": "Sauce aigre-douce",
         // "hu": "",
         // "it": "",
         "ja": "スイートサワーソース",
@@ -56,17 +56,18 @@
         "tr": "Tatlı Ekşi Sos",
         // "zh": "",
     },
-  "DescriptionLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    "ja": "甘酸っぱい味わいが人気の調味料。",
-    // "pt": "",
-    // "ru": "",
-    "tr": "Tatlı ve ekşi tadı olan popüler bir çeşni.",
-    // "zh": "",
-  }
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Un condiment populaire et un mélange de saveurs gagnant.",
+        // "hu": "",
+        // "it": "",
+        "ja": "甘酸っぱい味わいが人気の調味料。",
+        // "pt": "",
+        // "ru": "",
+        "tr": "Tatlı ve ekşi tadı olan popüler bir çeşni.",
+        // "zh": "",
+    }
 }

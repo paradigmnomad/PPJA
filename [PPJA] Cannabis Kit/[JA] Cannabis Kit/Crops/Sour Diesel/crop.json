@@ -30,7 +30,7 @@
         // "ja": "",
         "pt": "Iniciador de Diesel Azedo",
         "ru": "Семен каннабиса Кислый Дизель",
-        // "tr": "",
+        "tr": "Ekşi Dizel Yetiştirici",
         "zh": "酸柴油种子",
     },
     "SeedDescriptionLocalization":
@@ -44,7 +44,7 @@
         // "ja": "",
         "pt": "Esta variedade dá efeitos cerebrais sonhadores energizantes. Uma das maiores escolhas entre pacientes médicos. Plante-as no outono. Leva 12 dias para amadurecer e continua produzindo a cada 3 dias.",
         "ru": "Этот сорт даёт энергетический эффект и погружает в мечты. Лучший выбор среди пациентов медклиник. Сажайте осенью. Вырастает через 12 дней и продолжает давать урожай после первого сбора каждые 3 дня.",
-        // "tr": "",
+        "tr": "Bu bitkinin enerji verici ve beyni uyutan etkileri bulunur. Tıp hastaları arasında çok seçilir. Güzde ekilir. 12 günde yetişir ve ilk hasattan sonra 3 günde bir hasat edilebilir.",
         "zh": "这种品系提供充满活力、白日梦般的效果，是医疗患者的首选。秋天播种。12天成熟，之后每3天收获一次。",
     }
 }

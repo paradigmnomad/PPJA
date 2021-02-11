@@ -22,7 +22,7 @@
         // "ja": "",
         "pt": "Casco de Cabra",
         // "ru": "",
-        // "tr": "",
+        "tr": "Keçi Toynaðý",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         // "ja": "",
         "pt": "Um casco com duas garras, de uma cabra.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Ýki kýskaçlý bir toynak, bir keçiden.",
         // "zh": "",
     },
     "EnableWithMod": "Cherry.MultiYieldCrops"

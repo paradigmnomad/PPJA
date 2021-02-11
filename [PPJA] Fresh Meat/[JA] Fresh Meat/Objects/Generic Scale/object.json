@@ -21,7 +21,7 @@
         // "ja": "",
         "pt": "Escama Genérica",
         // "ru": "",
-        // "tr": "",
+        "tr": "Basit Pul",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -35,7 +35,7 @@
         // "ja": "",
         "pt": "Uma escama simples. Nada se destaca nisso.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Basit bir pul. Başka bir şeyi yok.",
         // "zh": "",
     },
     "ContextTags": [
