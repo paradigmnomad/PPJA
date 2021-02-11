@@ -24,30 +24,32 @@
         }, ],
         "IsDefault": true
     },
-  "NameLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    "ja": "ブイヨン",
-    "pt": "Caldo",
-    // "ru": "",
-    "tr": "Et Suyu"
-    // "zh": "",
-  },
-  "DescriptionLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    "ja": "野菜からだしを取ったシンプルなスープ。色々な料理のベースとして使われる。",
-    "pt": "Um caldo simples feito de legumes. É usado como base para alguns pratos.",
-    // "ru": "",
-    "tr": "Sebzelerden yapılmış basit et suyu. Bazı yemeklerin temel malzemesi."
-    // "zh": "",
-  }
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Bouillon",
+        // "hu": "",
+        // "it": "",
+        "ja": "ブイヨン",
+        "pt": "Caldo",
+        // "ru": "",
+        "tr": "Et Suyu",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Un simple bouillon de légumes. Sert de base à plusieurs recettes.",
+        // "hu": "",
+        // "it": "",
+        "ja": "野菜からだしを取ったシンプルなスープ。色々な料理のベースとして使われる。",
+        "pt": "Um caldo simples feito de legumes. É usado como base para alguns pratos.",
+        // "ru": "",
+        "tr": "Sebzelerden yapılmış basit et suyu. Bazı yemeklerin temel malzemesi.",
+        // "zh": "",
+    }
 }

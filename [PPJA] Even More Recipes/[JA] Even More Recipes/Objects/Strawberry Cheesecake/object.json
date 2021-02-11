@@ -1,64 +1,68 @@
 {
-  "Name": "Strawberry Cheesecake",
-  "Description": "A cheesecake that's been topped with delicious strawberry preserves.",
-  "Category": "Cooking",
-  "Edibility": 55,
-  "EdibleIsDrink": false,
-  "EdibleBuffs": null,
-  "Price": 1500,
-  "IsColored": false,
-  "GiftTastes": {
-    "Love": [ "Abigail", "Krobus", "Willy" ],
-    "Like": [ "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard" ],
-    "Dislike": [ "Haley", "Jas", "Sam", "Vincent" ]
-  },
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-        "Object": "Cream Cheese",
-        "Count": 1
-      },
-      {
-        "Object": 246,
-        "Count": 1
-      },
-      {
-        "Object": -6,
-        "Count": 1
-      },
-      {
-        "Object": "Strawberry Preserves",
-        "Count": 1,
-      }],
-    "CanPurchase": true,
-    "PurchaseFrom": "Gus",
-    "PurchasePrice": 2000
-  },
-  "NameLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    "ja": "ストロベリーチーズケーキ",
-    "pt": "Cheesecake de morango",
-    // "ru": "",
-    "tr": "Çilekli Cheesecake"
-    // "zh": "",
-  },
-  "DescriptionLocalization": {
-    // "es": "",
-    // "ko": "",
-    // "de": "",
-    // "fr": "",
-    // "hu": "",
-    // "it": "",
-    "ja": "おいしいイチゴジャムをトッピングしたチーズケーキ。",
-    "pt": "Um cheesecake que foi coberto com uma deliciosa conserva de morango.",
-    // "ru": "",
-    "tr": "Üstünde çilek reçeli olan bir cheesecake"
-    // "zh": "",
-  }
+    "Name": "Strawberry Cheesecake",
+    "Description": "A cheesecake that's been topped with delicious strawberry preserves.",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1500,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Krobus", "Willy"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Haley", "Jas", "Sam", "Vincent"]
+    },
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Cream Cheese",
+            "Count": 1
+        },
+        {
+            "Object": 246,
+            "Count": 1
+        },
+        {
+            "Object": -6,
+            "Count": 1
+        },
+        {
+            "Object": "Strawberry Preserves",
+            "Count": 1,
+        }],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 2000
+    },
+    "NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Gâteau au fromage aux fraises",
+        // "hu": "",
+        // "it": "",
+        "ja": "ストロベリーチーズケーキ",
+        "pt": "Cheesecake de morango",
+        // "ru": "",
+        "tr": "Çilekli Cheesecake",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        "fr": "Un gâteau au fromage avec un délicieux coulis de fraises",
+        // "hu": "",
+        // "it": "",
+        "ja": "おいしいイチゴジャムをトッピングしたチーズケーキ。",
+        "pt": "Um cheesecake que foi coberto com uma deliciosa conserva de morango.",
+        // "ru": "",
+        "tr": "Üstünde çilek reçeli olan bir cheesecake",
+        // "zh": "",
+    }
 }
