@@ -18,12 +18,12 @@
         "de": "Lavendel",
         "fr": "Lavande",
         "hu": "Orvosi Levendula",
-         // "it": "",
+        // "it": "",
         "ja": "ラベンダー",
         "pt": "Ervas de Lavanda",
         "ru": "Травяная лаванда",
-         // "tr": "",
-        "zh": "草本薰衣草",
+        "tr": "Bitkisel Lavanta",
+        "zh": "草本薰衣草"
     },
     "DescriptionLocalization":
     {
@@ -32,12 +32,12 @@
         "de": "Hat einen unverwechselbaren Geruch - unglaublich beruhigend.",
         "fr": "Une si belle herbe odorante. Tellement apaisant et relaxant.",
         "hu": "Egy nagyon jó illatú gyógynövény. Olyan nyugtató és relaxáló.",
-         // "it": "",
+        // "it": "",
         "ja": "素敵な香りのするハーブ。とてもリラックスできる。",
         "pt": "Umas flores tão cheirosas quanto lindas. Tão calmante e relaxante!",
         "ru": "Прекрасная пахучая трава. Успокаивает и расслабляет.",
-         // "tr": "",
-        "zh": "它有一种很可爱的气味。让人如此平静和放松。",
+        "tr": "Ne kadar da güzel kokan bir bitki. Çok sakinleştirici ve rahatlatıcı.",
+        "zh": "它有一种很可爱的气味。让人如此平静和放松。"
     },
     "ContextTags": [
         "season_summer",

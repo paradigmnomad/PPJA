@@ -18,12 +18,12 @@
         "de": "Muskatsalbei",
         "fr": "Sauge Sclarée",
         "hu": "Muskotályzsálya",
-         // "it": "",
+        // "it": "",
         "ja": "クラリセージ",
         "pt": "Sálvia esclereira",
         "ru": "Шалфей мускатный",
-         // "tr": "",
-        "zh": "快乐鼠尾草",
+        "tr": "Misk Adaçayı",
+        "zh": "快乐鼠尾草"
     },
     "DescriptionLocalization":
     {
@@ -32,12 +32,12 @@
         "de": "Wunderschöne, lila bis pinke Blüten mit anregendem Duft.",
         "fr": "Belles fleurs rose pourpre qui produisent un parfum euphorique.",
         "hu": "Gyönyörű lilás-rózsaszínes virágzatú növény, melynek eufórikus illata van.",
-         // "it": "",
+        // "it": "",
         "ja": "うっとりする香りを生み出す美しい桃紫色の花。",
         "pt": "Lindas inflorescências roxas ou rosasdas que produzem um aroma de euforia.",
         "ru": "Красивые пурпурно-розовые соцветия, имеющие вызывающий эйфорию аромат.",
-         // "tr": "",
-        "zh": "美丽的紫粉色花，能产生一种让人精神愉悦的香味。",
+        "tr": "İnsanı sevinçten havalara uçurtan bir kokuya sahip güzel mor-pembe çiçekçikler.",
+        "zh": "美丽的紫粉色花，能产生一种让人精神愉悦的香味。"
     },
     "ContextTags": [
         "season_summer",

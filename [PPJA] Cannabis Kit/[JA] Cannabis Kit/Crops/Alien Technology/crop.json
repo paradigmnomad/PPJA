@@ -28,9 +28,9 @@
         "hu": "'Űrlény technológia' ültetvény",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes Alienígenas  de Tecnologia",
+        "pt": "Sementes Alienígenas  de Tecnologia",
         // "ru": "",
-        // "tr": "",
+        "tr": "Uzaylı Teknolojisi Yetiştirici",
         // "zh": "",
     },
     "SeedDescriptionLocalization":
@@ -42,9 +42,9 @@
         "hu": "Ezeket nyáron ültesd el. 13 napig tart megérniük, de utána tovább termelnek.",
         // "it": "",
         // "ja": "",
-         "pt": "Plante isso no verão. Leva 13 dias para amadurecer, depois continua produzindo a cada 3 dias.",
+        "pt": "Plante isso no verão. Leva 13 dias para amadurecer, depois continua produzindo a cada 3 dias.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Yazın ekilir. 13 günde yetişir ve ilk hasattan sonra 3 günde bir hasat edilebilir.",
         // "zh": "",
     }
 }

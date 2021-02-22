@@ -18,12 +18,12 @@
         "de": "Sommerrose",
         "fr": "Rose d'Eté",
         "hu": "Nyári Rózsa",
-         // "it": "",
+        // "it": "",
         "ja": "夏バラ",
         "pt": "Rosa do verão",
         "ru": "Летняя роза",
-         // "tr": "",
-        "zh": "夏季玫瑰",
+        "tr": "Yaz Gülü",
+        "zh": "夏季玫瑰"
     },
     "DescriptionLocalization":
     {
@@ -32,11 +32,11 @@
         "de": "Mit einem anderen Namen würde sie genauso süß riechen.",
         "fr": "Une rose sous un autre nom aurait une odeur aussi douce.",
         "hu": "Bármilyen rózsa is legyen, az illata mindig pont ilyen édes.",
-         // "it": "",
+        // "it": "",
         "ja": "「バラと呼ばれている花を別の名前にしても、甘く美しい香りはそのままだわ。」",
         "pt": "Uma rosa de qualquer outro nome poderia ter um cheiro tão doce como essa.",
         "ru": "Как розу не назови, пахнуть она будет столь же сладко.",
-         // "tr": "",
-        "zh": "玫瑰闻起来都是甜的。",
+        "tr": "Başka isimle bir gül ancak bu kadar güzel kokabilirdi.",
+        "zh": "玫瑰闻起来都是甜的。"
     }
 }

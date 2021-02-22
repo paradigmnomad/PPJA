@@ -19,7 +19,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Kokteyl Barı",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -33,7 +33,7 @@
         // "ja": "",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Dolu bir likör barı!",
         // "zh": "",
     }
 }

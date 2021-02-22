@@ -28,9 +28,9 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes de Ouro do Malawi",
+        "pt": "Sementes de Ouro do Malawi",
         // "ru": "",
-        // "tr": "",
+        "tr": "Malavi Altını Yetiştirici",
         // "zh": "",
     },
     "SeedDescriptionLocalization":
@@ -44,7 +44,7 @@
         // "ja": "",
         "pt": "Plante isso no verão. Leva 13 dias para amadurecer, depois continua produzindo a cada 3 dias.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Yazın ve güzde ekilir. 13 günde yetişir ve ilk hasattan sonra 3 günde bir hasat edilebilir.",
         // "zh": "",
     }
 }

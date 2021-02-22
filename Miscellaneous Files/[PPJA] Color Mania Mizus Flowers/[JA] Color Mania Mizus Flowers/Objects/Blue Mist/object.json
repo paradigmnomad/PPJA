@@ -19,12 +19,12 @@
         "de": "Blaue Nebelblume",
         "fr": "Ageratum",
         "hu": "Kék Ködvirág",
-         // "it": "",
+        // "it": "",
         "ja": "ブルーミスト",
         "pt": "Flor da névoa azul",
         "ru": "Агератум",
-         // "tr": "",
-        "zh": "蓝雾",
+        "tr": "Mavi Sis",
+        "zh": "蓝雾"
     },
     "DescriptionLocalization":
     {
@@ -33,12 +33,12 @@
         "de": "Eine bei jungen Frauen beliebte Blume, die aus einem mineralienreichen Tal abstammt.",
         "fr": "Une fleur populaire auprès des jeunes femmes originaire d'une vallée riche en minéraux.",
         "hu": "A fiatal hölgyek körében közkedvelt virág, mely egy magas fémtartalmú völgyből származik.",
-         // "it": "",
+        // "it": "",
         "ja": "岩石の多い谷に生息する、若い女性に人気のある花。",
         "pt": "Uma flor popular que se originou num vale rico de minerais que havia uma estranha 'névoa azul'. Super popular entre as jovens.",
         "ru": "Популярный среди молодых дам цветок родом из богатой минералами долины.",
-         // "tr": "",
-        "zh": "非洲堇的品种之一，是一种受年轻女士欢迎的花，起源于一个富含矿物质的山谷。",
+        "tr": "Mineral zengini bir vadiden çıkan, genç hanımlar arasında popüler bir çiçek.",
+        "zh": "非洲堇的品种之一，是一种受年轻女士欢迎的花，起源于一个富含矿物质的山谷。"
     },
     "ContextTags": [
         "season_summer",

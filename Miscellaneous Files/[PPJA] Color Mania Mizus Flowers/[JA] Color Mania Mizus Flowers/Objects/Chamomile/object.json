@@ -20,12 +20,12 @@
         "de": "Kamille",
         "fr": "Chamomile",
         "hu": "Kamilla",
-         // "it": "",
+        // "it": "",
         "ja": "カモミール",
         "pt": "Camomila",
         "ru": "Ромашка",
-         // "tr": "",
-        "zh": "洋甘菊",
+        "tr": "Sarı Papatya",
+        "zh": "洋甘菊"
     },
     "DescriptionLocalization":
     {
@@ -34,12 +34,12 @@
         "de": "Kleine, dem Gänseblümchen ähnliche Blumen mit einem Geruch nach Apfel und Ananas.",
         "fr": "Marguerite blanche comme des fleurs avec un parfum qui rappelle les pommes ou l'ananas.",
         "hu": "A fehér százszorszéphez hasonlító virág, az illata az almára és az ananászra hasonlít.",
-         // "it": "",
+        // "it": "",
         "ja": "リンゴやパインを思わせる香りのする白い花。",
         "pt": "Uma espécie de margarida branca com um perfume que lembra macas e abacaxis.",
         "ru": "Маленькие цветки, пахнущие как ананасы или яблоки.",
-         // "tr": "",
-        "zh": "白色的雏菊像花朵，散发着苹果或菠萝的香味。",
+        "tr": "Elmayı ve ananası hatırlatan bir kokuya sahip beyaz bir çiçek.",
+        "zh": "白色的雏菊像花朵，散发着苹果或菠萝的香味。"
     },
     "ContextTags": [
         "season_spring",

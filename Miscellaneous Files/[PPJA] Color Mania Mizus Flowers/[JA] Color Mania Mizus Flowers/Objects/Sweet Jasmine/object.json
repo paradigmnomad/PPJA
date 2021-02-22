@@ -17,12 +17,12 @@
         "de": "Jasmin",
         "fr": "Jasmin Doux",
         "hu": "Édes Jázmin",
-         // "it": "",
+        // "it": "",
         "ja": "ジャスミン",
         "pt": "Jasmim doce",
         "ru": "Сладкий жасмин",
-         // "tr": "",
-        "zh": "甜茉莉花",
+        "tr": "Tatlı Yasemin",
+        "zh": "甜茉莉花"
     },
     "DescriptionLocalization":
     {
@@ -31,12 +31,12 @@
         "de": "Süß und schwer duftend.",
         "fr": "Ce sont des fleurs douces et très parfumées.",
         "hu": "Ezek édes, erős illatú virágok.",
-         // "it": "",
+        // "it": "",
         "ja": "甘く香り高い花。",
         "pt": "São doces, extremamente perfumadas.",
         "ru": "Очень сладкие и сильно пахнущие цветы.",
-         // "tr": "",
-        "zh": "这些是甜美的，芳香的花。",
+        "tr": "Bunlar tatlı, yoğun kokulu çiçekler.",
+        "zh": "这些是甜美的，芳香的花。"
     },
     "ContextTags": [
         "season_fall",
