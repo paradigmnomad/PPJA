@@ -24,30 +24,32 @@
     },
 
     "SeedPurchasePrice": 60,
-  "SeedNameLocalization": {
-    "es": "Bulbo de iris",
-    "ko": "아이리스 구근",
-    "de": "Schwertlilien-Saat",
-    // "fr": "",
-    "hu": "Nőszirom hagyma",
-    // "it": "",
-    "ja": "アイリスの球根",
-    "pt": "Bulbo de Íris",
-    "ru": "Луковица ириса",
-    "tr": "İris Soğanı",
-    "zh": "鸢尾花种子"
-  },
-  "SeedDescriptionLocalization": {
-    "es": "Plántalas en otoño. Toma 10 días para madurar de bulbo a flor.",
-    "ko": "가을에 심습니다. 10일후에 구근에서 자라 꽃이 핍니다.",
-    "de": "Pflanze im Herbst. Wächst innerhalb von 10 Tagen von der Zwiebel zur Blüte.",
-    // "fr": "",
-    "hu": "Ezeket ősszel ültesd el. 10 nap alatt nő meg a hagymából.",
-    // "it": "",
-    "ja": "秋植えの花。球根から10日かけて育ち、花を咲かせる。",
-    "pt": "Plante-a no outono. Demoram 10 dias para crescer um bulbo para flor",
-    "ru": "Сажайте осенью. Через 10 дней из луковицы вырстет цветок.",
-    "tr": "Güzde ekilir. Soğandan çiçeğe dönüşmesi 10 gün sürer.",
-    "zh": "秋天播种。从鳞茎萌芽到产生花朵需要10天时间。"
-  }
+    "SeedNameLocalization":
+    {
+        "es": "Bulbo de iris",
+        "ko": "아이리스 구근",
+        "de": "Schwertlilien-Saat",
+        "fr": "Bulbes d'iris",
+        "hu": "Nőszirom hagyma",
+        // "it": "",
+        "ja": "アイリスの球根",
+        "pt": "Bulbo de Íris",
+        "ru": "Луковица ириса",
+        "tr": "İris Soğanı",
+        "zh": "鸢尾花种子"
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 10 días para madurar de bulbo a flor.",
+        "ko": "가을에 심습니다. 10일후에 구근에서 자라 꽃이 핍니다.",
+        "de": "Pflanze im Herbst. Wächst innerhalb von 10 Tagen von der Zwiebel zur Blüte.",
+        "fr": "À planter au printemps. Prend 10 jours pour grandir depuis le bulbe jusqu'à la fleur.",
+        "hu": "Ezeket ősszel ültesd el. 10 nap alatt nő meg a hagymából.",
+        // "it": "",
+        "ja": "秋植えの花。球根から10日かけて育ち、花を咲かせる。",
+        "pt": "Plante-a no outono. Demoram 10 dias para crescer um bulbo para flor",
+        "ru": "Сажайте осенью. Через 10 дней из луковицы вырстет цветок.",
+        "tr": "Güzde ekilir. Soğandan çiçeğe dönüşmesi 10 gün sürer.",
+        "zh": "秋天播种。从鳞茎萌芽到产生花朵需要10天时间。"
+    }
 }

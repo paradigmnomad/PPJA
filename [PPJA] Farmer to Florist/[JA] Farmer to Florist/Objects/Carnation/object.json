@@ -18,13 +18,13 @@
         "es": "Clavel",
         "ko": "카네이션",
         "de": "Nelke",
-         // "fr": "",
+        "fr": "Oeillet",
         "hu": "Szegfű",
-         // "it": "",
+        // "it": "",
         "ja": "カーネーション",
         "pt": "Cravo",
         "ru": "Гвоздика",
-         "tr": "Karanfil Çiçeği",
+        "tr": "Karanfil Çiçeği",
         "zh": "康乃馨",
     },
     "DescriptionLocalization":
@@ -32,19 +32,19 @@
         "es": "Una flor frágil que florece en primavera y verano. Cada color tiene un significado especial.",
         "ko": "봄과 여름에 피는 섬세한 꽃. 각각의 색깔은 특별한 의미를 가지고 있다.",
         "de": "Eine zerbrechliche Blume, die im Frühling und Sommer blüht. Jede Farbe hat eine besondere Bedeutung.",
-         // "fr": "",
+        "fr": "Une fleur fragile qui fleurit au printemps et en été. Chaque couleur a sa propre signification.",
         "hu": "Egy törékeny virág, mely tavasszal és nyáron virágzik. Minden színe egy külön jelentést hordoz.",
-         // "it": "",
+        // "it": "",
         "ja": "春夏に咲く繊細な花。それぞれの色は特別を持つ。",
         "pt": "Uma flor frágil que floresce na primavera e no verão. Cada cor tem um significado especial.",
         "ru": "Хрупкий цветок, цветущий весной и летом. Каждый цвет имеет свое особое значение.",
-         "tr": "Baharda ve yazın açan kırılgan bir çiçek. Her renginin ayrı bir anlamı var. ",
+        "tr": "Baharda ve yazın açan kırılgan bir çiçek. Her renginin ayrı bir anlamı var. ",
         "zh": "春天和夏天盛开的一朵纤弱的花。每种颜色都有特殊的寓意。"
     },
     "ContextTags": [
-    	"season_spring",
-    	"season_summer",
-    	"flower_item",
-    	"color_red"
+        "season_spring",
+        "season_summer",
+        "flower_item",
+        "color_red"
     ]
 }

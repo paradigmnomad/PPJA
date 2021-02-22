@@ -11,9 +11,9 @@
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": [
-        "254, 254, 254, 255", 
-        "255, 40, 130, 255", 
-        "255, 20, 20, 255" 
+        "254, 254, 254, 255",
+        "255, 40, 130, 255",
+        "255, 20, 20, 255"
     ],
     "Bonus":
     {
@@ -23,30 +23,32 @@
         "ExtraChance": 0.0
     },
     "SeedPurchasePrice": 45,
-  "SeedNameLocalization": {
-    "es": "Semillas de clavel",
-    "ko": "카네이션 씨앗",
-    "de": "Nelkensamen",
-    // "fr": "",
-    "hu": "Szegfű magvak",
-    // "it": "",
-    "ja": "カーネーションの種",
-    "pt": "Semente de Cravo",
-    "ru": "Семена гвоздики",
-    "tr": "Karanfil Çiçeği Tohumu",
-    "zh": "康乃馨种子"
-  },
-  "SeedDescriptionLocalization": {
-    "es": "Plántalas en primavera o verano. Toma 7 días para producir una delicada y bella flor.",
-    "ko": "봄과 여름에 심습니다. 7일후에 아름답고 우아한 꽃이 핍니다.",
-    "de": "Pflanze im Frühling oder Sommer. Es dauert 7 Tage, um eine schöne, zarte Blume zu produzieren. ",
-    // "fr": "",
-    "hu": "Ezeket tavasszal vagy nyáron ültesd el. 7 nap alatt hoz egy gyönyörű, törékeny virágot.",
-    // "it": "",
-    "ja": "夏と春植えの花。7日かけて育ち、美しく繊細な花を咲かせる。",
-    "pt": "Plante-a  na primavera ou no verão. Demoram 7 dias para nascer uma flor bonita e delicada.",
-    "ru": "Сажайте весной или летом. Через 7 дней вырастает  цветок.",
-    "tr": "Baharda veya yazın ekilir. Narin ve güzel bir çiçeğe dönüşmesi 7 gün sürer.",
-    "zh": "春天或夏天播种。7天收获美丽娇嫩的花朵。"
-  }
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de clavel",
+        "ko": "카네이션 씨앗",
+        "de": "Nelkensamen",
+        "fr": "Graines d'oeillets",
+        "hu": "Szegfű magvak",
+        // "it": "",
+        "ja": "カーネーションの種",
+        "pt": "Semente de Cravo",
+        "ru": "Семена гвоздики",
+        "tr": "Karanfil Çiçeği Tohumu",
+        "zh": "康乃馨种子"
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera o verano. Toma 7 días para producir una delicada y bella flor.",
+        "ko": "봄과 여름에 심습니다. 7일후에 아름답고 우아한 꽃이 핍니다.",
+        "de": "Pflanze im Frühling oder Sommer. Es dauert 7 Tage, um eine schöne, zarte Blume zu produzieren. ",
+        "fr": "À planter au printemps ou en été. Prend 7 jours pour produire une belle fleur délicate.",
+        "hu": "Ezeket tavasszal vagy nyáron ültesd el. 7 nap alatt hoz egy gyönyörű, törékeny virágot.",
+        // "it": "",
+        "ja": "夏と春植えの花。7日かけて育ち、美しく繊細な花を咲かせる。",
+        "pt": "Plante-a  na primavera ou no verão. Demoram 7 dias para nascer uma flor bonita e delicada.",
+        "ru": "Сажайте весной или летом. Через 7 дней вырастает  цветок.",
+        "tr": "Baharda veya yazın ekilir. Narin ve güzel bir çiçeğe dönüşmesi 7 gün sürer.",
+        "zh": "春天或夏天播种。7天收获美丽娇嫩的花朵。"
+    }
 }

@@ -18,7 +18,7 @@
         {
             "Object": 330,
             "Count": 10
-        } ],
+        }],
         "CanPurchase": false
     },
     "NameLocalization":
@@ -26,7 +26,7 @@
         "es": "Violeta en maceta",
         "ko": "실내 화초 제비꽃",
         "de": "Eingemachtes Veilchen",
-        // "fr": "",
+        "fr": "Violette dans un pot",
         "hu": "Cserepes Ibolya",
         // "it": "",
         "ja": "スミレの鉢植え",
@@ -35,17 +35,18 @@
         "tr": "Saksıda Menekşe",
         "zh": "紫罗兰花盆栽"
     },
-  "DescriptionLocalization": {
-    "es": "Una violeta en una pequeña maceta de madera. ¡Recuerda regarla!",
-    "ko": "작은 나무 화분에 심겨진 제비꽃 입니다. 물 주는거 잊지마세요!",
-    "de": "Ein Veilchen in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-    // "fr": "",
-    "hu": "Egy ibolya cserépben. Ne felejtsd el megöntözni!",
-    // "it": "",
-    "ja": "スミレが植えられた木製の小さな鉢。水やりを忘れずに。",
-    "pt": "Uma violeta em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
-    "ru": "Фиалка в маленьком деревянном горшочке. Не забывайте поливать!",
-    "tr": "Küçük tahta bir saksıda bir menekşe. Sulamayı unutma!",
-    "zh": "一个小木盆里的紫罗兰花。记得给它浇水！"
-  }
+    "DescriptionLocalization":
+    {
+        "es": "Una violeta en una pequeña maceta de madera. ¡Recuerda regarla!",
+        "ko": "작은 나무 화분에 심겨진 제비꽃 입니다. 물 주는거 잊지마세요!",
+        "de": "Ein Veilchen in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+        "fr": "Une violette dans un pot de bois. N'oublie pas de l'arroser!",
+        "hu": "Egy ibolya cserépben. Ne felejtsd el megöntözni!",
+        // "it": "",
+        "ja": "スミレが植えられた木製の小さな鉢。水やりを忘れずに。",
+        "pt": "Uma violeta em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
+        "ru": "Фиалка в маленьком деревянном горшочке. Не забывайте поливать!",
+        "tr": "Küçük tahta bir saksıda bir menekşe. Sulamayı unutma!",
+        "zh": "一个小木盆里的紫罗兰花。记得给它浇水！"
+    }
 }

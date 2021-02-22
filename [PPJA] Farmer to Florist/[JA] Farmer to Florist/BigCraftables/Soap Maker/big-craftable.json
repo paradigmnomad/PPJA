@@ -23,34 +23,32 @@
             "Count": 1
         }]
     },
-    // Localization
-
-    "NameLocalization": //Used for localization. 
+    "NameLocalization": 
     {
-        // "es": "", //Spanish
-        "ko": "비누제조기", //Korean
-        "de": "Seifenmacher", //German
-        // "fr": "", //French
-        "hu": "Szappan készítő", //Hungarian
-        // "it": "", //Italian
-        "ja": "ソープメーカー", //Japanese
-        "pt": "Máquina de Sabão", //Portuguese
-        "ru": "Мыловарка", //Russian
-        "tr": "Sabun Makinesi", //Turkish
-        "zh": "香皂制造机", //Chinese (Simplified)
+        // "es": "",  
+        "ko": "비누제조기",  
+        "de": "Seifenmacher",  
+        "fr": "Presse à savon",  
+        "hu": "Szappan készítő",  
+        // "it": "",  
+        "ja": "ソープメーカー",  
+        "pt": "Máquina de Sabão",  
+        "ru": "Мыловарка",  
+        "tr": "Sabun Makinesi",  
+        "zh": "香皂制造机",
     },
-    "DescriptionLocalization": //Used for localization. 
+    "DescriptionLocalization": 
     {
-        // "es": "", //Spanish
-        "ko": "비누 제조기", //Korean
-        "de": "Kombiniert Blumen und Öl zu einem Stück Seife.", //German
-        // "fr": "", //French
-        "hu": "Virágokból és olajból állít elő szappanrudakat.", //Hungarian
-        // "it": "", //Italian
-        "ja": "花とオイルで石けんバーを作る。", //Japanese
-        "pt": "Combina flores e óleo em uma barra de sabonete.", //Portuguese
-        "ru": "Смешивает цветы и масло в кусок мыла", //Russian
-        "tr": "Çiçekleri ve yağı bir kalıp sabun yapmak üzere birleştirir.", //Turkish
-        "zh": "将花和油混合加工制成香皂", //Chinese (Simplified)
+        // "es": "",  
+        "ko": "비누 제조기",  
+        "de": "Kombiniert Blumen und Öl zu einem Stück Seife.",  
+        "fr": "Combine de l'huile et des fleurs en une barre dee savon.",  
+        "hu": "Virágokból és olajból állít elő szappanrudakat.",  
+        // "it": "",  
+        "ja": "花とオイルで石けんバーを作る。",  
+        "pt": "Combina flores e óleo em uma barra de sabonete.",  
+        "ru": "Смешивает цветы и масло в кусок мыла",  
+        "tr": "Çiçekleri ve yağı bir kalıp sabun yapmak üzere birleştirir.",  
+        "zh": "将花和油混合加工制成香皂",
     }
 }

@@ -6,50 +6,53 @@
     "Type": "Flower",
 
     "Seasons": ["spring"],
-    "Phases": [ 1, 1, 2, 1 ],
-	"RegrowthPhase": -1,
+    "Phases": [1, 1, 2, 1],
+    "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": [
-		"85, 55, 255, 255",
-		"185, 75, 255, 255",
-		"254, 254, 254, 255"
-	],
-    "Bonus": {
+        "85, 55, 255, 255",
+        "185, 75, 255, 255",
+        "254, 254, 254, 255"
+    ],
+    "Bonus":
+    {
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 1,
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.0
     },
 
-	"SeedPurchaseRequirements": [
-		"y 2",
-	],
+    "SeedPurchaseRequirements": [
+        "y 2",
+    ],
     "SeedPurchasePrice": 20,
-  "SeedNameLocalization": {
-    "es": "Semillas de jacinto",
-    "ko": "히아신스 씨앗",
-    "de": "Hyazinthen Samen",
-    // "fr": "",
-    "hu": "Jácint magvak",
-    // "it": "",
-    "ja": "ヒヤシンスの種",
-    "pt": "Semente de Jacinto",
-    "ru": "Семена гиацинта",
-    "tr": "Sümbül Tohumu",
-    "zh": "风信子种子"
-  },
-  "SeedDescriptionLocalization": {
-    "es": "Plántalas en primavera. Toma 5 días para producir pequeños racimos de flores con un dulce olor.",
-    "ko": "봄에 심습니다. 5일후에 달콤한 향이 나는 꽃이 핍니다.",
-    "de": "Im Frühjahr pflanzen. Dauert 5 Tage, um kleine Gruppen von süß duftenden Blumen zu produzieren.",
-    // "fr": "",
-    "hu": "Ezeket tavasszal ültesd el. 5 nap alatt hoz egy édes illatú virágot.",
-    // "it": "",
-    "ja": "春植えの花。5日かけて育ち、甘い香りの一塊の小さな花を咲かせる。",
-    "pt": "Plante-a  na primavera. Demoram 5 dias para nascer pequenos cachos de flores com cheiro doce.",
-    "ru": "Сажайте весной. Через 5 дней вырастают маленькие пучки сладко пахнущих цветов.",
-    "tr": "Baharda ekilir. Tatlı kokulu küçük çiçekler üretmesi 5 gün sürer.",
-    "zh": "春天播种。5天产出小簇的香甜花朵。"
-  }
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de jacinto",
+        "ko": "히아신스 씨앗",
+        "de": "Hyazinthen Samen",
+        "fr": "Graines de jacynthes",
+        "hu": "Jácint magvak",
+        // "it": "",
+        "ja": "ヒヤシンスの種",
+        "pt": "Semente de Jacinto",
+        "ru": "Семена гиацинта",
+        "tr": "Sümbül Tohumu",
+        "zh": "风信子种子"
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera. Toma 5 días para producir pequeños racimos de flores con un dulce olor.",
+        "ko": "봄에 심습니다. 5일후에 달콤한 향이 나는 꽃이 핍니다.",
+        "de": "Im Frühjahr pflanzen. Dauert 5 Tage, um kleine Gruppen von süß duftenden Blumen zu produzieren.",
+        "fr": "À planter au printemps. Prend 5 jours pour produire une petite grappe de fleurs parfumées.",
+        "hu": "Ezeket tavasszal ültesd el. 5 nap alatt hoz egy édes illatú virágot.",
+        // "it": "",
+        "ja": "春植えの花。5日かけて育ち、甘い香りの一塊の小さな花を咲かせる。",
+        "pt": "Plante-a  na primavera. Demoram 5 dias para nascer pequenos cachos de flores com cheiro doce.",
+        "ru": "Сажайте весной. Через 5 дней вырастают маленькие пучки сладко пахнущих цветов.",
+        "tr": "Baharda ekilir. Tatlı kokulu küçük çiçekler üretmesi 5 gün sürer.",
+        "zh": "春天播种。5天产出小簇的香甜花朵。"
+    }
 }

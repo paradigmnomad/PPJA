@@ -24,31 +24,33 @@
     },
     "SeedPurchasePrice": 20,
 
-  "SeedNameLocalization": {
-    "es": "Semillas de violeta",
-    "ko": "제비꽃 씨앗",
-    "de": "Violette Samen",
-    // "fr": "",
-    "hu": "Ibolya magvak",
-    // "it": "",
-    "ja": "スミレの種",
-    "pt": "Semente de Violeta",
-    "ru": "Семена фиалки",
-    "tr": "Menekşe Tohumu",
-    "zh": "紫罗兰花种子"
-  },
-  "SeedDescriptionLocalization": {
-    "es": "Plántalas en primavera. Toma 6 días para producir una rica flor morada.",
-    "ko": "봄에 심습니다. 6일후에 작고, 보라색 꽃이 핍니다.",
-    "de": "Im Frühjahr pflanzen. Es dauert 6 Tage, um kleine, violette Blüten zu produzieren.",
-    // "fr": "",
-    "hu": "Ezeket tavasszal ültesd el. 6 nap alatt hoz kicsi, lila virágokat.",
-    // "it": "",
-    "ja": "春植えの花。6日かけて育ち、小さな紫色の花を咲かせる。",
-    "pt": "Plante-a na primavera. Demoram 6 dias para nascer pequenas flores roxas.",
-    "ru": "Сажайте весной. Через 6 дней вырастает маленький фиолетовый цветок.",
-    "tr": "Baharda ekilir. 6 günde küçük mor çiçeklere dönüşür.",
-    "zh": "春天播种。6天产出紫色的小巧花朵。"
-  }
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de violeta",
+        "ko": "제비꽃 씨앗",
+        "de": "Violette Samen",
+        "fr": "Graines de violettes",
+        "hu": "Ibolya magvak",
+        // "it": "",
+        "ja": "スミレの種",
+        "pt": "Semente de Violeta",
+        "ru": "Семена фиалки",
+        "tr": "Menekşe Tohumu",
+        "zh": "紫罗兰花种子"
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera. Toma 6 días para producir una rica flor morada.",
+        "ko": "봄에 심습니다. 6일후에 작고, 보라색 꽃이 핍니다.",
+        "de": "Im Frühjahr pflanzen. Es dauert 6 Tage, um kleine, violette Blüten zu produzieren.",
+        "fr": "À planter au printemps. Prend 6 jours pour produire de petites fleurs violettes.",
+        "hu": "Ezeket tavasszal ültesd el. 6 nap alatt hoz kicsi, lila virágokat.",
+        // "it": "",
+        "ja": "春植えの花。6日かけて育ち、小さな紫色の花を咲かせる。",
+        "pt": "Plante-a na primavera. Demoram 6 dias para nascer pequenas flores roxas.",
+        "ru": "Сажайте весной. Через 6 дней вырастает маленький фиолетовый цветок.",
+        "tr": "Baharda ekilir. 6 günde küçük mor çiçeklere dönüşür.",
+        "zh": "春天播种。6天产出紫色的小巧花朵。"
+    }
 
 }

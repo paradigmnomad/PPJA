@@ -18,7 +18,7 @@
         {
             "Object": 330,
             "Count": 10
-        } ],
+        }],
         "CanPurchase": false
     },
     "NameLocalization":
@@ -26,7 +26,7 @@
         "es": "Lentejuela de verano en maceta",
         "ko": "실내 화초 여름 별꽃",
         "de": "Eingemachter Sommer Spangle",
-        // "fr": "",
+        "fr": "Fleur tropicale d'été en pot",
         "hu": "Cserepes Nyári tölgyfagubacs",
         // "it": "",
         "ja": "サマースパングルの鉢植え",
@@ -35,17 +35,18 @@
         "tr": "Saksıda Yazpulu",
         "zh": "夏日亮片盆栽"
     },
-  "DescriptionLocalization": {
-    "es": "Una lentejuela veraniega en una pequeña maceta de madera. ¡Asegúrate de regarlo!",
-    "ko": "작은 나무 화분에 심겨진 여름 별꽃 입니다. 물 주는거 잊지마세요!",
-    "de": "Ein Sommerflitter in einem kleinen Holztopf. Achten Sie darauf, es zu gießen!",
-    // "fr": "",
-    "hu": "Egy nyári tölgyfagubacs cserépben. Ne felejtsd el megöntözni!",
-    // "it": "",
-    "ja": "サマースパングルが植えられた木製の小さな鉢。水やりを忘れずに。",
-    "pt": "Uma miçanga em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
-    "ru": "Летний блестник в маленьком деревянном горшочке. Не забывайте поливать!",
-    "tr": "Küçük tahta bir saksıda bir yazpulu. Sulamayı unutma!",
-    "zh": "一个小木盆里的夏日亮片。记得给它浇水！"
-  }
+    "DescriptionLocalization":
+    {
+        "es": "Una lentejuela veraniega en una pequeña maceta de madera. ¡Asegúrate de regarlo!",
+        "ko": "작은 나무 화분에 심겨진 여름 별꽃 입니다. 물 주는거 잊지마세요!",
+        "de": "Ein Sommerflitter in einem kleinen Holztopf. Achten Sie darauf, es zu gießen!",
+        "fr": "Une fleur tropicale d'été dans un pot de bois. N'oublie pas de l'arroser!",
+        "hu": "Egy nyári tölgyfagubacs cserépben. Ne felejtsd el megöntözni!",
+        // "it": "",
+        "ja": "サマースパングルが植えられた木製の小さな鉢。水やりを忘れずに。",
+        "pt": "Uma miçanga em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
+        "ru": "Летний блестник в маленьком деревянном горшочке. Не забывайте поливать!",
+        "tr": "Küçük tahta bir saksıda bir yazpulu. Sulamayı unutma!",
+        "zh": "一个小木盆里的夏日亮片。记得给它浇水！"
+    }
 }

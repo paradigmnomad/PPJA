@@ -24,30 +24,32 @@
     },
 
     "SeedPurchasePrice": 35,
-  "SeedNameLocalization": {
-    "es": "Semillas de lirio",
-    "ko": "백합 구근",
-    "de": "Lilienknolle",
-    // "fr": "",
-    "hu": "Liliom hagyma",
-    // "it": "",
-    "ja": "ユリの球根",
-    "pt": "Bulbo de Lírios",
-    "ru": "Семена лилии",
-    "tr": "Zambak Soğanı",
-    "zh": "百合花种子"
-  },
-  "SeedDescriptionLocalization": {
-    "es": "Plántalas en verano. Toma 9 días para producir una larga flor como trompeta.",
-    "ko": "여름에 심습니다. 9일후에 크고 마치 트럼펫같은 꽃이 핍니다.",
-    "de": "Im Sommer pflanzen. Die Herstellung einer großen, trompetenartigen Blume dauert 9 Tage.",
-    // "fr": "",
-    "hu": "Ezeket nyáron ültesd el. 9 nap alatt hoz egy nagy, trombita-szerű virágot.",
-    // "it": "",
-    "ja": "夏植えの花。9日かけて育ち、大きなラッパ型の花を咲かせる。",
-    "pt": "Plante-a no verão. Demoram 9 dias para nascer uma flor grande, semelhante a uma trombeta.",
-    "ru": "Сажайте летом. Через 9 дней вырастает большой трубчатый цветок.",
-    "tr": "Yazın ekilir. 9 günde trompete benzeyen büyük bir çiçeğe dönüşür.",
-    "zh": "夏天播种。9天产出硕大的喇叭状花朵。"
-  }
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de lirio",
+        "ko": "백합 구근",
+        "de": "Lilienknolle",
+        "fr": "Bulbes de lys",
+        "hu": "Liliom hagyma",
+        // "it": "",
+        "ja": "ユリの球根",
+        "pt": "Bulbo de Lírios",
+        "ru": "Семена лилии",
+        "tr": "Zambak Soğanı",
+        "zh": "百合花种子"
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 9 días para producir una larga flor como trompeta.",
+        "ko": "여름에 심습니다. 9일후에 크고 마치 트럼펫같은 꽃이 핍니다.",
+        "de": "Im Sommer pflanzen. Die Herstellung einer großen, trompetenartigen Blume dauert 9 Tage.",
+        "fr": "À planter en été. Prend 9 jours pour produire une grande fleur en forme de trompette.",
+        "hu": "Ezeket nyáron ültesd el. 9 nap alatt hoz egy nagy, trombita-szerű virágot.",
+        // "it": "",
+        "ja": "夏植えの花。9日かけて育ち、大きなラッパ型の花を咲かせる。",
+        "pt": "Plante-a no verão. Demoram 9 dias para nascer uma flor grande, semelhante a uma trombeta.",
+        "ru": "Сажайте летом. Через 9 дней вырастает большой трубчатый цветок.",
+        "tr": "Yazın ekilir. 9 günde trompete benzeyen büyük bir çiçeğe dönüşür.",
+        "zh": "夏天播种。9天产出硕大的喇叭状花朵。"
+    }
 }

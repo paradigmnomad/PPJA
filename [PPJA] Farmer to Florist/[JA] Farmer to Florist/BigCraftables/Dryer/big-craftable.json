@@ -24,32 +24,32 @@
             "Count": 1
         }]
     },
-    "NameLocalization": //Used for localization. 
+    "NameLocalization": 
     {
-        // "es": "", //Spanish
-        "ko": "건조기", //Korean
-        "de": "Trockner", //German
-        // "fr": "", //French
-        "hu": "Szárító", //Hungarian
-        // "it": "", //Italian
-        "ja": "乾燥ラック", //Japanese
-        "pt": "Secador", //Portuguese
-        "ru": "Сушилка", //Russian
-        "tr": "Kurutucu", //Turkish
-        "zh": "晾晒架", //Chinese (Simplified)
+        // "es": "",  
+        "ko": "건조기",  
+        "de": "Trockner",  
+        "fr": "Séchoir",  
+        "hu": "Szárító",  
+        // "it": "",  
+        "ja": "乾燥ラック",  
+        "pt": "Secador",  
+        "ru": "Сушилка",  
+        "tr": "Kurutucu",  
+        "zh": "晾晒架", 
     },
-    "DescriptionLocalization": //Used for localization. 
+    "DescriptionLocalization":  
     {
-        // "es": "", //Spanish
-        "ko": "말린 꽃과 잎을 차로 만들거나, 야채를 칩으로 만들 수 있습니다.", //Korean
-        "de": "Zum Trocknen von Blumen und Blättern für die Teezubereitung und von Gemüse zu Pommes.", //German
-        // "fr": "", //French
-        "hu": "Virágszirmok, és levelek kiszárítására a teakészítéshez, valamint zöldségek kiszárítására a chipskészítéshez használatos.", //Hungarian
-        // "it": "", //Italian
-        "ja": "草花を乾燥させてお茶にしたり、野菜チップスを作るのに使われる。", //Japanese
-        "pt": "É usado para secar folhas e flores para fazer chá e seca legumes para fazer frituras.", //Portuguese
-        "ru": "Используется для сушки цветов и листьев для последующего приготовления чая и сушки овощей в чипсы.", //Russian
-        "tr": "Çiçekleri ve yaprakları çay yapımı için, sebzeleri de cips yapmak için kurutur.", //Turkish
-        "zh": "用来把花和叶子晒干，把蔬菜做成蔬菜脆片。", //Chinese (Simplified)
+        // "es": "",  
+        "ko": "말린 꽃과 잎을 차로 만들거나, 야채를 칩으로 만들 수 있습니다.",  
+        "de": "Zum Trocknen von Blumen und Blättern für die Teezubereitung und von Gemüse zu Pommes.",  
+        "fr": "Utiliser pour faire sécher les fleurs et les feuilles destinées aux infusions, et les chips de légumes.",  
+        "hu": "Virágszirmok, és levelek kiszárítására a teakészítéshez, valamint zöldségek kiszárítására a chipskészítéshez használatos.",  
+        // "it": "",  
+        "ja": "草花を乾燥させてお茶にしたり、野菜チップスを作るのに使われる。",  
+        "pt": "É usado para secar folhas e flores para fazer chá e seca legumes para fazer frituras.",  
+        "ru": "Используется для сушки цветов и листьев для последующего приготовления чая и сушки овощей в чипсы.",  
+        "tr": "Çiçekleri ve yaprakları çay yapımı için, sebzeleri de cips yapmak için kurutur.",  
+        "zh": "用来把花和叶子晒干，把蔬菜做成蔬菜脆片。", 
     }
 }

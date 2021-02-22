@@ -1,50 +1,52 @@
 {
-  "Name": "Potted Lavender",
-  "Description": "A small lavender bush potted in a little wooden pot. Remember to water it!",
-  "Price": 1,
-  "ProvidesLight": false,
-  "Recipe": {
-    "ResultCount": 1,
-    "Ingredients": [
-      {
-		  "Object": "Lavender",
-		  "Count": 1
-      },
-      {
-		  "Object": 388,
-		  "Count": 10
-      },
-	  {
-		  "Object": 330,
-		  "Count": 10
-	  }
-    ],
-	"CanPurchase": false
-  },
-  "NameLocalization": { 
-    "es": "Lavanda en maceta",
-    "ko": "실내 화초 라벤더",
-    "de": "Eingemachter Lavendel",
-    "fr": "Lavande en pot",
-    "hu": "Cserepes Levendula",
-    "it": "Lavanda In Vaso",
-    "ja": "ラベンダーの鉢植え",
-    "pt": "Vaso de Lavanda",
-    "ru": "Лаванда в горшке",
-    "tr": "Saksıda Lavanta",
-    "zh": "薰衣草盆栽"
-     },
-  "DescriptionLocalization": {
-    "es": "Un pequeño arbusto de lavanda en una pequeña maceta de madera. ¡Recuerda regarla!",
-    "ko": "작은 나무 화분에 심겨진 라벤더 입니다. 물 주는거 잊지마세요!",
-    "de": "Ein kleiner Lavendelbusch in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-    "fr": "Un petit buisson de lavande en pot dans un petit pot en bois. N'oubliez pas de l'arroser!",
-    "hu": "Egy apró levendula bokor cserépben. Ne felejtsed el megöntözni!",
-    "it": "Un piccolo cespuglio di lavanda in vaso in un piccolo vaso di legno. Ricordati di annaffiarlo!",
-    "ja": "ミニサイズのラベンダーが植えられた木製の小さな鉢。水やりを忘れずに。",
-    "pt": "Um arbusto pequeno de lavanda, em um pequeno vaso de madeira. Lembre-se sempre de regá-lo!",
-    "ru": "Небольшой куст лаванды в маленьком деревянном горшочке. Не забывайте поливать!",
-    "tr": "Küçük tahta bir saksıda küçük bir lavanta çalısı. Sulamayı unutma!",
-    "zh": "一个小木盆里的薰衣草。记得给它浇水！"
-  }
+    "Name": "Potted Lavender",
+    "Description": "A small lavender bush potted in a little wooden pot. Remember to water it!",
+    "Price": 1,
+    "ProvidesLight": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Lavender",
+            "Count": 1
+        },
+        {
+            "Object": 388,
+            "Count": 10
+        },
+        {
+            "Object": 330,
+            "Count": 10
+        }],
+        "CanPurchase": false
+    },
+    "NameLocalization":
+    {
+        "es": "Lavanda en maceta",
+        "ko": "실내 화초 라벤더",
+        "de": "Eingemachter Lavendel",
+        "fr": "Lavande en pot",
+        "hu": "Cserepes Levendula",
+        "it": "Lavanda In Vaso",
+        "ja": "ラベンダーの鉢植え",
+        "pt": "Vaso de Lavanda",
+        "ru": "Лаванда в горшке",
+        "tr": "Saksıda Lavanta",
+        "zh": "薰衣草盆栽"
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un pequeño arbusto de lavanda en una pequeña maceta de madera. ¡Recuerda regarla!",
+        "ko": "작은 나무 화분에 심겨진 라벤더 입니다. 물 주는거 잊지마세요!",
+        "de": "Ein kleiner Lavendelbusch in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+        "fr": "Un petit buisson de lavande en pot dans un petit pot en bois. N'oubliez pas de l'arroser!",
+        "hu": "Egy apró levendula bokor cserépben. Ne felejtsed el megöntözni!",
+        "it": "Un piccolo cespuglio di lavanda in vaso in un piccolo vaso di legno. Ricordati di annaffiarlo!",
+        "ja": "ミニサイズのラベンダーが植えられた木製の小さな鉢。水やりを忘れずに。",
+        "pt": "Um arbusto pequeno de lavanda, em um pequeno vaso de madeira. Lembre-se sempre de regá-lo!",
+        "ru": "Небольшой куст лаванды в маленьком деревянном горшочке. Не забывайте поливать!",
+        "tr": "Küçük tahta bir saksıda küçük bir lavanta çalısı. Sulamayı unutma!",
+        "zh": "一个小木盆里的薰衣草。记得给它浇水！"
+    }
 }

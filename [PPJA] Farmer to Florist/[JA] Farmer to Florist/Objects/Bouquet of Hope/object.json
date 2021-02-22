@@ -39,9 +39,9 @@
         "es": "Ramo de esperanza",
         "ko": "희망찬 꽃다발",
         "de": "Blumenstrauß der Hoffnung",
-         // "fr": "",
+        "fr": "Bouquet d'espérance",
         "hu": "A remény virágcsokra",
-         // "it": "",
+        // "it": "",
         "ja": "希望の花束",
         "pt": "Buquê da Esperança",
         "ru": "Букет надежды.",
@@ -53,13 +53,13 @@
         "es": "Flores brillantes de color amarillo envueltas en un ramo. Te llenan de esperanza.",
         "ko": "밝은 노란색 꽃으로 만든 꽃다발입니다. 희망이 당신을 채웁니다.",
         "de": "Leuchtend gelbe Blüten, in einen Strauß gehüllt. Es erfüllt dich mit Hoffnung.",
-         // "fr": "",
+        "fr": "Des fleurs jaune vif réunies en bouquet. Le regarder remplit d'espoir.",
         "hu": "Egy sárga virágokból álló csokor. Reménnyel tölt fel.",
-         // "it": "",
+        // "it": "",
         "ja": "鮮やかな黄色の花束。希望に満ちている。",
         "pt": "Flores amarelas brilhantes, envolto em um buquê.Isso te enche de esperança.",
         "ru": "Ярко-желтые цветы, завернутые в букет. Он наполняет Вас надеждой.",
-         "tr": "Açık sarı çiçeklerden bir buket. İçini umutla dolduruyor.",
+        "tr": "Açık sarı çiçeklerden bir buket. İçini umutla dolduruyor.",
         "zh": "明丽的黄色花束，使人充满希望。"
     }
 }

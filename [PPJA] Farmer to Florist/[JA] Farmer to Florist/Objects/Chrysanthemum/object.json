@@ -18,9 +18,9 @@
         "es": "Crisantemo",
         "ko": "국화",
         "de": "Chrysantheme",
-         // "fr": "",
+        "fr": "Chrysanthème",
         "hu": "Krizantém",
-         // "it": "",
+        // "it": "",
         "ja": "キクの花",
         "pt": "Crisântemo",
         "ru": "Хризантема",
@@ -32,9 +32,9 @@
         "es": "Una flor con forma de botón que viene en una variedad de colores.",
         "ko": "단추 모양 같은 다양한 색상의 꽃",
         "de": "Eine knopfartige Blume, die in verschiedenen Farben erhältlich ist.",
-         // "fr": "",
+        "fr": "Une petite fleur en bouton qui se pare de multiples couleurs.",
         "hu": "Egy gomb alakú virág, melynek többféle színű változatai vannak.",
-         // "it": "",
+        // "it": "",
         "ja": "色のバリエーションが豊富なボタン形の花。",
         "pt": "ma flor em forma de botão que vem em uma variedade de cores.",
         "ru": "Цветок в форме пуговицы. Он бывает разных цветов.",
@@ -42,8 +42,8 @@
         "zh": "花朵呈纽扣状，有多种颜色。"
     },
     "ContextTags": [
-    	"season_fall",
-    	"flower_item",
-    	"color_yellow"
+        "season_fall",
+        "flower_item",
+        "color_yellow"
     ]
 }

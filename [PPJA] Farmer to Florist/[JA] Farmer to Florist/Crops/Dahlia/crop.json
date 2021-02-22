@@ -26,30 +26,32 @@
         "y 3",
     ],
     "SeedPurchasePrice": 20,
-  "SeedNameLocalization": {
-    "es": "Semillas de dalia",
-    "ko": "달리아 씨앗",
-    "de": "Dahlie-Saat",
-    // "fr": "",
-    "hu": "Dália magvak",
-    // "it": "",
-    "ja": "ダリアの種",
-    "pt": "Semente de Dália",
-    "ru": "Семена георгина",
-    "tr": "Yıldız Çiçeği Tohumu",
-    "zh": "大丽花种子"
-  },
-  "SeedDescriptionLocalization": {
-    "es": "Plántalas en otoño. Toma 6 días para producir una flor grande y brillante.",
-    "ko": "가을에 심습니다. 6일후에 크고 빛나는 꽃이 핍니다.",
-    "de": "Pflanze im Herbst. Die Produktion einer großen, leuchtenden Blume dauert 6 Tage.",
-    // "fr": "",
-    "hu": "Ezeket ősszel ültesd el. 6 nap alatt hoz egy nagy, világos virágot.",
-    // "it": "",
-    "ja": "秋植えの花。6日かけて育ち、明るい色の大輪の花を咲かせる。",
-    "pt": "Plante-a no outono. Demoram 6 dias para crescer uma flor grande e brilhante",
-    "ru": "Сажайте осенью. Через 6 дней вырастает большой яркий цветок.",
-    "tr": "Güzde ekilir. 6 günde büyük ve açık renkli bir çiçeğe dönüşür.",
-    "zh": "秋天播种。6天产出巨大鲜艳的花朵。"
-  }
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de dalia",
+        "ko": "달리아 씨앗",
+        "de": "Dahlie-Saat",
+        "fr": "Graines de dahlias",
+        "hu": "Dália magvak",
+        // "it": "",
+        "ja": "ダリアの種",
+        "pt": "Semente de Dália",
+        "ru": "Семена георгина",
+        "tr": "Yıldız Çiçeği Tohumu",
+        "zh": "大丽花种子"
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 6 días para producir una flor grande y brillante.",
+        "ko": "가을에 심습니다. 6일후에 크고 빛나는 꽃이 핍니다.",
+        "de": "Pflanze im Herbst. Die Produktion einer großen, leuchtenden Blume dauert 6 Tage.",
+        "fr": "À planter en été. Prend 6 jours pour produire une grande fleur colorée.",
+        "hu": "Ezeket ősszel ültesd el. 6 nap alatt hoz egy nagy, világos virágot.",
+        // "it": "",
+        "ja": "秋植えの花。6日かけて育ち、明るい色の大輪の花を咲かせる。",
+        "pt": "Plante-a no outono. Demoram 6 dias para crescer uma flor grande e brilhante",
+        "ru": "Сажайте осенью. Через 6 дней вырастает большой яркий цветок.",
+        "tr": "Güzde ekilir. 6 günde büyük ve açık renkli bir çiçeğe dönüşür.",
+        "zh": "秋天播种。6天产出巨大鲜艳的花朵。"
+    }
 }

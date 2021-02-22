@@ -18,7 +18,7 @@
         {
             "Object": 330,
             "Count": 10
-        } ],
+        }],
         "CanPurchase": false
     },
     "NameLocalization":
@@ -26,7 +26,7 @@
         "es": "Delfinio en maceta",
         "ko": "실내 화초 델피니움",
         "de": "Topf Delphinium",
-        // "fr": "",
+        "fr": "Delphinium en pot",
         "hu": "Cserepes Sarkantyúfű",
         // "it": "",
         "ja": "デルフィニウムの鉢植え",
@@ -35,17 +35,18 @@
         "tr": "Saksıda Hezaren",
         "zh": "翠雀花盆栽"
     },
-  "DescriptionLocalization": {
-    "es": "Un delfinio en una pequeña maceta de madera. ¡Recuerda regarlo!",
-    "ko": "작은 나무 화분에 심겨진 델피니움 입니다. 물 주는거 잊지마세요!",
-    "de": "Ein Rittersporn in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-    // "fr": "",
-    "hu": "Egy sarkantyúfű cserépben. Ne felejtsed el megöntözni!",
-    // "it": "",
-    "ja": "デルフィニウムが植えられた木製の小さな鉢。水やりを忘れずに。",
-    "pt": "Uma esporinha em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
-    "ru": "Дельфиниум в маленьком деревянном горшочке. Не забывайте поливать!",
-    "tr": "Küçük tahta bir saksıda bir hezaren. Sulamayı unutma!",
-    "zh": "一个小木盆里的翠雀花。记得给它浇水！"
-  }
+    "DescriptionLocalization":
+    {
+        "es": "Un delfinio en una pequeña maceta de madera. ¡Recuerda regarlo!",
+        "ko": "작은 나무 화분에 심겨진 델피니움 입니다. 물 주는거 잊지마세요!",
+        "de": "Ein Rittersporn in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
+        "fr": "Un delphinium dans un pot de bois. N'oublie pas de l'arroser!",
+        "hu": "Egy sarkantyúfű cserépben. Ne felejtsed el megöntözni!",
+        // "it": "",
+        "ja": "デルフィニウムが植えられた木製の小さな鉢。水やりを忘れずに。",
+        "pt": "Uma esporinha em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
+        "ru": "Дельфиниум в маленьком деревянном горшочке. Не забывайте поливать!",
+        "tr": "Küçük tahta bir saksıda bir hezaren. Sulamayı unutma!",
+        "zh": "一个小木盆里的翠雀花。记得给它浇水！"
+    }
 }

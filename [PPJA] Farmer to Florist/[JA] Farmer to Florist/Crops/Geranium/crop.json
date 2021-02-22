@@ -27,30 +27,32 @@
         "y 3",
     ],
     "SeedPurchasePrice": 40,
-  "SeedNameLocalization": {
-    "es": "Semillas de geranio",
-    "ko": "제라늄 씨앗",
-    "de": "Geranien-Saat",
-    // "fr": "",
-    "hu": "Geránium magvak",
-    // "it": "",
-    "ja": "ゼラニウムの種",
-    "pt": "Semente de Gerânio",
-    "ru": "Семена герани",
-    "tr": "Turnagagası Tohumu",
-    "zh": "天竺葵种子"
-  },
-  "SeedDescriptionLocalization": {
-    "es": "Plántalas en otoño. Toma 9 días para producir un racimo de flores.",
-    "ko": "가을에 심습니다. 9일후에 꽃이 핍니다.",
-    "de": "Pflanze im Herbst. Es dauert 9 Tage, um eine Gruppe von Blumen zu produzieren.",
-    // "fr": "",
-    "hu": "Ezeket ősszel ültesd el. 9 nap alatt hoz egy csokornyi virágot.",
-    // "it": "",
-    "ja": "秋植えの花。9日かけて育ち、ひと房の花を咲かせる。",
-    "pt": "Plante-a no  outono. Demoram 9 dias para crescer um conjunto de flores",
-    "ru": "Сажайте осенью. Через 9 дней вырастает скопление цветов.",
-    "tr": "Güzde ekilir. 9 günde bir çiçek kümesine dönüşür.",
-    "zh": "秋天播种。9天产出花束。"
-  }
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de geranio",
+        "ko": "제라늄 씨앗",
+        "de": "Geranien-Saat",
+        "fr": "Graines de géraniums",
+        "hu": "Geránium magvak",
+        // "it": "",
+        "ja": "ゼラニウムの種",
+        "pt": "Semente de Gerânio",
+        "ru": "Семена герани",
+        "tr": "Turnagagası Tohumu",
+        "zh": "天竺葵种子"
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 9 días para producir un racimo de flores.",
+        "ko": "가을에 심습니다. 9일후에 꽃이 핍니다.",
+        "de": "Pflanze im Herbst. Es dauert 9 Tage, um eine Gruppe von Blumen zu produzieren.",
+        "fr": "À planter en automne. Prend 9 jours pour produire une grappe de fleurs.",
+        "hu": "Ezeket ősszel ültesd el. 9 nap alatt hoz egy csokornyi virágot.",
+        // "it": "",
+        "ja": "秋植えの花。9日かけて育ち、ひと房の花を咲かせる。",
+        "pt": "Plante-a no  outono. Demoram 9 dias para crescer um conjunto de flores",
+        "ru": "Сажайте осенью. Через 9 дней вырастает скопление цветов.",
+        "tr": "Güzde ekilir. 9 günde bir çiçek kümesine dönüşür.",
+        "zh": "秋天播种。9天产出花束。"
+    }
 }

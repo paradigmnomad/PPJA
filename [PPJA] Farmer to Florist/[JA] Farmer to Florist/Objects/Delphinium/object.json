@@ -19,9 +19,9 @@
         "es": "Delfinio",
         "ko": "델피니움",
         "de": "Rittersporn",
-         // "fr": "",
+        "fr": "Delphinium",
         "hu": "Sarkantyúfű",
-         // "it": "",
+        // "it": "",
         "ja": "デルフィニウム",
         "pt": "Esporinha",
         "ru": "Дельфиниум",
@@ -33,9 +33,9 @@
         "es": "Una planta que le crece flores a lo largo de su gran tallo sobresaliendo. Es venenoso si se ingiere.",
         "ko": "커다랗고 튀어나온 줄기를 따라 꽃을 피우는 식물. 독이 있어서 먹으면 안된다.",
         "de": "Eine Pflanze, deren Blumen an einem großen, hervorstehenden Stiel wächst. Es ist giftig, wenn es eingenommen wird.",
-         // "fr": "",
+        "fr": "Une plante qui porte une immense hampe florale. Toxique si on la comsomme.",
         "hu": "Ennek a növénynek hatalmas virágai vannak, melyek egy kiálló ágon nőnek. Szájba jutva mérgező.",
-         // "it": "",
+        // "it": "",
         "ja": "大きな茎に沿って無数の花が咲く。アルカロイド系の毒を持っている。",
         "pt": "Uma planta que cultiva flores ao longo de um caule grande e saliente. É venenoso,toma cuidado para não ingerir.",
         "ru": "Растение с большим выпуклым стеблем, вдоль которого растут цветы. Ядовито.",
@@ -43,9 +43,9 @@
         "zh": "花茎大而突出，沿茎身密布花朵，有毒，不可食用。"
     },
     "ContextTags": [
-    	"color_blue",
-    	"season_spring",
-    	"flower_poisonous",
-    	"flower_item"
+        "color_blue",
+        "season_spring",
+        "flower_poisonous",
+        "flower_item"
     ]
 }
