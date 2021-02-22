@@ -20,7 +20,7 @@
     "SeedPurchasePrice": 450,
     "SeedPurchaseRequirements": [
         "y 3",
-        "HasCookingRecipe Ostrich-Incubator"
+        "HasCraftingRecipe Ostrich-Incubator"
     ],
     "SeedNameLocalization":
     {
