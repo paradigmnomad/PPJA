@@ -40,7 +40,7 @@
         "ja": "フレッシュレモネード",
         "pt": "Limonada fresca",
          // "ru": "",
-         // "tr": "",
+        "tr": "Taze Limonata",
         "zh": "鲜榨柠檬水",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
         "ja": "絞りたてのレモネード！",
         "pt": "Limonada espremida na hora!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Taze sıkılmış limonata!",
         "zh": "用新鲜的柠檬榨出来的！",
     }
 }

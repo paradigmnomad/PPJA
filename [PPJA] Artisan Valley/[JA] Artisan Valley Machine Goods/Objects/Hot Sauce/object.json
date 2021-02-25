@@ -48,7 +48,7 @@
         "ja": "ホットソース",
         "pt": "Molho Picante",
         "ru": "Острый соус",
-         // "tr": "",
+        "tr": "Acı Sos",
         "zh": "辣酱",
     },
     "DescriptionLocalization":
@@ -62,7 +62,7 @@
         "ja": "スパイシーなソース。",
         "pt": "Molho picante. Coma com cuidado!",
         "ru": "Пряный соус.",
-         // "tr": "",
+        "tr": "Acılı bir sos.",
         "zh": "一罐辣酱。",
     }
 }

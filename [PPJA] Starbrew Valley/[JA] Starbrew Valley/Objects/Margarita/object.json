@@ -38,20 +38,20 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 5600,
-            },
+    },
 
     "NameLocalization":
     {
         "es": "Cóctel Margarita",
         "ko": "마르가리타",
         "de": "Margarita",
-        // "fr": "",
+        "fr": "Margarita",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Margarita",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Маргарита",
+        "tr": "Margarita",
         "zh": "玛格丽特",
     },
     "DescriptionLocalization":
@@ -59,13 +59,13 @@
         "es": "Una margarita, dos margarita, tres margarita, ¡al piso!",
         "ko": "마르가리타 한잔, 마르가리타 두잔, 마르가리타 세잔, 바닥!",
         "de": "Eine Margarita, zwei Margarita, drei Margarita, Boden!",
-        // "fr": "",
+        "fr": "Un margarita, deux margaritas, trois margaritas, plancher!",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Uma margarida, duas margaritas, três margaridas, chão!",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Одна маргарита, две маргариты, три маргариты, пол!",
+        "tr": "Bir margarita, iki margarita, üç margarita, kat!",
         "zh": "玛格丽特。一杯玛格丽塔，两杯玛格丽塔，三杯玛格丽特，倒！",
     }
 }

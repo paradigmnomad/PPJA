@@ -38,9 +38,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "熟制火鸡",
+        "ru": "Приготовленная индейка",
+        "tr": "Pişmiş Hindi Eti",
+        "zh": "熟制火鸡",
     },
     "DescriptionLocalization":
     {
@@ -52,13 +52,13 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "一整只烤火鸡，已烹制熟透，可用于进一步烹调。",
+        "ru": "Целая жареная индейка, уже приготовленная и готовая к использованию в рецептах.",
+        "tr": "Kızarmış bütün hindi, tariflerde kullanıma hazır.",
+        "zh": "一整只烤火鸡，已烹制熟透，可用于进一步烹调。",
     },
     "ContextTags": [
         "cooked_meat",
         "meat_item",
-    ],    
-    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
+    ],
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -43,7 +43,7 @@
         "ja": "パープルパステルケーキ",
         "pt": "Bolo na cor roxo pastel",
          // "ru": "",
-         // "tr": "",
+        "tr": "Mor Pastel Pasta",
         "zh": "紫粉蛋糕",
     },
     "DescriptionLocalization":
@@ -57,7 +57,7 @@
         "ja": "うまい！",
         "pt": "Delicioso!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Leziz!",
         "zh": "好吃！",
     }
 }

@@ -18,12 +18,12 @@
         "de": "Veilchen",
         "fr": "Violette",
         "hu": "Ibolya",
-         // "it": "",
+        // "it": "",
         "ja": "スミレ",
         "pt": "Violeta sombreada",
         "ru": "Теневая фиалка",
-         // "tr": "",
-        "zh": "紫罗兰",
+        "tr": "Gölgeli Menekşe",
+        "zh": "紫罗兰"
     },
     "DescriptionLocalization":
     {
@@ -32,11 +32,11 @@
         "de": "Klein und lilafarben.",
         "fr": "Une petite fleur violette qui privilégie l'ombre.",
         "hu": "Egy apró lila virág, mely az árnyékot kedveli.",
-         // "it": "",
+        // "it": "",
         "ja": "日陰を好む小さな紫色の花。",
         "pt": "Uma pequena flor roxa, que fica facilmente escura devido a sua 'sombra'.",
         "ru": "Маленький фиолетовый цветок, предпочитающий темноту.",
-         // "tr": "",
-        "zh": "一朵紫色的小花，喜欢在阴凉处生长。",
+        "tr": "Gölgeye lütfeden küçük, mor bir çiçek.",
+        "zh": "一朵紫色的小花，喜欢在阴凉处生长。"
     }
 }

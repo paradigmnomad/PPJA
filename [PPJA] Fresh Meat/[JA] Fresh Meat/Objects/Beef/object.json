@@ -22,7 +22,7 @@
         "ja": "牛肉",
         "pt": "Bife de boi",
         "ru": "Говядина",
-        // "tr": "",
+        "tr": "Sığır Eti",
         "zh": "牛肉",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "ジューシーな厚切りの牛肉。",
         "pt": "Um espesso e suculento pedaço de bife.",
         "ru": "Сочный и плотный говяжий кусочек.",
-        // "tr": "",
+        "tr": "Kalın ve sulu bir sığır eti parçası.",
         "zh": "一块又厚又多汁的牛肉。",
     },
     "DisableWithMod": "DIGUS.ANIMALHUSBANDRYMOD"

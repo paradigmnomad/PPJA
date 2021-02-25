@@ -24,7 +24,7 @@
         "ja": "ポブラノエキス",
         "pt": "Extrato de Poblano",
         "ru": "Перец «Поблано»",
-         // "tr": "",
+        "tr": "Poblano Ekstratı",
         "zh": "墨西哥胡椒提取物",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "トウガラシから抽出されたエキス。",
         "pt": "Este líquido foi extraído de uma pimenta.",
         "ru": "Эта жидкость была извлечена из перца.",
-         // "tr": "",
+        "tr": "Bu sıvı bir biberden temin edilmiş.",
         "zh": "这种液体是从墨西哥胡椒中提取出来的。",
     }
 }

@@ -36,32 +36,30 @@
         "Dislike": ["Krobus", "Willy"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Chocolate",
-        "ko": "초콜릿",
-        "de": "Schokolade",
-        "fr": "Chocolat",
-         // "hu": "",
-         // "it": "",
-        "ja": "チョコレート",
-        "pt": "Chocolate",
-        "ru": "Шоколад",
-         // "tr": "",
-        "zh": "巧克力",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "¡Decadente!",
-        "ko": "황홀한 맛!",
-        "de": "Dekadent!",
-        "fr": "Décadent !",
-         // "hu": "",
-         // "it": "",
-        "ja": "魅惑的！",
-        "pt": "Decadente!",
-        "ru": "Очаровывающий!",
-         // "tr": "",
-        "zh": "巧克力。吃多了会颓废的！",
-    }
+  "NameLocalization": {
+    "es": "Chocolate",
+    "ko": "초콜릿",
+    "de": "Schokolade",
+    "fr": "Chocolat",
+    // "hu": "",
+    // "it": "",
+    "ja": "チョコレート",
+    "pt": "Chocolate",
+    "ru": "Шоколад",
+    "tr": "Çikolata",
+    "zh": "巧克力"
+  },
+  "DescriptionLocalization": {
+    "es": "¡Decadente!",
+    "ko": "황홀한 맛!",
+    "de": "Dekadent!",
+    "fr": "Décadent !",
+    // "hu": "",
+    // "it": "",
+    "ja": "魅惑的！",
+    "pt": "Decadente!",
+    "ru": "Очаровывающий!",
+    "tr": "Decadent!",
+    "zh": "巧克力。吃多了会颓废的！"
+  }
 }

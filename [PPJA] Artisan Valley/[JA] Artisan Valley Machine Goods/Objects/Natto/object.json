@@ -23,21 +23,20 @@
         "ja": "納豆",
         "pt": "Nattô",
         "ru": "Натто",
-         // "tr": "",
+        "tr": "Natto",
         "zh": "纳豆",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un refrigerio pegajoso y fermentado que se suele tomar en el desayuno.",
-        "ko": "끈적끈적하고, 아침식사로 먹는 발효식품.",
-        "de": "Ein klebriger, fermentierter Snack, der oft zum Frühstück gegessen wird.",
-        "fr": "Un en-cas gluant et fermenté, souvent mangé au petit-déjeuner.",
-        "hu": "Egy ragacsos, erjesztett snack, melyet gyakran reggelire fogyasztanak.",
-         // "it": "",
-        "ja": "このねばねばしている発酵食品は、朝食によく出される。",
-        "pt": "Um fermentado pegajoso que só pode ser tomado no café da manhã.",
-        "ru": "Склизкая закуска, которую часто едят на завтрак.",
-         // "tr": "",
-        "zh": "一种早餐经常吃的黏糊糊的发酵点心。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un refrigerio pegajoso y fermentado que se suele tomar en el desayuno.",
+    "ko": "끈적끈적하고, 아침식사로 먹는 발효식품.",
+    "de": "Ein klebriger, fermentierter Snack, der oft zum Frühstück gegessen wird.",
+    "fr": "Un en-cas gluant et fermenté, souvent mangé au petit-déjeuner.",
+    "hu": "Egy ragacsos, erjesztett snack, melyet gyakran reggelire fogyasztanak.",
+    // "it": "",
+    "ja": "このねばねばしている発酵食品は、朝食によく出される。",
+    "pt": "Um fermentado pegajoso que só pode ser tomado no café da manhã.",
+    "ru": "Склизкая закуска, которую часто едят на завтрак.",
+    "tr": "Kahvaltıda yenilen, yapışkan ve fermente bir atıştırmalık.",
+    "zh": "一种早餐经常吃的黏糊糊的发酵点心。"
+  }
 }

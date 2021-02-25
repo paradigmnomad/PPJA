@@ -23,24 +23,23 @@
         "fr": "Kombucha aux pétales de rose",
         "hu": "Rózsa kombucha",
         // "it": "",
-       "ja": "ローズコンブチャ",
-       "pt": "Kombuchá Rosa",
-       "ru": "Розовая комбуча",
-        // "tr": "",
+        "ja": "ローズコンブチャ",
+        "pt": "Kombuchá Rosa",
+        "ru": "Розовая комбуча",
+        "tr": "Güllü Kombucha",
         "zh": "玫瑰康普茶",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Hecho con pétalos de rosa recién recogidos.",
-        "ko": "갓 따낸 장미 꽃잎으로 만든 콤부차.",
-        "de": "Hergestellt aus frisch gepflückten Rosenblättern.",
-        "fr": "Fait avec des pétales de rose fraîchement cueillis.",
-        "hu": "Frissen szedett rózsaszirmokbók készült.",
-        // "it": "",
-       "ja": "摘みたてのバラで作られている。",
-       "pt": "Feito com pétalas de rosa recém-colhidas.",
-       "ru": "Сделано из свежесобранных лепестков роз.",
-        // "tr": "",
-        "zh": "用新鲜采摘的玫瑰花瓣制成。",
-    }
+  "DescriptionLocalization": {
+    "es": "Hecho con pétalos de rosa recién recogidos.",
+    "ko": "갓 따낸 장미 꽃잎으로 만든 콤부차.",
+    "de": "Hergestellt aus frisch gepflückten Rosenblättern.",
+    "fr": "Fait avec des pétales de rose fraîchement cueillis.",
+    "hu": "Frissen szedett rózsaszirmokbók készült.",
+    // "it": "",
+    "ja": "摘みたてのバラで作られている。",
+    "pt": "Feito com pétalas de rosa recém-colhidas.",
+    "ru": "Сделано из свежесобранных лепестков роз.",
+    "tr": "Taze toplanmış gül yapraklarından yapılmış.",
+    "zh": "用新鲜采摘的玫瑰花瓣制成。"
+  }
 }

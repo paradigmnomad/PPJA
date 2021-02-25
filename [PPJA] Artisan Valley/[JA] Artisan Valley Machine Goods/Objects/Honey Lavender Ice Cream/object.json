@@ -25,21 +25,20 @@
         "ja": "ハニーラベンダーアイス",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "蜂蜜薰衣草冰淇淋",
+        "tr": "Ballı Lavantalı Dondurma",
+        "zh": "蜂蜜薰衣草冰淇淋",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "라벤더 꽃 봉오리와 꿀이 들어간 진한 아이스크림.",
-        // "de": "",
-        "fr": "Une glace riche infusée avec des bourgeons de lavande et du miel.",
-        "hu": "Egy ízletes fagylalt levedulával és mézzel.",
-        // "it": "",
-        "ja": "ラベンダーのつぼみとはちみつを混ぜた濃厚なアイスクリーム。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "一根满含薰衣草嫩芽和蜂蜜的冰淇淋。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "라벤더 꽃 봉오리와 꿀이 들어간 진한 아이스크림.",
+    // "de": "",
+    "fr": "Une glace riche infusée avec des bourgeons de lavande et du miel.",
+    "hu": "Egy ízletes fagylalt levedulával és mézzel.",
+    // "it": "",
+    "ja": "ラベンダーのつぼみとはちみつを混ぜた濃厚なアイスクリーム。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Balla ve lavantayla birleşmiş zengin bir dondurma.",
+    "zh": "一根满含薰衣草嫩芽和蜂蜜的冰淇淋。"
+  }
 }

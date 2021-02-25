@@ -24,7 +24,7 @@
         "ja": "ブルーミストコンブチャ",
         "pt": "Kombuchá de Névoa Azul",
         "ru": "Агератумная комбуча",
-        // "tr": "",
+        "tr": "Mavi Sisli Kombucha",
         "zh": "蓝雾康普茶",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
        "ja": "摘みたてのブルーミストの花から作られている。",
        "pt": "Feito de flores azul névoa recém colhidas.",
        "ru": "Изготовлена из свежесобранных цветов агератума.",
-        // "tr": "",
-        "zh": "由新鲜的蓝雾花茶发酵而成。",
+       "tr": "Taze toplanan mavi sis çiçeklerinden yapılan kombucha",
+       "zh": "由新鲜的蓝雾花茶发酵而成。",
     }
 }

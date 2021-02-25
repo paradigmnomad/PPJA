@@ -18,26 +18,26 @@
         "de": "Puderquastenstrauch",
         "fr": "Calliandre",
         "hu": "Calliandra",
-         // "it": "",
+        // "it": "",
         "ja": "フェアリーダスター",
         "pt": "Espanador de fadas",
         "ru": "Каллиандра",
-         // "tr": "",
-        "zh": "朱缨花",
+        "tr": "Peri Silgi",
+        "zh": "朱缨花"
     },
     "DescriptionLocalization":
     {
         "es": "Se dice que parece la falda de un hada. Una planta de lejanas llanuras áridas.",
         "ko": "요정의 치마처럼 생겼습니다. 황폐한 평야에서 자랍니다.",
         "de": "Man sagt, sie sähe wie ein Feenrock aus. Eine Pflanze aus der trockenen Ebene.",
-        "fr": "On dit qu'elle ressemble à une jupe de fée. Une plante des plaines arides lointaines.",
+        "fr": "On dit que cela ressemble à une jupe de fée. Une plante des plaines arides lointaines.",
         "hu": "Azt mondják, hogy hasonlít egy tündér szoknyájára. Távoli, száraz pusztákról származik.",
-         // "it": "",
+        // "it": "",
         "ja": "妖精のスカートのように見えるといわれている。遠方の乾燥した平原から来た植物。",
         "pt": "Dizem que parece uma saia de fada. Uma planta de longe, provavelmente das planícies áridas.",
         "ru": "Говорят, что она похожа на юбку феи. Это растение родом из далеких засушливых равнин.",
-         // "tr": "",
-        "zh": "据说它看起来像仙女的裙子。一种来自遥远的干旱平原的植物。",
+        "tr": "Bir perinin eteği gibi göründüğü söylenir.Uzaktaki kurak arazilerden gelen bir bitki.",
+        "zh": "据说它看起来像仙女的裙子。一种来自遥远的干旱平原的植物。"
     },
     "ContextTags": [
         "season_fall",

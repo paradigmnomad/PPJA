@@ -45,7 +45,7 @@
         "ja": "ピンクストロベリーケーキ",
         "pt": "Bolo de morango rosa",
          // "ru": "",
-         // "tr": "",
+        "tr": "Pembe Çilekli Pasta",
         "zh": "粉色草莓蛋糕",
     },
     "DescriptionLocalization":
@@ -59,7 +59,7 @@
         "ja": "うまい！",
         "pt": "Delicioso!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Leziz!",
         "zh": "好吃！",
     }
 }

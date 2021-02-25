@@ -35,32 +35,30 @@
         }],
         "CanPurchase": false,
     },
-    "NameLocalization":
-    {
-        "es": "Galleta de amatista",
-        "ko": "자수정 쿠키",
-        "de": "Amethyst-Plätzchen",
-        "fr": "Biscuit à l'améthyste",
-         // "hu": "",
-         // "it": "",
-        "ja": "アメシストクッキー",
-        "pt": "Biscoito de ametista",
-        "ru": "Аметистовое печенье",
-         // "tr": "",
-        "zh": "紫水晶饼干",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Una galleta chispeante con un crujido único.",
-        "ko": "독특한 크런치가 있는 스파클링 쿠키.",
-        "de": "Ein funkelnder Keks mit einem einzigartigen Biss.",
-        "fr": "Un biscuit brillant avec un croquant unique.",
-         // "hu": "",
-         // "it": "",
-        "ja": "独特なクランチがきらめくクッキー。",
-        "pt": "Um biscoito brilhante com uma crocancia única.",
-        "ru": "Сверкающее печенье с уникальным хрустом.",
-         // "tr": "",
-        "zh": "一块闪闪发光的饼干，咬下去有着咔嘣脆的声音。",
-    }
+  "NameLocalization": {
+    "es": "Galleta de amatista",
+    "ko": "자수정 쿠키",
+    "de": "Amethyst-Plätzchen",
+    "fr": "Biscuit à l'améthyste",
+    "hu": "Ametiszt süti",
+    // "it": "",
+    "ja": "アメシストクッキー",
+    "pt": "Biscoito de ametista",
+    "ru": "Аметистовое печенье",
+    "tr": "Ametist Kurabiye",
+    "zh": "紫水晶饼干"
+  },
+  "DescriptionLocalization": {
+    "es": "Una galleta chispeante con un crujido único.",
+    "ko": "독특한 크런치가 있는 스파클링 쿠키.",
+    "de": "Ein funkelnder Keks mit einem einzigartigen Biss.",
+    "fr": "Un biscuit brillant avec un croquant unique.",
+    "hu": "Egy csillámló süti, mely egyedien ropogós.",
+    // "it": "",
+    "ja": "独特なクランチがきらめくクッキー。",
+    "pt": "Um biscoito brilhante com uma crocancia única.",
+    "ru": "Сверкающее печенье с уникальным хрустом.",
+    "tr": "Kendine özel çıtırtısıyla parlak bir kurabiye.",
+    "zh": "一块闪闪发光的饼干，咬下去有着咔嘣脆的声音。"
+  }
 }

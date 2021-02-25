@@ -28,10 +28,10 @@
         "hu": "Alpaka magvak",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes de Alpaca",
-        // "ru": "",
-        // "tr": "",
-         "zh": "羊驼肉种子",
+        "pt": "Sementes de Alpaca",
+        "ru": "Семена мяса альпаки",
+        "tr": "Alpaka Tohumu",
+        "zh": "羊驼肉种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -42,9 +42,9 @@
         "hu": "Ezeket nyáron ültesse el. 11 napig tart megérniük.",
         // "it": "",
         // "ja": "",
-         "pt": "Plante isso no verão. Leva 11 dias para amadurecer.",
-        // "ru": "",
-        // "tr": "",
-         "zh": "夏天播种。11天成熟。",
+        "pt": "Plante isso no verão. Leva 11 dias para amadurecer.",
+        "ru": "Сажайте их летом. Созревание занимает 11 дней",
+        "tr": "Yazın ekilir. 11 günde yetişir.",
+        "zh": "夏天播种。11天成熟。",
     },
 }

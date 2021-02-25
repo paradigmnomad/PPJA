@@ -49,7 +49,7 @@
         "ja": "エントー",
         "pt": "Ento",
          // "ru": "",
-         // "tr": "",
+        "tr": "Ento",
         "zh": "巧克力果酱蛋糕",
     },
     "DescriptionLocalization":
@@ -63,7 +63,7 @@
         "ja": "わたしを食べないでください…",
         "pt": "...por favor não me coma",
          // "ru": "",
-         // "tr": "",
+        "tr": "...lütfen beni yeme.",
         "zh": "...请不要吃我。",
     }
 }

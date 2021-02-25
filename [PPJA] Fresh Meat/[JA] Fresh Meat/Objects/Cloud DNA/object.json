@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "云朵DNA",
+        "ru": "ДНК облака?",
+        "tr": "Bulut DNA'sı",
+        "zh": "云朵DNA",
     },
     "DescriptionLocalization":
     {
@@ -36,9 +36,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "用DNA离析机从一些...云朵(？？？)中提取的DNA，我不知道你是怎么做到的。",
+        "ru": "Какая-то облачная ДНК, извлеченная из...облака? с Синтезатором ДНК. Не знаю, как тебе это удалось.",
+        "tr": "Bir buluttan alınan... DNA mı, DNA sentezleyiciyle? Nasıl başardın bilemiyorum.",
+        "zh": "用DNA离析机从一些...云朵(？？？)中提取的DNA，我不知道你是怎么做到的。",
     },
     "ContextTags": [
         "dna_item",

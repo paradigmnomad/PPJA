@@ -13,29 +13,29 @@
     {
         "es": "Ume",
         "ko": "매실",
-        //"de": "",
+        // "de": "",
         "fr": "Ume",
         "hu": "Japán kajszi",
         // "it": "",
         "ja": "ウメ",
         "pt": "Ume",
-        //"ru": "",
-        // "tr": "",
-        "zh": "梅果",
+        // "ru": "",
+        "tr": "Ume",
+        "zh": "梅果"
     },
     "DescriptionLocalization":
     {
         "es": "Una fruta verde agridulce. Solía conservarse con azúcar o sal.",
         "ko": "설탕이나 소금에 절여서 먹는 새콤달콤한 녹색 과일.",
-        //"de": "",
+        // "de": "",
         "fr": "Un fruit vert sucré et acide. Ces prunes sont conservées dans du sucre ou du sel.",
         "hu": "Egy édes és savanyú zöld gyümölcs. Kompótot szoktak készíteni belőle cukorral vagy sóval.",
         // "it": "",
         "ja": "甘酸っぱい緑色の果実。塩や砂糖に漬けて保存食を作る。",
         "pt": "Uma fruta verde doce e azeda. Costumava ser preservada com açúcar ou sal.",
-        //"ru": "",
-        // "tr": "",
-        "zh": "又叫日本李(实际上更接近杏子)，一种又甜又酸的绿色水果。常用糖或盐腌制。",
+        // "ru": "",
+        "tr": "Hem tatlı hem ekşi yeşil bir meyve. Şeker veya tuzla konservesi yapılır.",
+        "zh": "又叫日本李(实际上更接近杏子)，一种又甜又酸的绿色水果。常用糖或盐腌制。"
     },
     "ContextTags": [
         "season_summer",

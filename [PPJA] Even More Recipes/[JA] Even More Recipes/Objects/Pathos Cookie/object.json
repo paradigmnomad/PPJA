@@ -1,7 +1,7 @@
 {
     "Name": "Pathos Cookie",
     "Description": "...let's not find out what happens if you eat it",
-    "Category": "Cooking",
+    "Category": "ArtisanGoods",
     "Edibility": 40,
     "EdibleIsDrink": false,
     "EdibleBuffs":
@@ -35,7 +35,7 @@
         "ja": "パトスクッキー",
         "pt": "Biscoitos de Mágoas",
          // "ru": "",
-         // "tr": "",
+        "tr": "Perişan Kurabiye",
         "zh": "痛苦饼干",
     },
     "DescriptionLocalization":
@@ -49,7 +49,7 @@
         "ja": "食べたらどうなるかわからない…。",
         "pt": "...não vamos descobrir o que acontece se você comer",
          // "ru": "",
-         // "tr": "",
+        "tr": "...yiyince ne olacağını öğrenmeyelim.",
         "zh": "如果你吃了它，不知道会发生什么情况。",
     }
 }

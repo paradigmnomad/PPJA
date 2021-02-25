@@ -40,27 +40,27 @@
         "es": "Ramo de la devoción",
         "ko": "헌신의 꽃다발",
         "de": "Strauß der Hingabe",
-         // "fr": "",
+        "fr": "Bouquet de dévotion",
         "hu": "Az odaadás virágcsokra",
-         // "it": "",
+        // "it": "",
         "ja": "献身の花束",
         "pt": "Buquê de Devoção",
         "ru": "Букет преданности",
-         // "tr": "",
-        "zh": "忠贞花束",
+        "tr": "Bağlılık Buketi",
+        "zh": "忠贞花束"
     },
     "DescriptionLocalization":
     {
         "es": "Un ramo de flores de color magenta. Está destinado a mostrar la devoción de uno a otro.",
         "ko": "자홍색 꽃의 꽃다발. 한 사람의 헌신을 다른 사람에게 보여주기 위한 것입니다.",
         "de": "Ein Strauß magentafarbener Blumen. Es soll zeigen, dass man sich einem anderen hingibt.",
-         // "fr": "",
+        "fr": "Un bouquet de fleurs magenta. Il sert à exprimer sa dévotion envers l'autre.",
         "hu": "Egy lilás színű virágokból álló csokor. Az odaadást jelképezi.",
-         // "it": "",
+        // "it": "",
         "ja": "赤紫色の花束。他者への献身を象徴している。",
         "pt": "Um buquê de flores de cor magenta. É para mostrar a devoção de alguém para outro.",
         "ru": "Букет цветов пурпурного цвета. Предназначен для выражения своей преданности тому, кто его получит.",
-         // "tr": "",
-        "zh": "一束品红色的花，它象征着一个人对另一个人的忠诚。",
+        "tr": "Eflatun çiçeklerden bir buket. Anlamı ise birinin ötekine bağlılığı.",
+        "zh": "一束品红色的花，它象征着一个人对另一个人的忠诚。"
     }
 }

@@ -12,11 +12,11 @@
         "de": "Brotfrucht",
         "fr": "Fruit à pain",
         "hu": "Trópusi kenyérfa gyümölcs",
-        //"it": "",
+        // "it": "",
         "ja": "パンノキ",
         "pt": "Fruta-pão",
         "ru": "Хлебный плод",
-        //"tr": "",
+        "tr": "Ekmek Meyvesi",
         "zh": "面包果",
     },
     "DescriptionLocalization":
@@ -26,11 +26,11 @@
         "de": "Eine Verwandte der Jackfrucht. Hat einen kräftigen Geschmack, der erstaunlich fruchtig und süß ist.",
         "fr": "Un cousin de la jacque. Il a une saveur corsée qui est étonnement douce et fruitée.",
         "hu": "A jákafa rokona. AZ íze robosztus, meglepően gyümölcsös és édes.",
-        //"it": "",
+        // "it": "",
         "ja": "ジャックフルーツの近縁。驚くほどフルーティーで強い甘味を持つ。",
         "pt": "Um parente da jaca. Ele tem um sabor robusto que é surpreendentemente frutado e doce.",
         "ru": "Родственник джекфрута. Имеет яркий вкус, удивительно фруктовый и сладкий.",
-        //"tr": "",
+        "tr": "Jak meyvesinin bir yakını. Şaşırtıcı bir şekilde meyvemsi ve tatlı bir tadı var",
         "zh": "菠萝蜜的亲戚。它有着浓郁的果香和甜味。",
     }
 }

@@ -44,10 +44,10 @@
         // "hu": "",
         // "it": "",
         "ja": "ツナマヨおにぎり",
-         "pt": "Atum Mayo Onigiri",
+        "pt": "Atum Mayo Onigiri",
         // "ru": "",
-        // "tr": "",
-         "zh": "金枪鱼蛋黄酱饭团",
+        "tr": "Ton Balıklı Mayonezli Onigiri",
+        "zh": "金枪鱼蛋黄酱饭团",
     },
     "DescriptionLocalization":
     {
@@ -58,9 +58,9 @@
         // "hu": "",
         // "it": "",
         "ja": "日本でおなじみの食べ物。",
-         "pt": "Uma comida japonesa quintessencial.",
+        "pt": "Uma comida japonesa quintessencial.",
         // "ru": "",
-        // "tr": "",
-         "zh": "典型的日本风味食物。",
+        "tr": "Tipik bir Japon yemeği.",
+        "zh": "典型的日本风味食物。",
     },
 }

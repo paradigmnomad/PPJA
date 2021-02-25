@@ -1,0 +1,37 @@
+[
+    {
+        "InputId": "spacechase0.JsonAssets:GetObjectId:Sugar Beet",
+        "Output": {
+            "Id": "245",
+            "Amount": 4
+        }
+    },
+    {
+        "InputId": "spacechase0.JsonAssets:GetObjectId:Sugar Cane",
+        "Output":{
+            "Id": "245",
+            "Amount": 4
+        }
+    },
+    {
+        "InputId": "270",
+        "Output":{
+            "Id": "spacechase0.JsonAssets:GetObjectId:Corn Flour",
+            "Amount": 4
+        }
+    },
+    {
+        "InputId": "271",
+        "Output":{
+            "Id": "spacechase0.JsonAssets:GetObjectId:Rice Flour",
+            "Amount": 4
+        }
+    },
+    {
+        "InputId": "spacechase0.JsonAssets:GetObjectId:Buckwheat",
+        "Output":{
+            "Id": "spacechase0.JsonAssets:GetObjectId:Buckwheat Flour",
+            "Amount": 4
+        }
+    }
+]

@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "萤火虫DNA",
+        "ru": "ДНК светлячка",
+        "tr": "Ateşböceği DNA'sı",
+        "zh": "萤火虫DNA",
     },
     "DescriptionLocalization":
     {
@@ -36,9 +36,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "用DNA离析机扫描萤火虫得到的萤火虫DNA。",
+        "ru": "Небольшой фрагмент ДНК светлячка, полученный с помощью синтезатора ДНК",
+        "tr": "Etrafta uçuşan ateşböceklerini DNA sentezleyiciyle tarayarak elde edilen DNA.",
+        "zh": "用DNA离析机扫描萤火虫得到的萤火虫DNA。",
     },
     "ContextTags": [
         "dna_item",

@@ -22,21 +22,20 @@
         "ja": "フルーツジュース",
         "pt": "Suco de Fruta",
         "ru": "Фруктовый сок",
-         // "tr": "",
+        "tr": "Meyve Suyu",
         "zh": "果汁",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Jugo de fruta recién exprimido.",
-        "ko": "갓 짜낸 과일 주스.",
-        "de": "Frisch gepresster Fruchtsaft.",
-        "fr": "Jus de fruit fraîchement pressé.",
-        "hu": "Egy frissen facsart gyümölcs leve.",
-         // "it": "",
-        "ja": "絞りたてのフルーツジュース。",
-        "pt": "Suco de Fruta recém espremido.",
-        "ru": "Свежевыжатый фруктовый сок.",
-         // "tr": "",
-        "zh": "鲜榨果汁。",
-    }
+  "DescriptionLocalization": {
+    "es": "Jugo de fruta recién exprimido.",
+    "ko": "갓 짜낸 과일 주스.",
+    "de": "Frisch gepresster Fruchtsaft.",
+    "fr": "Jus de fruit fraîchement pressé.",
+    "hu": "Egy frissen facsart gyümölcs leve.",
+    // "it": "",
+    "ja": "絞りたてのフルーツジュース。",
+    "pt": "Suco de Fruta recém espremido.",
+    "ru": "Свежевыжатый фруктовый сок.",
+    "tr": "Taze sıkılmış meyve suyu.",
+    "zh": "鲜榨果汁。"
+  }
 }

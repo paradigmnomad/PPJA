@@ -22,21 +22,20 @@
         "ja": "アップルサイダー",
         "pt": "Cidra de Maçã",        
         "ru": "Яблочный сидр",
-         // "tr": "",
+        "tr": "Elma Şarabı",
         "zh": "苹果酒",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un delicioso refresco que brilla a la luz.",
-        "ko": "빛을 비추면 반짝이는 맛있는 다과.",
-        "de": "Eine köstliche Erfrischung, die im Licht funkelt.",
-        "fr": "Un délicieux rafraîchissement qui scintille à la lumière.",
-        "hu": "Egy isteni frissítő, amely ragyog a fényben.",
-         // "it": "",
-        "ja": "明かりが当たると光り輝くおいしい飲料。",
-        "pt": "Um suco delicioso brilhante como a luz.",
-        "ru": "Восхитительный напиток, сверкающий на свету.",
-         // "tr": "",
-        "zh": "经发酵而成，瓶中液体在阳光下闪闪发光。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un delicioso refresco que brilla a la luz.",
+    "ko": "빛을 비추면 반짝이는 맛있는 다과.",
+    "de": "Eine köstliche Erfrischung, die im Licht funkelt.",
+    "fr": "Un délicieux rafraîchissement qui scintille à la lumière.",
+    "hu": "Egy isteni frissítő, amely ragyog a fényben.",
+    // "it": "",
+    "ja": "明かりが当たると光り輝くおいしい飲料。",
+    "pt": "Um suco delicioso brilhante como a luz.",
+    "ru": "Восхитительный напиток, сверкающий на свету.",
+    "tr": "Işığa tutunca parlayan leziz ferahlatıcı.",
+    "zh": "经发酵而成，瓶中液体在阳光下闪闪发光。"
+  }
 }

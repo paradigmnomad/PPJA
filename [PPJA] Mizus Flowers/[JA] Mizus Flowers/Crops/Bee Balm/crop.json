@@ -23,32 +23,30 @@
     },
     "SeedPurchaseFrom": "Marnie",
     "SeedPurchasePrice": 60,
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de monarda",
-        "ko": "멜리사 씨앗",
-        "de": "Monarda-Saat",
-        "fr": "Graines de Monarde",
-        "hu": "Méhbalzsam magvak",
-         // "it": "",
-        "ja": "タイマツバナの種",
-        "pt": "Sementes de monarda",
-        "ru": "Семена монарды",
-         // "tr": "",
-        "zh": "香蜂花种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en otoño. Toma 9 días para producir una flor atractiva.",
-        "ko": "가을에 심으세요. 9일후 매력적인 꽃이 핍니다.",
-        "de": "Pflanze sie im Herbst. Wächst in 9 Tagen zu einer schönen Blume heran.",
-        "fr": "À planter à l'automne. Prend 9 jours pour produire une jolie fleur.",
-        "hu": "Ezeket ősszel ültesd el. 9 nap alatt hoz egy szép virágot.",
-         // "it": "",
-        "ja": "秋植えの花。9日かけて魅惑的な花を咲かせる。色は咲いてのおたのしみ。",
-        "pt": "Plante-as no outono. Demoram 9 dias para produzir uma flor seduzente.",
-        "ru": "Сажайте осенью. Через 9 дней вырастает красивый цветок.",
-         // "tr": "",
-        "zh": "秋天播种。9天后可收获迷人的花。",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de monarda",
+    "ko": "멜리사 씨앗",
+    "de": "Monarda-Saat",
+    "fr": "Graines de Monarde",
+    "hu": "Méhbalzsam magvak",
+    // "it": "",
+    "ja": "タイマツバナの種",
+    "pt": "Sementes de monarda",
+    "ru": "Семена монарды",
+    "tr": "Arı Balsamı Tohumu",
+    "zh": "香蜂花种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en otoño. Toma 9 días para producir una flor atractiva.",
+    "ko": "가을에 심으세요. 9일후 매력적인 꽃이 핍니다.",
+    "de": "Pflanze sie im Herbst. Wächst in 9 Tagen zu einer schönen Blume heran.",
+    "fr": "Plantez à l'automne. Prend 9 jours pour produire une jolie fleur.",
+    "hu": "Ezeket ősszel ültesd el. 9 nap alatt hoz egy szép virágot.",
+    // "it": "",
+    "ja": "秋植えの花。9日かけて魅惑的な花を咲かせる。色は咲いてのおたのしみ。",
+    "pt": "Plante-as no outono. Demoram 9 dias para produzir uma flor seduzente.",
+    "ru": "Сажайте осенью. Через 9 дней вырастает красивый цветок.",
+    "tr": "Güzde ekilir. Cazip bir çiçeğe dönüşmesi 9 gün sürer.",
+    "zh": "秋天播种。9天后可收获迷人的花。"
+  }
 }

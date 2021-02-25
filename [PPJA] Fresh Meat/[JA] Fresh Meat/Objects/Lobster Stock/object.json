@@ -54,8 +54,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Бульон из омаров",
+        "tr": "Istakoz Etsuyu",
         "zh": "龙虾高汤",
     },
     "DescriptionLocalization":
@@ -68,8 +68,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "慢炖的龙虾高汤，通常用作汤底。",
+        "ru": "Бульон из тушеных омаров, который часто используют в качестве основы для супа.",
+        "tr": "Normalde çorba ana malzemesi olarak kullanılan ıstakoz suyu, burada güveç yapılmış.",
+        "zh": "慢炖的龙虾高汤，通常用作汤底。"
     }
 }

@@ -23,7 +23,7 @@
         "ja": "ナポリタンアイスクリーム",
         "pt": "Sorvete Napolitano",
         "ru": "Неаполитанское мороженое",
-         // "tr": "",
+        "tr": "Napolitan Dondurma",
         "zh": "三色冰淇淋",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "3つのフレーバーを1つに！",
         "pt": "Três sabores em um!",
         "ru": "Три вкуса в одном!",
-         // "tr": "",
+        "tr": "Üç tat bir arada!",
         "zh": "三种口味在一个冰淇淋上面",
     }
 }

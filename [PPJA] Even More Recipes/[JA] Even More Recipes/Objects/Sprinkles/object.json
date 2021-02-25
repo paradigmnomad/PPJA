@@ -33,7 +33,7 @@
         "ja": "スプリンクル",
         "pt": "Granulados",
          // "ru": "",
-         // "tr": "",
+        "tr": "Şekerleme",
         "zh": "糖粉",
     },
     "DescriptionLocalization":
@@ -47,7 +47,7 @@
         "ja": "カラフルな色をトッピング！",
         "pt": "Granulado adiciona um pouco de cor a qualquer coisa!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Şekerlemeler her şeye renk katar!",
         "zh": "洒一点给食物增色添彩！",
     }
 }

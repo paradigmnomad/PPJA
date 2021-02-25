@@ -24,7 +24,7 @@
         "ja": "レモンコンブチャ",
         "pt": "Kombuchá de Limão",
         "ru": "Лимонная комбуча",
-         // "tr": "",
+        "tr": "Limonlu Kombucha",
         "zh": "柠檬康普茶",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "「ぜんぜん酸っぱくなかったよ…」",
         "pt": "Não é totalmente amargo!",
         "ru": "Вообще не кисло!",
-         // "tr": "",
+        "tr": "O kadar da ekşi değil!",
         "zh": "有柠檬茶发酵而成。它一点也不酸！",
     },
 }

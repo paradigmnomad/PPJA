@@ -22,21 +22,20 @@
         "ja": "ライスヌードル",
         "pt": "Macarrão de Arroz",
         "ru": "Рисовая лапша",
-         // "tr": "",
+        "tr": "Pirinç Noodle",
         "zh": "米粉",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una bolsa de fideos finos hechos de arroz.",
-        "ko": "얇은 쌀국수 한 봉지.",
-        "de": "Eine Tüte mit dünnen Reisnudeln.",
-        "fr": "Un sac de fine nouilles parfumées au riz.",
-        "hu": "Egy zacskó vékony, rizs ízű tészta.",
-         // "it": "",
-        "ja": "米から出来た細めの袋麺。",
-        "pt": "Uma bolsa de trigo fino feito de arroz.",
-        "ru": "Мешок тонкой лапши со вкусом риса.",
-         // "tr": "",
-        "zh": "一袋细的米粉。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una bolsa de fideos finos hechos de arroz.",
+    "ko": "얇은 쌀국수 한 봉지.",
+    "de": "Eine Tüte mit dünnen Reisnudeln.",
+    "fr": "Un sac de fine nouilles parfumées au riz.",
+    "hu": "Egy zacskó vékony, rizs ízű tészta.",
+    // "it": "",
+    "ja": "米から出来た細めの袋麺。",
+    "pt": "Uma bolsa de trigo fino feito de arroz.",
+    "ru": "Мешок тонкой лапши со вкусом риса.",
+    "tr": "Bir torba ince, pirinç tadında noodle.",
+    "zh": "一袋细的米粉。"
+  }
 }

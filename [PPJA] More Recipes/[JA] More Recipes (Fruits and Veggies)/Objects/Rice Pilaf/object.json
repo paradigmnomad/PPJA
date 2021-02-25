@@ -37,32 +37,30 @@
         "Dislike": ["Abigail", "Haley", "Sam", "Vincent"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Arroz Pilaf",
-        "ko": "필라프",
-        "de": "Pilaw",
-        "fr": "Riz pilaf",
-         // "hu": "",
-         // "it": "",
-        "ja": "ピラフ",
-        "pt": "Arroz pilaf",
-        "ru": "Рисовый плов",
-         // "tr": "",
-        "zh": "卤肉饭",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Picante y sureño!",
-        "ko": "남부의 매운맛!",
-        "de": "Würzig und orientalisch!",
-        "fr": "Le piquant épicé du sud !",
-         // "hu": "",
-         // "it": "",
-        "ja": "スパイシーで南国風。",
-        "pt": "Picante e do sul!",
-        "ru": "Южное пряное блюдо!",
-         // "tr": "",
-        "zh": "卤肉饭。南部的辣味菜！",
-    }
+  "NameLocalization": {
+    "es": "Arroz Pilaf",
+    "ko": "필라프",
+    "de": "Pilaw",
+    "fr": "Riz pilaf",
+    // "hu": "",
+    // "it": "",
+    "ja": "ピラフ",
+    "pt": "Arroz pilaf",
+    "ru": "Рисовый плов",
+    "tr": "Pilav",
+    "zh": "卤肉饭"
+  },
+  "DescriptionLocalization": {
+    "es": "Picante y sureño!",
+    "ko": "남부의 매운맛!",
+    "de": "Würzig und orientalisch!",
+    "fr": "Le piquant épicé du sud !",
+    // "hu": "",
+    // "it": "",
+    "ja": "スパイシーで南国風。",
+    "pt": "Picante e do sul!",
+    "ru": "Южное пряное блюдо!",
+    "tr": "Baharatlı ve güneyli!",
+    "zh": "卤肉饭。南部的辣味菜！"
+  }
 }

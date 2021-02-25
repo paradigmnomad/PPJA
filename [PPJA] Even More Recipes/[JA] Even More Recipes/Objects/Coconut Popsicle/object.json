@@ -41,7 +41,7 @@
         "ja": "ココナッツアイスバー",
         "pt": "Picolé de coco",
          // "ru": "",
-         // "tr": "",
+        "tr": "Hindistan Cevizli Çubuklu Dondurma",
         "zh": "椰子冰棒",
     },
     "DescriptionLocalization":
@@ -55,7 +55,7 @@
         "ja": "島または砂漠産の新鮮な味。",
         "pt": "Sabor fresco da ilha (ou deserto).",
          // "ru": "",
-         // "tr": "",
+        "tr": "Taze ada (ya da çöl) tadı.",
         "zh": "扑面而来的海岛（或沙漠）风情。",
     }
 }

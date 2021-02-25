@@ -26,19 +26,19 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1500,
-            },
+    },
     "NameLocalization":
     {
         "es": "Petit Fours",
         "ko": "프티 푸르",
         "de": "Petit Fours",
-         // "fr": "",
+        "fr": "Petits Fours",
         "hu": "Petit Fours",
-         // "it": "",
+        // "it": "",
         "ja": "プチフール",
         "pt": "Petit Fours",
         "ru": "Птифур",
-         // "tr": "",
+        "tr": "Petit Fours",
         "zh": "小蛋糕",
     },
     "DescriptionLocalization":
@@ -46,13 +46,13 @@
         "es": "Trocitos esponjosos de pastes de almendras y crema, cubierto de azúcar.",
         "ko": "아몬드 케이크와 크림의 푹신한 층, 슈가 플라워로 장식해서 얼렸습니다.",
         "de": "Flauschige Schichten von Mandelkuchen und Sahne, gefroren und mit Zuckerblüten belegt.",
-         // "fr": "",
+        "fr": "Gâteaux aux amandes imbibés de crème, glacés et parsemés de fleurs sucrées.",
         "hu": "Bolyhos mandulatorta- és tejszínrétegekből áll, melyek be vannak vonva cukormázzal, cukorvirágokkal a tetején.",
-         // "it": "",
+        // "it": "",
         "ja": "アーモンドケーキとクリームをふわふわの層にして、アイスとシュガーフラワーをトッピング。",
         "pt": "Camadas fofas de bolo de amêndoa e creme gelado com cobertura de açúcar.",
         "ru": "Воздушные слоёные миндально-сливочные пироженые, покрытые глазурью и сахарными цветами.",
-         // "tr": "",
-        "zh": "蓬松的杏仁蛋糕和奶油层，冰镇，上面点缀着糖花。",
+        "tr": "Bademli kek ve kremalı, üstü şekerli çiçeklerle süslenen ve dondurulan yumuşacık katlar.",
+        "zh": "蓬松的杏仁蛋糕和奶油层，冰镇，上面点缀着糖花。"
     }
 }

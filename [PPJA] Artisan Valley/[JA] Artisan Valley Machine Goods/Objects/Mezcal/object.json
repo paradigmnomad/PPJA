@@ -43,21 +43,20 @@
         "ja": "メヒカル",
         "pt": "Mezcal",
         "ru": "Мескаль",
-         // "tr": "",
+        "tr": "Mezcal",
         "zh": "梅斯卡尔",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una bebida destilada del maguey. Beber con moderación.",
-        "ko": "용설란을 증류시켜 만든 술. 절제해서 드세요.",
-        "de": "Ein alkoholisches Getränk, das aus Maguey destilliert wurde. Genieße ihn in Maßen.",
-        "fr": "Un spiritueux distillé à partir d'agave. À boire avec modération.",
-        "hu": "Egy agávéból desztillált szeszesital. Fogyasszad mértékkel.",
-         // "it": "",
-        "ja": "リュウゼツランから蒸留したスピリット。飲む時はほどほどに。",
-        "pt": "Uma bebida fermentada a partir do agave. Beba com moderação!",
-        "ru": "Алкогольный напиток, дистиллированный из агавы. Пейте в меру.",
-         // "tr": "",
-        "zh": "从玛圭龙舌兰中蒸馏出来的酒。适量饮酒。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una bebida destilada del maguey. Beber con moderación.",
+    "ko": "용설란을 증류시켜 만든 술. 절제해서 드세요.",
+    "de": "Ein alkoholisches Getränk, das aus Maguey destilliert wurde. Genieße ihn in Maßen.",
+    "fr": "Un spiritueux distillé à partir d'agave. À boire avec modération.",
+    "hu": "Egy agávéból desztillált szeszesital. Fogyasszad mértékkel.",
+    // "it": "",
+    "ja": "リュウゼツランから蒸留したスピリット。飲む時はほどほどに。",
+    "pt": "Uma bebida fermentada a partir do agave. Beba com moderação!",
+    "ru": "Алкогольный напиток, дистиллированный из агавы. Пейте в меру.",
+    "tr": "Agavenin damıtılmasıyla yapılan bir içecek. Kararında içilmeli.",
+    "zh": "从玛圭龙舌兰中蒸馏出来的酒。适量饮酒。"
+  }
 }

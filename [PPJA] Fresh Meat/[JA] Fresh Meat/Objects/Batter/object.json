@@ -41,10 +41,10 @@
         "hu": "Tészta massza",
         // "it": "",
         "ja": "バッター液",
-         "pt": "Massa",
-        // "ru": "",
-        // "tr": "",
-         "zh": "面糊",
+        "pt": "Massa",
+        "ru": "Тесто",
+        "tr": "Hamur",
+        "zh": "面糊",
     },
     "DescriptionLocalization":
     {
@@ -55,10 +55,10 @@
         "hu": "A süteménykészítés alapja.",
         // "it": "",
         "ja": "上質なペストリーへの初めの一歩。",
-         "pt": "O primeiro passo para uma bela massa.",
-        // "ru": "",
-        // "tr": "",
-         "zh": "制作精美糕点的第一步。",
+        "pt": "O primeiro passo para uma bela massa.",
+        "ru": "Первый шаг на пути к красивым мучным кондитерским изделиям",
+        "tr": "Güzel bir hamurişine ilk adım.",
+        "zh": "制作精美糕点的第一步。",
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

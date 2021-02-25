@@ -29,32 +29,30 @@
         "Dislike": ["Jas", "Krobus", "Sam", "Sebastian", "Vincent", "Willy"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Brócoli y queso",
-        "ko": "브로콜리 치즈",
-        "de": "Brokkoli mit Käse",
-        "fr": "Brocoli et fromage",
-         // "hu": "",
-         // "it": "",
-        "ja": "ブロッコリーのチーズがけ",
-        "pt": "Brócolis e Queijo",
-        "ru": "Брокколи с сыром.",
-         // "tr": "",
-        "zh": "奶酪烩西兰花",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Brócoli al vapor cubierto de queso pegajoso.",
-        "ko": "삶은 브로콜리 위에 치즈를 얹었습니다.",
-        "de": "Gedämpfter Brokkoli, überbacken mit Käse.",
-        "fr": "Brocoli cuit à la vapeur recouvert de fromage fondu.",
-         // "hu": "",
-         // "it": "",
-        "ja": "蒸したブロッコリーにとろとろのチーズをかけて。",
-        "pt": "Brócolis cozido no vapor coberto de queijo pegajoso.",
-        "ru": "Приготовленные на пару брокколи, покрытые липким сыром.",
-         // "tr": "",
-        "zh": "奶酪烩西兰花。煮熟的西兰花上面覆盖着黏黏的奶酪。",
-    }
+  "NameLocalization": {
+    "es": "Brócoli y queso",
+    "ko": "브로콜리 치즈",
+    "de": "Brokkoli mit Käse",
+    "fr": "Brocoli et fromage",
+    // "hu": "",
+    // "it": "",
+    "ja": "ブロッコリーのチーズがけ",
+    "pt": "Brócolis e Queijo",
+    "ru": "Брокколи с сыром.",
+    "tr": "Brokoli ve Peynir",
+    "zh": "奶酪烩西兰花"
+  },
+  "DescriptionLocalization": {
+    "es": "Brócoli al vapor cubierto de queso pegajoso.",
+    "ko": "삶은 브로콜리 위에 치즈를 얹었습니다.",
+    "de": "Gedämpfter Brokkoli, überbacken mit Käse.",
+    "fr": "Brocoli cuit à la vapeur recouvert de fromage fondu.",
+    // "hu": "",
+    // "it": "",
+    "ja": "蒸したブロッコリーにとろとろのチーズをかけて。",
+    "pt": "Brócolis cozido no vapor coberto de queijo pegajoso.",
+    "ru": "Приготовленные на пару брокколи, покрытые липким сыром.",
+    "tr": "Buharda pişen brokoli yapışkan peynirle kaplanmış.",
+    "zh": "奶酪烩西兰花。煮熟的西兰花上面覆盖着黏黏的奶酪。"
+  }
 }

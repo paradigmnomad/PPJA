@@ -11,31 +11,32 @@
         "es": "Loto",
         "ko": "연꽃",
         "de": "Lotus",
-        // "fr": "",
+        "fr": "Lotus",
         "hu": "Lótusz",
         // "it": "",
         "ja": "ハス",
         "pt": "Lótus",
         "ru": "Лотос",
-        // "tr": "",
-        "zh": "荷花",
+        "tr": "Nilüfer",
+        "zh": "荷花"
     },
     "DescriptionLocalization":
     {
         "es": "Una flor grande que crece en el agua. Es reverenciada por varias culturas.",
         "ko": "물 속에서 자라는 큰 꽃. 여러 문화에 친근한 꽃입니다.",
         "de": "Eine große Blume, die im Wasser wächst. Von mehreren Kulturen verehrt.",
-        // "fr": "",
+        "fr": "Une grosse fleur qui pousse dans l'eau. Révérée dans de nombreuses cultures.",
         "hu": "Egy nagy virág, mely a vízben él. Számos kultúrában tisztelték.",
         // "it": "",
         "ja": "水中で育つ大輪の花。複数の文化で崇拝されている。",
         "pt": "Uma grande flor que cresce na água. Reverenciado por várias culturas.",
         "ru": "Большой цветок, растущий в воде. Почитается несколькими культурами.",
-        // "tr": "",
-        "zh": "一种生长在水中的大花。被多种人类文化所推崇。",
+        "tr": "Suda yetişen büyük bir çiçek. Bazı kültürler ona saygı duyar.",
+        "zh": "一种生长在水中的大花。被多种人类文化所推崇。"
     },
     "ContextTags": [
         "color_pink",
         "flower_item",
         "season_summer"
-    ]}
+    ]
+}

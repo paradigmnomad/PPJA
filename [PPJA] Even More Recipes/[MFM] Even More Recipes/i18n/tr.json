@@ -1,0 +1,28 @@
+{
+  // Text
+
+  "amethystcookie.text": "Hey @!^^  Bu kesinlikle ortaya attýðým en iyi fikirlerimden biri! Takdir edebileceðini biliyoum.^Evet, malzeme listesini doðru okuyorsun. Hafta baþýnda bir yýðýn bunlardan yapmýþtým ve bunlarý atýþtýrýp duruyorum. Kesinlikle yemesi güvenli! Hiç deðilse benim için öyleydi.^^  -Abigail",
+  "bananaandstrawberrycake.text": "Sevgili @,^^ Bayan Penny okul için bize yetiþkin arkadaþlarýmýza mektup yazdýrtýyor, ben de seni seçtim.^Bu benim leziz Muzlu Çilekli Pasta'mýn tarifi! Tadý Pembe Pasta gibi ama daha tatlý! Marnie teyzeyle bunu yapmayý seviyorum, bana o öðretti. Lütfen tadýný çýkar!^^ -Jas",
+  "chocolatemousebread.text": "Sevgili @,^^ Kütüphanedeki yemek kitabýnýn birinden aldýðým küçük, eðlenceli bir tarifi bil istedim.Yiyebildiðin bir sanat projesine benziyor ve mutfakta yaptýðým en eðlenceli þeylerden biri. En iyisi de, benim gibi beceriksiz piþiricilerin bile yapabiliyor olmasý!^^ -Penny",
+  "chocolatestrawberrycake.text": "Sevgili @,^^Mutfakta kendi baþýma nasýl yemek yapýlacaðýný öðreniyorum. Bu benim evde yaptýðým bir þey.Sen de yapmak ister misin? Çikolatalý ve çilekli pasta... mmmmmmm!^^  -Jas",
+  "bananachocolatecrepe.text": "Sevgili @,^^ Hiçbir þey kendi bahçenden taze ürünlerle piþirmekten daha memnun edici deðil! 20 yýldýr evde yemek yapýyorum ve tek tavsiyem her öðün için en saðlýklý yemekleri seçmen.^Dalga geçiyorum! Gönderdiðim tarifin içinde saðlýklý hiçbir þey yok.^Güzel bir kahvaltýlýk için bir dene!^^ -Caroline",
+  "deviledeggs.text": "Sevgili @,^^ Gus'ýn son yumurta þölenindeki acýlý yumurta tarifini alabildim. Biliyorsun, þu kasabanýn yarýsýnýn her yýl fazla fazla gömdüðü? Gus tarifin bütün kasabaya yayýlmamasý þartýyla olur dedi, ama sen sýr tutabilirsin deðil mi?^^  -Pierre",
+  "icedchocolatedonut.text": "Selam @!^^Annem bu tarfi uzun zaman önce yapmýþtý ve ÇOK GÜZEL!! Ama, çok fazla þeker yememi isttemiyor. Onun yerine sen yapýp bana 1 tane getirirmisim ?^Annemin bir kularýna göre birisi sana hediye verdiðinde hayýr diyemezmiþsin bu yüzden iþe yaramalý.Güven bana, süper lezis! Bence sende beðeniceksin!^^  -Vincent",
+  "keylimepie.text": "Sevgili @,^^ Eski tariflere öylesine göz atýyordum ve bunu buldum, bana bunu büyükbaban vermiþti. Sen küçükken sana bunu hiç yaptý mý?^Her þeyin dönüp dolaþýp ayný yere gelmesini izlemek gerçekten inanýlmaz.Belki bunu yapabilirsin ya da muhtemelen onun elyazýsýný görmekten mutluluk duyacaksýn.^Ýyi þanslar, @!^^  -Lewis",
+  "seaweedchips.text": "Sevgili @,^^ Hiç fazladan deniz yosunu tuttuðun oluyor mu? eðer öyleyse sakýn çöpe atma. Ýþte babamýn bana küçük bir atýþtýrmalýk olarak verdiði bir tarif.^^  -Willy",
+  "strawberrypudding.text": "Sevgili @,^^ Selam! Nasýlsýn?^Çiftliðinde hiç çilek yetiþtiriyor musun? Bunu Marnie teyzeyle yapacaktým ama senin çiftliðndeki taze çileklerle mükemmel olur diye düþündüm.^Neyse, iyi günler!^^  -Jas",
+  "tofu.text": "Hey @,^^ Fermente fasulye loru yemeyi severmisin? Haha, tabiki de tofudan bahsediyorum. Bir parça yaptým ve fermentasyonu mikroskopla inceledim. Gerçekten ilginç bir þey, kimya yerine biyolojiyle yemek yapmak. Lafý bile olmaz, beklediðinden de leziz olacak! Evyapýmý hayat tarzýna meraklýysan belki sen de denersin^^  -Maru",
+  // Titles
+
+  "amethystcookie.title": "Ametist Kurabiye Tarifi",
+  "bananaandstrawberrycake.title": "Muzlu ve Çilekli Pasta Tarifi",
+  "chocolatemousebread.title": "Fare Þekilli Çikolatalý Ekmek Tarifi",
+  "chocolatestrawberrycake.title": "Çikolatalý Çilekli Pasta Tarifi",
+  "bananachocolatecrepe.title": "Muzlu Çikolatalý Krep Tarifi",
+  "deviledeggs.title": "Acýlý Yumurta Tarifi",
+  "icedchocolatedonut.title": "Buzlu Çikolatalý Donut Tarifi",
+  "keylimepie.title": "Misket Limonlu Turta Tarifi",
+  "seaweedchips.title": "Deniz Yosunu Cipsi",
+  "strawberrypudding.title": "Çilekli Puding Tarifi",
+  "tofu.title": "Tofu Tarifi"
+}

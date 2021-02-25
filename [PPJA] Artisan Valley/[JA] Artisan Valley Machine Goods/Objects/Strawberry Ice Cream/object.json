@@ -23,7 +23,7 @@
         "ja": "ストロベリーアイスクリーム",
         "pt": "Sorvete de Morango",        
         "ru": "Клубничное мороженое",
-         // "tr": "",
+        "tr": "Çilekli Dondurma",
         "zh": "草莓冰淇淋",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "これは…イチゴのアイスクリーム！",
         "pt": "Huum sorvete de morango!",        
         "ru": "М-м-м, клубничное мороженое!",
-         // "tr": "",
+        "tr": "Mmmm çilekli dondurma!",
         "zh": "超好吃的草莓冰淇淋！",
     }
 }

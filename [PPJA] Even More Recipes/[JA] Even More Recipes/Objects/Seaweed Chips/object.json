@@ -37,7 +37,7 @@
         "ja": "ポテトチップスのり塩味",
         "pt": "Batatinhas de algas",
          // "ru": "",
-         // "tr": "",
+        "tr": "Deniz Yosunu Cipsi",
         "zh": "海苔味薯片",
     },
     "DescriptionLocalization":
@@ -51,7 +51,7 @@
         "ja": "海の香りがする。",
         "pt": "Eles têm gosto do oceano.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tadı okyanus gibi.",
         "zh": "尝起来有海的味道。",
     }
 }

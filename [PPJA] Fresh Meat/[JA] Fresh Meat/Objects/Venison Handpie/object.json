@@ -39,8 +39,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Пирог из оленины",
+        "tr": "Koyun Etli Turta",
         "zh": "鹿肉手馅饼",
     },
     "DescriptionLocalization":
@@ -53,9 +53,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "一种油炸的馅饼，里面塞有柔软的蒜香鹿肉和蔬菜。",
+        "ru": "Пирог, фаршированный мягким чесночным оленьим мясом и овощами.",
+        "tr": "Yumuşak ve sarımsaklı geyik eti ve sebzeler bir mantının içine doldurulup kızartılmış.",
+        "zh": "一种油炸的馅饼，里面塞有柔软的蒜香鹿肉和蔬菜。"
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

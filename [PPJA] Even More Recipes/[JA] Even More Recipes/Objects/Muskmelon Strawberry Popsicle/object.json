@@ -38,7 +38,7 @@
         "ja": "メロンとイチゴのアイスバー",
         "pt": "Picolé de Morango com Melão",
          // "ru": "",
-         // "tr": "",
+        "tr": "Kavunlu ve Çilekli Çubuklu Dondurma",
         "zh": "甜瓜草莓冰棒",
     },
     "DescriptionLocalization":
@@ -52,7 +52,7 @@
         "ja": "フルーティーな味わいの夏のアイス。",
         "pt": "Uma degustação de frutas, picolé de verão.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Meyve tadı olan yaz dondurması.",
         "zh": "水果味的夏日冰棒。",
     }
 }

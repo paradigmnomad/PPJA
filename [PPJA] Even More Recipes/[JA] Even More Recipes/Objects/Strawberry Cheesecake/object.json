@@ -5,46 +5,50 @@
     "Edibility": 55,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
-    "Price": 1100,
+    "Price": 1500,
     "IsColored": false,
     "GiftTastes":
     {
         "Love": ["Abigail", "Krobus", "Willy"],
         "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
-        "Dislike": ["Haley", "Jas", "Sam", "Vincent"],
+        "Dislike": ["Haley", "Jas", "Sam", "Vincent"]
     },
     "Recipe":
     {
         "ResultCount": 1,
         "Ingredients": [
         {
-            "Object": "Basil",
-            "Count": 1,
+            "Object": "Cream Cheese",
+            "Count": 1
         },
         {
-            "Object": 256,
-            "Count": 4,
+            "Object": 246,
+            "Count": 1
         },
         {
             "Object": -6,
+            "Count": 1
+        },
+        {
+            "Object": "Strawberry Preserves",
             "Count": 1,
-        },],
+        }],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
-        "PurchasePrice": 2000,
-            },
+        "PurchasePrice": 2000
+    },
     "NameLocalization":
     {
         // "es": "",
         // "ko": "",
         // "de": "",
-        // "fr": "",
+        "fr": "Gâteau au fromage aux fraises",
         // "hu": "",
         // "it": "",
         "ja": "ストロベリーチーズケーキ",
-        // "pt": "",
+        "pt": "Cheesecake de morango",
         // "ru": "",
-        // "tr": "",
+        "tr": "Çilekli Cheesecake",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -52,13 +56,13 @@
         // "es": "",
         // "ko": "",
         // "de": "",
-        // "fr": "",
+        "fr": "Un gâteau au fromage avec un délicieux coulis de fraises",
         // "hu": "",
         // "it": "",
         "ja": "おいしいイチゴジャムをトッピングしたチーズケーキ。",
-        // "pt": "",
+        "pt": "Um cheesecake que foi coberto com uma deliciosa conserva de morango.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Üstünde çilek reçeli olan bir cheesecake",
         // "zh": "",
     }
 }

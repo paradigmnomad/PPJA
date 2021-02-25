@@ -17,25 +17,24 @@
         "de": "Brotfruchtbaum-Setzling",
         "fr": "Jeune arbre à pain",
         "hu": "Trópusi kenyérfa csemete",
-        //"it": "",
+        // "it": "",
         "ja": "パンノキの苗",
         "pt": "Broto de Fruta-pão",
         "ru": "Саженец хлебного дерева",
-        //"tr": "",
-      "zh": "面包果树苗",
+        "tr": "Ekmek Meyvesi Fidanı",
+        "zh": "面包果树苗",
     },
-    "SaplingDescriptionLocalization":
-    {
-        "es": "Tarda 28 días en producir un árbol de Frutipan maduro. Da fruto en la primavera. Solo crece si las 8 casillas circundantes están vacías.",
-        "ko": "28일후에 성목이 됩니다. 봄에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
-        "de": "Wächst in 28 Tagen zu einem reifen Brotfruchtbaum heran. Trägt im Frühling Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
-        "fr": "Il faut 28 jours pour produire un arbre à pain mature. Produit des fruits à pain au printemps. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
-        "hu": "28 nap múlva érik meg, és trópusi kenyérfa lesz belőle. Tavasszal hoz gyümölcsöt. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
-        //"it": "",
-        "ja": "28日かけて成木にそだち、春になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
-        "pt": "Demora 28 dias para produzir uma árvore fruta-pão madura. Dá frutos na primavera. Só cresce se as 8 praças ao redor estiverem vazias.",
-        "ru": "Становится взрослым хлебным деревом через 28 дней. Плодоносит весной. Растет только если 8 «клеток» вокруг него не заняты.",
-        //"tr": "",
-      "zh": "28天成熟为成年面包树。春天结果。只有在附近8块地块都空置的情况下才会成长。",
-    }
+  "SaplingDescriptionLocalization": {
+    "es": "Tarda 28 días en producir un árbol de Frutipan maduro. Da fruto en la primavera. Solo crece si las 8 casillas circundantes están vacías.",
+    "ko": "28일후에 성목이 됩니다. 봄에 열매가 맺힙니다. 주변 8칸이 비어있어야 자랍니다.",
+    "de": "Wächst in 28 Tagen zu einem reifen Brotfruchtbaum heran. Trägt im Frühling Früchte. Wächst nur, wenn die 8 umliegenden Felder leer sind.",
+    "fr": "Il faut 28 jours pour produire un arbre à pain mature. Produit des fruits à pain au printemps. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
+    "hu": "28 nap múlva érik meg, és trópusi kenyérfa lesz belőle. Tavasszal hoz gyümölcsöt. Csak akkor nő meg, ha a 8 környező 'négyzet' üres.",
+    // "it": "",
+    "ja": "28日かけて成木にそだち、春になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
+    "pt": "Demora 28 dias para produzir uma árvore fruta-pão madura. Dá frutos na primavera. Só cresce se as 8 praças ao redor estiverem vazias.",
+    "ru": "Становится взрослым хлебным деревом через 28 дней. Плодоносит весной. Растет только если 8 «клеток» вокруг него не заняты.",
+    "tr": "28 günde olgunlaşarak Ekmek Meyvesi Ağacı olur. Baharda meyve verir. Sadece etrafındaki 8 \"kare\" boşken yetişir.",
+    "zh": "28天成熟为成年面包树。春天结果。只有在附近8块地块都空置的情况下才会成长。"
+  }
 }

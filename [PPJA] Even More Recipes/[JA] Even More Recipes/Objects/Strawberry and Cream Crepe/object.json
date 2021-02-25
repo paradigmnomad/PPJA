@@ -50,7 +50,7 @@
         "ja": "イチゴのクリームクレープ",
         "pt": "Crepe de Morango e Creme",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çilekli ve Kremalı Krep",
         "zh": "草莓奶油可丽饼",
     },
     "DescriptionLocalization":
@@ -64,7 +64,7 @@
         "ja": "イチゴで覆われたおいしいデザート。",
         "pt": "Um delicioso crepe de sobremesa coberto com morangos.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çileklerle kaplı leziz bir krep tatlısı.",
         "zh": "这是一份超好吃的可丽饼，里面都是草莓。",
     }
 }

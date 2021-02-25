@@ -37,29 +37,28 @@
     {
         "es": "Framboise Lambic",
         "ko": "프랑부아즈 람빅",
-        //"de": "",
+        // "de": "",
         "fr": "Lambic Framboise",
         "hu": "Framboise Lambic",
         // "it": "",
         "ja": "フランボワーズランビック",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Ahududu Lambik",
         "zh": "树莓兰比克啤酒",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una cerveza elaborada con frambuesas.",
-        "ko": "라즈베리로 만든 맥주.",
-        //"de": "",
-        "fr": "Une bière brassée avec des framboises.",
-        "hu": "Egy sör málnával főzve.",
-        // "it": "",
-        "ja": "ラズベリーを使って醸造したビール。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "用树莓酿造的啤酒。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una cerveza elaborada con frambuesas.",
+    "ko": "라즈베리로 만든 맥주.",
+    // "de": "",
+    "fr": "Une bière brassée avec des framboises.",
+    "hu": "Egy sör málnával főzve.",
+    // "it": "",
+    "ja": "ラズベリーを使って醸造したビール。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Ahududuyla yapılan bir çeşit bira.",
+    "zh": "用树莓酿造的啤酒。"
+  }
 
 }

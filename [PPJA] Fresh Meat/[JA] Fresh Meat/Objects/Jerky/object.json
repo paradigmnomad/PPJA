@@ -24,7 +24,7 @@
         "ja": "ジャーキー",
         "pt": "Carne seca",
         "ru": "Джерки",
-        // "tr": "",
+        "tr": "Jerky",
         "zh": "肉干",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "牛肉のくん製。ビーフジャーキー。",
         "pt": "Tiras de carne seca.",
         "ru": "Кусочки вяленой говядины.",
-        // "tr": "",
+        "tr": "Kurutulmuş sığır eti dilimi.",
         "zh": "这是牛肉干。",
     }
 }

@@ -38,32 +38,30 @@
         "Dislike": ["Krobus", "Willy"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Tarta de frambuesa",
-        "ko": "라즈베리 타르트",
-        "de": "Himbeertörtchen",
-        "fr": "Tarte aux framboises",
-        // "hu": "",
-        // "it": "",
-        "ja": "ラズベリータルト",
-        "pt": "Torta de framboesa8",
-        "ru": "Малиновый пирог",
-        // "tr": "",
-        "zh": "树莓馅饼",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Una tarta rellena de frambuesa.",
-        "ko": "라즈베리로 채워진 타르트.",
-        "de": "Ein Törtchen gefüllt mit frischen Himbeeren.",
-        "fr": "Une tarte remplie de framboises.",
-        // "hu": "",
-        // "it": "",
-        "ja": "ラズベリー入りのタルト。",
-        "pt": "Uma torta cheia de framboesa.",
-        "ru": "Пирог с малиной.",
-        // "tr": "",
-        "zh": "树莓馅饼。一种被树莓填满的馅饼。",
-    }
+  "NameLocalization": {
+    "es": "Tarta de frambuesa",
+    "ko": "라즈베리 타르트",
+    "de": "Himbeertörtchen",
+    "fr": "Tarte aux framboises",
+    // "hu": "",
+    // "it": "",
+    "ja": "ラズベリータルト",
+    "pt": "Torta de framboesa8",
+    "ru": "Малиновый пирог",
+    "tr": "Ahududu Turtası",
+    "zh": "树莓馅饼"
+  },
+  "DescriptionLocalization": {
+    "es": "Una tarta rellena de frambuesa.",
+    "ko": "라즈베리로 채워진 타르트.",
+    "de": "Ein Törtchen gefüllt mit frischen Himbeeren.",
+    "fr": "Une tarte remplie de framboises.",
+    // "hu": "",
+    // "it": "",
+    "ja": "ラズベリー入りのタルト。",
+    "pt": "Uma torta cheia de framboesa.",
+    "ru": "Пирог с малиной.",
+    "tr": "Ahududuyla dolu bir turta.",
+    "zh": "树莓馅饼。一种被树莓填满的馅饼。"
+  }
 }

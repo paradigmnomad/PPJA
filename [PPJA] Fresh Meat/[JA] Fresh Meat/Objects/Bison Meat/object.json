@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         "pt": "Carne de Bisão",
-        // "ru": "",
-        // "tr": "",
-         "zh": "野牛肉",
+        "ru": "Мясо буйлова",
+        "tr": "Bizon Eti",
+        "zh": "野牛肉",
     },
     "DescriptionLocalization":
     {
@@ -35,10 +35,10 @@
         "hu": "Egy bölény húsának darabja.",
         // "it": "",
         // "ja": "",
-         "pt": "Um corte de carne de um bisão.",
-        // "ru": "",
-        // "tr": "",
-         "zh": "从野牛身上切下来的肉。",
-    },    
+        "pt": "Um corte de carne de um bisão.",
+        "ru": "Кусок мяса буйлова",
+        "tr": "Bir parça bizon eti.",
+        "zh": "从野牛身上切下来的肉。",
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

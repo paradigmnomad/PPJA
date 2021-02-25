@@ -24,7 +24,7 @@
         "ja": "ゴマ",
         "pt": "Sementes de Sesamo",
          // "ru": "",
-         // "tr": "",
+        "tr": "Susam Tohumu",
         "zh": "芝麻",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "あまり味はない。",
         "pt": "Eles não têm muito sabor.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çok bir tadı yok.",
         "zh": "它们本身其实没有什么味道。",
     }
 }

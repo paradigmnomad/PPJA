@@ -20,9 +20,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "龙肉",
+        "ru": "Мясо дракона",
+        "tr": "Ejderha Eti",
+        "zh": "龙肉",
     },
     "DescriptionLocalization":
     {
@@ -34,9 +34,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "从一条龙身上切下来的奇怪绿色肉排。",
-    },    
+        "ru": "Странный зеленый бифштекс, вырезанный из дракона.",
+        "tr": "Yeşilimsi garip bir ejderha bifteği.",
+        "zh": "从一条龙身上切下来的奇怪绿色肉排。",
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -45,32 +45,30 @@
         "Hate": ["Emily", "Evelyn"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Rollo de cangrejo",
-        "ko": "게살 롤",
-        "de": "Krabben-Maki",
-        "fr": "Rouleaux de printemps au crabe",
-         // "hu": "",
-         // "it": "",
-        "ja": "クラブロール",
-        "pt": "Rolo de caranguejo",
-        "ru": "Ролл с крабом",
-         // "tr": "",
-        "zh": "蟹肉卷",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "La imitación de cangrejo es para débiles.",
-        "ko": "게맛살은 곧 이단이다.",
-        "de": "Nachgemachte Krabbe ist für die Schwachen.",
-        "fr": "Parce que le surimi, c'est pour les faibles !",
-         // "hu": "",
-         // "it": "",
-        "ja": "カニが苦手ならかにかまで代用しよう。",
-        "pt": "Caranguejo de imitação é para os fracos.",
-        "ru": "Заменители краба для слабаков.",
-         // "tr": "",
-        "zh": "蟹肉卷。假螃蟹是为弱者准备的。",
-    }
+  "NameLocalization": {
+    "es": "Rollo de cangrejo",
+    "ko": "게살 롤",
+    "de": "Krabben-Maki",
+    "fr": "Rouleaux de printemps au crabe",
+    // "hu": "",
+    // "it": "",
+    "ja": "クラブロール",
+    "pt": "Rolo de caranguejo",
+    "ru": "Ролл с крабом",
+    "tr": "Yengeç Dilimi",
+    "zh": "蟹肉卷"
+  },
+  "DescriptionLocalization": {
+    "es": "La imitación de cangrejo es para débiles.",
+    "ko": "게맛살은 곧 이단이다.",
+    "de": "Nachgemachte Krabbe ist für die Schwachen.",
+    "fr": "Parce que le surimi, c'est pour les faibles !",
+    // "hu": "",
+    // "it": "",
+    "ja": "カニが苦手ならかにかまで代用しよう。",
+    "pt": "Caranguejo de imitação é para os fracos.",
+    "ru": "Заменители краба для слабаков.",
+    "tr": "Yengeç taklidi zayıflar içindir.",
+    "zh": "蟹肉卷。假螃蟹是为弱者准备的。"
+  }
 }

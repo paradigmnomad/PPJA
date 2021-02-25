@@ -10,27 +10,27 @@
         "es": "Brote de jazmín",
         "ko": "자스민 묘목",
         "de": "Jasmin Bäumchen (Sapling)",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Jeune jasmin",
+        "hu": "Jázmin csemete",
         // "it": "",
         "ja": "ジャスミンの苗",
         "pt": "Muda de Jasmim",
         "ru": "Саженец жасминового дерева",
-        // "tr": "",
-        "zh": "茉莉树苗",
+        "tr": "Yasemin Fidanı",
+        "zh": "茉莉树苗"
     },
     "SaplingDescriptionLocalization":
     {
         "es": "Toma 28 días para producir un árbol de jazmín maduro. Da fruto en otoño. Solo crece si las 8 casillas circundantes están vacías.",
         "ko": "28일후에 성목이 됩니다. 가을에 꽃이 핍니다. 주변 8칸이 비어있어야 자랍니다.",
         "de": "Die Herstellung eines ausgewachsenen Jasminbaums dauert 28 Tage. Trägt Blumen im Herbst. Wächst nur, wenn die 8 umgebenden 'Kacheln' leer sind.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Il faut 28 jours pour produire un jasmin mature. Produit des fleurs en automne. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
+        "hu": "28 nap alatt érik meg, és jázmin fa lesz belőle. Ősszel virágzik. Csak akkor növekszik, ha a környező 8 négyzet üres.",
         // "it": "",
         "ja": "28日かけて成木に育ち、秋になるとジャスミンを咲かせる。となりあった周囲8マスがないと育たない。",
         "pt": "Demora até 28 dias para produzir uma jasmim madura. Dá flores no outono. Só cresce se os 8 espaços adjacentes estiverem vazios.",
         "ru": "Становится взрослым жасминовым деревом через 28 дней. Цветет осенью. Растeт только если 8 «клеток» вокруг него не заняты.",
-        // "tr": "",
-        "zh": "28天成熟为成年茉莉树。秋天开花。只有在附近8个地块都空置的情况下才会成长。",
+        "tr": "28 günde olgunlaşarak Yasemin Ağacı olur. Güzde çiçek açar. Sadece etrafındaki 8 \"kare\" boşken yetişir.",
+        "zh": "28天成熟为成年茉莉树。秋天开花。只有在附近8个地块都空置的情况下才会成长。"
     }
 }

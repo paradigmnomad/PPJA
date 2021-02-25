@@ -21,7 +21,7 @@
         "ja": "マーガリン",
         "pt": "Margarina",
         "ru": "Маргарин",
-         // "tr": "",
+        "tr": "Margarin",
         "zh": "人造黄油",
     },
     "DescriptionLocalization":
@@ -35,7 +35,7 @@
         "ja": "これがバターじゃないなんて信じられない！",
         "pt": "Você não pode acreditar que isso não é manteiga!",
         "ru": "Вы не можете поверить, что это не масло!",
-         // "tr": "",
+        "tr": "Bunun tereyağı olmadığına inanamıyorsun!",
         "zh": "你简直不能相信它是人造的黄油！",
     }
 }

@@ -22,7 +22,7 @@
         "ja": "ウサギ肉",
         "pt": "Carne de coelho",
         "ru": "Кролик",
-        // "tr": "",
+        "tr": "Tavşan Eti",
         "zh": "兔肉",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "臭みを取り除いたウサギ肉。",
         "pt": "Um corte saboroso de coelho.",
         "ru": "Кусок кроличьего мяса.",
-        // "tr": "",
+        "tr": "Tavşandan kesilmiş bir parça et.",
         "zh": "兔子的肉。",
     },
     "DisableWithMod": "DIGUS.ANIMALHUSBANDRYMOD"

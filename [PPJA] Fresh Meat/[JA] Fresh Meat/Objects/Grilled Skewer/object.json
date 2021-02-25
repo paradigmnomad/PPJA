@@ -46,7 +46,7 @@
         "ja": "焼き串",
         "pt": "Espeto grelhado",
         "ru": "Жареный Шашлык",
-        // "tr": "",
+        "tr": "Izgara Şiş",
         "zh": "串烧",
     },
     "DescriptionLocalization":
@@ -60,7 +60,7 @@
         "ja": "野菜と肉の串焼き。",
         "pt": "Um espeto de carne e legumes grelhados.",
         "ru": "Шашлык из жареных овощей и мяса.",
-        // "tr": "",
+        "tr": "Sebzelerden ve etten yapılan ızgara şiş.",
         "zh": "串烧。由蔬菜和肉组成的串烧。",
     }
 }

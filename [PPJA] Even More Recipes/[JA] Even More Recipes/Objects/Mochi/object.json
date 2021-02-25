@@ -46,7 +46,7 @@
         "ja": "お餅",
         "pt": "Mochi",
          // "ru": "",
-         // "tr": "",
+        "tr": "Pirinç Keki",
         "zh": "糯米团子",
     },
     "DescriptionLocalization":
@@ -60,7 +60,7 @@
         "ja": "伝統的な日本のおやつ",
         "pt": "Um deleite japonês bem tradicional.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Geleneksel bir Japon ikramı.",
         "zh": "一种传统的日本食物。",
     }
 }

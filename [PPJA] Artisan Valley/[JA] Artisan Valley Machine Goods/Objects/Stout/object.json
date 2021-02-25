@@ -40,21 +40,20 @@
         "ja": "スタウト",
         "pt": "Stout",
         "ru": "Стаут",
-         // "tr": "",
+        "tr": "Stout",
         "zh": "烈性啤酒",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una oscura bebida fermentada, a partir de malta de cebada tostada. Beber con moderación.",
-        "ko": "보리 맥아가 검게 될 때까지 볶아 발효시킨 스타우트 포터. 절제해서 드세요.",
-        "de": "Ein obergäriges Bier. Genieße es in Maßen.",
-        "fr": "Une bière brune torréfiée, sombre et fermentée à partir de malt d'orge. À boire avec modération.",
-        "hu": "Árpamalátából erjesztett sötét, sült barnasör. Fogyasszad mértékkel!",
-         // "it": "",
-        "ja": "大麦麦芽を発酵させた色の濃い香ばしいポーター。飲む時はほどほどに。",
-        "pt": "Uma bebida escura fermentada a partir do malte torrado de cevada. Beba com moderação!",
-        "ru": "Тёмный портер, изготовленныый из сбродившего ячменного солода. Пейте в меру.",
-         // "tr": "",
-        "zh": "一种由大麦麦芽发酵而成的深色的、酒精浓度高的波特酒。适量饮酒。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una oscura bebida fermentada, a partir de malta de cebada tostada. Beber con moderación.",
+    "ko": "보리 맥아가 검게 될 때까지 볶아 발효시킨 스타우트 포터. 절제해서 드세요.",
+    "de": "Ein obergäriges Bier. Genieße es in Maßen.",
+    "fr": "Une bière brune torréfiée, sombre et fermentée à partir de malt d'orge. À boire avec modération.",
+    "hu": "Árpamalátából erjesztett sötét, sült barnasör. Fogyasszad mértékkel!",
+    // "it": "",
+    "ja": "大麦麦芽を発酵させた色の濃い香ばしいポーター。飲む時はほどほどに。",
+    "pt": "Uma bebida escura fermentada a partir do malte torrado de cevada. Beba com moderação!",
+    "ru": "Тёмный портер, изготовленныый из сбродившего ячменного солода. Пейте в меру.",
+    "tr": "Maltlanmış arpa fermentesi koyu porter. Kararında içilmeli.",
+    "zh": "一种由大麦麦芽发酵而成的深色的、酒精浓度高的波特酒。适量饮酒。"
+  }
 }

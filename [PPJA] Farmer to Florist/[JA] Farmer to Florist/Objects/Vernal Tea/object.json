@@ -52,27 +52,27 @@
         "es": "Té vernal",
         "ko": "봄의 차",
         "de": "Frühlings-Tee",
-        // "fr": "",
+        "fr": "Tisane printanière",
         "hu": "Tavaszi tea",
         // "it": "",
         "ja": "春のお茶",
         "pt": "Chá Vernal",
         "ru": "Весенний чай",
-        // "tr": "",
-        "zh": "春日茶",
+        "tr": "Bahar Çayı",
+        "zh": "春日茶"
     },
     "DescriptionLocalization":
     {
         "es": "Un té dulce y florido. Es el comienzo perfecto para un día ocupado.",
         "ko": "달콤한 꽃차. 바쁜 하루를 시작하기 좋은 완벽한 차입니다.",
         "de": "Ein süßer, blumiger Tee. Es ist der perfekte Start in einen anstrengenden Tag.",
-        // "fr": "",
+        "fr": "Une tisane florale au goût sucré. Parfaite pour commencer une journée bien remplie.",
         "hu": "Egy édes, virágos tea. Egy zsúfolt nap előtt a legjobb.",
         // "it": "",
         "ja": "甘い花のお茶。忙しい1日の朝にぴったり。",
         "pt": "Um chá doce e florido.  É o começo perfeito para um dia agitado.",
         "ru": "Сладкий цветочный чай. Идеальный способ начать день.",
-        // "tr": "",
-        "zh": "春日茶。味道甜美的花茶。完美的一天由此开始。",
+        "tr": "Tatlı, çiçekli bir çay. Meşgul bir güne birlikte başlamak için mükemmel",
+        "zh": "春日茶。味道甜美的花茶。完美的一天由此开始。"
     }
 }

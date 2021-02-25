@@ -50,21 +50,20 @@
         "ja": "プレーンバニラドーナツ",
         "pt": "Donut simples de baunilha",
          // "ru": "",
-         // "tr": "",
+        "tr": "Sade Vanilyalı Donut",
         "zh": "纯香草甜甜圈",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una simple dona de vainilla.",
-        "ko": "평범한 모양의 바닐라 도넛.",
-        "de": "Ein stinknormaler Vanilledonut.",
-        "fr": "Un beignet fourré... à la vanille.",
-         // "hu": "",
-         // "it": "",
-        "ja": "普通のバニラドーナツ。",
-        "pt": "Um donut simples de baunilha.",
-         // "ru": "",
-         // "tr": "",
-        "zh": "一个主要成分为香草的甜甜圈。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una simple dona de vainilla.",
+    "ko": "평범한 모양의 바닐라 도넛.",
+    "de": "Ein stinknormaler Vanilledonut.",
+    "fr": "Un beignet fourré... à la vanille.",
+    // "hu": "",
+    // "it": "",
+    "ja": "普通のバニラドーナツ。",
+    "pt": "Um donut simples de baunilha.",
+    // "ru": "",
+    "tr": "Sade, vanilyalı bir donut.",
+    "zh": "一个主要成分为香草的甜甜圈。"
+  }
 }

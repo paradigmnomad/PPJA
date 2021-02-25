@@ -24,24 +24,23 @@
         {
             "Object": "Lemon",
             "Count": 1,
-        }
-    ],
+        }],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 100,
-            },
+    },
     "NameLocalization":
     {
         "es": "Té de limón enlatado",
         "ko": "캔 레몬티",
         "de": "Zitronentee aus der Dose",
         "fr": "Conserve de thé au citron",
-        // "hu": "",
+        "hu": "Dobozos citromos tea",
         // "it": "",
-       "ja": "レモンティー缶",
+        "ja": "レモンティー缶",
         "pt": "Chá de limão enlatado",
         // "ru": "",
-        // "tr": "",
+        "tr": "Konserve Limon Çayı",
         "zh": "罐装柠檬茶",
     },
     "DescriptionLocalization":
@@ -50,12 +49,12 @@
         "ko": "캔에 든 레몬맛 티!",
         "de": "Wohlschmeckender Zitronentee aus der Dose.",
         "fr": "Du thé parfumé au citron, dans une boîte de conserve !",
-        // "hu": "",
+        "hu": "Citrom ízű tea, egy dobozban!",
         // "it": "",
-       "ja": "缶入りのレモン風味の紅茶！",
+        "ja": "缶入りのレモン風味の紅茶！",
         "pt": "Chá com sabor de limão, dentro de um lata!",
         // "ru": "",
-        // "tr": "",
+        "tr": "Limon aromalı çay, konservede!",
         "zh": "柠檬味的茶，罐装的！",
     }
 }

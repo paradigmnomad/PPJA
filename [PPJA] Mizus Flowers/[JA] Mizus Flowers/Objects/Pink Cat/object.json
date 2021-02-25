@@ -18,12 +18,12 @@
         "de": "Geaderte Katzenminze",
         "fr": "Népète",
         "hu": "Macskamenta Virág",
-         // "it": "",
+        // "it": "",
         "ja": "ピンクキャット",
         "pt": "Rosa de gato",
         "ru": "Котовник",
-         // "tr": "",
-        "zh": "粉色兰花",
+        "tr": "Pembe Kedi",
+        "zh": "粉色兰花"
     },
     "DescriptionLocalization":
     {
@@ -32,11 +32,11 @@
         "de": "Diese Blume hat einen minzigen Duft.",
         "fr": "Cette fleur a un parfum de menthe.",
         "hu": "Ennek a virágnak van egy mentás beütése.",
-         // "it": "",
+        // "it": "",
         "ja": "ミントのような香りのする花。",
         "pt": "Esta flor tem um perfume estranho que lembra hortelã, mas os gatos amam!",
         "ru": "Цветок, имеющий мятный аромат.",
-         // "tr": "",
-        "zh": "这朵花有一股薄荷味。",
+        "tr": "Bu çiçeğin nanemsi bir kokusu var.",
+        "zh": "这朵花有一股薄荷味。"
     }
 }

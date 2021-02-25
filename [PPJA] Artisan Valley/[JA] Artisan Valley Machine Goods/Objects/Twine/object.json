@@ -1,7 +1,7 @@
 {
     "Name": "Twine",
     "Description": "A spool of rough twine.",
-    "Category": "ArtisanGoods",
+    "Category": "ArtisanGoods", 
     "Edibility": -300,
     "Price": 20,
     "IsColored": false,
@@ -23,21 +23,20 @@
         "ja": "より糸",
         "pt": "Barbante",
         "ru": "Бечевка",
-         // "tr": "",
+        "tr": "Sicim",
         "zh": "麻线",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un carrete de hilo desigual.",
-        "ko": "거친 노끈 한 꾸리",
-        "de": "Eine Spule mit grober Schnur.",
-        "fr": "Une bobine de ficelle rugueuse.",
-        "hu": "Durva zsineg orsó.",
-         // "it": "",
-        "ja": "粗めに巻いた糸。",
-        "pt": "Um carretel de fio desigual.",
-        "ru": "Катушка грубой бечевки.",
-         // "tr": "",
-        "zh": "一卷粗线。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un carrete de hilo desigual.",
+    "ko": "거친 노끈 한 꾸리",
+    "de": "Eine Spule mit grober Schnur.",
+    "fr": "Une bobine de ficelle rugueuse.",
+    "hu": "Durva zsineg orsó.",
+    // "it": "",
+    "ja": "粗めに巻いた糸。",
+    "pt": "Um carretel de fio desigual.",
+    "ru": "Катушка грубой бечевки.",
+    "tr": "Bir makara dayanıklı sicim.",
+    "zh": "一卷粗线。"
+  }
 }

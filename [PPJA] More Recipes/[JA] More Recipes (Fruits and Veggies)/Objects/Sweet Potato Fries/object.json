@@ -27,32 +27,30 @@
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Marnie", "Maru", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
         "Neutral": ["Elliott", "Harvey", "Sam", "Vincent"],
     },
-    "NameLocalization":
-    {
-        "es": "Camote frito",
-        "ko": "고구마 튀김",
-        "de": "Süßkartoffelpommes",
-        "fr": "Frites de patates douces",
-         // "hu": "",
-         // "it": "",
-        "ja": "揚げサツマイモ",
-        "pt": "Batata doce frita",
-        "ru": "Жареный сладкий картофель",
-         // "tr": "",
-        "zh": "红薯条",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Como papas fritas normales, solo que dulces.",
-        "ko": "감자튀김 같지만, 달달해요.",
-        "de": "Wie normale Pommes, nur süß.",
-        "fr": "Comme les frites normales, juste douces.",
-         // "hu": "",
-         // "it": "",
-        "ja": "見た目フライドポテトだが、ひたすら甘い。",
-        "pt": "Como batatas fritas regulares, apenas doces.",
-        "ru": "Как обычный картофель фри, только сладкий.",
-         // "tr": "",
-        "zh": "红薯条。像一般的薯条，但只有甜味。",
-    }
+  "NameLocalization": {
+    "es": "Camote frito",
+    "ko": "고구마 튀김",
+    "de": "Süßkartoffelpommes",
+    "fr": "Frites de patates douces",
+    // "hu": "",
+    // "it": "",
+    "ja": "揚げサツマイモ",
+    "pt": "Batata doce frita",
+    "ru": "Жареный сладкий картофель",
+    "tr": "Tatlı Patates Kızartması",
+    "zh": "红薯条"
+  },
+  "DescriptionLocalization": {
+    "es": "Como papas fritas normales, solo que dulces.",
+    "ko": "감자튀김 같지만, 달달해요.",
+    "de": "Wie normale Pommes, nur süß.",
+    "fr": "Comme les frites normales, juste douces.",
+    // "hu": "",
+    // "it": "",
+    "ja": "見た目フライドポテトだが、ひたすら甘い。",
+    "pt": "Como batatas fritas regulares, apenas doces.",
+    "ru": "Как обычный картофель фри, только сладкий.",
+    "tr": "Normal kızartmalar gibi, sadece tatlı.",
+    "zh": "红薯条。像一般的薯条，但只有甜味。"
+  }
 }

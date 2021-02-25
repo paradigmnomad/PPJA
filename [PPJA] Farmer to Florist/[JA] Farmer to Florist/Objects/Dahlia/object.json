@@ -18,13 +18,13 @@
         "es": "Dalia",
         "ko": "달리아",
         "de": "Dahlie",
-         // "fr": "",
+        "fr": "Dahlia",
         "hu": "Dália",
-         // "it": "",
+        // "it": "",
         "ja": "ダリア",
         "pt": "Dália",
         "ru": "Георгин",
-         // "tr": "",
+        "tr": "Yıldız Çiçeği",
         "zh": "大丽花",
     },
     "DescriptionLocalization":
@@ -32,18 +32,18 @@
         "es": "Una de las favoritas para el jardín que florece durante todo otoño.",
         "ko": "가을 내내 정원 가득 피는 꽃.",
         "de": "Ein Gartenfavorit, der den ganzen Herbst über blüht.",
-         // "fr": "",
+        "fr": "Une favorite du jardin qui fleurit tout l'automne.",
         "hu": "Egy virágoskerti favorit, egész ősz alatt virágzik.",
-         // "it": "",
+        // "it": "",
         "ja": "秋になると庭の至る所で咲き乱れる花。",
         "pt": "Um jardim favorito que floresce durante todo o outono.",
         "ru": "Любимец садоводов, цветущий всю осень.",
-         // "tr": "",
-        "zh": "在秋天盛开的繁多花朵中它备受喜爱。",
+        "tr": "Güz boyunca çiçek açan bir bahçe favorisi.",
+        "zh": "在秋天盛开的繁多花朵中它备受喜爱。"
     },
     "ContextTags": [
-    	"season_fall",
-    	"color_pink",
-    	"flower_item"
+        "season_fall",
+        "color_pink",
+        "flower_item"
     ]
 }

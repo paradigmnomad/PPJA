@@ -54,21 +54,20 @@
         "ja": "ジンジャーブレッドハウス",
         "pt": "Casa de Gengibre",
         // "ru": "",
-        // "tr": "",
+        "tr": "Zencefilli Kurabiye Ev",
         "zh": "姜饼屋",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "크리스마스에 주로 굽는 생강빵으로 만든 집. 알록달록하게 꾸며져있다.",
-        "de": "Ein Lebkuchenmann sitzt in seinem Lebkuchenhaus. Ist sein Haus aus Lebkuchen oder ist er aus Lebkuchen?",
-        "fr": "Un bonhomme de pain d'épices est assis dans sa maison de pain d'épices. Sa maison est-elle faite de chair ou le bonhomme est-il fait de maison ?",
-        "hu": "Egy mézeskalécs emberke üldögél a mézeskalács házikóban. Vajon miből van valójában?",
-        // "it": "",
-        "ja": "ジンジャーブレッドの家の中に座っているジンジャーブレッドマン。この家は、彼の肉体でできているのか。それとも彼がこの家でできているのか。",
-        "pt": "Um homem-biscoito entra numa casa de gengibre. Sua casa é de carne ou ele é feito de casa???",
-        // "ru": "",
-        // "tr": "",
-        "zh": "一个姜饼人坐在他的姜饼屋里。他的房子是姜饼做的呢，还是他自身做的呢？",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "크리스마스에 주로 굽는 생강빵으로 만든 집. 알록달록하게 꾸며져있다.",
+    "de": "Ein Lebkuchenmann sitzt in seinem Lebkuchenhaus. Ist sein Haus aus Lebkuchen oder ist er aus Lebkuchen?",
+    "fr": "Un bonhomme de pain d'épices est assis dans sa maison de pain d'épices. Sa maison est-elle faite de chair ou le bonhomme est-il fait de maison ?",
+    "hu": "Egy mézeskalécs emberke üldögél a mézeskalács házikóban. Vajon miből van valójában?",
+    // "it": "",
+    "ja": "ジンジャーブレッドの家の中に座っているジンジャーブレッドマン。この家は、彼の肉体でできているのか。それとも彼がこの家でできているのか。",
+    "pt": "Um homem-biscoito entra numa casa de gengibre. Sua casa é de carne ou ele é feito de casa???",
+    // "ru": "",
+    "tr": "Zencefilli bir kurabiye adam evinde oturuyor. Evi etten yapılma mı yoksa adam mı evden yapılmış?",
+    "zh": "一个姜饼人坐在他的姜饼屋里。他的房子是姜饼做的呢，还是他自身做的呢？"
+  }
 }

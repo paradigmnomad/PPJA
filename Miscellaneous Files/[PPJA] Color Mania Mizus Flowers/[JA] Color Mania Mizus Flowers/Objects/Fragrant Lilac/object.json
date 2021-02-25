@@ -18,12 +18,12 @@
         "de": "Flieder",
         "fr": "Lilas Parfumées",
         "hu": "Illatos Orgona",
-         // "it": "",
+        // "it": "",
         "ja": "ライラック",
         "pt": "Lilás perfumado",
         "ru": "Душистая сирень",
-         // "tr": "",
-        "zh": "紫丁香",
+        "tr": "Kokulu Leylak",
+        "zh": "紫丁香"
     },
     "DescriptionLocalization":
     {
@@ -32,12 +32,12 @@
         "de": "Eine stark duftende Blume, die eine lila Farbe hat.",
         "fr": "Une fleur très parfumée qui est, bien, de couleur lilas.",
         "hu": "Egy lila színű, nagyon illatos virág.",
-         // "it": "",
+        // "it": "",
         "ja": "ライラック色のとても香り高い花。",
         "pt": "Uma flor muito perfumada que é, obviamente, de cor lilás.",
         "ru": "Очень ароматный цветок сиреневого цвета.",
-         // "tr": "",
-        "zh": "一种非常芬芳的花，颜色是.....嗯，淡紫。",
+        "tr": "Gerçekten kokulu bir çiçek.Lila renkli.",
+        "zh": "一种非常芬芳的花，颜色是.....嗯，淡紫。"
     },
     "ContextTags": [
         "season_summer",

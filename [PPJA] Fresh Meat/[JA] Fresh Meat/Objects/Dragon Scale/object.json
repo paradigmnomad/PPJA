@@ -19,9 +19,9 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Escama de Dragão",
         // "ru": "",
-        // "tr": "",
+        "tr": "Ejderha Pulu",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -33,9 +33,9 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Uma escama que caiu de um dragão. A lenda diz que qualquer um que encontrar um desses é abençoado com fortuna.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Bir ejderhadan düşen bir pul. Efsaneye göre bunlardan birini bulan şansla ödüllendirilirmiş.",
         // "zh": "",
     },
     "ContextTags": [

@@ -25,21 +25,20 @@
         "ja": "マンゴーフルーツシャーベット",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Mangolu Meyve Şerbeti",
          "zh": "芒果果汁雪葩",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "신선한 망고와 라임으로 만든 상큼한 과일 셔벗.",
-        // "de": "",
-        "fr": "Un sorbet rafraîchissant fait à partir de mangues fraîches et de citron vert.",
-        "hu": "Egy frissítő gyümölcs sörbet, mely mangó és lime felhasználásával készült.",
-        // "it": "",
-        "ja": "新鮮なマンゴーとライムを使った、さわやかなフルーツシャーベット。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "由新鲜芒果和青柠制成的清爽果汁雪葩。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "신선한 망고와 라임으로 만든 상큼한 과일 셔벗.",
+    // "de": "",
+    "fr": "Un sorbet rafraîchissant fait à partir de mangues fraîches et de citron vert.",
+    "hu": "Egy frissítő gyümölcs sörbet, mely mangó és lime felhasználásával készült.",
+    // "it": "",
+    "ja": "新鮮なマンゴーとライムを使った、さわやかなフルーツシャーベット。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Mango ve misket limonundan yapılan ferahlatıcı bir meyve şerbeti.",
+    "zh": "由新鲜芒果和青柠制成的清爽果汁雪葩。"
+  }
 }

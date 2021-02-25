@@ -7,8 +7,8 @@
     "IsColored": false,
     "GiftTastes":
     {
-	"Love": ["Demetrius", "Maru"],
-	"Like": ["Krobus", "Wizard", "Harvey"],
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
         "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
     },
     "Recipe": null,
@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "兔子DNA",
+        "ru": "ДНК кролика",
+        "tr": "Tavşan DNA'sı",
+        "zh": "兔子DNA",
     },
     "DescriptionLocalization":
     {
@@ -36,9 +36,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "从兔子脚上提取的兔子DNA。",
+        "ru": "Небольшой фрагмент ДНК кролика, извлеченный из кроличьей лапки.",
+        "tr": "Tavşan ayağından alınmış tavşan DNA'sı.",
+        "zh": "从兔子脚上提取的兔子DNA。",
     },
     "ContextTags": [
         "dna_item",

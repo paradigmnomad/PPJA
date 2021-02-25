@@ -28,21 +28,20 @@
         "ja": "ミルクコーヒー缶",
         "pt": "Café com leite",
          // "ru": "",
-         // "tr": "",
+        "tr": "Sütlü Kahve",
         "zh": "牛奶咖啡",
     },
-    "DescriptionLocalization":
-    {
-        "es": "¡Café con leche enlatado!",
-        "ko": "우유가 첨가된 캔 커피!",
-        "de": "Kaffee mit Milch aus der Dose!",
-        "fr": "Café avec du lait ajouté, dans une conserve !",
-         // "hu": "",
-         // "it": "",
-        "ja": "缶入りのミルク入りコーヒー！",
-        "pt": "Café com leite adicionado a ele, dentro de uma lata!",
-         // "ru": "",
-         // "tr": "",
-        "zh": "加了牛奶的咖啡，罐装的！",
-    }
+  "DescriptionLocalization": {
+    "es": "¡Café con leche enlatado!",
+    "ko": "우유가 첨가된 캔 커피!",
+    "de": "Kaffee mit Milch aus der Dose!",
+    "fr": "Café avec du lait ajouté, dans une conserve !",
+    // "hu": "",
+    // "it": "",
+    "ja": "缶入りのミルク入りコーヒー！",
+    "pt": "Café com leite adicionado a ele, dentro de uma lata!",
+    // "ru": "",
+    "tr": "Süt eklenmiş kahve, konservede!",
+    "zh": "加了牛奶的咖啡，罐装的！"
+  }
 }

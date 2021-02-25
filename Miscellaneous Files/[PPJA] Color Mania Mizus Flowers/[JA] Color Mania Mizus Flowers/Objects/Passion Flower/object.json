@@ -18,12 +18,12 @@
         "de": "Passionsblume",
         "fr": "Passiflore",
         "hu": "Golgotavirág",
-         // "it": "",
+        // "it": "",
         "ja": "トケイソウ",
         "pt": "Flor da paixão",
         "ru": "Страстоцвет",
-         // "tr": "",
-        "zh": "西番莲花",
+        "tr": "Çarkıfelek Çiçeği",
+        "zh": "西番莲花"
     },
     "DescriptionLocalization":
     {
@@ -32,11 +32,11 @@
         "de": "Diese Blume ist eine Wohltat für Körper und Geist.",
         "fr": "Cette fleur rafraîchit le corps et apaise l'esprit.",
         "hu": "Visszafogott, mégis mély, ez a virág hűsíti a testet, megnyugtatja az elmét és ellazítja a szellemet.",
-         // "it": "",
+        // "it": "",
         "ja": "「Gentle yet profound, this flower is cooling to the body, calming to the mind, and soothing to the spirit.」",
         "pt": "Suave, mas profunda. Sim, esta flor lhe esfria, acalmando a sua mente e suavizando seu espírito.",
         "ru": "Нежный, но при том полный глубины цветок, успокаивающий тело, ум и дух.",
-         // "tr": "",
-        "zh": "温柔而深沉，这朵花能让人放松身心，抚慰自己的心灵。",
+        "tr": "Nazik ama derin.Bu çiçek bedeni ferahlatır, zihni sakinleştirir, ruhu yatıştırır.",
+        "zh": "温柔而深沉，这朵花能让人放松身心，抚慰自己的心灵。"
     }
 }

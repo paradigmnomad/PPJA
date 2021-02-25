@@ -24,21 +24,20 @@
        "ja": "グリーンコンブチャ",
        "pt": "Kombuchá Verde",       
        "ru": "Зелёная комбуча",
-        // "tr": "",
-        "zh": "绿茶康普茶",
+       "tr": "Yeşil Kombucha",
+       "zh": "绿茶康普茶",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un kombucha estándar hecho con té verde.",
-        "ko": "녹차로 만든 일반적인 콤부차.",
-        "de": "Ein Standard-Kombucha aus grünem Tee.",
-        "fr": "Un kombucha banal fait avec du thé vert.",
-       "hu": "Egy átlagos kombucha, mely zöld tea felhasználásával készült.",
-        // "it": "",
-       "ja": "緑茶から作られた標準的なコンブチャ。",
-       "pt": "Um kombuchá padrão feito com chá verde",
-       "ru": "Стандартная комбуча, приготовленная из зелёного чая.",
-        // "tr": "",
-        "zh": "用绿茶制成的标准康普茶。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un kombucha estándar hecho con té verde.",
+    "ko": "녹차로 만든 일반적인 콤부차.",
+    "de": "Ein Standard-Kombucha aus grünem Tee.",
+    "fr": "Un kombucha banal fait avec du thé vert.",
+    "hu": "Egy átlagos kombucha, mely zöld tea felhasználásával készült.",
+    // "it": "",
+    "ja": "緑茶から作られた標準的なコンブチャ。",
+    "pt": "Um kombuchá padrão feito com chá verde",
+    "ru": "Стандартная комбуча, приготовленная из зелёного чая.",
+    "tr": "Yeşil çayla yapılmış standart bir kombucha.",
+    "zh": "用绿茶制成的标准康普茶。"
+  }
 }

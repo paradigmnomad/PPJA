@@ -48,9 +48,9 @@
         // "hu": "",
         // "it": "",
         "ja": "みそ汁",
-        // "pt": "",
+        "pt": "Sopa de Miso",
         // "ru": "",
-        // "tr": "",
+        "tr": "Miso Çorbası",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -62,9 +62,9 @@
         // "hu": "",
         // "it": "",
         "ja": "出汁、みそ、ワカメ、豆腐を使った伝統的なスープ。",
-        // "pt": "",
+        "pt": "Uma sopa tradicional feita de estoque de dashi, pasta de miso, algas marinhas e tofu.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Dashi,deniz yosunu,miso püresi ve tofudan yapılan geleneksel bir çorba.",
         // "zh": "",
     }
 }

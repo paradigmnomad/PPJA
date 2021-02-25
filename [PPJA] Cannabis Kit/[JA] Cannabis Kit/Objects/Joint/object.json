@@ -51,7 +51,7 @@
          // "ja": "",
          "pt": "Articulação",
          "ru": "Самокрутка",
-         // "tr": "",
+         "tr": "Bağlantı",
          "zh": "大麻烟卷",
     },
     "DescriptionLocalization":
@@ -65,7 +65,7 @@
          // "ja": "",
          "pt": "Também pudera...",
          "ru": "Действуй.",
-         // "tr": "",
+         "tr": "Bari...?",
          "zh": "可以一试。",
     }
 }

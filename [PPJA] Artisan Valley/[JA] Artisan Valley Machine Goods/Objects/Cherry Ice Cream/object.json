@@ -23,7 +23,7 @@
         "ja": "チェリーアイスクリーム",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+         "tr": "Kirazlı Dondurma",
          "zh": "樱桃冰淇淋",
     },
     "DescriptionLocalization":
@@ -37,7 +37,7 @@
         "ja": "フルーティーで新鮮でさわやかな味。",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Meyveli, taze ve ferahlatıcı.",
          "zh": "清新的樱桃风味冰淇淋。",
     }
 }

@@ -43,21 +43,20 @@
         "ja": "ビターズ",
         "pt": "Bitter",
         "ru": "Биттер",
-        // "tr": "",
+        "tr": "Bitter",
         "zh": "苦啤酒",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Comúnmente utilizado en bebidas alcohólicas. Hecho de flores.",
-        "ko": "주로 다른 음료를 만드는 데 재료로 사용됩니다. 꽃으로 만듭니다.",
-        "de": "Häufig in alkoholischen Getränken genutzt. Hergestellt aus Blumen.",
-        "fr": "L'amer est couramment utilisé dans les boissons alcoolisées. Fabriqué à partir de fleurs.",
-        "hu": "Gyakran használják alkoholos italokban. Virágokból állítják elő.",
-        // "it": "",
-        "ja": "アルコール飲料に足して使う。花から作られている。",
-        "pt": "Geralmente usado em bebidas alcóolicas. Beba com moderação.",
-        "ru": "Крепкий алкогольный напиток. Сделан из цветов.",
-        // "tr": "",
-        "zh": "一种用啤酒花酿成的苦味酒精饮料。",
-    }
+  "DescriptionLocalization": {
+    "es": "Comúnmente utilizado en bebidas alcohólicas. Hecho de flores.",
+    "ko": "주로 다른 음료를 만드는 데 재료로 사용됩니다. 꽃으로 만듭니다.",
+    "de": "Häufig in alkoholischen Getränken genutzt. Hergestellt aus Blumen.",
+    "fr": "L'amer est couramment utilisé dans les boissons alcoolisées. Fabriqué à partir de fleurs.",
+    "hu": "Gyakran használják alkoholos italokban. Virágokból állítják elő.",
+    // "it": "",
+    "ja": "アルコール飲料に足して使う。花から作られている。",
+    "pt": "Geralmente usado em bebidas alcóolicas. Beba com moderação.",
+    "ru": "Крепкий алкогольный напиток. Сделан из цветов.",
+    "tr": "Genelde alkollü içeceklerde kullanılır. Çiçeklerden yapılır.",
+    "zh": "一种用啤酒花酿成的苦味酒精饮料。"
+  }
 }

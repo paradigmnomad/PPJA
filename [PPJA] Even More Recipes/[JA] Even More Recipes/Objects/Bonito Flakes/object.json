@@ -27,32 +27,30 @@
         "PurchasePrice": 800,
         "PurchaseRequirements": ["z spring fall", ],
     },
-    "NameLocalization":
-    {
-        "es": "Copos bonito",
-        "ko": "가쓰오부시",
-        "de": "Bonitoflocken",
-        "fr": "Miettes de bonite",
-         // "hu": "",
-         // "it": "",
-        "ja": "かつおぶし",
-        "pt": "Flocos de peixe bonito",
-         // "ru": "",
-         // "tr": "",
-        "zh": "木鱼花",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Escamas finamente afeitadas de atún seco.",
-        "ko": "얇게 썰어서 말린 가다랭이 조각.",
-        "de": "Dünn geraspelte Flocken aus getrocknetem Thunfisch.",
-        "fr": "Miettes de thon séché finement découpées.",
-         // "hu": "",
-         // "it": "",
-        "ja": "乾燥させたツナを薄く削ったフレーク。",
-        "pt": "Flocos ralados em lascas finas de atum seco.",
-         // "ru": "",
-         // "tr": "",
-        "zh": "把鲣节刨成薄片就得到了木鱼花。",
-    }
+  "NameLocalization": {
+    "es": "Copos bonito",
+    "ko": "가쓰오부시",
+    "de": "Bonitoflocken",
+    "fr": "Miettes de bonite",
+    "hu": "Bonito pehely",
+    // "it": "",
+    "ja": "かつおぶし",
+    "pt": "Flocos de peixe bonito",
+    // "ru": "",
+    "tr": "Ton Balığı Pulları",
+    "zh": "木鱼花"
+  },
+  "DescriptionLocalization": {
+    "es": "Escamas finamente afeitadas de atún seco.",
+    "ko": "얇게 썰어서 말린 가다랭이 조각.",
+    "de": "Dünn geraspelte Flocken aus getrocknetem Thunfisch.",
+    "fr": "Miettes de thon séché finement découpées.",
+    "hu": "Vékonyra vágott szárított tonhalszeretek.",
+    // "it": "",
+    "ja": "乾燥させたツナを薄く削ったフレーク。",
+    "pt": "Flocos ralados em lascas finas de atum seco.",
+    // "ru": "",
+    "tr": "kurutulmuş ton balığının ince ince soyulmuş pulları.",
+    "zh": "把鲣节刨成薄片就得到了木鱼花。"
+  }
 }

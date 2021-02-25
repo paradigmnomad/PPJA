@@ -47,7 +47,7 @@
         "ja": "イカクッキー",
         "pt": "Biscoito de povinho",
          // "ru": "",
-         // "tr": "",
+        "tr": "Mürekkepbalığı Şeklinde Kurabiye",
         "zh": "小鱿鱼饼干",
     },
     "DescriptionLocalization":
@@ -61,7 +61,7 @@
         "ja": "イカの形をしたかわいいクッキー。",
         "pt": "Um biscoito fofo em forma de lula.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Mürekkepbalığı şeklinde sevimli bir kurabiye.",
         "zh": "它的形状像一只小鱿鱼。",
     }
 }

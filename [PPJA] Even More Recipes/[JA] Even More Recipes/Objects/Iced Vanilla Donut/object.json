@@ -50,7 +50,7 @@
         "ja": "バニラアイスドーナツ",
         "pt": "Donut gelado de baunilhat",
          // "ru": "",
-         // "tr": "",
+        "tr": "Buzlu Vanilyalı Donut",
         "zh": "冰香草甜甜圈",
     },
     "DescriptionLocalization":
@@ -64,7 +64,7 @@
         "ja": "シンプルなアイスバニラドーナツ。",
         "pt": "Um donut simples e gelado de baunilha.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Basit, buzlu ve vanilyalı bir donut.",
         "zh": "一份简单的，冰的香草甜甜圈",
     }
 }

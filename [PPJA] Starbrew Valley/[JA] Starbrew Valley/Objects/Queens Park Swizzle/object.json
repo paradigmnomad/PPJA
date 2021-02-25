@@ -23,7 +23,7 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 2000,
-    
+
     "Recipe":
     {
         "ResultCount": 1,
@@ -47,20 +47,20 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 6000,
-            },
+    },
 
     "NameLocalization":
     {
         "es": "Reinas del Parque Swizzle",
         "ko": "퀸즈 파크 스위즐",
         "de": "Queens Park Swizzle",
-        // "fr": "",
+        "fr": "Queens Park Swizzle",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Queen's Park Swizzle",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Королевский парк мошенничества",
+        "tr": "Queen's Park Swizzle",
         "zh": "女王公园",
     },
     "DescriptionLocalization":
@@ -68,13 +68,13 @@
         "es": "Swizzle swizzle swizzle.",
         "ko": "스위즐 스위즐 스위즐.",
         "de": "Swizzle swizzle swizzle.",
-        // "fr": "",
+        "fr": "Swizzle swizzle swizzle.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Swizzle swizzle swizzle.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Мошенничество, мошенничество, мошенничество",
+        "tr": "Cızır, cızır, cızır.",
         "zh": "女王公园。甜酒，甜酒，甜酒。重要的事说三遍。",
     }
 }

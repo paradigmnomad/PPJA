@@ -38,9 +38,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "熟制野猪肉",
+        "ru": "Приготовленное мясо кабана",
+        "tr": "Pişmiş Yaban Domuzu Eti",
+        "zh": "熟制野猪肉",
     },
     "DescriptionLocalization":
     {
@@ -52,13 +52,13 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "一块煮熟的野猪肉，可在食谱中使用。",
+        "ru": "Приготовленный кусок мяса кабана, готовый к употреблению в рецептах.",
+        "tr": "Bir parça pişmiş yaban domuzu eti, tariflerde kullanıma hazır.",
+        "zh": "一块煮熟的野猪肉，可在食谱中使用。",
     },
     "ContextTags": [
         "cooked_meat",
         "meat_item",
-    ] ,    
-    "DisableWithMod": "HadiZosa.BFAVnewmeat" 
+    ],
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

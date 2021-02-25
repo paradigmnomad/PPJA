@@ -27,10 +27,10 @@
         "hu": "Vaddisznó magvak",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes de Javali Silvestre",
-        // "ru": "",
-        // "tr": "",
-         "zh": "野猪肉种子",
+        "pt": "Sementes de Javali Silvestre",
+        "ru": "Семена дикого кабана",
+        "tr": "Yaban Domuzu Tohumu",
+        "zh": "野猪肉种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -41,9 +41,9 @@
         "hu": "Ezeket tavasszal, vagy nyáron ültesse el. 8 napig tart megérniük.",
         // "it": "",
         // "ja": "",
-         "pt": "Plante isso na primavera ou no verão. Leva 13 dias para amadurecer.",
-        // "ru": "",
-        // "tr": "",
-         "zh": "春天或夏天播种。13天成熟。",
+        "pt": "Plante isso na primavera ou no verão. Leva 13 dias para amadurecer.",
+        "ru": "Сажайте их весной или летом. Созревание занимает 13 дней",
+        "tr": "Baharda veya yazın ekilir. 13 günde yetişir.",
+        "zh": "春天或夏天播种。13天成熟。",
     },
 }

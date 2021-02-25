@@ -46,7 +46,7 @@
         "ja": "ベーコンエッグ",
         "pt": "Ovos com bacon",
         "ru": "Бекон и яйца",
-        // "tr": "",
+        "tr": "Pastırmalı Yumurta",
         "zh": "熏肉培根和鸡蛋",
     },
     "DescriptionLocalization":
@@ -60,7 +60,7 @@
         "ja": "定番の朝食。みんな大好き。",
         "pt": "Nada como ovos com bacon em uma manhã fria.",
         "ru": "Нет ничего лучше бекона и яиц холодным утром.",
-        // "tr": "",
+        "tr": "Soğuk bir sabahta pastırmalı yumurta gibisi yok.",
         "zh": "熏肉培根和鸡蛋。没有比熏肉培根和鸡蛋更棒的早餐了。",
     }
 }

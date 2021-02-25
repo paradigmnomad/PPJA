@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         "pt": "DNA de pássaro",
-        // "ru": "",
-        // "tr": "",
-         "zh": "鸟类DNA",
+        "ru": "ДНК птицы",
+        "tr": "Kuş DNA'sı",
+        "zh": "鸟类DNA",
     },
     "DescriptionLocalization":
     {
@@ -35,10 +35,10 @@
         "hu": "Egy madár DNS-e. Különböző termékekből lett kinyerve.",
         // "it": "",
         // "ja": "",
-         "pt": "Um pouco de DNA de pássaro. É extraído de vários produtos.",
-        // "ru": "",
-        // "tr": "",
-         "zh": "一些鸟类的DNA。它是从各种产品中提取的。",
+        "pt": "Um pouco de DNA de pássaro. É extraído de vários produtos.",
+        "ru": "Какое-то птичье ДНК. Его добывают из различных продуктов.",
+        "tr": "Bir kuşun DNA'sı. Birçok üründen temin edilebilir.",
+        "zh": "一些鸟类的DNA。它是从各种产品中提取的。",
     },
     "ContextTags": [
         "dna_item",

@@ -11,27 +11,27 @@
         "es": "Jabón frutal",
         "ko": "과일 비누",
         "de": "Fruchtige Seife",
-        // "fr": "",
+        "fr": "Savon aux fruits",
         "hu": "Gyümölcsös szappan",
         // "it": "",
         "ja": "フルーティーソープ",
         "pt": "Sabonete Frutados",
         "ru": "Фруктовое мыло",
-        // "tr": "",
-        "zh": "果味香皂",
+        "tr": "Meyveli Sabun",
+        "zh": "果味香皂"
     },
     "DescriptionLocalization":
     {
         "es": "Una barra de jabón casero. Huele a fruta.",
         "ko": "집에서 만든 수제 비누. 과일 향이 난다.",
         "de": "Ein Stück hausgemachte Seife. Es riecht nach Obst.",
-        // "fr": "",
+        "fr": "Une barre de savon artisanal. Sent les fruits.",
         "hu": "Egy házi készítésű szappanrúd. Gyümölcsös illata van.",
         // "it": "",
         "ja": "ハンドメイドの石けんバー。果物の香り付き。",
         "pt": "Uma barra de sabão caseiro. Cheira a fruta",
         "ru": "Кусок домашнего мыла, пахнущий фруктами.",
-        // "tr": "",
-        "zh": "一块自制肥皂。闻起来是水果味。",
+        "tr": "Ev yapımı kalıp sabun. Meyve gibi kokuyor.",
+        "zh": "一块自制肥皂。闻起来是水果味。"
     }
 }

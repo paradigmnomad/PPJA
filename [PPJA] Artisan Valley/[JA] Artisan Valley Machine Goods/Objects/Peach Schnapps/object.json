@@ -40,7 +40,7 @@
         "ja": "ピーチシュナップス",
         "pt": "Aguardente de Pêssego",
         "ru": "Персиковый шнапс",
-         // "tr": "",
+        "tr": "Şeftali Schnapps",
         "zh": "桃子味烈酒",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
         "ja": "適量を守って飲みましょう。",
         "pt": "Beba com moderação!",
         "ru": "Пейте в меру.",
-         // "tr": "",
+        "tr": "Kararında içilmeli.",
         "zh": "适量饮酒。",
     }
 }

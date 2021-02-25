@@ -38,20 +38,20 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 750,
-            },
+    },
 
     "NameLocalization":
     {
         "es": "Gin n Tonic",
         "ko": "진 토닉",
         "de": "Gin Tonic",
-        // "fr": "",
+        "fr": "Gin Tonic",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Gim e Tônico",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Джин с тоником",
+        "tr": "Cin ve Tonik",
         "zh": "金汤利",
     },
     "DescriptionLocalization":
@@ -59,13 +59,13 @@
         "es": "¡Una parte ginebra, una parte agua tónica!",
         "ko": "진 한 잔에 토닉 한 잔!",
         "de": "Ein Teil Gin zu einem Teil Tonic!",
-        // "fr": "",
+        "fr": "Une part de gin et une part de tonic!",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Uma parte gim, uma parte água tônica!",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Одна часть джина на одну часть тоника!",
+        "tr": "Birer parça cin ve tonik.",
         "zh": "金汤利。一份金酒，一份汤利水！",
     }
 }

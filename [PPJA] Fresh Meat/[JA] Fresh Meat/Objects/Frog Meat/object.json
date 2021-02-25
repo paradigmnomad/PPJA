@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "蛙肉",
+        "ru": "Мясо лягушки",
+        "tr": "Kurbağa Eti",
+        "zh": "蛙肉",
     },
     "DescriptionLocalization":
     {
@@ -36,9 +36,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "青蛙肉。我想知道它尝起来是不是类似鸡肉的口感？",
-    },    
+        "ru": "Мясо лягушки. Интересно, на вкус она как курица?",
+        "tr": "Bir kurbağanın eti. Acaba tadı tavuk gibi mi?",
+        "zh": "青蛙肉。我想知道它尝起来是不是类似鸡肉的口感？",
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -20,11 +20,11 @@
         "de": "Kombucha",
         "fr": "Kombucha",
         "hu": "Kombucha",
-        //"it": "",
+        // "it": "",
         "ja": "コンブチャ",
         "pt": "Kombuchá",        
         "ru": "Комбуча",
-        //"tr": "",
+        "tr": "Kombucha",
         "zh": "普通蘑菇康普茶",
     },
     "DescriptionLocalization":
@@ -34,11 +34,11 @@
         "de": "Ein teeähnliches Getränk aus fermentierten Pilzen.",
         "fr": "Une sorte de thé produit à partir de levures fermentées.",
         "hu": "Egy tea-szerű ital erjesztett gombából.",
-        //"it": "",
+        // "it": "",
         "ja": "キノコを発酵させてできた、お茶のような飲み物。",
         "pt": "Uma bebida similar ao chá feita com cogumelos fermentados.",        
         "ru": "Чаеподобный напиток, приготовленный из сбродивших грибов.",
-        //"tr": "",
+        "tr": "Fermente mantardan yapılan çayımsı bir içecek.",
         "zh": "一种类似茶的饮料，由发酵的普通蘑菇制成。",
     }
 }

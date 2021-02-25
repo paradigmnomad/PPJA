@@ -40,7 +40,7 @@
         "ja": "ドラゴンフルーツアイスバー",
         "pt": "Picolé de fruta do dragão",
          // "ru": "",
-         // "tr": "",
+        "tr": "Ejderha Meyveli Çubuklu Dondurma",
         "zh": "火龙果冰棒",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
         "ja": "タネが歯に詰まる事がある。",
         "pt": "As sementes podem ficar presas nos dentes.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tohumlar dişinin arasına sıkışabilir.",
         "zh": "果肉种子可能会塞在你的牙缝里。",
     }
 }

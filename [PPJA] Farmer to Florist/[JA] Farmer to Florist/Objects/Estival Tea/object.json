@@ -44,27 +44,27 @@
         "es": "Té de estival",
         "ko": "여름의 차",
         "de": "Sommerlicher Tee",
-        // "fr": "",
+        "fr": "Tisane estivale",
         "hu": "Nyári tea",
         // "it": "",
         "ja": "夏のお茶",
         "pt": "Chá de Verão",
         "ru": "Летний чай",
-        // "tr": "",
-        "zh": "夏日茶",
+        "tr": "Yaz Çayı",
+        "zh": "夏日茶"
     },
     "DescriptionLocalization":
     {
         "es": "Un té fuerte y picante. Curiosamente refrescante en un día caluroso.",
         "ko": "맵고 톡 쏘는 차. 더운 날 마시면 상쾌합니다.",
         "de": "Ein würziger Tee. Seltsamerweise erfrischend an einem heißen Tag.",
-        // "fr": "",
+        "fr": "Une tisane piquante et acidulée, surprenamment rafraichissante lors des journées chaudes.",
         "hu": "Egy pikáns tea. Furán frissítő egy forró napon.",
         // "it": "",
         "ja": "ピリッとスパイシーなお茶。暑い日に飲めばリフレッシュできる。",
         "pt": "Um chá picante e muito picante. Estranhamente refrescante em um dia quente.",
         "ru": "Пряный, острый чай. Удивительно освежающий в жаркую погоду.",
-        // "tr": "",
-        "zh": "一种味道浓烈的茶。使人在炎炎夏日里神清气爽。",
+        "tr": "Acılı, keskin bir çay. Garip bir şekilde sıcak günlerde ferahlatıyor. ",
+        "zh": "一种味道浓烈的茶。使人在炎炎夏日里神清气爽。"
     }
 }

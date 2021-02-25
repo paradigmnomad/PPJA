@@ -44,7 +44,7 @@
         "ja": "藤アイスバー",
         "pt": "Picolé de glicínias",
          // "ru": "",
-         // "tr": "",
+        "tr": "Visteryalı Çubuklu Dondurma",
         "zh": "紫藤冰棒",
     },
     "DescriptionLocalization":
@@ -58,7 +58,7 @@
         "ja": "摘みたての藤を凍らせてアイスバーに。",
         "pt": "Glicínias recém colhidas, congeladas em um picolée.",
          // "ru": "",
-         // "tr": "",
+         "tr": "Taze toplanmış visterya, dondurma yapılmak üzere dondurulmuş",
         "zh": "以刚摘的新鲜紫藤作为原料，冻成冰棍。",
     }
 }

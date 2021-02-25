@@ -30,7 +30,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1000,
-            },
+    },
     "NameLocalization":
     {
         "es": "Sandwich de desayuno",
@@ -40,9 +40,9 @@
         "hu": "Reggeli szendvics",
         // "it": "",
         // "ja": "",
-         "pt": "Sanduíche de café da manhã",
-        // "ru": "",
-        // "tr": "",
+        "pt": "Sanduíche de café da manhã",
+        "ru": "Сэндвич на завтрак",
+        "tr": "Kahvaltılık Sandviç",
         "zh": "早餐三明治",
     },
     "DescriptionLocalization":
@@ -54,9 +54,9 @@
         "hu": "Egy melegszendvics tojással, olvadt sajttal és ízletes, ropogós baconnel töltve.",
         // "it": "",
         // "ja": "",
-         "pt": "Um sanduíche quente empilhado com ovos, queijo derretido, e bacon agradável e crocante.",
-        // "ru": "",
-        // "tr": "",
+        "pt": "Um sanduíche quente empilhado com ovos, queijo derretido, e bacon agradável e crocante.",
+        "ru": "Горячий сэндвич с яйцом, плавленым сыром и поджаренным ароматным беконом.",
+        "tr": "İçinde yumurta, erimiş peynir ve güzel, çıtır pastırma olan sıcak bir sandviç.",
         "zh": "早餐三明治。一份热三明治，里面有鸡蛋、融化的奶酪和香脆的培根。",
     }
 }

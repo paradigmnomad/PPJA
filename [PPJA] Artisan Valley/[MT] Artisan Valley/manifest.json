@@ -1,0 +1,12 @@
+{
+    "Name": "[MT] Artisan Valley",
+    "Author": "Project Populate Json Assets",
+    "Version": "1.0.1",
+    "Description": "An add-on to allow certain items to be produced in the vanilla mill.",
+    "UniqueID": "ppja.artisanvalleyMT",
+    "MinimumApiVersion": "3.8.0",
+    "UpdateKeys": ["Nexus:1926@MTArtisanValley"],
+    "ContentPackFor": {
+        "UniqueID": "Satozaki.MillerTime"
+    }
+}

@@ -15,27 +15,27 @@
         "es": "Echinacea purpurea",
         "ko": "자주루드베키아",
         "de": "Purpurner Sonnenhut",
-        "fr": "Échinacée",
+        "fr": "Echinacea",
         "hu": "Kasvirág",
-         // "it": "",
+        // "it": "",
         "ja": "ムラサキバレンギク",
         "pt": "Margarida roxa",
         "ru": "Эхинацея",
-         // "tr": "",
-        "zh": "紫锥花",
+        "tr": "Mor Koni Çiçeği",
+        "zh": "紫锥花"
     },
     "DescriptionLocalization":
     {
         "es": "Un hermosa flor púrpura que es agradablemente dulce.",
         "ko": "기분좋게 달콤한, 사랑스러운 자주루드베키아. 에키네시아라고 불리기도 합니다.",
         "de": "Eine wundervolle purpurne Blume, die erfrischen süß duftet. Auch bekannt als Echinacea.",
-        "fr": "Une belle Échinacée pourpre et agréablement douce.",
+        "fr": "Une belle échinacée pourpre agréablement douce. Il est également connu sous le nom d'échinacée.",
         "hu": "Egy gyönyörű lila kasvirág, mely kellemesen édes. Echinacea néven is ismert.",
-         // "it": "",
+        // "it": "",
         "ja": "心地よい紫色のバレンギク。「エキナセア」という名でも知られている。",
         "pt": "Uma linda margarida roxa que é agradavelmente doce. Também é conhecido como ourico da Terra.",
         "ru": "Прелестная фиолетовый цветок, приятный на вкус. ",
-         // "tr": "",
-        "zh": "可爱的紫色花花，味道甜美。它也被称为紫雏菊。",
+        "tr": "Tatmin edici bir tatlılığı olan hoş bir mor koni çiçeği.Ekinezya olarak da bilinir.",
+        "zh": "可爱的紫色花花，味道甜美。它也被称为紫雏菊。"
     }
 }

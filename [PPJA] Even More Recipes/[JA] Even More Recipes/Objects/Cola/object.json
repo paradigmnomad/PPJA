@@ -1,7 +1,7 @@
 {
     "Name": "Cola",
     "Description": "Tastes better than Joja Cola.",
-    "Category": "Cooking",
+    "Category": "ArtisanGoods",
     "Edibility": 5,
     "EdibleIsDrink": true,
     "EdibleBuffs":
@@ -14,7 +14,6 @@
         "Duration": 500,
     },
     "Price": 60,
-    "IsColored": false,
     "IsColored": false,
     "GiftTastes":
     {
@@ -37,7 +36,7 @@
         "ja": "コーラ",
         "pt": "Cola",
          // "ru": "",
-         // "tr": "",
+        "tr": "Kola",
         "zh": "可乐",
     },
     "DescriptionLocalization":
@@ -51,7 +50,7 @@
         "ja": "Jojaコーラよりもおいしい。",
         "pt": "Tem um gosto melhor do que aquela Joja-Cola",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tadı Joja-Kola'dan daha iyi.",
         "zh": "尝起来比Joja可乐更好。",
     }
 }

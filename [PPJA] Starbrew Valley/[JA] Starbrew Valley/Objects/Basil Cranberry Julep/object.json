@@ -42,20 +42,20 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 5775,
-            },
+    },
 
     "NameLocalization":
     {
         "es": "Julep de Arándano rojo con albahaca",
         "ko": "바질 크렌베리 줄렙",
         "de": "Basilikum-Preiselbeere Julep",
-        // "fr": "",
+        "fr": "Julep canneberges basilic",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Julep de amora e manjericão",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Клюквеный коктейль с базиликом.",
+        "tr": "Fesleğenli Kızılcıklı Julep",
         "zh": "罗勒蔓越莓鸡尾酒",
     },
     "DescriptionLocalization":
@@ -63,13 +63,13 @@
         "es": "Sabor ahumado sutil agrega un giro a esta bebida.",
         "ko": "미묘한 스모키 맛이 음료에 반전을 더해줘요.",
         "de": "Ein subtiler Rauchgeschmack verleiht diesem Getränk eine besondere Note.",
-        // "fr": "",
+        "fr": "Un léger goût de fumée donne une touche surprenante à ce cocktail.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Sabor esfumaçado sutil agrega um extra a esta bebida",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Тонкий дымчатый аромат добавляет изюминку этому напитку.",
+        "tr": "İnce, dumansı tadı bu içeceğe bir güzel bir hava katar.",
         "zh": "罗勒蔓越莓鸡尾酒。微妙的烟熏味增加了这种鸡尾酒的风味。",
     }
 }

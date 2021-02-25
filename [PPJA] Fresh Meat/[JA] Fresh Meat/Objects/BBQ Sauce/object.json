@@ -46,7 +46,7 @@
         "ja": "BBQソース",
          "pt": "Molho de churrasco",
         "ru": "Соус для барбекю",
-        // "tr": "",
+        "tr": "Barbekü Sos",
         "zh": "BBQ烧烤酱",
     },
     "DescriptionLocalization":
@@ -60,7 +60,7 @@
         "ja": "地方によって味付けが異なる。このソースは肉にスモーキーな風味を加える。",
         "pt": "Um molho que, geralmente, tem diferentes sabores e adições de uma região para outra. Acrescenta um toque defumado à carne.",
         "ru": "Соус из местных ингредиентов. Отлично подходит для мяса.",
-        // "tr": "",
+        "tr": "Yerel tatları ve eklemeleri çeşitlendiren bir sos. Ete acı bir dokunuş katar.",
         "zh": "BBQ烧烤酱。一种酱汁通常有不同的风味。但是这种酱汁给肉增添了烟熏的味道。",
     }
 }

@@ -37,8 +37,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Чиппи карри",
+        "tr": "Chippy Küri",
         "zh": "炸鱼薯条店咖喱",
     },
     "DescriptionLocalization":
@@ -51,8 +51,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Кто знал, что лягушки так хороши в карри?",
+        "tr": "Kurbağaların küriyle çok iyi gittiğini kim bilebilirdi?",
         "zh": "谁知道青蛙在咖喱里这么好吃？",
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"

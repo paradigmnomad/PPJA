@@ -17,7 +17,7 @@
          // "ja": "",
          "pt": "Tabaco",
          "ru": "Табак",
-         // "tr": "",
+         "tr": "Tütün",
          "zh": "烟草",
     },
     "DescriptionLocalization":
@@ -31,7 +31,7 @@
          // "ja": "",
          "pt": "Uma planta que é cultivada para o fumo.",
          "ru": "Растение выращенное для курения.",
-         // "tr": "",
+         "tr": "Yakıldığında dumanı için yetiştirilen bir bitki.",
          "zh": "一种以吸烟为目的才被耕种的植物。",
     },
     "ContextTags": [

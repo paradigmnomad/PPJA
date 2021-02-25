@@ -54,8 +54,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Креветочный бульон",
+        "tr": "Karides Etsuyu",
         "zh": "虾肉高汤",
     },
     "DescriptionLocalization":
@@ -68,8 +68,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Бульон из тушеных креветок, который часто используется в качестве основы для супа.",
+        "tr": "Normalde çorba ana malzemesi olarak kullanılan bu etsuyu, burada güveç yapılmış.",
         "zh": "炖煮的虾仁汤，通常用作汤底。",
     }
 }

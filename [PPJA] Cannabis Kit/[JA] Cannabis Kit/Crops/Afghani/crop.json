@@ -28,9 +28,9 @@
         "hu": "Afghani ültetvény",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes Afegãs",
+        "pt": "Sementes Afegãs",
         // "ru": "",
-        // "tr": "",
+        "tr": "Afgan Yetiştirici",
         // "zh": "",
     },
     "SeedDescriptionLocalization":
@@ -42,9 +42,9 @@
         "hu": "Egy indica, mely egy nagyszerű relaxáló és eufórikus hatást kelt. Az íze édes, kicsit földes. Ezeket nyáron, vagy ősszel ültesd el. 13 napig tart megérniük, de utána tovább termelnek.",
         // "it": "",
         // "ja": "",
-         "pt": "Uma cepa indica que proporciona um profundo relaxamento e euforia com um aroma doce e terroso. Plante isso no verão ou no outono. Leva 13 dias para amadurecer, depois continua produzindo a cada 3 dias.",
+        "pt": "Uma cepa indica que proporciona um profundo relaxamento e euforia com um aroma doce e terroso. Plante isso no verão ou no outono. Leva 13 dias para amadurecer, depois continua produzindo a cada 3 dias.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tatlı, topraksı tadıyla derin bir rahatlama veren bir indika türü. Yazın veya güzde ekilir. 13 günde yetişir ve ilk hasattan sonra 3 günde bir hasat edilebilir.",
         // "zh": "",
     }
 }

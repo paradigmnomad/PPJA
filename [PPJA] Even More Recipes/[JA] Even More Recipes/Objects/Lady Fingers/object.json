@@ -48,7 +48,7 @@
         "ja": "レディフィンガービスケット",
         "pt": "Biscoito champanhe",
          // "ru": "",
-         // "tr": "",
+        "tr": "Kedi Dili",
         "zh": "手指饼干",
     },
     "DescriptionLocalization":
@@ -62,7 +62,7 @@
         "ja": "ありきたりな甘いクッキー。",
         "pt": "Um doce, biscoito que parece com pão.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tatlı ve kıtır bir kurabiye.",
         "zh": "一种甜甜的饼干。",
     }
 }

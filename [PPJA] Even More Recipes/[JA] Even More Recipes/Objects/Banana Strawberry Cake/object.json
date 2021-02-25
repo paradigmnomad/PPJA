@@ -40,32 +40,30 @@
         }],
         "CanPurchase": false,
     },
-    "NameLocalization":
-    {
-        "es": "Queque de banano con fresas",
-        "ko": "딸기 바나나 케이크",
-        "de": "Erdbeer-Bananen-Kuchen",
-        "fr": "Gâteau banane-fraise",
-        // "hu": "",
-        // "it": "",
-        "ja":"バナナストロベリーケーキ",
-        "pt": "Bolo de morango e banana",
-        // "ru": "",
-        // "tr": "",
-        "zh": "香蕉草莓蛋糕",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "¡Dulce y cubierto de fruta!",
-        "ko": "과일로 뒤덮혀 있는 달콤함!",
-        "de": "Süß und voll mit Früchten!",
-        "fr": "Sucré et couvert de fruits !",
-        // "hu": "",
-        // "it": "",
-       "ja": "甘くてくだものでおおわれている！",
-        "pt": "Doce e coberto de frutas!",
-        // "ru": "",
-        // "tr": "",
-        "zh": "很甜而且里面塞满了水果！",
-    }
+  "NameLocalization": {
+    "es": "Queque de banano con fresas",
+    "ko": "딸기 바나나 케이크",
+    "de": "Erdbeer-Bananen-Kuchen",
+    "fr": "Gâteau banane-fraise",
+    "hu": "Epres banános torta",
+    // "it": "",
+    "ja": "バナナストロベリーケーキ",
+    "pt": "Bolo de morango e banana",
+    // "ru": "",
+    "tr": "Muzlu ve Çilekli Pasta",
+    "zh": "香蕉草莓蛋糕"
+  },
+  "DescriptionLocalization": {
+    "es": "¡Dulce y cubierto de fruta!",
+    "ko": "과일로 뒤덮혀 있는 달콤함!",
+    "de": "Süß und voll mit Früchten!",
+    "fr": "Sucré et couvert de fruits!",
+    "hu": "Édes, és gyümölcsös!",
+    // "it": "",
+    "ja": "甘くてくだものでおおわれている！",
+    "pt": "Doce e coberto de frutas!",
+    // "ru": "",
+    "tr": "Tatlı ve meyveyle kaplı!",
+    "zh": "很甜而且里面塞满了水果！"
+  }
 }

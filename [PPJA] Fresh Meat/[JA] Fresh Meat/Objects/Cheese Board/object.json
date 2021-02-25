@@ -51,7 +51,7 @@
         "ja": "チーズの盛り合わせ",
         "pt": "Tábua de frios",
         "ru": "Сырная доска",
-        // "tr": "",
+        "tr": "Peynir Tahtası",
         "zh": "奶酪拼盘",
     },
     "DescriptionLocalization":
@@ -65,7 +65,7 @@
         "ja": "完璧なパーティーのための盛り合わせ。",
         "pt": "Um prato perfeito para festas!",
         "ru": "Идеальное блюдо для вечеринок!",
-        // "tr": "",
+        "tr": "Mükemmel bir kutlama tabağı!",
         "zh": "奶酪拼盘。一个完美的派对拼盘",
     }
 }

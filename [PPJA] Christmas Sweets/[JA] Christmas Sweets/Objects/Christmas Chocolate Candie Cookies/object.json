@@ -34,32 +34,30 @@
         "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
-    "NameLocalization":
-    {
-        // "es": "",
-        "ko": "크리스마스 초콜렛 캔디 쿠키",
-        "de": "Weihnachts-Pralinenplätzchen",
-        "fr": "Biscuits au chocolat de Noël",
-        "hu": "Karácsonyi csokis keksz",
-        // "it": "",
-        "ja": "クリスマスチョコキャンディクッキー",
-        "pt": "Biscoito Doce Natalino",
-        // "ru": "",
-        // "tr": "",
-        "zh": "圣诞巧克力糖果饼干",
-    },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "초콜렛이 들어간 쫄깃한 쿠키",
-        "de": "Sehr zähe Kekse mit Schokoladenstücken.",
-        "fr": "Biscuits très moelleux avec un peu de chocolat à l'intérieur.",
-        "hu": "Egy igazán rágós keksz csokidarabokkal a belsejében.",
-        // "it": "",
-        "ja": "チョコが入っている噛み応えのあるクッキー。",
-        "pt": "Biscoitos mastigáveis com pedacinhos de chocolate dentro.",
-        // "ru": "",
-        // "tr": "",
-        "zh": "很有嚼劲的饼干，内含巧克力。",
-    }
+  "NameLocalization": {
+    // "es": "",
+    "ko": "크리스마스 초콜렛 캔디 쿠키",
+    "de": "Weihnachts-Pralinenplätzchen",
+    "fr": "Biscuits au chocolat de Noël",
+    "hu": "Karácsonyi csokis keksz",
+    // "it": "",
+    "ja": "クリスマスチョコキャンディクッキー",
+    "pt": "Biscoito Doce Natalino",
+    // "ru": "",
+    "tr": "Çikolatalı Noel Kurabiyesi",
+    "zh": "圣诞巧克力糖果饼干"
+  },
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "초콜렛이 들어간 쫄깃한 쿠키",
+    "de": "Sehr zähe Kekse mit Schokoladenstücken.",
+    "fr": "Biscuits très moelleux avec un peu de chocolat à l'intérieur.",
+    "hu": "Egy igazán rágós keksz csokidarabokkal a belsejében.",
+    // "it": "",
+    "ja": "チョコが入っている噛み応えのあるクッキー。",
+    "pt": "Biscoitos mastigáveis com pedacinhos de chocolate dentro.",
+    // "ru": "",
+    "tr": "İçlerinde çikolata parçaları olan çok sert kurabiyeler.",
+    "zh": "很有嚼劲的饼干，内含巧克力。"
+  }
 }

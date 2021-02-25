@@ -1,7 +1,7 @@
 {
     "Name": "Peach Milk",
     "Description": "Milk, but it tastes like a fresh peach!",
-    "Category": "Cooking",
+    "Category": "ArtisanGoods",
     "Edibility": 40,
     "EdibleIsDrink": true,
     "EdibleBuffs": null,
@@ -29,7 +29,7 @@
         "ja": "ピーチミルク缶",
         "pt": "Leite de pêssego",
         // "ru": "",
-        // "tr": "",
+        "tr": "Şeftali Sütü",
         "zh": "桃味牛奶",
     },
     "DescriptionLocalization":
@@ -43,7 +43,7 @@
        "ja": "ミルクなのに、新鮮なモモの味がする！",
         "pt": "Leite, mas tem gosto de pêssego fresco!",
         // "ru": "",
-        // "tr": "",
+        "tr": "Süt, ama tadı şeftali gibi!",
         "zh": "它的味道尝起来像新鲜的桃子！",
     }
 }

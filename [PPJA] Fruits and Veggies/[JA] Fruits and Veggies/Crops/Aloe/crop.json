@@ -23,32 +23,30 @@
     "SeedPurchaseRequirements": [
         "y 2",
     ],
-    "SeedNameLocalization":
-    {
-        "es": "Vaina de aloe",
-        "ko": "알로에 씨앗",
-        "de": "Aloe-Saat",
-        "fr": "Graines d'Aloès",
-        "hu": "Aloe Vera hüvely",
-         // "it": "",
-        "ja": "アロエのさや",
-        "pt": "Sementes de babosa",
-        "ru": "Семена алоэ",
-         // "tr": "",
-        "zh": "芦荟果荚",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en verano. Tardan 4 días en madurar.",
-        "ko": "여름 작물. 성장하려면 4일이 소요됩니다.",
-        "de": "Pflanz sie im Sommer. Wächst in 4 Tagen heran.",
-        "fr": "À planter en été. Prend 4 jours pour arriver à maturité. ",
-        "hu": "Ezeket nyáron ültesd el. 4 napig tart megérniük.",
-         // "it": "",
-        "ja": "夏植えの作物。そだつのに4日かかる。",
-        "pt": "Plante-as no verão. Demora 4 dias para amadurecer.",
-        "ru": "Сажайте летом. Вырастает через 4 дня.",
-         // "tr": "",
-        "zh": "夏天播种。4天成熟。",
-    }
+  "SeedNameLocalization": {
+    "es": "Vaina de aloe",
+    "ko": "알로에 씨앗",
+    "de": "Aloe-Saat",
+    "fr": "Graines d'Aloès",
+    "hu": "Aloe Vera hüvely",
+    // "it": "",
+    "ja": "アロエのさや",
+    "pt": "Sementes de babosa",
+    "ru": "Семена алоэ",
+    "tr": "Aloe Vera Parçası",
+    "zh": "芦荟果荚"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en verano. Tardan 4 días en madurar.",
+    "ko": "여름 작물. 성장하려면 4일이 소요됩니다.",
+    "de": "Pflanz sie im Sommer. Wächst in 4 Tagen heran.",
+    "fr": "À planter en été. Prend 4 jours pour arriver à maturité. ",
+    "hu": "Ezeket nyáron ültesd el. 4 napig tart megérniük.",
+    // "it": "",
+    "ja": "夏植えの作物。そだつのに4日かかる。",
+    "pt": "Plante-as no verão. Demora 4 dias para amadurecer.",
+    "ru": "Сажайте летом. Вырастает через 4 дня.",
+    "tr": "Yazın ekilir. 4 günde yetişir.",
+    "zh": "夏天播种。4天成熟。"
+  }
 }

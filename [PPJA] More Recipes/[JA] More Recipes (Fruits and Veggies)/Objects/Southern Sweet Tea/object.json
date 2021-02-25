@@ -46,32 +46,30 @@
         "Dislike": ["Krobus", "Leah", "Willy"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Té dulce sureño",
-        "ko": "남부식 스위트 티",
-        "de": "Südstaaten-Eistee",
-        "fr": "Thé sucré du sud",
-         // "hu": "",
-         // "it": "",
-        "ja": "サザンスイートティー",
-        "pt": "Chá doce do sul",
-        "ru": "Южный сладкий чай",
-         // "tr": "",
-        "zh": "南方的甜茶",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "No seria una equivocación agregar azúcar a esta bebida de verano.",
-        "ko": "여름철, 이 음료에 설탕을 넣는건 잘못 된 게 아닙니다.",
-        "de": "Keine schlechte Idee, diesem Sommerzeitgetränk Zucker hinzuzufügen.",
-        "fr": "Vous ne pouvez pas vous tromper en ajoutant du sucre à cette boisson d'été.",
-         // "hu": "",
-         // "it": "",
-        "ja": "この夏にぴったりなお茶に砂糖を入れるのは問題ありません。",
-        "pt": "Não pode dar errado ao adicionar açúcar a esta bebida no horário de verão.",
-        "ru": "Вы не ошибетесь, добавив сахар в этот летний напиток.",
-         // "tr": "",
-        "zh": "南方的甜茶。在这个夏天的饮料中加入糖是不会错的。",
-    }
+  "NameLocalization": {
+    "es": "Té dulce sureño",
+    "ko": "남부식 스위트 티",
+    "de": "Südstaaten-Eistee",
+    "fr": "Thé sucré du sud",
+    // "hu": "",
+    // "it": "",
+    "ja": "サザンスイートティー",
+    "pt": "Chá doce do sul",
+    "ru": "Южный сладкий чай",
+    "tr": "Güneyli Tatlı Çay",
+    "zh": "南方的甜茶"
+  },
+  "DescriptionLocalization": {
+    "es": "No seria una equivocación agregar azúcar a esta bebida de verano.",
+    "ko": "여름철, 이 음료에 설탕을 넣는건 잘못 된 게 아닙니다.",
+    "de": "Keine schlechte Idee, diesem Sommerzeitgetränk Zucker hinzuzufügen.",
+    "fr": "Vous ne pouvez pas vous tromper en ajoutant du sucre à cette boisson d'été.",
+    // "hu": "",
+    // "it": "",
+    "ja": "この夏にぴったりなお茶に砂糖を入れるのは問題ありません。",
+    "pt": "Não pode dar errado ao adicionar açúcar a esta bebida no horário de verão.",
+    "ru": "Вы не ошибетесь, добавив сахар в этот летний напиток.",
+    "tr": "Bu yaz zamanı içeceğine şeker eklemekle kötü yapmazsın.",
+    "zh": "南方的甜茶。在这个夏天的饮料中加入糖是不会错的。"
+  }
 }

@@ -32,7 +32,7 @@
         "ja": "カフェモカ",
         "pt": "Café Mocha",
         "ru": "Мокко",
-         // "tr": "",
+        "tr": "Mocha",
         "zh": "摩卡咖啡",
     },
     "DescriptionLocalization":
@@ -46,7 +46,7 @@
         "ja": "チョコレートとコーヒーの幸せな結婚。",
         "pt": "O casamento feliz entre o chocolate e o café.",
         "ru": "Счастливый брак шоколада с кофе.",
-         // "tr": "",
+        "tr": "Çikolatanın kahveyle mutlu evliliği.",
         "zh": "巧克力与咖啡的美满婚姻。",
     }
 }

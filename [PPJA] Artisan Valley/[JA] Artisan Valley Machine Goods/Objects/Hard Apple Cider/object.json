@@ -40,21 +40,20 @@
         "ja": "ハードアップルサイダー",
         "pt": "Cidra Forte de Maçã",
         "ru": "Крепкий сидр",
-         // "tr": "",
+        "tr": "Sert Elma Şarabı",
         "zh": "浓苹果酒",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una bebida crujiente y seca fermentada a partir de manzanas. Beber con moderación.",
-        "ko": "사과를 발효시켜 만든 음료. 절제해서 드세요.",
-        "de": "Ein knackiges, trockenes Getränk, das aus Äpfeln vergoren wird. In Maßen trinken.",
-        "fr": "Une boisson fraîche et sèche fermentée à partir de pommes. À boire avec modération.",
-        "hu": "Egy száraz ital erjesztett almából. Fogyasszad mértékkel.",
-         // "it": "",
-        "ja": "リンゴを発酵させて作った炭酸酒。飲む時はほどほどに。",
-        "pt": "Uma bebida crocante e seca fermentada a partir de maçãs. Beba com moderação!",
-        "ru": "Бодрящий напиток, приготовленный из сбродивших ягод. Пейте в меру",
-         // "tr": "",
-        "zh": "一种由苹果发酵而成的新鲜、清爽的酒。适量饮用。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una bebida crujiente y seca fermentada a partir de manzanas. Beber con moderación.",
+    "ko": "사과를 발효시켜 만든 음료. 절제해서 드세요.",
+    "de": "Ein knackiges, trockenes Getränk, das aus Äpfeln vergoren wird. In Maßen trinken.",
+    "fr": "Une boisson fraîche et sèche fermentée à partir de pommes. À boire avec modération.",
+    "hu": "Egy száraz ital erjesztett almából. Fogyasszad mértékkel.",
+    // "it": "",
+    "ja": "リンゴを発酵させて作った炭酸酒。飲む時はほどほどに。",
+    "pt": "Uma bebida crocante e seca fermentada a partir de maçãs. Beba com moderação!",
+    "ru": "Бодрящий напиток, приготовленный из сбродивших ягод. Пейте в меру",
+    "tr": "Elmadan fermente edilen sert ve kuru bir içecek. Kararında içilmeli.",
+    "zh": "一种由苹果发酵而成的新鲜、清爽的酒。适量饮用。"
+  }
 }

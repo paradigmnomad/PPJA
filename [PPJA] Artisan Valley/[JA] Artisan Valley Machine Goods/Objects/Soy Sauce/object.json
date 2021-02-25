@@ -21,7 +21,7 @@
         "ja": "醤油",
         "pt": "Molho de Soja",
         "ru": "Соевый соус",
-         // "tr": "",
+        "tr": "Soya Sosu",
         "zh": "酱油",
     },
     "DescriptionLocalization":
@@ -35,7 +35,7 @@
         "ja": "伝統ある調味料。",
         "pt": "Um condimento tradicional.",
         "ru": "Традиционная приправа.",
-         // "tr": "",
+        "tr": "Geleneksel bir çeşni.",
         "zh": "传统的调味品。",
     }
 }

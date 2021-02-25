@@ -18,9 +18,8 @@
         "ExtraChance": 0.1,
     },
     "SeedPurchasePrice": 160,
-    "SeedPurchaseRequirements":
-    [        
-	"y 2"
+    "SeedPurchaseRequirements": [
+        "y 2"
     ],
     "SeedNameLocalization":
     {
@@ -31,10 +30,10 @@
         "hu": "Béka magvak",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes de Sapo",
-        // "ru": "",
-        // "tr": "",
-         "zh": "蛙肉种子",
+        "pt": "Sementes de Sapo",
+        "ru": "Семена мяса лягушки",
+        "tr": "Kurbağa Tohumu",
+        "zh": "蛙肉种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -46,8 +45,8 @@
         // "it": "",
         // "ja": "",
         "pt": "Plante isso no verão. Leva 7 dias para amadurecer.",
-        // "ru": "",
-        // "tr": "",
-         "zh": "夏天播种。7天成熟。",
+        "ru": "Сажайте их летом. Созревание занимает 7 дней.",
+        "tr": "Yazın ekilir. 7 günde yetişir.",
+        "zh": "夏天播种。7天成熟。"
     },
 }

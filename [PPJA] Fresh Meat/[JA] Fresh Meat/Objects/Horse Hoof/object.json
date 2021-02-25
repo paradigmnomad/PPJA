@@ -20,9 +20,9 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Casco de Cavalo",
         // "ru": "",
-        // "tr": "",
+        "tr": "At Toynaðý",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -34,9 +34,9 @@
         // "hu": "",
         // "it": "",
         // "ja": "",
-        // "pt": "",
+        "pt": "Um casco grande e redondo, de um cavalo.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Bir atýn büyük, yuvarlak bir toynaðý.",
         // "zh": "",
     },
     "EnableWithMod": "Cherry.MultiYieldCrops"

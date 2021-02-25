@@ -35,27 +35,27 @@
         "es": "Bollo de lila",
         "ko": "라일락 스콘",
         "de": "Flieder-Scones",
-        // "fr": "",
+        "fr": "Scones au lilas",
         "hu": "Orgonás pogácsa",
         // "it": "",
         "ja": "ライラックのスコーン",
         "pt": "Bolinhos de Lilás",
         "ru": "Булочка с сиренью",
-        // "tr": "",
-        "zh": "紫丁香烤饼",
+        "tr": "Leylak Çörekleri",
+        "zh": "紫丁香烤饼"
     },
     "DescriptionLocalization":
     {
         "es": "Ligeramente endulzado, estos van muy bien con una taza de té.",
         "ko": "부드러운 단맛이 나며, 차 한잔과 잘 어울립니다.",
         "de": "Leicht gesüßt schmecken sie gut zu einer Tasse Tee.",
-        // "fr": "",
+        "fr": "Légèrement sucrés, ils accompagnent à merveille le thé.",
         "hu": "Enyhén édes, ezért jól megy a teához.",
         // "it": "",
         "ja": "ほんのり甘くてお茶のお供にピッタリ。",
         "pt": "Levemente adoçados, estes vão muito bem com uma xícara de chá.",
         "ru": "Слегка подслащенная и прекрасно сочетается с чашкой чая.",
-        // "tr": "",
-        "zh": "微甜，配上一杯茶再好不过了。",
+        "tr": "Hafifçe tatlı, bir bardak çayla çok iyi gider.",
+        "zh": "微甜，配上一杯茶再好不过了。"
     }
 }

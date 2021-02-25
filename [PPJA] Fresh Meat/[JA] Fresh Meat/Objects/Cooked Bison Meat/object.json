@@ -38,9 +38,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "熟制野牛肉",
+        "ru": "Приготовленное мясо буйлова",
+        "tr": "Pişmiş Bizon Eti",
+        "zh": "熟制野牛肉",
     },
     "DescriptionLocalization":
     {
@@ -52,13 +52,13 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "从野牛身上取下的肉，已经煮熟，可以用于进一步烹调。",
+        "ru": "Мясо буйвола, уже приготовленное и готовое к использованию в рецептах.",
+        "tr": "Bir parça bizon eti,zaten pişmiş ve tariflerde kullanıma hazır.",
+        "zh": "从野牛身上取下的肉，已经煮熟，可以用于进一步烹调。",
     },
     "ContextTags": [
         "cooked_meat",
         "meat_item",
-    ],    
-    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
+    ],
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

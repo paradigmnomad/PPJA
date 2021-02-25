@@ -38,20 +38,20 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 5475,
-            },
+    },
 
     "NameLocalization":
     {
         "es": "Ron con cola",
         "ko": "럼 앤 콕",
         "de": "Rum und Cola",
-        // "fr": "",
+        "fr": "Rhum and Coke",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Rum e Cola",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Ром с колой",
+        "tr": "Rom ve Kola",
         "zh": "朗姆可乐",
     },
     "DescriptionLocalization":
@@ -59,13 +59,13 @@
         "es": "Un alimento básico en cada bar.",
         "ko": "모든 바에서 필수.",
         "de": "Ein Grundnahrungsmittel an jeder Bar.",
-        // "fr": "",
+        "fr": "Un indétrônable des bars.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "uma bebida básica em todo boteco.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Главный продукт в каждом баре.",
+        "tr": "Her barın olmazsa olmazı.",
         "zh": "朗姆可乐。每个酒吧的基础饮品。",
     }
 }

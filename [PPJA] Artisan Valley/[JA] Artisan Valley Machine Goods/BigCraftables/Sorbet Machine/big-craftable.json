@@ -11,16 +11,16 @@
         {
             "Object": 335,
             "Count": 5,
-        },  
-	{
+        },
+        {
             "Object": 336,
             "Count": 5,
-        },      
+        },
         {
             "Object": 709,
             "Count": 5,
         }, ],
-        "CanPurchase": false,
+        "IsDefault": true
     },
     "NameLocalization":
     {
@@ -31,10 +31,10 @@
         // "hu": "",
         // "it": "",
         "ja": "シャーベットマシン",
-         "pt": "Máquina de Sorbet",
+        "pt": "Máquina de Sorbet",
         // "ru": "",
-        // "tr": "",
-         "zh": "冰沙搅拌机",
+        "tr": "Şerbet Makinesi",
+        "zh": "冰沙搅拌机",
     },
     "DescriptionLocalization":
     {
@@ -45,9 +45,9 @@
         // "hu": "",
         // "it": "",
         "ja": "新鮮なくだものからおいしい手作りシャーベットをつくれる。",
-         "pt": "Faz deliciosos sorvetes artesanais de frutas frescas.",
+        "pt": "Faz deliciosos sorvetes artesanais de frutas frescas.",
         // "ru": "",
-        // "tr": "",
-         "zh": "用新鲜水果自制美味的雪葩。",
+        "tr": "Taze meyveden ev yapımı leziz şerbetler yapar.",
+        "zh": "用新鲜水果自制美味的雪葩。",
     }
 }

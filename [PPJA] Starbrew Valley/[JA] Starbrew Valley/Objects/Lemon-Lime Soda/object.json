@@ -29,20 +29,20 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 1400,
-            },
+    },
 
     "NameLocalization":
     {
         "es": "Soda de lima limón",
         "ko": "레몬 라임 소다",
         "de": "Zitronen-Limetten Soda",
-        // "fr": "",
+        "fr": "Soda citron-lime",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Refrigerante de limão lima",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Лимонно-лаймовая содовая",
+        "tr": "Limonlu ve Misket Limonlu Soda",
         "zh": "柠檬酸橙苏打水",
     },
     "DescriptionLocalization":
@@ -50,13 +50,13 @@
         "es": "Una bebida carbonatada con sabor cítrico.",
         "ko": "감귤 맛 탄산 음료.",
         "de": "Ein kohlensäurehaltiges Getränk mit Zitrusgeschmack",
-        // "fr": "",
+        "fr": "Un brevage pétillant aux agrumes.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Uma bebida de sabor cítrico e carbonado.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Газированный напиток со вкусом цитрусовых.",
+        "tr": "Ekşili ve karbonatlı bir içecek.",
         "zh": "柠檬酸橙苏打水。一种柠檬味的碳酸饮料。",
     }
 }

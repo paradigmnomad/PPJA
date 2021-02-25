@@ -38,7 +38,7 @@
         "ja": "東洋ダル",
         "pt": "Barril de Madeira Estrangeiro",
         "ru": "Иностранная бочка",
-        // "tr": "",
+        "tr": "Yabancı Fıçısı",
         "zh": "进口木桶",
     },
     "DescriptionLocalization":
@@ -52,7 +52,7 @@
         "ja": "外国のタル。大豆を発酵させることができる。",
         "pt": "Esse barril é de um produtor estrangeiro. Pode fermentar soja.",
         "ru": "Бочка зарубежного производства. В ней можно ферментировать соевые бобы.",
-        // "tr": "",
+        "tr": "Bu fıçı yabancı yapımı. Soya fasulyesini fermente edebilir.",
         "zh": "这个桶是外国制造的。它可以发酵黄豆。",
     }
 }

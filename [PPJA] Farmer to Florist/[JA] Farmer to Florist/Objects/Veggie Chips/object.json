@@ -11,27 +11,27 @@
         "es": "Frituras de verduras",
         "ko": "채소 칩",
         "de": "Gemüse-Chips",
-        // "fr": "",
+        "fr": "Chips de légumes",
         "hu": "Zöldségchips",
         // "it": "",
         "ja": "野菜チップス",
         "pt": "Fandangos de Vegetais",
         "ru": "Вегетарианские чипсы",
-        // "tr": "",
-        "zh": "蔬菜脆片",
+        "tr": "Sebze Cipsi",
+        "zh": "蔬菜脆片"
     },
     "DescriptionLocalization":
     {
         "es": "Una bolsa con trozos de vegetales fritos.",
         "ko": "말린 채소 칩으로 가득한 한 봉지.",
         "de": "Eine Tüte mit getrockneten Gemüsestücken.",
-        // "fr": "",
+        "fr": "Un sac de légumes séchés en chips.",
         "hu": "Egy zacskó szárított zöldségszirom.",
         // "it": "",
         "ja": "野菜のポテトチップス。袋入り。",
         "pt": "Um saco com pedaços de vegetais secos.",
         "ru": "Пачка сушеных кусочков овощей.",
-        // "tr": "",
-        "zh": "蔬菜脆片。一袋干蔬菜片。",
+        "tr": "Bir torba dolusu kurutulmuş sebze parçası.",
+        "zh": "蔬菜脆片。一袋干蔬菜片。"
     }
 }

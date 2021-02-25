@@ -23,32 +23,30 @@
         "y 4",
     ],
 
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de espárragos",
-        "ko": "아스파라거스 씨앗",
-        "de": "Spargel-Setzling",
-        "fr": "Graines d'asperge",
-        "hu": "Spárga magvak",
-         // "it": "",
-        "ja": "アスパラガスのタネ",
-        "pt": "Sementes de Aspargo",
-        "ru": "Семена спаржи",
-         // "tr": "",
-          "zh": "芦笋种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en verano. Tardan 5 días en madurar.",
-        "ko": "여름 작물. 성장하려면 5일이 소요됩니다.",
-        "de": "Planz sie im Sommer. Wächst in 5 Tagen heran.",
-        "fr": "À planter en été. Prend 5 jours pour arriver à maturité.",
-        "hu": "Ezeket nyáron ültesd el. 5 napig tart megérniük.",
-         // "it": "",
-        "ja": "夏植えの作物。そだつのに5日かかる。",
-        "pt": "Plante-as no verão. Leva 5 dias para amadurecer.",
-        "ru": "Сажайте летом. Вырастает через 5 дней.",
-         // "tr": "",
-          "zh": "夏天播种，5天成熟",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de espárragos",
+    "ko": "아스파라거스 씨앗",
+    "de": "Spargel-Setzling",
+    "fr": "Graines d'asperge",
+    "hu": "Spárga magvak",
+    // "it": "",
+    "ja": "アスパラガスのタネ",
+    "pt": "Sementes de Aspargo",
+    "ru": "Семена спаржи",
+    "tr": "Kuşkonmaz Tohumu",
+    "zh": "芦笋种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en verano. Tardan 5 días en madurar.",
+    "ko": "여름 작물. 성장하려면 5일이 소요됩니다.",
+    "de": "Planz sie im Sommer. Wächst in 5 Tagen heran.",
+    "fr": "À planter en été. Prend 5 jours pour arriver à maturité.",
+    "hu": "Ezeket nyáron ültesd el. 5 napig tart megérniük.",
+    // "it": "",
+    "ja": "夏植えの作物。そだつのに5日かかる。",
+    "pt": "Plante-as no verão. Leva 5 dias para amadurecer.",
+    "ru": "Сажайте летом. Вырастает через 5 дней.",
+    "tr": "Yazın ekilir. 5 günde yetişir.",
+    "zh": "夏天播种，5天成熟"
+  }
 }

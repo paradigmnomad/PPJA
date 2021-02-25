@@ -20,7 +20,7 @@
         "ja": "和ナシ",
         "pt": "Pêra asiática",
         "ru": "Восточная груша",
-        // "tr": "",
+        "tr": "Asya Armudu",
         "zh": "亚洲梨",
     },
     "DescriptionLocalization":
@@ -34,7 +34,7 @@
         "ja": "洋ナシとは混同しないように。",
         "pt": "Não confunda com a pera normal.",
         "ru": "Не путать с обычной грушей.",
-        // "tr": "",
+        "tr": "Normal armutla karışmasın.",
         "zh": "不要跟普通的梨混淆。其实就是沙梨，外表呈褐色。",
     },
     "ContextTags": [

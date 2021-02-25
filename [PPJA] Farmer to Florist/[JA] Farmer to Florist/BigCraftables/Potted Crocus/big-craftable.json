@@ -9,44 +9,44 @@
         "Ingredients": [
         {
             "Object": 418,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 388,
-            "Count": 10,
+            "Count": 10
         },
         {
             "Object": 330,
-            "Count": 10,
-        }, ],
-        "CanPurchase": false,
+            "Count": 10
+        }],
+        "CanPurchase": false
     },
     "NameLocalization":
     {
         "es": "Azafrán en maceta",
         "ko": "실내 화초 크로커스",
         "de": "Eingemachter Krokus",
-        //"fr": "",
+        "fr": "Crocus en pot",
         "hu": "Cserepes Sáfrány",
-        //"it": "",
+        // "it": "",
         "ja": "クロッカスの鉢植え",
         "pt": "Vaso de Açafrão",
         "ru": "Крокус в горшке",
-        //"tr": "",
-        "zh": "番红花盆栽",
+        "tr": "Saksıda Çiğdem",
+        "zh": "番红花盆栽"
     },
     "DescriptionLocalization":
     {
         "es": "Un azafrán en una pequeña maceta de madera. ¡Recuerda regarlo!",
         "ko": "작은 나무 화분에 심겨진 크로커스 입니다. 물 주는거 잊지마세요!",
         "de": "Ein Krokus in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-        //"fr": "",
+        "fr": "Un crocus dans un pot de bois. N'oublie pas de l'arroser!",
         "hu": "Egy sáfrány cserépben. Ne felejtsd el megöntözni!",
-        //"it": "",
+        // "it": "",
         "ja": "クロッカスが植えられた木製の小さな鉢。水やりを忘れずに。",
         "pt": "Um açafrão em um pequeno vaso de madeira. Lembre-se sempre de rega-lo!",
         "ru": "Крокус в маленьком деревянном горшочке. Не забывайте поливать!",
-        //"tr": "",
-        "zh": "一个小木盆里的番红花。记得给它浇水！",
+        "tr": "Küçük tahta bir saksıda bir çiğdem. Sulamayı unutma!",
+        "zh": "一个小木盆里的番红花。记得给它浇水！"
     }
 }

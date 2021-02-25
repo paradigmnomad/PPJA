@@ -38,28 +38,28 @@
     {
         "es": "Campari",
         "ko": "캄파리",
-        //"de": "",
+        // "de": "",
         "fr": "Campari",
         "hu": "Campari",
         // "it": "",
         "ja": "カンパリ",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Campari",
         "zh": "金巴利利口酒",
     },
     "DescriptionLocalization":
     {
         "es": "Un aperitivo hecho de naranja amarga",
         "ko": "광귤로 만든 식전주.",
-        //"de": "",
+        // "de": "",
         "fr": "Un apéritif fait avec de l'orange amère.",
         "hu": "Keserű narancsból készült aperitif.",
         // "it": "",
         "ja": "ビター・オレンジから作られた食前酒。",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Acı portakaldan yapılan bir aperatif.",
         "zh": "用苦橙制成的开胃酒。",
     }
 

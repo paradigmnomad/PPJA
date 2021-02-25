@@ -43,7 +43,7 @@
         "ja": "牛肉のリブ",
         "pt": "Costelas de carne",
         "ru": "Говяжьи ребрышки",
-        // "tr": "",
+        "tr": "Sığır Kaburga",
         "zh": "碳烤牛肋骨",
     },
     "DescriptionLocalization":
@@ -57,7 +57,7 @@
         "ja": "炭火焼き。肉から簡単にはがせる。",
         "pt": "Tão macias que se desprendem do osso!",
         "ru": "Жареные на гриле говяжьи ребрышки.",
-        // "tr": "",
+        "tr": "Hemencecik kemikten düşüveriyor!",
         "zh": "碳烤牛肋骨。它们是从牛的骨头上分离下来的！",
     }
 }

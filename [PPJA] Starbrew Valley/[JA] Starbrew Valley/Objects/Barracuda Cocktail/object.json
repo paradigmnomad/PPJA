@@ -46,7 +46,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 6070,
-        "PurchaseRequirements": ["y 2", "n willyHours",],
+        "PurchaseRequirements": ["y 2", "n willyHours", ],
     },
 
     "NameLocalization":
@@ -54,13 +54,13 @@
         "es": "Cóctel Barracuda",
         "ko": "바라쿠다 칵테일",
         "de": "Barracuda-Cocktail",
-        // "fr": "",
+        "fr": "Barracuda",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Coquetel Barracuda",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Коктейль 'Баракуда'",
+        "tr": "Barakuda Kokteyli",
         "zh": "梭子鱼鸡尾酒",
     },
     "DescriptionLocalization":
@@ -68,13 +68,13 @@
         "es": "No, esto no es una bebida a pescado.",
         "ko": "비린 음료가 아니에요.",
         "de": "Nein, das ist kein Fischhaltiges Getränk",
-        // "fr": "",
+        "fr": "Non, ça ne goûte pas le poisson.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Não, não é uma bebida de peixe.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Нет, это не рыбный напиток.",
+        "tr": "Hayır, bu balıklı bir içecek değil.",
         "zh": "梭子鱼。不，这不是一种鱼腥味的饮料。",
     }
 }

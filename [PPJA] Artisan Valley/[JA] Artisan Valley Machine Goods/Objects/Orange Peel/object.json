@@ -16,28 +16,28 @@
     {
         "es": "cáscara de naranja",
         "ko": "오렌지 껍질",
-        //"de": "",
+        // "de": "",
         "fr": "Pelure d'orange",
         "hu": "Narancshéj",
         // "it": "",
         "ja": "オレンジピール",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Portakal kabuğu",
         "zh": "橙皮",
     },
     "DescriptionLocalization":
     {
         "es": "La guarnición picante perfecta",
         "ko": "아주 향기로운 껍질.",
-        //"de": "",
+        // "de": "",
         "fr": "La garniture acidulée parfaite.",
         // "hu": "",
         // "it": "",
         "ja": "完璧なかんきつの風味の付け合わせ。",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Mükemmel leziz garnitür.",
         "zh": "一件完美的装饰品。",
     }
 

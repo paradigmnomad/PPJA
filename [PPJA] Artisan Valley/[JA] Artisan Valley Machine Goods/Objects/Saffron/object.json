@@ -23,21 +23,20 @@
         "ja": "サフラン",
         "pt": "Açafrão",
         "ru": "Шафран",
-         // "tr": "",
+        "tr": "Safran",
         "zh": "藏红花",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una especia rara y valiosa con un color amarillo distintivo.",
-        "ko": "노란색을 띄는 희귀하고 값진 향신료.",
-        "de": "Ein seltenes und wertvolles Gewürz mit einer unverwechselbar gelben Farbe.",
-        "fr": "Une épice rare et chère avec une couleur distinctive jaune.",
-        "hu": "Egy ritka és értékes fűszer, melynek erős sárga színe van.",
-         // "it": "",
-        "ja": "独特な黄色が珍しい貴重なスパイス。",
-        "pt": "Um tempero raro e valioso com uma cor amarela característica.",
-        "ru": "Редкая и ценная специя с ярко выраженным желтым цветом.",
-         // "tr": "",
-        "zh": "一种稀有而珍贵的香料，带点黄色。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una especia rara y valiosa con un color amarillo distintivo.",
+    "ko": "노란색을 띄는 희귀하고 값진 향신료.",
+    "de": "Ein seltenes und wertvolles Gewürz mit einer unverwechselbar gelben Farbe.",
+    "fr": "Une épice rare et chère avec une couleur distinctive jaune.",
+    "hu": "Egy ritka és értékes fűszer, melynek erős sárga színe van.",
+    // "it": "",
+    "ja": "独特な黄色が珍しい貴重なスパイス。",
+    "pt": "Um tempero raro e valioso com uma cor amarela característica.",
+    "ru": "Редкая и ценная специя с ярко выраженным желтым цветом.",
+    "tr": "Ayırt edici sarı bir rengi olan ender ve pahalı bir baharat.",
+    "zh": "一种稀有而珍贵的香料，带点黄色。"
+  }
 }

@@ -34,7 +34,7 @@
         "ja": "酢造ダル",
         "pt": "Barril de Vinagre",
         "ru": "Уксусная бочка",
-        // "tr": "",
+        "tr": "Sirke Fıçısı",
         "zh": "醋桶",
     },
     "DescriptionLocalization":
@@ -48,7 +48,7 @@
         "ja": "ブドウやリンゴや米を酢に変えるために設計されたタル。",
         "pt": "Um barril para fazer vinagre com uvas, maçãs ou arroz não moído.",
         "ru": "Бочка, предназначенная для превращения винограда, яблока и не измельченного риса в уксус.",
-        // "tr": "",
+        "tr": "Öğütülmemiş pirinci, üzümü ve elmayı sirkeye çevirmesi için tasarlanan bir fıçı.",
         "zh": "往桶里倒入葡萄、苹果和未碾碎的大米以酿醋。",
     }
 }

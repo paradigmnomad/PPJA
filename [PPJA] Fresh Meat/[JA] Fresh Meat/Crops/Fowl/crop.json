@@ -27,10 +27,10 @@
         "hu": "Vadmadár magvak",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes de Ave",
-        // "ru": "",
-        // "tr": "",
-         "zh": "飞禽肉种子",
+        "pt": "Sementes de Ave",
+        "ru": "Семена мяса дичи",
+        "tr": "Kümes Hayvanı Tohumu",
+        "zh": "飞禽肉种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -41,9 +41,9 @@
         "hu": "Ezeket tavasszal, vagy nyáron ültesse el. 8 napig tart megérniük.",
         // "it": "",
         // "ja": "",
-         "pt": "Plante isso na primavera. Leva 9 dias para amadurecer.",
-        // "ru": "",
-        // "tr": "",
-         "zh": "春天播种。9天成熟。",
+        "pt": "Plante isso na primavera. Leva 9 dias para amadurecer.",
+        "ru": "Сажайте их весной. Созревание занимает 9 дней.",
+        "tr": "Baharda ekilir. 9 günde yetişir.",
+        "zh": "春天播种。9天成熟。"
     },
 }

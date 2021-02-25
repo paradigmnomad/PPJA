@@ -40,21 +40,20 @@
         "ja": "ベルモット",
         "pt": "Vermute",
         "ru": "Вермут",
-         // "tr": "",
+        "tr": "Vermut",
         "zh": "味美思酒",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Vino fortificado. Beber con moderación.",
-        "ko": "강화와인. 절제해서 드세요.",
-        "de": "Mit Spirituosen angereicherter Wein. Genieße Ihn in Maßen.",
-        "fr": "Vin fortifié par des spiritueux. À boire avec modération.",
-        "hu": "Különböző szeszes italokkal dúsított bor. Fogyasszad mértékkel!",
-         // "it": "",
-        "ja": "ワインを蒸留して更に濃度を高めたもの。飲む時はほどほどに。",
-        "pt": "Vinho forte. Beba com moderação!",
-        "ru": "Вино, обогащенное спиртом. Пейте в меру.",
-         // "tr": "",
-        "zh": "振奋精神的葡萄酒。适量饮酒。",
-    }
+  "DescriptionLocalization": {
+    "es": "Vino fortificado. Beber con moderación.",
+    "ko": "강화와인. 절제해서 드세요.",
+    "de": "Mit Spirituosen angereicherter Wein. Genieße Ihn in Maßen.",
+    "fr": "Vin fortifié par des spiritueux. À boire avec modération.",
+    "hu": "Különböző szeszes italokkal dúsított bor. Fogyasszad mértékkel!",
+    // "it": "",
+    "ja": "ワインを蒸留して更に濃度を高めたもの。飲む時はほどほどに。",
+    "pt": "Vinho forte. Beba com moderação!",
+    "ru": "Вино, обогащенное спиртом. Пейте в меру.",
+    "tr": "Alkol ilave edilmiş şarap. Kararında içilmeli.",
+    "zh": "振奋精神的葡萄酒。适量饮酒。"
+  }
 }

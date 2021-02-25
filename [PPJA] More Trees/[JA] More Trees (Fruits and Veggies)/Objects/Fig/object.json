@@ -22,7 +22,7 @@
         "ja": "イチジク",
         "pt": "Figo",
         "ru": "Инжир",
-         // "tr": "",
+        "tr": "İncir",
         "zh": "无花果",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "小さくて甘い果物。柔らかくておいしい。",
         "pt": "Uma fruta pequena e doce. É macia e deliciosa.",
         "ru": "Маленький и сладкий фрукт. Мягкий и вкусный.",
-         // "tr": "",
+        "tr": "Küçük ve tatlı bir meyve. Yumuşak ve lezzetli.",
         "zh": "一种小而甜的水果。它又软又美味。",
     },
     "ContextTags": [

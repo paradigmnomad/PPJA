@@ -45,7 +45,7 @@
         "ja": "フライドバナナ",
         "pt": "Bananas doces fritas",
          // "ru": "",
-         // "tr": "",
+        "tr": "Kızarmış Tatlı Muzlar",
         "zh": "煎甜香蕉",
     },
     "DescriptionLocalization":
@@ -59,7 +59,7 @@
         "ja": "バターで炒めて砂糖をまぶしたバナナ。",
         "pt": "Bananas açucaradas, refogadas em manteiga.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Tereyağına doymuş şekerli muzlar.",
         "zh": "加了糖的香蕉，用黄油煎。",
     }
 }

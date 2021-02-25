@@ -22,32 +22,30 @@
         "ExtraChance": 0.0,
     },
     "SeedPurchasePrice": 20,
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de lavanda",
-        "ko": "허브 라벤더 씨앗",
-        "de": "Lavendel-Saat",
-        "fr": "Graines de Lavande",
-        "hu": "Orvosi Levendula magvak",
-         // "it": "",
-        "ja": "ラベンダーの種",
-        "pt": "Sementes de lavanda",
-        "ru": "Семена травяной лаванды",
-         // "tr": "",
-        "zh": "草本薰衣草种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en verano. Toma 6 días para producir una flor morada suave.",
-        "ko": "여름에 심으세요. 6일 후 연보라색 꽃이 핍니다.",
-        "de": "Pflanze sie im Sommer. Wächst in 6 Tagen zu einer zartlilanen Blume heran.",
-        "fr": "À planter en été. Prend 6 jours pour produire une fleur mauve douce.",
-        "hu": "Ezeket nyáron ültesd el. 6 nap alatt hoz egy lágy, lila virágot.",
-         // "it": "",
-        "ja": "夏植えの花。6日かけて淡い紫色の花を咲かせる。",
-        "pt": "Plante-as no verão. Demoram 6 dias para produzirem um flor suavemente roxa.",
-        "ru": "Сажайте летом. Через 6 дней вырастает мягкий фиолетовый цветок.",
-         // "tr": "",
-        "zh": "夏天播种。6天后产出柔软的紫色的花。",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de lavanda",
+    "ko": "허브 라벤더 씨앗",
+    "de": "Lavendel-Saat",
+    "fr": "Graines de Lavande",
+    "hu": "Orvosi Levendula magvak",
+    // "it": "",
+    "ja": "ラベンダーの種",
+    "pt": "Sementes de lavanda",
+    "ru": "Семена травяной лаванды",
+    "tr": "Bitkisel Lavanta Tohumu",
+    "zh": "草本薰衣草种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en verano. Toma 6 días para producir una flor morada suave.",
+    "ko": "여름에 심으세요. 6일 후 연보라색 꽃이 핍니다.",
+    "de": "Pflanze sie im Sommer. Wächst in 6 Tagen zu einer zartlilanen Blume heran.",
+    "fr": "Plantez en été. Prend 6 jours pour produire une fleur mauve douce.",
+    "hu": "Ezeket nyáron ültesd el. 6 nap alatt hoz egy lágy, lila virágot.",
+    // "it": "",
+    "ja": "夏植えの花。6日かけて淡い紫色の花を咲かせる。",
+    "pt": "Plante-as no verão. Demoram 6 dias para produzirem um flor suavemente roxa.",
+    "ru": "Сажайте летом. Через 6 дней вырастает мягкий фиолетовый цветок.",
+    "tr": "Yazın ekilir. Yumuşak mor bir çiçeğe dönüşmesi 6 gün sürer.",
+    "zh": "夏天播种。6天后产出柔软的紫色的花。"
+  }
 }

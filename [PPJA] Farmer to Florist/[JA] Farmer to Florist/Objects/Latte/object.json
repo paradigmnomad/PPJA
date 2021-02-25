@@ -40,27 +40,27 @@
         "es": "Latte",
         "ko": "라떼",
         "de": "Latte Macchiato",
-        // "fr": "",
+        "fr": "Latté",
         "hu": "Latte Macchiato",
         // "it": "",
         "ja": "ラテ",
         "pt": "Leite com Café",
         "ru": "Латте",
-        // "tr": "",
-        "zh": "拿铁咖啡",
+        "tr": "Latte",
+        "zh": "拿铁咖啡"
     },
     "DescriptionLocalization":
     {
         "es": "Es un trago de espresso y una pinta de leche, batida en un licor espumoso.",
         "ko": "에스프레소에 거품을 일으킨 뜨거운 우유를 섞어 만든 것.",
         "de": "Es ist ein Schuss Espresso und ein halbe Liter Milch, die zu einem schaumigen Gebräu aufgeschlagen werden.",
-        // "fr": "",
+        "fr": "Une touche d'espresso dans du lait, fouetté jusqu'à ce qu'il devienne onctueux.",
         "hu": "Forró eszpresszó, egy pintnyi tejjel, melyet habosra főztek.",
         // "it": "",
         "ja": "エスプレッソに牛乳を加え、泡立てたミルクを乗せれば完成。",
         "pt": "É uma dose de expresso e um litro de leite, misturado em uma mistura espumante.",
         "ru": "Это эспрессо с пинтой молока, взбитое в пенистую смесь.",
-        // "tr": "",
-        "zh": "拿铁咖啡。由咖啡和牛奶搅拌制成。",
+        "tr": "Espresso ile biraz süt, köpüklü bir içecek olmuş.",
+        "zh": "拿铁咖啡。由咖啡和牛奶搅拌制成。"
     }
 }

@@ -38,7 +38,7 @@
         "ja": "グラインダー",
         "pt": "Moedor",
         "ru": "Измельчитель",
-        // "tr": "",
+        "tr": "Öğütücü",
         "zh": "研磨机",
     },
     "DescriptionLocalization":
@@ -52,7 +52,7 @@
         "ja": "米を磨いたり、作物を貴重なスパイスにひいたりする。",
         "pt": "Use para moer produtos em bens valiosos ou temperos.",
         "ru": "Используйте его для измельчения продуктов в ценные товары и специи.",
-        // "tr": "",
+        "tr": "Değerli baharat ve güzel şeyler elde etmek için bunu ürün öğütmekte kullan.",
         "zh": "用它把农产品磨成贵重的商品和香料。",
     }
 }

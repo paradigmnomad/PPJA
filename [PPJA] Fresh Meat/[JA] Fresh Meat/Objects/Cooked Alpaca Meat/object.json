@@ -38,9 +38,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "熟制羊驼肉",
+        "ru": "Приготовленное мясо альпаки",
+        "tr": "Pişmiş Alpaka Eti",
+        "zh": "熟制羊驼肉",
     },
     "DescriptionLocalization":
     {
@@ -52,13 +52,13 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "从羊驼身上取下的肉排，已煮熟，可用于进一步烹调。",
+        "ru": "Стейк из альпаки, уже приготовленный и готовый к использованию в рецептах.",
+        "tr": "Alpaka bifteği, zaten pişmiş ve tariflerde kullanıma hazır.",
+        "zh": "从羊驼身上取下的肉排，已煮熟，可用于进一步烹调。",
     },
     "ContextTags": [
         "cooked_meat",
         "meat_item",
-    ],    
+    ],
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -27,7 +27,7 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 2000,
-    "PurchaseRequirements": [ "f Wizard 1500"],
+    "PurchaseRequirements": ["f Wizard 1500"],
     "NameLocalization":
     {
         "es": "Carne cocinada de dragón",
@@ -38,9 +38,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "熟制龙肉",
+        "ru": "Приготовленное мясо дракона",
+        "tr": "Pişmiş Ejderha Eti",
+        "zh": "熟制龙肉",
     },
     "DescriptionLocalization":
     {
@@ -52,13 +52,13 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "一种绿龙的肉排，已经烹调好，可以在食谱中使用。",
+        "ru": "Зеленоватый драконий стейк, уже приготовленный и готовый к использованию в рецептах",
+        "tr": "Yeşilimsi bir ejderha bifteği, zaten pişmiş ve tariflerde kullanıma hazır.",
+        "zh": "一种绿龙的肉排，已经烹调好，可以在食谱中使用。",
     },
     "ContextTags": [
         "cooked_meat",
         "meat_item",
-    ],    
-    "DisableWithMod": "HadiZosa.BFAVnewmeat" 
+    ],
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -10,7 +10,7 @@
         "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
         "Hate": ["Sebastian"],
     },
-    "Recipe": null,    
+    "Recipe": null,
     "NameLocalization":
     {
         "es": "Pavo",
@@ -21,9 +21,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "火鸡",
+        "ru": "Индейка",
+        "tr": "Hindi",
+        "zh": "火鸡",
     },
     "DescriptionLocalization":
     {
@@ -35,9 +35,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "一整只火鸡，随时可以填入馅料烘烤。",
-    },    
+        "ru": "Целая индейка, готовая к фаршированию и жарке.",
+        "tr": "Bütün bir hindi, doldurulmaya ve kızartılmaya hazır.",
+        "zh": "一整只火鸡，随时可以填入馅料烘烤。"
+    },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

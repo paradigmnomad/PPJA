@@ -24,8 +24,8 @@
         "ja": "ウツボカズラ",
         "pt": "Planta de Jarro",
         "ru": "Кувшиночник",
-        // "tr": "",
-        "zh": "猪笼草",
+        "tr": "Etobur Bitki",
+        "zh": "猪笼草"
     },
     "DescriptionLocalization":
     {
@@ -38,7 +38,7 @@
         "ja": "昆虫を捕らえるための鐘型の袋を持つ、沼地に生息する植物。",
         "pt": "Uma planta típica de pântanos em formato de sino que se alimenta de insetos.",
         "ru": "Болотное растение с колоколообразным цветком, ловящим насекомых. ",
-        // "tr": "",
-        "zh": "一种生长在沼泽中的植物，因外形像猪笼而得名，能捕捉昆虫。",
+        "tr": "Böcekleri hapseden zil şeklindeki bir bataklık bitkisi.",
+        "zh": "一种生长在沼泽中的植物，因外形像猪笼而得名，能捕捉昆虫。"
     }
 }

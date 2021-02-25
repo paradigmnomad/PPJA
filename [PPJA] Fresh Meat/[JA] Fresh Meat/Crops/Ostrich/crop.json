@@ -20,7 +20,7 @@
     "SeedPurchasePrice": 450,
     "SeedPurchaseRequirements": [
         "y 3",
-        "HasCookingRecipe Ostrich-Incubator"
+        "HasCraftingRecipe Ostrich-Incubator"
     ],
     "SeedNameLocalization":
     {
@@ -32,8 +32,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Семена мяса страуса",
+        "tr": "Devekuþu Tohumu",
         // "zh": "",
     },
     "SeedDescriptionLocalization":
@@ -46,8 +46,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Сажайте их летом. Созревание занимает 13 дней",
+        "tr": "Yazýn ekilir. 13 günde yetiþir.",
         // "zh": "",
     },
 }

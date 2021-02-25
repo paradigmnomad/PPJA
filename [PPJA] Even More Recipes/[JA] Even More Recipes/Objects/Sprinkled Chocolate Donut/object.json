@@ -54,7 +54,7 @@
         "ja": "スプリンクルチョコドーナツ",
         "pt": "Donut de chocolate com granulado",
          // "ru": "",
-         // "tr": "",
+        "tr": "Üstü Şekerlemeli Çikolatalı Donut",
         "zh": "砂糖巧克力甜甜圈",
     },
     "DescriptionLocalization":
@@ -68,7 +68,7 @@
         "ja": "楽しげなチョコドーナツ。",
         "pt": "Uma rosquinha engraçada de chocolate.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Eğlenceli ve çikolatalı bir donut.",
         "zh": "一个油巧克力涂层的好吃的甜甜圈。",
     }
 }

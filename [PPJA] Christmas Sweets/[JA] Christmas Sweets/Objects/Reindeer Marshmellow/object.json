@@ -42,21 +42,20 @@
         "ja": "トナカイマシュマロ",
         "pt": "Marshmallow de Rena",
         // "ru": "",
-        // "tr": "",
+        "tr": "Ren Geyiği Marşmelov",
         "zh": "圣诞鹿角饼",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "초코를 입힌 마시멜로에 프레첼 뿔이 났습니다. 귀여워서 어떻게 먹죠?",
-        "de": "Ein in Schokolade getauchter Marshmellow mit Brezelgeweih. Es ist ein süßer Genuss!",
-        "fr": "De la guimauve trempée dans du chocolat avec des bâtons de bretzel. C'est une douce friandise !",
-        "hu": "Egy csokiba mártott mályvacukor perecből készített agancsokkal. Egy igazán aranyos édesség!",
-        // "it": "",
-        "ja": "プレッツェルの角を付けてチョコに浸したマシュマロ。かわいいお菓子ですね！",
-        "pt": "Um marshmellow banhado em chocolate com chifres de pretzel. É um deliciosa mistura!",
-        // "ru": "",
-        // "tr": "",
-        "zh": "圣诞鹿角形状的饼干，用蝴蝶圈饼和蘸满热巧克力的棉花糖加工而成，可爱极了！",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "초코를 입힌 마시멜로에 프레첼 뿔이 났습니다. 귀여워서 어떻게 먹죠?",
+    "de": "Ein in Schokolade getauchter Marshmellow mit Brezelgeweih. Es ist ein süßer Genuss!",
+    "fr": "De la guimauve trempée dans du chocolat avec des bâtons de bretzel. C'est une douce friandise !",
+    "hu": "Egy csokiba mártott mályvacukor perecből készített agancsokkal. Egy igazán aranyos édesség!",
+    // "it": "",
+    "ja": "プレッツェルの角を付けてチョコに浸したマシュマロ。かわいいお菓子ですね！",
+    "pt": "Um marshmellow banhado em chocolate com chifres de pretzel. É um deliciosa mistura!",
+    // "ru": "",
+    "tr": "Çikolataya batırılıp üstüne brezelden boynuz konulmuş bir marşmelov. Sevimli bir atıştırmalık!",
+    "zh": "圣诞鹿角形状的饼干，用蝴蝶圈饼和蘸满热巧克力的棉花糖加工而成，可爱极了！"
+  }
 }

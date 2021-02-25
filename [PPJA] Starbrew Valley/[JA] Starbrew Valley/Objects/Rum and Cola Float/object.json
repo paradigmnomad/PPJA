@@ -42,20 +42,20 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 5595,
-            },
+    },
 
     "NameLocalization":
     {
         "es": "Flotador de ron con cola",
         "ko": "럼 앤 콕 플로트",
         "de": "Rum mit Cola 2",
-        // "fr": "",
+        "fr": "Flotteur",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Rum e cola flutuante",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Ром с колой и мороженым",
+        "tr": "Rom ve Kola 2",
         "zh": "泡沫朗姆可乐",
     },
     "DescriptionLocalization":
@@ -63,13 +63,13 @@
         "es": "Es como ron y cola, pero con helado encima.",
         "ko": "럼 앤 콕 같지만, 위에 아이스크림이 얹혀져 있어요.",
         "de": "Es ist wie mit Rum und Cola, aber mit Eis oben drauf.",
-        // "fr": "",
+        "fr": "un rhum and coke, mais avec de la crème glacée.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "É como rum e cola, mas com gelo em cima.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Это как ром с колой, но с мороженым сверху.",
+        "tr": "Rom ve kola gibi ama üstünde dondurma var.",
         "zh": "泡沫朗姆可乐。它很像朗姆可乐，但顶部有雪糕。",
     }
 }

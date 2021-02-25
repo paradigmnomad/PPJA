@@ -22,7 +22,7 @@
         "ja": "ヨーグルト",
         "pt": "Iogurte",
         "ru": "Йогурт",
-        // "tr": "",
+        "tr": "Yoğurt",
         "zh": "酸奶",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "牛乳から作られたヨーグルト。プレーンで、少し甘い味がする。",
         "pt": "Iogurte feito com leite de vaca. É simples, com um sabor ligeiramente doce.",
         "ru": "Йогурт из коровьего молока. Простой и сладковатый на вкус.",
-        // "tr": "",
+        "tr": "İnek sütünden yapılma yoğurt. Sade ve tatlı.",
         "zh": "酸奶是由牛奶制成的。它很简单，略带甜味。",
     }
 }

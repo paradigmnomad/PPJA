@@ -40,21 +40,20 @@
         "ja": "バーボン",
         "pt": "Bourbon",
         "ru": "Бурбон",
-         // "tr": "",
+        "tr": "Burbon",
         "zh": "波本威士忌",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Un destilado de maíz envejecido en barriles. Beber con moderación.",
-        "ko": "옥수수를 증류한 후 숙성시켜 만든 술. 절제해서 드세요.",
-        "de": "Ein Schnaps aus Mais und in Fässern gereift. Genieße ihn in Maßen.",
-        "fr": "Un spiritueux fait de maïs et vieilli en fût. À boire avec modération.",
-        "hu": "Kukoricából készült, hordóban érlelt szeszes ital. Fogyasszad mértékkel!",
-         // "it": "",
-        "ja": "トウモロコシから作ったスピリットをタルで熟成させたもの。飲む時はほどほどに。",
-        "pt": "Um destilado de milho envelhecido em barris. Beba com moderação!",
-        "ru": "Алкогольный напиток, сделанный из кукурузы и выдержанный в бочках. Пейте в меру.",
-         // "tr": "",
-        "zh": "一种以玉米麦芽为原料的桶装陈酿酒。适量饮酒。",
-    }
+  "DescriptionLocalization": {
+    "es": "Un destilado de maíz envejecido en barriles. Beber con moderación.",
+    "ko": "옥수수를 증류한 후 숙성시켜 만든 술. 절제해서 드세요.",
+    "de": "Ein Schnaps aus Mais und in Fässern gereift. Genieße ihn in Maßen.",
+    "fr": "Un spiritueux fait de maïs et vieilli en fût. À boire avec modération.",
+    "hu": "Kukoricából készült, hordóban érlelt szeszes ital. Fogyasszad mértékkel!",
+    // "it": "",
+    "ja": "トウモロコシから作ったスピリットをタルで熟成させたもの。飲む時はほどほどに。",
+    "pt": "Um destilado de milho envelhecido em barris. Beba com moderação!",
+    "ru": "Алкогольный напиток, сделанный из кукурузы и выдержанный в бочках. Пейте в меру.",
+    "tr": "Mısırdan yapılır ve fıçılarda bekletilir. Kararında içilmeli",
+    "zh": "一种以玉米麦芽为原料的桶装陈酿酒。适量饮酒。",
+  }
 }

@@ -40,21 +40,20 @@
         "ja": "スコッチウイスキー",
         "pt": "Uísque Escocês",        
         "ru": "Скотч",
-         // "tr": "",
+        "tr": "İskoç Viskisi",
         "zh": "苏格兰威士忌",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una variedad de whisky. Beber con moderación.",
-        "ko": "보리 맥아를 증류시켜 만든 술. 절제해서 드세요.",
-        "de": "Eine Variante des Whiskey, aus Gerstenmalz destilliert. Genieße ihn in Maßen.",
-        "fr": "Une variété de whiskey distillé à partir de malt d'orge. À boire avec modération.",
-        "hu": "Egy árpa malátából desztillált whisky-féle. Fogyasszad mértékkel!",
-         // "it": "",
-        "ja": "オオムギ麦芽から蒸留した多種多様なウイスキー。飲む時は程々に。",
-        "pt": "A variedade escocesa de uísque destilada do malte de cevada. Beba com moderação!",
-        "ru": "Разновидность виски, дистиллированая из ячменного солода. Пейте в меру.",
-         // "tr": "",
-        "zh": "一种由大麦麦芽蒸馏而成的威士忌。适量饮酒。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una variedad de whisky. Beber con moderación.",
+    "ko": "보리 맥아를 증류시켜 만든 술. 절제해서 드세요.",
+    "de": "Eine Variante des Whiskey, aus Gerstenmalz destilliert. Genieße ihn in Maßen.",
+    "fr": "Une variété de whiskey distillé à partir de malt d'orge. À boire avec modération.",
+    "hu": "Egy árpa malátából desztillált whisky-féle. Fogyasszad mértékkel!",
+    // "it": "",
+    "ja": "オオムギ麦芽から蒸留した多種多様なウイスキー。飲む時は程々に。",
+    "pt": "A variedade escocesa de uísque destilada do malte de cevada. Beba com moderação!",
+    "ru": "Разновидность виски, дистиллированая из ячменного солода. Пейте в меру.",
+    "tr": "Maltlanmış arpadan damıtılan bir çeşit viski. Kararında içilmeli.",
+    "zh": "一种由大麦麦芽蒸馏而成的威士忌。适量饮酒。"
+  }
 }

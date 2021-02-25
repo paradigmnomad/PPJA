@@ -30,7 +30,7 @@
         // "ja": "",
         "pt": "Iniciador de Luzes do Norte",
         "ru": "Семена каннабиса Северное Сияние",
-        // "tr": "",
+        "tr": "Kuzey Işığı Yetiştirici",
         "zh": "北极光种子",
     },
     "SeedDescriptionLocalization":
@@ -44,7 +44,7 @@
         // "ja": "",
         "pt": "Uma variedade popular de maconha que alivia a dor e insônio enquanto te deixa tranquilo. Plente-a no verão. Leva 10 dias para amadurecer e continua produzindo a cada 3 dias.",
         "ru": "Популярный сорт Индики, который снимает боль и бессонницу, при этом довольно мягкий. Сажайте летом. Вырастает через 10 дней и продолжает давать урожай после первого сбора каждые 3 дня.",
-        // "tr": "",
+        "tr": "Kannabis indikanın yumuşatan ve ağrıyla uykusuzluğa iyi gelen popüler bir türü. Yazın ekilir. 10 günde yetişir ve ilk hasattan sonra 3 günde bir hasat edilebilir.",
         "zh": "一种印度大麻的流行品系，味道醇厚，可以缓解疼痛和失眠。夏季播种。10天成熟，之后每3天收获一次。",
     }
 }

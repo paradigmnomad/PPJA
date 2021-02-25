@@ -6,32 +6,30 @@
     "Price": 25,
     "IsColored": false,
     "Recipe": null,
-    "NameLocalization":
-    {
-        "es": "Trigo sarraceno",
-        "ko": "메밀",
-        //"de": "",
-        "fr": "Sarrasin",
-        "hu": "Hajdina",
-        // "it": "",
-        "ja": "ソバ",
-        //"pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "荞麦",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Una variante más salvaje  de trigo; es algo amargo.",
-        "ko": "밀보다 거칠고 쌉쌀한 맛이 납니다.",
-        //"de": "",
-        "fr": "Une version sauvage du blé, plus amère.",
-        "hu": "Egy vadabb gabonaféle. Az íze kesernyés.",
-        // "it": "",
-        "ja": "コムギより野生に近く、少し苦い。",
-        //"pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "一种未驯化的小麦，有点苦。",
-    }
+  "NameLocalization": {
+    "es": "Trigo sarraceno",
+    "ko": "메밀",
+    // "de": "",
+    "fr": "Sarrasin",
+    "hu": "Hajdina",
+    // "it": "",
+    "ja": "ソバ",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Karabuğday",
+    "zh": "荞麦"
+  },
+  "DescriptionLocalization": {
+    "es": "Una variante más salvaje  de trigo; es algo amargo.",
+    "ko": "밀보다 거칠고 쌉쌀한 맛이 납니다.",
+    // "de": "",
+    "fr": "Une version sauvage du blé, plus amère.",
+    "hu": "Egy vadabb gabonaféle. Az íze kesernyés.",
+    // "it": "",
+    "ja": "コムギより野生に近く、少し苦い。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Buğdayın biraz daha yabanisi, daha acı bir tadı var.",
+    "zh": "一种未驯化的小麦，有点苦。"
+  }
 }

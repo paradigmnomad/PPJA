@@ -32,32 +32,30 @@
         "Dislike": ["Krobus", "Willy"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Tarta de higo",
-        "ko": "무화과 타르트",
-        "de": "Feigentörtchen",
-        "fr": "Tarte aux figues",
-         // "hu": "",
-         // "it": "",
-        "ja": "イチジクタルト",
-        "pt": "Torta de figo",
-        "ru": "Пирог с инжиром",
-         // "tr": "",
-        "zh": "无花果馅饼",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Refrigerio simple que te obliga a comer más de uno.",
-        "ko": "둘이 먹다 하나가 죽어도 모르는 맛.",
-        "de": "Einfache Snacks- eins ist nie genug.",
-        "fr": "Un simple en-cas qui vous supplie d'en manger un autre.",
-         // "hu": "",
-         // "it": "",
-        "ja": "ついもう一切れおかわりをしてしまう。",
-        "pt": "Lanches simples que imploram para você comer mais de um.",
-        "ru": "Простая закуска, так и просящая съесть ещё один кусочек.",
-         // "tr": "",
-        "zh": "无花果馅饼。简单的零食，一次根本吃不够。",
-    }
+  "NameLocalization": {
+    "es": "Tarta de higo",
+    "ko": "무화과 타르트",
+    "de": "Feigentörtchen",
+    "fr": "Tarte aux figues",
+    // "hu": "",
+    // "it": "",
+    "ja": "イチジクタルト",
+    "pt": "Torta de figo",
+    "ru": "Пирог с инжиром",
+    "tr": "Dut Turtası",
+    "zh": "无花果馅饼"
+  },
+  "DescriptionLocalization": {
+    "es": "Refrigerio simple que te obliga a comer más de uno.",
+    "ko": "둘이 먹다 하나가 죽어도 모르는 맛.",
+    "de": "Einfache Snacks- eins ist nie genug.",
+    "fr": "Un simple en-cas qui vous supplie d'en manger un autre.",
+    // "hu": "",
+    // "it": "",
+    "ja": "ついもう一切れおかわりをしてしまう。",
+    "pt": "Lanches simples que imploram para você comer mais de um.",
+    "ru": "Простая закуска, так и просящая съесть ещё один кусочек.",
+    "tr": "Birden fazla ye diye yalvaran basit atıştırmalıklar.",
+    "zh": "无花果馅饼。简单的零食，一次根本吃不够。"
+  }
 }

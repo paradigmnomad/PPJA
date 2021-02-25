@@ -10,27 +10,27 @@
         "es": "Brote de magnolia",
         "ko": "목련 묘목",
         "de": "Magnolien-Setzling (Sapling)",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Jeune magnolia",
+        "hu": "Magnólia csemete",
         // "it": "",
         "ja": "モクレンの苗",
         "pt": "Muda de Magnólia",
         "ru": "Саженец магнолии",
-        // "tr": "",
-        "zh": "木兰树苗",
+        "tr": "Manolya Fidanı",
+        "zh": "木兰树苗"
     },
     "SaplingDescriptionLocalization":
     {
         "es": "Toma 28 días para producir un árbol de magnolia maduro. Da fruto en primavera. Solo crece si las 8 casillas circundantes están vacías.",
         "ko": "28일후에 성목이 됩니다. 봄에 꽃이 핍니다. 주변 8칸이 비어있어야 자랍니다.",
         "de": "Die Herstellung eines reifen Magnolienbaums dauert 28 Tage. Trägt Blumen im Frühjahr. Wächst nur, wenn die 8 umgebenden 'Kacheln' leer sind.",
-        // "fr": "",
-        // "hu": "",
+        "fr": "Il faut 28 jours pour produire un magnolia mature. Produit des fleurs au printemps. Ne se développe que si les 8 \"carreaux\" environnants sont vides.",
+        "hu": "28 nap alatt érik meg, és magnólia fa lesz belőle. Tavasszal virágzik. Csak akkor növekszik, ha a környező 8 négyzet üres.",
         // "it": "",
         "ja": "28日かけて成木に育ち、春になるとモクレンを咲かせる。となりあった周囲8マスがないと育たない。",
         "pt": "Demora até 28 dias para produzir uma árvore magnólia madura. Dá flores na primavera. Só cresce se os 8 espaços adjacentes estiverem vazios.",
         "ru": "Становится взрослым деревом магнолии через 28 дней. Цветет весной. Растeт только если 8 «клеток» вокруг него не заняты.",
-        // "tr": "",
-        "zh": "28天成熟为成年木兰树。春天开花。只有在附近8个地块都空置的情况下才会成长。",
+        "tr": "28 günde olgunlaşarak Manolya Ağacı olur. Baharda çiçek açar. Sadece etrafındaki 8 \"kare\" boşken yetişir.",
+        "zh": "28天成熟为成年木兰树。春天开花。只有在附近8个地块都空置的情况下才会成长。"
     }
 }

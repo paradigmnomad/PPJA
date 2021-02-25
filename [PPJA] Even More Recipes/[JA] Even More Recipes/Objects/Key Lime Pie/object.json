@@ -41,7 +41,7 @@
         "ja": "キーライムパイ",
         "pt": "Torta de limão",
          // "ru": "",
-         // "tr": "",
+        "tr": "Misket Limonu Turtası",
         "zh": "墨西哥青柠派",
     },
     "DescriptionLocalization":
@@ -55,7 +55,7 @@
         "ja": "パステル調のさわやかなデザート。",
         "pt": "Uma sobremesa refrescante na cor pastel.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Ferahlatıcı, pastel renkli bir tatlı.",
         "zh": "一份味道清爽、柔和的甜点。",
     }
 }

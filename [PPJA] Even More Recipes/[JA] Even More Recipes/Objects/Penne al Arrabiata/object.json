@@ -47,10 +47,10 @@
         // "hu": "",
         // "it": "",
         "ja": "ペンネアラビアータ",
-         "pt": "Penne al Arrabiata",
+        "pt": "Penne al Arrabiata",
         // "ru": "",
-        // "tr": "",
-         "zh": "香辣茄酱直通粉",
+        "tr": "Arabiata Soslu Makarna",
+        "zh": "香辣茄酱直通粉",
     },
     "DescriptionLocalization":
     {
@@ -61,9 +61,9 @@
         // "hu": "",
         // "it": "",
         "ja": "とても辛いイタリアの伝統料理。",
-         "pt": "Um clássico italiano muito picante.",
+        "pt": "Um clássico italiano muito picante.",
         // "ru": "",
-        // "tr": "",
-         "zh": "非常辣的意大利经典面食。",
+        "tr": "Çok acılı bir İtalyan klasiği.",
+        "zh": "非常辣的意大利经典面食。",
     }
 }

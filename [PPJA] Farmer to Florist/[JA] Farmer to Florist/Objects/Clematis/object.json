@@ -18,33 +18,33 @@
         "es": "Clemátide",
         "ko": "클레머티스",
         "de": "Klematis",
-         // "fr": "",
+        "fr": "Clématite",
         "hu": "Klemátisz",
-         // "it": "",
+        // "it": "",
         "ja": "クレマチス",
         "pt": "Atragene",
         "ru": "Ломонос",
-         // "tr": "",
-        "zh": "铁线莲",
+        "tr": "Akasma",
+        "zh": "铁线莲"
     },
     "DescriptionLocalization":
     {
         "es": "Una enredadera floreciente que florece en otoño. Popular entre los jardineros.",
         "ko": "가을에 피는 덩굴의 꽃. 정원사들 사이에서 인기가 있다.",
         "de": "Eine blühende Rebe, die im Herbst blüht. Beliebt bei Gärtnern.",
-         // "fr": "",
+        "fr": "Une vigne florale qui fleurit en automne. Populaire auprès des jardiniers.",
         "hu": "Egy kúszónövény, mely ősszel virágzik. Kertészek körében népszerű.",
-         // "it": "",
+        // "it": "",
         "ja": "秋に咲くツル科の花。園芸愛好家に人気。",
         "pt": "Uma videira que floresce no outono. Popular entre jardineiros.",
         "ru": "Лоза, цветущая осенью. Популярна среди садоводов.",
-         // "tr": "",
-        "zh": "秋天开花的藤蔓植物。很受园丁欢迎。",
+        "tr": "Güzde büyüyen ve çiçek açan bir sarmaşık. Bahçeciler arasında ünlüdür.",
+        "zh": "秋天开花的藤蔓植物。很受园丁欢迎。"
     },
     "ContextTags": [
-    	"color_purple",
-    	"flower_poisonous",
-    	"flower_item",
-    	"season_fall"
+        "color_purple",
+        "flower_poisonous",
+        "flower_item",
+        "season_fall"
     ]
 }

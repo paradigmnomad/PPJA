@@ -33,32 +33,30 @@
         "Hate": ["Jas", "Vincent"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Cebollas salteadas",
-        "ko": "볶은 양파",
-        "de": "Röstzwiebeln",
-        "fr": "Oignons sautés",
-         // "hu": "",
-         // "it": "",
-        "ja": "オニオンソテー",
-        "pt": "Cebolas salteadas",
-        "ru": "Обжаренный лук",
-         // "tr": "",
-        "zh": "炒洋葱",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "A menudo se usa como guarnición. ¡Sutil, pero satisfactorio!",
-        "ko": "반찬으로 종종 사용됩니다. 끈적하지만 맛있어요!",
-        "de": "Oft als Beilage verwendet. Sehr lecker!",
-        "fr": "Souvent utilisé comme plat d'accompagnement. Visqueux, mais agréable !",
-         // "hu": "",
-         // "it": "",
-        "ja": "おかずによく出される。「…のどごし…さわやかだねぇ！」",
-        "pt": "Freqüentemente usado como acompanhamento. Pegajoso, mas satisfatório!",
-        "ru": "Часто используется в качестве гарнира. Склизкий, но сытный.",
-         // "tr": "",
-        "zh": "炒洋葱。常被用作配菜。粘糊糊的，然而令人满意！",
-    }
+  "NameLocalization": {
+    "es": "Cebollas salteadas",
+    "ko": "볶은 양파",
+    "de": "Röstzwiebeln",
+    "fr": "Oignons sautés",
+    // "hu": "",
+    // "it": "",
+    "ja": "オニオンソテー",
+    "pt": "Cebolas salteadas",
+    "ru": "Обжаренный лук",
+    "tr": "Soğan Sote",
+    "zh": "炒洋葱"
+  },
+  "DescriptionLocalization": {
+    "es": "A menudo se usa como guarnición. ¡Sutil, pero satisfactorio!",
+    "ko": "반찬으로 종종 사용됩니다. 끈적하지만 맛있어요!",
+    "de": "Oft als Beilage verwendet. Sehr lecker!",
+    "fr": "Souvent utilisé comme plat d'accompagnement. Visqueux, mais agréable !",
+    // "hu": "",
+    // "it": "",
+    "ja": "おかずによく出される。「…のどごし…さわやかだねぇ！」",
+    "pt": "Freqüentemente usado como acompanhamento. Pegajoso, mas satisfatório!",
+    "ru": "Часто используется в качестве гарнира. Склизкий, но сытный.",
+    "tr": "Genellikle yan öğün olarak yenir. Yapışkan ama leziz!",
+    "zh": "炒洋葱。常被用作配菜。粘糊糊的，然而令人满意！"
+  }
 }

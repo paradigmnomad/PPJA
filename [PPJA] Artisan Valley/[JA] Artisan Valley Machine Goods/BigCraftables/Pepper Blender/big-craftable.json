@@ -34,7 +34,7 @@
         "ja": "ペッパーブレンダー",
         "pt": "Liquidificador de Pimenta",
         "ru": "Смешиватель перцев",
-        // "tr": "",
+        "tr": "Biber Blender'ı",
         "zh": "辣椒搅拌机",
     },
     "DescriptionLocalization":
@@ -48,7 +48,7 @@
         "ja": "トウガラシをスパイシーでおいしいエキスにする。",
         "pt": "Usado para transformar pimenta em um extrato picante.",
         "ru": "Молотит перцы в вкусную пряную жидкость.",
-        // "tr": "",
+        "tr": "Biberleri leziz ve acılı bir sıvı için parçalar.",
         "zh": "把辣椒搅拌成美味的辣味液体。",
     }
 }

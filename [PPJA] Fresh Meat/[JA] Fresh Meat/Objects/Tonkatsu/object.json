@@ -38,8 +38,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Тонкацу",
+        "tr": "Tonkatsu",
         "zh": "吉列猪排",
     },
     "DescriptionLocalization":
@@ -52,9 +52,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "日式炸猪排，裹上面包糠和炸粉后炸至金黄的野猪排。",
+        "ru": "Дикая свинина в панировке, обжаренная до золотистой корочки.",
+        "tr": "Ekmek kırıntısıyla kaplanan domuz eti altın mükemmelliğe kızartılmış.",
+        "zh": "日式炸猪排，裹上面包糠和炸粉后炸至金黄的野猪排。"
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

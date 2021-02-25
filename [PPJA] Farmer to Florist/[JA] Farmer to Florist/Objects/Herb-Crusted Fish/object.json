@@ -44,27 +44,27 @@
         "es": "Pescado con costra de hierba",
         "ko": "허브 크러스트 피쉬",
         "de": "Fisch mit Kräuterkruste",
-        // "fr": "",
+        "fr": "Poisson aux herbes",
         "hu": "Fűszeres kérgű hal",
         // "it": "",
         "ja": "ハーブと魚のフライ",
         "pt": "Peixe com Crosta de Ervas",
         "ru": "Пряная рыба",
-        // "tr": "",
-        "zh": "酥炸香草鱼",
+        "tr": "Ot Kabuklu Balık",
+        "zh": "酥炸香草鱼"
     },
     "DescriptionLocalization":
     {
         "es": "Un pescado frito cubierto de hierbas.",
         "ko": "허브를 곁들인 구운 빵에 절인 생선.",
         "de": "Ein panierter Fisch, der mit Kräutern überzogen und gebraten wurde.",
-        // "fr": "",
+        "fr": "Un poisson pané avec plusieurs fines herbes et légèrement frit.",
         "hu": "Egy bundás hal, melyet fűszerekbe forgatva sütöttek ki.",
         // "it": "",
         "ja": "パン粉とハーブをまぶして揚げた魚。",
         "pt": "Um peixe a milanesa coberto de ervas e selado.",
         "ru": "Панированная рыба, покрытая зеленью и обжаренная.",
-        // "tr": "",
-        "zh": "酥炸香草鱼。给鱼裹上面包糠后外覆薰衣草入锅炸制而成。",
+        "tr": "Balığı otlarla kaplanıp kızartılmış ekmek arası balık.",
+        "zh": "酥炸香草鱼。给鱼裹上面包糠后外覆薰衣草入锅炸制而成。"
     }
 }

@@ -42,7 +42,7 @@
         "ja": "チョコレートイチゴケーキ",
         "pt": "Bolo de morango com chocolate",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çikolatalı ve Çilekli Pasta",
         "zh": "巧克力草莓蛋糕",
     },
     "DescriptionLocalization":
@@ -56,7 +56,7 @@
         "ja": "うまい！",
         "pt": "Delicioso!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Leziz!",
         "zh": "超好吃！",
     }
 }

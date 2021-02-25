@@ -7,8 +7,8 @@
     "IsColored": false,
     "GiftTastes":
     {
-	"Love": ["Demetrius", "Maru"],
-	"Like": ["Krobus", "Wizard", "Harvey"],
+        "Love": ["Demetrius", "Maru"],
+        "Like": ["Krobus", "Wizard", "Harvey"],
         "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy"],
     },
     "Recipe": null,
@@ -22,9 +22,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "鸡类DNA",
+        "ru": "ДНК курицы",
+        "tr": "Tavuk DNA'sı",
+        "zh": "鸡类DNA",
     },
     "DescriptionLocalization":
     {
@@ -36,9 +36,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "从鸡蛋中提取的一些鸡类DNA。",
+        "ru": "Немного куриной ДНК, извлеченной из яйца.",
+        "tr": "Bir yumurtadan alınmış tavuk DNA'sı.",
+        "zh": "从鸡蛋中提取的一些鸡类DNA。",
     },
     "ContextTags": [
         "dna_item",

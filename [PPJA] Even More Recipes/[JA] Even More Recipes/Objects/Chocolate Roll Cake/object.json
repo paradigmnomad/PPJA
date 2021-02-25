@@ -52,7 +52,7 @@
         "ja": "チョコレートロールケーキ",
         "pt": "Rocambole de chocolate",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çikolatalı Rulo Pasta",
         "zh": "巧克力蛋糕卷",
     },
     "DescriptionLocalization":
@@ -66,7 +66,7 @@
         "ja": "イチゴがトッピングされている。",
         "pt": "Tem um morango no topo.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Üstünde bir çilek var.",
         "zh": "上面点缀着草莓。",
     }
 }

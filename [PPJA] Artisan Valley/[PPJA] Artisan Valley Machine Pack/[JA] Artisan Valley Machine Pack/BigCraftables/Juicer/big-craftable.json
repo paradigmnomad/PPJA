@@ -34,7 +34,7 @@
         "ja": "ジューサー",
         "pt": "Espremedor",
         "ru": "Соковыжималка",
-        // "tr": "",
+        "tr": "Meyve Suyu Sıkacağı",
         "zh": "榨汁机",
     },
     "DescriptionLocalization":
@@ -48,7 +48,7 @@
         "ja": "くだものを搾りたてのジュースにする。",
         "pt": "Esprema frutas e consiga suco fresquinho.",
         "ru": "Превращает фрукты в свежевыжатый сок.",
-        // "tr": "",
+        "tr": "Meyveleri taze sıkılmış meyve suyuna çevirir.",
         "zh": "把水果制成鲜榨果汁。",
     }
 }

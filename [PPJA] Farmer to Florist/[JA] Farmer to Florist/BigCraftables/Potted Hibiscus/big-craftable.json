@@ -9,44 +9,44 @@
         "Ingredients": [
         {
             "Object": "Hibiscus",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 388,
-            "Count": 10,
+            "Count": 10
         },
         {
             "Object": 330,
-            "Count": 10,
-        }, ],
-        "CanPurchase": false,
+            "Count": 10
+        }],
+        "CanPurchase": false
     },
     "NameLocalization":
     {
         "es": "Hibisco en maceta",
         "ko": "실내 화초 히비스커스",
         "de": "Eingemachter Hibiskus",
-        //"fr": "",
+        "fr": "Hibiscus en pot",
         "hu": "Cserepes Hibiszkusz",
-        //"it": "",
+        // "it": "",
         "ja": "ハイビスカスの鉢植え",
         "pt": "Vaso de Vinagreira",
         "ru": "Гибискус в горшке",
-        //"tr": "",
-        "zh": "芙蓉花盆栽",
+        "tr": "Saksıda Hatmi Çiçeği",
+        "zh": "芙蓉花盆栽"
     },
     "DescriptionLocalization":
     {
         "es": "Un pequeño árbol ornamental de hibisco en una pequeña maceta de madera.¡Recuerda regarlo!",
         "ko": "작은 나무 화분에 심겨진 히비스커스 입니다. 물 주는거 잊지마세요!",
         "de": "Ein kleiner, dekorativer Hibiskusbaum in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-        //"fr": "",
+        "fr": "Un hibiscus dans un pot de bois. N'oublie pas de l'arroser!",
         "hu": "Egy hibiszkusz cserépben. Ne felejtsed el megöntözni!",
-        //"it": "",
+        // "it": "",
         "ja": "飾り用にミニサイズのハイビスカスの木が植えられた木製の小さな鉢。水やりを忘れずに。",
         "pt": "Uma pequena árvore de vinagreira em um pequeno vaso de madeira. Lembre-se de regá-la!",
         "ru": "Гибискус в маленьком деревянном горшочке. Не забывайте поливать!",
-        //"tr": "",
-        "zh": "一个小木盆里的芙蓉花。记得给它浇水！",
+        "tr": "Küçük tahta bir saksıda süs olsun diye ekilen bir hatmi çiçeği fidanı. Sulamayı unutma!",
+        "zh": "一个小木盆里的芙蓉花。记得给它浇水！"
     }
 }

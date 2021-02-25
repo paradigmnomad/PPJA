@@ -35,8 +35,8 @@
         // "it": "",
         // "ja": "",
         "pt": "Torta de cebola-carne selvagem",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Пирожок из мяса зверя",
+        "tr": "Canavar Etli Soğanlı Turta",
         "zh": "野兽洋葱手馅饼",
     },
     "DescriptionLocalization":
@@ -49,8 +49,8 @@
         // "it": "",
         // "ja": "",
         "pt": "Uma torta crocante recheada com deliciosa carne de besta picada e cebola.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Хрустящий пирожок, фаршированный вкусным мясным фаршем.",
+        "tr": "Leziz canavar eti kıymasıyla doldurulmuş çıtır mantı.",
         "zh": "一个酥脆的馅饼，里面塞满了美味的绞碎的野兽肉。",
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"

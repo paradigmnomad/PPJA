@@ -25,21 +25,20 @@
         "ja": "アンズタケコンブチャ",
         "pt": "Kombuchá de Cantarelo",
         "ru": "Лисичковая комбуча",
-        // "tr": "",
+        "tr": "Horozmantarlı Kombucha",
         "zh": "鸡油菌康普茶",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una bebida con sabor a té, ligeramente picante, a base de setas fermentados.",
-        "ko": "과일 향이 나는, 발효 버섯으로 만든 약간 매콤한 차.",
-        "de": "Ein fruchtiges, leicht pfeffriges teeähnliches Getränk aus fermentierten Pilzen.",
-        "fr": "Une sorte de thé fruité légérement épicé obtenu à partir de levures fermentées.",
-        "hu": "Egy gyümölcsös, enyhén borsos tea szerű ital erjesztett gombából.",
-        // "it": "",
-        "ja": "発酵したキノコから作られた、フルーティーでややピリっとしたお茶のような飲み物。",
-        "pt": "Uma bebida similar ao chá, ligeiramente picante com base em cogumelos fermentados.",
-        "ru": "Фруктовая, слегка острая комбуча из ферментированных грибов.",
-        // "tr": "",
-        "zh": "一种由发酵的蘑菇制成的带有轻微胡椒味的茶饮料。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una bebida con sabor a té, ligeramente picante, a base de setas fermentados.",
+    "ko": "과일 향이 나는, 발효 버섯으로 만든 약간 매콤한 차.",
+    "de": "Ein fruchtiges, leicht pfeffriges teeähnliches Getränk aus fermentierten Pilzen.",
+    "fr": "Une sorte de thé fruité légérement épicé obtenu à partir de levures fermentées.",
+    "hu": "Egy gyümölcsös, enyhén borsos tea szerű ital erjesztett gombából.",
+    // "it": "",
+    "ja": "発酵したキノコから作られた、フルーティーでややピリっとしたお茶のような飲み物。",
+    "pt": "Uma bebida similar ao chá, ligeiramente picante com base em cogumelos fermentados.",
+    "ru": "Фруктовая, слегка острая комбуча из ферментированных грибов.",
+    "tr": "Fermente mantardan yapılan meyveli gibi, biraz acılı çayımsı bir içecek.",
+    "zh": "一种由发酵的蘑菇制成的带有轻微胡椒味的茶饮料。"
+  }
 }

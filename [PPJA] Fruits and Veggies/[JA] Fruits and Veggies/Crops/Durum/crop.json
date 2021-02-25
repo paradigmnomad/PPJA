@@ -2,7 +2,7 @@
     "Name": "Durum",
     "Product": "Durum",
     "SeedName": "Durum Seeds",
-    "SeedDescription": "Plant these in fall. Takes 4 days to mature.",
+    "SeedDescription": "Plant these in fall. Takes 4 days to mature. Harvest with a scythe.",
     "Type": "Vegetable",
 
     "Seasons": ["fall"],
@@ -23,32 +23,30 @@
         "y 4",
     ],
 
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de trigo duro",
-        "ko": "듀럼밀 씨앗",
-        "de": "Hartweizen-Saat",
-        "fr": "Graines de blé dur",
-        "hu": "Durum magvak",
-         // "it": "",
-        "ja": "デュラムコムギのタネ",
-        "pt": "Sementes de Durum",
-        "ru": "Семена твёрдой пшеницы",
-         // "tr": "",
-          "zh": "硬粒小麦种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en oroño. Tardan 4 días en madurar.",
-        "ko": "가을 작물. 성장하려면 4일이 소요됩니다.",
-        "de": "Pflanze sie im Herbst. Wächst in 4 Tagen heran.",
-        "fr": "À planter en automne. Prend 4 jours pour arriver à maturité.",
-        "hu": "Ezeket ősszel ültesd el. 4 napig tart megérniük.",
-         // "it": "",
-        "ja": "秋植えの作物。そだつのに4日かかる。",
-        "pt": "Plante-as no outono. Leva 4 dias para amadurecer",
-        "ru": "Сажайте осенью. Вырастает через 4 дня.",
-         // "tr": "",
-          "zh": "秋天播种。4天成熟。",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de trigo duro",
+    "ko": "듀럼밀 씨앗",
+    "de": "Hartweizen-Saat",
+    "fr": "Graines de blé dur",
+    "hu": "Durum magvak",
+    // "it": "",
+    "ja": "デュラムコムギのタネ",
+    "pt": "Sementes de Durum",
+    "ru": "Семена твёрдой пшеницы",
+    "tr": "Makarnalık Buğday Tohumu",
+    "zh": "硬粒小麦种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en oroño. Tardan 4 días en madurar.",
+    "ko": "가을 작물. 성장하려면 4일이 소요됩니다.",
+    "de": "Pflanze sie im Herbst. Wächst in 4 Tagen heran.",
+    "fr": "À planter en automne. Prend 4 jours pour arriver à maturité.",
+    "hu": "Ezeket ősszel ültesd el. 4 napig tart megérniük.",
+    // "it": "",
+    "ja": "秋植えの作物。そだつのに4日かかる。",
+    "pt": "Plante-as no outono. Leva 4 dias para amadurecer",
+    "ru": "Сажайте осенью. Вырастает через 4 дня.",
+    "tr": "Güzde ekilir. 4 günde yetişir. Tırpanla hasat edilir.",
+    "zh": "秋天播种。4天成熟。"
+  }
 }

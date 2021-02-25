@@ -45,7 +45,7 @@
         "ja": "ブルーベリーハニーケーキ",
         "pt": "Bolo de mel de mirtilo",
          // "ru": "",
-         // "tr": "",
+        "tr": "Yabanmersinli Ballı Pasta",
         "zh": "蓝莓蜂蜜蛋糕",
     },
     "DescriptionLocalization":
@@ -59,7 +59,7 @@
         "ja": "ブルーベリーを乗せたしたスイーツ！",
         "pt": "Um doce pegajoso com mirtilos por cima!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Üstü yabanmersinleriyle süslenmiş yapışkan bir tatlı!",
         "zh": "蛋糕顶上放着黏乎乎甜蜜蜜的蓝莓！",
     }
 }

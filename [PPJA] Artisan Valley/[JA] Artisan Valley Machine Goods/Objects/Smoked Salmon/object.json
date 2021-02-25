@@ -16,29 +16,29 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "훈제 연어",
         // "de": "",
-        // "fr": "",
+        "fr": "Saumon fumé",
         // "hu": "",
         // "it": "",
         "ja": "スモークサーモン",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tütsülenmiş Somon",
         // "zh": "",
     },
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "연어를 몇 시간 훈제해서 만든 간단한 요리.",
         // "de": "",
-        // "fr": "",
+        "fr": "Un plat simple de saumon fumé. Il a été fumé pendant des heures.",
         // "hu": "",
         // "it": "",
         "ja": "サーモンを数時間スモークしてつくったシンプルな料理。",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Bir tabak tütsülenmiş somon. Saatlerce tütsülendi.",
         // "zh": "",
     }
 }

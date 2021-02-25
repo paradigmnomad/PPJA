@@ -48,10 +48,10 @@
         // "hu": "",
         // "it": "",
         "ja": "梅おにぎり",
-         "pt": "Ume Onigiri",
+        "pt": "Ume Onigiri",
         // "ru": "",
-        // "tr": "",
-         "zh": "梅子饭团",
+        "tr": "Umeli Onigiri",
+        "zh": "梅子饭团",
     },
     "DescriptionLocalization":
     {
@@ -62,9 +62,9 @@
         // "hu": "",
         // "it": "",
         "ja": "日本でおなじみの食べ物。",
-         "pt": "Uma comida japonesa quintessencial.",
+        "pt": "Uma comida japonesa quintessencial.",
         // "ru": "",
         // "tr": "",
-         "zh": "典型的日本食物。",
+        "zh": "典型的日本食物。",
     },
 }

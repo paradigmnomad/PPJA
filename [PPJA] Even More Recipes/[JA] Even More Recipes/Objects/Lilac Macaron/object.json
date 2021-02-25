@@ -50,8 +50,8 @@
           "ja": "ライラックマカロン",
           "pt": "Macaron lilás",
            // "ru": "",
-           // "tr": "",
-          "zh": "紫丁香马卡龙",
+          "tr": "Leylaklı Makaron",
+          "zh": "紫丁香马卡龙"
       },
       "DescriptionLocalization":
       {
@@ -64,7 +64,7 @@
           "ja": "ライラックの風味のマカロン。",
           "pt": "O melhor macaron de todos, com sabor de flores lilás.",
            // "ru": "",
-           // "tr": "",
-          "zh": "经典的马卡龙，紫丁香味的。",
+          "tr": "Özetle, leylak tadı olan bir makaron.",
+          "zh": "经典的马卡龙，紫丁香味的。"
       }
   }

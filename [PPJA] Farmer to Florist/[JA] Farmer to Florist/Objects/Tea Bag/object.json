@@ -11,27 +11,27 @@
         "es": "Bolsa de té",
         "ko": "티 백",
         "de": "Teebeutel",
-        // "fr": "",
+        "fr": "Sachet de tisane",
         "hu": "Teás zacskó",
         // "it": "",
         "ja": "ティーバッグ",
         "pt": "Saquinho de Chá",
         "ru": "Чайный пакетик",
-        // "tr": "",
-        "zh": "茶包",
+        "tr": "Çay Poşeti",
+        "zh": "茶包"
     },
     "DescriptionLocalization":
     {
         "es": "Hojas secas y listas para una taza de agua caliente.",
         "ko": "말린 꽃과 잎, 뜨거운 물 한 잔으로 마실 수 있는 차.",
         "de": "Trockenblumen und Blätter bereit für eine heiße Tasse Wasser.",
-        // "fr": "",
+        "fr": "Des fleurs et des feuilles séchées, dans un sachet prêt à infuser.",
         "hu": "Szárított virágok és levelek forró vízben való feloldásra készen.",
         // "it": "",
         "ja": "乾燥した花びらと葉っぱ入り。カップに入れ熱湯を注ぐだけで飲める。",
         "pt": "Flores secas e folhas prontas para um copo de água quente.",
         "ru": "Сушеные цветы и листья, готовые к горячей чашке воды.",
-        // "tr": "",
-        "zh": "装着干燥的花瓣和叶子，等待一杯热水让它散发芬芳。",
+        "tr": "Kurutulmuş çiçekler ve yapraklar bir bardak sıcak su için hazır.",
+        "zh": "装着干燥的花瓣和叶子，等待一杯热水让它散发芬芳。"
     }
 }

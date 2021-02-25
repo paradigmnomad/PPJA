@@ -41,7 +41,7 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 800,
-            },
+    },
     "EnableWithMod": "ppja.moretrees",
     "EnableWithMod": "ppja.evenmorerecipes",
     "NameLocalization":
@@ -51,11 +51,11 @@
         "de": "Bulgogi",
         "fr": "Bulgogi",
         "hu": "Pulgogi",
-         // "it": "",
-         // "ja": "",
-         "pt": "Bulgogi",
-         // "ru": "",
-         // "tr": "",
+        // "it": "",
+        // "ja": "",
+        "pt": "Bulgogi",
+        "ru": "Пулькоги",
+        "tr": "Bulgogi",
         "zh": "韩式炒牛肉",
     },
     "DescriptionLocalization":
@@ -65,11 +65,11 @@
         "de": "Es ist ein süßes und herzhaftes mariniertes Rindfleisch-Pfannengericht! Es ist zart und saftig, obwohl das Fleisch sehr dünn ist.",
         "fr": "Du bœuf sauté et mariné délicieux et savoureux. C'est tendre et juteux, même si la viande est épaisse.",
         "hu": "Édes, és sós pácolt marhahús. Lágy és lédús, bár a hús nagyon vékony.",
-         // "it": "",
-         // "ja": "",
-          "pt": "É uma carne marinada doce e salgada frito! É macio e suculento, mesmo que a carne seja muito fina.",
-         // "ru": "",
-         // "tr": "",
-        "zh": "韩式炒牛肉。提前腌制过的牛肉反复煸炒，虽然牛肉被片得很薄，但口感嫩而多汁。",
+        // "it": "",
+        // "ja": "",
+        "pt": "É uma carne marinada doce e salgada frito! É macio e suculento, mesmo que a carne seja muito fina.",
+        "ru": "Это сладкий и пикантный маринованный говяжье жаркое! Оно нежный и сочный, хотя мясо очень тонкое.",
+        "tr": "Güzel ve tuzlu, marine edilmiş bir sığır vogda kızartma! Et çok ince ve sulu.",
+        "zh": "韩式炒牛肉。提前腌制过的牛肉反复煸炒，虽然牛肉被片得很薄，但口感嫩而多汁。"
     }
 }

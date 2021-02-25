@@ -9,44 +9,44 @@
         "Ingredients": [
         {
             "Object": "Iris",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 388,
-            "Count": 10,
+            "Count": 10
         },
         {
             "Object": 330,
-            "Count": 10,
-        }, ],
-        "CanPurchase": false,
+            "Count": 10
+        }],
+        "CanPurchase": false
     },
     "NameLocalization":
     {
         "es": "Iris en maceta",
         "ko": "실내 화초 아이리스",
         "de": "Topfiris",
-        //"fr": "",
+        "fr": "Iris",
         "hu": "Cserepes Nőszirom",
-        //"it": "",
+        // "it": "",
         "ja": "アイリスの鉢植え",
         "pt": "Vaso de Íris",
         "ru": "Ирис в горшке",
-        //"tr": "",
-        "zh": "鸢尾花盆栽",
+        "tr": "Saksıda İris",
+        "zh": "鸢尾花盆栽"
     },
     "DescriptionLocalization":
     {
         "es": "Un iris en una pequeña maceta de madera. ¡Recuerda regarlo!",
         "ko": "작은 나무 화분에 심겨진 아이리스 입니다. 물 주는거 잊지마세요!",
         "de": "Eine Iris in einem kleinen Holztopf. Denken Sie daran, es zu gießen!",
-        //"fr": "",
+        "fr": "Un iris dans un pot de bois. N'oublie pas de l'arroser!",
         "hu": "Egy nőszirom cserépben. Ne felejtsed el megöntözni!",
-        //"it": "",
+        // "it": "",
         "ja": "アイリスが植えられた木製の小さな鉢。水やりを忘れずに。",
         "pt": "Uma íris em um pequeno vaso de madeira. Lembre-se sempre de regá-la!",
         "ru": "Ирис в маленьком деревянном горшочке. Не забывайте поливать!",
-        //"tr": "",
-        "zh": "一个小木盆里的鸢尾花。记得给它浇水！",
+        "tr": "Küçük tahta bir saksıda bir iris. Sulamayı unutma!",
+        "zh": "一个小木盆里的鸢尾花。记得给它浇水！"
     }
 }

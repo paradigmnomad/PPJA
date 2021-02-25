@@ -25,21 +25,20 @@
         "ja": "サーモンベリーシャーベット",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "美洲大树莓果汁雪葩",
+        "tr": "Ahududulu Meyve Şerbeti",
+        "zh": "美洲大树莓果汁雪葩",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "새먼베리, 꿀, 레몬으로 만든 상큼한 과일 셔벗.",
-        // "de": "",
-        "fr": "Un sorbet rafraîchissant fait à partir de baies de saumon (ronce remarquable), de miel et de citron.",
-        "hu": "Egy frissítő gyümölcs sörbet díszszederből, mézből, és citromból.",
-        // "it": "",
-        "ja": "サーモンベリーとレモンにはちみつを合わせたさわやかなフルーツシャーベット。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "由美洲大树莓、蜂蜜和柠檬制成的清爽水果雪葩。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "새먼베리, 꿀, 레몬으로 만든 상큼한 과일 셔벗.",
+    // "de": "",
+    "fr": "Un sorbet rafraîchissant fait à partir de baies de saumon (ronce remarquable), de miel et de citron.",
+    "hu": "Egy frissítő gyümölcs sörbet díszszederből, mézből, és citromból.",
+    // "it": "",
+    "ja": "サーモンベリーとレモンにはちみつを合わせたさわやかなフルーツシャーベット。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Ahududulardan, baldan ve limondan yapılan ferahlatıcı meyve şerbeti.",
+    "zh": "由美洲大树莓、蜂蜜和柠檬制成的清爽水果雪葩。"
+  }
 }

@@ -39,32 +39,30 @@
         "PurchasePrice": 2725,
         "PurchaseRequirements": ["HasCookingRecipe Chocolate", "y 4", ],
     },
-    "NameLocalization":
-    {
-        "es": "Dona con forma de oso",
-        "ko": "곰돌이 도넛",
-        "de": "Bärendonut",
-        "fr": "Beignet en ours",
-         // "hu": "",
-         // "it": "",
-        "ja": "クマドーナツ",
-        "pt": "Donut de urso",
-         // "ru": "",
-         // "tr": "",
-        "zh": "小熊甜甜圈",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "¡Tiene forma de oso! ¡Que lindo!",
-        "ko": "곰돌이 모양의 도넛!귀엽죠!",
-        "de": "Er sieht aus wie ein Bär. Wie süß!",
-        "fr": "Ça a la forme d'un ours. C'est si mignon !",
-         // "hu": "",
-         // "it": "",
-        "ja": "クマの形をしている！かわいい！",
-        "pt": "Tem a forma de um urso! Que fofinho!",
-         // "ru": "",
-         // "tr": "",
-        "zh": "它有着萌萌的熊耳形状！超可爱！",
-    }
+  "NameLocalization": {
+    "es": "Dona con forma de oso",
+    "ko": "곰돌이 도넛",
+    "de": "Bärendonut",
+    "fr": "Beignet en ours",
+    "hu": "Macis fánk",
+    // "it": "",
+    "ja": "クマドーナツ",
+    "pt": "Donut de urso",
+    // "ru": "",
+    "tr": "Ayı Şekilli Donut",
+    "zh": "小熊甜甜圈"
+  },
+  "DescriptionLocalization": {
+    "es": "¡Tiene forma de oso! ¡Que lindo!",
+    "ko": "곰돌이 모양의 도넛!귀엽죠!",
+    "de": "Er sieht aus wie ein Bär. Wie süß!",
+    "fr": "Ça a la forme d'un ours. C'est si mignon !",
+    "hu": "Maci formájú. Milyen aranyos!",
+    // "it": "",
+    "ja": "クマの形をしている！かわいい！",
+    "pt": "Tem a forma de um urso! Que fofinho!",
+    // "ru": "",
+    "tr": "Ayı şeklinde! Ne kadar sevimli!",
+    "zh": "它有着萌萌的熊耳形状！超可爱！"
+  }
 }

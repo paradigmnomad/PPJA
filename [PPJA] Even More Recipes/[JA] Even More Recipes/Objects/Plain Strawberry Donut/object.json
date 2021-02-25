@@ -50,21 +50,20 @@
         "ja": "プレーンストロベリードーナツ",
         "pt": "Donut de morango simples",
          // "ru": "",
-         // "tr": "",
+         "tr": "Sade Çilekli Donut",
         "zh": "纯草莓甜甜圈",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una simple dona de fresa.",
-        "ko": "평범한 모양의 딸기 도넛.",
-        "de": "Ein stinknormaler Erdbeerdonut.",
-        "fr": "Un beignet fourré... à la fraise.",
-         // "hu": "",
-         // "it": "",
-        "ja": "普通のストロベリードーナツ。",
-        "pt": "Um donut de morango simples.",
-         // "ru": "",
-         // "tr": "",
-        "zh": "一个主要成分为草莓的甜甜圈。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una simple dona de fresa.",
+    "ko": "평범한 모양의 딸기 도넛.",
+    "de": "Ein stinknormaler Erdbeerdonut.",
+    "fr": "Un beignet fourré... à la fraise.",
+    // "hu": "",
+    // "it": "",
+    "ja": "普通のストロベリードーナツ。",
+    "pt": "Um donut de morango simples.",
+    // "ru": "",
+    "tr": "Sade, çilekli bir donut.",
+    "zh": "一个主要成分为草莓的甜甜圈。"
+  }
 }

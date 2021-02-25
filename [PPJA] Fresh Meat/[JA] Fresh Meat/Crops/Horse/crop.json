@@ -18,9 +18,8 @@
         "ExtraChance": 0.1,
     },
     "SeedPurchasePrice": 250,
-    "SeedPurchaseRequirements":
-    [
-	"y 2"
+    "SeedPurchaseRequirements": [
+        "y 2"
     ],
     "SeedNameLocalization":
     {
@@ -31,10 +30,10 @@
         "hu": "Ló magvak",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes de Cavalo",
-        // "ru": "",
-        // "tr": "",
-         "zh": "马肉种子",
+        "pt": "Sementes de Cavalo",
+        "ru": "Семена мяса лошади",
+        "tr": "At Tohumu",
+        "zh": "马肉种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -45,9 +44,9 @@
         "hu": "Ezeket nyáron ültesse el. 11 napig tart megérniük.",
         // "it": "",
         // "ja": "",
-         "pt": "Plante isso no verão ou inverno. Leva 13 dias para amadurecer.",
-        // "ru": "",
-        // "tr": "",
-         "zh": "夏天或冬天播种。13天成熟。",
+        "pt": "Plante isso no verão ou inverno. Leva 13 dias para amadurecer.",
+        "ru": "Сажайте их летом или зимой. Созревание занимает 13 дней.",
+        "tr": "Yazın ve Kışın ekilir. 13 günde yetişir.",
+        "zh": "夏天或冬天播种。13天成熟。"
     },
 }

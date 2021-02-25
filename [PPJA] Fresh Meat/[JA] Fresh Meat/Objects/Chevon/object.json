@@ -22,7 +22,7 @@
         "ja": "ヤギ肉",
         "pt": "Carne de cabra",
         "ru": "Козлятина",
-        // "tr": "",
+        "tr": "Keçi Eti",
         "zh": "羊肉",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "高品質な子ヤギの赤身肉。",
         "pt": "Um corte magro de uma cabra.",
         "ru": "Нежная вырезка козлятины.",
-        // "tr": "",
+        "tr": "Bir parça keçi eti.",
         "zh": "这是一份高品质的羊肉。",
     },
 }

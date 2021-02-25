@@ -22,7 +22,7 @@
         "ja": "羊肉",
         "pt": "Carne de carneiro",
         "ru": "Баранина",
-        // "tr": "",
+        "tr": "Büyük Koyun Eti",
         "zh": "山羊肉",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "固めな羊のお肉。マトン。",
         "pt": "Um corte firme e rico de uma ovelha.",
         "ru": "Твёрдая и сочная вырезка с овцы.",
-        // "tr": "",
+        "tr": "Bir koyundan kesilmiş büyük ve sert bir et parçası.",
         "zh": "从山羊身上切下的一部分肥满多汁的肉。",
     },
     "DisableWithMod": "DIGUS.ANIMALHUSBANDRYMOD"

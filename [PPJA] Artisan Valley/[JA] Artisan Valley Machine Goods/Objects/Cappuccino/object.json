@@ -28,11 +28,11 @@
         "de": "Cappuccino",
         "fr": "Cappuccino",
         "hu": "Cappuccino",
-         // "it": "",
+        // "it": "",
         "ja": "カプチーノ",
         "pt": "Capuccino",
         "ru": "Капучино",
-         // "tr": "",
+        "tr": "Cappucino",
         "zh": "卡布奇诺咖啡",
     },
     "DescriptionLocalization":
@@ -42,11 +42,11 @@
         "de": "Die geschäumte Milch erzeugt ein schönes Muster auf der Oberfläche.",
         "fr": "Le lait moussé crée un adorable motif sur le dessus.",
         "hu": "A habosított tej szép mintát alkot a tetején.",
-         // "it": "",
+        // "it": "",
         "ja": "泡立てたミルクで表面に美しい模様を描きます。",
         "pt": "O leite espumado cria um padrão encantador na superfície.",
         "ru": "Вспененное молоко создает прекрасный рисунок на поверхности.",
-         // "tr": "",
-        "zh": "泡沫牛奶在咖啡表面形成漂亮的图案。",
+        "tr": "Köpüren sütü yüzeyinde hoş bir desen oluşturuyor.",
+        "zh": "泡沫牛奶在咖啡表面形成漂亮的图案。"
     }
 }

@@ -32,21 +32,20 @@
         "ja": "マキアート",
         "pt": "Café Macchiato",
         "ru": "Макиато",
-         // "tr": "",
+        "tr": "Macchiato",
         "zh": "玛奇朵",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Para los que solo quieren un chorrito de leche.",
-        "ko": "우유를 조금만 넣고 싶어하는 사람들을 위해.",
-        "de": "Für alle, die nur einen Schuss Milch wollen.",
-        "fr": "Pour ceux qui ne veulent qu'un trait de lait.",
-        "hu": "Azoknak, akik csak egy kis tejet kérnek.",
-         // "it": "",
-        "ja": "ミルクはほんの少しだけでいいという人のために。",
-        "pt": "Para aqueles que querem só uma manhcinha de leite.",
-        "ru": "Для тех, кому нужно только немного молока.",
-         // "tr": "",
-        "zh": "给那些只想要一点点牛奶的人。",
-    }
+  "DescriptionLocalization": {
+    "es": "Para los que solo quieren un chorrito de leche.",
+    "ko": "우유를 조금만 넣고 싶어하는 사람들을 위해.",
+    "de": "Für alle, die nur einen Schuss Milch wollen.",
+    "fr": "Pour ceux qui ne veulent qu'un trait de lait.",
+    "hu": "Azoknak, akik csak egy kis tejet kérnek.",
+    // "it": "",
+    "ja": "ミルクはほんの少しだけでいいという人のために。",
+    "pt": "Para aqueles que querem só uma manhcinha de leite.",
+    "ru": "Для тех, кому нужно только немного молока.",
+    "tr": "Sadece bir damlacık süt isteyenler için.",
+    "zh": "给那些只想要一点点牛奶的人。"
+  }
 }

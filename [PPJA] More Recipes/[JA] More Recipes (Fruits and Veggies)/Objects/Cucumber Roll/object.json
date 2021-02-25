@@ -34,32 +34,30 @@
         "Dislike": ["Abigail", "Haley", "Jas", "Krobus", "Sam", "Vincent", "Willy"],
     },
 
-    "NameLocalization":
-    {
-        "es": "Rollo de pepino",
-        "ko": "오이 롤",
-        "de": "Gurken-Maki",
-        "fr": "Makis au concombre",
-         // "hu": "",
-         // "it": "",
-        "ja": "かっぱ巻き",
-        "pt": "Rolo de pepino",
-        "ru": "Ролл с огурцом",
-         // "tr": "",
-        "zh": "黄瓜卷",
-    },
-    "DescriptionLocalization":
-    {
-        "es": "Es como un rollo de maki vegetariano.",
-        "ko": "채식주의자 마키 롤.",
-        "de": "Eine vegetarische Makirolle.",
-        "fr": "Comme un maki végétarien au concombre.",
-         // "hu": "",
-         // "it": "",
-        "ja": "ベジタリアン向けの寿司。",
-        "pt": "É como um rolo de maki vegetariano.",
-        "ru": "Это как вегетарианский маки ролл.",
-         // "tr": "",
-        "zh": "黄瓜卷。素食主义者爱吃的卷。",
-    }
+  "NameLocalization": {
+    "es": "Rollo de pepino",
+    "ko": "오이 롤",
+    "de": "Gurken-Maki",
+    "fr": "Makis au concombre",
+    // "hu": "",
+    // "it": "",
+    "ja": "かっぱ巻き",
+    "pt": "Rolo de pepino",
+    "ru": "Ролл с огурцом",
+    "tr": "Salatalık Dilimi",
+    "zh": "黄瓜卷"
+  },
+  "DescriptionLocalization": {
+    "es": "Es como un rollo de maki vegetariano.",
+    "ko": "채식주의자 마키 롤.",
+    "de": "Eine vegetarische Makirolle.",
+    "fr": "Comme un maki végétarien au concombre.",
+    // "hu": "",
+    // "it": "",
+    "ja": "ベジタリアン向けの寿司。",
+    "pt": "É como um rolo de maki vegetariano.",
+    "ru": "Это как вегетарианский маки ролл.",
+    "tr": "Vejeteryan bir maki dilimi gibi.",
+    "zh": "黄瓜卷。素食主义者爱吃的卷。"
+  }
 }

@@ -33,8 +33,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Жаренная дичь",
+        "tr": "Kızartılmış Kümes Hayvanı Eti",
         "zh": "烤飞禽",
     },
     "DescriptionLocalization":
@@ -47,9 +47,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "腌制好的飞禽送入烤箱烤制，配合米饭和卷心菜沙拉食用。",
+        "ru": "Маринованное мясо дичи жарится в духовке и подается с рисом и капустой.",
+        "tr": " Marine edilmiş kümes hayvanı eti fırında pişirilmiş ve lahana salatası ve pirinçle servis edilir.",
+        "zh": "腌制好的飞禽送入烤箱烤制，配合米饭和卷心菜沙拉食用。"
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

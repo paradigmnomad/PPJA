@@ -20,26 +20,25 @@
         "ko": "라즈베리 용과 과일 셔벗",
         // "de": "",
         "fr": "Sorbet au fruit du dragon et à la framboise",
-       "hu": "Málnás-sárkánygyümölcsös sörbet",
+        "hu": "Málnás-sárkánygyümölcsös sörbet",
         // "it": "",
         "ja": "ラズベリーとドラゴンフルーツのシャーベット",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
-         "zh": "树莓火龙果果汁雪葩",
+        "tr": "Ahududulu Ejderha Meyveli Meyve Şerbeti",
+        "zh": "树莓火龙果果汁雪葩",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "용과, 산딸기, 오렌지로 만든 상큼한 과일 셔벗.",
-        // "de": "",
-        "fr": "Un sorbet rafraîchissant fait à partir de fruit du dragon, de framboises et d'oranges.",
-       "hu": "Egy frissítő gyümölcs sörbet sárkánygyümölcsből, málnából, és narancsból.",
-        // "it": "",
-        "ja": "ドラゴンフルーツ、ラズベリー、オレンジを使った、さわやかなフルーツシャーベット。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "由火龙果、树莓和橙子制成的清爽水果雪葩。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "용과, 산딸기, 오렌지로 만든 상큼한 과일 셔벗.",
+    // "de": "",
+    "fr": "Un sorbet rafraîchissant fait à partir de fruit du dragon, de framboises et d'oranges.",
+    "hu": "Egy frissítő gyümölcs sörbet sárkánygyümölcsből, málnából, és narancsból.",
+    // "it": "",
+    "ja": "ドラゴンフルーツ、ラズベリー、オレンジを使った、さわやかなフルーツシャーベット。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Ejderha meyvesi, ahududu ve portakaldan yapılan ferahlatıcı bir meyve şerbeti.",
+    "zh": "由火龙果、树莓和橙子制成的清爽水果雪葩。"
+  }
 }

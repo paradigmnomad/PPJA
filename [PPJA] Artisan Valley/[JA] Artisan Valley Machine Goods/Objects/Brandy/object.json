@@ -40,7 +40,7 @@
         "ja": "ブランデー",
         "pt": "Brandy",
         "ru": "Бренди",
-         // "tr": "",
+        "tr": "Brendi",
         "zh": "白兰地",
     },
     "DescriptionLocalization":
@@ -54,7 +54,7 @@
         "ja": "ワインを蒸留することによって作られたスピリット。飲む時はほどほどに。",
         "pt": "Um destilado feito a partir do vinho. Beba com moderação!",
         "ru": "Алкогольный напиток, сделанный путем дистилляции вина. Пейте в меру.",
-         // "tr": "",
+        "tr": "Damıtılmış şaraptan yapılır. Kararında içilmeli.",
         "zh": "以果酒为原料蒸馏制成。适量饮酒。",
     }
 }

@@ -37,7 +37,7 @@
         "ja": "わたあめ",
         "pt": "Algodão doce",
          // "ru": "",
-         // "tr": "",
+        "tr": "Pamuk Şekeri",
         "zh": "棉花糖",
     },
     "DescriptionLocalization":
@@ -51,7 +51,7 @@
         "ja": "糸状にした砂糖を紡いだもの。",
         "pt": "É tecido com açúcar.",
          // "ru": "",
-         // "tr": "",
+        "tr": "Eğrilmiş şeker.",
         "zh": "这种糖像丝一样。",
     }
 }

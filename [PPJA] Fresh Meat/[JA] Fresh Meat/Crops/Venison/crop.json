@@ -18,7 +18,6 @@
         "ExtraChance": 0.1,
     },
     "SeedPurchasePrice": 100,
-
     "SeedNameLocalization":
     {
         "es": "Semillas de venado",
@@ -28,10 +27,10 @@
         "hu": "Őzhús magvak",
         // "it": "",
         // "ja": "",
-         "pt": "Sementes de veado",
-        // "ru": "",
-        // "tr": "",
-         "zh": "鹿肉种子",
+        "pt": "Sementes de veado",
+        "ru": "Семена оленины",
+        "tr": "Geyik Tohumu",
+        "zh": "鹿肉种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -43,8 +42,8 @@
         // "it": "",
         // "ja": "",
         "pt": "Plante isso na primavera ou no verão. Leva 10 dias para amadurecer.",
-        // "ru": "",
-        // "tr": "",
-         "zh": "春天或夏天播种。10天成熟。",
+        "ru": "Сажайте их весной или летом. Созревание занимает 10 дней.",
+        "tr": "Baharda veya yazın ekilir. 10 günde yetişir.",
+        "zh": "春天或夏天播种。10天成熟。"
     },
 }

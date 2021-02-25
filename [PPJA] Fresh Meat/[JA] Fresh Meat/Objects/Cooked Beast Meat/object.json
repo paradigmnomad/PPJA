@@ -38,9 +38,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "熟制野兽肉",
+        "ru": "Приготовленное мясо зверя",
+        "tr": "Pişmiş Canavar Eti",
+        "zh": "熟制野兽肉",
     },
     "DescriptionLocalization":
     {
@@ -52,13 +52,13 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "来自野生动物的肉，已经煮熟，准备用于烹调。",
+        "ru": "Мясо дикого зверя, уже приготовленное и готовое к использованию в рецептах.",
+        "tr": "Vahşi bir canavarın eti, zaten pişmiş ve tariflerde kullanıma hazır.",
+        "zh": "来自野生动物的肉，已经煮熟，准备用于烹调。",
     },
     "ContextTags": [
         "cooked_meat",
         "meat_item",
-    ],    
+    ],
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

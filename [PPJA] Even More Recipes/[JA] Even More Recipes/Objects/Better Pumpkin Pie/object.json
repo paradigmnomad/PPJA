@@ -45,32 +45,30 @@
               "y 2",
           ],
       },
-      "NameLocalization":
-      {
-          "es": "Pastel de calabaza mejorado",
-          "ko": "업그레이드 된 호박 파이",
-          "de": "Verbesserter Kürbiskuchen",
-          "fr": "Tarte à la citrouille améliorée",
-           // "hu": "",
-           // "it": "",
-          "ja": "パンプキンパイ",
-          "pt": "Melhor torta de abóbora",
-           // "ru": "",
-           // "tr": "",
-          "zh": "更好的南瓜派",
-      },
-      "DescriptionLocalization":
-      {
-          "es": "Nada es mejor que una rebanada de pastel de calabaza caliente.",
-          "ko": "따뜻한 호박 파이 한 조각보다 좋은 건 없죠.",
-          "de": "Nichts geht über ein schön warmes Stück Kürbiskuchen.",
-          "fr": "Rien de meilleur qu'une part d'une tarte à la citrouille.",
-           // "hu": "",
-           // "it": "",
-          "ja": "熱々のカボチャスライスに勝るものはない。",
-          "pt": "Nada é melhor do que uma fatia de torta de abóbora quente.",
-           // "ru": "",
-           // "tr": "",
-          "zh": "没有什么比来一份温暖的南瓜派更好的了！",
-      }
+    "NameLocalization": {
+      "es": "Pastel de calabaza mejorado",
+      "ko": "업그레이드 된 호박 파이",
+      "de": "Verbesserter Kürbiskuchen",
+      "fr": "Tarte à la citrouille améliorée",
+      "hu": "Jobb tökös pite",
+      // "it": "",
+      "ja": "パンプキンパイ",
+      "pt": "Melhor torta de abóbora",
+      // "ru": "",
+      "tr": "Daha İyi Balkabağı Turtası",
+      "zh": "更好的南瓜派"
+    },
+    "DescriptionLocalization": {
+      "es": "Nada es mejor que una rebanada de pastel de calabaza caliente.",
+      "ko": "따뜻한 호박 파이 한 조각보다 좋은 건 없죠.",
+      "de": "Nichts geht über ein schön warmes Stück Kürbiskuchen.",
+      "fr": "Rien de meilleur qu'une part d'une tarte à la citrouille.",
+      "hu": "Nincs is jobb egy szelet forró tökös piténél.",
+      // "it": "",
+      "ja": "熱々のカボチャスライスに勝るものはない。",
+      "pt": "Nada é melhor do que uma fatia de torta de abóbora quente.",
+      // "ru": "",
+      "tr": "Hiçbir şey bir dilim ılık balkabağı turtasından daha iyi olamaz.",
+      "zh": "没有什么比来一份温暖的南瓜派更好的了！"
+    }
   }

@@ -23,21 +23,20 @@
         "ja": "お手製石けん",
         "pt": "Sabonete Artesanal",
         "ru": "Домашнее мыло",
-         // "tr": "",
+        "tr": "Elyapımı Sabun",
         "zh": "手工香皂",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una barra perfumada de jabón artesanal.",
-        "ko": "향기로운 향이 나는 비누.",
-        "de": "Ein duftendes Stück handwerklich hergestellter Seife.",
-        "fr": "Une barre de savon parfumée et faite main.",
-        "hu": "Egy illatosított kézműves szappanrúd.",
-         // "it": "",
-        "ja": "いい香りがする手作りの石けん。",
-        "pt": "Uma barra de sabonete perfumada artesanal.",
-        "ru": "Ароматный кусок домашнего мыла.",
-         // "tr": "",
-        "zh": "一块有香味的手工肥皂。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una barra perfumada de jabón artesanal.",
+    "ko": "향기로운 향이 나는 비누.",
+    "de": "Ein duftendes Stück handwerklich hergestellter Seife.",
+    "fr": "Une barre de savon parfumée et faite main.",
+    "hu": "Egy illatosított kézműves szappanrúd.",
+    // "it": "",
+    "ja": "いい香りがする手作りの石けん。",
+    "pt": "Uma barra de sabonete perfumada artesanal.",
+    "ru": "Ароматный кусок домашнего мыла.",
+    "tr": "Bir kalıp kokulu sabun.",
+    "zh": "一块有香味的手工肥皂。"
+  }
 }

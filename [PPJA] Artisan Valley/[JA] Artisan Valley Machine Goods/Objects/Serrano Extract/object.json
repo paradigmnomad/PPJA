@@ -25,7 +25,7 @@
         "ja": "チリセラーノエキス",
         "pt": "Extrato Serrano",
         "ru": "Перец «Серрано»",
-         // "tr": "",
+        "tr": "Serrano Ekstratı",
         "zh": "塞拉诺高山椒提取液",
     },
     "DescriptionLocalization":
@@ -39,7 +39,7 @@
         "ja": "トウガラシから抽出された液体。",
         "pt": "Este líquido foi extraído de uma pimenta.",
         "ru": "Эта жидкость была извлечена из перца.",
-         // "tr": "",
+        "tr": "Bu sıvı bir biberden temin edilmiş.",
         "zh": "这种液体是从墨西哥的塞拉诺高山椒中提取出来的。",
     }
 }

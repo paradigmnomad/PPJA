@@ -34,7 +34,7 @@
         "ja": "エスプレッソマシン",
         "pt": "Máquina de Café Espresso",
         "ru": "Эспрессо-машина",
-        // "tr": "",
+        "tr": "Espresso Makinesi",
         "zh": "浓缩咖啡机",
     },
     "DescriptionLocalization":
@@ -48,7 +48,7 @@
         "ja": "おいしいコーヒーを作りましょう。",
         "pt": "Prepapre vários tipos de café deliciosos.",
         "ru": "Взбейте вкуснейшие виды кофе.",
-        // "tr": "",
+        "tr": "Leziz kahveler pişir.",
         "zh": "制作美味的咖啡。",
     }
 }

@@ -18,6 +18,9 @@
         }, ],
         "CanPurchase": false,
     },
+    "CanPurchase": true,
+    "PurchaseFrom": "Marnie",
+    "PurchasePrice": 1000,
     "NameLocalization":
     {
         "es": "Mantequera",
@@ -29,7 +32,7 @@
         "ja": "かくはん器",
         "pt": "Batedeira de Manteiga",
         "ru": "Маслобойка",
-        // "tr": "",
+        "tr": "Yayık",
         "zh": "黄油搅拌器",
     },
     "DescriptionLocalization":
@@ -43,7 +46,7 @@
         "ja": "ミルクやナッツを混ぜてバターにする。",
         "pt": "Transforma leite ou castanhas em manteiga.",
         "ru": "Перерабатывает молоко или орехи в масло.",
-        // "tr": "",
+        "tr": "Sütten tereyağı, yemişlerden ezme yapar.",
         "zh": "把牛奶或坚果变成黄油。",
     }
 }

@@ -27,7 +27,7 @@
     "CanPurchase": true,
     "PurchaseFrom": "Gus",
     "PurchasePrice": 2000,
-    "PurchaseRequirements": [ "f Wizard 1500"],
+    "PurchaseRequirements": ["f Wizard 1500"],
     "NameLocalization":
     {
         "es": "Carne de ave fénix cocinada",
@@ -38,9 +38,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "熟制凤凰肉",
+        "ru": "Приготовленное мясо феникса",
+        "tr": "Pişmiş Anka Eti",
+        "zh": "熟制凤凰肉",
     },
     "DescriptionLocalization":
     {
@@ -52,13 +52,13 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-         "zh": "从凤凰身上取下的滚烫的肉，已经煮熟，可以用于烹饪。",
+        "ru": "Пылающее горячее мясо феникса, уже приготовленное и готовое к использованию в рецептах",
+        "tr": "Parıldayan bir anka eti parçası, zaten pişmiş ve tariflerde kullanıma hazır.",
+        "zh": "从凤凰身上取下的滚烫的肉，已经煮熟，可以用于烹饪。",
     },
     "ContextTags": [
         "cooked_meat",
         "meat_item",
-    ],    
-    "DisableWithMod": "HadiZosa.BFAVnewmeat"  
+    ],
+    "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

@@ -22,7 +22,7 @@
         "ja": "豚肉",
         "pt": "Carne de porco",
         "ru": "Свинина",
-        // "tr": "",
+        "tr": "Yağlı Domuz ETi",
         "zh": "猪肉",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "脂身を取り除いた豚肉。",
         "pt": "Um corte gordo de porco.",
         "ru": "Жирный кусок свинины.",
-        // "tr": "",
+        "tr": "Yağlı bir domuz eti parçası.",
         "zh": "一份猪肉。",
     },
     "DisableWithMod": "DIGUS.ANIMALHUSBANDRYMOD"

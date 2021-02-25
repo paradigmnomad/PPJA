@@ -32,7 +32,7 @@
         "ja": "カフェアメリカーノ",
         "pt": "Café Americano",
         "ru": "Американо",
-         // "tr": "",
+        "tr": "Amerikano",
         "zh": "美式咖啡",
     },
     "DescriptionLocalization":
@@ -46,7 +46,7 @@
         "ja": "濃い苦み。目覚ましに役立つ。",
         "pt": "Amargo e forte. Lhe ajudará a acordar.",
         "ru": "Горький и крепкий. Это поможет вам проснуться.",
-         // "tr": "",
+        "tr": "Acı ve sert. Uyanmana yardımcı olur.",
         "zh": "苦涩且效力强劲。有助你振奋精神。",
     }
 }

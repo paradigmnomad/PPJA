@@ -23,8 +23,8 @@
         "ja": "ラフレシア",
         "pt": "Raflésia",
         "ru": "Раффлезия",
-        // "tr": "",
-        "zh": "大王花",
+        "tr": "Raflesya",
+        "zh": "大王花"
     },
     "DescriptionLocalization":
     {
@@ -37,7 +37,7 @@
         "ja": "巨大に成長し悪臭を発する世界最大の花。",
         "pt": "Uma flor fétida que cresce a um tamanho gigante. É a maior flor do mundo",
         "ru": "Дурно пахнущий цветок, вырастающий до огромных размеров. Самый большой цветок в мире.",
-        // "tr": "",
-        "zh": "一种恶臭的花，长得很大。它是世界上最大的花。",
+        "tr": "Kocaman ağır kokulu bir çiçek. Dünyanın en büyük çiçeği.",
+        "zh": "一种恶臭的花，长得很大。它是世界上最大的花。"
     }
 }

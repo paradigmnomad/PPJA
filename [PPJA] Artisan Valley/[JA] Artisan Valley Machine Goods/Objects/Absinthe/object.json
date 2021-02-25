@@ -43,7 +43,7 @@
         "ja": "アブサン",
         "pt": "Absinto",
         "ru": "Абсент",
-         // "tr": "",
+        "tr": "Absent",
         "zh": "苦艾酒",
     },
     "DescriptionLocalization":
@@ -57,7 +57,7 @@
         "ja": "「緑の妖精」という名でも知られている。節度を持って飲んでください。",
         "pt": "Tambpem conhecido como 'fada verde'. Beba com estrita moderação!",
         "ru": "Также известен как Зеленая Фея. Пейте в меру.",
-         // "tr": "",
+        "tr": "'Yeşil peri' olarak da bilinir. Kesinlikle kararında içilmeli!",
         "zh": "也被称为“绿仙女”。适量饮酒。",
     }
 }

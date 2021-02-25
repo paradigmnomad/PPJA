@@ -25,21 +25,20 @@
         "ja": "ゴーストペッパーエキス",
         "pt": "Extrato de Pimenta-Fantasma",
         "ru": "Перец «Призрак»",
-         // "tr": "",
+        "tr": "Hayalet Biberi Ekstratı",
         "zh": "魔鬼辣椒提取液",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Incluso los amantes de las especias verdaderamente dedicados solo pueden tolerar una gota o dos de esto en la comida.",
-        "ko": "매운맛 애호가조차도 음식에 한 두 방울만 떨어뜨려 먹을 수 있습니다.",
-        "de": "Sogar wirklich engagierte Gewürzliebhaber können nur einen Tropfen oder zwei davon im Essen vertragen.",
-        "fr": "Il n'y a guère que les amoureux des piments qui sont en mesure de tolérer une goutte ou deux de cette nourriture.",
-        "hu": "Még a legelhivatottabb paprikakedvelők is csak egy-két cseppet bírnak ki ebből az ételben.",
-         // "it": "",
-        "ja": "熱烈なスパイス愛好家でさえ、これは2滴までが精いっぱいの辛さ。",
-        "pt": "Mesmo os amantes mais dedicados de pimenta só podem tolerar uma ou duas gotas desta comida.",
-        "ru": "Даже действительно преданные любители специй могут выдержать только одну или две его капли в еде.",
-         // "tr": "",
-        "zh": "即使是真正的香料爱好者也只能忍受食物中加入一两滴这种提取液。",
-    }
+  "DescriptionLocalization": {
+    "es": "Incluso los amantes de las especias verdaderamente dedicados solo pueden tolerar una gota o dos de esto en la comida.",
+    "ko": "매운맛 애호가조차도 음식에 한 두 방울만 떨어뜨려 먹을 수 있습니다.",
+    "de": "Sogar wirklich engagierte Gewürzliebhaber können nur einen Tropfen oder zwei davon im Essen vertragen.",
+    "fr": "Il n'y a guère que les amoureux des piments qui sont en mesure de tolérer une goutte ou deux de cette nourriture.",
+    "hu": "Még a legelhivatottabb paprikakedvelők is csak egy-két cseppet bírnak ki ebből az ételben.",
+    // "it": "",
+    "ja": "熱烈なスパイス愛好家でさえ、これは2滴までが精いっぱいの辛さ。",
+    "pt": "Mesmo os amantes mais dedicados de pimenta só podem tolerar uma ou duas gotas desta comida.",
+    "ru": "Даже действительно преданные любители специй могут выдержать только одну или две его капли в еде.",
+    "tr": "Gerçek acıseverler bile ancak bir yada iki damlasına dayanabiliyor.",
+    "zh": "即使是真正的香料爱好者也只能忍受食物中加入一两滴这种提取液。"
+  }
 }

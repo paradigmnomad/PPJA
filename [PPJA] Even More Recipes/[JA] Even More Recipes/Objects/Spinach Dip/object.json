@@ -45,7 +45,7 @@
         "ja": "ホウレンソウディップ",
          "pt": "Molho de espinafre",
          // "ru": "",
-         // "tr": "",
+          "tr": "Ispanak Ezmesi",
           "zh": "菠菜奶酪蘸酱",
     },
     "DescriptionLocalization":
@@ -57,9 +57,9 @@
          // "hu": "",
          // "it": "",
         "ja": "ポテトにつけて召し上がれ！",
-         "pt": "Para suas batatas fritas!",
+        "pt": "Para suas batatas fritas!",
          // "ru": "",
-         // "tr": "",
-          "zh": "搭配你的蔬菜脆片一起吃！",
+        "tr": "Cipsin için!",
+        "zh": "搭配你的蔬菜脆片一起吃！",
     }
 }

@@ -11,35 +11,36 @@
         "Hate": ["Sebastian"],
     },
     "Recipe": null,
-	"NameLocalization": { 
-		"es": "Piel de vaca",
-		"ko": "소가죽",
-        //"de": "",
+    "NameLocalization":
+    {
+        "es": "Piel de vaca",
+        "ko": "소가죽",
+        // "de": "",
         "fr": "Cuir de vache",
         "hu": "Tehénbőr",
         // "it": "",
-        //"ja": "",
-        //"pt": "",
-        // "ru": "",
-        // "tr": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Шкура коровы",
+        "tr": "İnek Derisi",
         "zh": "奶牛皮",
     },
     "DescriptionLocalization":
     {
         "es": "Una piel de vaca que ha sido curtida.",
         "ko": "소의 가죽.",
-        //"de": "",
+        // "de": "",
         "fr": "Une peau de vache qui a été tannée.",
         "hu": "Egy tehén cserzett bőre.",
         // "it": "",
-        //"ja": "",
-        //"pt": "",
-        // "ru": "",
-        // "tr": "",
+        // "ja": "",
+        // "pt": "",
+        "ru": "Коровья выдубленная шкура",
+        "tr": "Güneşte bekletilmiş inek derisi.",
         "zh": "经过鞣制的奶牛皮。",
     },
-	"ContextTags": [
+    "ContextTags": [
         "leather_item",
     ],
-    "EnableWithMod": "Cherry.MultiYieldCrops"    
+    "EnableWithMod": "Cherry.MultiYieldCrops"
 }

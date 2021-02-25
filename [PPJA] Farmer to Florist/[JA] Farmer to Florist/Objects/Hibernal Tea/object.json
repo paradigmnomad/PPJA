@@ -44,27 +44,27 @@
         "es": "Té invernal",
         "ko": "겨울의 차",
         "de": "Winterlicher Tee",
-        // "fr": "",
+        "fr": "Tisane hivernale",
         "hu": "Téli tea",
         // "it": "",
         "ja": "冬のお茶",
         "pt": "Chá Hibernal",
         "ru": "Зимний чай",
-        // "tr": "",
-        "zh": "冬日茶",
+        "tr": "Kış Çayı",
+        "zh": "冬日茶"
     },
     "DescriptionLocalization":
     {
         "es": "Un té que calienta el alma. Hace que desees leerte un buen libro.",
         "ko": "영혼을 따뜻하게 해주는 아주 잘 말린 차. 좋아하는 책과 함께 아늑하게 지내고 싶어 진다.",
         "de": "Ein runder Tee, der die Seele wärmt. Mach es dir mit einem guten Buch gemütlich.",
-        // "fr": "",
+        "fr": "Une tisane bien équilibrée qui réchauffe le coeur. Donne envie de se pelotonner avec un bon livre.",
         "hu": "Egy gazdag ízvilágú tea, mely megmelenget a hideg napokon. Meghozza a kedved bekuckózni és előkapni egy jó könyvet.",
         // "it": "",
         "ja": "心まで温める爽やかでまろみのあるお茶。読書のおともに。",
         "pt": "Um chá bem arredondado que aquece a alma. Faz você querer se aconchegar com um bom livro.",
         "ru": "Хорошо собранный чай, согревающий душу. Вызывает желание удобно устроиться и почитывать книгу.",
-        // "tr": "",
-        "zh": "冬日茶。沁人心脾的醇厚香茶。使人想读一本好书。",
+        "tr": "Ruhu ısıtan tam donanımlı bir çay. Canın istiyor ki eline kitap alıp rahatlayasın.",
+        "zh": "冬日茶。沁人心脾的醇厚香茶。使人想读一本好书。"
     }
 }

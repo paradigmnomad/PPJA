@@ -22,21 +22,20 @@
         "ja": "カシューバター",
         "pt": "Manteiga de Caju",
         "ru": "Масло кешью",
-         // "tr": "",
+        "tr": "Kaju Ezmesi",
         "zh": "腰果黄油",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una mantequilla crujiente con trozos de anacardo dentro.",
-        "ko": "캐슈가 들어간 바삭바삭한 버터.",
-        "de": "Eine knusprige Butter mit Cashewnüssen drin.",
-        "fr": "Un beurre croquant avec des morceaux de noix de cajou dedans.",
-        "hu": "Egy ropogós vaj kesudarabokkal a belsejében.",
-         // "it": "",
-        "ja": "砕いたカシューナッツが入っているカリカリなバター。",
-        "pt": "Uma manteiga crocante com pedaços de caju dentro.",
-        "ru": "Хрустящее масло с кусочками кешью внутри.",
-         // "tr": "",
-        "zh": "内里混有腰果的酥脆黄油。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una mantequilla crujiente con trozos de anacardo dentro.",
+    "ko": "캐슈가 들어간 바삭바삭한 버터.",
+    "de": "Eine knusprige Butter mit Cashewnüssen drin.",
+    "fr": "Un beurre croquant avec des morceaux de noix de cajou dedans.",
+    "hu": "Egy ropogós vaj kesudarabokkal a belsejében.",
+    // "it": "",
+    "ja": "砕いたカシューナッツが入っているカリカリなバター。",
+    "pt": "Uma manteiga crocante com pedaços de caju dentro.",
+    "ru": "Хрустящее масло с кусочками кешью внутри.",
+    "tr": "içinde kıtır kaju parçaları olan bir ezme.",
+    "zh": "内里混有腰果的酥脆黄油。"
+  }
 }

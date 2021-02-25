@@ -38,20 +38,20 @@
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 5550,
-            },
+    },
 
     "NameLocalization":
     {
         "es": "Destornillador",
         "ko": "스크루드라이버",
         "de": "Schraubenzieher",
-        // "fr": "",
+        "fr": "Screwdriver",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Chave de Fenda",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Отвертка",
+        "tr": "Tornavida",
         "zh": "螺丝起子",
     },
     "DescriptionLocalization":
@@ -59,13 +59,13 @@
         "es": "Por favor no opere maquinaria pesada bajo influencia de esta bebida.",
         "ko": "취한 상태로 중장비를 작동시키지 마세요.",
         "de": "Bitte bedienen Sie keine schweren Maschinen unter dem Einfluss von Alkohol",
-        // "fr": "",
+        "fr": "N'opérez pas de machinerie sous l'influence de l'alcool.",
         // "hu": "",
         // "it": "",
         // "ja": "",
         "pt": "Favor não operar máquinas pesadas sob influência desta bebida.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Пожалуйста, не эксплуатируйте тяжелую технику в состоянии алкогольного опьянения.",
+        "tr": "Lütfen etkisindeyken ağır makine kullanmayın.",
         "zh": "螺丝起子。请不要在受其影响的情况下操作重型机械。",
     }
 }

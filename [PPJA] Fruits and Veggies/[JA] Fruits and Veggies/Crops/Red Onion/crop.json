@@ -23,32 +23,30 @@
         "y 3",
     ],
 
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de cebolla roja",
-        "ko": "적양파 씨앗",
-        "de": "Rote Zwiebeln-Saat",
-        "fr": "Bulbe d'oignon rouge",
-        "hu": "Lilahagyma magvak",
-        // "it": "",
-        "ja": "レッドオニオンのタネ",
-        "pt": "Sementes de Cebola Vermelha",
-        "ru": "Семена красного лука",
-        // "tr": "",
-        "zh": "红洋葱种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en primavera. Tardan 8 días en madurar.",
-        "ko": "봄 작물. 성장하려면 8일이 소요됩니다.",
-        "de": "Pflanze sie im Frühling. Wächst in 8 Tagen heran.",
-        "fr": "À planter au printemps. Prend 8 jours pour arriver à maturité.",
-        "hu": "Ezeket tavasszal ültesd el. 8 napig tart megérniük",
-        // "it": "",
-        "ja": "春植えの作物。そだつのに8日かかる。",
-        "pt": "Plante-as na primavera. Leva 8 dias para amadurecer.",
-        "ru": "Сажайте весной. Вырастает через 8 дней.",
-        // "tr": "",
-        "zh": "春天播种，8天成熟。",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de cebolla roja",
+    "ko": "적양파 씨앗",
+    "de": "Rote Zwiebeln-Saat",
+    "fr": "Bulbe d'oignon rouge",
+    "hu": "Lilahagyma magvak",
+    // "it": "",
+    "ja": "レッドオニオンのタネ",
+    "pt": "Sementes de Cebola Vermelha",
+    "ru": "Семена красного лука",
+    "tr": "Kırmızı Soğan Tohumu",
+    "zh": "红洋葱种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en primavera. Tardan 8 días en madurar.",
+    "ko": "봄 작물. 성장하려면 8일이 소요됩니다.",
+    "de": "Pflanze sie im Frühling. Wächst in 8 Tagen heran.",
+    "fr": "À planter au printemps. Prend 8 jours pour arriver à maturité.",
+    "hu": "Ezeket tavasszal ültesd el. 8 napig tart megérniük",
+    // "it": "",
+    "ja": "春植えの作物。そだつのに8日かかる。",
+    "pt": "Plante-as na primavera. Leva 8 dias para amadurecer.",
+    "ru": "Сажайте весной. Вырастает через 8 дней.",
+    "tr": "Baharda ekilir. 8 günde yetişir.",
+    "zh": "春天播种，8天成熟。"
+  }
 }

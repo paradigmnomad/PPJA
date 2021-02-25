@@ -23,32 +23,30 @@
     "SeedPurchaseRequirements": [
         "y 2",
     ],
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de mora",
-        "ko": "블랙베리 씨앗",
-        "de": "Brombeer-Saat",
-        "fr": "Graines de mûre",
-        "hu": "Szeder magvak",
-         // "it": "",
-        "ja": "ブラックベリーのタネ",
-        "pt": "Sementes de amora",
-        "ru": "Семена ежевики",
-         // "tr": "",
-        "zh": "黑莓种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en otoño. Tardan 10 días en crecer, y continuan produciendo después de la primera cosecha.",
-        "ko": "가을 작물. 성장하려면 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
-        "de": "Pflanze sie im Herbst. Wächst in 10 Tagen heran, kann aber danach mehrmals geerntet werden.",
-       	"fr": "À planter en automne. Prend 10 jours pour arriver à maturité, et continue de produire après la première récolte.",
-        "hu": "Ezeket ősszel ültesd el. 10 napig tart megérniük, de utána tovább termelnek.",
-         // "it": "",
-        "ja": "秋植えの作物。そだつのに10日かかるが、そのあともくりかえし収穫できる。",
-        "pt": "Plante-as no outono. Demora 10 dias para amadurecer e continua produzindo após a primeira colheita.",
-        "ru": "Сажайте осенью. Вырастает через 10 дней и продолжает давать урожай после первого сбора.",
-         // "tr": "",
-        "zh": "秋天播种。10天成熟，在第一次收获后循环生产。",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de mora",
+    "ko": "블랙베리 씨앗",
+    "de": "Brombeer-Saat",
+    "fr": "Graines de mûre",
+    "hu": "Szeder magvak",
+    // "it": "",
+    "ja": "ブラックベリーのタネ",
+    "pt": "Sementes de amora",
+    "ru": "Семена ежевики",
+    "tr": "Böğürtlen Tohumu",
+    "zh": "黑莓种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en otoño. Tardan 10 días en crecer, y continuan produciendo después de la primera cosecha.",
+    "ko": "가을 작물. 성장하려면 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
+    "de": "Pflanze sie im Herbst. Wächst in 10 Tagen heran, kann aber danach mehrmals geerntet werden.",
+    "fr": "À planter en automne. Prend 10 jours pour arriver à maturité, et continue de produire après la première récolte.",
+    "hu": "Ezeket ősszel ültesd el. 10 napig tart megérniük, de utána tovább termelnek.",
+    // "it": "",
+    "ja": "秋植えの作物。そだつのに10日かかるが、そのあともくりかえし収穫できる。",
+    "pt": "Plante-as no outono. Demora 10 dias para amadurecer e continua produzindo após a primeira colheita.",
+    "ru": "Сажайте осенью. Вырастает через 10 дней и продолжает давать урожай после первого сбора.",
+    "tr": "Güzde ekilir. 10 günde yetişir ve ilk hasattan sonra yetişmeye devam eder.",
+    "zh": "秋天播种。10天成熟，在第一次收获后循环生产。"
+  }
 }

@@ -51,7 +51,7 @@
         "ja": "ハニーケーキ",
         "pt": "Bolo de mel",
          // "ru": "",
-         // "tr": "",
+        "tr": "Ballı Pasta",
         "zh": "蜂蜜蛋糕",
     },
     "DescriptionLocalization":
@@ -65,7 +65,7 @@
         "ja": "とろーり甘い！",
         "pt": "Um doce pegajoso!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Yapışkan bir tatl!ı (Hadi yine ballısın.)",
         "zh": "一份黏黏的甜点！",
     }
 }

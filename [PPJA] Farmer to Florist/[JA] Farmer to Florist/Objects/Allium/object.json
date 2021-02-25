@@ -18,32 +18,32 @@
         "es": "Allium",
         "ko": "알리움",
         "de": "Kugellauch",
-         // "fr": "",
+        "fr": "Oignon ornemental",
         "hu": "Díszhagyma",
-         // "it": "",
+        // "it": "",
         "ja": "アリウム",
         "pt": "Alho Ornamental",
         "ru": "Декоративный лук",
-         // "tr": "",
-        "zh": "大花葱",
+        "tr": "Alyum",
+        "zh": "大花葱"
     },
     "DescriptionLocalization":
     {
         "es": "Crece en una esfera para invitar a tantas mariposas como sea posible.",
         "ko": "꽃이 구형으로 피는 것은 최대한 많은 나비를 끌어들이기 위함입니다.",
         "de": "Die Blume wächst in einer Kugel, um so viele Schmetterlinge wie möglich einzuladen.",
-         // "fr": "",
+        "fr": "La fleur pousse en boule pour inviter autant de papillons que possible.",
         "hu": "A virága gömb alakú, hogy minél több pillangót tudjon odavonzani.",
-         // "it": "",
+        // "it": "",
         "ja": "丸く育った花は沢山の蝶を引き寄せる。",
         "pt": "A flor cresce em uma esfera para atrair o máximo de borboleta possíveis.",
         "ru": "Цветок растет в форме сферы, чтобы привлечь как можно больше бабочек.",
-         // "tr": "",
+        "tr": "Çiçeği olabildiğince çok kelebek çekmek için küre şeklinde yetişir.",
         "zh": "花朵长成球形，以吸引尽可能多的蝴蝶。",
     },
     "ContextTags": [
-    	"season_summer",
-    	"flower_item",
-    	"color_purple"
+        "season_summer",
+        "flower_item",
+        "color_purple"
     ]
 }

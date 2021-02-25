@@ -53,21 +53,20 @@
         "ja": "エビの手揚げてんぷら",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Ebi Tempura",
         "zh": "日式炸虾天妇罗",
     },
-    "DescriptionLocalization":
-    {
-        // "es": "",
-        "ko": "즙이 많은 새우에 반죽을 살짝 입혀서 튀긴 후, 간장과 함께 제공됩니다.",
-        // "de": "",
-        "fr": "Crevette succulente, légèrement enrobée de panure et frite. Servie avec une sauce de soja.",
-        "hu": "Zamatos, tésztával enyhén bevonatolt garnélarák. Szójaszósszal tálalják.",
-        // "it": "",
-        "ja": "ぷりぷりのエビを衣に包んで油で揚げたもの。醤油につけて食べる。",
-        // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "多汁的虾仁挂上少许面糊下锅油炸捞出，品尝它时酱油必不可少。",
-    }
+  "DescriptionLocalization": {
+    // "es": "",
+    "ko": "즙이 많은 새우에 반죽을 살짝 입혀서 튀긴 후, 간장과 함께 제공됩니다.",
+    // "de": "",
+    "fr": "Crevette succulente, légèrement enrobée de panure et frite. Servie avec une sauce de soja.",
+    "hu": "Zamatos, tésztával enyhén bevonatolt garnélarák. Szójaszósszal tálalják.",
+    // "it": "",
+    "ja": "ぷりぷりのエビを衣に包んで油で揚げたもの。醤油につけて食べる。",
+    // "pt": "",
+    // "ru": "",
+    "tr": "Harca batırılıp kızartılmış güzelinden bir karides. Soya sosuyla servis edilir.",
+    "zh": "多汁的虾仁挂上少许面糊下锅油炸捞出，品尝它时酱油必不可少。"
+  }
 }

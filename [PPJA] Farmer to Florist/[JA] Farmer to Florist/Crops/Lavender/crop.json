@@ -20,7 +20,7 @@
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 1,
         "MaxIncreasePerFarmLevel": 5,
-        "ExtraChance": 0.0,
+        "ExtraChance": 0.0
     },
 
     "SeedPurchasePrice": 50,
@@ -31,12 +31,12 @@
         "de": "Lavendelsamen",
         "fr": "Graines de lavande",
         "hu": "Levendula magvak",
-        // "it": "",
+        "fr": "Graines de lavande",
         "ja": "ラベンダーの種",
         "pt": "Semente de lavanda",
         "ru": "Семена лаванды",
-        // "tr": "",
-        "zh": "薰衣草种子",
+        "tr": "Lavanta Tohumu",
+        "zh": "薰衣草种子"
     },
     "SeedDescriptionLocalization":
     {
@@ -49,7 +49,7 @@
         "ja": "夏に植えます。小さな紫色の花を作るのに13日かかります。",
         "pt": "Plante-a  no verão. Demoram 13 dias para nascer uma flor roxa.",
         "ru": "Сажайте летом. Через 13 дней вырастает маленький фиолетовый цветок.",
-        // "tr": "",
-        "zh": "夏天播种。13天产出小巧的紫色花朵。",
+        "tr": "Yazın ekilir. 13 günde küçük mor çiçeklere dönüşür",
+        "zh": "夏天播种。13天产出小巧的紫色花朵。"
     }
 }

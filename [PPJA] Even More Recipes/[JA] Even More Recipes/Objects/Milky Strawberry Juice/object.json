@@ -1,7 +1,7 @@
 {
     "Name": "Milky Strawberry Juice",
     "Description": "100% Real Juice!",
-    "Category": "Cooking",
+    "Category": "ArtisanGoods",
     "Edibility": 44,
     "EdibleIsDrink": true,
     "EdibleBuffs": null,
@@ -28,7 +28,7 @@
         "ja": "イチゴミルク缶",
         "pt": "Suco de morango com leite",
          // "ru": "",
-         // "tr": "",
+        "tr": "Sütlü Çilek Suyu",
         "zh": "草莓味牛奶",
     },
     "DescriptionLocalization":
@@ -42,7 +42,7 @@
         "ja": "100％果汁！",
         "pt": "100% feito com suco natural!",
          // "ru": "",
-         // "tr": "",
+        "tr": "100% gerçek meyve suyu!",
         "zh": "百分百天然草莓汁！",
     }
 }

@@ -40,8 +40,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Дракон в кисло-сладкой глазури",
+        "tr": "Tatlı ve Ekşi Lokmalar.",
         "zh": "酸甜肉块",
     },
     "DescriptionLocalization":
@@ -54,9 +54,9 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
-        "zh": "大块多汁的龙肉，用浓糖醋汁猛火收汁炒制而成。",
+        "ru": "Куски сочного драконьего мяса, обжаренные в густой кисло-сладкой глазури.",
+        "tr": "Sulu ejderha eti parçaları; yoğun, tatlı ve ekşi bir parıltıya doymuş.",
+        "zh": "大块多汁的龙肉，用浓糖醋汁猛火收汁炒制而成。"
     },
     "DisableWithMod": "HadiZosa.BFAVnewmeat"
 }

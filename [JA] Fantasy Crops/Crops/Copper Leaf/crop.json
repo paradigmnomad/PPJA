@@ -6,44 +6,47 @@
     "Type": "Mineral",
 
     "Seasons": ["spring"],
-    "Phases": [ 1, 2, 3, 2, 2],
+    "Phases": [1, 2, 3, 2, 2],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": null,
-    "Bonus": {
+    "Bonus":
+    {
         "MinimumPerHarvest": 1,
         "MaximumPerHarvest": 5,
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 2.0
     },
-"SeedPurchaseFrom": "Krobus",
-  "SeedPurchasePrice": 50,
+    "SeedPurchaseFrom": "Krobus",
+    "SeedPurchasePrice": 50,
 
-"SeedNameLocalization": { 
-    "es": "Semillas de cobre",
-    "ko": "구리 씨앗",
-    "de": "Kupfersamen",
-    "fr": "Graines de cuivre",
-    "hu": "Réz magvak",
-    "it": "Semi di rame",
-    "ja": "銅の種",
-    "pt": "Sementes de cobre",
-    "ru": "Семена меди",
-    "tr": "Bakır Tohumlar",
-    "zh": "铜矿种子"
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de cobre",
+        "ko": "구리 씨앗",
+        "de": "Kupfersamen",
+        "fr": "Graines de cuivre",
+        "hu": "Réz magvak",
+        "it": "Semi di rame",
+        "ja": "銅の種",
+        "pt": "Sementes de cobre",
+        "ru": "Семена меди",
+        "tr": "Bakır Tohumu",
+        "zh": "铜矿种子"
     },
-"SeedDescriptionLocalization": { 
-    "es": "Plantalas en primavera. Toma 10 dias para madurar.",
-    "ko": "봄 작물. 성장하려면 10일이 소요됩니다.",
-    "de": "Pflanzen Sie diese im Frühjahr. Die Reifezeit beträgt 10 Tage.",
-    "fr": "À planter au printemps. Prend 10 jours pour produire du cuivre.",
-    "hu": "Ezeket tavasszal ültesse el. 10 napig tart megérniük.",
-    "it": "Piantali in primavera. Ci vogliono 10 giorni per maturare.",
-    "ja": "これらを春に植えます。 成熟するのに10日かかります。",
-    "pt": "Plante-as na primavera. Leva 10 dias para amadurecer.",
-    "ru": "Высаживайте их весной. Вырастают за 10 дней.",
-    "tr": "Bunları ilkbaharda dikin. Olgunlaşması 10 gün sürer.",
-    "zh": "春天播种。10天成熟。"
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plantalas en primavera. Toma 10 dias para madurar.",
+        "ko": "봄 작물. 성장하려면 10일이 소요됩니다.",
+        "de": "Pflanzen Sie diese im Frühjahr. Die Reifezeit beträgt 10 Tage.",
+        "fr": "À planter au printemps. Prend 10 jours pour produire du cuivre.",
+        "hu": "Ezeket tavasszal ültesse el. 10 napig tart megérniük.",
+        "it": "Piantali in primavera. Ci vogliono 10 giorni per maturare.",
+        "ja": "これらを春に植えます。 成熟するのに10日かかります。",
+        "pt": "Plante-as na primavera. Leva 10 dias para amadurecer.",
+        "ru": "Высаживайте их весной. Вырастают за 10 дней.",
+        "tr": "Baharda ekilir. 10 günde yetişir.",
+        "zh": "春天播种。10天成熟。"
     }
 }

@@ -23,15 +23,15 @@
     {
         "es": "Semillas de perilla",
         "ko": "들깨 씨앗",
-        //"de": "",
+        // "de": "",
         "fr": "Graines de pérille",
         "hu": "Kínai bazsalikom magvak",
         // "it": "",
         "ja": "エゴマの種",
         "pt": "Sementes de Perilla",
-        //"ru": "",
-        // "tr": "",
-        "zh": "紫苏种子",
+        // "ru": "",
+        "tr": "Perilla Tohumu",
+        "zh": "紫苏种子"
     },
     "SeedDescriptionLocalization":
     {
@@ -44,7 +44,7 @@
         "ja": "夏植えの作物。そだつのに4日かかる。",
         "pt": "Plante-as no verão. Demora 4 dias para amadurecer.",
         "ru": "Сажайте летом. Вырастает через 4 дней.",
-        // "tr": "",
-        "zh": "夏天播种。4天成熟。",
+        "tr": "Yazın ekilir. 4 günde yetişir.",
+        "zh": "夏天播种。4天成熟。"
     }
 }

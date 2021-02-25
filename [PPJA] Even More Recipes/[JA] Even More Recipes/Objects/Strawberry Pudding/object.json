@@ -37,7 +37,7 @@
         "ja": "イチゴのプリン",
         "pt": "Pudim de morango",
          // "ru": "",
-         // "tr": "",
+        "tr": "Çilekli Puding",
         "zh": "草莓布丁",
     },
     "DescriptionLocalization":
@@ -51,7 +51,7 @@
         "ja": "ジグルジグル",
         "pt": "Mexe, mexe!",
          // "ru": "",
-         // "tr": "",
+        "tr": "Sallan, sallan!",
         "zh": "草莓布丁（抖动，抖动）。",
     }
 }

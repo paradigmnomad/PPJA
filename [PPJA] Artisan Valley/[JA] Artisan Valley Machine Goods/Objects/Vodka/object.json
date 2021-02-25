@@ -40,21 +40,20 @@
         "ja": "ウォッカ",
         "pt": "Vodca",
         "ru": "Водка",
-         // "tr": "",
+        "tr": "Vodka",
         "zh": "伏特加",
     },
-    "DescriptionLocalization":
-    {
-        "es": "Una bebida destilada a partir de papas. Beber con moderación.",
-        "ko": "감자를 증류시켜 만든 술. 절제해서 드세요.",
-        "de": "Eine aus Kartoffeln destillierte Spirituose. Genieße ihn in Maßen.",
-        "fr": "Un spiritueux distillé à partir de pommes de terre. À boire avec modération.",
-        "hu": "Egy burgonyából desztillált szeszesital. Fogyasszad mértékkel!",
-         // "it": "",
-        "ja": "ジャガイモから蒸留したお酒。適度な量で飲みましょう。",
-        "pt": "Uma bebida destilada a partir de batatas. Beba com moderação!",
-        "ru": "Алкогольный напиток, дистиллированный из картофеля. Пейте в меру.",
-         // "tr": "",
-        "zh": "一种由土豆蒸馏而成的烈酒。适量饮酒。",
-    }
+  "DescriptionLocalization": {
+    "es": "Una bebida destilada a partir de papas. Beber con moderación.",
+    "ko": "감자를 증류시켜 만든 술. 절제해서 드세요.",
+    "de": "Eine aus Kartoffeln destillierte Spirituose. Genieße ihn in Maßen.",
+    "fr": "Un spiritueux distillé à partir de pommes de terre. À boire avec modération.",
+    "hu": "Egy burgonyából desztillált szeszesital. Fogyasszad mértékkel!",
+    // "it": "",
+    "ja": "ジャガイモから蒸留したお酒。適度な量で飲みましょう。",
+    "pt": "Uma bebida destilada a partir de batatas. Beba com moderação!",
+    "ru": "Алкогольный напиток, дистиллированный из картофеля. Пейте в меру.",
+    "tr": "Patatesten damıtılan içecek. Kararında içilmeli.",
+    "zh": "一种由土豆蒸馏而成的烈酒。适量饮酒。"
+  }
 }

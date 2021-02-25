@@ -123,18 +123,7 @@
         "OutputIdentifier": "Bird DNA",
         "Sounds": ["powerup"],
     },
-    {
-        "ProducerName": "Meat Press",
-        "InputIdentifier": "Bird DNA",
-        "InputStack": 1,
-        "FuelIdentifier": "Genetically Engineered Yeast",
-        "FuelStack": 1,
-        "MinutesUntilReady": 10,
-        "OutputIdentifier": "Bird Meat",
-        "OutputStack": 2,
-        "Sounds": ["fishSlap"],
-    },
-
+    
     // Rabbit
 
     {

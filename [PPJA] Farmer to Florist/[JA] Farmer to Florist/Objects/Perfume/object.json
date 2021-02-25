@@ -11,27 +11,27 @@
         "es": "Perfume",
         "ko": "향수",
         "de": "Parfüm",
-        // "fr": "",
+        "fr": "Parfum",
         "hu": "Parfüm",
         // "it": "",
         "ja": "香水",
         "pt": "Perfume",
         "ru": "Духи",
-        // "tr": "",
-        "zh": "香水",
+        "tr": "Parfüm",
+        "zh": "香水"
     },
     "DescriptionLocalization":
     {
         "es": "Un aroma encantador embotellado.",
         "ko": "병 안에 담겨진 매혹적인 향기.",
         "de": "Ein bezaubernder Duft in einer Flasche.",
-        // "fr": "",
+        "fr": "Une odeur enivrante dans une bouteille.",
         "hu": "Elbűvölő illat üvegcsébe zárva.",
         // "it": "",
         "ja": "小瓶に入った魅惑の香り。",
         "pt": "Um perfume encantador em uma garrafa.",
         "ru": "Чарующий аромат в бутылке.",
-        // "tr": "",
-        "zh": "一个散发着迷人气味的小瓶。",
+        "tr": "Bir şişenin içinde büyüleyici bir koku.",
+        "zh": "一个散发着迷人气味的小瓶。"
     }
 }

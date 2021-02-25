@@ -16,28 +16,28 @@
     {
         "es": "Cáscara de lima",
         "ko": "라임 껍질",
-        //"de": "",
+        // "de": "",
         "fr": "Pelure de citron vert",
         "hu": "Limehéj",
         // "it": "",
         "ja": "ライムピール",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Misket Limonu Kabuğu",
         "zh": "青柠皮",
     },
     "DescriptionLocalization":
     {
         "es": "Una guarnicion tropical",
         "ko": "화려한 색의 껍질.",
-        //"de": "",
+        // "de": "",
         "fr": "Une garniture tropicale.",
         "hu": "Egy trópusi ízesítő.",
         // "it": "",
         "ja": "トロピカルな付け合わせ。",
         // "pt": "",
         // "ru": "",
-        // "tr": "",
+        "tr": "Tropikal bir garnitür.",
         "zh": "一件热带风格的装饰品。",
     }
 

@@ -24,7 +24,7 @@
         "ja": "オレンジシャーベット",
         "pt": "Sorvete de Laranja",
         "ru": "Апельсиновый щербет",
-         // "tr": "",
+        "tr": "Portakal Şerbeti",
         "zh": "橙子冰淇淋",
     },
     "DescriptionLocalization":
@@ -38,7 +38,7 @@
         "ja": "違った味わい方を探している人向け。",
         "pt": "Para aqueles que querem uma opção diferente.",
         "ru": "Для тех, кто ищет другой вариант.",
-         // "tr": "",
+        "tr": "Farklı bir seçenek arayanlar için",
         "zh": "有时候也要有些不同的选择。",
     }
 }

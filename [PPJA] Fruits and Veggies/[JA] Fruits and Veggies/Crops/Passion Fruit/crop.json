@@ -19,32 +19,30 @@
         "ExtraChance": 0.1,
     },
     "SeedPurchasePrice": 130,
-    "SeedNameLocalization":
-    {
-        "es": "Semillas de maracuyá",
-        "ko": "패션프루트 종자",
-        "de": "Passionsfrucht-Saat",
-        "fr": "Graines de fruit de la passion",
-        "hu": "Maracuja magvak",
-         // "it": "",
-        "ja": "パッションフルーツのタネ",
-        "pt": "Sementes de maracujá",
-        "ru": "Семена маракуйи",
-         // "tr": "",
-        "zh": "百香果种子",
-    },
-    "SeedDescriptionLocalization":
-    {
-        "es": "Plántalas en primavera. Tardan 12 días en madurar, pero sigue produciendo después de eso. Crece en una espaldera.",
-        "ko": "봄 작물. 성장하려먼 12일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다. 격자 구조물에 감겨 자랍니다.",
-        "de": "Pflanze sie im Frühling. Wächst in 12 Tagen heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
-        "fr": "À planter au printemps. Prend 12 jours pour arriver à maturité, et continue de produire ensuite. Pousse sur un treillis.",
-        "hu": "Ezeket tavasszal ültesd el. 12 tapig tart megérniük, de utána tovább termelnek. Egy lécen terem meg.",
-         // "it": "",
-        "ja": "春植えの作物。そだつのに12日かかるが、そのあともくりかえし収穫できる。支柱にからみながらそだつ。",
-        "pt": "Plante-as na primavera. Demora 12 dias para amadurecer e continua produzindo após a primeira colheita. Cresce em uma treliça.",
-        "ru": "Сажайте весной. Вырастает через 12 дней, но затем продолжает давать урожай. Растут на шпалере.",
-         // "tr": "",
-        "zh": "春天播种。12天成熟，在第一次收获后循环生产。生长在架子上。",
-    }
+  "SeedNameLocalization": {
+    "es": "Semillas de maracuyá",
+    "ko": "패션프루트 종자",
+    "de": "Passionsfrucht-Saat",
+    "fr": "Graines de fruit de la passion",
+    "hu": "Maracuja magvak",
+    // "it": "",
+    "ja": "パッションフルーツのタネ",
+    "pt": "Sementes de maracujá",
+    "ru": "Семена маракуйи",
+    "tr": "Çarkıfelek Meyvesi Tohumu",
+    "zh": "百香果种子"
+  },
+  "SeedDescriptionLocalization": {
+    "es": "Plántalas en primavera. Tardan 12 días en madurar, pero sigue produciendo después de eso. Crece en una espaldera.",
+    "ko": "봄 작물. 성장하려먼 12일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다. 격자 구조물에 감겨 자랍니다.",
+    "de": "Pflanze sie im Frühling. Wächst in 12 Tagen heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
+    "fr": "À planter au printemps. Prend 12 jours pour arriver à maturité, et continue de produire ensuite. Pousse sur un treillis.",
+    "hu": "Ezeket tavasszal ültesd el. 12 tapig tart megérniük, de utána tovább termelnek. Egy lécen terem meg.",
+    // "it": "",
+    "ja": "春植えの作物。そだつのに12日かかるが、そのあともくりかえし収穫できる。支柱にからみながらそだつ。",
+    "pt": "Plante-as na primavera. Demora 12 dias para amadurecer e continua produzindo após a primeira colheita. Cresce em uma treliça.",
+    "ru": "Сажайте весной. Вырастает через 12 дней, но затем продолжает давать урожай. Растут на шпалере.",
+    "tr": "Baharda ekilir. 12 günde yetişir ve ilk hasattan sonra yetişmeye devam eder. Sırıkta yetişir.",
+    "zh": "春天播种。12天成熟，在第一次收获后循环生产。生长在架子上。"
+  }
 }

@@ -46,8 +46,8 @@
         // "it": "",
         // "ja": "",
         "pt": "Biscoitos e Molho",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Печенье с соусом",
+        "tr": "Bisküvi ve Sos",
         "zh": "比斯吉佐肉汁",
     },
     "DescriptionLocalization":
@@ -60,8 +60,8 @@
         // "it": "",
         // "ja": "",
         "pt": "Um clássico do café da manhã com alguns biscoitos caseiros.",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Классический завтрак с домашним печеньем.",
+        "tr": "Ev yapımı kurabiyelerle bir kahvaltı klasiği.",
         "zh": "搭配自制饼干就是一份经典的早餐。",
     }
 }

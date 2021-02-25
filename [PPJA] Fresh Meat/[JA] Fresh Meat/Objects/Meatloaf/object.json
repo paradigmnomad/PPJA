@@ -37,8 +37,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Мясной рулет",
+        "tr": "Dalyan Köfte",
         "zh": "烘肉卷",
     },
     "DescriptionLocalization":
@@ -51,8 +51,8 @@
         // "it": "",
         // "ja": "",
         // "pt": "",
-        // "ru": "",
-        // "tr": "",
+        "ru": "Терпеть не могу остатки мясного рулета.",
+        "tr": "Artakalmış dalyan köfteye karşı duramıyorum.",
         "zh": "我不能忍受烘肉卷被剩下。",
     }
 }

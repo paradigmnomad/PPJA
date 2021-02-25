@@ -11,7 +11,7 @@
     {
         "Love": ["Abigail", "Alex"],
         "Like": ["Gus", "Pierre"],
-"Dislike": ["Jas"]
+        "Dislike": ["Jas"]
     },
     "Recipe":
     {
@@ -29,14 +29,14 @@
             "Object": "Lime",
             "Count": 1,
         },
-{
+        {
             "Object": 256,
             "Count": 1,
         },
-{
+        {
             "Object": 229,
             "Count": 1,
-        },],
+        }, ],
         "CanPurchase": true,
         "PurchaseFrom": "Gus",
         "PurchasePrice": 750,
@@ -47,13 +47,13 @@
         // "es": "",
         // "ko": "",
         // "de": "",
-        // "fr": "",
+        "fr": "Croustilles et guacamole",
         // "hu": "",
         // "it": "",
         "ja": "ワカモレとトルティーヤチップス",
-        // "pt": "",
+        "pt": "Chips e Guacamole",
         // "ru": "",
-        // "tr": "",
+        "tr": "Cips ve Guacamole Sos",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -61,13 +61,13 @@
         // "es": "",
         // "ko": "",
         // "de": "",
-        // "fr": "",
+        "fr": "Des croustilles de maïs et la trempette parfaite pour les accompagner.",
         // "hu": "",
         // "it": "",
         "ja": "グリッドボールの試合を見ながら食べるのにぴったりの食べ物。",
-        // "pt": "",
+        "pt": "A comida perfeita para ter enquanto assiste a um jogo de Gridball.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Gridball maçı izlerken yemek için mükemmel yiyecek!",
         // "zh": "",
     }
 }

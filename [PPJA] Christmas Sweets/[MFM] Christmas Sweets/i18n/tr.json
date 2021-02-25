@@ -1,0 +1,31 @@
+{
+
+  // Text
+  "icedchristmastree.text": "Sevgili @,^Bu sene nasýl biraz tatil neþesi yayabilirim diye düþündüðümde aklýma sen geldin. Bu en meþgulümüzün bile yapmaya vakit bulabileceði çok kolay ve tatlý bir kutabiye tarifi. Mutlu tatiller tatlým!^   -Evelyn",
+  "iceddecoratedchristmastree.text": "Sevgili @,^Bu tarif eski bir aile tarifini temel alýyor. Tarifi seneler geçtikçe yeniledim ve þimdi süslemeleri çok dengeli ve güzel görünüyor, arkadaþlarýn ve ailen çok beðenecekler.^Ya da belki sevdiceðine de bir tane yaparsýn! Hee hee!    -Evelyn",
+  "icedgreenchristmastree.text": "Sevgili @,^Umarým bu ay biraz kurabiye yaparsýn! Tatiller onlarsýz ayný olmaz.^Hem, sana en çok sevilen kurabiye tariflerimden birini gönderdim. Bunun üzerindeki desen bana yirmi yýl kadar önce bir piþirme yarýþmasýnda birinci ödülünü kazandýrdý! Kýþýn güzel ve mutlu geçsin!^   -Evelyn",
+  "jamfilledcookie.text": "Sevgili @,^Bu kurabiye tarifi eski bir tatil klasiðidir. Kýþ Yýldýzýyla ilgili en önce anýlarýmýn bazýlarý bu kurabiyeleri yerkendi.^Ve bugüne, Vincent ve Jas gibi küçükler bile farklý bir kurabiye tabaðýnýn üstünde bunlara karþý koyamýyor. Bu çok güzel bir þey!^   -Evelyn",
+  "mittencookie.text": "Sevgili @,^Çalýþmadýðýn bu mevsimde bütün tarlalarýn donmuþken, mutfaðýnda yapman için içini ýsýtacak eðlenceli bir þey verebilirim diye düþündüm.^Bu benim eldiven kurabiye tarifim. Güzel, hatta zikzak olabilmesi için icing'i sýktýðýnda sabýrlý olursan kesinlike yiyenin yüzüne bir gülümseme konduracaktýr.^   -Evelyn",
+  "pufferchickcookie.text": "Sevgili @,^Bu kurabiye tarifi tatil temalý deðil, ama komik ve eðlenceli bir kurabiyen olmasý kimseyi incitmez.^Ýþ neþe yaymaya gelince bazýlarýmýz kutun dýþýný düþünmeye ve iþi sevdiðimiz þekle sokmayý sever!^   -Evelyn",
+  "snowmancookie.text": "Sevgili @,^Mutlu þölenler! Þu neþeli, mutlu ruhu nasýl hayata getirebileceðini gönderdim.^Bazen bu küçük kardanadamlar çok þeker görünüyor, onlarý yemek utanç verici. Neyse ki, tatlarý o kadar iyi oluyor ki asla piþmanlýk duyamýyoruz.^Bunun tadýný çýkar tatlým!^   -Evelyn",
+  "hollydecoratedcookie.text": "Sevgili @,^Bu kurabiye tam bir güzellik, o halde neden denemeyesin?^Meyveler ve çobanpüskülü yapraklarý için her zaman royal icing kullanabilirsin ama eðer daha gerçekçi ve üç boyutlu bir görünüm istiyorsan, birazcýk fondant icing uzun süre dayanýr.^George bunlarý seviyor. Ve umarým sende seversin!^   -Evelyn",
+  "snowmanscenerycookie.text": "Sevgili @,^Ah, Býrak kar yaðsýn!^Bir mücadeleden utanýp kaçmayacaðýný biliyorum tatlým, bu yüzden de adým adým nasýl en güzel kardanadam manzarasý kurabiyesi yapýlacaðýna dair çizimler gönderdim.^Biraz Yýldýzçiyi Vadisi'ne benziyor, sence de öyle deðil mi?^Bu tarif sana sýkýntý çýkarýryorsa bana söyle -- Yardým etmekten mutlu olurum!^   -Evelyn",
+  "stardropcookie.text": "Sevgili @,^Kýþ Yýldýzý'ný düþündüðümüzde aklýmýzda ister istemez Yýldýzkaydýlar da oluyor.^Belki gerçeði deðil, ama bulabileceðin gerçeðine en yakýn þey bu! Bu tarif yüzünden hayal kýrýklýðýna uðrayan kimseyi henüz bulamadým.^Mutlu þölenler!^   -Evelyn",
+  "stockingcookie.text": "Sevgili @,^Ho ho ho! Bu yýl Kýþ Yýldýzý için çorabýnda ne bulmak istiyorsun tatlým? ^Ne beklersen bekle, bu küçük çorap kurabiyeler eminim ki seni tatil ruhuna sokacak. Neden kendine küçük ve güzel bir atýþtýrmalýk yapmýyorsun?^   -Evelyn",
+  "christmaschocolatecandiecookies.text": "Sevgili @,^Mutlu tatiller! Bu tarifi seninle paylaþmak istedim.^Normal kurabiye tarifim gibi, sadece çikolata parçalarý yerine kýrmýzý ve yeþil çikolatalý þekerler kullanýyorsun^Eðer küçük ve eðlenceli bir þey eklemek istersen, fýstýk ezmeli çikolata da kullanabilirsin!^    -Evelyn",
+  // Titles
+
+  "icedchristmastree.title": "Buzlu Noel Aðacý Þekilli Kurabiye Tarifi",
+  "iceddecoratedchristmastree.title": "Buzlu Süslenmiþ Noel Aðacý Þekilli Kurabiye Tarifi",
+  "icedgreenchristmastree.title": "Buzlu Yeþil Noel Aðacý Þekilli Kurabiye Tarifi",
+  "jamfilledcookie.title": "Reçel Dolu Kurabiye Tarifi",
+  "mittencookie.title": "Eldiven Þekilli Kurabiye Tarifi",
+  "pufferchickcookie.title": "Balontavuðu Þekilli Kurabiye Tarifi",
+  "snowmancookie.title": "Kardanadam Þekilli Kurabiye Tarifi",
+  "hollydecoratedcookie.title": "Çobanpüskülüyle Süslenmiþ Kurabiye Tarifi",
+  "snowmanscenerycookie.title": "Kardanadam Manzaralý Kurabiye Tarifi",
+  "stardropcookie.title": "Yýldýzkaydý Þekilli Kurabiye Tarifi",
+  "stockingcookie.title": "Çorap Þekilli Kurabiye Tarifi",
+  "christmaschocolatecandiecookies.title": "Çikolata Parçalý Noel Kurabiyesi Tarifi"
+
+}

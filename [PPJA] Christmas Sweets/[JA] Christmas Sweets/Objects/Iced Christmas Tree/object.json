@@ -47,7 +47,7 @@
         "ja": "ツリーアイシングクッキー",
         "pt": "Árvore de Natal Congelada",
         // "ru": "",
-        // "tr": "",
+        "tr": "Buzlu Noel Ağacı",
         "zh": "冰纷圣诞树",
     },
     "DescriptionLocalization":
@@ -61,7 +61,7 @@
         "ja": "クリスマスツリーの形に焼いたクッキー。",
         "pt": "É um pouco similar a uma árvore de Natal.",
         // "ru": "",
-        // "tr": "",
+        "tr": "Noel ağacına benziyor.",
         "zh": "它有点像圣诞树。",
     }
 }
