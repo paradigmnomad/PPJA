@@ -15,7 +15,7 @@
     "ja": "ハイビスカスの苗",
     "pt": "Muda de Hibisco",
     "ru": "Саженец гибискуса",
-    "tr": "Hatmi Çiçeği Fidanı",
+    "tr": "Hibiskus Fidanı",
     "zh": "芙蓉树苗"
   },
   "SaplingDescriptionLocalization": {
@@ -28,7 +28,7 @@
     "ja": "28日かけて成木に育ち、夏になるとハイビスカスを咲かせる。となりあった周囲8マスがないと育たない。",
     "pt": "Demora até 28 dias para produzir uma árvore de hibisco madura. Dá flores no verão. Só cresce se os 8 espaços adjacentes estiverem vazios.",
     "ru": "Становится взрослым деревом гибискуса через 28 дней. Цветет летом. Растeт только если 8 «клеток» вокруг него не заняты.",
-    "tr": "28 günde olgunlaşarak Hatmi Çiçeği Ağacı olur. Yazın çiçek açar. Sadece etrafındaki 8 \"kare\" boşken yetişir.",
+    "tr": "28 günde olgunlaşarak Hibiskus Ağacı olur. Yazın çiçek açar. Sadece etrafındaki 8 \"kare\" boşken yetişir.",
     "zh": "28天成熟为成年芙蓉花树。夏天开花。只有在附近8个地块都空置的情况下才会成长。"
   }
 }
