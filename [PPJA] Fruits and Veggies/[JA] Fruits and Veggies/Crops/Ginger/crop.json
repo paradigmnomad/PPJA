@@ -36,16 +36,16 @@
     "zh": "姜种子"
   },
   "SeedDescriptionLocalization": {
-    "es": "Plántalas en otoño. Tardan 7 días en madurar.",
-    "ko": "가을 작물. 성장하려면 7일이 소요됩니다.",
-    "de": "Pflanze sie im Herbst. Wächst in 7 Tagen heran.",
-    "fr": "À planter en automne. Prend 7 jours pour arriver à maturité.",
-    "hu": "Ezeket ősszel ültesd el. 7 napig tart megérniük.",
+    "es": "Plántalas en verano. Tardan 7 días en madurar.",
+    "ko": "여름 작물. 성장하려면 7일이 소요됩니다.",
+    "de": "Pflanze sie im Sommer. Wächst in 7 Tagen heran.",
+    "fr": "À planter en été. Prend 7 jours pour arriver à maturité.",
+    "hu": "Ezeket nyáron ültesd el. 7 napig tart megérniük.",
     // "it": "",
-    "ja": "秋植えの作物。そだつのに7日かかる。",
-    "pt": "Plante-as no outono. Demora 7 dias para amadurecer.",
-    "ru": "Сажайте осенью. Вырастает через 7 дней.",
+    "ja": "夏植えの作物。そだつのに7日かかる。",
+    "pt": "Plante-as no verão. Demora 7 dias para amadurecer.",
+    "ru": "Сажайте летом. Вырастает через 7 дней.",
     "tr": "Yazın ekilir 7 günde yetişir.",
-    "zh": "秋天播种。7天成熟。"
+    "zh": "夏天播种。7天成熟。"
   },    
 }
