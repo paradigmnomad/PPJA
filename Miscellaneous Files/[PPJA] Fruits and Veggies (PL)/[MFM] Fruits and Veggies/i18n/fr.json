@@ -1,0 +1,39 @@
+{
+    // Text
+
+    "aloepod.text": "Cher @,^^  Avec tout le temps que tu passes dehors, tu vas sans doute attraper des coups de soleil. Voici quelques graines pour faire pousser ta propre aloès.^Je suis intéressé de voir les résultats, si faire pousser localement l'aloès est plus efficace que faire pousser une plante achetée en magasin.^Pourquoi n'essaierais-tu pas?^^  -Harvey",
+    "sweetcanarymelon.text": "Cher @,^^  Je pense que Pélican Ville est un peu meilleure grâce à toi, alors juste, merci d'être toi!^Si c'est bon, j'aimerais t'aider à faire de ta ferme un endroit avec des plantes variées et colorées. Ce sont des graines de melon canari ! Qu'est-ce que tu dis d'une petite gourmandise sucrée?^^  -Emily",
+    "cassava.text": "@,^^  S'il y a quelques jours que tu ne m'as pas vu, c'est parce que je suis récemment parti pêcher dans le sud, aux Îles de Fern. Pendant que j'y étais, j'ai rencontré un marchand qui vendaient des graines exotiques et j'ai pensé à toi.^Je ne sais pas si elles pousseront chez toi, mais peut-être qu'on peut le découvrir.^^  -Willy",
+    "chickpea.text": "Cher @,^^ Les pois chiches n'ont jamais bien poussé à Stardew Valley, mais Demetrius a fait quelques études et semble convaincu que ce serait possible.^Je l'admets, il a piqué ma curiosité, donc j'ai pris de l'avance et commandé ces graines pour toi. J'espère que tu les apprécies!^^  -Robin",
+    "elderberry.text": "Bonjour l'ami.^^  J'ai fait une randonnée en montagne et j'ai trouvé ces graines.^Mes années d'errance m'ont enseigné qu'il ne s'agit pas moins que de graines de sureau.^La manière dont elles sont arrivées dans nos montagnes est mystérieuse, mais si les montagnes souhaitent nous fournir, je pense que nous devrions nous y plier.^La paix soit avec toi.^^  -Linus",
+    "fennel.text": "Cher @,^^  J'ai tenté de planter ces graines de fenouil dans notre jardin l'an dernier, mais je n'ai pas réussi à ce que Sam et Vincent en mangent des masses.^Je me suis dit que tu en ferais meilleur usage que nous.^Voici les graines que je n'avais pas encore plantées.^^  -Jodi",
+    "gooseberry.text": "Cher @,^^ Robin n'a pas arrêté de parler de la tarte aux groseilles de Pierre.^Pourrais-tu nous en rapporter quelques-unes quand tu en auras l'opportunité?^Ces graines devraient pousser bien plus que nécessaire, alors peut-être que tu pourrais vendre le reste ou les utiliser toi-même?^Merci!^^ -Demetrius",
+    "greenpea.text": "Hey @,^^  À l'école, Jas et Vincent ont un projet à venir sur de la biologie végétale basique.^Le manuel scolaire recommande de faire pousser quelques petits pois, mais ce serait une expérience grandeur nature si on les regardait pousserdans ta ferme !^On ferait attention de ne pas interrompre ton dur labeur; les faire pousser serait déjà une grande faveur en soi.^^  -Penny",
+    "jalapeno.text": "Hey @ !^^  Je viens de découvrir que la pizza couverte de piment jalapeño est un assortiment du feu de Yoba. Pierre n'a aucun jalapeño décent, malgré tout, alors j'ai commandé ces graines. Ce serait GÉNIAL si tu pouvais les faire pousser. Sérieux, c'est genre, mon rêve le plus fou là maintenant.^^  -Sam",
+    "juniper.text": "Hey @,^^  Je suis passé par une phase il y a quelques années où j'aimais mélanger des boissons épicés.^Je ne fais plus trop ça, cela dit, et je pense qu'en fait ces baies de genévrier sont encore bonnes pour être plantées et pousser. J'ai eu l'idée de t'les envoyer.^^  -Pam",
+    "mint.text": "J'ai trouvé ces vieilles graines dans un tiroir à la maison.^J'avais pour habitude de jardiner, mais plus maintenant. Trop de tension dans le dos.^Bref, tu peux les prendre. Je déteste jeter des choses, et celles-ci sont de bonnes graines.^^  -George",
+    "okra.text": "Hey @ !^^ J'ai grandi en ayant tout le temps du gombo, mais personne ici n'a l'air exalté devant ce légume.^Peut-être pourrais-tu le présenter à Pélican Ville?^Si tu peux me faire cette faveur, je promets que je terminerai en un temps record ton prochain chantier de construction!^^ -Robin",    
+    "passionfruit.text": "Cher @,^^ Il s'avère que le fruit de la passion ne pousse pas très bien dans notre arrière-cour. Par contre, ta ferme est probablement un meilleur lieu de vie, donc j'espère que tu trouvera un bon endroit ensoleillé pour que ces graines poussent.^Merci pour tout ce que tu as fait pour cette petite ville. ^^  -Jodi",
+    "soybean.text": "Cher @,^ J'ai quelques recettes appétissantes qui requièrent du soja frais. Je ne devrais vraiment pas en utiliser des surgelés -- ça ne fera pas du tout l'affaire -- on parle d'une différence de tout un monde de saveurs.^Bref, j'ai pensé que tu pourrais faire pousser celles-ci. Apporte m'en si tu le souhaites, mais utilise le reste comme bon te semble!^^  -Gus",
+    // "wormwood.text": "@,^^ J'ai été étrangement fasciné par ce truc de l' « armoise » pendant des années et j'ai finalement eu des graines.^Pourrais-tu les faire pousser? T'es pas obligé de le faire si t'en n'a pas envie. Peut-être que c'est un peu bizarre, héhé.^^  -Shane",
+    "zucchini.text": "Cher @,^^ Je suis dans le regret de vous annoncer qu'une tragédie a frappé Pélican Ville.^Désormais, Gus ne sert plus ses beignets de courgettes avec de la marinara épicée au saloon.^Il a affirmé que c'est parce que ses vendeurs ne peuvent plus atteindre ses exigences.^Je vous en prie, vous devez pallier cela.^^  -Lewis",
+
+    // Titles
+
+    "aloepod.title": "Graines d'Aloès",
+    "sweetcanarymelon.tetitlext": "Graines de melon canari",
+    "cassava.title": "Graines de manioc",
+    "chickpea.title": "Graines de pois chiche",
+    "elderberry.title": "Graines de baie de sureau",
+    "fennel.title": "Graines de fenouil",
+    "gooseberry.title": "Graines de groseille",
+    "greenpea.title": "Graines de petits pois",
+    "jalapeno.title": "Graines de jalapeño",
+    "juniper.title": "Graines de genévrier",
+    "mint.title": "Graines de menthe",
+    "okra.title": "Graines de gombo",
+    "passionfruit.title": "Graines de fruit de la passion",
+    "soybean.title": "Graines de soja",
+    // "wormwood.title": "Graines d'armoise",
+    "zucchini.title": "Graines de courgette"
+}

@@ -1,0 +1,41 @@
+{
+    "Name": "Owies",
+    "Description": "Bogaty w składniki odżywcze pokarm związany z niższym poziomem cholesterolu we krwi, gdy jest spożywany regularnie.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 25,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+         // "es": "",
+        "ko": "귀리",
+        "de": "Hafer",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "カラスムギ",
+         // "pt": "",
+        "ru": "Овёс",
+         // "tr": "",
+          "zh": "燕麦",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+        "ko": "규칙적으로 섭취하면 혈중 콜레스트롤을 낮출 수 있는 영양분이 풍부한 식품입니다.",
+        "de": "Nährstoffreich und senkt bei regelmäßigem Verzehr nachweislich den Cholesterinspiegel im Blut.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "栄養豊富な食品。定期的に食べると血中コレステロールの上昇を抑制する。",
+         // "pt": "",
+        "ru": "Зерно, богатое питательными веществами, ассоциирующееся с пониженным уровнем холестерина в крови при регулярном потреблении.",
+         // "tr": "",
+          "zh": "一种营养丰富的食物，经常食用可降低血液胆固醇",
+    }
+}

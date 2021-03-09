@@ -1,0 +1,54 @@
+{
+    "Name": "Fasola Zwyczajna",
+    "Product": "Fasola Zwyczajna",
+    "SeedName": "Nasiona Fasoli Zwyczajnej",
+    "SeedDescription": "Sadź je jesienią. Dojrzewanie trwa 10 dni i kontynuuje produkcję po pierwszych zbiorach. Rośnie na patyku.",
+    "Type": "Vegetable",
+
+    "Seasons": ["fall"],
+    "Phases": [1, 2, 3, 2, 2, ],
+    "RegrowthPhase": 4,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+    "SeedPurchasePrice": 180,
+    "SeedPurchaseRequirements": [
+        "y 4",
+    ],
+    
+    "SeedNameLocalization":
+    {
+         // "es": "",
+        "ko": "강낭콩 종자",
+        "de": "Kidneybohnen-Starterset",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "インゲン豆栽培キット",
+         // "pt": "",
+        "ru": "Семена красной фасоли",
+         // "tr": "",
+          "zh": "红腰豆种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+         // "es": "",
+        "ko": "여름 작물. 성장하려먼 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다. 격자 구조물에 감겨 자랍니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "秋植えの作物。そだつのに10日かかる。最初の収穫のあともくりかえし収穫できる。支柱にからみながらそだつ。",
+         // "pt": "",
+        "ru": "Сажайте осенью. Вырастает через 10 дней и продолжает давать урожай после первого сбора. Растут на шпалере.",
+         // "tr": "",
+          "zh": "夏天播种，10天成熟，在第一次收获后循环生产。生长在架子上。",
+    }
+}

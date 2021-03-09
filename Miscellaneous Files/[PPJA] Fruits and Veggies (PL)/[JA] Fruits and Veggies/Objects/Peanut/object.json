@@ -1,0 +1,43 @@
+{
+    "Name": "Orzech Ziemny",
+    "Description": "Lekko słony orzech, którego można przerobić na masło orzechowe.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 75,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Harvey", "Kent", "Leah", "Linus"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Lewis", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
+        "Dislike": ["Krobus", "Willy"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Maní",
+        "ko": "땅콩",
+        "de": "Erdnuss",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ピーナッツ",
+        //"pt": "Amendoim",
+        "ru": "Арахис",
+         // "tr": "",
+        "zh": "花生",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una nuez ligeramente salada que se puede batir en mantequilla de maní.",
+        "ko": "땅콩버터로 만들 수 있는 약간 짭조름한 견과류.",
+        "de": "Eine leicht salzige Nuss, die zu Erdnussbutter verabeitet werden kann.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "少し塩気のあるナッツで、ペーストにしてバターのように使ったりする。",
+        //"pt": "Uma noz ligeiramente salgada que pode ser transformada em manteiga de amendoim.",
+        "ru": "Слегка соленый орех, который можно превратить в арахисовое масло.",
+         // "tr": "",
+        "zh": "一种略带咸味的坚果，可以捣碎成花生酱。",
+    }
+}

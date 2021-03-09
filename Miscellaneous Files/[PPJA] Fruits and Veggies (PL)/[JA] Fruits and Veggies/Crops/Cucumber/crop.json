@@ -1,0 +1,53 @@
+{
+    "Name": "Ogórek",
+    "Product": "Ogórek",
+    "SeedName": "Nasiona Ogórka",
+    "SeedDescription": "Sadź je latem. Dojrzewanie trwa 11 dni, po tym produkuje uprawy. Rośnie na pałkach.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 3, 3, 2, ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+    "SeedPurchasePrice": 65,
+    "SeedPurchaseRequirements": [
+        "y 2",
+    ],
+    "SeedNameLocalization":
+    {
+        "es": "Kit de pepinos",
+        "ko": "오이 종자",
+        "de": "Gurken-Starterset",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "キュウリ栽培キット",
+        //"pt": "Muda de pepino",
+        "ru": "Семена огурца",
+         // "tr": "",
+        "zh": "黄瓜种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 11 días para madurar, pero sigue produciendo después de eso. Crece en una espaldera.",
+        "ko": "여름 작물. 성장하려면 11일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다. 격자 구조물에 감겨 자랍니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 11 Tagen heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "夏植えの作物。そだつのに11日かかるが、そのあともくりかえし収穫できる。支柱にからみながらそだつ。",
+        //"pt": "Plante-as no verão. Demora 11 dias para amadurecer e continua produzindo após a primeira colheita. Cresce em uma treliça.",
+        "ru": "Сажайте летом. Вырастает через 11 дней, но затем продолжает давать урожай. Растут на шпалере.",
+         // "tr": "",
+        "zh": "夏天播种。11天成熟，在第一次收获后循环生产。生长在架子上。",
+    }
+}

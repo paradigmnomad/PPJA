@@ -1,0 +1,43 @@
+{
+    "Name": "Melon Miodowy",
+    "Description": "Jasny, żółty melon, jest wyraźnie słodki i cierpki.",
+    "Category": "Fruit",
+    "Edibility": 45,
+    "Price": 225,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Demetrius", "Dwarf", "Elliott", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Penny", "Robin", "Sandy", "Shane"],
+        "Neutral": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Melón canario dulce",
+        "ko": "카나리아 멜론",
+        "de": "Honigmelone",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "カナリアメロン",
+        //"pt": "Melão Canário",
+        "ru": "Медовая дыня",
+         // "tr": "",
+        "zh": "金丝甜瓜",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un melón amarillo brillante, es distintivamente dulce y picante.",
+        "ko": "밝은 노란색으로, 달콤하고 톡 쏘는 맛이 있습니다.",
+        "de": "Eine leuchtend gelbe Melone, unverwechselbar süß und würzig.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "黄緑色のメロンで、独特の甘みと香りがする。",
+        //"pt": "Um melão amarelo brilhante, que é distintamente doce e picante.",
+        "ru": "Ярко-желтая дыня, очень сладкая и пряная.",
+         // "tr": "",
+        "zh": "一个亮黄色的瓜，它有独特的浓郁甜味。",
+    } 
+}

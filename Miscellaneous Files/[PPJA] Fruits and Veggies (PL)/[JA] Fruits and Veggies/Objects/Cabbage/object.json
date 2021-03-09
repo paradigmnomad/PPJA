@@ -1,0 +1,42 @@
+{
+    "Name": "Kapusta",
+    "Description": "Czy próbowałeś kiedyś grać w kręgle kapustą?",
+    "Category": "Vegetable",
+    "Edibility": 30,
+    "Price": 120,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Repollo",
+        "ko": "양배추",
+        "de": "Kohl",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "キャベツ",
+        //"pt": "Repolho",
+        "ru": "Капуста",
+         // "tr": "",
+        "zh": "卷心菜",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¿Alguna vez has jugado el boliche de repollo?",
+        "ko": "양배추로 볼링 쳐 본 적이 있나요?",
+        "de": "Hast du mal versucht, damit zu bowlen?",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "キャベツボーリングやった事ある？",
+        //"pt": "Você já tentou boliche de repolho?",
+        "ru": "Когда-нибудь пробовали капустный боулинг?",
+         // "tr": "",
+        "zh": "你吃过一整碗卷心菜吗？",
+    }
+}

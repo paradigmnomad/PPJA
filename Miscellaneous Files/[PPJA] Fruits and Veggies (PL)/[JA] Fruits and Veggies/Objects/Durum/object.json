@@ -1,0 +1,41 @@
+{
+    "Name": "Pszenica Makaronowa",
+    "Description": "Twarda pszenica używana do wyrobu makaronu i kuskusu.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 25,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+         // "es": "",
+        "ko": "듀럼밀",
+        "de": "Hartweizen",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "デュラムコムギ",
+         // "pt": "",
+        "ru": "Твёрдая пшеница",
+         // "tr": "",
+          "zh": "硬质小麦",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+        "ko": "단단한 밀은 파스타와 쿠스쿠스를 만드는데 사용됩니다.",
+        "de": "Wird für Nudeln und Couscous genutzt.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "パスタやクスクスを作るのに使われる固めのコムギ。",
+         // "pt": "",
+        "ru": "Используется для приготовления макарон и кускуса.",
+         // "tr": "",
+          "zh": "用来做意大利面和粗麦粉的硬小麦。",
+    }
+}

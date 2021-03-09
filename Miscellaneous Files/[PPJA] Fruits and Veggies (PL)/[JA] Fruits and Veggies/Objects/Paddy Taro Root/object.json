@@ -1,0 +1,43 @@
+{
+    "Name": "Korzeń Kolokazji Jadalnej",
+    "Description": "Bulwa kolokazji jadalnej. Jest skrobiowy, jak ziemniak.",
+    "Category": "Vegetable",
+    "Edibility": -300,
+    "Price": 320,
+    "IsColored": false,
+    "GiftTastes":
+    {
+	"Love": ["Sandy"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+         // "es": "",
+        "ko": "토란",
+        "de": "Taroknolle",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "タロイモ",
+         // "pt": "",
+        "ru": "Таро",
+         // "tr": "",
+          "zh": "芋头",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+        "ko": "토란의 뿌리. 감자처럼 탄수화물이 많습니다.",
+        "de": "Die Knolle einer Taro. Enthält wie auch Kartoffeln viel Stärke.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "サトイモの根っこ。ジャガイモのようにでんぷん質。",
+         // "pt": "",
+        "ru": "Клубень таро. Как и картофель, содержит много крахмала.",
+         // "tr": "",
+          "zh": "芋头植株的根。它是淀粉质的，像土豆一样。",
+    }
+}

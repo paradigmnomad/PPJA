@@ -1,0 +1,51 @@
+{
+    "Name": "Aloes",
+    "Description": "Może być stosowany w leczeniu oparzeń słonecznych.",
+    "Category": "Vegetable",   
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
+    "Edibility": 20,
+    "Price": 140,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Like": ["Clint", "Demetrius", "Harvey", "Jodi", "Leah", "Linus", "Maru", "Robin"],
+        "Neutral": ["Alex", "Caroline", "Dwarf", "Elliott", "Emily", "Evelyn", "Gus", "Haley", "Kent", "Lewis", "Marnie", "Pam", "Pierre", "Penny", "Sandy", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "George", "Krobus", "Sam", "Sebastian"],
+        "Hate": ["Jas", "Vincent"]
+    },
+    "NameLocalization":
+    {
+        "es": "Aloe",
+        "ko": "알로에",
+        "de": "Aloe",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "アロエ",
+        //"pt": "Babosa",
+        "ru": "Алоэ",
+         // "tr": "",
+        "zh": "芦荟",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Se puede usar para tratar las quemaduras solares.",
+        "ko": "화상입은 피부를 진정시킬 수 있습니다.",
+        "de": "Kann zur Behandlung von Sonnenbrand verwendet werden.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "日焼けの治療として利用できる。",
+        //"pt": "Pode ser usada para tratar queimaduras de sol.",
+        "ru": "Может использоваться для лечения солнечных ожогов.",
+         // "tr": "",
+        "zh": "它可以用来治疗晒伤。",
+    },
+    "ContextTags": [
+        "season_summer",
+        "color_green",
+        "herb_item",
+    ],
+}

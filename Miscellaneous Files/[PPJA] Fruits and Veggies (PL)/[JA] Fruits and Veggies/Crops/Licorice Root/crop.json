@@ -1,0 +1,54 @@
+{
+    "Name": "Korzeń Lukrecji",
+    "Product": "Korzeń Lukrecji",
+    "SeedName": "Nasiona Lukrecji",
+    "SeedDescription": "Sadź je wiosną. Dojrzewanie zajmuje 8 dni.",
+    "Type": "Vegetable",
+
+    "Seasons": ["spring"],
+    "Phases": [1, 2, 2, 2, 1],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 100,
+     "SeedPurchaseRequirements": [
+        "y 4",
+    ],
+
+    "SeedNameLocalization":
+    {
+         // "es": "",
+        "ko": "감초 씨앗",
+        "de": "Süßholz-Saat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "カンゾウのタネ",
+         // "pt": "",
+        "ru": "Семена лакрицы",
+         // "tr": "",
+          "zh": "甘草籽",
+    },
+    "SeedDescriptionLocalization":
+    {
+         // "es": "",
+        "ko": "봄 작물. 성장하려면 8일이 소요됩니다.",
+         "de": "Pflanze sie im Frühling. Wächst in 8 Tagen heran.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "春植えの作物。そだつのに6日かかる。",
+         // "pt": "",
+        "ru": "Сажайте весной. Вырастает через 8 дней.",
+         // "tr": "",
+          "zh": "春天播种。8天成熟。",
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "Name": "Fasola Haricot",
+    "Product": "Fasola Haricot",
+    "SeedName": "Nasiona Fasoli Haricot",
+    "SeedDescription": "Sadź je latem. Dojrzewanie trwa 10 dni i trwa co 3 dni. Rośnie na paliku.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 3, 2, 2, ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchasePrice": 80,
+    "SeedPurchaseRequirements": null,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de frijoles blancos",
+        "ko": "흰 강낭콩 종자",
+        "de": "Weiße Bohnen-Starterset",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "白インゲン豆のタネ",
+        //"pt": "Sementes de feijão branco",
+        "ru": "Семена белой фасоли",
+         // "tr": "",
+        "zh": "菜豆种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 10 días para madurar, continua produciendo cada 3 días. Crece en una espaldera.",
+        "ko": "여름 작물. 성장하려먼 10일이 소요되며, 3일마다 수확 할 수 있습니다. 격자 구조물에 감겨 자랍니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "夏植えの作物。そだつのに10日かかる。最初の収穫のあともくりかえし収穫できる。支柱にからみながらそだつ。",
+        //"pt": "Plante-as no verão. Demora 10 dias para amadurecer e continua produzindo a cada 3 dias. Cresce em uma treliça.",
+        "ru": "Сажайте осенью. Вырастает через 10 дней и продолжает давать урожай каждые 3 дня. Растут на шпалере.",
+         // "tr": "",
+        "zh": "夏天播种。10天成熟，成熟之后每3天可收获一次。生长在架子上。",
+    }
+}

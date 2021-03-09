@@ -1,0 +1,50 @@
+{
+    "Name": "Fasola Adzuki",
+    "Product": "Fasola Adzuki",
+    "SeedName": "Nasiona Fasoli Adzuki",
+    "SeedDescription": "Sadź je latem. Dojrzewanie zajmuje 9 dni.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 3, 2, 1],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 50,
+    "SeedPurchaseRequirements": null,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de judías azuki",
+        "ko": "팥 씨앗",
+        "de": "Adzukibohnen-Saat",
+         // "hu": "",
+         // "it": "",
+        "ja": "アズキ豆のタネ",
+        //"pt": "Sementes de feijão-azuqui",
+        "ru": "Семена адзуки",
+         // "tr": "",
+        "zh": "红豆种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 10 días para madurar",
+        "ko": "여름 작물. 성장하려면 10일이 소요됩니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 9 Tagen heran.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "夏植えの作物。そだつのに9日かかる。",
+        //"pt": "Plante-as no verão. Demora 10 dias para amadurecer.",
+        "ru": "Сажайте летом. Вырастает через 9 дней.",
+         // "tr": "",
+        "zh": "夏天播种。10天成熟。",
+    }
+}

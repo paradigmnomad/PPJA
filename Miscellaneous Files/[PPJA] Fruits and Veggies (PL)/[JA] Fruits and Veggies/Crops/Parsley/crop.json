@@ -1,0 +1,50 @@
+{
+    "Name": "Pietruszka",
+    "Product": "Pietruszka",
+    "SeedName": "Nasiona Pietruszki",
+    "SeedDescription": "Sadź je na wiosnę. Dojrzewanie zajmuje 4 dni.",
+    "Type": "Vegetable",
+
+    "Seasons": ["spring"],
+    "Phases": [1, 1, 1, 1],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 25,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de perejil",
+        "ko": "파슬리 씨앗",
+        "de": "Petersilien-Saat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "パセリのタネ",
+        //"pt": "Sementes de salsinha",
+        "ru": "Семена петрушки",
+         // "tr": "",
+        "zh": "香菜种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en primavera. Toma 4 días para madurar.",
+        "ko": "봄 작물. 성장하려면 4일이 소요됩니다.",
+        "de": "Pflanze sie im Frühling. Wächst in 4 Tagen heran.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "春植えの作物。そだつのに4日かかる。",
+        //"pt": "Plante-as na primavera. Demora 4 dias para amadurecer.",
+        "ru": "Сажайте весной. Вырастает через 4 дня.",
+         // "tr": "",
+        "zh": "春天播种。4天成熟。",
+    }
+}

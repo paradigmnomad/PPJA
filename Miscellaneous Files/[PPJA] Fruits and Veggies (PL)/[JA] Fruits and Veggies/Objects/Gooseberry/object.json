@@ -1,0 +1,43 @@
+{
+    "Name": "Agrest",
+    "Description": "Duża okrągła jagoda, która nadaje się do smacznych ciast.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 20,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Maru", "Robin", "Demetrius"],
+        "Like": ["Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Grosella",
+        "ko": "구스베리",
+        "de": "Stachelbeere",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "グーズベリー",
+        //"pt": "Groselha",
+        "ru": "Крыжовник",
+         // "tr": "",
+        "zh": "醋栗",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Una baya grande y redonda, se usa para preparar sabrosos pasteles.",
+        "ko": "맛있고 큰 둥근 파이를 만들 수 있습니다.",
+        "de": "Eine große, runde Beere - ein sehr leckerer Belag für Kuchen.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "おいしいパイが作れる丸くて大きなベリー。",
+        //"pt": "Uma grande baga redonda que dá sabor a tortas.",
+        "ru": "Большая круглая ягода, придающая вкус пирогам.",
+         // "tr": "",
+        "zh": "一种大的圆形浆果，用来做美味的馅饼。",
+    }
+}

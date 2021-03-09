@@ -1,0 +1,50 @@
+{
+    "Name": "Marchewka",
+    "Product": "Marchewka",
+    "SeedName": "Nasiona Marchewki",
+    "SeedDescription": "Posadź je jesienią. Dojrzewanie zajmuje 6 dni.",
+    "Type": "Vegetable",
+
+    "Seasons": ["fall"],
+    "Phases": [1, 2, 1, 1, 1],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 50,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de zanahoria",
+        "ko": "당근 씨앗",
+        "de": "Karotten-Saat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ニンジンのタネ",
+        //"pt": "Sementes de cenoura",
+        "ru": "Семена моркови",
+         // "tr": "",
+        "zh": "胡萝卜种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 6 días para madurar.",
+        "ko": "가을 작물. 성장하려면 6일이 소요됩니다.",
+        "de": "Pflanze sie im Herbst. Wächst in 6 Tagen heran.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "秋植えの作物。そだつのに6日かかる。",
+        //"pt": "Plante-as no outono. Demora 6 dias para amadurecer.",
+        "ru": "Сажайте осенью. Вырастает через 6 дней.",
+         // "tr": "",
+        "zh": "秋天播种。6天成熟。",
+    }
+}

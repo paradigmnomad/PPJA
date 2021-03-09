@@ -1,0 +1,42 @@
+{
+    "Name": "Arbuz",
+    "Description": "Soczysta i słodka, to pyszna letnia uczta. Często przynoszone na wycieczki na plażę!",
+    "Category": "Fruit",
+    "Edibility": 45,
+    "Price": 175,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Penny"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization": 
+    {
+        "es": "Sandia",
+        "ko": "수박",
+        "de": "Wassermelone",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "スイカ",
+        //"pt": "Melancia",
+        "ru": "Арбуз",
+         // "tr": "",
+        "zh": "西瓜",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Jugoso y dulce, es un delicioso regalo de verano. A menudo se lleva a los viajes a la playa.",
+        "ko": "수분이 많고 달콤한 여름별미. 종종 해변에 가져오곤 하죠!",
+        "de": "Saftig, süß und erfrischend. Genau das richtige für heiße Sommertage!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ジューシーで甘い、おいしい夏のおやつ。皆、海水浴によく持っていく。",
+        //"pt": "Suculenta e doce, é deliciosa para comer no verão. Muitas vezes é levada em viagens para a praia!",
+        "ru": "Сочное и сладкое летнее лакомство. Отличный вариант для жарких дней!",
+         // "tr": "",
+        "zh": "甜美多汁，是一种美味的夏日水果。海滩之旅必不可少！",
+    }
+}

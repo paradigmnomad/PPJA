@@ -1,0 +1,46 @@
+{
+    "Name": "Kwiat Rzepaku",
+    "Description": "Żółty kwiat z rzepaku.",
+    "Category": "Flower",
+    "Edibility": -300,
+    "Price": 50,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Dislike": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Willy", "Wizard"],
+        "Hate": ["Sebastian"],
+    },
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 50,
+    "PurchaseRequirements": null,
+    "NameLocalization":
+    {
+        // "es": "",
+        "ko": "유채꽃",
+        "de": "Rapsblüte",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "菜の花",
+        // "pt": "",
+        "ru": "Цветок рапса",
+        // "tr": "",
+        "zh": "油菜花",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        "ko": "유채의 꽃 부분.",
+        "de": "Die Blüte einer Rapspflanze.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        "ja": "アブラナの花の部分。",
+        // "pt": "",
+        "ru": "Цветок рапсового растения.",
+        // "tr": "",
+        "zh": "油菜开的花。",
+    }
+}

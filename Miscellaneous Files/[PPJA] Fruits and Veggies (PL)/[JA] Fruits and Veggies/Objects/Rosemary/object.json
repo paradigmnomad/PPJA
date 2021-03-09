@@ -1,0 +1,50 @@
+{
+    "Name": "Rozmaryn",
+    "Description": "Zapach rozmarynu jest sosnowy i świeży; znajomy, ale także charakterystyczny.",
+    "Category": "Vegetable",
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
+    "Edibility": 18,
+    "Price": 75,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Leah"],
+        "Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Romero",
+        "ko": "로즈마리",
+        "de": "Rosmarin",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ローズマリー",
+        //"pt": "Alecrim",
+        "ru": "Розмарин",
+         // "tr": "",
+        "zh": "迷迭香",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "El olor a romero es a espinoso, fresco y familiar, pero también distintivo.",
+        "ko": "로즈마리의 향은 소나무 같으며, 익숙하지만 독특한 향이 납니다.",
+        "de": "Der Geruch von Rosmarin ist kräftig und würzig.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "松のような独特の強い香りがする。",
+        //"pt": "O cheiro de alecrim é picante e fresco; familiar, mas também distinto.",
+        "ru": "Запах розмарина яркий и пряный, похожий на аромат сосны.",
+         // "tr": "",
+        "zh": "迷迭香的气味是淡淡的和新鲜的，熟悉而且独特的。",
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_green",
+        "herb_item",
+    ],
+}

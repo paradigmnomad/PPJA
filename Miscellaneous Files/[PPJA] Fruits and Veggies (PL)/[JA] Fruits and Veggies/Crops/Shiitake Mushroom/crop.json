@@ -1,0 +1,54 @@
+{
+    "Name": "Twardnik Japoński",
+    "Product": "Twardnik Japoński",
+    "SeedName": "Nasiona Twardnika Japońskiego",
+    "SeedDescription": "Sadź je wiosną lub jesienią. Dojrzewanie zajmuje 10 dni. Rośnie na pniu.",
+    "Type": "Vegetable",
+
+    "Seasons": ["spring", "fall"],
+    "Phases": [3, 4, 3, ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchasePrice": 500,
+    "SeedPurchaseRequirements": [
+        "y 4",
+    ],
+    
+    "SeedNameLocalization":
+    {
+         // "es": "",
+        "ko": "표고버섯 종자",
+        "de": "Shiitake-Pilze-Starterset",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "シイタケの原木",
+         // "pt": "",
+        "ru": "Семена шиитаке",
+         // "tr": "",
+          "zh": "香菇种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+         // "es": "",
+        "ko": "봄 또는 가을 작물. 성장하려면 10일이 소요됩니다.",
+        "de": "Pflanze sie im Frühling oder Herbst. Wächst in 10 Tagen heran.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "春または秋植えの作物。そだつのに10日かかる。",
+         // "pt": "",
+        "ru": "Сажайте весной или осенью. Вырастает через 10 дней.",
+         // "tr": "",
+          "zh": "春天或秋天播种，10天成熟。",
+    }
+}

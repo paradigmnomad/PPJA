@@ -1,0 +1,52 @@
+{
+    "Name": "Owies",
+    "Product": "Owies",
+    "SeedName": "Nasiona Owsa",
+    "SeedDescription": "Sadź je jesienią. Dojrzewanie zajmuje 4 dni.",
+    "Type": "Vegetable",
+
+    "Seasons": ["fall"],
+    "Phases": [1, 1, 1, 1, ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": true,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 10,
+    "SeedPurchaseRequirements": ["y 3"],
+
+    "SeedNameLocalization":
+    {
+         // "es": "",
+        "ko": "귀리 씨앗",
+        "de": "Hafer-Saat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "カラスムギのタネ",
+         // "pt": "",
+        "ru": "Семена овса",
+         // "tr": "",
+          "zh": "燕麦种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+         // "es": "",
+        "ko": "가을 작물. 성장하려면 4일이 소요됩니다.",
+        "de": "Pflanze sie im Herbst. Wächst in 4 Tagen heran.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "秋植えの作物。そだつのに4日かかる。",
+         // "pt": "",
+        "ru": "Сажайте осенью. Вырастает через 4 дня.",
+         // "tr": "",
+          "zh": "秋天播种。4天成熟。",
+    }
+}

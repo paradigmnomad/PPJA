@@ -1,0 +1,48 @@
+{
+    "Name": "Szalotka",
+    "Description": "Łagodniejsza wersja cebuli.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 115,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Krobus"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Jodi", "Sam", "Vincent"],
+        "Hate": ["Evelyn", "Pierre"],
+    },
+    "Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 50,
+    "PurchaseRequirements": null,
+    "NameLocalization":
+    {
+         // "es": "",
+        "ko": "샬롯",
+        "de": "Schalotte",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "エシャロット",
+         // "pt": "",
+        "ru": "Лук-шалот",
+         // "tr": "",
+          "zh": "火葱",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+        "ko": "양파의 작은 버전.",
+        "de": "Eine mildere Unterart der Zwiebel.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "よりマイルドなタマネギの仲間。",
+         // "pt": "",
+        "ru": "Более мягкая версия лука.",
+         // "tr": "",
+          "zh": "更温和的洋葱。",
+    }
+}

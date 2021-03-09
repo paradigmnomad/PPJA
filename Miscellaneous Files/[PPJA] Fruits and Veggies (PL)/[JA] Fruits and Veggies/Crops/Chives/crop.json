@@ -1,0 +1,50 @@
+{
+    "Name": "Szczypiorek",
+    "Product": "Szczypiorek",
+    "SeedName": "Nasiona Szczypiorku",
+    "SeedDescription": "Sadź je latem. Dojrzewanie zajmuje 5 dni.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 1, 1],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 20,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de cebollino",
+        "ko": "차이브 씨앗",
+        "de": "Schnittlauch-Saat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "チャイブのタネ",
+        //"pt": "Sementes de cebolinha",
+        "ru": "Семена шнитт-лука",
+         // "tr": "",
+        "zh": "香葱种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano. Toma 5 días para madurar.",
+        "ko": "여름 작물. 성장하려면 5일이 소요됩니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 5 Tagen heran.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "夏植えの作物。そだつのに5日かかる。",
+        //"pt": "Plante-as no verão. Demora 5 dias para amadurecer.",
+        "ru": "Сажайте летом. Вырастает через 5 дней.",
+         // "tr": "",
+        "zh": "夏天播种。5天成熟。",
+    }
+}

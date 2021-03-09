@@ -1,0 +1,51 @@
+{
+    "Name": "Kiwi",
+    "Product": "Kiwi",
+    "SeedName": "Nasiona Kiwi",
+    "SeedDescription": "Sadź je latem lub jesienią. Dojrzewanie trwa 21 dni. Odrasta co 3 dni. Rośnie na palikach.",
+    "Type": "Fruit",
+
+    "Seasons": ["summer", "fall"],
+    "Phases": [3, 4, 3, 10, 1, ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchasePrice": 300,
+    "SeedPurchaseRequirements": null,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de kiwi",
+        "ko": "키위 종자",
+        "de": "Kiwi-Starterset",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "キウイのタネ",
+        //"pt": "Sementes de kiwi",
+        "ru": "Семена киви",
+         // "tr": "",
+        "zh": "猕猴桃种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en verano u otoño. Toma 21 días para madurar, continua produciendo cada 3 días. Crece en una espaldera.",
+        "ko": "여름 또는 가을 작물. 성장하려먼 21일이 소요되며, 3일마다 수확 할 수 있습니다. 격자 구조물에 감겨 자랍니다.",
+        "de": "Pflanze sie im Sommer oder Herbst. Wächst in 21 Tagen heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "夏または秋植えの作物。そだつのに21日かかるが、そのあともくりかえし収穫できる。支柱にからみながらそだつ。",
+        //"pt": "Plante-as no verão ou no outono. Demora 21 dias para amadurecer e continua produzindo a cada 3 dias. Cresce em uma treliça.",
+        "ru": "Сажайте летом или осенью. Вырастает через 21 дней и продолжает давать урожай каждые 3 дня. Растут на шпалере.",
+         // "tr": "",
+        "zh": "夏天或秋天播种。21天成熟，收获之后每三天结一次果。生长在架子上。",
+    }
+}

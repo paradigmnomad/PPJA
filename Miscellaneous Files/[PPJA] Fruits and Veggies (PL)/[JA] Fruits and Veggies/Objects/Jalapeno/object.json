@@ -1,0 +1,43 @@
+{
+    "Name": "Jalapeno",
+    "Description": "Umiarkowanie pikantna papryka. Czytaj:'Halapenio' ",
+    "Category": "Vegetable",
+    "Edibility": 5,
+    "Price": 40,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Sam", "Sebastian", "Kent", "Gus", "Sandy"],
+        "Like": ["Alex", "Caroline", "Clint", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jodi", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+    },
+    "NameLocalization":
+    {
+         // "es": "",
+        "ko": "할라페뇨",
+        "de": "Jalapeno",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ハラペーニョ",
+         // "pt": "",
+        "ru": "Перец халапьено",
+         // "tr": "",
+          "zh": "墨西哥辣椒",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+        "ko": "적당히 매운 고추. 축제의 필수품.",
+        "de": "Ein mittelscharfer Pfeffer.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "適度に辛い唐辛子。お祭りに欠かせない。",
+         // "pt": "",
+        "ru": "Умеренно острый перец. Незаменим во время фестивалей.",
+         // "tr": "",
+          "zh": "一种中等辣度的辣椒。也被作为节日的主食。",
+    }
+}

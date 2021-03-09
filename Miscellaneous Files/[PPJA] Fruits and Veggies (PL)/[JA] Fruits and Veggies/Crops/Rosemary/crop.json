@@ -1,0 +1,50 @@
+{
+    "Name": "Rozmaryn",
+    "Product": "Rozmaryn",
+    "SeedName": "Nasiona Rozmarynu",
+    "SeedDescription": "Plant these in the fall. Takes 7 days to mature.",
+    "Type": "Vegetable",
+
+    "Seasons": ["fall"],
+    "Phases": [1, 2, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 30,
+    "SeedNameLocalization":
+    {
+        "es": "Semillas de romero",
+        "ko": "로즈마리 씨앗",
+        "de": "Rosmarin-Saat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ローズマリーのタネ",
+        //"pt": "Sementes de alecrim",
+        "ru": "Семена розмарина",
+         // "tr": "",
+        "zh": "迷迭香种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 7 días para madurar.",
+        "ko": "가을 작물. 성장하려면 7일이 소요됩니다.",
+        "de": "Pflanze sie im Herbst. Wächst in 7 Tagen heran.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "秋植えの作物。そだつのに7日かかる。",
+        //"pt": "Plante-as no outono. Demora 7 dias para amadurecer.",
+        "ru": "Сажайте осенью. Вырастает через 7 дней.",
+         // "tr": "",
+        "zh": "秋天播种。7天成熟。",
+    }
+}

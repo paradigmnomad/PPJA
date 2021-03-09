@@ -1,0 +1,42 @@
+{
+    "Name": "Niebieska Agawa",
+    "Description": "Cięte liście z niebieskiej agawy. Można ich użyć do produkcji alkoholu.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 300,
+    "IsColored": false,
+    "Recipe": null,
+    "GiftTastes":
+    {
+        "Love": ["Krobus"],
+        "Hate": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Harvey", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard", "Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent", "Lewis"],
+    },
+    "NameLocalization":
+    {
+         // "es": "",
+        "ko": "푸른 용설란",
+        "de": "Blaue Agave",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ブルーアガベ",
+         // "pt": "",
+        "ru": "Агава голубая",
+         // "tr": "",
+          "zh": "蓝色龙舌兰叶",
+    },
+    "DescriptionLocalization":
+    {
+         // "es": "",
+        "ko": "푸른 용설란에서 잘라낸 잎. 증류 가마를 이용해 술로 만들 수 있습니다.",
+        "de": "Ein geschnittener Wedel einer blauen Agave. Er kann in einer Destille zu Alkohol verarbeitet werden.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "青いリュウゼツランから切り取られた葉の部分。蒸留器を使ってお酒をつくることができる。",
+         // "pt": "",
+        "ru": "Срезанный лист агавы голубой. Может быть использован дл производства алкоголя.",
+         // "tr": "",
+          "zh": "从蓝色龙舌兰上切下的叶子。它可以用来制造酒精。",
+    }
+}

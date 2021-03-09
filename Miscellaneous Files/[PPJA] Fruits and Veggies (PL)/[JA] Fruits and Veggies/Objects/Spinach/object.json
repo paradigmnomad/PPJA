@@ -1,0 +1,42 @@
+{
+    "Name": "Szpinak",
+    "Description": "Zielone, zdrowe, liściaste warzywo. Dzieci nie zoszą go jeść",
+    "Category": "Vegetable",
+    "Edibility": 15,
+    "Price": 35,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Espinaca",
+        "ko": "시금치",
+        "de": "Spinat",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "ホウレンソウ",
+        //"pt": "Espinafre",
+        "ru": "Шпинат",
+         // "tr": "",
+        "zh": "菠菜",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "¡El es fuerte hasta el final porque se come las espinacas!",
+        "ko": "시금치를 먹으면 힘이 세집니다!",
+        "de": "Der macht STARK!",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "いつもホウレンソウを食べているから、彼のフィニッシュは強烈だ！",
+        //"pt": "Ele é forte até o final porque come seu espinafre!",
+        "ru": "Он так силён, потому что он ест свой шпинат!",
+         // "tr": "",
+        "zh": "他很强壮，因为他吃了他的菠菜！",
+    }
+}

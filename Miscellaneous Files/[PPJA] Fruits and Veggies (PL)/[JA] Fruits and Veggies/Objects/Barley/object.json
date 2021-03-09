@@ -1,0 +1,41 @@
+{
+    "Name": "Jęczmień",
+    "Description": "Ciemne ziarno o bardziej ziemistym smaku po przetwarzaniu niż pszenica.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 25,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        "es": "Cebada",
+        "ko": "보리",
+        "de": "Gerste",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "オオムギ",
+        //"pt": "Cevada",
+        "ru": "Ячмень",
+         // "tr": "",
+        "zh": "大麦",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un grano oscuro que cuando se procesa tiene un sabor más terroso que el trigo.",
+        "ko": "가공하면 밀보다 흙맛이 나는 짙은 곡식.",
+        "de": "Ein dunkles Korn, das nach der Verarbeitung einen erdigeren Geschmack als Weizen hat.",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        "ja": "小麦と比べより野趣にとんだ風味のする色の濃い穀物。",
+        //"pt": "Um grão escuro que, quando processado, tem um sabor mais terroso do que o trigo.",
+        "ru": "Тёмное зерно, которое имеет более выраженный вкус после обработки, чем пшеница.",
+         // "tr": "",
+        "zh": "一种比小麦更有泥土味的深褐色作物。",
+    }
+}
