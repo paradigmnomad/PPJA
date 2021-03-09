@@ -1,0 +1,40 @@
+{
+    "Shops": [
+    {
+        "ShopName": "ClothingStand",
+        "PortraitPath": "assets/Portrait.png",
+        "Quote": "Cześć, poke! Sprzedaję ubrania, dużo i dużo. oke poke!",
+        "LocalizedQuote":
+        {
+            // "es": "",
+             "ko": "안뇽, 친구! 나 옷 마니마니 판다쥐!",
+            // "de": "",
+             "fr": "Aya, poke! Moi vendre vêtements, beaucoup beaucoup. Ok poke!",
+            // "hu": "",
+            // "it": "",
+            // "ja": "",
+            // "pt": "",
+            // "ru": "",
+             "tr": "Selam, dürtük! Kıyafet satıyorum, fazla fazla. tamam mı dürtük!",
+             "zh": "你好，Poke！我卖衣服，许许多多数不清的衣服。带上你的钱，OK Poke！", 
+        },
+        "ShopPrice": 1000,
+        "MaxNumItemsSoldInStore": 30,
+        "ItemStocks": [
+        {
+            "ItemType": "Clothing",
+            "JAPacks": [
+                "missy.shirtsja",
+                "bb.shirtsmodja",
+                "coii.shirtsandgirlssetcollectionja",
+                "Sydney.SydsPlaidsJA",
+                "tacodevourer.cuteshirtsja",
+                "alicedafox.newshirtsja",
+                "ran.suitstuxedosja",
+                "ran.weddingflowerdanceattireja",
+                "Lumisteria.LumisteriaClothes",
+            ],
+            "MaxNumItemsSoldInItemStock": 20,
+        }, ],
+    }, ]
+}
