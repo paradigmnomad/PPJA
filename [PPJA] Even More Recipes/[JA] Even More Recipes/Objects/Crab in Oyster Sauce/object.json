@@ -33,7 +33,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "굴 소스 게",
         // "de": "",
         "fr": "Crabe en sauce aux huitres",
         // "hu": "",
@@ -47,7 +47,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "맛깔스러운 굴소스와 함께 제공되는 게 해산물 요리.",
         // "de": "",
         "fr": "Un bon repas de fruits de mer, du crabe servi avec une généreuse sauce aux huitres.",
         // "hu": "",
