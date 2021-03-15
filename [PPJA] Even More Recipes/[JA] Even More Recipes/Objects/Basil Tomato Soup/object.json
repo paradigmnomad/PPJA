@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "바질 토마토 수프",
         // "de": "",
         "fr": "Soupe tomates et basilic",
         // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "바질이 들어간 크림 토마토 수프.",
         // "de": "",
         "fr": "Une soupe aux tomates crémeuse avec un bon goût de basilic.",
         // "hu": "",
