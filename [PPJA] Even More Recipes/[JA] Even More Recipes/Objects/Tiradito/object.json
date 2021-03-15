@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "티라디토",
         // "de": "",
         "fr": "Tiradito",
         // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "얇게 썬 생선, 야채, 레몬과 라임 주스를 곁들인 음식.",
         // "de": "",
         "fr": "Fait de tranches de poisson cru très fines et de légumes arrosés de jus de citron et de lime.",
         // "hu": "",
