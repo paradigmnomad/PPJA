@@ -33,7 +33,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "새우 밥",
         // "de": "",
         "fr": "Crevettes et riz",
         // "hu": "",
@@ -47,7 +47,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "밥 위에 새우를 얹은 간단한 요리.",
         // "de": "",
         "fr": "Un plat simple de crevettes grillées servies dur du riz.",
         // "hu": "",
