@@ -43,7 +43,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "피에로기",
         // "de": "",
         "fr": "Pierogis",
         // "hu": "",
@@ -57,7 +57,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "이스트를 넣지 않은 반죽을 고소하거나 달콤하게 채워서 만든 만두.",
         // "de": "",
         "fr": "Des dumpling farcis sucrés ou salés.",
         // "hu": "",
