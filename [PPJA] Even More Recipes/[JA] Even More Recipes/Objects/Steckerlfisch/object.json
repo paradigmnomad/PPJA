@@ -30,7 +30,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "생선꼬치 구이",
         // "de": "",
         "fr": "Steckerlfisch",
         // "hu": "",
@@ -44,7 +44,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "막대기에 생선을 꽂아 구운 요리.",
         // "de": "",
         "fr": "C'est un poisson grillé sur un bâton.",
         // "hu": "",
