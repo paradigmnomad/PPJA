@@ -40,7 +40,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "딸기 치즈케이크",
         // "de": "",
         "fr": "Gâteau au fromage aux fraises",
         // "hu": "",
@@ -54,7 +54,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "맛있는 딸기 잼을 얹은 치즈케이크.",
         // "de": "",
         "fr": "Un gâteau au fromage avec un délicieux coulis de fraises",
         // "hu": "",
