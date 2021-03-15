@@ -34,7 +34,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "뫼니에르",
         // "de": "",
         "fr": "Meunière",
         // "hu": "",
@@ -48,7 +48,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "생선살에 밀가루를 살짝 묻혀 버터에 볶은 요리.",
         // "de": "",
         "fr": "Des filets de poisson légèrement farinés avant d'être sautés au beurre.",
         // "hu": "",
