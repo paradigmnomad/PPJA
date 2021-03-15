@@ -37,7 +37,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "텐동",
         // "de": "",
         "fr": "Tempura aux fruits de mer",
         // "hu": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "갓 찐 쌀 위에 반죽을 입히고 튀긴 해산물을 얹어 먹는 음식.",
         // "de": "",
         "fr": "Des fruits de mer et des légumes panés et frits sur un lit de riz",
         // "hu": "",
