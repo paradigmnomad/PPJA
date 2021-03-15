@@ -34,7 +34,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "누들 수프",
         // "de": "",
         "fr": "Soupe aux nouilles",
         // "hu": "",
@@ -48,7 +48,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "묽은 국물에 국수를 넣은 수프.",
         // "de": "",
         "fr": "Une soupe aux nouilles dans un bouillon léger.",
         // "hu": "",
