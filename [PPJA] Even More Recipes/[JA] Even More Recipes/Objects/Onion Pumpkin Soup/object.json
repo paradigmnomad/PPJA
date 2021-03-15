@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "양파 호박 수프",
         // "de": "",
         "fr": "Soupe à l'oignon et citrouille",
         // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "양파를 곁들인 맛있는 호박 수프.",
         // "de": "",
         "fr": "Une soupe à la citrouille épaisse relevée avec de l'oignon.",
         // "hu": "",
