@@ -46,7 +46,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "사케 케이크",
         // "de": "",
         "fr": "Sachertorte",
         // "hu": "",
@@ -60,7 +60,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "세계에서 가장 유명한 케이크.",
         // "de": "",
         "fr": "Le gâteau le plus célèbre du monde.",
         // "hu": "",
