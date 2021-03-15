@@ -27,7 +27,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "육수",
         // "de": "",
         "fr": "Bouillon",
         // "hu": "",
@@ -41,7 +41,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "야채로 만든 간단한 국물. 다른 요리의 베이스로 사용됩니다.",
         // "de": "",
         "fr": "Un simple bouillon de légumes. Sert de base à plusieurs recettes.",
         // "hu": "",
