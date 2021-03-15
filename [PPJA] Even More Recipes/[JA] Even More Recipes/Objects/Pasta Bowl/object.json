@@ -38,7 +38,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "파스타 볼",
         // "de": "",
         "fr": "Bol de pâtes",
         // "hu": "",
@@ -52,7 +52,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "일반적으로 누룩을 넣지 않은 반죽으로 만들고 소스와 함께 제공되는 이탈리아 유형의 음식.",
         // "de": "",
         "fr": "Le plat italien classique, des pâtes accompagnées de sauce.",
         // "hu": "",
