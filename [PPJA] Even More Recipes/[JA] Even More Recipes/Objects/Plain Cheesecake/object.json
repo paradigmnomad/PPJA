@@ -34,7 +34,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "플레인 치즈케이크",
         // "de": "",
         "fr": "Gâteau au fromage nature",
         // "hu": "",
@@ -48,7 +48,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "맛이 별로 없습니다.",
         // "de": "",
         "fr": "Il n'a pas beaucoup de saveur.",
         // "hu": "",
