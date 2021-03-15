@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "연어살",
         // "de": "",
         "fr": "Filet de saumon",
         // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "갓 잡은 연어 살코기.",
         // "de": "",
         "fr": "Un filet de saumon bien frais.",
         // "hu": "",
