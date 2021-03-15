@@ -45,7 +45,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": ""칩 앤 과카몰리",
         // "de": "",
         "fr": "Croustilles et guacamole",
         // "hu": "",
@@ -59,7 +59,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "그리드볼 경기를 보면서 먹기에 완벽한 음식.",
         // "de": "",
         "fr": "Des croustilles de maïs et la trempette parfaite pour les accompagner.",
         // "hu": "",
