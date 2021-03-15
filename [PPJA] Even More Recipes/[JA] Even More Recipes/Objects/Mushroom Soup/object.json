@@ -46,7 +46,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "버섯 수프",
         // "de": "",
         "fr": "Soupe aux champignons",
         // "hu": "",
@@ -60,7 +60,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+		"ko": "기본 루를 크림이나 우유로 희석 후, 버섯을 넣어 만든 간단한 수프.",
         // "de": "",
         "fr": "Une soupe simple, faite à partir d'un roux allongé de lait ou de crème et remplie de champignons.",
         // "hu": "",
