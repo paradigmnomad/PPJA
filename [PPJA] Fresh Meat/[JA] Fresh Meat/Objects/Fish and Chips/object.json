@@ -38,7 +38,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "피쉬 앤 칩스",
         // "de": "",
         "fr": "Fish and chips",
         // "hu": "",
@@ -52,7 +52,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "갓 튀겨낸 생선 살코기와 큼직한 감자칩을 곁들인 고전적인 요리.",
         // "de": "",
         "fr": "Un grand plat de poisson panné et de frites. Un classique.",
         // "hu": "",

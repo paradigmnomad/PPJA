@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "슈니첼",
         // "de": "",
         "fr": "Escalope viennoise",
         // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "얇은 돼지고기를 기름에 튀겨낸 요리. 마치 돈가스같습니다.",
         // "de": "",
         "fr": "Une fine tranche de porc pannée et frite",
         // "hu": "",

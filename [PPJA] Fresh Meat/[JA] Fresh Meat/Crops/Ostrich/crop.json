@@ -4,7 +4,7 @@
     "SeedName": "Ostrich Seeds",
     "SeedDescription": "Plant these in summer. Takes 13 days to mature.",
     "Type": "ArtisanGoods",
-    "Seasons": ["summer", "winter"],
+    "Seasons": ["summer"],
     "Phases": [3, 2, 3, 2, 3],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
@@ -25,7 +25,7 @@
     "SeedNameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "타조 씨앗",
         // "de": "",
         // "fr": "",
         // "hu": "",
@@ -39,7 +39,7 @@
     "SeedDescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "여름 작물. 성장하려면 13일이 소요됩니다.",
         // "de": "",
         // "fr": "",
         // "hu": "",

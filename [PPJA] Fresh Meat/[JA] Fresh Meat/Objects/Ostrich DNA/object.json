@@ -15,7 +15,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "타조 DNA",
         // "de": "",
         "fr": "ADN d'Autruche",
         // "hu": "",
@@ -29,7 +29,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "타조의 알에서 추출한 DNA.",
         // "de": "",
         "fr": "De l'ADN d'autruche extrait avec u7n synthétiseur d'ADN.",
         // "hu": "",

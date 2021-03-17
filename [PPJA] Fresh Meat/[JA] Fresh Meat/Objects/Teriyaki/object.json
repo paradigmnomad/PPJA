@@ -40,7 +40,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "양고기 데리야끼",
         // "de": "",
         "fr": "Mouton teriyaki",
         // "hu": "",
@@ -54,7 +54,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "데리야끼 소스에 재운 양고기 구이.",
         // "de": "",
         "fr": "Mouton braisé dans une épaise marinade de sauce teriyaki.",
         // "hu": "",
