@@ -45,7 +45,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "탕수 소스",
         // "de": "",
         "fr": "Sauce aigre-douce",
         // "hu": "",
@@ -59,7 +59,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "인기가 많은 새콤달콤한 소스.",
         // "de": "",
         "fr": "Un condiment populaire et un mélange de saveurs gagnant.",
         // "hu": "",
