@@ -37,7 +37,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "탕수육 덮밥",
         // "de": "",
         "fr": "Porc aigre-doux sur du riz",
         // "hu": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "밥 위에 새콤달콤한 탕수육을 듬뿍 올렸습니다.",
         // "de": "",
         "fr": "Un plat de porc dans une sauce aigre-douce servi sur un lit de riz.",
         // "hu": "",

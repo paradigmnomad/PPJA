@@ -41,7 +41,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "소렐 수프",
         // "de": "",
         "fr": "Soupe campagnarde",
         // "hu": "",
@@ -55,7 +55,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "시금치, 청경채, 민들레로 만든 간단한 수프입니다.",
         // "de": "",
         "fr": "Une soupe simple faite d'épinards, de bok choy et de pissenlit.",
         // "hu": "",

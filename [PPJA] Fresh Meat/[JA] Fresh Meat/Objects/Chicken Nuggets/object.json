@@ -36,7 +36,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "치킨 너겟",
         // "de": "",
         "fr": "Croquettes de poulet",
         // "hu": "",
@@ -50,7 +50,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "치킨 너겟의 맛은 이미 다들 아시잖아요?",
         // "de": "",
         "fr": "Tu sais à quoi ressemble une croquette de poulet.",
         // "hu": "",

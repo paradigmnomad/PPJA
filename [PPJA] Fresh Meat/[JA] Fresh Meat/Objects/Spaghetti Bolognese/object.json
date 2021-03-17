@@ -37,7 +37,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "볼로네이즈 스파게티",
         // "de": "",
         "fr": "Spaghetti à la bolognaise",
         // "hu": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "고기가 듬뿍 들어간 소스를 곁들인 스파게티입니다.",
         // "de": "",
         "fr": "De longues nouilles dans une sauce à la viande.",
         // "hu": "",

@@ -47,7 +47,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "고기 꼬치요리",
         // "de": "",
         "fr": "Brochette de viande",
         // "hu": "",
@@ -61,7 +61,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "꼬챙이에 끼워 노릇하게 구워낸 고기요리입니다.",
         // "de": "",
         "fr": "C'est de la viande. Sur une brochette.",
         // "hu": "",

@@ -40,7 +40,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "데리야끼 소스",
         // "de": "",
         "fr": "Sauce teriyaki",
         // "hu": "",
@@ -54,7 +54,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "간단하지만 놀라울 정도로 맛있는 아 데리야끼 소스는 여러분의 요리를 한 단계 더 올려줄 것입니다!",
         // "de": "",
         "fr": "Cette sauce simple mais unique fera passer vos plats au niveau supérieur.",
         // "hu": "",

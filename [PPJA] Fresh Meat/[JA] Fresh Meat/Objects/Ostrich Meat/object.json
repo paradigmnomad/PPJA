@@ -14,7 +14,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "타조 고기",
         // "de": "",
         "fr": "Viande d'autruche",
         // "hu": "",
@@ -28,7 +28,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "거의 60kg에 가까운 거대한 고기 덩어리입니다. 놀라울 정도로 크네요!",
         // "de": "",
         "fr": "Ce gros morceau de viande pèse près de 60 kg. Je suis impressionné!",
         // "hu": "",

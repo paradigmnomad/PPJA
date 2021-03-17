@@ -37,7 +37,7 @@
     "NameLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "바베큐 소시지",
         // "de": "",
         "fr": "Saucisse barbecue",
         // "hu": "",
@@ -51,7 +51,7 @@
     "DescriptionLocalization":
     {
         // "es": "",
-        // "ko": "",
+        "ko": "머스터드를 곁들인 바베큐 소시지.",
         // "de": "",
         "fr": "Une simple saucisse barbecue, servie avec de la moutarde.",
         // "hu": "",
