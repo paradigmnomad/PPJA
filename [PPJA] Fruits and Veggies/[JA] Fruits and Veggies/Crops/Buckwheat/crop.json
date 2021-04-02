@@ -29,7 +29,7 @@
     // "it": "",
     "ja": "ソバの種",
     "pt": "Sementes de trigo mourisco",
-    // "ru": "",
+    "ru": "Семена гречихи",
     "tr": "Karabuğday Tohumu",
     "zh": "荞麦种子"
   },
@@ -42,7 +42,7 @@
     // "it": "",
     "ja": "春植えの作物。そだつのに4日かかる。収穫にはカマが必要。",
     "pt": "Plante isso na primavera. Leva 4 dias para amadurecer. Colheita com uma foice.",
-    // "ru": "",
+    "ru": "Сажайте весной. Вырастает за 4 дня. Урожай собирайте косой.",
     "tr": "Baharda ekilir. 4 günde yetişir. Tırpanla hasat edilir.",
     "zh": "春天播种，4天成熟，用镰刀收割。"
   }
