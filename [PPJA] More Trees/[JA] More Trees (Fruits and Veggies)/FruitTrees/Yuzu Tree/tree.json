@@ -15,7 +15,7 @@
         // "it": "",
         "ja": "ユズの苗",
         "pt": "Broto de Yuzu",
-        // "ru": "",
+        "ru": "Саженец юдзу",
         "tr": "Yuzu Fidanı",
         "zh": "香橙树苗"
     },
@@ -29,7 +29,7 @@
         // "it": "",
         "ja": "28日かけて成木にそだち、冬になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
         "pt": "Demora 28 dias para produzir uma árvore de Yuzu madura. Dá frutos no inverno. Só cresce se os 8 espaços adjacentes estiverem vazios.",
-        // "ru": "",
+        "ru": "Становится взрослым деревом через 28 дней. Плодоносит зимой. Растет только если 8 «клеток» вокруг него не заняты.",
         "tr": "28 günde olgunlaşarak Yuzu Ağacı olur. Kışın meyve verir. Sadece etrafındaki 8 \"kare\" boşken yetişir.",
         "zh": "28天成熟为成年香橙树。冬天结果。只有在附近8块地块都空置的情况下才会成长。"
     }

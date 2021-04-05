@@ -15,7 +15,7 @@
         // "it": "",
         "ja": "ウメの苗",
         "pt": "Broto de Ume",
-        // "ru": "",
+        "ru": "Саженеж абрикоса японского",
         "tr": "Ume Ağacı",
         "zh": "梅树苗"
     },
@@ -29,7 +29,7 @@
         // "it": "",
         "ja": "28日かけて成木にそだち、夏になるとくだものを実らせる。となりあった周囲の「8マス」が空いてないとそだたない。",
         "pt": "Demora 28 dias para produzir uma árvore madura de Ume. Dá frutos no verão. Só cresce se os 8 espaços adjacentes estiverem vazios.",
-        // "ru": "",
+        "ru": "Становится взрослым деревом через 28 дней. Плодоносит летом. Растет только если 8 «клеток» вокруг него не заняты.",
         "tr": "28 günde olgunlaşarak Ume Ağacı olur. Yazın meyve verir. Sadece etrafındaki 8 \"kare\" boşken yetişir.",
         "zh": "28天成熟为成年梅树。夏天结果。只有在附近8块地块都空置的情况下才会成长。"
     }
