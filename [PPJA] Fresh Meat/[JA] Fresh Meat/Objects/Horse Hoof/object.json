@@ -22,7 +22,7 @@
         "ja": "馬のヒヅメ",
         "pt": "Casco de Cavalo",
         // "ru": "",
-        "tr": "At Toynaðý",
+        "tr": "At Toynağı",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "大く丸い馬のひづめ。",
         "pt": "Um casco grande e redondo, de um cavalo.",
         // "ru": "",
-        "tr": "Bir atýn büyük, yuvarlak bir toynaðý.",
+        "tr": "Bir atın büyük, yuvarlak bir toynağı.",
         // "zh": "",
     },
     "EnableWithMod": "Cherry.MultiYieldCrops"

@@ -33,7 +33,7 @@
         "ja": "ダチョウ肉の種",
         // "pt": "",
         "ru": "Семена мяса страуса",
-        "tr": "Devekuþu Tohumu",
+        "tr": "Devekuşu Tohumu",
         // "zh": "",
     },
     "SeedDescriptionLocalization":
@@ -47,7 +47,7 @@
         "ja": "夏植えの種。13日で収穫できる。",
         // "pt": "",
         "ru": "Сажайте их летом. Созревание занимает 13 дней",
-        "tr": "Yazýn ekilir. 13 günde yetiþir.",
+        "tr": "Yazın ekilir. 13 günde yetişir.",
         // "zh": "",
     },
 }

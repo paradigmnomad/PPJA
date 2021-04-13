@@ -131,6 +131,7 @@
         "MinutesUntilReady": 2360,
         "OutputIdentifier": "Campari",
         "Sounds": ["Ship"],
+        "WarningsLogLevel": "Trace"
     },
     {
         "ProducerName": "Still",
@@ -294,6 +295,7 @@
         "MinutesUntilReady": 6000,
         "OutputIdentifier": "Champagne",
         "Sounds": ["Ship"],
+        "WarningsLogLevel": "Trace"
     },
     {
         "ProducerName": "Keg",
@@ -1347,6 +1349,7 @@
         "MinutesUntilReady": 120,
         "OutputIdentifier": "Pistachio Ice Cream",
         "Sounds": ["Ship"],
+        "WarningsLogLevel": "Trace"
     },
     {
         "ProducerName": "Ice Cream Machine",
@@ -1513,6 +1516,7 @@
         "MinutesUntilReady": 2360,
         "OutputIdentifier": "Champagne Vinegar",
         "Sounds": ["Ship"],
+        "WarningsLogLevel": "Trace"
     },
 
     // Juicer

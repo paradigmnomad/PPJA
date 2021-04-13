@@ -22,7 +22,7 @@
         "ja": "調理済みダチョウ肉",
         "pt": "Carne de avestruz cozida",
         "ru": "Приготовленное мясо страуса",
-        "tr": "Piþmiþ Devekuþu Eti",
+        "tr": "Pişmiş Devekuşu Eti",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         // "ja": "",
         "pt": "Tem gosto de carne.",
         "ru": "На вкус как говядина",
-        "tr": "Tadý sýðýr eti gibi.",
+        "tr": "Tadı sığır eti gibi.",
         // "zh": "",
     },
 }

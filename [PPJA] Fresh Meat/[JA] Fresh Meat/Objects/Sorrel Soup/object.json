@@ -49,7 +49,7 @@
         "ja": "スイバのスープ",
         "pt": "Sopa de Alazão",
         "ru": "Щавелевый суп",
-        "tr": "Kuzukulaðý Çorbasý",
+        "tr": "Kuzukulağı Çorbası",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -63,7 +63,7 @@
         "ja": "ほうれん草、チンゲン菜、タンポポを使ったシンプルなスープ。",
         "pt": "Uma sopa simples feita de espinafre, bok choy, e dente-de-leão.",
         "ru": "Простой суп из шпината, бок-чоя и одуванчика.",
-        "tr": "Ispanak, çin lahanasý ve karahindibadan yapýlmýþ basit bir çorba.",
+        "tr": "Ispanak, çin lahanası ve karahindibadan yapılmış basit bir çorba.",
         // "zh": "",
     }
 }

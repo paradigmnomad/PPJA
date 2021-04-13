@@ -22,7 +22,7 @@
         "ja": "ダチョウ肉",
         "pt": "Carne de avestruz",
         "ru": "Мясо страуса",
-        "tr": "Devekuþu Eti",
+        "tr": "Devekuşu Eti",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -36,7 +36,7 @@
         "ja": "130ポンドの肉の塊。素晴らしい。",
         "pt": "Este pedaço de carne pesa 130 lbs.",
         "ru": "Этот кусок мяса весит 130 фунтов. Я впечатлен.",
-        "tr": "Bu et parçasýnýn aðýrlýðý 130lbs. Etkilendim.",
+        "tr": "Bu et parçasının ağırlığı 130lbs. Etkilendim.",
         // "zh": "",
     },
 }

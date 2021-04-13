@@ -44,7 +44,7 @@
         "ja": "シュニッツェル",
         "pt": "Schnitzel",
         "ru": "Шнитцель",
-        "tr": "Þinitzel",
+        "tr": "Şinitzel",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -58,7 +58,7 @@
         "ja": "ラードで揚げた豚肉の薄切り。",
         "pt": "Uma fina fatia de carne de porco frita em gordura.",
         "ru": "Тонкий ломтик свинины, обжаренный в жире.",
-        "tr": "Ýnce bir dilim domuz eti yaðda kýzartýlmýþ.",
+        "tr": "İnce bir dilim domuz eti yağda kızartılmış.",
         // "zh": "",
     }
 }

@@ -55,7 +55,7 @@
         "ja": "肉串",
         "pt": "Espeto de carne",
         "ru": "Мясной шампур",
-        "tr": "Et Þiþ",
+        "tr": "Et Şiş",
         // "zh": "",
     },
     "DescriptionLocalization":
@@ -69,7 +69,7 @@
         "ja": "串に刺さった肉。",
         "pt": "É carne em um espeto.",
         "ru": "Это мясо. На палочке.",
-        "tr": "Et. Bir çubuðun üstünde.",
+        "tr": "Et. Bir çubuğun üstünde.",
         // "zh": "",
     }
 }
