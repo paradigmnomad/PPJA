@@ -2,7 +2,7 @@
     "Name": "Coal Root",
     "Product": 382,
     "SeedName": "Coal Seeds",
-    "SeedDescription": "Plant these in spring or summer. Takes 10 days to mature.",
+    "SeedDescription": "Plant these in spring or summer. Takes 8 days to mature.",
     "Type": "ArtisanGoods",
 
     "Seasons": ["spring", "summer"],
