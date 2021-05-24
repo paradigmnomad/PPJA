@@ -2,7 +2,7 @@
     "Name": "Money Plant",
     "Product": "Doubloon",
     "SeedName": "Doubloon Seeds",
-    "SeedDescription": "Plant these in fall. Takes 13 days to mature, and keeps producing after the first harvest.",
+    "SeedDescription": "Plant these in fall. Takes 10 days to mature, and keeps producing after the first harvest.",
     "Type": "ArtisanGoods",
 
     "Seasons": ["fall"],
