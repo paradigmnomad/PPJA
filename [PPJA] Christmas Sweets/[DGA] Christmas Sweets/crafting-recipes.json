@@ -1,0 +1,710 @@
+[
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Christmas Chocolate Candie Cookies"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      }
+    ],
+    "ID": "Converted_Christmas Chocolate Candie Cookies Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Decorated Gingerbread Man"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Brown Sugar"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "829"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
+      }
+    ],
+    "ID": "Converted_Decorated Gingerbread Man Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Fruitcake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "832"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "638"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Almond"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Brown Sugar"
+      }
+    ],
+    "ID": "Converted_Fruitcake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Gingerbread House"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Brown Sugar"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "829"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Vanilla"
+      }
+    ],
+    "ID": "Converted_Gingerbread House Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Holly Decorated Cookie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "283"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      }
+    ],
+    "ID": "Converted_Holly Decorated Cookie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Iced Christmas Tree"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "486"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      }
+    ],
+    "ID": "Converted_Iced Christmas Tree Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Iced Decorated Christmas Tree"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "486"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Sprinkles"
+      }
+    ],
+    "ID": "Converted_Iced Decorated Christmas Tree Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Iced Green Christmas Tree"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "486"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Spinach"
+      }
+    ],
+    "ID": "Converted_Iced Green Christmas Tree Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Jam-Filled Cookie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "344"
+      }
+    ],
+    "ID": "Converted_Jam-Filled Cookie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Jinglebell Cake Pops"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "220"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "384"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "380"
+      }
+    ],
+    "ID": "Converted_Jinglebell Cake Pops Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Mitten Cookie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Mitten Cookie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Peppermint Candy Cane"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "245",
+        "Quantity": 3
+      },
+      {
+        "Value": "ppja.christmassweets.DGA/Peppermints"
+      }
+    ],
+    "ID": "Converted_Peppermint Candy Cane Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Peppermint Hot Chocolate"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Value": "ppja.christmassweets.DGA/Peppermint Candy Cane"
+      }
+    ],
+    "ID": "Converted_Peppermint Hot Chocolate Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Peppermints"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Mint",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Peppermints Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Prismatic Candy Cane"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.christmassweets.DGA/Peppermints"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "638"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "258"
+      }
+    ],
+    "ID": "Converted_Prismatic Candy Cane Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Pufferchick Cookie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Pufferchick Cookie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Reindeer Marshmellow"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Marshmallow Fluff"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Soft Pretzel"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      }
+    ],
+    "ID": "Converted_Reindeer Marshmellow Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Snowman Cookie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Snowman Cookie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Snowman Scenery Cookie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Snowman Scenery Cookie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Spiked Eggnog"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Nutmeg"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Bourbon"
+      }
+    ],
+    "ID": "Converted_Spiked Eggnog Recipe",
+    "EnableConditions":
+    {
+        "HasMod": "ppja.artisanvalleymachinegoods.DGA"
+    },
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Stardrop Cookie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Stardrop Cookie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Stocking Cookie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Stocking Cookie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Strawberry Santa"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Strawberry Santa Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.christmassweets.DGA/Christmas Putting"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Almond",
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Brandy"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "829"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "913"
+      }
+    ],
+    "ID": "Christmas Pudding Recipe",
+    "EnableConditions":
+    {
+        "HasMod": "ppja.artisanvalleymachinegoods.DGA"
+    },
+  }
+]

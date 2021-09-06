@@ -1,0 +1,297 @@
+[
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Adzuki Bean, ppja.fruitsandveggies.DGA/Zucchini",
+    "NPC": "Harvey",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Adzuki Bean",
+    "NPC": "Abigail, Haley, Jas, Sam, Sebastian, Vincent, Lewis",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Aloe",
+    "NPC": "Clint, Demetrius, Harvey, Jodi, Leah, Linus, Maru, Robin",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Aloe",
+    "NPC": "Abigail, George, Krobus, Sam, Sebastian, Jas, Vincent",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Basil",
+    "NPC": "Gus",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Red Bell Pepper, ppja.fruitsandveggies.DGA/Green Bell Pepper, ppja.fruitsandveggies.DGA/Yellow Bell Pepper, ppja.fruitsandveggies.DGA/Orange Bell Pepper, ppja.fruitsandveggies.DGA/Broccoli, ppja.fruitsandveggies.DGA/Cabbage, ppja.fruitsandveggies.DGA/Carrot, ppja.fruitsandveggies.DGA/Cassava, ppja.fruitsandveggies.DGA/Celery, ppja.fruitsandveggies.DGA/Chives, ppja.fruitsandveggies.DGA/Habanero, ppja.fruitsandveggies.DGA/Lettuce, ppja.fruitsandveggies.DGA/Spinach, ppja.fruitsandveggies.DGA/Sugar Beet, ppja.fruitsandveggies.DGA/Sweet Potato, ppja.fruitsandveggies.DGA/Tabasco Pepper, ppja.fruitsandveggies.DGA/Zucchini, ppja.fruitsandveggies.DGA/Serrano Chili, ppja.fruitsandveggies.DGA/Scotch Bonnet, ppja.fruitsandveggies.DGA/Poblano Chile, ppja.fruitsandveggies.DGA/Carolina Reaper",
+    "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Blue Agave, ppja.fruitsandveggies.DGA/Cactus Flowerppja.fruitsandveggies.DGA/Chickpea, ppja.fruitsandveggies.DGA/Kidney Bean, ppja.fruitsandveggies.DGA/Licorice Root, ppja.fruitsandveggies.DGA/Maguey, ppja.fruitsandveggies.DGA/Onion, ppja.fruitsandveggies.DGA/Red Onion, ppja.fruitsandveggies.DGA/Shallot, ppja.fruitsandveggies.DGA/Wasabi",
+    "NPC": "Krobus",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Butternut Squash",
+    "NPC": "Clint, Demetrius, Harvey, Jodi, Leah, Linus, Maru, Robin",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Butternut Squash",
+    "NPC": "Abigail, George, Krobus, Sam, Sebastian",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Butternut Squash, ppja.fruitsandveggies.DGA/Ghost Pepper",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Chives",
+    "NPC": "Gus, Harvey, Leah, Linus",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Cotton Boll",
+    "NPC": "Emily",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Cotton Boll, ppja.fruitsandveggies.DGA/Oregano, ppja.fruitsandveggies.DGA/Parsley, ppja.fruitsandveggies.DGA/Perilla Leaf, ppja.fruitsandveggies.DGA/Rosemary, ppja.fruitsandveggies.DGA/Sugar Cane, ppja.fruitsandveggies.DGA/Thyme",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Cucumber",
+    "NPC": "Abigail, Haley, Jas, Maru, Sam, Vincent, Wizard",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Elderberry",
+    "NPC": "Demetrius, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane",
+    "Amount": 45,
+}, 
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Elderberry, ppja.fruitsandveggies.DGA/Juniper Berry",
+    "NPC": "Caroline, Elliott, Evelyn",
+    "Amount": -40,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Fennel",
+    "NPC": "Abigail, Caroline, Haley, Jas, Sam, Sebastian, Vincent",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Ginseng",
+    "NPC": "Dwarf, George, Evelyn, Gus, Lewis, Linus, Harvey, Willy, Wizard",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Ginseng",
+    "NPC": "Elliott, Abigail, Haley, Same, Sandy, Sebastian, Shane",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Ginseng",
+    "NPC": "Krobus, Jas, Vincent",
+    "Amount": -40,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Gooseberry",
+    "NPC": "Maru, Robin, Demetrius",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Gooseberry",
+    "NPC": "Abigail, Haley, Jas, Vincent, ParrotBoy",
+    "Amount": 20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Green Peas, ppja.fruitsandveggies.DGA/Kiwi",
+    "NPC": "Penny",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Green Peas, ppja.fruitsandveggies.DGA/Jalapeno, ppja.fruitsandveggies.DGA/Gooseberry, ppja.fruitsandveggies.DGA/Muskmelon, ppja.fruitsandveggies.DGA/Soybean",
+    "NPC": "Abigail, Haley, Jas, Vincent, ParrotBoy",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Jalapeno",
+    "NPC": "Sam, Sebastian, Kent, Gus, Sandy",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Juniper Berry",
+    "NPC": "Demetrius, Gus, Leah, Linus, Maru, Pam, Robin, Sandy, Shane",
+    "Amount": 20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Kiwi",
+    "NPC": "Demetrius, Dwarf, Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Mint",
+    "NPC": "Krobus, Jas, Vincent, ParrotBoy",
+    "Amount": 20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Muskmelon, ppja.fruitsandveggies.DGA/Sweet Canary Melon",
+    "NPC": "Demetrius, Dwarf, Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Penny, Robin, Sandy, Shane",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Navy Bean",
+    "NPC": "Abigail, Elliott, Haley, Jas, Sam, Vincent, ParrotBoy",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Okra",
+    "NPC": "Krobus, Robin",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Okra",
+    "NPC": "Demetrius, Maru, Linus",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Onion, ppja.fruitsandveggies.DGA/Red Onion, ppja.fruitsandveggies.DGA/Shallot",
+    "NPC": "Abigail, Haley, Jas, Jodi, Sam, Vincent, ParrotBoy",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Onion, ppja.fruitsandveggies.DGA/Red Onion, ppja.fruitsandveggies.DGA/Shallot",
+    "NPC": "Evelyn, Pierre",
+    "Amount": -40,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Parsley",
+    "NPC": "Gus",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Passion Fruit",
+    "NPC": "Elliott",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Passion Fruit",
+    "NPC": "Alex, Caroline, Clint, Dwarf, Emily, Evelyn, George, Gus, Krobus, Lewis, Sam, Wizard",
+    "Amount": 20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Passion Fruit",
+    "NPC": "Jas, Vincent, Willy, ParrotBoy",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Peanut",
+    "NPC": "Harvey, Kent, Leah, Linus",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Peanut",
+    "NPC": "Krobus, Willy",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Perilla Leaf",
+    "NPC": "Sandy, Willy",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Quinoa",
+    "NPC": "Elliott, Emily, Haley",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Rapeseed Flower",
+    "NPC": "Sebastian",
+    "Amount": -40,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Raspberry",
+    "NPC": "Demetrius, Elliott, Harvey. Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Raspberry, ppja.fruitsandveggies.DGA/Sweet Canary Melon",
+    "NPC": "Abigail, Haley, Jas, Vincent, ParrotBoy",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Red Onion, ppja.fruitsandveggies.DGA/Shallot",
+    "NPC": "Abigail, Haley, Jas, Jodi, Sam, Vincent",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Rosemary",
+    "NPC": "Leah",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Sage",
+    "NPC": "Emily",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Shiitake Mushroom, ppja.fruitsandveggies.DGA/Sulfur Shelf Mushroom",
+    "NPC": "Harvey, Leah, Linus",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Soybean",
+    "NPC": "Marnie, Lewis",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Spinach",
+    "NPC": "Wizard",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Sugar Beet",
+    "NPC": "Evelyn",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Sweet Potato",
+    "NPC": "Linus",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Wasabi Root",
+    "NPC": "Harvey, Leah, Linus, Shane",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Wasabi Root",
+    "NPC": "Demetrius, Emily, Jodi, Kent, Maru, Penny, Sandy",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Wasabi Root",
+    "NPC": "Demetrius, Emily, Jodi, Kent, Maru, Penny, Sandy",
+    "Amount": 20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Wasabi Root",
+    "NPC": "Haley, Jas, Vincent, ParrotBoy",
+    "Amount": -40,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Watermelon",
+    "NPC": "Penny",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Zucchini",
+    "NPC": "Lewis",
+    "Amount": -40,
+},
+]

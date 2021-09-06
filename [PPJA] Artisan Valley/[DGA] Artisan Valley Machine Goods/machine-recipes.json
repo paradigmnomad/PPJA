@@ -1,0 +1,2390 @@
+[
+    // Still
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Almond",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Amaretto"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Corn Malt",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Bourbon"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 6000,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "348",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Brandy"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Juniper Berry",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Maguey",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Mezcal"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "270",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Moonshine"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sugar Cane",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 6000,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Barley Malt",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Scotch"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 6000,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sweet Potato",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Shochu"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 6000,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Blue Agave",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Tequila"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 6000,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "390",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Vermouth"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 6000,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "192",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 6000,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Wheat Malt",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Whisky"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "635",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Cointreau"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "408",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Frangelico"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Raspberry",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Chambord"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Cocoa Pod",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Creme de Cacao"
+        },
+    },
+
+    // Additional Mod Support
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Still",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "bitter_orange_item",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Campri"
+        },
+    },
+
+    // Glass Jar
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Barley Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Barley Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Berry Fusion Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Berry Fusion Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Blue Mist Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Blue Mist Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Breakfast Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Breakfast Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Cranberry Pomegranate Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Cranberry Pomegranate Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Chai Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Chai Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Chamomile Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Chamomile Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Chanterelle Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Chanterelle Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Earl Grey Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Earl Grey Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Dandelion Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Dandelion Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "614",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Green Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Jasmine Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Jasmine Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "404",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Lemon Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Lemon Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Mint Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Mint Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "257",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Morel Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Oolong Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Oolong Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "422",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Purple Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "420",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Red Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Rose Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Rose Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Spiced Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Spiced Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Strawberry Grapefruit Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Strawberry Grapefruit Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/White Tea",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/White Kombucha"
+        },
+        "MachineFinishedTextureOverride":
+        "assets/big-craftables/GlassJar.png:1"
+    },
+
+    // Foreign Cask
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Foreign Cask",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Soybean",
+            "Quantity": 2,
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Soy Sauce"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Foreign Cask",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cabbage",
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Soybean",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Kimchi"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Foreign Cask",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Natto Starter",
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Soybean",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Natto"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Foreign Cask",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Miso Starter",
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Soybean",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Miso Paste"
+        },
+    },
+
+    // Butter Churn
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Value": "ppja.more trees.DGA/Almond",
+            "Quantity": 2
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "butter_item",
+            "IconOverride": "assets/context-tag-override/ButterIcon.png",
+            "NameOverride": "Butter (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Almond Butter"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "cow_milk_item",
+            "IconOverride": "assets/context-tag-override/CowIcon.png",
+            "NameOverride": "Cow Milk (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Cashew",
+            "Quantity": 2
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "butter_item",
+            "IconOverride": "assets/context-tag-override/ButterIcon.png",
+            "NameOverride": "Butter (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Cashew Butter"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "88",
+            "Quantity": 2
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "butter_item",
+            "IconOverride": "assets/context-tag-override/ButterIcon.png",
+            "NameOverride": "Butter (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Coconut Butter"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "233",
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "butter_item",
+            "IconOverride": "assets/context-tag-override/ButterIcon.png",
+            "NameOverride": "Butter (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Cookie Butter"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "goat_milk_item",
+            "IconOverride": "assets/context-tag-override/GoatIcon.png",
+            "NameOverride": "Goat Milk (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Goat Butter"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "408",
+            "Quantity": 2
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "butter_item",
+            "IconOverride": "assets/context-tag-override/ButterIcon.png",
+            "NameOverride": "Butter (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Hazlenut Butter"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "247",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Margarine"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Peanut",
+            "Quantity": 2
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "butter_item",
+            "IconOverride": "assets/context-tag-override/ButterIcon.png",
+            "NameOverride": "Butter (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Smooth Peanut Butter"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Pecan",
+            "Quantity": 2
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "butter_item",
+            "IconOverride": "assets/context-tag-override/ButterIcon.png",
+            "NameOverride": "Butter (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Pecan Butter"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "766",
+            "Quantity": 2
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "butter_item",
+            "IconOverride": "assets/context-tag-override/ButterIcon.png",
+            "NameOverride": "Butter (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Slime Butter"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Soybean",
+            "Quantity": 2
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "butter_item",
+            "IconOverride": "assets/context-tag-override/ButterIcon.png",
+            "NameOverride": "Butter (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Soynut Butter"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "421",
+            "Quantity": 2
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "butter_item",
+            "IconOverride": "assets/context-tag-override/ButterIcon.png",
+            "NameOverride": "Butter (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Sunflower Butter"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Butter Churn",
+        "MinutesToProcess": 180,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Walnut",
+            "Quantity": 2
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "butter_item",
+            "IconOverride": "assets/context-tag-override/ButterIcon.png",
+            "NameOverride": "Butter (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Walnut Butter"
+        },
+    },
+
+    // Dehydrator
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Dehydrator",
+        "MinutesToProcess": 2250,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "398",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Raisins"
+        },
+    },
+
+    // Drying Rack
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Drying Rack",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Barley",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Barley Malt"
+        },
+        "StartWorkingSound": "snowyStep"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Drying Rack",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "262",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Wheat Malt"
+        },
+        "StartWorkingSound": "snowyStep"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Drying Rack",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Matcha Powder"
+        },
+        "StartWorkingSound": "snowyStep"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Drying Rack",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "771",
+        }, ],
+        "Result":
+        {
+            "Type": "VanillaObject",
+            "Value": "178"
+        },
+        "StartWorkingSound": "snowyStep"
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Drying Rack",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "270",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Corn Malt"
+        },
+        "StartWorkingSound": "snowyStep"
+    },
+
+    // Extruder
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Drying Rack",
+        "MinutesToProcess": 60,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "340",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Beeswax"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Drying Rack",
+        "MinutesToProcess": 360,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Rice Flour",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Rice Noodles"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Drying Rack",
+        "MinutesToProcess": 360,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Buckwheat Flour",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Buckwheat Noodles"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Drying Rack",
+        "MinutesToProcess": 360,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Wheat Flour",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Wheat Noodles"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Drying Rack",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Cassava Flour",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Tapioca"
+        },
+    },
+
+    // Grinder
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 240,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "418",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Saffron"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "284",
+        }, ],
+        "Result":
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sugar Beet",
+        }, ],
+        "Result":
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sugar Cane",
+        }, ],
+        "Result":
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Wasabi Root",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Wasabi Paste"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 60,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "613",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Apple Rind"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "270",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Corn Flour"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 360,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "271",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Rice Flour"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Buckwheat",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Buckwheat Flour"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 60,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "635",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Orange Peel"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 60,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Lemon",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Lemon Peel"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 60,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Lime",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Lime Peel"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+
+    // Infuser
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Infuser",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Mint",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Mint Schnapps"
+        },
+        "MachineFinishedTextureOverride": "assets/big-craftables/Infuser.png:1",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Infuser",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "613",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Apple Schnapps"
+        },
+        "MachineFinishedTextureOverride": "assets/big-craftables/Infuser.png:1",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Infuser",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "636",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Peach Schnapps"
+        },
+        "MachineFinishedTextureOverride": "assets/big-craftables/Infuser.png:1",
+    },
+
+    // Yogurt Jar
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Yogurt Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "cow_milk_item",
+            "IconOverride": "assets/context-tag-override/CowIcon.png",
+            "NameOverride": "Cow Milk (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Yogurt"
+        },
+        "MachineFinishedTextureOverride": "assets/big-craftables/Yogurt Jar.png:1",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Yogurt Jar",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "goat_milk_item",
+            "IconOverride": "assets/context-tag-override/GoatIcon.png",
+            "NameOverride": "Goat Milk (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Goat Yogurt"
+        },
+        "MachineFinishedTextureOverride": "assets/big-craftables/Yogurt Jar.png:1",
+    },
+
+    // Ice Cream Machine
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Chocolate",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Chocolate Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Matcha Powder",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Matcha Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Mint",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        },
+        {
+            "Value": "ppja.morerecipes.DGA/Chocolate",
+        }],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Mint Chip Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "635",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Orange Sherbet"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "400",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Strawberry Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Vanilla",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Vanilla Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 6000,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "74",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Prismatic Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "834",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Mango Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "638",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Cherry Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "91",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Banana Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Lemon",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Lemon Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Lime",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Lime Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "408",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Hazlenut Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 240,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Yogurt"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "638",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Cherry Yogurt Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 240,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "258",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Mint",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Blue Angel Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Amaretto",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "638",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Amarena Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "Vanilla Ice Cream",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        },
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Strawberry Ice Cream",
+        },
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Chocolate Ice Cream",
+        }],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Neapolitan Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "Herbal Lavender",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "340",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Honey Lavender Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "pistachio_item",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Pistachio Ice Cream"
+        },
+        "MachineWorkingTextureOverride": "Ice Cream Machine.png:1@10, Ice Cream Machine.png:2@10, Ice Cream Machine.png:3@10, Ice Cream Machine.png:4@10, Ice Cream Machine.png:5@10, Ice Cream Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Ice Cream Machine.png:7",
+    },
+
+    // Vinegar Cask
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Vinegar Cask",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "398",
+        }, ],
+        "Result":
+        {
+            "Type": "VanillaObject",
+            "Value": "419"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Vinegar Cask",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "271",
+        }, ],
+        "Result":
+        {
+            "Type": "VanillaObject",
+            "Value": "419"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Vinegar Cask",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "613",
+        }, ],
+        "Result":
+        {
+            "Type": "VanillaObject",
+            "Value": "419"
+        },
+    },
+
+    // Addtional Mod Support
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Vinegar Cask",
+        "MinutesToProcess": 2360,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Champagne Grape",
+        }, ],
+        "Result":
+        {
+
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Champagne Vinegar"
+        },
+    },
+
+    // Espresso Machine
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "186",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Cafe Latte"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "Chocolate",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Cafe Mocha"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "436",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Cappuccino"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "395",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Cafe Americano"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "186",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Cafe au Lait"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "253",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 2,
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Dark Coffee"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "184",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Macchiato"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "724",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Maple Macchiato"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Mint",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        },
+        {
+            "Value": "Chocolate",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Peppermint Mocha"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Vanilla Ice Cream",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Affogato"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "Caramel",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        },
+        {
+            "Value": "Salt",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Salted Caramel Mocha"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Vanilla",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Vanilla Latte"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Whiskey",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Hot Irish Coffee"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "276",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Pumpkin Spice Latte"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "88",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "433",
+            "Quantity": 4,
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Toasted Coconut Mocha"
+        },
+        "MachineWorkingTextureOverride": "Espresso Machine.png:1@10, Espresso Machine.png:2@10, Espresso Machine.png:3@10, Espresso Machine.png:4@10, Espresso Machine.png:5@10, Espresso Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Espresso Machine.png:7",
+    },
+
+    // Pepper Blender
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Pepper Blender",
+        "MinutesToProcess": 750,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Carolina Reaper",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Carolina Reaper Extract"
+        },
+        "MachineWorkingTextureOverride": "Pepper Blender.png:1@10, Pepper Blender.png:2@10, Pepper Blender.png:3@10, Pepper Blender.png:4@10, Pepper Blender.png:5@10, Pepper Blender.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Pepper Blender.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Pepper Blender",
+        "MinutesToProcess": 750,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Ghost Pepper",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Ghost Pepper Extract"
+        },
+        "MachineWorkingTextureOverride": "Pepper Blender.png:1@10, Pepper Blender.png:2@10, Pepper Blender.png:3@10, Pepper Blender.png:4@10, Pepper Blender.png:5@10, Pepper Blender.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Pepper Blender.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Pepper Blender",
+        "MinutesToProcess": 750,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Habanero",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Habanero Extract"
+        },
+        "MachineWorkingTextureOverride": "Pepper Blender.png:1@10, Pepper Blender.png:2@10, Pepper Blender.png:3@10, Pepper Blender.png:4@10, Pepper Blender.png:5@10, Pepper Blender.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Pepper Blender.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Pepper Blender",
+        "MinutesToProcess": 750,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Jalapeno",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Jalapeno Extract"
+        },
+        "MachineWorkingTextureOverride": "Pepper Blender.png:1@10, Pepper Blender.png:2@10, Pepper Blender.png:3@10, Pepper Blender.png:4@10, Pepper Blender.png:5@10, Pepper Blender.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Pepper Blender.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Pepper Blender",
+        "MinutesToProcess": 750,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Poblano Chili",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Poblano Chili Extract"
+        },
+        "MachineWorkingTextureOverride": "Pepper Blender.png:1@10, Pepper Blender.png:2@10, Pepper Blender.png:3@10, Pepper Blender.png:4@10, Pepper Blender.png:5@10, Pepper Blender.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Pepper Blender.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Pepper Blender",
+        "MinutesToProcess": 750,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Scotch Bonnet",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Scotch Bonnet Extract"
+        },
+        "MachineWorkingTextureOverride": "Pepper Blender.png:1@10, Pepper Blender.png:2@10, Pepper Blender.png:3@10, Pepper Blender.png:4@10, Pepper Blender.png:5@10, Pepper Blender.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Pepper Blender.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Pepper Blender",
+        "MinutesToProcess": 750,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Serrano Chili",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Serrano Chili Extract"
+        },
+        "MachineWorkingTextureOverride": "Pepper Blender.png:1@10, Pepper Blender.png:2@10, Pepper Blender.png:3@10, Pepper Blender.png:4@10, Pepper Blender.png:5@10, Pepper Blender.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Pepper Blender.png:7",
+    },
+
+    // Fruit Sorbet Machine
+
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Sorbet Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "258",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "340",
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lemon",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Blueberry Fruit Sorbet"
+        },
+        "MachineWorkingTextureOverride": "Sorbet Machine.png:1@10, Sorbet Machine.png:2@10, Sorbet Machine.png:3@10, Sorbet Machine.png:4@10, Sorbet Machine.png:5@10, Sorbet Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Sorbet Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Sorbet Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Dragon Fruit",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "635",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "91",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Dragon Fruit Fruit Sorbet"
+        },
+        "MachineWorkingTextureOverride": "Sorbet Machine.png:1@10, Sorbet Machine.png:2@10, Sorbet Machine.png:3@10, Sorbet Machine.png:4@10, Sorbet Machine.png:5@10, Sorbet Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Sorbet Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Sorbet Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "834",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lime",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Mango Fruit Sorbet"
+        },
+        "MachineWorkingTextureOverride": "Sorbet Machine.png:1@10, Sorbet Machine.png:2@10, Sorbet Machine.png:3@10, Sorbet Machine.png:4@10, Sorbet Machine.png:5@10, Sorbet Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Sorbet Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Sorbet Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "635",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lemon",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Orange Fruit Sorbet"
+        },
+        "MachineWorkingTextureOverride": "Sorbet Machine.png:1@10, Sorbet Machine.png:2@10, Sorbet Machine.png:3@10, Sorbet Machine.png:4@10, Sorbet Machine.png:5@10, Sorbet Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Sorbet Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Sorbet Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "832",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lemon",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Pineapple Fruit Sorbet"
+        },
+        "MachineWorkingTextureOverride": "Sorbet Machine.png:1@10, Sorbet Machine.png:2@10, Sorbet Machine.png:3@10, Sorbet Machine.png:4@10, Sorbet Machine.png:5@10, Sorbet Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Sorbet Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Sorbet Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Dragon Fruit",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "635",
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Raspberry",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Raspberry Dragon Fruit Fruit Sorbet"
+        },
+        "MachineWorkingTextureOverride": "Sorbet Machine.png:1@10, Sorbet Machine.png:2@10, Sorbet Machine.png:3@10, Sorbet Machine.png:4@10, Sorbet Machine.png:5@10, Sorbet Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Sorbet Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Sorbet Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Raspberry",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "340",
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lemon",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Raspberry Fruit Sorbet"
+        },
+        "MachineWorkingTextureOverride": "Sorbet Machine.png:1@10, Sorbet Machine.png:2@10, Sorbet Machine.png:3@10, Sorbet Machine.png:4@10, Sorbet Machine.png:5@10, Sorbet Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Sorbet Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Sorbet Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "Salmonberry",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "340",
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lemon",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Salmonberry Fruit Sorbet"
+        },
+        "MachineWorkingTextureOverride": "Sorbet Machine.png:1@10, Sorbet Machine.png:2@10, Sorbet Machine.png:3@10, Sorbet Machine.png:4@10, Sorbet Machine.png:5@10, Sorbet Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Sorbet Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Sorbet Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "400",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Dragon Fruit",
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lemon",
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lime"
+        }],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Strawberry Dragon Fruit Fruit Sorbet"
+        },
+        "MachineWorkingTextureOverride": "Sorbet Machine.png:1@10, Sorbet Machine.png:2@10, Sorbet Machine.png:3@10, Sorbet Machine.png:4@10, Sorbet Machine.png:5@10, Sorbet Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Sorbet Machine.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Sorbet Machine",
+        "MinutesToProcess": 120,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "400",
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lemon",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Strawberry Fruit Sorbet"
+        },
+        "MachineWorkingTextureOverride": "Sorbet Machine.png:1@10, Sorbet Machine.png:2@10, Sorbet Machine.png:3@10, Sorbet Machine.png:4@10, Sorbet Machine.png:5@10, Sorbet Machine.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Sorbet Machine.png:7",
+    },
+]

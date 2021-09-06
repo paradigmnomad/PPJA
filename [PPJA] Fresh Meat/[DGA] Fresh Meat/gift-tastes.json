@@ -1,0 +1,341 @@
+[
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Bird DNA, ppja.freshmeat.DGA/Butterfly DNA, ppja.freshmeat.DGA/Chicken DNA, ppja.freshmeat.DGA/Cloud DNA, ppja.freshmeat.DGA/Cow DNA, ppja.freshmeat.DGA/Critter DNA, ppja.freshmeat.DGA/Duck DNA, ppja.freshmeat.DGA/Firefly DNA, ppja.freshmeat.DGA/Frog DNA, ppja.freshmeat.DGA/Goat DNA, ppja.freshmeat.DGA/Ostrich DNA, ppja.freshmeat.DGA/Pig DNA, ppja.freshmeat.DGA/Rabbit DNA, ppja.freshmeat.DGA/Sheep DNA, ppja.freshmeat.DGA/Squirrel DNA",
+        "NPC": "Demetirus, Maru",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Bird DNA, ppja.freshmeat.DGA/Butterfly DNA, ppja.freshmeat.DGA/Chicken DNA, ppja.freshmeat.DGA/Cloud DNA, ppja.freshmeat.DGA/Cow DNA, ppja.freshmeat.DGA/Critter DNA, ppja.freshmeat.DGA/Duck DNA, ppja.freshmeat.DGA/Firefly DNA, ppja.freshmeat.DGA/Frog DNA, ppja.freshmeat.DGA/Goat DNA, ppja.freshmeat.DGA/Ostrich DNA, ppja.freshmeat.DGA/Pig DNA, ppja.freshmeat.DGA/Rabbit DNA, ppja.freshmeat.DGA/Sheep DNA, ppja.freshmeat.DGA/Squirrel DNA",
+        "NPC": "Krobus, Wizard, Harvey",
+        "Amount": 45,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Asam Pedas",
+        "NPC": "Gus, Shane",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Asam Pedas",
+        "NPC": "Willy, Sam, Penny, Maru, Haley, Caroline, Elliott, Krobus, Linus, Jodi, Pierre, Clint",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Asam Pedas",
+        "NPC": "Sebastian, Marnie, Harvey",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Bratwurst",
+        "NPC": "Harvey, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Bratwurst",
+        "NPC": "Marnie",
+        "Amount": -40
+    },
+
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Bangers Beans and Mash",
+        "NPC": "Marnie, Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Biscuits and Gravy",
+        "NPC": "Clint, Kent, Pierre, Jodi, George",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Biscuits and Gravy",
+        "NPC": "Caroline, Harvey, Marnie, Sam",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Biscuits and Gravy",
+        "NPC": "Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Cheese Board",
+        "NPC": "Harvey, Lewis, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Cheese Board",
+        "NPC": "Emily, Jas, Marnie",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Chicken and Spinach Crepe",
+        "NPC": "George",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Chicken Nuggets",
+        "NPC": "Abigail",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Corndog",
+        "NPC": "Jas, Vincent",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Corndog",
+        "NPC": "Haley, Harvey, Lewis",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Corndog",
+        "NPC": "Emily, Leah, Marnie",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Corndog",
+        "NPC": "Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Fish and Chips",
+        "NPC": "Willy, Emily, Harvey, Jas, Krobus, Sam, ParrotBoy",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Fish and Chips",
+        "NPC": "Linus, Sebastian",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Fish and Chips",
+        "NPC": "Vincent, Haley",
+        "Amount": -40,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Hot Dog",
+        "NPC": "Sam",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Lobster Stock, ppja.freshmeat.DGA/Seafood Stock, ppja.freshmeat.DGA/Shrimp Stock",
+        "NPC": "Willy, Harvey",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Lobster Stock, ppja.freshmeat.DGA/Seafood Stock, ppja.freshmeat.DGA/Shrimp Stock",
+        "NPC": "Emily, Leah, Marnie",
+        "Amount": 20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Lobster Stock, ppja.freshmeat.DGA/Seafood Stock, ppja.freshmeat.DGA/Shrimp Stock",
+        "NPC": "Abigail, Haley, Jas, Sam, Shane, Vincent, ParrotBoy",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Lobster Stock",
+        "NPC": "Sebastian",
+        "Amount": -40,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Meat Skewer",
+        "NPC": "Alex",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Meat Skewer",
+        "NPC": "Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Mustard",
+        "NPC": "Abigail, George, Haley, Jas, Vincent, ParrotBoy",
+        "Amount": 20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Paella",
+        "NPC": "Clint",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Paella",
+        "NPC": "Vincent, ParrotBoy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/BBQ Sauce, ppja.freshmeat.DGA/BBQ Sausage, ppja.freshmeat.DGA/Schnitzel",
+        "NPC": "Robin",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Spaghetti and Meatballs, ppja.freshmeat.DGA/Spaghetti Bolognese",
+        "NPC": "Robin, Lewis, Shane, Jas, Marnie",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Spaghetti and Meatballs, ppja.freshmeat.DGA/Spaghetti Bolognese",
+        "NPC": "Dwarf, Willy",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Steak, ppja.freshmeat.DGA/Bacon, ppja.freshmeat.DGA/Bacon Hamburger, ppja.freshmeat.DGA/Bacon n Eggs, ppja.freshmeat.DGA/Hamburger Patty, ppja.freshmeat.DGA/Cheeseburger, ppja.freshmeat.DGA/Beef Burrito, ppja.freshmeat.DGA/Beef Taco, , ppja.freshmeat.DGA/Beef Ribs",
+        "NPC": "Alex, Robin, Lewis, Shane, Jas",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Steak, ppja.freshmeat.DGA/Bacon, ppja.freshmeat.DGA/Bacon Hamburger, ppja.freshmeat.DGA/Bacon n Eggs, ppja.freshmeat.DGA/Hamburger Patty, ppja.freshmeat.DGA/Cheeseburger, ppja.freshmeat.DGA/Beef Burrito, ppja.freshmeat.DGA/Beef Taco, , ppja.freshmeat.DGA/Beef Ribs",
+        "NPC": "Vincent",
+        "Amount": 20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Steak, ppja.freshmeat.DGA/Bacon, ppja.freshmeat.DGA/Bacon Hamburger, ppja.freshmeat.DGA/Bacon n Eggs, ppja.freshmeat.DGA/Hamburger Patty, ppja.freshmeat.DGA/Cheeseburger, ppja.freshmeat.DGA/Beef Burrito, ppja.freshmeat.DGA/Beef Taco, , ppja.freshmeat.DGA/Beef Ribs",
+        "NPC": "Dwarf, Willy, Emily",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Steak Tartare",
+        "NPC": "Alex",
+        "Amount": 45,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Teriyaki",
+        "NPC": "Abigail, Krobus, Willy, Robin",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Teriyaki",
+        "NPC": "Haley, Jas, Sam, Vincent, ParrotBoy",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Toast",
+        "NPC": "Gus",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Toast",
+        "NPC": "Pam",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Toast Hawaii",
+        "NPC": "Marlon",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Toast Hawaii",
+        "NPC": "Maru",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Toast Williams",
+        "NPC": "Haley",
+        "Amount": 80,
+    },
+
+    // Meats
+
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Chicken, ppja.freshmeat.DGA/Chicken and Spinach Crepe, ppja.freshmeat.DGA/Chicken Nuggets, ppja.freshmeat.DGA/Cooked Chicken, ppja.freshmeat.DGA/Chicken Wing, ppja.freshmeat.DGA/Cooked Chicken Wing, ppja.freshmeat.DGA/Dumstick, ppja.freshmeat.DGA/Cooked Drumstick",
+        "NPC": "Shane",
+        "Amount": -80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Frog Meat, ppja.freshmeat.DGA/Cooked Frog",
+        "NPC": "Sebastian",
+        "Amount": -80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Frog Meat, ppja.freshmeat.DGA/Cooked Frog",
+        "NPC": "Willy",
+        "Amount": 20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Frog Meat, ppja.freshmeat.DGA/Cooked Frog",
+        "NPC": "Leah, Jas, Vincent, ParrotBoy",
+        "Amount": -40,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Horse Meat, ppja.freshmeat.DGA/Cooked Horse Meat",
+        "NPC": "Marnie, Robin",
+        "Amount": -40,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Alpaca Meat, ppja.freshmeat.DGA/Beast Meat, ppja.freshmeat.DGA/Beef, ppja.freshmeat.DGA/Bird Meat, ppja.freshmeat.DGA/Bison Meat, ppja.freshmeat.DGA/Chevon, ppja.freshmeat.DGA/Chicken Wing, ppja.freshmeat.DGA/Chicken, ppja.freshmeat.DGA/Critter Meat, ppja.freshmeat.DGA/Dragon Meat, ppja.freshmeat.DGA/Drumstick, ppja.freshmeat.DGA/Duck, ppja.freshmeat.DGA/Fowl, ppja.freshmeat.DGA/Frog Meat, ppja.freshmeat.DGA/Horse Meat, ppja.freshmeat.DGA/Mutton, ppja.freshmeat.DGA/Ostrich Meat, ppja.freshmeat.DGA/Phoenix Meat, ppja.freshmeat.DGA/Pork, ppja.freshmeat.DGA/Reptile Meat, ppja.freshmeat.DGA/Turkey, ppja.freshmeat.DGA/Venison, ppja.freshmeat.DGA/Wild Boar Meat",
+        "NPC": "Linus",
+        "Amount": 45,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Cooked Alpaca Meat, ppja.freshmeat.DGA/Cooked Beast Meat, ppja.freshmeat.DGA/Cooked Beef, ppja.freshmeat.DGA/Cooked Bird Meat, ppja.freshmeat.DGA/Cooked Bison Meat, ppja.freshmeat.DGA/Cooked Chevon, ppja.freshmeat.DGA/Cooked Chicken Wing, ppja.freshmeat.DGA/Cooked Chicken, ppja.freshmeat.DGA/Cooked Critter Meat, ppja.freshmeat.DGA/Cooked Dragon Meat, ppja.freshmeat.DGA/Cooked Drumstick, ppja.freshmeat.DGA/Cooked Duck, ppja.freshmeat.DGA/Cooked Fowl, ppja.freshmeat.DGA/Cooked Frog, ppja.freshmeat.DGA/Cooked Horse Meat, ppja.freshmeat.DGA/Cooked Mutton, ppja.freshmeat.DGA/Cooked Ostrich Meat, ppja.freshmeat.DGA/Cooked Phoenix , ppja.freshmeat.DGA/Cooked Pork, ppja.freshmeat.DGA/Cooked Reptile Meat, ppja.freshmeat.DGA/Cooked Turkey, ppja.freshmeat.DGA/Cooked Venison, ppja.freshmeat.DGA/Cooked Boar",
+        "NPC": "Linus",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Mutton, ppja.freshmeat.DGA/Cooked Mutton, ppja.freshmeat.DGA/Pork, ppja.freshmeat.DGA/Cooked Pork",
+        "NPC": "Abigail, Krobus, Willy, Robin",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Mutton, ppja.freshmeat.DGA/Cooked Mutton, ppja.freshmeat.DGA/Pork, ppja.freshmeat.DGA/Cooked Pork",
+        "NPC": "Jas, Sam, Vincent",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Mutton, ppja.freshmeat.DGA/Cooked Mutton",
+        "NPC": "Haley",
+        "Amount": -40,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Pork, ppja.freshmeat.DGA/Cooked Pork",
+        "NPC": "Haley",
+        "Amount": -40,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Phoenix Meat, ppja.freshmeat.DGA/Cooked Phoenix, ppja.freshmeat.DGA/Dragon Meat, ppja.freshmeat.DGA/Cooked Dragon Meat, ppja.freshmeat.DGA/Dragon Leather, ppja.freshmeat.DGA/Dragon Scale, ppja.freshmeat.DGA/Phoenix Au Vin",
+        "NPC": "Wizard",
+        "Amount": -40,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Beef, ppja.freshmeat.DGA/Cooked Beef, ppja.freshmeat.DGA/Turkey, ppja.freshmeat.DGA/Cooked Turkey",
+        "NPC": "Robin, Lewis, Shane, Jas, Marnie",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Beef, ppja.freshmeat.DGA/Cooked Beef, ppja.freshmeat.DGA/Turkey, ppja.freshmeat.DGA/Cooked Turkey",
+        "NPC": "Dwarf, Willy",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Beef, ppja.freshmeat.DGA/Cooked Beef",
+        "NPC": "Alex",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Beef, ppja.freshmeat.DGA/Cooked Beef",
+        "NPC": "Vincent",
+        "Amount": 20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Beef, ppja.freshmeat.DGA/Cooked Beef",
+        "NPC": "Emily",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Pork, ppja.freshmeat.DGA/Cooked Pork",
+        "NPC": "Emily, Harvey, Sam",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Chicken, ppja.freshmeat.DGA/Cooked Chicken",
+        "NPC": "Clint",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Chicken, ppja.freshmeat.DGA/Cooked Chicken",
+        "NPC": "Vincent,",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.freshmeat.DGA/Chicken, ppja.freshmeat.DGA/Cooked Chicken, ppja.freshmeat.DGA/Ostrich Meat, ppja.freshmeat.DGA/Cooked Ostrich, ppja.freshmeat.DGA/Duck, ppja.freshmeat.DGA/Cooked Duck, ppja.freshmeat.DGA/Bird Meat, ppja.freshmeat.DGA/Cooked Bird Meat, ppja.freshmeat.DGA/Chicken Wing, ppja.freshmeat.DGA/Cooked Chicken Wing, ppja.freshmeat.DGA/Drumstick, ppja.freshmeat.DGA/Cooked Drumstick, ppja.freshmeat.DGA/Fowl, ppja.freshmeat.DGA/Cooked Fowl, ppja.freshmeat.DGA/Turkey, ppja.freshmeat.DGA/Cooked Turkey, ppja.freshmeat.DGA/Chicken and Spinach Crepe, ppja.freshmeat.DGA/Chicken Nuggets",
+        "NPC": "ParrotBoy",
+        "Amount": -40,
+    },
+]

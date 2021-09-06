@@ -1,0 +1,1176 @@
+[
+    {
+        "Colors": [
+        {
+            "R": 236,
+            "A": 255
+        },
+        {
+            "B": 158,
+            "G": 88,
+            "R": 224,
+            "A": 255
+        },
+        {
+            "B": 240,
+            "G": 172,
+            "R": 255,
+            "A": 255
+        }],
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Bee Balm Crop.png:0",
+                "assets/crops/Bee Balm Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bee Balm Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bee Balm Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bee Balm Crop.png:4"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bee Balm Crop.png:5"
+            ],
+            "TextureColorChoices": [
+                "assets/crops/Bee Balm Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Bee Balm"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18
+        }],
+        "ID": "Bee Balm Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Bee Balm"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Blue_Mist Crop.png:0",
+                "assets/crops/Blue_Mist Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blue_Mist Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blue_Mist Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blue_Mist Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blue_Mist Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Blue Mist"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 27
+        }],
+        "ID": "Blue_Mist Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Blue_Mist"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Chamomile Crop.png:0",
+                "assets/crops/Chamomile Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chamomile Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chamomile Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chamomile Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chamomile Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Chamomile"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 9
+        }],
+        "ID": "Chamomile Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Chamomile"
+    },
+    {
+        "Colors": [
+        {
+            "B": 154,
+            "G": 86,
+            "R": 254,
+            "A": 255
+        },
+        {
+            "B": 244,
+            "G": 79,
+            "R": 128,
+            "A": 255
+        },
+        {
+            "B": 255,
+            "G": 151,
+            "R": 207,
+            "A": 255
+        }],
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Clary Sage Crop.png:0",
+                "assets/crops/Clary Sage Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Clary Sage Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Clary Sage Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Clary Sage Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Clary Sage Crop.png:5"
+            ],
+            "TextureColorChoices": [
+                "assets/crops/Clary Sage Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Clary Sage"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 19
+        }],
+        "ID": "Clary Sage Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Clary Sage"
+    },
+    {
+        "Colors": [
+        {
+            "B": 176,
+            "G": 72,
+            "R": 255,
+            "A": 255
+        },
+        {
+            "B": 31,
+            "G": 31,
+            "R": 255,
+            "A": 255
+        },
+        {
+            "B": 255,
+            "G": 127,
+            "R": 255,
+            "A": 255
+        }],
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Fairy_Duster Crop.png:0",
+                "assets/crops/Fairy_Duster Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fairy_Duster Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fairy_Duster Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fairy_Duster Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fairy_Duster Crop.png:5"
+            ],
+            "TextureColorChoices": [
+                "assets/crops/Fairy_Duster Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Fairy Duster"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 10
+        }],
+        "ID": "Fairy_Duster Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Fairy_Duster"
+    },
+    {
+        "Colors": [
+        {
+            "B": 248,
+            "G": 116,
+            "R": 136,
+            "A": 255
+        },
+        {
+            "B": 248,
+            "G": 133,
+            "R": 116,
+            "A": 255
+        },
+        {
+            "B": 246,
+            "G": 160,
+            "R": 204,
+            "A": 255
+        }],
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Fragrant Lilac Crop.png:0",
+                "assets/crops/Fragrant Lilac Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fragrant Lilac Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fragrant Lilac Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fragrant Lilac Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fragrant Lilac Crop.png:5"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fragrant Lilac Crop.png:6"
+            ],
+            "TextureColorChoices": [
+                "assets/crops/Fragrant Lilac Crop.png:7"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Fragrant Lilac"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 9
+        }],
+        "ID": "Fragrant Lilac Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Fragrant Lilac"
+    },
+    {
+        "Colors": [
+        {
+            "B": 248,
+            "G": 116,
+            "R": 136,
+            "A": 255
+        },
+        {
+            "B": 255,
+            "G": 140,
+            "R": 217,
+            "A": 255
+        },
+        {
+            "B": 198,
+            "G": 88,
+            "R": 151,
+            "A": 255
+        }],
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Herbal Lavender Crop.png:0",
+                "assets/crops/Herbal Lavender Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Herbal Lavender Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Herbal Lavender Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Herbal Lavender Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Herbal Lavender Crop.png:5"
+            ],
+            "TextureColorChoices": [
+                "assets/crops/Herbal Lavender Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Herbal Lavender"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 7
+        }],
+        "ID": "Herbal Lavender Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Herbal Lavender"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Honeysuckle Crop.png:0",
+                "assets/crops/Honeysuckle Crop.png:1"
+            ],
+            "Length": 1,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Honeysuckle Crop.png:2"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Honeysuckle Crop.png:3"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Honeysuckle Crop.png:4"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Honeysuckle Crop.png:5"
+            ],
+            "Trellis": true,
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 2,
+                "ExtraQuantityChance": 0.1,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Honeysuckle"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 12,
+            "HarvestedNewPhase": 2
+        }],
+        "ID": "Honeysuckle Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring, summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Honeysuckle"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Passion Flower Crop.png:0",
+                "assets/crops/Passion Flower Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Passion Flower Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Passion Flower Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Passion Flower Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Passion Flower Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Passion Flower"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 22
+        }],
+        "ID": "Passion Flower Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Passion Flower"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Pink Cat Crop.png:0",
+                "assets/crops/Pink Cat Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Pink Cat Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Pink Cat Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Pink Cat Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Pink Cat Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Pink Cat"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 8
+        }],
+        "ID": "Pink Cat Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Pink Cat"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Pitcher Plant Crop.png:0",
+                "assets/crops/Pitcher Plant Crop.png:1"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Pitcher Plant Crop.png:2"
+            ],
+            "Length": 4,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Pitcher Plant Crop.png:3"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Pitcher Plant Crop.png:4"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Pitcher Plant Crop.png:5"
+            ],
+            "Length": 4,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Pitcher Plant Crop.png:6"
+            ],
+            "Trellis": true,
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Pitcher Plant"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 32,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Pitcher Plant Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Pitcher Plant"
+    },
+    {
+        "Colors": [
+        {
+            "B": 255,
+            "G": 151,
+            "R": 207,
+            "A": 255
+        },
+        {
+            "B": 236,
+            "G": 197,
+            "R": 206,
+            "A": 255
+        },
+        {
+            "B": 199,
+            "G": 157,
+            "R": 245,
+            "A": 255
+        }],
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Purple Coneflower Crop.png:0",
+                "assets/crops/Purple Coneflower Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Purple Coneflower Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Purple Coneflower Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Purple Coneflower Crop.png:4"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Purple Coneflower Crop.png:5"
+            ],
+            "TextureColorChoices": [
+                "assets/crops/Purple Coneflower Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Purple Coneflower"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 14
+        }],
+        "ID": "Purple Coneflower Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Purple Coneflower"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Rafflesia Crop.png:0",
+                "assets/crops/Rafflesia Crop.png:1"
+            ],
+            "Length": 19
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rafflesia Crop.png:2"
+            ],
+            "Length": 18
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rafflesia Crop.png:3"
+            ],
+            "Length": 19
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rafflesia Crop.png:4"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Rafflesia"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 87
+        }],
+        "ID": "Rafflesia Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring, summer, fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Rafflesia"
+    },
+    {
+        "Colors": [
+        {
+            "R": 255, // Red
+            "G": 34,
+            "B": 34,
+            "A": 255
+        },
+        {
+            "R": 151, // Purple
+            "G": 87,
+            "B": 167,
+            "A": 255
+        },
+        {
+            "R": 241, // Orange
+            "G": 100,
+            "B": 31,
+            "A": 255
+        },
+      {
+            "R": 254, // Yellow
+            "G": 174,
+            "B": 64,
+            "A": 255
+        }],
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Rose Crop.png:0",
+                "assets/crops/Rose Crop.png:1"
+            ],
+            "Length": 1,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rose Crop.png:2"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rose Crop.png:3"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rose Crop.png:4"
+            ],
+            "Length": 4,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rose Crop.png:5"
+            ],
+            "Length": 2,
+            "Trellis": true,
+            "TextureColorChoices": [ "assets/crops/Rose Crop_Color.png:0" ],
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rose Crop.png:6"
+            ],
+            "Trellis": true,
+            "TextureColorChoices": [ "assets/crops/Rose Crop_Color.png:1" ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 2,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Rose"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 11,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Rose Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring",
+                "Query: {{SeasonalRosesEnabled}} = true": true
+            },
+            "Phases[0].TextureChoices": [ "Spring Rose Crop.png:0", "Spring Rose Crop.png:1" ],
+            "Phases[1].TextureChoices": [ "Spring Rose Crop.png:2" ],
+            "Phases[2].TextureChoices": [ "Spring Rose Crop.png:3" ],
+            "Phases[3].TextureChoices": [ "Spring Rose Crop.png:4" ],
+            "Phases[4].TextureChoices": [ "Spring Rose Crop.png:5" ],
+            "Phases[5].TextureChoices": [ "Spring Rose Crop.png:6" ],
+            "CanGrowNow": true
+        },
+        {
+            "Conditions":
+            {
+                "Season": "summer",
+                "Query: {{SeasonalRosesEnabled}} = true": true
+            },
+            "Phases[0].TextureChoices": [ "Summer Rose Crop.png:0", "Summer Rose Crop.png:1" ],
+            "Phases[1].TextureChoices": [ "Summer Rose Crop.png:2" ],
+            "Phases[2].TextureChoices": [ "Summer Rose Crop.png:3" ],
+            "Phases[3].TextureChoices": [ "Summer Rose Crop.png:4" ],
+            "Phases[4].TextureChoices": [ "Summer Rose Crop.png:5" ],
+            "Phases[5].TextureChoices": [ "Summer Rose Crop.png:6" ],
+            "CanGrowNow": true
+        },
+        {
+            "Conditions":
+            {
+                "Season": "fall",
+                "Query: {{SeasonalRosesEnabled}} = true": true
+            },
+            "Phases[0].TextureChoices": [ "Fall Rose Crop.png:0", "Fall Rose Crop.png:1" ],
+            "Phases[1].TextureChoices": [ "Fall Rose Crop.png:2" ],
+            "Phases[2].TextureChoices": [ "Fall Rose Crop.png:3" ],
+            "Phases[3].TextureChoices": [ "Fall Rose Crop.png:4" ],
+            "Phases[4].TextureChoices": [ "Fall Rose Crop.png:5" ],
+            "Phases[5].TextureChoices": [ "Fall Rose Crop.png:6" ],
+            "CanGrowNow": true
+        },
+        {
+            "Conditions":
+            {
+                "Query: {{SeasonalRosesEnabled}} = 'true'": true
+            },
+        }, ],
+        "JsonAssetsName": "Rose"
+    },
+    {
+        "Colors": [
+        {
+            "B": 217,
+            "G": 80,
+            "R": 151,
+            "A": 255
+        },
+        {
+            "B": 255,
+            "G": 214,
+            "R": 247,
+            "A": 255
+        },
+        {
+            "B": 255,
+            "G": 140,
+            "R": 217,
+            "A": 255
+        }],
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Shaded Violet Crop.png:0",
+                "assets/crops/Shaded Violet Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Shaded Violet Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Shaded Violet Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Shaded Violet Crop.png:4"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Shaded Violet Crop.png:5"
+            ],
+            "TextureColorChoices": [
+                "assets/crops/Shaded Violet Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "mizu.flowers.DGA/Shaded Violet"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 9
+        }],
+        "ID": "Shaded Violet Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        },
+        ],
+        "JsonAssetsName": "Shaded Violet"
+    },
+        {
+            "Colors": [
+            {
+                "B": 241,
+                "G": 253,
+                "R": 255,
+                "A": 255
+            },
+            {
+                "B": 150,
+                "G": 253,
+                "R": 255,
+                "A": 255
+            },
+            {
+                "B": 196,
+                "G": 253,
+                "R": 255,
+                "A": 255
+            }],
+            "Phases": [
+            {
+                "TextureChoices": [
+                    "assets/crops/Sweet Jasmine Crop.png:0",
+                    "assets/crops/Sweet Jasmine Crop.png:1"
+                ],
+                "Length": 1
+            },
+            {
+                "TextureChoices": [
+                    "assets/crops/Sweet Jasmine Crop.png:2"
+                ],
+                "Length": 2
+            },
+            {
+                "TextureChoices": [
+                    "assets/crops/Sweet Jasmine Crop.png:3"
+                ],
+                "Length": 2
+            },
+            {
+                "TextureChoices": [
+                    "assets/crops/Sweet Jasmine Crop.png:4"
+                ],
+                "Length": 2
+            },
+            {
+                "TextureChoices": [
+                    "assets/crops/Sweet Jasmine Crop.png:5"
+                ],
+                "TextureColorChoices": [
+                    "assets/crops/Sweet Jasmine Crop.png:6"
+                ],
+                "HarvestedDrops": [
+                {
+                    "MaximumHarvestedQuantity": 3,
+                    "ExtraQuantityChance": 0.0,
+                    "Item": [
+                    {
+                        "Weight": 1.0,
+                        "Value":
+                        {
+                            "Value": "mizu.flowers.DGA/Sweet Jasmine"
+                        }
+                    }]
+                }],
+                "HarvestedExperience": 16
+            }],
+            "ID": "Sweet Jasmine Crop",
+            "DynamicFields": [
+            {
+                "Conditions":
+                {
+                    "Season": "fall"
+                },
+                "CanGrowNow": true
+            }, ],
+            "JsonAssetsName": "Sweet Jasmine"
+        }]

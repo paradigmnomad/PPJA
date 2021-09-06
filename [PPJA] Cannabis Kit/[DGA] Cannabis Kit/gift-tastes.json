@@ -1,0 +1,604 @@
+[
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Afghani",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Afghani",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Afghani",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Afghanica",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Afghanica",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Afghanica",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Alien Technology",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Alien Technology",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Alien Technology",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Blue Dream",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Blue Dream",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Blue Dream",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Bruce Banner",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Bruce Banner",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Bruce Banner",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Cannabis",
+    "NPC": "Abigail, Emily, Sebastian",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Cannabis",
+    "NPC": "Elliott, Harvey, Krobus, Leah, Linus, Pam, Pierre, Sam, Sandy, Shane, Wizard",
+    "Amount": 45
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Cannabis",
+    "NPC": "Clint, Dwarf, Evelyn, George, Gus, Kent, Lewis, Marnie, Maru, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Cannabis",
+    "NPC": "Caroline, Demetrius",
+    "Amount": -20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Cannabis",
+    "NPC": "Alex, Haley, Jas, Jodi, Penny, Robin, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/CBD Oil",
+    "NPC": "Harvey, Kent",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/CBD Oil",
+    "NPC": "George",
+    "Amount": 45
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/CBD Oil",
+    "NPC": "Krobus, Evelyn, Pierre, Caroline, Jodi, Sam, Sebastian, Penny, Pam, Abigail, Elliott, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/CBD Oil",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Chronic",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Chronic",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Chronic",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Colombian Gold",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Colombian Gold",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Colombian Gold",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Dr Grinspoon",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Dr Grinspoon",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Dr Grinspoon",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Dried Tobacco",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Dried Tobacco",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Dried Tobacco",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Girl Scout Cookies",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Girl Scout Cookies",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Girl Scout Cookies",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Green Crack",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Green Crack",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Green Crack",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Hemp",
+    "NPC": "Robin, Demetrius, Emily, Linus, Clint, Marnie",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Hemp",
+    "NPC": "Sam, Sebastian, Pierre, Penny, Pam, Kent, Abigail, Elliott, Harvey, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Hemp",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Hemp Butter",
+    "NPC": "Sebastian, Gus, Willy, Evelyn, Pierre, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Hemp Butter",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Hemp Cloth",
+    "NPC": "Emily, Linus, Leah, Maru",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Hemp Cloth",
+    "NPC": "Sam, Sebastian, Pierre, Penny, Pam, Kent, Abigail, Elliott, Harvey, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Hemp Cloth",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Hindu Kush",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Hindu Kush",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Hindu Kush",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Honey Stick",
+    "NPC": "Sebastian, Sam, Abigail, Haley, Emily, Shane, Alex, Harvey",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Honey Stick",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Idukki Gold",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Idukki Gold",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Idukki Gold",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Joint",
+    "NPC": "Sebastian, Kent, Sam",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Joint",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Joint",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Lamb's Breath",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Lamb's Breath",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Lamb's Breath",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Malawi Gold",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Malawi Gold",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Malawi Gold",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Mendocino Purps",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Mendocino Purps",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Mendocino Purps",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Nevilles Haze",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Nevilles Haze",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Nevilles Haze",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Northern Lights",
+    "NPC": "Sebastian, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Northern Lights",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Northern Lights",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/OG Kush",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/OG Kush",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/OG Kush",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Pot Brownie",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Pot Brownie",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Pot Brownie",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Puna Budder",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Puna Budder",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Puna Budder",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Purple Afghani",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Purple Afghani",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Purple Afghani",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Shatter",
+    "NPC": "Harvey, Kent",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Shatter",
+    "NPC": "Krobus, Evelyn, Pierre, Caroline, Jodi, Sam, Sebastian, Penny, Pam, Abigail, Elliott, Willy, George",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Shatter",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Snuff",
+    "NPC": "Sebastian, Sam",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Snuff",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Snuff",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Sour Diesel",
+    "NPC": "Sebastian, Sam",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Sour Diesel",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Sour Diesel",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Strawberry Cough",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Strawberry Cough",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Strawberry Cough",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Tahoe OG Kush",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Tahoe OG Kush",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Tahoe OG Kush",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Tobacco",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Tobacco",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Tobacco",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Trainwreck",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Trainwreck",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Trainwreck",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Wax",
+    "NPC": "Harvey, Kent",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Wax",
+    "NPC": "Krobus, Evelyn, Pierre, Caroline, Jodi, Sam, Sebastian, Penny, Pam, Abigail, Elliott, Willy, George",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Wax",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Weed-Infused Skooma",
+    "NPC": "Linus, Gus, Pam, Emily, Sandy",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/Weed-Infused Skooma",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/White Widow",
+    "NPC": "Sebastian, Sam, Abigail",
+    "Amount": 80
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/White Widow",
+    "NPC": "Robin, Demetrius, Pierre, Penny, Pam, Kent, Elliott, Harvey, Willy, Lewis, Clint",
+    "Amount": 20
+},
+{
+    "ObjectId": "PPJA.cannabiskit.DGA/White Widow",
+    "NPC": "Jas, Vincent, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectID": "PPJA.cannabiskit.DGA/Afghani, PPJA.cannabiskit.DGA/Afghanica, PPJA.cannabiskit.DGA/Alien Technology, PPJA.cannabiskit.DGA/Blue Dream, PPJA.cannabiskit.DGA/Bruce Banner, PPJA.cannabiskit.DGA/Cannabis, PPJA.cannabiskit.DGA/Chronic, PPJA.cannabiskit.DGA/Colombian Gold, PPJA.cannabiskit.DGA/Dr Grinspoon, PPJA.cannabiskit.DGA/Girl Scout Cookies, PPJA.cannabiskit.DGA/Green Crack, PPJA.cannabiskit.DGA/Hindu Kush, PPJA.cannabiskit.DGA/Idukki Gold, PPJA.cannabiskit.DGA/Joint, PPJA.cannabiskit.DGA/Lamb's Breath, PPJA.cannabiskit.DGA/Malawi Gold, PPJA.cannabiskit.DGA/Mendocino Purps, PPJA.cannabiskit.DGA/Nevilles Haze, PPJA.cannabiskit.DGA/Northern Lights, PPJA.cannabiskit.DGA/OG Kush, PPJA.cannabiskit.DGA/Pot Brownie, PPJA.cannabiskit.DGA/Puna Budder, PPJA.cannabiskit.DGA/Purple Afghani, PPJA.cannabiskit.DGA/Shatter, PPJA.cannabiskit.DGA/Snuff, PPJA.cannabiskit.DGA/Sour Diesel, PPJA.cannabiskit.DGA/Strawberry Cough, PPJA.cannabiskit.DGA/Tahoe OG Kush, PPJA.cannabiskit.DGA/Trainwreck, PPJA.cannabiskit.DGA/Wax, PPJA.cannabiskit.DGA/Weed-Infused Skooma, PPJA.cannabiskit.DGA/White Widow",
+    "NPC": "Sebastian",
+    "Amount": -20,
+    "EventConditions":
+    {
+        "Relationship:Sebastian": "Married"
+    }
+},
+{
+    "ObjectID": "PPJA.cannabiskit.DGA/Tobacco, PPJA.cannabiskit.DGA/Dried Tobacco",
+    "NPC": "Sebastian",
+    "Amount": -40,
+    "EventConditions":
+    {
+        "Relationship:Sebastian": "Married"
+    }
+}, ]

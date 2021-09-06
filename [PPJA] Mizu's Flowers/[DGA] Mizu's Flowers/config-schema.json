@@ -1,0 +1,9 @@
+[   
+    {
+        "Name": "SeasonalRosesEnabled",
+        "Description": "Changes the look of the rose. Will use old seasonal textures if enabled. If disabled, will use the same crop sprite for all seasons.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+]

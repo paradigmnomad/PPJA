@@ -1,0 +1,794 @@
+[
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Alien Dawg Crop.png:0",
+          "assets/crops/Alien Dawg Crop.png:1"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Alien Dawg Crop.png:2"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Alien Dawg Crop.png:3"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Alien Dawg Crop.png:4"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Alien Dawg Crop.png:5"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Alien Dawg Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "PPJA.cannabiskitforHCE.DGA/Alien Dawg"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 39,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Alien Dawg Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Alien Dawg"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Alien Kush Crop.png:0",
+          "assets/crops/Alien Kush Crop.png:1"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Alien Kush Crop.png:2"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Alien Kush Crop.png:3"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Alien Kush Crop.png:4"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Alien Kush Crop.png:5"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Alien Kush Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "PPJA.cannabiskitforHCE.DGA/Alien Kush"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 39,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Alien Kush Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Alien Kush"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Big Bud Crop.png:0",
+          "assets/crops/Big Bud Crop.png:1"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Big Bud Crop.png:2"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Big Bud Crop.png:3"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Big Bud Crop.png:4"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Big Bud Crop.png:5"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Big Bud Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "PPJA.cannabiskitforHCE.DGA/Big Bud"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 39,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Big Bud Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Big Bud"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Chemdawg Crop.png:0",
+          "assets/crops/Chemdawg Crop.png:1"
+        ],
+        "Length": 1,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Chemdawg Crop.png:2"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Chemdawg Crop.png:3"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Chemdawg Crop.png:4"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Chemdawg Crop.png:5"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Chemdawg Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "PPJA.cannabiskitforHCE.DGA/Chemdawg"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 39,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Chemdawg Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Chemdawg"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Fruity Pebbles OG Crop.png:0",
+          "assets/crops/Fruity Pebbles OG Crop.png:1"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Fruity Pebbles OG Crop.png:2"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Fruity Pebbles OG Crop.png:3"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Fruity Pebbles OG Crop.png:4"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Fruity Pebbles OG Crop.png:5"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Fruity Pebbles OG Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "PPJA.cannabiskitforHCE.DGA/Fruity Pebbles OG"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 39,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Fruity Pebbles OG Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Fruity Pebbles OG"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Granddaddy Purple Crop.png:0",
+          "assets/crops/Granddaddy Purple Crop.png:1"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Granddaddy Purple Crop.png:2"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Granddaddy Purple Crop.png:3"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Granddaddy Purple Crop.png:4"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Granddaddy Purple Crop.png:5"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Granddaddy Purple Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "PPJA.cannabiskitforHCE.DGA/Granddaddy Purple"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 39,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Granddaddy Purple Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Granddaddy Purple"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Green Ribbon Crop.png:0",
+          "assets/crops/Green Ribbon Crop.png:1"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Green Ribbon Crop.png:2"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Green Ribbon Crop.png:3"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Green Ribbon Crop.png:4"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Green Ribbon Crop.png:5"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Green Ribbon Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "PPJA.cannabiskitforHCE.DGA/Green Ribbon"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 39,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Green Ribbon Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Green Ribbon"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Las Vegas Purple Kush Crop.png:0",
+          "assets/crops/Las Vegas Purple Kush Crop.png:1"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Las Vegas Purple Kush Crop.png:2"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Las Vegas Purple Kush Crop.png:3"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Las Vegas Purple Kush Crop.png:4"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Las Vegas Purple Kush Crop.png:5"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Las Vegas Purple Kush Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "PPJA.cannabiskitforHCE.DGA/Las Vegas Purple Kush"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 39,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Las Vegas Purple Kush Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Las Vegas Purple Kush"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Purple Urkle Crop.png:0",
+          "assets/crops/Purple Urkle Crop.png:1"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Purple Urkle Crop.png:2"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Purple Urkle Crop.png:3"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Purple Urkle Crop.png:4"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Purple Urkle Crop.png:5"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Purple Urkle Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "PPJA.cannabiskitforHCE.DGA/Purple Urkle"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 39,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Purple Urkle Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Purple Urkle"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Tahoe Alien Crop.png:0",
+          "assets/crops/Tahoe Alien Crop.png:1"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Tahoe Alien Crop.png:2"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Tahoe Alien Crop.png:3"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Tahoe Alien Crop.png:4"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Tahoe Alien Crop.png:5"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Tahoe Alien Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "PPJA.cannabiskitforHCE.DGA/Tahoe Alien"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 39,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Tahoe Alien Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Tahoe Alien"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/White Rhino Crop.png:0",
+          "assets/crops/White Rhino Crop.png:1"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/White Rhino Crop.png:2"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/White Rhino Crop.png:3"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/White Rhino Crop.png:4"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/White Rhino Crop.png:5"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/White Rhino Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "PPJA.cannabiskitforHCE.DGA/White Rhino"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 39,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "White Rhino Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "White Rhino"
+  }
+]

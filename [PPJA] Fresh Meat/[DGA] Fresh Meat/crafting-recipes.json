@@ -1,0 +1,2375 @@
+[
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Asam Pedas"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "-4"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "256"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        },
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Broth"
+        }],
+        "ID": "Converted_Asam Pedas Recipe",
+        "EnableConditions":
+    {
+        "HasMod": "ppja.evenmorerecipes.DGA"
+    },
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Bacon"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Pork"
+        }],
+        "ID": "Converted_Bacon Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Bacon Hamburger"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Bacon"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Hamburger Patty"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Ketchup"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Mustard"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "216"
+        }],
+        "ID": "Converted_Bacon Hamburger Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Bacon n Eggs"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Bacon"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Bacon n Eggs Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Baked Turkey with Risotto"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Turkey"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "649"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "404"
+        }],
+        "ID": "Converted_Baked Turkey with Risotto Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Bangers Beans and Mash"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beef"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "192"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Brown Gravy"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Navy Bean"
+        }],
+        "ID": "Converted_Bangers Beans and Mash Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Barbecue Sausage"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Sausage"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/BBQ Sauce"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Mustard"
+        }],
+        "ID": "Converted_Barbecue Sausage Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Batter"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "184"
+        }],
+        "ID": "Converted_Batter Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/BBQ Sauce"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "419"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "256",
+            "Quantity": 2
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        }],
+        "ID": "Converted_BBQ Sauce Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Beast n' Onion Handpie"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beast Meat"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "399",
+            "Quantity": 2
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Batter"
+        }],
+        "ID": "Converted_Beast n' Onion Handpie Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Beef Burrito"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beef"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "229"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "256"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        }],
+        "ID": "Converted_Beef Burrito Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Beef Ribs"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Beef"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/BBQ Sauce"
+        }],
+        "ID": "Converted_Beef Ribs Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Beef Stock"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beef"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Celery"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Carrot"
+        }],
+        "ID": "Converted_Beef Stock Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Biscuits and Gravy"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "216"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Sausage"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/White Gravy"
+        }],
+        "ID": "Converted_Biscuits and Gravy Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Bratwurst"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Pork"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Beef"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        }],
+        "ID": "Converted_Bratwurst Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Breakfast Sandwich"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "216"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Bacon"
+        }],
+        "ID": "Converted_Breakfast Sandwich Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Brown Gravy"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "247"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Beef Stock"
+        }],
+        "ID": "Converted_Brown Gravy Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Bulgogi"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beef"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Kiwi"
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Asian Pear"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Chives"
+        },
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Sesame Seeds"
+        }],
+        "ID": "Converted_Bulgogi Recipe",
+        "EnableConditions":
+        {
+            "HasMod": "ppja.evenmorerecipes.DGA",
+            "HasMod": "ppja.moretrees.DGA"
+        },
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cheese Board"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "216"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Salami"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "398",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Cheese Board Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cheeseburger"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Hamburger Patty"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "216"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        }],
+        "ID": "Converted_Cheeseburger Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Chicken and Spinach Crepe"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Chicken"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Spinach"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        }],
+        "ID": "Converted_Chicken and Spinach Crepe Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Chicken Nuggets"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Chicken"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        }],
+        "ID": "Converted_Chicken Nuggets Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Chicken Stock"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Chicken"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Celery"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Carrot"
+        }],
+        "ID": "Converted_Chicken Stock Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Chippy Curry"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Frog"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "192"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Batter"
+        }],
+        "ID": "Converted_Chippy Curry Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Coconut Curry"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Reptile Meat"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "88",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "256"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "270"
+        }],
+        "ID": "Converted_Coconut Curry Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Alpaca Meat"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Alpaca Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Alpaca Meat Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Beast Meat"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Beast Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Beast Meat Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Beef"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Beef"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Beef Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Bird Meat"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Bird Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Bird Meat Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Bison Meat"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Bison Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Bison Meat Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Boar"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Wild Boar Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Boar Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Chevon"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Chevon"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Chevon Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Chicken"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Chicken"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Chicken Recipe"
+    },
+    {
+        "EnableConditions":
+        {
+            "HasMod": "spacechase0.BugNet"
+        },
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Critter Meat"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Critter Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Critter Meat Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Dragon Meat"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Dragon Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Dragon Meat Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Duck"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Duck"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Duck Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Fowl"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Fowl"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Fowl Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Frog"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Frog Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Frog Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Horse Meat"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Horse Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Horse Meat Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Phoenix"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Phoenix Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Phoenix Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Pork"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Pork"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Pork Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Rabbit"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Rabbit"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Rabbit Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Reptile Meat"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Reptile Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Reptile Meat Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Turkey"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Turkey"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Turkey Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Venison"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Venison"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Converted_Cooked Venison Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Corndog"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "247"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beef"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Ketchup"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Mustard"
+        }],
+        "ID": "Converted_Corndog Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cottage Pie"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Bison Meat"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "188"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "78"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Batter"
+        }],
+        "ID": "Converted_Cottage Pie Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Dumplings"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "247"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "399"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Pork"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "266"
+        }],
+        "ID": "Converted_Dumplings Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Fish and Chips"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "-4"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "192",
+            "Quantity": 2
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Batter"
+        }],
+        "ID": "Converted_Fish and Chips Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Grilled Skewer"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beef"
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "bell_pepper_item",
+            "IconOverride": "assets/context-tag-override/BellPepperIcon.png",
+            "NameOverride": "Bell Pepper (Any)"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "404"
+        }],
+        "ID": "Converted_Grilled Skewer Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Ham"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Pork"
+        }],
+        "ID": "Converted_Ham Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Hamburger Patty"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Beef"
+        }],
+        "ID": "Converted_Hamburger Patty Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Hot Dog"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beef"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "216"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Ketchup"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Mustard"
+        }],
+        "ID": "Converted_Hot Dog Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Ketchup"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "256"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "419"
+        }],
+        "ID": "Converted_Ketchup Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Lobster Stock"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "715",
+            "Quantity": 4
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "247"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "348"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "20",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "248",
+            "Quantity": 6
+        }],
+        "ID": "Converted_Lobster Stock Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Lula Kebab"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beef"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Mint"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "248"
+        }],
+        "ID": "Converted_Lula Kebab Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Meat Skewer"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Beef"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Mutton"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Venison"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Beast Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Alpaca Meat"
+        }],
+        "ID": "Converted_Meat Skewer Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Meatloaf"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Beef"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Ketchup"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        }],
+        "ID": "Converted_Meatloaf Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Meaty Burrito Wrap"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Alpaca Meat"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "229"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "256"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        }],
+        "ID": "Converted_Meaty Burrito Wrap Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Mild Curry"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Curry Powder"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Chicken"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "613"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "192"
+        }],
+        "ID": "Converted_Mild Curry Recipe",
+        "EnableConditions":
+        {
+            "HasMod": "ppja.evenmorerecipes.DGA"
+        },
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Mustard"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "346"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "419"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "340"
+        }],
+        "ID": "Converted_Mustard Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Paella"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "423"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Chicken Stock"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "719",
+            "Quantity": 2
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Chicken"
+        },
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Saffron"
+        }],
+        "ID": "Converted_Paella Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Phoenix Au Vin"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Boar"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Phoenix"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "348"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "192"
+        }],
+        "ID": "Converted_Phoenix Au Vin Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Pizza Diavolo"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "256"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Tabasco Pepper"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Salami"
+        }],
+        "ID": "Converted_Pizza Diavolo Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Poutine"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Brown Gravy"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "192",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        }],
+        "ID": "Converted_Poutine Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Roasted Fowl"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Fowl"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "232",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "648"
+        }],
+        "ID": "Converted_Roasted Fowl Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Salami"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beef"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Pork"
+        }],
+        "ID": "Converted_Salami Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Sausage"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Fennel"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Pork"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sage"
+        }],
+        "ID": "Converted_Sausage Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Schnitzel"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Pork"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/BBQ Sauce"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Mustard"
+        }],
+        "ID": "Converted_Schnitzel Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Seafood Stock"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "719"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "718"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Celery",
+            "Quantity": 2
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Carrot",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Seafood Stock Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Shrimp Stock"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "733",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "248",
+            "Quantity": 3
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Celery"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Carrot"
+        }],
+        "ID": "Converted_Shrimp Stock Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Sorrel Soup"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Spinach"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "22",
+            "Quantity": 2
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Chicken Stock"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "278"
+        }],
+        "ID": "Converted_Sorrel Soup Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Spaghetti and Meatballs"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "224"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Beef"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Pork"
+        }],
+        "ID": "Converted_Spaghetti and Meatballs Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Spaghetti Bolognese"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Turkey"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "256",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        }],
+        "ID": "Converted_Spaghetti Bolognese Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Steak"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Beef"
+        },
+        {
+            "Value": "ppja.morerecipes.DGA/Salt"
+        },
+        {
+            "Value": "ppja.morerecipes.DGA/Pepper"
+        }],
+        "ID": "Converted_Steak Recipe",
+        "EnableConditions":
+        {
+            "HasMod": "ppja.morerecipes.DGA"
+        },
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Steak Tartare"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Horse Meat"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "399"
+        }],
+        "ID": "Converted_Steak Tartare Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Sweet and Sour Pork with Rice"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Pork"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "423"
+        },
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Sweet Sour Sauce"
+        }],
+        "ID": "Converted_Sweet and Sour Pork with Rice Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Sweet n' Sour Bites"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Dragon Meat"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "340"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "306"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "635"
+        }],
+        "ID": "Converted_Sweet n' Sour Bites Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Teriyaki"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Mutton"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Teriyaki Sauce"
+        }],
+        "ID": "Converted_Teriyaki Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Toast"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "246",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Toast Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Toast Hawaii"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Toast"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "832"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Pork"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        }],
+        "ID": "Converted_Toast Hawaii Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Toast Williams"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Toast"
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Pear"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Pork"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        }],
+        "ID": "Converted_Toast Williams Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Tonkatsu"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Boar"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "216"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "247"
+        }],
+        "ID": "Converted_Tonkatsu Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Venison Handpie"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Venison"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "20"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "248"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Batter"
+        }],
+        "ID": "Converted_Venison Handpie Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/White Gravy"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "247"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Chicken Stock"
+        }],
+        "ID": "Converted_White Gravy Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Canning Machine"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 10
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "334",
+            "Quantity": 5
+        }],
+        "ID": "Converted_Canning Machine Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/DNA Synthesizer"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "337",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "112"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "72",
+            "Quantity": 5
+        }],
+        "ID": "Converted_DNA Synthesizer Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Meat Press"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 10
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "334",
+            "Quantity": 5
+        }],
+        "ID": "Converted_Meat Press Recipe"
+    },
+
+    // New Additions
+
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Chicken Wing"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/BBQ Sauce"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Chicken Wing"
+        }, ],
+        "ID": "Cooked Chicken Wing Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Drumstick"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/BBQ Sauce"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Drumstick"
+        }, ],
+        "ID": "Cooked Drumstick Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Beef Taco"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beef"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Lettuce"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "256"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "229"
+        }],
+        "ID": "Beef Taco Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Mutton"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Chicken"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Cooked Mutton Recipe"
+    },
+     {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.freshmeat.DGA/Cooked Ostrich Meat"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Ostrich Meat"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        }],
+        "ID": "Cooked Ostrich Meat Recipe"
+    },
+]

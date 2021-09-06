@@ -1,0 +1,19 @@
+{
+  "Name": "[DGA] Fruits and Veggies for Dynamic Game Assets(DGA version)",
+  "Description": "A port of Mizu's crops for Dynamic Game Assets.",
+  "Author": "Project Populate JsonAssets",
+    "Version": "1.0.0",
+  "MinimumApiVersion": {
+    "MajorVersion": 3,
+    "MinorVersion": 7
+  },
+  "UniqueID": "ppja.fruitsandveggies.DGA",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.DynamicGameAssets"
+  },
+  "UpdateKeys": [
+    "Nexus:9443@FruitsandVeggies"
+  ],
+  "DGA.FormatVersion": 1,
+  "DGA.ConditionsFormatVersion": "1.23.0"
+}

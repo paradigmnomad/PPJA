@@ -1,0 +1,122 @@
+[
+  {
+    "Texture": "assets/big-craftables/Alembic0.png",
+    "SellPrice": 1,
+    "ID": "Alembic",
+    "JsonAssetsName": "Alembic"
+  },
+  {
+    "Texture": "assets/big-craftables/Butter Churn0.png",
+    "SellPrice": 1,
+    "ID": "Butter Churn",
+    "JsonAssetsName": "Butter Churn"
+  },
+  {
+    "Texture": "assets/big-craftables/Dehydrator0.png",
+    "SellPrice": 1,
+    "ID": "Dehydrator",
+    "JsonAssetsName": "Dehydrator"
+  },
+  {
+    "Texture": "assets/big-craftables/Drying Rack0.png",
+    "SellPrice": 1,
+    "ID": "Drying Rack",
+    "JsonAssetsName": "Drying Rack"
+  },
+  {
+    "Texture": "assets/big-craftables/Espresso Machine0.png",
+    "SellPrice": 1,
+    "ID": "Espresso Machine",
+    "JsonAssetsName": "Espresso Machine"
+  },
+  {
+    "Texture": "assets/big-craftables/Extruder0.png",
+    "SellPrice": 1,
+    "ID": "Extruder",
+    "JsonAssetsName": "Extruder"
+  },
+  {
+    "Texture": "assets/big-craftables/Foreign Cask0.png",
+    "SellPrice": 1,
+    "ID": "Foreign Cask",
+    "JsonAssetsName": "Foreign Cask"
+  },
+  {
+    "Texture": "assets/big-craftables/Glass Jar0.png",
+    "SellPrice": 1,
+    "ID": "Glass Jar",
+    "JsonAssetsName": "Glass Jar"
+  },
+  {
+    "Texture": "assets/big-craftables/Grinder0.png",
+    "SellPrice": 1,
+    "ID": "Grinder",
+    "JsonAssetsName": "Grinder"
+  },
+  {
+    "Texture": "assets/big-craftables/Ice Cream Machine0.png",
+    "SellPrice": 1,
+    "ID": "Ice Cream Machine",
+    "JsonAssetsName": "Ice Cream Machine"
+  },
+  {
+    "Texture": "assets/big-craftables/Infuser0.png",
+    "SellPrice": 1,
+    "ID": "Infuser",
+    "JsonAssetsName": "Infuser"
+  },
+  {
+    "Texture": "assets/big-craftables/Juicer0.png",
+    "SellPrice": 1,
+    "ID": "Juicer",
+    "JsonAssetsName": "Juicer"
+  },
+  {
+    "Texture": "assets/big-craftables/Pepper Blender0.png",
+    "SellPrice": 1,
+    "ID": "Pepper Blender",
+    "JsonAssetsName": "Pepper Blender"
+  },
+  {
+    "Texture": "assets/big-craftables/Smoker0.png",
+    "SellPrice": 1,
+    "ID": "Smoker",
+    "JsonAssetsName": "Smoker"
+  },
+  {
+    "Texture": "assets/big-craftables/Soap Press0.png",
+    "SellPrice": 1,
+    "ID": "Soap Press",
+    "JsonAssetsName": "Soap Press"
+  },
+  {
+    "Texture": "assets/big-craftables/Sorbet Machine0.png",
+    "SellPrice": 1,
+    "ID": "Sorbet Machine",
+    "JsonAssetsName": "Sorbet Machine"
+  },
+  {
+    "Texture": "assets/big-craftables/Still0.png",
+    "SellPrice": 1,
+    "ID": "Still",
+    "JsonAssetsName": "Still"
+  },
+  {
+    "Texture": "assets/big-craftables/Vinegar Cask0.png",
+    "SellPrice": 1,
+    "ID": "Vinegar Cask",
+    "JsonAssetsName": "Vinegar Cask"
+  },
+  {
+    "Texture": "assets/big-craftables/Wax Barrel0.png",
+    "SellPrice": 1,
+    "ID": "Wax Barrel",
+    "JsonAssetsName": "Wax Barrel"
+  },
+  {
+    "Texture": "assets/big-craftables/Yogurt Jar0.png",
+    "SellPrice": 1,
+    "ID": "Yogurt Jar",
+    "JsonAssetsName": "Yogurt Jar"
+  }
+]

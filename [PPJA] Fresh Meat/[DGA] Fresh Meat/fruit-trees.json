@@ -1,0 +1,23 @@
+[
+  {
+    "Texture": "assets/fruit-trees/Jerky Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.freshmeat.DGA/Jerky"
+        }
+      }
+    ],
+    "ID": "Jerky Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Jerky Tree"
+  }
+]

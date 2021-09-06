@@ -1,0 +1,983 @@
+[
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Alpaca Meat"
+        },
+        "Cost": 200,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beast Meat"
+        },
+        "Cost": 310,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Beef"
+        },
+        "Cost": 200,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Bird Meat"
+        },
+        "Cost": 175,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Bison Meat"
+        },
+        "Cost": 200,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Boar"
+        },
+        "Cost": 375,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Chevon"
+        },
+        "Cost": 200,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Chicken"
+        },
+        "Cost": 160,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Chicken Wing"
+        },
+        "Cost": 180,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Drumstick"
+        },
+        "Cost": 200,
+    },
+    {
+        "EnableConditions":
+        {
+            "HasMod": "spacechase0.BugNet"
+        },
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Critter Meat"
+        },
+        "Cost": 220,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Dragon Meat"
+        },
+        "Cost": 2000,
+        "EnableConditions":
+        {
+            "Relationship:Wizard": "6"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Duck"
+        },
+        "Cost": 185,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Fowl"
+        },
+        "Cost": 200,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Frog"
+        },
+        "Cost": 800,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Horse Meat"
+        },
+        "Cost": 550,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Mutton"
+        },
+        "Cost": 290,
+    },
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Ostrich Meat"
+        },
+        "Cost": 1300,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Phoenix"
+        },
+        "Cost": 2000,
+        "EnableConditions":
+        {
+            "Relationship:Wizard": "6"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Pork"
+        },
+        "Cost": 180,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Rabbit"
+        },
+        "Cost": 105,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Reptile Meat"
+        },
+        "Cost": 200,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Turkey"
+        },
+        "Cost": 200,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Venison"
+        },
+        "Cost": 200,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Hamburger Patty"
+        },
+        "Cost": 300,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Seasonings"
+        },
+        "Cost": 50,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Asam Pedas Recipe"
+        },
+        "Cost": 1850,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "HasMod": "ppja.evenmorerecipes.DGA"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Bacon Hamburger Recipe"
+        },
+        "Cost": 680,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Bacon n Eggs Recipe"
+        },
+        "Cost": 800,
+        "EnableConditions":
+        {
+            "Season |contains=winter": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Baked Turkey with Risotto Recipe"
+        },
+        "Cost": 725,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Bangers Beans and Mash Recipe"
+        },
+        "Cost": 800,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Batter Recipe"
+        },
+        "Cost": 735,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_BBQ Sauce Recipe"
+        },
+        "Cost": 400,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Beef Burrito Recipe"
+        },
+        "Cost": 800,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Beef Ribs Recipe"
+        },
+        "Cost": 1000,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Beef Stock Recipe"
+        },
+        "Cost": 2475,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Biscuits and Gravy Recipe"
+        },
+        "Cost": 900,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Bratwurst Recipe"
+        },
+        "Cost": 550,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Breakfast Sandwich Recipe"
+        },
+        "Cost": 1000,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Brown Gravy Recipe"
+        },
+        "Cost": 2775,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Bulgogi Recipe"
+        },
+        "Cost": 800,
+        "EnableConditions":
+        {
+            "HasMod": "ppja.evenmorerecipes.DGA",
+            "HasMod": "ppja.moretrees.DGA"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Cheese Board Recipe"
+        },
+        "Cost": 680,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Cheeseburger Recipe"
+        },
+        "Cost": 1050,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Chicken and Spinach Crepe Recipe"
+        },
+        "Cost": 2495,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Chicken Stock Recipe"
+        },
+        "Cost": 2460,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Coconut Curry Recipe"
+        },
+        "Cost": 725,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Corndog Recipe"
+        },
+        "Cost": 650,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Dumplings Recipe"
+        },
+        "Cost": 2648,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Ham Recipe"
+        },
+        "Cost": 850,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Hamburger Patty Recipe"
+        },
+        "Cost": 550,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Ketchup Recipe"
+        },
+        "Cost": 100,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Lobster Stock Recipe"
+        },
+        "Cost": 2460,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Meat Skewer Recipe"
+        },
+        "Cost": 1000,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Meaty Burrito Wrap Recipe"
+        },
+        "Cost": 725,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Mild Curry Recipe"
+        },
+        "Cost": 900,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "HasMod": "ppja.evenmorerecipes.DGA"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Mustard Recipe"
+        },
+        "Cost": 250,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Paella Recipe"
+        },
+        "Cost": 1000,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Pizza Diavolo Recipe"
+        },
+        "Cost": 1800,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Poutine Recipe"
+        },
+        "Cost": 3155,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Salami Recipe"
+        },
+        "Cost": 550,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Sausage Recipe"
+        },
+        "Cost": 550,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Seafood Stock Recipe"
+        },
+        "Cost": 2460,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Shrimp Stock Recipe"
+        },
+        "Cost": 2460,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Sorrel Soup Recipe"
+        },
+        "Cost": 900,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Steak Recipe"
+        },
+        "Cost": 2350,
+        "EnableConditions":
+        {
+            "HasMod": "ppja.morerecipes.DGA"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Steak Tartare Recipe"
+        },
+        "Cost": 1200,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "IslandMerchant",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Toast Hawaii Recipe"
+        },
+        "Cost": 1200,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_Toast Williams Recipe"
+        },
+        "Cost": 1700,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Converted_White Gravy Recipe"
+        },
+        "Cost": 2775,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Alpaca Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Beast Seeds"
+        },
+        "Cost": 120,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Beefvine Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Bird Seeds"
+        },
+        "Cost": 65,
+        "EnableConditions":
+        {
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Bison Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Chevonvine Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Chickenvine Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "Krobus",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Dragon Seeds"
+        },
+        "Cost": 400,
+        "EnableConditions":
+        {
+            "Relationship:Wizard": "6",
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Duckvine Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Fowl Seeds"
+        },
+        "Cost": 75,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Frog Seeds"
+        },
+        "Cost": 160,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Horse Seeds"
+        },
+        "Cost": 250,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Muttonvine Seeds"
+        },
+        "Cost": 110,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Ostrich Seeds"
+        },
+        "Cost": 450,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "Krobus",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Phoenix Seeds"
+        },
+        "Cost": 310,
+        "EnableConditions":
+        {
+            "Relationship:Wizard": "6",
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Porkvine Seeds"
+        },
+        "Cost": 105,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Rabbitvine Seeds"
+        },
+        "Cost": 75,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Reptile Seeds"
+        },
+        "Cost": 150,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Turkey Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Venison Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Wild Boar Seeds"
+        },
+        "Cost": 185,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Jerky Sapling"
+        },
+        "Cost": 15000,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+
+    // New Additions
+
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Chicken Wing Recipe"
+        },
+        "Cost": 1000,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Cooked Drumstick Recipe"
+        },
+        "Cost": 1000,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.freshmeat.DGA/Beef Taco Recipe"
+        },
+        "Cost": 2300,
+    }
+]

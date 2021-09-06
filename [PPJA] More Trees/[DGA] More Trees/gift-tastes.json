@@ -1,0 +1,167 @@
+[
+  {
+    "ObjectId": "ppja.moretrees.DGA/Avocado",
+    "NPC": "Abigail, Alex, Emily, Leah, Sam",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Cinnamon Sticks",
+    "NPC": "Gus, Jodi, Krobus",
+    "Amount": 45
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Cocoa Pod",
+    "NPC": "Krobus",
+    "Amount": -40
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Dragon Fruit",
+    "NPC": "Pam, Sam",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Dragon Fruit",
+    "NPC": "Elliott, Harvey, Jodi, Kent, Leah, Lewis, Linus, Robin, Sandy, Shane",
+    "Amount": 45
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Dragon Fruit",
+    "NPC": "Abigail, Haley, Jas, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Durian",
+    "NPC": "Krobus",
+    "Amount": 45
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Durian",
+    "NPC": "Abigail, Haley, Jas, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Eucalyptus Leaves",
+    "NPC": "Leah, Linus",
+    "Amount": 45
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Fig",
+    "NPC": "Robin",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Fig",
+    "NPC": "Abigail, Haley, Jas, Vincent",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Fragrant Wisteria",
+    "NPC": "Sandy, Abigail",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Fragrant Wisteria",
+    "NPC": "Alex, Clint, Demetrius, Lewis, Marnie, Maru, Pam, Penny, Robin",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Fragrant Wisteria",
+    "NPC": "Dwarf, Elliott, Krobus, Sam, Sebastian, Shane, Willy, Wizard",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Grapefruit",
+    "NPC": "Alex",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Grapefruit",
+    "NPC": "Abigail, Haley, Jas, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Lemon",
+    "NPC": "Gus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Lemon",
+    "NPC": "Abigail, Haley, Jas, Vincent",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Lime",
+    "NPC": "Abigail, Haley, Jas, Vincent",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Lychee",
+    "NPC": "Sandy, Haley, Jodi",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Lychee",
+    "NPC": "Krobus, Evelyn, Elliott",
+    "Amount": 45
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Melaleuca Leaves",
+    "NPC": "Harvey, Leah, Linus",
+    "Amount": 45
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Olive",
+    "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Papaya",
+    "NPC": "Haley, Linus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Papaya",
+    "NPC": "Dwarf",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Pecan",
+    "NPC": "Leah",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Persimmon",
+    "NPC": "Maru",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Pomelo",
+    "NPC": "Gus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Vanilla",
+    "NPC": "Gus, Sandy",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Walnut",
+    "NPC": "Evelyn, Marnie",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Ylang Ylang",
+    "NPC": "Haley, Sandy, Abigail",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Yuzu",
+    "NPC": "Gus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.moretrees.DGA/Yuzu",
+    "NPC": "Abigail, Haley, Jas, Vincent",
+    "Amount": 20
+  },
+]

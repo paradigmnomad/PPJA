@@ -1,0 +1,45 @@
+{
+  "Name": "[DGA] Starbrew Valley: A Collection of Alcoholic Drinks and Recipes (DGA version)",
+  "Description": "Adds new alcoholic drinks to the Stardrop Saloon and new recipes, please see dependencies.",
+  "Author": "Project Populate Json Assets",
+    "Version": "1.0.0",
+  "MinimumApiVersion": {
+    "MajorVersion": 3,
+    "MinorVersion": 7
+  },
+  "UniqueID": "ppja.starbrewvalley.DGA",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.DynamicGameAssets"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "ppja.fruitsandveggies.DGA",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "ppja.moretrees.DGA",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "mizu.flowers.DGA",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "ppja.artisanvalleymachinegoods.DGA",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "ppja.morerecipes.DGA",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "Cherry.CustomCraftingStations",
+      "IsRequired": false
+    },
+  ],
+  "UpdateKeys": [
+    "Nexus:9443@StarbrewValley"
+  ],
+  "DGA.FormatVersion": 1,
+  "DGA.ConditionsFormatVersion": "1.23.0"
+}

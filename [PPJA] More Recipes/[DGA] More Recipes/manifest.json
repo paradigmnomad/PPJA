@@ -1,0 +1,33 @@
+{
+  "Name": "[DGA] More Recipes; A Collection of Recipes for Dynamic Game Assets",
+  "Description": "A port of Mizu's recipe sprites for Dynamic Game Assets",
+  "Author": "Project Populate Json Assets",
+    "Version": "1.0.0",
+  "MinimumApiVersion": {
+    "MajorVersion": 3,
+    "MinorVersion": 7
+  },
+  "UniqueID": "ppja.morerecipes.DGA",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.DynamicGameAssets"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "ppja.fruitsandveggies.DGA",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "ppja.moretrees.DGA",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "mizu.flowers.DGA",
+      "IsRequired": true
+    }
+  ],
+  "UpdateKeys": [
+    "Nexus:9443@MoreRecipes"
+  ],
+  "DGA.FormatVersion": 1,
+  "DGA.ConditionsFormatVersion": "1.23.0"
+}

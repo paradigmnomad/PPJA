@@ -1,0 +1,1939 @@
+[
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Alpaca Crop.png:0",
+            "assets/crops/Alpaca Crop.png:1"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Alpaca Crop.png:2"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Alpaca Crop.png:3"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Alpaca Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Alpaca Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Alpaca Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Alpaca Meat"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 1,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Alpaca Fell",
+                                }
+                            },
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 20
+      }
+    ],
+    "ID": "Alpaca Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "summer"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableAlpacaVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/AlpacaAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableAlpacaVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/AlpacaAnimalCrop.png:6@30, assets/crops/AlpacaAnimalCrop_Animated:6@5"],
+    }],
+    "JsonAssetsName": "Alpaca"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Beast Crop.png:0",
+            "assets/crops/Beast Crop.png:1"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Beast Crop.png:2"
+        ],
+        "Length": 4
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Beast Crop.png:3"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Beast Crop.png:4"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Beast Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Beast Crop.png:6"
+        ],
+        "HarvestedDrops": [
+        {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+            {
+                "Weight": 1.0,
+                "Value":
+                {
+                    "Value": "paradigmnomad.freshmeat.DGA/Beast Meat"
+                }
+            }]
+        }],
+        "HarvestedExperience": 21
+    }],
+    "ID": "Beast Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "spring, summer"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableBeastVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/BeastAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableBeastVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/BeastAnimalCrop.png:6@30, assets/crops/BeastAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Beast"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Beef Crop.png:0",
+            "assets/crops/Beef Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Beef Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Beef Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Beef Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Beef Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Beef Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Beef"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 1,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Cow Leather",
+                                }
+                            }
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 18
+      }
+    ],
+    "ID": "Beef Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "spring, summer"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableBeefVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/{{CowColor}}CowAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableBeefVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/{{CowColor}}CowAnimalCrop.png:6@30, assets/crops/{{CowColor}}CowAnimalCrop_Animated.png:6@5"],
+    }, ],
+    "JsonAssetsName": "Beef"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Bird Crop.png:0",
+            "assets/crops/Bird Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Bird Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Bird Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Bird Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Bird Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Bird Crop.png:6"
+        ],
+        "HarvestedDrops": [
+        {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+            {
+                "Weight": 1.0,
+                "Value":
+                {
+                    "Value": "paradigmnomad.freshmeat.DGA/Bird Meat"
+                }
+            }]
+        }],
+        "HarvestedExperience": 15
+    }],
+    "ID": "Bird Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "fall"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableBirdVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/BirdAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableBirdVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/BirdAnimalCrop.png:6@30, assets/crops/BirdAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Bird"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Bison Crop.png:0",
+            "assets/crops/Bison Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Bison Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Bison Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Bison Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Bison Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Bison Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Bison Meat"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 1,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Bison Leather",
+                                }
+                            },
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 14
+      }
+    ],
+    "ID": "Bison Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "spring, summer"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableBisonVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/BisonAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableBisonVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/BisonAnimalCrop.png:6@30, assets/crops/BisonAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Bison"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Chevon Crop.png:0",
+            "assets/crops/Chevon Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Chevon Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Chevon Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Chevon Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Chevon Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Chevon Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Chevon"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 1,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Goat Leather",
+                                }
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Goat Hoof",
+                                }
+                            }
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 16
+      }
+    ],
+    "ID": "Chevon Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "summer, fall"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableChevonVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/ChevonAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableChevonVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/ChevonAnimalCrop.png:6@30, assets/crops/ChevonAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Chevon"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Chicken Crop.png:0",
+            "assets/crops/Chicken Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Chicken Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Chicken Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Chicken Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Chicken Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Chicken Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Chicken"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 1,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Chicken Wing",
+                                }
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Drumstick",
+                                }
+                            }
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 16
+      }
+    ],
+    "ID": "Chicken Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "spring, summer"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableChickenVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/{{ChickenColor}}ChickenAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableChickenVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/{{ChickenColor}}ChickenAnimalCrop.png:6@30, assets/crops/{{ChickenColor}}ChickenAnimalCrop_Animated:6@5"],
+    }],
+    "JsonAssetsName": "Chicken"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Dragon Crop.png:0",
+            "assets/crops/Dragon Crop.png:1"
+        ],
+        "Length": 4
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Dragon Crop.png:2"
+        ],
+        "Length": 4
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Dragon Crop.png:3"
+        ],
+        "Length": 5
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Dragon Crop.png:4"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Dragon Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Dragon Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Dragon Meat"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 99,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 99,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Dragon Leather",
+                                }
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Dragon Scale",
+                                }
+                            },
+                            {
+                                "Weight": 50,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Metallic Scale",
+                                }
+                            }
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 35
+      }
+    ],
+    "ID": "Dragon Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "summer, fall"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableDragonVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/DragonAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableDragonVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/DragonAnimalCropCrop.png:6@30, assets/crops/DragonAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Dragon"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Duck Crop.png:0",
+            "assets/crops/Duck Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Duck Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Duck Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Duck Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Duck Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Duck Crop.png:6"
+        ],
+        "HarvestedDrops": [
+        {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+            {
+                "Weight": 1.0,
+                "Value":
+                {
+                    "Value": "paradigmnomad.freshmeat.DGA/Duck"
+                }
+            }]
+        }],
+        "HarvestedExperience": 15
+    }],
+    "ID": "Duck Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "summer, fall"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableDuckVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/DuckAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableDuckVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/DuckAnimalCropCrop.png:6@30, assets/crops/DuckAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Duck"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Fowl Crop.png:0",
+            "assets/crops/Fowl Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Fowl Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Fowl Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Fowl Crop.png:4"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Fowl Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Fowl Crop.png:6"
+        ],
+        "HarvestedDrops": [
+        {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+            {
+                "Weight": 1.0,
+                "Value":
+                {
+                    "Value": "paradigmnomad.freshmeat.DGA/Fowl"
+                }
+            }]
+        }],
+        "HarvestedExperience": 14
+    }],
+    "ID": "Fowl Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "spring"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableFowlVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/FowlAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableFowlVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/FowlAnimalCropCrop.png:6@30, assets/crops/FowlAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Fowl"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Frog Crop.png:0",
+            "assets/crops/Frog Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Frog Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Frog Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Frog Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Frog Crop.png:5"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Frog Crop.png:6"
+        ],
+        "HarvestedDrops": [
+        {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+            {
+                "Weight": 1.0,
+                "Value":
+                {
+                    "Value": "paradigmnomad.freshmeat.DGA/Frog Meat"
+                }
+            }]
+        }],
+        "HarvestedExperience": 23
+    }],
+    "ID": "Frog Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "summer"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableFrogVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/FrogAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableFrogVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/FrogAnimalCropCrop.png:6@30, assets/crops/FrogAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Frog"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Horse Crop.png:0",
+            "assets/crops/Horse Crop.png:1"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Horse Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Horse Crop.png:3"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Horse Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Horse Crop.png:5"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Horse Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Horse Meat"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 1,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Horse Leather",
+                                }
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Horsehair",
+                                }
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Horse Hoof",
+                                }
+                            },
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 34
+      }
+    ],
+    "ID": "Horse Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "summer, winter"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableHorseVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/HorseAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableHorseVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/HorseAnimalCropCrop.png:6@30, assets/crops/HorseAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Horse"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Mutton Crop.png:0",
+            "assets/crops/Mutton Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Mutton Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Mutton Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Mutton Crop.png:4"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Mutton Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Mutton Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Mutton"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 1,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Sheep Leather",
+                                }
+                            },
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 16
+      }
+    ],
+    "ID": "Mutton Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "spring, summer"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableMuttonVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/MuttonAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableMuttonVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/MuttonAnimalCrop.png:6@30, assets/crops/MuttonAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Mutton"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Ostrich Crop.png:0",
+            "assets/crops/Ostrich Crop.png:1"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Ostrich Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Ostrich Crop.png:3"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Ostrich Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Ostrich Crop.png:5"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Ostrich Crop.png:6"
+        ],
+        "HarvestedDrops": [
+        {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+            {
+                "Weight": 1.0,
+                "Value":
+                {
+                    "Value": "paradigmnomad.freshmeat.DGA/Ostrich Meat"
+                }
+            }]
+        }],
+        "HarvestedExperience": 44
+    }],
+    "ID": "Ostrich Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "summer"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableOstrichVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/OstrichAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableOstrichVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/OstrichAnimalCropCrop.png:6@30, assets/crops/OstrichAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Ostrich"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Phoenix Crop.png:0",
+            "assets/crops/Phoenix Crop.png:1"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Phoenix Crop.png:2"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Phoenix Crop.png:3"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Phoenix Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Phoenix Crop.png:5"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Phoenix Crop.png:6"
+        ],
+        "HarvestedDrops": [
+        {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+            {
+                "Weight": 1.0,
+                "Value":
+                {
+                    "Value": "paradigmnomad.freshmeat.DGA/Phoenix Meat"
+                }
+            }]
+        }],
+        "HarvestedExperience": 39
+    }],
+    "ID": "Phoenix Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "summer, fall"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnablePhoenixVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/PhoenixAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnablePhoenixVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/PhoenixAnimalCropCrop.png:6@30, assets/crops/PhoenixAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Phoenix"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Pork Crop.png:0",
+            "assets/crops/Pork Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Pork Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Pork Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Pork Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Pork Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Pork Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Pork"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 1,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Pig Leather",
+                                }
+                            }
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 14
+      }
+    ],
+    "ID": "Pork Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "summer, fall"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnablePorkVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/PorkAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnablePorkVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/PorkAnimalCropCrop.png:6@30, assets/crops/PorkAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Pork"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Rabbit Crop.png:0",
+            "assets/crops/Rabbit Crop.png:1"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Rabbit Crop.png:2"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Rabbit Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Rabbit Crop.png:4"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Rabbit Crop.png:5"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Rabbit Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Rabbit"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 1,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Rabbit Fell",
+                                }
+                            }
+                        ]
+                    }
+            ]
+          }
+        ],
+
+        "HarvestedExperience": 11
+      }
+    ],
+    "ID": "Rabbit Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "spring, summer"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableRabbitVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/RabbitAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableRabbitVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/RabbitAnimalCrop.png:6@30, assets/crops/RabbitAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Rabbit"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Reptile Crop.png:0",
+            "assets/crops/Reptile Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Reptile Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Reptile Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Reptile Crop.png:4"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Reptile Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Reptile Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Reptile Meat"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 99,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 99,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Reptile Leather",
+                                }
+                            },
+                            {
+                                "Weight": 50,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Generic Scale",
+                                }
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Metallic Scale",
+                                }
+                            }
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 19
+      }
+    ],
+    "ID": "Reptile Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "spring"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableReptileVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/ReptileAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableReptileVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/ReptileAnimalCrop.png:6@30, assets/crops/ReptileAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Reptile"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Turkey Crop.png:0",
+            "assets/crops/Turkey Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Turkey Crop.png:2"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Turkey Crop.png:3"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Turkey Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Turkey Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Turkey Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Turkey"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 1,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Drumstick",
+                                }
+                            },
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 14
+      }
+    ],
+    "ID": "Turkey Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "spring, fall"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableTurkeyVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/TurkeyAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableTurkeyVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/TurkeyAnimalCrop.png:6@30, assets/crops/TurkeyAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Turkey"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Venison Crop.png:0",
+            "assets/crops/Venison Crop.png:1"
+        ],
+        "Length": 1
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Venison Crop.png:2"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Venison Crop.png:3"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Venison Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Venison Crop.png:5"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Venison Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Venison"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 99,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 40,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Deer Antler",
+                                }
+                            },
+                            {
+                                "Weight": 99,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Deer Leather",
+                                }
+                            }
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 14
+      }
+    ],
+    "ID": "Venison Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "spring, summer"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableVenisonVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/VenisonAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableVenisonVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/VenisonAnimalCrop.png:6@30, assets/crops/VenisonAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Venison"
+},
+{
+    "Phases": [
+    {
+        "TextureChoices": [
+            "assets/crops/Wild Boar Crop.png:0",
+            "assets/crops/Wild Boar Crop.png:1"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Wild Boar Crop.png:2"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Wild Boar Crop.png:3"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Wild Boar Crop.png:4"
+        ],
+        "Length": 2
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Wild Boar Crop.png:5"
+        ],
+        "Length": 3
+    },
+    {
+        "TextureChoices": [
+            "assets/crops/Wild Boar Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ppja.freshmeat.DGA/Wild Boar Meat"
+                }
+              },
+              {
+                        "MinimumHarvestedQuantity": 1,
+                        "MaximumHarvestedQuantity": 1,
+                        "ExtraChance": 0.1,
+                        "Item": [
+                            {
+                                "Weight": 1,
+                                "Value": null
+                            },
+                            {
+                                "Weight": 1,
+                                "Value": {
+                                    "Value": "ppja.freshmeat.DGA/Wild Boar",
+                                }
+                            },
+                        ]
+                    }
+            ]
+          }
+        ],
+        "HarvestedExperience": 26
+      }
+    ],
+    "ID": "Wild Boar Crop",
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Season": "spring, summer"
+        },
+        "CanGrowNow": true
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableWildBoarVariant}} = 'Static'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/WildBoarAnimalCrop.png:6"],
+    },
+    {
+        "Conditions":
+        {
+            "Query: {{EnableWildBoarVariant}} = 'Animated'": true
+        },
+        "Phases[ 4 ].TextureChoices": ["assets/crops/WildBoarAnimalCrop.png:6@30, assets/crops/WildBoarAnimalCrop_Animated.png:6@5"],
+    }],
+    "JsonAssetsName": "Wild Boar"
+}]

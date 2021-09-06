@@ -1,0 +1,33 @@
+{
+  "Name": "[DGA] Fresh Meat (DGA version)",
+  "Description": "MEEEEEEAT - for those who wish to have meat in their game.",
+  "Author": "Project Populate Json Assets",
+    "Version": "1.0.0",
+  "MinimumApiVersion": {
+    "MajorVersion": 3,
+    "MinorVersion": 7
+  },
+  "UniqueID": "ppja.freshmeat.DGA",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.DynamicGameAssets"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "ppja.fruitsandveggies.DGA",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "ppja.evenmorerecipes.DGA",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "ppja.moretrees.DGA",
+      "IsRequired": true
+    }
+  ],
+  "UpdateKeys": [
+    "Nexus:9443@FreshMeat"
+  ],
+  "DGA.FormatVersion": 1,
+  "DGA.ConditionsFormatVersion": "1.23.0"
+}

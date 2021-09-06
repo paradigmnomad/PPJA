@@ -1,0 +1,18 @@
+{
+  "object.Doubloon.name": "Dobrão",
+  "object.Doubloon.description": "Uma moeda com apenas um objetivo: ser vendida.",
+  "object.Coal Seeds.name": "Sementes de carvão",
+  "object.Coal Seeds.description": "Plante-as na primavera ou no verão. Leva 8 dias para amadurecer.",
+  "object.Copper Seeds.name": "Sementes de cobre",
+  "object.Copper Seeds.description": "Plante-as na primavera. Leva 10 dias para amadurecer.",
+  "object.Gold Seeds.name": "Sementes de ouro",
+  "object.Gold Seeds.description": "Plante-as no outono. Leva 20 dias para amadurecer.",
+  "object.Iridium Seeds.name": "Sementes de Irídio",
+  "object.Iridium Seeds.description": "Plante-as no inverno. Leva 24 dias para amadurecer.",
+  "object.Iron Seeds.name": "Sementes de Ferro",
+  "object.Iron Seeds.description": "Plante-as no verão. Leva 15 dias para amadurecer.",
+  "object.Doubloon Seeds.name": "Sementes de Dobrão",
+  "object.Doubloon Seeds.description": "Plante-as no outono. Leva 10 dias para amadurecer e continua produzindo após a primeira colheita.",
+  "object.Radioactive Seeds.name": "Folha Radioativa",
+  "object.Radioactive Seeds.description": "Plante isso no inverno. Leva 24 dias para amadurecer."
+}

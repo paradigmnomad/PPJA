@@ -1,0 +1,915 @@
+[
+{
+    "Texture": "assets/objects/Afghani.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 152,
+        "G": 62,
+        "R": 119,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 40,
+    "ContextTags": [
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Afghani",
+    "JsonAssetsName": "Afghani"
+},
+{
+    "Texture": "assets/objects/Afghanica.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 70,
+        "G": 185,
+        "R": 121,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Afghanica",
+    "JsonAssetsName": "Afghanica"
+},
+{
+    "Texture": "assets/objects/Alien Technology.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 152,
+        "G": 62,
+        "R": 119,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Alien Technology",
+    "JsonAssetsName": "Alien Technology"
+},
+{
+    "Texture": "assets/objects/Blue Dream.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 70,
+        "G": 185,
+        "R": 121,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 40,
+    "ContextTags": [
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Blue Dream",
+    "JsonAssetsName": "Blue Dream"
+},
+{
+    "Texture": "assets/objects/Bruce Banner.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 70,
+        "G": 185,
+        "R": 121,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Bruce Banner",
+    "JsonAssetsName": "Bruce Banner"
+},
+{
+    "Texture": "assets/objects/Cannabis.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 10,
+    "SellPrice": 30,
+    
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Cannabis",
+    "JsonAssetsName": "Cannabis"
+},
+{
+    "Texture": "assets/objects/CBD Oil.png",
+    "Category": "ArtisanGoods",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 60,
+    "ID": "CBD Oil",
+    "JsonAssetsName": "CBD Oil"
+},
+{
+    "Texture": "assets/objects/Chronic.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 70,
+        "G": 185,
+        "R": 121,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Chronic",
+    "JsonAssetsName": "Chronic"
+},
+{
+    "Texture": "assets/objects/Colombian Gold.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 37,
+        "G": 103,
+        "R": 238,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Colombian Gold",
+    "JsonAssetsName": "Colombian Gold"
+},
+{
+    "Texture": "assets/objects/Dr Grinspoon.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 37,
+        "G": 103,
+        "R": 238,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Dr Grinspoon",
+    "JsonAssetsName": "Dr Grinspoon"
+},
+{
+    "Texture": "assets/objects/Dried Tobacco.png",
+    "Category": "ArtisanGoods",
+    "CategoryColorOverride":
+    {},
+    "SellPrice": 50,
+    "ID": "Dried Tobacco",
+    
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Relationship:Sebastian": "Married"
+        },
+        "GiftTasteOverride[Sebastian].Amount": -40,
+    }],
+    "ID": "Dried Tobacco",
+    "JsonAssetsName": "Dried Tobacco"
+},
+{
+    "Texture": "assets/objects/Girl Scout Cookies.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 70,
+        "G": 185,
+        "R": 121,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 40,
+    
+    "ContextTags": [
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Girl Scout Cookies",
+    "JsonAssetsName": "Girl Scout Cookies"
+},
+{
+    "Texture": "assets/objects/Green Crack.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 37,
+        "G": 103,
+        "R": 238,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 50,
+    
+    "ContextTags": [
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Green Crack",
+    "JsonAssetsName": "Green Crack"
+},
+{
+    "Texture": "assets/objects/Hemp.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 70,
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Hemp",
+    "JsonAssetsName": "Hemp"
+},
+{
+    "Texture": "assets/objects/Hemp Butter.png",
+    "Category": "ArtisanGoods",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 120,
+    "ID": "Hemp Butter",
+    "JsonAssetsName": "Hemp Butter"
+},
+{
+    "Texture": "assets/objects/Hemp Cloth.png",
+    "Category": "ArtisanGoods",
+    "CategoryColorOverride":
+    {},
+    "SellPrice": 130,
+    "ID": "Hemp Cloth",
+    "JsonAssetsName": "Hemp Cloth"
+},
+{
+    "Texture": "assets/objects/Hindu Kush.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 152,
+        "G": 62,
+        "R": 119,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Hindu Kush",
+    "JsonAssetsName": "Hindu Kush"
+},
+{
+    "Texture": "assets/objects/Honey Stick.png",
+    "Category": "Cooking",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 11,
+    "EdibleBuffs":
+    {
+        "Speed": 1,
+        "Duration": 240
+    },
+    "SellPrice": 180,
+    "ID": "Honey Stick",
+    "JsonAssetsName": "Honey Stick"
+},
+{
+    "Texture": "assets/objects/Idukki Gold.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 70,
+        "G": 185,
+        "R": 121,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Idukki Gold",
+    "JsonAssetsName": "Idukki Gold"
+},
+{
+    "Texture": "assets/objects/Joint.png",
+    "Category": "Crafting",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 1,
+    "EdibleBuffs":
+    {
+        "Farming": 1,
+        "Luck": 2,
+        "Speed": -1,
+        "Duration": 450
+    },
+    "SellPrice": 125,
+    "ID": "Joint",
+    "JsonAssetsName": "Joint"
+},
+{
+    "Texture": "assets/objects/Lamb's Breath.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 37,
+        "G": 103,
+        "R": 238,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Lamb's Breath",
+    "JsonAssetsName": "Lamb's Breath"
+},
+{
+    "Texture": "assets/objects/Malawi Gold.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 37,
+        "G": 103,
+        "R": 238,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 4500,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Malawi Gold",
+    "JsonAssetsName": "Malawi Gold"
+},
+{
+    "Texture": "assets/objects/Mendocino Purps.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 70,
+        "G": 185,
+        "R": 121,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Mendocino Purps",
+    "JsonAssetsName": "Mendocino Purps"
+},
+{
+    "Texture": "assets/objects/Nevilles Haze.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 37,
+        "G": 103,
+        "R": 238,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Nevilles Haze",
+    "JsonAssetsName": "Nevilles Haze"
+},
+{
+    "Texture": "assets/objects/Northern Lights.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 152,
+        "G": 62,
+        "R": 119,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 20,
+    "ContextTags": [
+        "season_summer",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Northern Lights",
+    "JsonAssetsName": "Northern Lights"
+},
+{
+    "Texture": "assets/objects/OG Kush.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 70,
+        "G": 185,
+        "R": 121,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 30,
+    
+    "ContextTags": [
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "OG Kush",
+    "JsonAssetsName": "OG Kush"
+},
+{
+    "Texture": "assets/objects/Pot Brownie.png",
+    "Category": "Cooking",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 25,
+    "EdibleBuffs":
+    {
+        "Luck": 2,
+        "Duration": 600
+    },
+    "SellPrice": 250,
+    
+    "ID": "Pot Brownie",
+    "JsonAssetsName": "Pot Brownie"
+},
+{
+    "Texture": "assets/objects/Puna Budder.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 70,
+        "G": 185,
+        "R": 121,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Puna Budder",
+    "JsonAssetsName": "Puna Budder"
+},
+{
+    "Texture": "assets/objects/Purple Afghani.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 152,
+        "G": 62,
+        "R": 119,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Purple Afghani",
+    "JsonAssetsName": "Purple Afghani"
+},
+{
+    "Texture": "assets/objects/Shatter.png",
+    "Category": "ArtisanGoods",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "EdibleBuffs":
+    {
+        "Luck": 5,
+        "Speed": -2,
+        "Duration": 450
+    },
+    "SellPrice": 100,
+    "ID": "Shatter",
+    "JsonAssetsName": "Shatter"
+},
+{
+    "Texture": "assets/objects/Snuff.png",
+    "Category": "ArtisanGoods",
+    "CategoryColorOverride":
+    {},
+    "SellPrice": 25,
+    "ID": "Snuff",
+    "JsonAssetsName": "Snuff"
+},
+{
+    "Texture": "assets/objects/Sour Diesel.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 37,
+        "G": 103,
+        "R": 238,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 30,
+    "ContextTags": [
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Sour Diesel",
+    "JsonAssetsName": "Sour Diesel"
+},
+{
+    "Texture": "assets/objects/Strawberry Cough.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 37,
+        "G": 103,
+        "R": 238,
+        "A": 255
+    },
+    "Edibility": 10,
+    "SellPrice": 20,
+    
+    "ContextTags": [
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Strawberry Cough",
+    "JsonAssetsName": "Strawberry Cough"
+},
+{
+    "Texture": "assets/objects/Tahoe OG Kush.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 70,
+        "G": 185,
+        "R": 121,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Tahoe OG Kush",
+    "JsonAssetsName": "Tahoe OG Kush"
+},
+{
+    "Texture": "assets/objects/Tobacco.png",
+    "Category": "ArtisanGoods",
+    "CategoryColorOverride":
+    {},
+    "SellPrice": 35,
+    
+    "ContextTags": [
+        "season_spring",
+        "season_summer"
+    ],
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "Relationship:Sebastian": "Married"
+        },
+        "GiftTasteOverride[Sebastian].Amount": -40,
+    }],
+    "ID": "Tobacco",
+    "JsonAssetsName": "Tobacco"
+},
+{
+    "Texture": "assets/objects/Trainwreck.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 70,
+        "G": 185,
+        "R": 121,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Trainwreck",
+    "JsonAssetsName": "Trainwreck"
+},
+{
+    "Texture": "assets/objects/Wax.png",
+    "Category": "ArtisanGoods",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "EdibleBuffs":
+    {
+        "Luck": 5,
+        "Speed": -2,
+        "Duration": 450
+    },
+    "SellPrice": 100,
+    "ID": "Wax",
+    "JsonAssetsName": "Wax"
+},
+{
+    "Texture": "assets/objects/Weed-Infused Skooma.png",
+    "Category": "Crafting",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": 2,
+        "Duration": 120
+    },
+    "SellPrice": 500,
+    "ID": "Weed-Infused Skooma",
+    "JsonAssetsName": "Weed-Infused Skooma"
+},
+{
+    "Texture": "assets/objects/White Widow.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 70,
+        "G": 185,
+        "R": 121,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 50,
+    
+    "ContextTags": [
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "White Widow",
+    "JsonAssetsName": "White Widow"
+},
+{
+    "Texture": "assets/objects/Afghani Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Afghani Crop",
+    "Category": "Seeds",
+    "ID": "Afghani Starter"
+},
+{
+    "Texture": "assets/objects/Afghanica Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Afghanica Crop",
+    "Category": "Seeds",
+    "ID": "Afghanica Starter"
+},
+{
+    "Texture": "assets/objects/Alien Technology Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Alien Technology Crop",
+    "Category": "Seeds",
+    "ID": "Alien Technology Starter"
+},
+{
+    "Texture": "assets/objects/Blue Dream Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Blue Dream Crop",
+    "Category": "Seeds",
+    "ID": "Blue Dream Starter"
+},
+{
+    "Texture": "assets/objects/Bruce Banner Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Bruce Banner Crop",
+    "Category": "Seeds",
+    "ID": "Bruce Banner Starter"
+},
+{
+    "Texture": "assets/objects/Cannabis Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Cannabis Crop",
+    "Category": "Seeds",
+    "ID": "Cannabis Starter"
+},
+{
+    "Texture": "assets/objects/Chronic Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Chronic Crop",
+    "Category": "Seeds",
+    "ID": "Chronic Starter"
+},
+{
+    "Texture": "assets/objects/Colombian Gold Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Colombian Gold Crop",
+    "Category": "Seeds",
+    "ID": "Colombian Gold Starter"
+},
+{
+    "Texture": "assets/objects/Dr Grinspoon Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Dr Grinspoon Crop",
+    "Category": "Seeds",
+    "ID": "Dr Grinspoon Starter"
+},
+{
+    "Texture": "assets/objects/Girl Scout Cookies Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Girl Scout Cookies Crop",
+    "Category": "Seeds",
+    "ID": "Girl Scout Cookies Starter"
+},
+{
+    "Texture": "assets/objects/Green Crack Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Green Crack Crop",
+    "Category": "Seeds",
+    "ID": "Green Crack Starter"
+},
+{
+    "Texture": "assets/objects/Hemp Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Hemp Crop",
+    "Category": "Seeds",
+    "ID": "Hemp Starter"
+},
+{
+    "Texture": "assets/objects/Hindu Kush Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Hindu Kush Crop",
+    "Category": "Seeds",
+    "ID": "Hindu Kush Starter"
+},
+{
+    "Texture": "assets/objects/Idukki Gold Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Idukki Gold Crop",
+    "Category": "Seeds",
+    "ID": "Idukki Gold Starter"
+},
+{
+    "Texture": "assets/objects/Lamb's Breath Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Lamb's Breath Crop",
+    "Category": "Seeds",
+    "ID": "Lamb's Breath Starter"
+},
+{
+    "Texture": "assets/objects/Malawi Gold Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Malawi Gold Crop",
+    "Category": "Seeds",
+    "ID": "Malawi Gold Starter"
+},
+{
+    "Texture": "assets/objects/Mendocino Purps Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Mendocino Purps Crop",
+    "Category": "Seeds",
+    "ID": "Mendocino Purps Starter"
+},
+{
+    "Texture": "assets/objects/Nevilles Haze Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Nevilles Haze Crop",
+    "Category": "Seeds",
+    "ID": "Nevilles Haze Starter"
+},
+{
+    "Texture": "assets/objects/Northern Lights Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Northern Lights Crop",
+    "Category": "Seeds",
+    "ID": "Northern Lights Starter"
+},
+{
+    "Texture": "assets/objects/OG Kush Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/OG Kush Crop",
+    "Category": "Seeds",
+    "ID": "OG Kush Starter"
+},
+{
+    "Texture": "assets/objects/Puna Budder Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Puna Budder Crop",
+    "Category": "Seeds",
+    "ID": "Puna Budder Starter"
+},
+{
+    "Texture": "assets/objects/Purple Afghani Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Purple Afghani Crop",
+    "Category": "Seeds",
+    "ID": "Purple Afghani Starter"
+},
+{
+    "Texture": "assets/objects/Sour Diesel Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Sour Diesel Crop",
+    "Category": "Seeds",
+    "ID": "Sour Diesel Starter"
+},
+{
+    "Texture": "assets/objects/Strawberry Cough Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Strawberry Cough Crop",
+    "Category": "Seeds",
+    "ID": "Strawberry Cough Starter"
+},
+{
+    "Texture": "assets/objects/Tahoe OG Kush Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Tahoe OG Kush Crop",
+    "Category": "Seeds",
+    "ID": "Tahoe OG Kush Starter"
+},
+{
+    "Texture": "assets/objects/Tobacco Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Tobacco Crop",
+    "Category": "Seeds",
+    "ID": "Tobacco Seeds"
+},
+{
+    "Texture": "assets/objects/Trainwreck Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/Trainwreck Crop",
+    "Category": "Seeds",
+    "ID": "Trainwreck Starter"
+},
+{
+    "Texture": "assets/objects/White Widow Crop_seeds.png",
+    "Plants": "PPJA.cannabiskit.DGA/White Widow Crop",
+    "Category": "Seeds",
+    "ID": "White Widow Starter"
+}]

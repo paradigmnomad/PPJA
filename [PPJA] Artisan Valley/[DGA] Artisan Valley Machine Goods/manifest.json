@@ -1,0 +1,38 @@
+{
+    "Name": "[DGA] Artisan Valley Machine Goods (DGA version)",
+    "Description": "Adds new items to the game via machines. Requires PFM and JA to work properly.",
+    "Author": "Project Populate Json Assets",
+    "Version": "1.0.0",
+    "MinimumApiVersion":
+    {
+        "MajorVersion": 3,
+        "MinorVersion": 8
+    },
+    "UniqueID": "ppja.artisanvalleymachinegoods.DGA",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.DynamicGameAssets"
+    },
+    "Dependencies": [
+    {
+        "UniqueID": "ppja.fruitsandveggies.DGA",
+        "IsRequired": true
+    },
+    {
+        "UniqueID": "ppja.moretrees.DGA",
+        "IsRequired": true
+    },
+    {
+        "UniqueID": "mizu.flowers.DGA",
+        "IsRequired": true
+    },
+    {
+        "UniqueID": "ppja.morerecipes.DGA",
+        "IsRequired": true
+    }],
+    "UpdateKeys": [
+        "Nexus:9443@ArtisanValley"
+    ],
+    "DGA.FormatVersion": 1,
+    "DGA.ConditionsFormatVersion": "1.23.0"
+}

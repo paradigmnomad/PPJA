@@ -1,0 +1,1204 @@
+[
+{
+    "Texture": "assets/objects/Alexander Cocktail.png",
+    "Category": "Cooking",
+    "Edibility": 129,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1960,
+    "UniversalGiftTaste": 20,
+    "ID": "Alexander Cocktail",
+    "JsonAssetsName": "Alexander Cocktail"
+},
+{
+    "Texture": "assets/objects/Americano.png",
+    "Category": "Cooking",
+    "Edibility": 49,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 704,
+    "UniversalGiftTaste": 20,
+    "ID": "Americano",
+    "JsonAssetsName": "Americano"
+},
+{
+    "Texture": "assets/objects/Angel Face.png",
+    "Category": "Cooking",
+    "Edibility": 42,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 600,
+    "UniversalGiftTaste": 20,
+    "ID": "Angel Face",
+    "JsonAssetsName": "Angel Face"
+},
+{
+    "Texture": "assets/objects/Atomic Cocktail.png",
+    "Category": "Cooking",
+    "Edibility": 82,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 900,
+    "UniversalGiftTaste": 20,
+    "ID": "Atomic Cocktail",
+    "JsonAssetsName": "Atomic Cocktail"
+},
+{
+    "Texture": "assets/objects/Aviation.png",
+    "Category": "Cooking",
+    "Edibility": 75,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 690,
+    "UniversalGiftTaste": 20,
+    "ID": "Aviation",
+    "JsonAssetsName": "Aviation"
+},
+{
+    "Texture": "assets/objects/Barracuda Cocktail.png",
+    "Category": "Cooking",
+    "Edibility": 62,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1070,
+    "UniversalGiftTaste": 20,
+    "ID": "Barracuda Cocktail",
+    "JsonAssetsName": "Barracuda Cocktail"
+},
+{
+    "Texture": "assets/objects/Basil Cranberry Julep.png",
+    "Category": "Cooking",
+    "Edibility": 72,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 775,
+    "UniversalGiftTaste": 20,
+    "ID": "Basil Cranberry Julep",
+    "JsonAssetsName": "Basil Cranberry Julep"
+},
+{
+    "Texture": "assets/objects/Bay Breeze.png",
+    "Category": "Cooking",
+    "Edibility": 68,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 900,
+    "UniversalGiftTaste": 20,
+    "ID": "Bay Breeze",
+    "JsonAssetsName": "Bay Breeze"
+},
+{
+    "Texture": "assets/objects/Bellini.png",
+    "Category": "Cooking",
+    "Edibility": 44,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 590,
+    "UniversalGiftTaste": 20,
+    "ID": "Bellini",
+    "JsonAssetsName": "Bellini"
+},
+{
+    "Texture": "assets/objects/Black Junimo.png",
+    "Category": "Cooking",
+    "Edibility": 42,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 930
+    },
+    "SellPrice": 930,
+    "UniversalGiftTaste": 20,
+    "ID": "Black Junimo",
+    "JsonAssetsName": "Black Junimo"
+},
+{
+    "Texture": "assets/objects/Bloody Mary.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 600,
+    "UniversalGiftTaste": 20,
+    "ID": "Bloody Mary",
+    "JsonAssetsName": "Bloody Mary"
+},
+{
+    "Texture": "assets/objects/Brandy Alexander.png",
+    "Category": "Cooking",
+    "Edibility": 75,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 500,
+    "UniversalGiftTaste": 20,
+    "ID": "Brandy Alexander",
+    "JsonAssetsName": "Brandy Alexander"
+},
+{
+    "Texture": "assets/objects/Chocolate Liqueur.png",
+    "Category": "Cooking",
+    "Edibility": 87,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1300,
+    "UniversalGiftTaste": 20,
+    "ID": "Chocolate Liqueur",
+    "JsonAssetsName": "Chocolate Liqueur"
+},
+{
+    "Texture": "assets/objects/Clover Club.png",
+    "Category": "Cooking",
+    "Edibility": 66,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 680,
+    "UniversalGiftTaste": 20,
+    "ID": "Clover Club",
+    "JsonAssetsName": "Clover Club"
+},
+{
+    "Texture": "assets/objects/Club Soda.png",
+    "Category": "Cooking",
+    "EdibleIsDrink": true,
+    "SellPrice": 35,
+    "UniversalGiftTaste": 20,
+    "ID": "Club Soda",
+    "JsonAssetsName": "Club Soda"
+},
+{
+    "Texture": "assets/objects/Coffee Liqueur.png",
+    "Category": "Cooking",
+    "Edibility": 21,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Duration": 100
+    },
+    "SellPrice": 480,
+    "UniversalGiftTaste": 20,
+    "ID": "Coffee Liqueur",
+    "JsonAssetsName": "Coffee Liqueur"
+},
+{
+    "Texture": "assets/objects/Cosmo.png",
+    "Category": "Cooking",
+    "Edibility": 70,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 730,
+    "UniversalGiftTaste": 20,
+    "ID": "Cosmo",
+    "JsonAssetsName": "Cosmo"
+},
+{
+    "Texture": "assets/objects/Cuba Libre.png",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 575,
+    "UniversalGiftTaste": 20,
+    "ID": "Cuba Libre",
+    "JsonAssetsName": "Cuba Libre"
+},
+{
+    "Texture": "assets/objects/Daiquiri.png",
+    "Category": "Cooking",
+    "Edibility": 53,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 630,
+    "UniversalGiftTaste": 20,
+    "ID": "Daiquiri",
+    "JsonAssetsName": "Daiquiri"
+},
+{
+    "Texture": "assets/objects/Dark and Stormy.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 780,
+    "UniversalGiftTaste": 20,
+    "ID": "Dark and Stormy",
+    "JsonAssetsName": "Dark and Stormy"
+},
+{
+    "Texture": "assets/objects/Death in the Afternoon.png",
+    "Category": "Cooking",
+    "Edibility": 42,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 750,
+    "UniversalGiftTaste": 20,
+    "ID": "Death in the Afternoon",
+    "JsonAssetsName": "Death in the Afternoon"
+},
+{
+    "Texture": "assets/objects/Derby.png",
+    "Category": "Cooking",
+    "Edibility": 52,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 800,
+    "UniversalGiftTaste": 20,
+    "ID": "Derby",
+    "JsonAssetsName": "Derby"
+},
+{
+    "Texture": "assets/objects/Espresso Martini.png",
+    "Category": "Cooking",
+    "Edibility": 21,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 650,
+    "UniversalGiftTaste": 20,
+    "ID": "Espresso Martini",
+    "JsonAssetsName": "Espresso Martini"
+},
+{
+    "Texture": "assets/objects/Frangelico Sour.png",
+    "Category": "Cooking",
+    "Edibility": 68,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1200,
+    "UniversalGiftTaste": 20,
+    "ID": "Frangelico Sour",
+    "JsonAssetsName": "Frangelico Sour"
+},
+{
+    "Texture": "assets/objects/French 75.png",
+    "Category": "Cooking",
+    "Edibility": 62,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -2,
+        "Attack": 1,
+        "Duration": 200
+    },
+    "SellPrice": 900,
+    "UniversalGiftTaste": 20,
+    "ID": "French 75",
+    "JsonAssetsName": "French 75"
+},
+{
+    "Texture": "assets/objects/French Martini.png",
+    "Category": "Cooking",
+    "Edibility": 66,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 800,
+    "UniversalGiftTaste": 20,
+    "ID": "French Martini",
+    "JsonAssetsName": "French Martini"
+},
+{
+    "Texture": "assets/objects/Gin Fizz.png",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 650,
+    "UniversalGiftTaste": 20,
+    "ID": "Gin Fizz",
+    "JsonAssetsName": "Gin Fizz"
+},
+{
+    "Texture": "assets/objects/Gin n Tonic.png",
+    "Category": "Cooking",
+    "Edibility": 25,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 350,
+    "UniversalGiftTaste": 20,
+    "ID": "Gin n Tonic",
+    "JsonAssetsName": "Gin n Tonic"
+},
+{
+    "Texture": "assets/objects/Green Junimo.png",
+    "Category": "Cooking",
+    "Edibility": 58,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1040,
+    "UniversalGiftTaste": 20,
+    "ID": "Green Junimo",
+    "JsonAssetsName": "Green Junimo"
+},
+{
+    "Texture": "assets/objects/Hard Iced Tea.png",
+    "Category": "Cooking",
+    "Edibility": 36,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 590,
+    "UniversalGiftTaste": 20,
+    "ID": "Hard Iced Tea",
+    "JsonAssetsName": "Hard Iced Tea"
+},
+{
+    "Texture": "assets/objects/Harlem Mugger Cocktail.png",
+    "Category": "Cooking",
+    "Edibility": 85,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1400,
+    "UniversalGiftTaste": 20,
+    "ID": "Harlem Mugger Cocktail",
+    "JsonAssetsName": "Harlem Mugger Cocktail"
+},
+{
+    "Texture": "assets/objects/Hemingway Special.png",
+    "Category": "Cooking",
+    "Edibility": 57,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 720,
+    "UniversalGiftTaste": 20,
+    "ID": "Hemingway Special",
+    "JsonAssetsName": "Hemingway Special"
+},
+{
+    "Texture": "assets/objects/Irish Coffee.png",
+    "Category": "Cooking",
+    "Edibility": 59,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Duration": 100
+    },
+    "SellPrice": 1100,
+    "UniversalGiftTaste": 20,
+    "ID": "Irish Coffee",
+    "JsonAssetsName": "Irish Coffee"
+},
+{
+    "Texture": "assets/objects/Lemon-Lime Soda.png",
+    "Category": "Cooking",
+    "Edibility": 21,
+    "EdibleIsDrink": true,
+    "SellPrice": 400,
+    "UniversalGiftTaste": 20,
+    "ID": "Lemon-Lime Soda",
+    "JsonAssetsName": "Lemon-Lime Soda"
+},
+{
+    "Texture": "assets/objects/Lemonado Cocktail.png",
+    "Category": "Cooking",
+    "Edibility": 70,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1100,
+    "UniversalGiftTaste": 20,
+    "ID": "Lemonado Cocktail",
+    "JsonAssetsName": "Lemonado Cocktail"
+},
+{
+    "Texture": "assets/objects/Long Island Iced Tea.png",
+    "Category": "Cooking",
+    "Edibility": 64,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -3,
+        "Duration": 100
+    },
+    "SellPrice": 1575,
+    "UniversalGiftTaste": 20,
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "HasSeenEvent": "503180"
+        },
+        "GiftTasteOverride[Pam].Amount": -20,
+    },
+    {
+        "Conditions":
+        {
+            "HasSeenEvent": "611944"
+        },
+        "GiftTasteOverride[Shane].Amount": -20
+    }],
+    "ID": "Long Island Iced Tea",
+    "JsonAssetsName": "Long Island Iced Tea"
+},
+{
+    "Texture": "assets/objects/Mai Tai.png",
+    "Category": "Cooking",
+    "Edibility": 51,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 820,
+    "UniversalGiftTaste": 20,
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "HasSeenEvent": "503180"
+        },
+        "GiftTasteOverride[Pam].Amount": -20,
+    },
+    {
+        "Conditions":
+        {
+            "HasSeenEvent": "611944"
+        },
+        "GiftTasteOverride[Shane].Amount": -20
+    }],
+    "ID": "Mai Tai",
+    "JsonAssetsName": "Mai Tai"
+},
+{
+    "Texture": "assets/objects/Margarita.png",
+    "Category": "Cooking",
+    "Edibility": 33,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 600,
+    "UniversalGiftTaste": 20,
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "HasSeenEvent": "503180"
+        },
+        "GiftTasteOverride[Pam].Amount": -20,
+    },
+    {
+        "Conditions":
+        {
+            "HasSeenEvent": "611944"
+        },
+        "GiftTasteOverride[Shane].Amount": -20
+    }],
+    "ID": "Margarita",
+    "JsonAssetsName": "Margarita"
+},
+{
+    "Texture": "assets/objects/Martini.png",
+    "Category": "Cooking",
+    "Edibility": 37,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 600,
+    "UniversalGiftTaste": 20,
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "HasSeenEvent": "503180"
+        },
+        "GiftTasteOverride[Pam].Amount": -20,
+    },
+    {
+        "Conditions":
+        {
+            "HasSeenEvent": "611944"
+        },
+        "GiftTasteOverride[Shane].Amount": -20
+    }],
+    "ID": "Martini",
+    "JsonAssetsName": "Martini"
+},
+{
+    "Texture": "assets/objects/Mimosa.png",
+    "Category": "Cooking",
+    "Edibility": 44,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -2,
+        "Duration": 100
+    },
+    "SellPrice": 550,
+    "UniversalGiftTaste": 20,
+    "DynamicFields": [
+    {
+        "Conditions":
+        {
+            "HasSeenEvent": "503180"
+        },
+        "GiftTasteOverride[Pam].Amount": -20,
+    },
+    {
+        "Conditions":
+        {
+            "HasSeenEvent": "611944"
+        },
+        "GiftTasteOverride[Shane].Amount": -20
+    }],
+    "ID": "Mimosa",
+    "JsonAssetsName": "Mimosa"
+},
+{
+    "Texture": "assets/objects/Mineral Water.png",
+    "Category": "Cooking",
+    "EdibleIsDrink": true,
+    "SellPrice": 35,
+    "UniversalGiftTaste": -20,
+    "ID": "Mineral Water",
+    "JsonAssetsName": "Mineral Water"
+},
+{
+    "Texture": "assets/objects/Mint Julep.png",
+    "Category": "Cooking",
+    "Edibility": 34,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 650,
+    "UniversalGiftTaste": 20,
+    "ID": "Mint Julep",
+    "JsonAssetsName": "Mint Julep"
+},
+{
+    "Texture": "assets/objects/Mojito.png",
+    "Category": "Cooking",
+    "Edibility": 44,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Luck": 2,
+        "Speed": -1,
+        "Duration": 300
+    },
+    "SellPrice": 650,
+    "UniversalGiftTaste": 20,
+    "ID": "Mojito",
+    "JsonAssetsName": "Mojito"
+},
+{
+    "Texture": "assets/objects/Monkey Gland.png",
+    "Category": "Cooking",
+    "Edibility": 57,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 950,
+    "UniversalGiftTaste": 20,
+    "ID": "Monkey Gland",
+    "JsonAssetsName": "Monkey Gland"
+},
+{
+    "Texture": "assets/objects/Moonlight Jellies.png",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 470,
+    "UniversalGiftTaste": 20,
+    "ID": "Moonlight Jellies",
+    "JsonAssetsName": "Moonlight Jellies"
+},
+{
+    "Texture": "assets/objects/Moonshine Cherries.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "EdibleBuffs":
+    {
+        "Speed": -2,
+        "Duration": 150
+    },
+    "SellPrice": 700,
+    "UniversalGiftTaste": 20,
+    "ID": "Moonshine Cherries",
+    "JsonAssetsName": "Moonshine Cherries"
+},
+{
+    "Texture": "assets/objects/Moscow Mule.png",
+    "Category": "Cooking",
+    "Edibility": 74,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 835,
+    "UniversalGiftTaste": 20,
+    "ID": "Moscow Mule",
+    "JsonAssetsName": "Moscow Mule"
+},
+{
+    "Texture": "assets/objects/Mudslide.png",
+    "Category": "Cooking",
+    "Edibility": 81,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -2,
+        "Duration": 100
+    },
+    "SellPrice": 1465,
+    "UniversalGiftTaste": 20,
+    "ID": "Mudslide",
+    "JsonAssetsName": "Mudslide"
+},
+{
+    "Texture": "assets/objects/Negroni.png",
+    "Category": "Cooking",
+    "Edibility": 73,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1200,
+    "UniversalGiftTaste": 20,
+    "ID": "Negroni",
+    "JsonAssetsName": "Negroni"
+},
+{
+    "Texture": "assets/objects/Night on the Beach.png",
+    "Category": "Cooking",
+    "Edibility": 77,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Luck": 2,
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 880,
+    "UniversalGiftTaste": 20,
+    "ID": "Night on the Beach",
+    "JsonAssetsName": "Night on the Beach"
+},
+{
+    "Texture": "assets/objects/Paradise.png",
+    "Category": "Cooking",
+    "Edibility": 59,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 700,
+    "UniversalGiftTaste": 20,
+    "ID": "Paradise",
+    "JsonAssetsName": "Paradise"
+},
+{
+    "Texture": "assets/objects/Planters Punch.png",
+    "Category": "Cooking",
+    "Edibility": 74,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 3,
+        "Speed": -1,
+        "Duration": 500
+    },
+    "SellPrice": 950,
+    "UniversalGiftTaste": 20,
+    "ID": "Planters Punch",
+    "JsonAssetsName": "Planters Punch"
+},
+{
+    "Texture": "assets/objects/Poinsettia Cocktail.png",
+    "Category": "Cooking",
+    "Edibility": 70,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1100,
+    "UniversalGiftTaste": 20,
+    "ID": "Poinsettia Cocktail",
+    "JsonAssetsName": "Poinsettia Cocktail"
+},
+{
+    "Texture": "assets/objects/Porto Flip.png",
+    "Category": "Cooking",
+    "Edibility": 43,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 680,
+    "UniversalGiftTaste": 20,
+    "ID": "Porto Flip",
+    "JsonAssetsName": "Porto Flip"
+},
+{
+    "Texture": "assets/objects/Queens Park Swizzle.png",
+    "Category": "Cooking",
+    "Edibility": 33,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1000,
+    "UniversalGiftTaste": 20,
+    "ID": "Queens Park Swizzle",
+    "JsonAssetsName": "Queens Park Swizzle"
+},
+{
+    "Texture": "assets/objects/Ramos Gin Fizz.png",
+    "Category": "Cooking",
+    "Edibility": 68,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 950,
+    "UniversalGiftTaste": 20,
+    "ID": "Ramos Gin Fizz",
+    "JsonAssetsName": "Ramos Gin Fizz"
+},
+{
+    "Texture": "assets/objects/Rum and Cola.png",
+    "Category": "Cooking",
+    "Edibility": 15,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 475,
+    "UniversalGiftTaste": 20,
+    "ID": "Rum and Cola",
+    "JsonAssetsName": "Rum and Cola"
+},
+{
+    "Texture": "assets/objects/Rum and Cola Float.png",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 595,
+    "UniversalGiftTaste": 20,
+    "ID": "Rum and Cola Float",
+    "JsonAssetsName": "Rum and Cola Float"
+},
+{
+    "Texture": "assets/objects/Russian Spring Punch.png",
+    "Category": "Cooking",
+    "Edibility": 63,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 820,
+    "UniversalGiftTaste": 20,
+    "ID": "Russian Spring Punch",
+    "JsonAssetsName": "Russian Spring Punch"
+},
+{
+    "Texture": "assets/objects/Sandy's Calico Colada.png",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 470,
+    "UniversalGiftTaste": 20,
+    "ID": "Sandy's Calico Colada",
+    "JsonAssetsName": "Sandy's Calico Colada"
+},
+{
+    "Texture": "assets/objects/Screwdriver.png",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 1,
+        "Speed": -1,
+        "Duration": 300
+    },
+    "SellPrice": 550,
+    "UniversalGiftTaste": 20,
+    "ID": "Screwdriver",
+    "JsonAssetsName": "Screwdriver"
+},
+{
+    "Texture": "assets/objects/Sea Breeze.png",
+    "Category": "Cooking",
+    "Edibility": 68,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1200,
+    "UniversalGiftTaste": 20,
+    "ID": "Sea Breeze",
+    "JsonAssetsName": "Sea Breeze"
+},
+{
+    "Texture": "assets/objects/Seltzer.png",
+    "Category": "Cooking",
+    "EdibleIsDrink": true,
+    "SellPrice": 40,
+    "UniversalGiftTaste": -20,
+    "ID": "Seltzer",
+    "JsonAssetsName": "Seltzer"
+},
+{
+    "Texture": "assets/objects/Snakebite.png",
+    "Category": "Cooking",
+    "Edibility": 37,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 750,
+    "UniversalGiftTaste": 20,
+    "ID": "Snakebite",
+    "JsonAssetsName": "Snakebite"
+},
+{
+    "Texture": "assets/objects/Spritz Veneziano.png",
+    "Category": "Cooking",
+    "Edibility": 73,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1250,
+    "UniversalGiftTaste": 20,
+    "ID": "Spritz Veneziano",
+    "JsonAssetsName": "Spritz Veneziano"
+},
+{
+    "Texture": "assets/objects/Stardew Sangria.png",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 470,
+    "UniversalGiftTaste": 20,
+    "ID": "Stardew Sangria",
+    "JsonAssetsName": "Stardew Sangria"
+},
+{
+    "Texture": "assets/objects/Sweet Pink Cocktail.png",
+    "Category": "Cooking",
+    "Edibility": 72,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1200,
+    "UniversalGiftTaste": 20,
+    "ID": "Sweet Pink Cocktail",
+    "JsonAssetsName": "Sweet Pink Cocktail"
+},
+{
+    "Texture": "assets/objects/Tequila Sunrise.png",
+    "Category": "Cooking",
+    "Edibility": 52,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 730,
+    "UniversalGiftTaste": 20,
+    "ID": "Tequila Sunrise",
+    "JsonAssetsName": "Tequila Sunrise"
+},
+{
+    "Texture": "assets/objects/The Last Word.png",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 705,
+    "UniversalGiftTaste": 20,
+    "ID": "The Last Word",
+    "JsonAssetsName": "The Last Word"
+},
+{
+    "Texture": "assets/objects/The Mayor's Shorts.png",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 470,
+    "UniversalGiftTaste": 20,
+    "ID": "The Mayor's Shorts",
+    "JsonAssetsName": "The Mayor's Shorts"
+},
+{
+    "Texture": "assets/objects/Tonic Water.png",
+    "Category": "Cooking",
+    "EdibleIsDrink": true,
+    "SellPrice": 45,
+    "UniversalGiftTaste": -20,
+    "ID": "Tonic Water",
+    "JsonAssetsName": "Tonic Water"
+},
+{
+    "Texture": "assets/objects/Tres Coops.png",
+    "Category": "Cooking",
+    "Edibility": 47,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 980,
+    "UniversalGiftTaste": 20,
+    "ID": "Tres Coops",
+    "JsonAssetsName": "Tres Coops"
+},
+{
+    "Texture": "assets/objects/Vampiro.png",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 470,
+    "UniversalGiftTaste": 20,
+    "ID": "Vampiro",
+    "JsonAssetsName": "Vampiro"
+},
+{
+    "Texture": "assets/objects/Void Essence Drink.png",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 470,
+    "UniversalGiftTaste": 20,
+    "ID": "Void Essence Drink",
+    "JsonAssetsName": "Void Essence Drink"
+},
+{
+    "Texture": "assets/objects/Whiskey Sour.png",
+    "Category": "Cooking",
+    "Edibility": 53,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 680,
+    "UniversalGiftTaste": 20,
+    "ID": "Whiskey Sour",
+    "JsonAssetsName": "Whiskey Sour"
+},
+{
+    "Texture": "assets/objects/White Junimo.png",
+    "Category": "Cooking",
+    "Edibility": 59,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 1040,
+    "UniversalGiftTaste": 20,
+    "ID": "White Junimo",
+    "JsonAssetsName": "White Junimo"
+},
+{
+    "Texture": "assets/objects/White Lady.png",
+    "Category": "Cooking",
+    "Edibility": 51,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 650,
+    "UniversalGiftTaste": 20,
+    "ID": "White Lady",
+    "JsonAssetsName": "White Lady"
+}]

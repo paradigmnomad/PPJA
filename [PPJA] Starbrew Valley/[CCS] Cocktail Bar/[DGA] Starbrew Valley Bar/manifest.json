@@ -1,0 +1,21 @@
+{
+  "Name": "[DGA] Cocktail Bar (DGA version)",
+  "Description": "For use with CCS. Includes the cocktail bar asset.",
+  "Author": "Project Populate Json Assets",
+  "Version": "1.0.0",
+  "MinimumApiVersion": {
+    "MajorVersion": 3,
+    "MinorVersion": 8
+  },
+  "UniqueID": "ppja.cocktailbar.DGA",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.DynamicGameAssets"
+  },
+  "Dependencies": [
+    {
+        "UniqueID": "Cherry.CustomCraftingStations",
+        "IsRequired": true,
+    }, ],
+  "DGA.FormatVersion": 1,
+  "DGA.ConditionsFormatVersion": "1.23.0"
+}

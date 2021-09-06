@@ -1,0 +1,305 @@
+[
+{
+    "Texture": "assets/objects/Bee Balm.png",
+    "TextureColor": "assets/objects/Bee Balm_color.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 115,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_fall",
+        "color_purple",
+        "flower_item"
+    ],
+    "ID": "Bee Balm",
+    "JsonAssetsName": "Bee Balm"
+},
+{
+    "Texture": "assets/objects/Blue Mist.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 250,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_summer",
+        "color_blue",
+        "flower_item"
+    ],
+    "ID": "Blue Mist",
+    "JsonAssetsName": "Blue Mist"
+},
+{
+    "Texture": "assets/objects/Chamomile.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {
+        "B": 80,
+        "G": 153,
+        "R": 93,
+        "A": 255
+    },
+    "Edibility": 18,
+    "SellPrice": 45,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_spring",
+        "color_whitre",
+        "herb_item"
+    ],
+    "ID": "Chamomile",
+    "JsonAssetsName": "Chamomile"
+},
+{
+    "Texture": "assets/objects/Clary Sage.png",
+    "TextureColor": "assets/objects/Clary Sage_color.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 130,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_summer",
+        "color_purple",
+        "flower_item"
+    ],
+    "ID": "Clary Sage",
+    "JsonAssetsName": "Clary Sage"
+},
+{
+    "Texture": "assets/objects/Fairy Duster.png",
+    "TextureColor": "assets/objects/Fairy Duster_color.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 50,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_fall",
+        "color_pink",
+        "flower_item"
+    ],
+    "ID": "Fairy Duster",
+    "JsonAssetsName": "Fairy Duster"
+},
+{
+    "Texture": "assets/objects/Fragrant Lilac.png",
+    "TextureColor": "assets/objects/Fragrant Lilac_color.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 40,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_summer",
+        "color_purple",
+        "flower_item"
+    ],
+    "ID": "Fragrant Lilac",
+    "JsonAssetsName": "Fragrant Lilac"
+},
+{
+    "Texture": "assets/objects/Herbal Lavender.png",
+    "TextureColor": "assets/objects/Herbal Lavender_color.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 30,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_summer",
+        "color_purple",
+        "flower_item"
+    ],
+    "ID": "Herbal Lavender",
+    "JsonAssetsName": "Herbal Lavender"
+},
+{
+    "Texture": "assets/objects/Honeysuckle.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 65,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_summer",
+        "season_spring",
+        "color_yellow",
+        "flower_item",
+        "trellis_item"
+    ],
+    "ID": "Honeysuckle",
+    "JsonAssetsName": "Honeysuckle"
+},
+{
+    "Texture": "assets/objects/Passion Flower.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 160,
+    "UniversalGiftTaste": 45,
+    "ID": "Passion Flower",
+    "JsonAssetsName": "Passion Flower"
+},
+{
+    "Texture": "assets/objects/Pink Cat.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 35,
+    "UniversalGiftTaste": 45,
+    "ID": "Pink Cat",
+    "JsonAssetsName": "Pink Cat"
+},
+{
+    "Texture": "assets/objects/Pitcher Plant.png",
+    "Category": "Flower",
+    "Edibility": 0,
+    "SellPrice": 350,
+    "UniversalGiftTaste": -40,
+    "ID": "Pitcher Plant",
+    "JsonAssetsName": "Pitcher Plant"
+},
+{
+    "Texture": "assets/objects/Purple Coneflower.png",
+    "TextureColor": "assets/objects/Purple Coneflower_color.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 75,
+    "UniversalGiftTaste": 45,
+    "ID": "Purple Coneflower",
+    "JsonAssetsName": "Purple Coneflower"
+},
+{
+    "Texture": "assets/objects/Rafflesia.png",
+    "Category": "Flower",
+    "Edibility": 0,
+    "SellPrice": 13000,
+    "UniversalGiftTaste": -40,
+    "ID": "Rafflesia",
+    "JsonAssetsName": "Rafflesia"
+},
+{
+    "Texture": "assets/objects/Rose.png",
+    "TextureColor": "assets/objects/Rose_color.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 55,
+    "UniversalGiftTaste": 45,
+    "ID": "Rose",
+    "JsonAssetsName": "Rose, Spring Rose, Summer Rose, Fall Rose"
+},
+{
+    "Texture": "assets/objects/Shaded Violet.png",
+    "TextureColor": "assets/objects/Shaded Violet_color.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 45,
+    "UniversalGiftTaste": 45,
+    "ID": "Shaded Violet",
+    "JsonAssetsName": "Shaded Violet"
+},
+{
+    "Texture": "assets/objects/Sweet Jasmine.png",
+    "TextureColor": "assets/objects/Sweet Jasmine_color.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 95,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_fall",
+        "color_sand",
+        "fruit_tree_item",
+        "nut_item"
+    ],
+    "ID": "Sweet Jasmine",
+    "JsonAssetsName": "Sweet Jasmine"
+},
+{
+    "Texture": "assets/objects/Bee Balm Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Bee Balm Crop",
+    "Category": "Seeds",
+    "ID": "Bee Balm Seeds"
+},
+{
+    "Texture": "assets/objects/Blue_Mist Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Blue_Mist Crop",
+    "Category": "Seeds",
+    "ID": "Blue Mist Seeds"
+},
+{
+    "Texture": "assets/objects/Chamomile Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Chamomile Crop",
+    "Category": "Seeds",
+    "ID": "Chamomile Seeds"
+},
+{
+    "Texture": "assets/objects/Clary Sage Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Clary Sage Crop",
+    "Category": "Seeds",
+    "ID": "Clary Sage Seeds"
+},
+{
+    "Texture": "assets/objects/Fairy_Duster Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Fairy_Duster Crop",
+    "Category": "Seeds",
+    "ID": "Fairy Duster Pod"
+},
+{
+    "Texture": "assets/objects/Fragrant Lilac Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Fragrant Lilac Crop",
+    "Category": "Seeds",
+    "ID": "Fragrant Lilac Pod"
+},
+{
+    "Texture": "assets/objects/Herbal Lavender Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Herbal Lavender Crop",
+    "Category": "Seeds",
+    "ID": "Herbal Lavender Seeds"
+},
+{
+    "Texture": "assets/objects/Honeysuckle Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Honeysuckle Crop",
+    "Category": "Seeds",
+    "ID": "Honeysuckle Starter"
+},
+{
+    "Texture": "assets/objects/Passion Flower Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Passion Flower Crop",
+    "Category": "Seeds",
+    "ID": "Passion Flower Seeds"
+},
+{
+    "Texture": "assets/objects/Pink Cat Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Pink Cat Crop",
+    "Category": "Seeds",
+    "ID": "Pink Cat Seeds"
+},
+{
+    "Texture": "assets/objects/Pitcher Plant Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Pitcher Plant Crop",
+    "Category": "Seeds",
+    "ID": "Pitcher Plant Starter"
+},
+{
+    "Texture": "assets/objects/Purple Coneflower Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Purple Coneflower Crop",
+    "Category": "Seeds",
+    "ID": "Purple Coneflower Seeds"
+},
+{
+    "Texture": "assets/objects/Rafflesia Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Rafflesia Crop",
+    "Category": "Seeds",
+    "ID": "Rafflesia Seeds"
+},
+{
+    "Texture": "assets/objects/Rose Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Rose Crop",
+    "Category": "Seeds",
+    "ID": "Rose Starter"
+},
+{
+    "Texture": "assets/objects/Shaded Violet Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Shaded Violet Crop",
+    "Category": "Seeds",
+    "ID": "Shaded Violet Seeds"
+},
+{
+    "Texture": "assets/objects/Sweet Jasmine Crop_seeds.png",
+    "Plants": "mizu.flowers.DGA/Sweet Jasmine Crop",
+    "Category": "Seeds",
+    "ID": "Sweet Jasmine Seeds"
+}]

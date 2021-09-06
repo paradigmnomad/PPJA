@@ -1,0 +1,9 @@
+[   
+    {
+        "Name": "PinaColadaEnabled",
+        "Description": "Enables the legacy pina colada sprite.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+]

@@ -12,12 +12,7 @@
         {
         	"RelativeFrameIndex": [7],
    		},
-	},
-	{
-		"ProducerName": "Butter Churn", //Only 1 frame
-		"AlternateFrameProducing": false, 
-		"AlternateFrameWhenReady": false, 
-	},
+	},	
 	{
 		"ProducerName": "Dehydrator", //Only 1 frame
 		"AlternateFrameProducing": false, 
@@ -27,45 +22,12 @@
 		"ProducerName": "Drying Rack", //Only 1 frame
 		"AlternateFrameProducing": false, 
 		"AlternateFrameWhenReady": false, 
-	},
+	},	
 	{
-		"ProducerName": "Espresso Machine", 
+		"ProducerName": "Extruder", //Only 1 frame
 		"AlternateFrameProducing": false, 
 		"AlternateFrameWhenReady": false, 
-		"DisableBouncingAnimationWhileWorking": true,
-		"ProducingAnimation": { 
-            "RelativeFrameIndex": [1,2,3,4,5,6], 
-            "FrameInterval": 10 
-        },
-        "ReadyAnimation": 
-        {
-        	"RelativeFrameIndex": [7],
-   		},
-	},
-	{
-		"ProducerName": "Extruder", 
-		"AlternateFrameProducing": false, 
-		"AlternateFrameWhenReady": false, 
-		"DisableBouncingAnimationWhileWorking": true,
-		"ProducingAnimation": { 
-            "RelativeFrameIndex": [1,2,3,4,5,6], 
-            "FrameInterval": 10 
-        },
-        "ReadyAnimation": 
-        {
-        	"RelativeFrameIndex": [7],
-   		},
-	},
-	{
-		"ProducerName": "Foreign Cask", //Only 1 frame
-		"AlternateFrameProducing": false, 
-		"AlternateFrameWhenReady": false, 
-	},
-	{
-		"ProducerName": "Glass Jar", //Only 1 frame
-		"AlternateFrameProducing": false, 
-		"AlternateFrameWhenReady": false, 
-	},
+	},	
 	{
 		"ProducerName": "Grinder", //Name of the producer
 		"AlternateFrameProducing": false, 
@@ -79,21 +41,7 @@
         {
         	"RelativeFrameIndex": [7],
    		},
-	},
-	{
-		"ProducerName": "Ice Cream Machine", 
-		"AlternateFrameProducing": false, 
-		"AlternateFrameWhenReady": false, 
-		"DisableBouncingAnimationWhileWorking": true,
-		"ProducingAnimation": { 
-            "RelativeFrameIndex": [1,2,3,4,5,6], 
-            "FrameInterval": 10 
-        },
-        "ReadyAnimation": 
-        {
-        	"RelativeFrameIndex": [7],
-   		},
-	},
+	},	
 	{
 		"ProducerName": "Infuser", //Name of the producer
 		"AlternateFrameProducing": true, //If the producer should use the alternate frame when producing.
@@ -103,21 +51,7 @@
 		"ProducerName": "Juicer", //Only 1 frame
 		"AlternateFrameProducing": false, 
 		"AlternateFrameWhenReady": false, 
-	},
-	{
-		"ProducerName": "Pepper Blender", 
-		"AlternateFrameProducing": false, 
-		"AlternateFrameWhenReady": false,
-		"DisableBouncingAnimationWhileWorking": true,
-		"ProducingAnimation": { 
-            "RelativeFrameIndex": [1,2,3,4,5,6], 
-            "FrameInterval": 10 
-        },
-        "ReadyAnimation": 
-        {
-        	"RelativeFrameIndex": [7],
-   		},
-	},
+	},	
 	{
 		"ProducerName": "Smoker", //Name of the producer
 		"AlternateFrameProducing": true, //If the producer should use the alternate frame when producing.
@@ -136,31 +70,12 @@
         {
         	"RelativeFrameIndex": [7],
    		},
-	},
-	{
-		"ProducerName": "Sorbet Machine", //Name of the producer
-		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
-		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
-		"DisableBouncingAnimationWhileWorking": true,
-		"ProducingAnimation": { 
-            "RelativeFrameIndex": [1,2,3,4,5,6], 
-            "FrameInterval": 10 
-        },
-        "ReadyAnimation": 
-        {
-        	"RelativeFrameIndex": [7],
-   		},
-	},
+	},	
 	{
 		"ProducerName": "Still", //Only 1 frame
 		"AlternateFrameProducing": false, 
 		"AlternateFrameWhenReady": false, 
-	},
-	{
-		"ProducerName": "Vinegar Cask", //Only 1 frame
-		"AlternateFrameProducing": false, 
-		"AlternateFrameWhenReady": false, 
-	},
+	},	
 	{
 		"ProducerName": "Wax Barrel", //Name of the producer
 		"AlternateFrameProducing": true, //If the producer should use the alternate frame when producing.

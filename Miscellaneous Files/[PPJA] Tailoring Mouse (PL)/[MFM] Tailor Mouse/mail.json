@@ -1,8 +1,0 @@
-[
-	{
-		"Id": "tailormouseletter",
-		"Title": "tailormouse.title",
-		"Text": "tailormouse.text",
-		"MailReceived": ["hatter"],
-	}
-]

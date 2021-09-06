@@ -1,0 +1,16 @@
+[   
+    {
+        "Name": "GreenTeaEnabled",
+        "Description": "Enables the legacy green tea sprite.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+    {
+        "Name": "BananaPuddingEnabled",
+        "Description": "Enables the legacy banana pudding sprite.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+]

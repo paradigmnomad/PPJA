@@ -1,0 +1,32 @@
+[ 
+        {
+            "TargetTexture": "TileSheets/springobjects",
+            "TargetRect":
+            {
+                "X": 256,
+                "Y": 592,
+                "Width": 16,
+                "Height": 16
+            },
+            "SourceTexture": "assets/legacysprites/bananapudding.png:0",
+            "EnableConditions":
+            {
+                "Query: {{BananaPuddingEnabled}} = true": true
+            },
+        },
+        {
+            "TargetTexture": "TileSheets/springobjects",
+            "TargetRect":
+            {
+                "X": 224,
+                "Y": 400,
+                "Width": 16,
+                "Height": 16
+            },
+            "SourceTexture": "assets/legacysprites/greentea.png:0",
+            "EnableConditions":
+            {
+                "Query: {{GreenTeaEnabled}} = true": true
+            },
+        },
+    ]

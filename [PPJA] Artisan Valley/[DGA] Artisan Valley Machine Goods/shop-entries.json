@@ -1,0 +1,433 @@
+[
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Absinthe"
+    },
+    "Cost": 405,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Amaretto"
+    },
+    "Cost": 120,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Bitter"
+    },
+    "Cost": 120,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Campari"
+    },
+    "Cost": 350,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Chambord"
+    },
+    "Cost": 275,
+},
+{
+    "ShopId": "SeedShop",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Chewing Gum"
+    },
+    "Cost": 200,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Cointreau"
+    },
+    "Cost": 350,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Creme de Cacao"
+    },
+    "Cost": 285,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Framboise Lambic"
+    },
+    "Cost": 400,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Frangelico"
+    },
+    "Cost": 265,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Hot Irish Coffee"
+    },
+    "Cost": 1500,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Kimchi"
+    },
+    "Cost": 250,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Mezcal"
+    },
+    "Cost": 200,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Miso Starter"
+    },
+    "Cost": 50,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Natto Starter"
+    },
+    "Cost": 50,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Pulque"
+    },
+    "Cost": 300,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Simple Syrup"
+    },
+    "Cost": 120,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Tequila"
+    },
+    "Cost": 400,
+},
+{
+    "ShopId": "SeedShop",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Wine Yeast"
+    },
+    "Cost": 10,
+},
+{
+    "ShopId": "SeedShop",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Yeast"
+    },
+    "Cost": 10,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Biscotti Recipe"
+    },
+    "Cost": 400,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 3": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Cake Pops Recipe"
+    },
+    "Cost": 700,
+    "EnableConditions":
+    {
+        "Relationship:Jas": "3"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Croissant Recipe"
+    },
+    "Cost": 150,
+},
+{
+    "ShopId": "IslandMerchant",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Handbattered Ebi Tempura Recipe"
+    },
+    "Cost": 1775,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 3": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Hot Cocoa Recipe"
+    },
+    "Cost": 300,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Hot Sauce Recipe"
+    },
+    "Cost": 860,
+},
+{
+    "ShopId": "FishShop",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Oyster Sauce Recipe"
+    },
+    "Cost": 450,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Petit Fours Recipe"
+    },
+    "Cost": 1500,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Pizokel Recipe"
+    },
+    "Cost": 2100,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 2": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Pound Cake Recipe"
+    },
+    "Cost": 500,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Pumpkin Spice Scone Recipe"
+    },
+    "Cost": 600,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Scone Recipe"
+    },
+    "Cost": 300,
+},
+{
+    "ShopId": "IslandMerchant",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Sweet Sour Sauce Recipe"
+    },
+    "Cost": 450,
+},
+{
+    "ShopId": "FishShop",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Teriyaki Sauce Recipe"
+    },
+    "Cost": 450,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Blue Angel Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Banana Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Amarena Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Lime Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Lemon Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Honey Lavender Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Hazelnut Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Chocolate Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Cherry Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Cherry Yogurt Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Pistachio Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Mint Chip Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Matcha Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vanilla Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Strawberry Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Neapolitan Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Mango Ice Cream"
+    },
+    "Cost": 1000,
+},
+{
+    "ShopId": "IceCreamStand",
+    "Item":
+    {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Orange Sherbet"
+    },
+    "Cost": 1000,
+}, ]

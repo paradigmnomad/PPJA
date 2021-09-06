@@ -1,0 +1,4583 @@
+[
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Adzuki Bean Crop.png:0",
+                "assets/crops/Adzuki Bean Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Adzuki Bean Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Adzuki Bean Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Adzuki Bean Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Adzuki Bean Crop.png:5"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Adzuki Bean Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Adzuki Bean"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 15
+        }],
+        "ID": "Adzuki Bean Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Adzuki Bean"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Aloe Crop.png:0",
+                "assets/crops/Aloe Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Aloe Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Aloe Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Aloe Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Aloe Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Aloe"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 20
+        }],
+        "ID": "Aloe Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Aloe"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Asparagus Crop.png:0",
+                "assets/crops/Asparagus Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Asparagus Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Asparagus Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Asparagus Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Asparagus Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Asparagus"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 8
+        }],
+        "ID": "Asparagus Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Asparagus"
+    },
+    {
+        "Type": "Paddy",
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Bamboo Crop.png:0",
+                "assets/crops/Bamboo Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bamboo Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bamboo Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bamboo Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bamboo Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bamboo Crop.png:6"
+            ],
+            "Scythable": true,
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 4,
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Bamboo"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 11,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Bamboo Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring, summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Bamboo"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Barley Crop.png:0",
+                "assets/crops/Barley Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Barley Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Barley Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Barley Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Barley Crop.png:5"
+            ],
+            "Scythable": true,
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Barley"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 6
+        }],
+        "ID": "Barley Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Barley"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Basil Crop.png:0",
+                "assets/crops/Basil Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Basil Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Basil Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Basil Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Basil Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Basil"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 8
+        }],
+        "ID": "Basil Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Basil"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Bell Pepper Crop.png:0",
+                "assets/crops/Bell Pepper Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bell Pepper Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bell Pepper Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bell Pepper Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bell Pepper Crop.png:5"
+            ],
+            "Length": 2,
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Green Bell Pepper"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 13,
+            "HarvestedNewPhase": 4
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bell Pepper Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Red Bell Pepper"
+                    }
+                },
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Yellow Bell Pepper"
+                    }
+                },
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Orange Bell Pepper"
+                    }
+                }, ]
+            }],
+            "HarvestedExperience": 13,
+            "HarvestedNewPhase": 4
+        }],
+        "ID": "Bell Pepper Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Bell Pepper"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Blackberry Crop.png:0",
+                "assets/crops/Blackberry Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blackberry Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blackberry Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blackberry Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blackberry Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blackberry Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Type": "VanillaObject",
+                        "Value": "410"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 5,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Blackberry Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Blackberry"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Blue Agave Crop.png:0",
+                "assets/crops/Blue Agave Crop.png:1"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blue Agave Crop.png:2"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blue Agave Crop.png:3"
+            ],
+            "Length": 4
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blue Agave Crop.png:4"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Blue Agave Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Blue Agave"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 30
+        }],
+        "ID": "Blue Agave Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Blue Agave"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Broccoli Crop.png:0",
+                "assets/crops/Broccoli Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Broccoli Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Broccoli Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Broccoli Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Broccoli Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Broccoli"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18
+        }],
+        "ID": "Broccoli Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Broccoli"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Buckwheat Crop.png:0",
+                "assets/crops/Buckwheat Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Buckwheat Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Buckwheat Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Buckwheat Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Buckwheat Crop.png:5"
+            ],
+            "Scythable": true,
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Buckwheat"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 6
+        }],
+        "ID": "Buckwheat Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Buckwheat"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Butternut Squash Crop.png:0",
+                "assets/crops/Butternut Squash Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Butternut Squash Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Butternut Squash Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Butternut Squash Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Butternut Squash Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Butternut Squash Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Butternut Squash"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 35,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Butternut Squash Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Butternut Squash"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Cabbage Crop.png:0",
+                "assets/crops/Cabbage Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cabbage Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cabbage Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cabbage Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cabbage Crop.png:5"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cabbage Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Cabbage"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18
+        }],
+        "ID": "Cabbage Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring, fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Cabbage"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Cactus Flower Crop.png:0",
+                "assets/crops/Cactus Flower Crop.png:1"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cactus Flower Crop.png:2"
+            ],
+            "Length": 4
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cactus Flower Crop.png:3"
+            ],
+            "Length": 6
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cactus Flower Crop.png:4"
+            ],
+            "Length": 6
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cactus Flower Crop.png:5"
+            ],
+            "Length": 6
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cactus Flower Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Cactus Flower"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 39,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Cactus Flower Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring, summer, fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Cactus Flower"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Carrot Crop.png:0",
+                "assets/crops/Carrot Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Carrot Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Carrot Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Carrot Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Carrot Crop.png:5"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Carrot Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Carrot"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 12
+        }],
+        "ID": "Carrot Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Carrot"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Cassava Crop.png:0",
+                "assets/crops/Cassava Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cassava Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cassava Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cassava Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cassava Crop.png:5"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cassava Crop.png:6"
+            ],
+            "Scythable": true,
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Cassava"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 14
+        }],
+        "ID": "Cassava Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Cassava"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Celery Crop.png:0",
+                "assets/crops/Celery Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Celery Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Celery Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Celery Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Celery Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Celery"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 13
+        }],
+        "ID": "Celery Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Celery"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Chickpea Crop.png:0",
+                "assets/crops/Chickpea Crop.png:1"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chickpea Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chickpea Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chickpea Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chickpea Crop.png:5"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chickpea Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 2,
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Chickpea"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 11,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Chickpea Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Chickpea"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Chives Crop.png:0",
+                "assets/crops/Chives Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chives Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chives Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chives Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Chives Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Chives"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 8
+        }],
+        "ID": "Chives Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Chives"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Cotton Crop.png:0",
+                "assets/crops/Cotton Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cotton Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cotton Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cotton Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cotton Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cotton Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 2,
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Cotton Boll"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 12,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Cotton Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer, fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Cotton"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Cucumber Crop.png:0",
+                "assets/crops/Cucumber Crop.png:1"
+            ],
+            "Length": 1,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cucumber Crop.png:2"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cucumber Crop.png:3"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cucumber Crop.png:4"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cucumber Crop.png:5"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Cucumber Crop.png:6"
+            ],
+            "Trellis": true,
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Cucumber"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 15,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Cucumber Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Cucumber"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Durum Crop.png:0",
+                "assets/crops/Durum Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Durum Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Durum Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Durum Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Durum Crop.png:5"
+            ],
+            "Scythable": true,
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Durum"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 6
+        }],
+        "ID": "Durum Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Durum"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Elderberry Crop.png:0",
+                "assets/crops/Elderberry Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Elderberry Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Elderberry Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Elderberry Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Elderberry Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Elderberry Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.1,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Elderberry"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 5,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Elderberry Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "winter"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Elderberry"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Fennel Crop.png:0",
+                "assets/crops/Fennel Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fennel Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fennel Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fennel Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Fennel Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Fennel"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 8
+        }],
+        "ID": "Fennel Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Fennel"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Ginger Crop.png:0",
+                "assets/crops/Ginger Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ginger Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ginger Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ginger Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ginger Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Type": "VanillaObject",
+                        "Value": "829"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 12
+        }],
+        "ID": "Ginger Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Ginger"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Ginseng Crop.png:0",
+                "assets/crops/Ginseng Crop.png:1"
+            ],
+            "Length": 5
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ginseng Crop.png:2"
+            ],
+            "Length": 5
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ginseng Crop.png:3"
+            ],
+            "Length": 10
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ginseng Crop.png:4"
+            ],
+            "Length": 10
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ginseng Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 2,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Ginseng"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 58
+        }],
+        "ID": "Ginseng Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring, summer, fall, winter"
+            },
+            "CanGrowNow": true
+        }],
+        "JsonAssetsName": "Ginseng"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Gooseberry Crop.png:0",
+                "assets/crops/Gooseberry Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Gooseberry Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Gooseberry Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Gooseberry Crop.png:4"
+            ],
+            "Length": 4
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Gooseberry Crop.png:5"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Gooseberry Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.1,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Gooseberry"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 5,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Gooseberry Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Gooseberry"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Green Pea Crop.png:0",
+                "assets/crops/Green Pea Crop.png:1"
+            ],
+            "Length": 1,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Green Pea Crop.png:2"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Green Pea Crop.png:3"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Green Pea Crop.png:4"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Green Pea Crop.png:5"
+            ],
+            "Length": 1,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Green Pea Crop.png:6"
+            ],
+            "Trellis": true,
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 5,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Green Peas"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 7,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Green Pea Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Green Pea"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Habanero Crop.png:0",
+                "assets/crops/Habanero Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Habanero Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Habanero Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Habanero Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Habanero Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Habanero Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Habanero"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Habanero Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Habanero"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Jalapeno Pepper Crop.png:0",
+                "assets/crops/Jalapeno Pepper Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Jalapeno Pepper Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Jalapeno Pepper Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Jalapeno Pepper Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Jalapeno Pepper Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Jalapeno Pepper Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Jalapeno"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 9,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Jalapeno Pepper Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Jalapeno Pepper"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Juniper Crop.png:0",
+                "assets/crops/Juniper Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Juniper Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Juniper Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Juniper Crop.png:4"
+            ],
+            "Length": 4
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Juniper Crop.png:5"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Juniper Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.1,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Juniper Berry"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 4,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Juniper Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "winter"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Juniper"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Kidney Bean Crop.png:0",
+                "assets/crops/Kidney Bean Crop.png:1"
+            ],
+            "Length": 1,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Kidney Bean Crop.png:2"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Kidney Bean Crop.png:3"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Kidney Bean Crop.png:4"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Kidney Bean Crop.png:5"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Kidney Bean Crop.png:6"
+            ],
+            "Trellis": true,
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Kidney Bean"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 8,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Kidney Bean Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Kidney Bean"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Kiwi Crop.png:0",
+                "assets/crops/Kiwi Crop.png:1"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Kiwi Crop.png:2"
+            ],
+            "Length": 4,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Kiwi Crop.png:3"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Kiwi Crop.png:4"
+            ],
+            "Length": 10,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Kiwi Crop.png:5"
+            ],
+            "Length": 1,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Kiwi Crop.png:6"
+            ],
+            "Trellis": true,
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 2,
+                "ExtraQuantityChance": 0.1,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Kiwi"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 16,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Kiwi Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer, fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Kiwi"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Lettuce Crop.png:0",
+                "assets/crops/Lettuce Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Lettuce Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Lettuce Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Lettuce Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Lettuce Crop.png:5"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Lettuce Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Lettuce"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 12
+        }],
+        "ID": "Lettuce Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Lettuce"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Licorice Root Crop.png:0",
+                "assets/crops/Licorice Root Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Licorice Root Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Licorice Root Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Licorice Root Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Licorice Root Crop.png:5"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Licorice Root Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Licorice Root"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 20
+        }],
+        "ID": "Licorice Root Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Licorice Root"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Maguey Crop.png:0",
+                "assets/crops/Maguey Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Maguey Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Maguey Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Maguey Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Maguey Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Maguey"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 22
+        }],
+        "ID": "Maguey Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring, summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Maguey"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Mint Crop.png:0",
+                "assets/crops/Mint Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Mint Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Mint Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Mint Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Mint Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 2,
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Mint"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 6
+        }],
+        "ID": "Mint Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "winter"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Mint"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Muskmelon Crop.png:0",
+                "assets/crops/Muskmelon Crop.png:1"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Muskmelon Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Muskmelon Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Muskmelon Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Muskmelon Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Muskmelon"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 23
+        }],
+        "ID": "Muskmelon Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Muskmelon"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Navy Bean Crop.png:0",
+                "assets/crops/Navy Bean Crop.png:1"
+            ],
+            "Length": 1,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Navy Bean Crop.png:2"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Navy Bean Crop.png:3"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Navy Bean Crop.png:4"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Navy Bean Crop.png:5"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Navy Bean Crop.png:6"
+            ],
+            "Trellis": true,
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.1,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Navy Bean"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 4,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Navy Bean Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Navy Bean"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Oat Crop.png:0",
+                "assets/crops/Oat Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Oat Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Oat Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Oat Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Oat Crop.png:5"
+            ],
+            "Scythable": true,
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Oat"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 6
+        }],
+        "ID": "Oat Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Oat"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Okra Crop.png:0",
+                "assets/crops/Okra Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Okra Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Okra Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Okra Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Okra Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Okra Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Okra"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 12,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Okra Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer, fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Okra"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Onion Crop.png:0",
+                "assets/crops/Onion Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Onion Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Onion Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Onion Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Onion Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Onion"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18
+        }],
+        "ID": "Onion Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Onion"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Oregano Crop.png:0",
+                "assets/crops/Oregano Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Oregano Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Oregano Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Oregano Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Oregano Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Oregano"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 10
+        }],
+        "ID": "Oregano Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Oregano"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Parsley Crop.png:0",
+                "assets/crops/Parsley Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Parsley Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Parsley Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Parsley Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Parsley Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Parsley"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 9
+        }],
+        "ID": "Parsley Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Parsley"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Passion Fruit Crop.png:0",
+                "assets/crops/Passion Fruit Crop.png:1"
+            ],
+            "Length": 1,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Passion Fruit Crop.png:2"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Passion Fruit Crop.png:3"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Passion Fruit Crop.png:4"
+            ],
+            "Length": 4,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Passion Fruit Crop.png:5"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Passion Fruit Crop.png:6"
+            ],
+            "Trellis": true,
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.1,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Passion Fruit"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 16,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Passion Fruit Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Passion Fruit"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Peanut Crop.png:0",
+                "assets/crops/Peanut Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Peanut Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Peanut Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Peanut Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Peanut Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.3,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Peanut"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 14
+        }],
+        "ID": "Peanut Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Peanut"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Perilla Crop.png:0",
+                "assets/crops/Perilla Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Perilla Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Perilla Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Perilla Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Perilla Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Perilla leaf"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 10
+        }],
+        "ID": "Perilla Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Perilla"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Quinoa Crop.png:0",
+                "assets/crops/Quinoa Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Quinoa Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Quinoa Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Quinoa Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Quinoa Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Quinoa"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 7
+        }],
+        "ID": "Quinoa Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Quinoa"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Rapeseed Crop.png:0",
+                "assets/crops/Rapeseed Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rapeseed Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rapeseed Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rapeseed Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rapeseed Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rapeseed Crop.png:6"
+            ],
+            "Scythable": true,
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 2,
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Rapeseed Flower"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 10
+        }],
+        "ID": "Rapeseed Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring, summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Rapeseed"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Raspberry Crop.png:0",
+                "assets/crops/Raspberry Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Raspberry Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Raspberry Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Raspberry Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Raspberry Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Raspberry Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 3,
+                "MaximumHarvestedQuantity": 5,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Raspberry"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 7,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Raspberry Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Raspberry"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Red Onion Crop.png:0",
+                "assets/crops/Red Onion Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Red Onion Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Red Onion Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Red Onion Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Red Onion Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Red Onion"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18
+        }],
+        "ID": "Red Onion Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Red Onion"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Rosemary Crop.png:0",
+                "assets/crops/Rosemary Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rosemary Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rosemary Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rosemary Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Rosemary Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Rosemary"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 14
+        }],
+        "ID": "Rosemary Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Rosemary"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Sage Crop.png:0",
+                "assets/crops/Sage Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sage Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sage Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sage Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sage Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Sage"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 13
+        }],
+        "ID": "Sage Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Sage"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Shallot Crop.png:0",
+                "assets/crops/Shallot Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Shallot Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Shallot Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Shallot Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Shallot Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Shallot"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18
+        }],
+        "ID": "Shallot Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Shallot"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Shiitake Mushroom Crop.png:0",
+                "assets/crops/Shiitake Mushroom Crop.png:1"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Shiitake Mushroom Crop.png:2"
+            ],
+            "Length": 4,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Shiitake Mushroom Crop.png:3"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Shiitake Mushroom Crop.png:4"
+            ],
+            "Trellis": true,
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.1,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Shiitake Mushroom"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 23
+        }],
+        "ID": "Shiitake Mushroom Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring, fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Shiitake Mushroom"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Soybean Crop.png:0",
+                "assets/crops/Soybean Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Soybean Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Soybean Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Soybean Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Soybean Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Soybean Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Soybean"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 14,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Soybean Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Soybean"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Spinach Crop.png:0",
+                "assets/crops/Spinach Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Spinach Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Spinach Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Spinach Crop.png:4"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Spinach"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 8
+        }],
+        "ID": "Spinach Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring, fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Spinach"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Sugar Beet Crop.png:0",
+                "assets/crops/Sugar Beet Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sugar Beet Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sugar Beet Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sugar Beet Crop.png:4"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sugar Beet Crop.png:5"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sugar Beet Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Sugar Beet"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 23
+        }],
+        "ID": "Sugar Beet Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Sugar Beet"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Sugar_Cane Crop.png:0",
+                "assets/crops/Sugar_Cane Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sugar_Cane Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sugar_Cane Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sugar_Cane Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sugar_Cane Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sugar_Cane Crop.png:6"
+            ],
+            "Scythable": true,
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Sugar Cane"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 26
+        }],
+        "ID": "Sugar_Cane Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Sugar_Cane"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Sulfur Shelf Mushroom Crop.png:0",
+                "assets/crops/Sulfur Shelf Mushroom Crop.png:1"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sulfur Shelf Mushroom Crop.png:2"
+            ],
+            "Length": 4,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sulfur Shelf Mushroom Crop.png:3"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sulfur Shelf Mushroom Crop.png:4"
+            ],
+            "Trellis": true,
+            "HarvestedDrops": [
+            {
+                "MininumHarvestedQuantity": 2,
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.1,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Sulfur Shelf Mushroom"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 23
+        }],
+        "ID": "Sulfur Shelf Mushroom Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer, fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Sulfur Shelf Mushroom"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Sweet Canary Melon Crop.png:0",
+                "assets/crops/Sweet Canary Melon Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sweet Canary Melon Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sweet Canary Melon Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sweet Canary Melon Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sweet Canary Melon Crop.png:5"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sweet Canary Melon Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Sweet Canary Melon"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 26,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Sweet Canary Melon Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Sweet Canary Melon"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Sweet_Potato Crop.png:0",
+                "assets/crops/Sweet_Potato Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sweet_Potato Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sweet_Potato Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sweet_Potato Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sweet_Potato Crop.png:5"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Sweet_Potato Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Sweet Potato"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18
+        }],
+        "ID": "Sweet_Potato Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Sweet_Potato"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Tabasco Pepper Crop.png:0",
+                "assets/crops/Tabasco Pepper Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Tabasco Pepper Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Tabasco Pepper Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Tabasco Pepper Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Tabasco Pepper Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Tabasco Pepper Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Tabasco Pepper"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 14,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Tabasco Pepper Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Tabasco Pepper"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Thyme Crop.png:0",
+                "assets/crops/Thyme Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Thyme Crop.png:2"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Thyme Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Thyme Crop.png:4"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Thyme Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Thyme"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 11
+        }],
+        "ID": "Thyme Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Thyme"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Wasabi Crop.png:0",
+                "assets/crops/Wasabi Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Wasabi Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Wasabi Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Wasabi Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Wasabi Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Wasabi Root"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 22
+        }],
+        "ID": "Wasabi Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Wasabi"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Watermelon Mizu Crop.png:0",
+                "assets/crops/Watermelon Mizu Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Watermelon Mizu Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Watermelon Mizu Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Watermelon Mizu Crop.png:4"
+            ],
+            "Length": 4
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Watermelon Mizu Crop.png:5"
+            ],
+            "Length": 4
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Watermelon Mizu Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Watermelon"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 23,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Watermelon Mizu Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "fall"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Watermelon Mizu"
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Zucchini Crop.png:0",
+                "assets/crops/Zucchini Crop.png:1"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Zucchini Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Zucchini Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Zucchini Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Zucchini Crop.png:5"
+            ],
+            "Length": 4
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Zucchini Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Zucchini"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 23,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Zucchini Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+        "JsonAssetsName": "Zucchini"
+    },
+
+    // New Items
+
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Bay Crop.png:0",
+                "assets/crops/Bay Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bay Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bay Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bay Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Bay Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Bay Leaves"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 14
+        }],
+        "ID": "Bay Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "winter"
+            },
+            "CanGrowNow": true
+        }, ],
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Catnip Crop.png:0",
+                "assets/crops/Catnip Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Catnip Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Catnip Crop.png:3"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Catnip Crop.png:4"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Catnip"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 14
+        }],
+        "ID": "Catnip Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer, fall"
+            },
+            "CanGrowNow": true
+        }, ],
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Champagne Grape Crop.png:0",
+                "assets/crops/Champagne Grape Crop.png:1"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Champagne Grape Crop.png:2"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Champagne Grape Crop.png:3"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Champagne Grape Crop.png:4"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Champagne Grape Crop.png:5"
+            ],
+            "Length": 1,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Champagne Grape Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Champagne Grape"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 14,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Champagne Grape Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring, fall"
+            },
+            "CanGrowNow": true
+        }, ],
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Serrano Chile Crop.png:0",
+                "assets/crops/Serrano Chile Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Serrano Chile Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Serrano Chile Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Serrano Chile Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Serrano Chile Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Serrano Chile Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Serrano Chile"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Serrano Chile Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Scotch Bonnet Crop.png:0",
+                "assets/crops/Scotch Bonnet Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Scotch Bonnet Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Scotch Bonnet Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Scotch Bonnet Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Scotch Bonnet Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Scotch Bonnet Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Scotch Bonnet"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Scotch Bonnet Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Poblano Chile Crop.png:0",
+                "assets/crops/Poblano Chile Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Poblano Chile Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Poblano Chile Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Poblano Chile Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Poblano Chile Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Poblano Chile Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Poblano Chile"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Poblano Chile Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Carolina Reaper Crop.png:0",
+                "assets/crops/Carolina Reaper Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Carolina Reaper Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Carolina Reaper Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Carolina Reaper Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Carolina Reaper Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Carolina Reaper Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Carolina Reaper"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Carolina Reaper Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Ghost Pepper Crop.png:0",
+                "assets/crops/Ghost Pepper Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ghost Pepper Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ghost Pepper Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ghost Pepper Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ghost Pepper Crop.png:5"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ghost Pepper Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Ghost Pepper"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18,
+            "HarvestedNewPhase": 3
+        }],
+        "ID": "Ghost Pepper Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+    },
+]

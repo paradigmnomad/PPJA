@@ -1,0 +1,990 @@
+[
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Rapeseed Flower"
+        },
+        "Cost": 50,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Red Onion"
+        },
+        "Cost": 50,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Shallot"
+        },
+        "Cost": 50,
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Adzuki Bean Seeds"
+        },
+        "Cost": 50,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "Hospital",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Aloe Pod"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Asparagus Seeds"
+        },
+        "Cost": 20,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Bamboo Cutting"
+        },
+        "Cost": 150,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "Season |contains=spring,summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Barley Seeds"
+        },
+        "Cost": 10,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Basil Seeds"
+        },
+        "Cost": 20,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Bell Pepper Seeds"
+        },
+        "Cost": 130,
+        "EnableConditions":
+        {
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Blackberry Seeds"
+        },
+        "Cost": 60,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "Sandy",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Blue Agave Seeds"
+        },
+        "Cost": 200,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Broccoli Seeds"
+        },
+        "Cost": 80,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Buckwheat Seeds"
+        },
+        "Cost": 10,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Butternut Squash Seeds"
+        },
+        "Cost": 180,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cabbage Seeds"
+        },
+        "Cost": 80,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "Sandy",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cactus Flower Seeds"
+        },
+        "Cost": 1300,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Carrot Seeds"
+        },
+        "Cost": 50,
+        "EnableConditions":
+        {
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cassava Seeds"
+        },
+        "Cost": 60,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Celery Seeds"
+        },
+        "Cost": 55,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Chickpea Seeds"
+        },
+        "Cost": 200,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Chive Seeds"
+        },
+        "Cost": 20,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cotton Seeds"
+        },
+        "Cost": 80,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cucumber Starter"
+        },
+        "Cost": 65,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Durum Seeds"
+        },
+        "Cost": 10,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Elderberry Seeds"
+        },
+        "Cost": 80,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=winter": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Fennel Seeds"
+        },
+        "Cost": 20,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "IslandMerchant",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Ginger Seeds"
+        },
+        "Cost": 35,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "Dwarf",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Ginseng Seeds"
+        },
+        "Cost": 1000,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Gooseberry Seeds"
+        },
+        "Cost": 80,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Green Pea Seeds"
+        },
+        "Cost": 50,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Habanero Seeds"
+        },
+        "Cost": 130,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Jalapeno Seeds"
+        },
+        "Cost": 130,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Juniper Berry Seeds"
+        },
+        "Cost": 80,
+        "EnableConditions":
+        {
+            "Season |contains=winter": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Kidney Bean Starter"
+        },
+        "Cost": 180,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Kiwi Seeds"
+        },
+        "Cost": 300,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Lettuce Seeds"
+        },
+        "Cost": 55,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Licorice Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Maguey Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Mint Seeds"
+        },
+        "Cost": 30,
+        "EnableConditions":
+        {
+            "Season |contains=winter": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Muskmelon Seeds"
+        },
+        "Cost": 80,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Navy Bean Seeds"
+        },
+        "Cost": 80,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Oat Seeds"
+        },
+        "Cost": 10,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Okra Seeds"
+        },
+        "Cost": 160,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion Seeds"
+        },
+        "Cost": 80,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Oregano Seeds"
+        },
+        "Cost": 30,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Parsley Seeds"
+        },
+        "Cost": 25,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Passion Fruit Seeds"
+        },
+        "Cost": 130,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Peanut Seeds"
+        },
+        "Cost": 60,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Perilla Seeds"
+        },
+        "Cost": 30,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Quinoa Seeds"
+        },
+        "Cost": 20,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Rapeseed Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Raspberry Seeds"
+        },
+        "Cost": 60,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Red Onion Seeds"
+        },
+        "Cost": 80,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Rosemary Seeds"
+        },
+        "Cost": 30,
+        "EnableConditions":
+        {
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sage Seeds"
+        },
+        "Cost": 40,
+        "EnableConditions":
+        {
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Shallot Seeds"
+        },
+        "Cost": 80,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Shiitake Mushroom Starter"
+        },
+        "Cost": 500,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Soybean Seeds"
+        },
+        "Cost": 120,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Spinach Seeds"
+        },
+        "Cost": 15,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sugar Beet Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "Sandy",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sugar Cane Seeds"
+        },
+        "Cost": 110,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sulfur Shelf Mushroom Seeds"
+        },
+        "Cost": 500,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sweet Canary Melon Seeds"
+        },
+        "Cost": 450,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sweet Potato Seeds"
+        },
+        "Cost": 90,
+        "EnableConditions":
+        {
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Tabasco Pepper Seeds"
+        },
+        "Cost": 130,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Thyme Seeds"
+        },
+        "Cost": 30,
+        "EnableConditions":
+        {
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Wasabi Seeds"
+        },
+        "Cost": 100,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Watermelon Seeds"
+        },
+        "Cost": 250,
+        "EnableConditions":
+        {
+            "Season |contains=fall": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Zucchini Seeds"
+        },
+        "Cost": 225,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+
+    // New Items
+
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Bay Seeds"
+        },
+        "Cost": 50,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=winter": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Catnip Seeds"
+        },
+        "Cost": 50,
+        "EnableConditions":
+        {
+            "Season |contains=summer,fall": "true",
+            "PreferredPet": "Dog"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Catnip Seeds"
+        },
+        "Cost": 25,
+        "EnableConditions":
+        {
+            "Season |contains=summer,fall": "true",
+            "PreferredPet": "Cat"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Champagne Grape Starter"
+        },
+        "Cost": 60,
+        "EnableConditions":
+        {
+            "Season |contains=spring,fall": "true",
+            "PreferredPet": "Cat"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Poblano Chile Seeds"
+        },
+        "Cost": 130,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Serrano Chile Seeds"
+        },
+        "Cost": 130,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Scotch Bonnet Seeds"
+        },
+        "Cost": 130,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Carolina Reaper Seeds"
+        },
+        "Cost": 130,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Ghost Pepper Seeds"
+        },
+        "Cost": 130,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+]

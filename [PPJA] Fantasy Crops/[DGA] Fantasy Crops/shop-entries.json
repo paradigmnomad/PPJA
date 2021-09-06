@@ -1,0 +1,73 @@
+[
+  {
+    "ShopId": "Blacksmith",
+    "Item": {
+      "Value": "ppja.fantasycrops.DGA/Coal Seeds"
+    },
+    "Cost": 30,
+    "EnableConditions": {
+      "Season |contains=spring,summer": "true",
+    }
+  },
+  {
+    "ShopId": "Krobus",
+    "Item": {
+      "Value": "ppja.fantasycrops.DGA/Copper Seeds"
+    },
+    "Cost": 50,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "Krobus",
+    "Item": {
+      "Value": "ppja.fantasycrops.DGA/Gold Seeds"
+    },
+    "Cost": 200,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "Krobus",
+    "Item": {
+      "Value": "ppja.fantasycrops.DGA/Iridium Seeds"
+    },
+    "Cost": 400,
+    "EnableConditions": {
+      "Season |contains=winter": "true"
+    }
+  },
+  {
+    "ShopId": "Krobus",
+    "Item": {
+      "Value": "ppja.fantasycrops.DGA/Iron Seeds"
+    },
+    "Cost": 100,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "Krobus",
+    "Item": {
+      "Value": "ppja.fantasycrops.DGA/Doubloon Seeds"
+    },
+    "Cost": 250,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "Krobus",
+    "Item": {
+      "Value": "ppja.fantasycrops.DGA/Radioactive Seeds"
+    },
+    "Cost": 675,
+    "EnableConditions": {
+      "HasFlag": "willyHours",
+      "Season |contains=winter": "true"
+    }
+  }
+]

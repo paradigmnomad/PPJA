@@ -5,7 +5,7 @@
 		"Text": "bakedsweetpotato.text",
 		"Title": "bakedsweetpotato.title",
 		"Recipe": "Baked Sweet Potato",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "25 fall Y1",
 		"Seasons":  ["fall", "winter"],
 		"Repeatable": false,
@@ -24,7 +24,7 @@
 		"Text": "broccoliandcheese.text",
 		"Title": "broccoliandcheese.title",
 		"Recipe": "Broccoli and Cheese",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "6 summer Y2",
 		"Repeatable": false,
 		"Weather":  "rainy",
@@ -39,7 +39,7 @@
 		"Text": "brownsugar.text",
 		"Title": "brownsugar.title",
 		"Recipe": "Brown Sugar",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"SkillConditions": 
@@ -53,7 +53,7 @@
 		"Text": "carrotcake.text",
 		"Title": "carrotcake.title",
 		"Recipe": "Carrot Cake",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -67,7 +67,7 @@
 		"Text": "cassavacake.text",
 		"Title": "cassavacake.title",
 		"Recipe": "Cassava Cake",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "19 summer Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -81,7 +81,7 @@
 		"Text": "chefsalad.text",
 		"Title": "chefsalad.title",
 		"Recipe": "Chef Salad",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -95,7 +95,7 @@
 		"Text": "farofa.text",
 		"Title": "farofa.title",
 		"Recipe": "Farofa",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 fall Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -109,7 +109,7 @@
 		"Text": "figtart.text",
 		"Title": "figtart.title",
 		"Recipe": "Fig Tart",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 winter Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -123,7 +123,7 @@
 		"Text": "gooseberrypie.text",
 		"Title": "gooseberrypie.title",
 		"Recipe": "Gooseberry Pie",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 summer Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -137,7 +137,7 @@
 		"Text": "islandsalad.text",
 		"Title": "islandsalad.title",
 		"Recipe": "Island Salad",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -151,7 +151,7 @@
 		"Text": "melonsalad.text",
 		"Title": "melonsalad.title",
 		"Recipe": "Melon Salad",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "8 spring Y3",
 		"Repeatable": false,
 		"Weather":  "rainy",
@@ -166,7 +166,7 @@
 		"Text": "pbjsandwich.text",
 		"Title": "pbjsandwich.title",
 		"Recipe": "PB&J Sandwich",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"SkillConditions": 
@@ -180,7 +180,7 @@
 		"Text": "poachedpear.text",
 		"Title": "poachedpear.title",
 		"Recipe": "Poached Pear",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -194,7 +194,7 @@
 		"Text": "raspberrytart.text",
 		"Title": "raspberrytart.title",
 		"Recipe": "Raspberry Tart",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 summer Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -208,7 +208,7 @@
 		"Text": "ricepilaf.text",
 		"Title": "ricepilaf.title",
 		"Recipe": "Rice Pilaf",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -222,7 +222,7 @@
 		"Text": "sauteedonions.text",
 		"Title": "sauteedonions.title",
 		"Recipe": "Sauteed Onions",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -236,7 +236,7 @@
 		"Text": "stuffedbellpeppers.text",
 		"Title": "stuffedbellpeppers.title",
 		"Recipe": "Stuffed Bell Peppers",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -250,7 +250,7 @@
 		"Text": "sweetpotatofries.text",
 		"Title": "sweetpotatofries.title",
 		"Recipe": "Sweet Potato Fries",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -264,7 +264,7 @@
 		"Text": "tropicalfruitsalad.text",
 		"Title": "tropicalfruitsalad.title",
 		"Recipe": "Tropical Fruit Salad",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Seasons":  ["spring", "summer"],
 		"Repeatable": false,
@@ -280,7 +280,7 @@
 		"Text": "vegetablestirfry.text",
 		"Title": "vegetablestirfry.title",
 		"Recipe": "Vegetable Stirfry",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -294,7 +294,7 @@
 		"Text": "bobatea.text",
 		"Title": "bobatea.title",
 		"Recipe": "Boba Tea",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -308,7 +308,7 @@
 		"Text": "dandeliontea.text",
 		"Title": "dandeliontea.title",
 		"Recipe": "Dandelion Tea",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Seasons":  ["spring", "fall"],
 		"Repeatable": false,

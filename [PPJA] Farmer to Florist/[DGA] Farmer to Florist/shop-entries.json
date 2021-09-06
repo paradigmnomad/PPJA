@@ -1,0 +1,249 @@
+[
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Allium Seeds"
+    },
+    "Cost": 60,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Camellia Seeds"
+    },
+    "Cost": 60,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Carnation Seeds"
+    },
+    "Cost": 45,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Chrysanthemum Seeds"
+    },
+    "Cost": 15,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Clematis Starter"
+    },
+    "Cost": 50,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Dahlia Seeds"
+    },
+    "Cost": 20,
+    "EnableConditions": {
+      "Query: {{Year}} >= 3": "true",
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Delphinium Seeds"
+    },
+    "Cost": 50,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/English Rose Seeds"
+    },
+    "Cost": 100,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Freesia Bulb"
+    },
+    "Cost": 40,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Geranium Seeds"
+    },
+    "Cost": 40,
+    "EnableConditions": {
+      "Query: {{Year}} >= 3": "true",
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Herbal Peony Seeds"
+    },
+    "Cost": 50,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Hyacinth Seeds"
+    },
+    "Cost": 20,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Hydrangea Seeds"
+    },
+    "Cost": 50,
+    "EnableConditions": {
+      "Query: {{Year}} >= 3": "true",
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Iris Bulb"
+    },
+    "Cost": 60,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Lavender Seeds"
+    },
+    "Cost": 50,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Lilac Seeds"
+    },
+    "Cost": 40,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Lily Bulb"
+    },
+    "Cost": 35,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Lotus Starter"
+    },
+    "Cost": 40,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Petunia Seeds"
+    },
+    "Cost": 25,
+    "EnableConditions": {
+      "Query: {{Year}} >= 3": "true",
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Violet Seeds"
+    },
+    "Cost": 20,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Wisteria Seeds"
+    },
+    "Cost": 80,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Hibiscus Sapling"
+    },
+    "Cost": 1700,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Jasmine Sapling"
+    },
+    "Cost": 2500,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "kildarien.farmertoflorist.DGA/Magnolia Sapling"
+    },
+    "Cost": 2000,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  }
+]

@@ -1,0 +1,1287 @@
+[
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Black Coffee"
+        },
+        "Cost": 100,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Cola"
+        },
+        "Cost": 150,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Milky Coffee"
+        },
+        "Cost": 100,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Milky Strawberry Juice"
+        },
+        "Cost": 100,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Pathos Cookie"
+        },
+        "Cost": 1500,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Peach Milk"
+        },
+        "Cost": 100,
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Sesame Seeds"
+        },
+        "Cost": 150,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Apple Pie Recipe"
+        },
+        "Cost": 2600,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Autumn Muffin Recipe"
+        },
+        "Cost": 2945,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true",
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Basil Tomato Soup Recipe"
+        },
+        "Cost": 2000,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Bear Donut Recipe"
+        },
+        "Cost": 2725,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Better Pumpkin Pie Recipe"
+        },
+        "Cost": 2820,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true",
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Blueberry Creme Popsicle Recipe"
+        },
+        "Cost": 900,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Blueberry Macaron Recipe"
+        },
+        "Cost": 3350,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true",
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Bonito Flakes Recipe"
+        },
+        "Cost": 800,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Brownie Recipe"
+        },
+        "Cost": 2835,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Bunny Cotton Candy Recipe"
+        },
+        "Cost": 1250,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Candied Apple Recipe"
+        },
+        "Cost": 1300,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Canned Baked Beans Recipe"
+        },
+        "Cost": 2775,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Canned Lemon Tea Recipe"
+        },
+        "Cost": 100,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Caramel Apple Recipe"
+        },
+        "Cost": 2785,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Cheese Fries Recipe"
+        },
+        "Cost": 1260,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Cheesecake Recipe"
+        },
+        "Cost": 2690,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Cherry Pie Recipe"
+        },
+        "Cost": 2440,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Chips and Guac Recipe"
+        },
+        "Cost": 750,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Chocolate Drizzle Cheesecake Recipe"
+        },
+        "Cost": 2000,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Chocolate Roll Cake Recipe"
+        },
+        "Cost": 2905,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Sandy",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Coconut Popsicle Recipe"
+        },
+        "Cost": 1000,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Cookie Bear Recipe"
+        },
+        "Cost": 1500,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Cookie Cat Recipe"
+        },
+        "Cost": 3015,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true",
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Cookie Pig Recipe"
+        },
+        "Cost": 3150,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Cookie Squid Recipe"
+        },
+        "Cost": 1500,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Cotton Candy Recipe"
+        },
+        "Cost": 1250,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Crab in Oyster Sauce Recipe"
+        },
+        "Cost": 2000,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Cream Cheese Recipe"
+        },
+        "Cost": 250,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Crème Brûlée Recipe"
+        },
+        "Cost": 1000,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Cupcake Cat Recipe"
+        },
+        "Cost": 1420,
+    },
+    {
+        "ShopId": "Sandy",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Dragon Fruit Popsicle Recipe"
+        },
+        "Cost": 1300,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Fox Donut Recipe"
+        },
+        "Cost": 2530,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Fresh Lemonade Recipe"
+        },
+        "Cost": 500,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Fried Rice Recipe"
+        },
+        "Cost": 2495,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "IslandMerchant",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Fried Sweet Bananas Recipe"
+        },
+        "Cost": 2545,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Garlic Bread Recipe"
+        },
+        "Cost": 2445,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Graham Crackers Recipe"
+        },
+        "Cost": 1450,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Grilled Cheese Recipe"
+        },
+        "Cost": 2535,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Grilled Zucchini Recipe"
+        },
+        "Cost": 440,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Halloumi Recipe"
+        },
+        "Cost": 680,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Halloumi Burger Recipe"
+        },
+        "Cost": 560,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Heart Lollipop Recipe"
+        },
+        "Cost": 1320,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Blueberry Honey Cake Recipe"
+        },
+        "Cost": 2690,
+        "EnableConditions":
+        {
+            "Season |contains=winter": "true",
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Honey Cake Recipe"
+        },
+        "Cost": 2500,
+        "EnableConditions":
+        {
+            "Season |contains=winter": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Ice Cream and Jam Cake Recipe"
+        },
+        "Cost": 1125,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Ice Cream Brownie Recipe"
+        },
+        "Cost": 3105,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Iced Strawberry Cake Recipe"
+        },
+        "Cost": 2000,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Iced Strawberry Donut Recipe"
+        },
+        "Cost": 2540,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Iced Vanilla Donut Recipe"
+        },
+        "Cost": 2500,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Lady Fingers Recipe"
+        },
+        "Cost": 1410,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Lemon Pie Recipe"
+        },
+        "Cost": 2760,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true",
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Lilac Macaron Recipe"
+        },
+        "Cost": 3350,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true",
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Limeade Recipe"
+        },
+        "Cost": 500,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Matcha Cookies Recipe"
+        },
+        "Cost": 525,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Miso Soup Recipe"
+        },
+        "Cost": 1200,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Mochi Recipe"
+        },
+        "Cost": 2330,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true",
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Mushroom and Pepper Crepe Recipe"
+        },
+        "Cost": 2510,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Mushroom Soup Recipe"
+        },
+        "Cost": 1100,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Muskmelon Strawberry Popsicle Recipe"
+        },
+        "Cost": 1000,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Neapolitan Popsicle Recipe"
+        },
+        "Cost": 1100,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Noodle Soup Recipe"
+        },
+        "Cost": 960,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Onion Pumpkin Soup Recipe"
+        },
+        "Cost": 2000,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Orange Juice Recipe"
+        },
+        "Cost": 500,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Pasta Bowl Recipe"
+        },
+        "Cost": 1100,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Pea Soup Recipe"
+        },
+        "Cost": 500,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Pecan Pie Recipe"
+        },
+        "Cost": 3035,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Penne al Arrabiata Recipe"
+        },
+        "Cost": 1800,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Persimmon Pudding Recipe"
+        },
+        "Cost": 2400,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Pierogi Recipe"
+        },
+        "Cost": 1480,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Pig Donut Recipe"
+        },
+        "Cost": 2800,
+    },
+    {
+        "ShopId": "IslandMerchant",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Pineapple Pizza Recipe"
+        },
+        "Cost": 500,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Pink Strawberry Cake Recipe"
+        },
+        "Cost": 2520,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Plain Cheesecake Recipe"
+        },
+        "Cost": 2000,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Plain Chocolate Donut Recipe"
+        },
+        "Cost": 2725,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Plain Strawberry Donut Recipe"
+        },
+        "Cost": 2420,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Plain Vanilla Donut Recipe"
+        },
+        "Cost": 2500,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Popcorn Recipe"
+        },
+        "Cost": 1425,
+    },
+    {
+        "ShopId": "Sandy",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Prismatic Popsicle Recipe"
+        },
+        "Cost": 2500,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Purple Pastel Cake Recipe"
+        },
+        "Cost": 2450,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Rainbow Candy Cookies Recipe"
+        },
+        "Cost": 2835,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Rainbow Cotton Candy Recipe"
+        },
+        "Cost": 3220,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Ramen Recipe"
+        },
+        "Cost": 450,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Rich Tiramisu Recipe"
+        },
+        "Cost": 3095,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Sachertorte Recipe"
+        },
+        "Cost": 1900,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "FishShop",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Salmon Fillet Recipe"
+        },
+        "Cost": 375,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Salsa Recipe"
+        },
+        "Cost": 200,
+        "EnableConditions":
+        {
+            "Season |contains=winter": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Salt Flavored Chips Recipe"
+        },
+        "Cost": 550,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Shrimp on Rice Recipe"
+        },
+        "Cost": 1700,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Smores Recipe"
+        },
+        "Cost": 450,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Soft Pretzel Recipe"
+        },
+        "Cost": 650,
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Spinach Dip Recipe"
+        },
+        "Cost": 500,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Spring Salad Recipe"
+        },
+        "Cost": 500,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Sprinkled Chocolate Donut Recipe"
+        },
+        "Cost": 2985,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 4": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Sprinkled Lavender Donut Recipe"
+        },
+        "Cost": 2330,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Sprinkled Strawberry Donut Recipe"
+        },
+        "Cost": 2620,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Sprinkled Vanilla Donut Recipe"
+        },
+        "Cost": 2700,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Sriracha Recipe"
+        },
+        "Cost": 860,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Strawberry and Cream Crepe Recipe"
+        },
+        "Cost": 2480,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Strawberry Cake Recipe"
+        },
+        "Cost": 2600,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Strawberry Cheesecake Recipe"
+        },
+        "Cost": 2000,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Strawberry Creme Popsicle Recipe"
+        },
+        "Cost": 1000,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Strawberry Kiwi Popsicle Recipe"
+        },
+        "Cost": 1000,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Strawberry Lemonade Recipe"
+        },
+        "Cost": 500,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Strawberry Macaron Recipe"
+        },
+        "Cost": 3350,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true",
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Strawberry Preserves Recipe"
+        },
+        "Cost": 2320,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Strawberry Roll Cake Recipe"
+        },
+        "Cost": 2420,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Strawberry Tart Recipe"
+        },
+        "Cost": 2370,
+        "EnableConditions":
+        {
+            "Season |contains=spring": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Tendon Recipe"
+        },
+        "Cost": 2000,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Tiradito Recipe"
+        },
+        "Cost": 1600,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Waffles Recipe"
+        },
+        "Cost": 700,
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Wasabi Peas Recipe"
+        },
+        "Cost": 950,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true"
+        }
+    },
+    {
+        "ShopId": "Saloon",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Converted_Wisteria Popsicle Recipe"
+        },
+        "Cost": 1000,
+    },
+
+    // New Items
+
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Blue Lemonade"
+        },
+        "Cost": 120,
+    },
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Blue Slushie"
+        },
+        "Cost": 140,
+    },
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Blue Tropical Juice"
+        },
+        "Cost": 200,
+    },
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Fresh Lemonade"
+        },
+        "Cost": 100,
+    },
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Purple Punch"
+        },
+        "Cost": 220,
+    },
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Red Punch"
+        },
+        "Cost": 220,
+    },
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Red Slushie"
+        },
+        "Cost": 140,
+    },
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Red Tropical Juice"
+        },
+        "Cost": 200,
+    },
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Yellow Punch"
+        },
+        "Cost": 220,
+    },
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Yellow Tropical Juice"
+        },
+        "Cost": 200,
+    },
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Strawberry Lemonade"
+        },
+        "Cost": 140,
+    },
+    {
+        "ShopId": "ResortBar",
+        "Item":
+        {
+            "Value": "ppja.evenmorerecipes.DGA/Coconut Milk"
+        },
+        "Cost": 80,
+    },
+]

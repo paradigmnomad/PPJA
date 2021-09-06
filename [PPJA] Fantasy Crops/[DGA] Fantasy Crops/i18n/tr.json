@@ -1,0 +1,18 @@
+{
+  "object.Doubloon.name": "İspanyol altını",
+  "object.Doubloon.description": "Sadece tek amacı olan bir madeni para: satılmak.",
+  "object.Coal Seeds.name": "Kömür Tohumu",
+  "object.Coal Seeds.description": "Baharda veya yazın ekilir. 8 günde yetişir.",
+  "object.Copper Seeds.name": "Bakır Tohumu",
+  "object.Copper Seeds.description": "Baharda ekilir. 10 günde yetişir.",
+  "object.Gold Seeds.name": "Altın Tohumu",
+  "object.Gold Seeds.description": "Güzde ekilir. 20 günde yetişir.",
+  "object.Iridium Seeds.name": "İridyum Tohumu",
+  "object.Iridium Seeds.description": "Kışın ekilir. 24 günde yetişir.",
+  "object.Iron Seeds.name": "Demir Tohumu",
+  "object.Iron Seeds.description": "Yazın ekilir. 15 günde yetişir.",
+  "object.Doubloon Seeds.name": "İspanyol Altını Tohumu",
+  "object.Doubloon Seeds.description": "Güzde ekilir. 10 günde yetişir ve ilk hasattan sonra yetişmeye devam eder.",
+  "object.Radioactive Seeds.name": "Radyoaktif Tohumlar",
+  "object.Radioactive Seeds.description": "Kışın ekilir. 24 günde yetişir."
+}

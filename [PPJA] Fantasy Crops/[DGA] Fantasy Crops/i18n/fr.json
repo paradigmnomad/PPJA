@@ -1,0 +1,16 @@
+{
+  "object.Doubloon.name": "Doublon",
+  "object.Doubloon.description": "Une pièce avec un seul but : être vendue.",
+  "object.Coal Seeds.name": "Graines de charbon",
+  "object.Coal Seeds.description": "À planter au printemps ou en été. Prend 8 jours pour produire du charbon.",
+  "object.Copper Seeds.name": "Graines de cuivre",
+  "object.Copper Seeds.description": "À planter au printemps. Prend 10 jours pour produire du cuivre.",
+  "object.Gold Seeds.name": "Graines d'Or",
+  "object.Gold Seeds.description": "À planter en automne. Prend 20 jours pour produire de l'or.",
+  "object.Iridium Seeds.name": "Graines d'Iridium",
+  "object.Iridium Seeds.description": "À planter en hiver. Prend 24 jours pour produire de l'iridium.",
+  "object.Iron Seeds.name": "Graines de fer",
+  "object.Iron Seeds.description": "À planter en été. Prend 15 jours pour produire du fer.",
+  "object.Doubloon Seeds.name": "Graines de doublon",
+  "object.Doubloon Seeds.description": "À planter en automne. Il faut 10 jours pour produire un doublon. Continuera de produire après cela."
+}

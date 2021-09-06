@@ -1,14 +1,13 @@
 ﻿{
 	"Name": "[PFM] Farmer to Florist",
-	"Author": "Kildarien (Original) + SpringsSong (Port)",
+	"Author": "Kildarien (Original) + Project Populate Json Assets",
 	"Version": "3.0.10",
 	"Description": "Enables machines for Farmer to Florist.",
 	"UniqueID": "kildarien.PFM.FarmerToFlorist",
 	"MinimumApiVersion": "3.7.0",
-	"UpdateKeys": [],
 	"Dependencies": [
 		{
-			"UniqueID": "kildarien.farmertoflorist"
+			"UniqueID": "kildarien.farmertoflorist.dga"
 		}
 	],
 	"ContentPackFor": {

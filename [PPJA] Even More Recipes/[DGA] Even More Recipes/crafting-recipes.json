@@ -1,0 +1,3770 @@
+[
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Amethyst Cookie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "66"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Amethyst Cookie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Apple Pie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "613"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
+      }
+    ],
+    "ID": "Converted_Apple Pie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Autumn Muffin"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "276"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
+      }
+    ],
+    "ID": "Converted_Autumn Muffin Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Banana Strawberry Cake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "91"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Banana Strawberry Cake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Basil Tomato Soup"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Basil"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "256",
+        "Quantity": 4
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Basil Tomato Soup Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Bear Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Bear Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Better Pumpkin Pie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "276"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
+      }
+    ],
+    "ID": "Converted_Better Pumpkin Pie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Blueberry Creme Popsicle"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "258"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "388"
+      }
+    ],
+    "ID": "Converted_Blueberry Creme Popsicle Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Blueberry Macaron"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Almond",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5",
+        "Quantity": 3
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "258",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Blueberry Macaron Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Bonito Flakes"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "130"
+      }
+    ],
+    "ID": "Converted_Bonito Flakes Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Broth"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-75",
+        "Quantity": 4
+      }
+    ],
+    "ID": "Converted_Broth Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Brownie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      }
+    ],
+    "ID": "Converted_Brownie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Bunny Cotton Candy"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Bunny Cotton Candy Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Candied Apple"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "613"
+      }
+    ],
+    "ID": "Converted_Candied Apple Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Canned Baked Beans"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Brown Sugar"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Navy Bean",
+        "Quantity": 3
+      }
+    ],
+    "ID": "Converted_Canned Baked Beans Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Canned Lemon Tea"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "815",
+        "Quantity": 2
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      }
+    ],
+    "ID": "Converted_Canned Lemon Tea Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Caramel"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Caramel Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Caramel Apple"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "613"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Caramel"
+      }
+    ],
+    "ID": "Converted_Caramel Apple Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Cheese Fries"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "192"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "424"
+      }
+    ],
+    "ID": "Converted_Cheese Fries Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Cheesecake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Cream Cheese"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      }
+    ],
+    "ID": "Converted_Cheesecake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Cherry Pie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "638",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Cherry Pie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Chips and Guac"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Avocado",
+        "Quantity": 2
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Onion"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "256"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "229"
+      }
+    ],
+    "ID": "Converted_Chips and Guac Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Chocolate and Banana Crepe"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Hazelnut Butter"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "91"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      }
+    ],
+    "ID": "Converted_Chocolate and Banana Crepe Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Chocolate Drizzle Cheesecake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Cream Cheese"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Graham Crackers"
+      }
+    ],
+    "ID": "Converted_Chocolate Drizzle Cheesecake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Chocolate Mouse Bread"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Chocolate Mouse Bread Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Chocolate Roll Cake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Chocolate Roll Cake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Chocolate Strawberry Cake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      }
+    ],
+    "ID": "Converted_Chocolate Strawberry Cake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Coconut Popsicle"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "88"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "388"
+      }
+    ],
+    "ID": "Converted_Coconut Popsicle Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Cookie Bear"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Vanilla"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Cookie Bear Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Cookie Cat"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "233"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Vanilla"
+      }
+    ],
+    "ID": "Converted_Cookie Cat Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Cookie Pig"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "432"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Cookie Pig Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Cookie Squid"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Vanilla"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Cookie Squid Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Cotton Candy"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Cotton Candy Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Crab in Oyster Sauce"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "717"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Oyster Sauce"
+      }
+    ],
+    "ID": "Converted_Crab in Oyster Sauce Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Cream Cheese"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Cream Cheese Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Crème Brûlée"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Vanilla"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Crème Brûlée Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Cupcake Cat"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Cupcake Cat Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Dashi Stock"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "152"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Bonito Flakes"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Soy Sauce"
+      }
+    ],
+    "ID": "Converted_Dashi Stock Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Deviled Eggs"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-5",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "306"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Paprika"
+      }
+    ],
+    "ID": "Converted_Deviled Eggs Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Dragon Fruit Popsicle"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Dragon Fruit"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "388"
+      }
+    ],
+    "ID": "Converted_Dragon Fruit Popsicle Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Ento"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Ento Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Fox Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "mizu.flowers.DGA/Herbal Lavender"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Vanilla"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Fox Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Fresh Lemonade"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Fresh Lemonade Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Fried Rice"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "423"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "247"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Carrot"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Green Peas",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Fried Rice Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Fried Sweet Bananas"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "91",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Fried Sweet Bananas Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Garlic Bread"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "248"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "216"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
+      }
+    ],
+    "ID": "Converted_Garlic Bread Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Graham Crackers"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "340"
+      }
+    ],
+    "ID": "Converted_Graham Crackers Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Grilled Cheese"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "424"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "216"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
+      }
+    ],
+    "ID": "Converted_Grilled Cheese Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Grilled Zucchini"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Zucchini",
+        "Quantity": 3
+      }
+    ],
+    "ID": "Converted_Grilled Zucchini Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Halloumi"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "186"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "438"
+      }
+    ],
+    "ID": "Converted_Halloumi Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Halloumi Burger"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Halloumi"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "216"
+      }
+    ],
+    "ID": "Converted_Halloumi Burger Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Hardboiled Egg"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Hardboiled Egg Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Heart Lollipop"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Heart Lollipop Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Blueberry Honey Cake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "340"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Cream Cheese"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "258"
+      }
+    ],
+    "ID": "Converted_Blueberry Honey Cake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Honey Cake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "340",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Honey Cake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Ice Cream and Jam Cake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "233"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "344"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Ice Cream and Jam Cake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Ice Cream Brownie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "233"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Brownie"
+      }
+    ],
+    "ID": "Converted_Ice Cream Brownie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Iced Chocolate Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Iced Chocolate Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Iced Strawberry Cake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400",
+        "Quantity": 5
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Iced Strawberry Cake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Iced Strawberry Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Iced Strawberry Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Iced Vanilla Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Vanilla",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Iced Vanilla Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Key Lime Pie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Graham Crackers"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Key Lime Pie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Lady Fingers"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Lady Fingers Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Lemon Lavender Cookie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Value": "mizu.flowers.DGA/Herbal Lavender"
+      }
+    ],
+    "ID": "Converted_Lemon Lavender Cookie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Lemon Pie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Graham Crackers"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Lemon Pie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Lilac Macaron"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Almond",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5",
+        "Quantity": 3
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Value": "mizu.flowers.DGA/Fragrant Lilac",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Lilac Macaron Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Limeade"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Limeade Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Marmalade"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Marmalade Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Matcha Cookies"
+        }
+      }
+    ],
+    "Ingredients": [
+      {       
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Matcha Powder"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Matcha Cookies Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Meuniere"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-4"
+      }
+    ],
+    "ID": "Converted_Meuniere Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Miso Soup"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Dashi Stock"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Miso Paste"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Tofu"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "152"
+      }
+    ],
+    "ID": "Converted_Miso Soup Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Mochi"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "423"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Value": "mizu.flowers.DGA/Herbal Lavender"
+      }
+    ],
+    "ID": "Converted_Mochi Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Mushroom and Pepper Crepe"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "404"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "424"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Type": "ContextTag",
+        "Value": "bell_pepper_item",
+        "IconOverride": "assets/context-tag-override/BellPepperIcon.png",
+        "NameOverride": "Bell Pepper (Any)"
+      }
+    ],
+    "ID": "Converted_Mushroom and Pepper Crepe Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Mushroom Soup"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Shiitake Mushroom"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "404"
+      }
+    ],
+    "ID": "Converted_Mushroom Soup Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Muskmelon Strawberry Popsicle"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Muskmelon"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "388"
+      }
+    ],
+    "ID": "Converted_Muskmelon Strawberry Popsicle Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Neapolitan Popsicle"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "388"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Vanilla"
+      }
+    ],
+    "ID": "Converted_Neapolitan Popsicle Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Noodle Soup"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Wheat Noodles"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Broth"
+      }
+    ],
+    "ID": "Converted_Noodle Soup Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Onion Pumpkin Soup"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Onion"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "276",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Onion Pumpkin Soup Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Orange Juice"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Orange Juice Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Pasta Bowl"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Wheat Noodles"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "256",
+        "Quantity": 2
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Basil"
+      }
+    ],
+    "ID": "Converted_Pasta Bowl Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Pea Soup"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Carrot"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "192"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Green Peas"
+      }
+    ],
+    "ID": "Converted_Pea Soup Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Pecan Pie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "724"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Brown Sugar"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Pecan"
+      }
+    ],
+    "ID": "Converted_Pecan Pie Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Penne al Arrabiata"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "256"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Tabasco Pepper"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Basil"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      }
+    ],
+    "ID": "Converted_Penne al Arrabiata Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Persimmon Pudding"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Persimmon",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      }
+    ],
+    "ID": "Converted_Persimmon Pudding Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Pierogi"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "424"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "192"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Chives"
+      }
+    ],
+    "ID": "Converted_Pierogi Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Pig Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "430"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Pig Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Pineapple Pizza"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "256"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "832"
+      }
+    ],
+    "ID": "Converted_Pineapple Pizza Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Pink Strawberry Cake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-5",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245",
+        "Quantity": 3
+      }
+    ],
+    "ID": "Converted_Pink Strawberry Cake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Plain Cheesecake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Cream Cheese"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Graham Crackers"
+      }
+    ],
+    "ID": "Converted_Plain Cheesecake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Plain Chocolate Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Plain Chocolate Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Plain Strawberry Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Plain Strawberry Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Plain Vanilla Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Vanilla"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Plain Vanilla Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Popcorn"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "487",
+        "Quantity": 3
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
+      }
+    ],
+    "ID": "Converted_Popcorn Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Prismatic Popsicle"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "388"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "417"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "254"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "268"
+      }
+    ],
+    "ID": "Converted_Prismatic Popsicle Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Purple Pastel Cake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-5",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245",
+        "Quantity": 3
+      }
+    ],
+    "ID": "Converted_Purple Pastel Cake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Rainbow Candy Cookies"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Rainbow Candy Cookies Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Rainbow Cotton Candy"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "268"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "636"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "638"
+      }
+    ],
+    "ID": "Converted_Rainbow Cotton Candy Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Ramen"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "152"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      }
+    ],
+    "ID": "Converted_Ramen Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Rich Tiramisu"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "395"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Cream Cheese"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Cocoa Pod"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Lady Fingers"
+      }
+    ],
+    "ID": "Converted_Rich Tiramisu Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Sachertorte"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Vanilla"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      }
+    ],
+    "ID": "Converted_Sachertorte Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Salmon Fillet"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "139"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Chives"
+      }
+    ],
+    "ID": "Converted_Salmon Fillet Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Salmon Onigiri"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "423"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "152"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "139"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Salt"
+      }
+    ],
+    "ID": "Converted_Salmon Onigiri Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Salsa"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "260",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "256"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "270"
+      }
+    ],
+    "ID": "Converted_Salsa Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Salt Flavored Chips"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "192"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Salt"
+      }
+    ],
+    "ID": "Converted_Salt Flavored Chips Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Seaweed Chips"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "192"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "152"
+      }
+    ],
+    "ID": "Converted_Seaweed Chips Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Shrimp on Rice"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "720",
+        "Quantity": 4
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "423"
+      }
+    ],
+    "ID": "Converted_Shrimp on Rice Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Smores"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Graham Crackers",
+        "Quantity": 2
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Marshmallow Fluff"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      }
+    ],
+    "ID": "Converted_Smores Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Soft Pretzel"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Salt"
+      }
+    ],
+    "ID": "Converted_Soft Pretzel Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Spinach Dip"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Spinach"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "424"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "248"
+      }
+    ],
+    "ID": "Converted_Spinach Dip Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Spring Salad"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Lettuce"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Cucumber"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Quinoa"
+      }
+    ],
+    "ID": "Converted_Spring Salad Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Sprinkled Chocolate Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Sprinkles"
+      }
+    ],
+    "ID": "Converted_Sprinkled Chocolate Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Sprinkled Lavender Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "mizu.flowers.DGA/Herbal Lavender"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Sprinkles"
+      }
+    ],
+    "ID": "Converted_Sprinkled Lavender Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Sprinkled Strawberry Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Sprinkles"
+      }
+    ],
+    "ID": "Converted_Sprinkled Strawberry Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Sprinkled Vanilla Donut"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Vanilla"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Sprinkles"
+      }
+    ],
+    "ID": "Converted_Sprinkled Vanilla Donut Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Sprinkles"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Sprinkles Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Sriracha"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "419"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "248"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "260",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Sriracha Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Steckerlfisch"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-4"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "169"
+      }
+    ],
+    "ID": "Converted_Steckerlfisch Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Strawberry and Cream Crepe"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Strawberry and Cream Crepe Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Strawberry Cake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Strawberry Cake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Strawberry Cheesecake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Cream Cheese"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Value": "ppja.evenmorerecipes.DGA/Strawberry Preserves"
+      }
+    ],
+    "ID": "Converted_Strawberry Cheesecake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Strawberry Creme Popsicle"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "388"
+      }
+    ],
+    "ID": "Converted_Strawberry Creme Popsicle Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Strawberry Kiwi Popsicle"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Kiwi"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "388"
+      }
+    ],
+    "ID": "Converted_Strawberry Kiwi Popsicle Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Strawberry Lemonade"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      }
+    ],
+    "ID": "Converted_Strawberry Lemonade Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Strawberry Macaron"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Almond",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5",
+        "Quantity": 3
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "400",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Strawberry Macaron Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Strawberry Preserves"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Strawberry Preserves Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Strawberry Pudding"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400",
+        "Quantity": 2
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Strawberry Pudding Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Strawberry Roll Cake"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "400",
+        "Quantity": 3
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Strawberry Roll Cake Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Strawberry Tart"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "400"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      }
+    ],
+    "ID": "Converted_Strawberry Tart Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Surimi"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-4"
+      }
+    ],
+    "ID": "Converted_Surimi Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Tendon"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-4"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "423"
+      },
+      {
+        "Value": "ppja.freshmeat.DGA/Batter"
+      }
+    ],
+    "ID": "Converted_Tendon Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Tiradito"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-4"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      }
+    ],
+    "ID": "Converted_Tiradito Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Tofu"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Soybean",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Tofu Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Tuna Mayo Onigiri"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "423"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "152"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "306"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "130"
+      }
+    ],
+    "ID": "Converted_Tuna Mayo Onigiri Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Ume Onigiri"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "423"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "152"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "406"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Salt"
+      }
+    ],
+    "ID": "Converted_Ume Onigiri Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Waffles"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "246"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Waffles Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Wasabi Peas"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Wasabi Paste"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Green Peas",
+        "Quantity": 3
+      }
+    ],
+    "ID": "Converted_Wasabi Peas Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.evenmorerecipes.DGA/Wisteria Popsicle"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Fragrant Wisteria"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "388"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Wisteria Popsicle Recipe"
+  },
+]
+

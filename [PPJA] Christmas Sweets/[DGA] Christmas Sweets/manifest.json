@@ -1,0 +1,36 @@
+{
+  "Name": "[DGA] Christmas Sweets for Dynamic Game Assets (DGA version)",
+  "Description": "A set of delicious Christmas themed treats and snacks.",
+  "Author": "Project Populate Json Assets",
+    "Version": "1.0.0",
+  "MinimumApiVersion": {
+    "MajorVersion": 3,
+    "MinorVersion": 7
+  },
+  "UniqueID": "ppja.christmassweets.DGA",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.DynamicGameAssets"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "ppja.fruitsandveggies.DGA",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "ppja.morerecipes.DGA",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "ppja.evenmorerecipes.DGA",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "ppja.artisanvalleymachinegoods.DGA"
+    }
+  ],
+  "UpdateKeys": [
+    "Nexus:9443@ChristmasSweets"
+  ],
+  "DGA.FormatVersion": 1,
+  "DGA.ConditionsFormatVersion": "1.23.0"
+}

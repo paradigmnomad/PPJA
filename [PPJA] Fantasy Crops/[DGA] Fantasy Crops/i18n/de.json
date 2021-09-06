@@ -1,0 +1,16 @@
+{
+  "object.Doubloon.name": "Doubloon",
+  "object.Doubloon.description": "Eine Münze mit nur einem Zweck: verkauft werden.",
+  "object.Coal Seeds.name": "Kohlensamen",
+  "object.Coal Seeds.description": "Pflanzen Sie diese im Frühjahr oder Sommer. Die Reifezeit beträgt 8 Tage.",
+  "object.Copper Seeds.name": "Kupfersamen",
+  "object.Copper Seeds.description": "Pflanzen Sie diese im Frühjahr. Die Reifezeit beträgt 10 Tage.",
+  "object.Gold Seeds.name": "Gold Samen",
+  "object.Gold Seeds.description": "Pflanzen Sie diese im Herbst. Die Reifezeit beträgt 20 Tage.",
+  "object.Iridium Seeds.name": "Iridium Samen",
+  "object.Iridium Seeds.description": "Pflanzen Sie diese im Winter. Die Reifezeit beträgt 24 Tage.",
+  "object.Iron Seeds.name": "Eisensamen",
+  "object.Iron Seeds.description": "Pflanzen Sie diese im Sommer. Die Reifezeit beträgt 15 Tage.",
+  "object.Doubloon Seeds.name": "Doppelblumensamen",
+  "object.Doubloon Seeds.description": "Pflanzen Sie diese im Herbst. Die Reifezeit beträgt 10 Tage und die Produktion wird nach der ersten Ernte fortgesetzt."
+}

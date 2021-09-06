@@ -1,0 +1,910 @@
+[
+    // DNA Synthesizer
+
+    {
+        "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+        "MinutesToProcess": 160,
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "cow_milk_item",
+            "IconOverride": "assets/context-tag-override/CowIcon.png",
+            "NameOverride": "Cow Milk (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Cow DNA"
+        },
+        "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/DNA Synthesizer:6.png",
+        "StartWorkingSound": "powerup"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+        "MinutesToProcess": 160,
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "goat_milk_item",
+            "IconOverride": "assets/context-tag-override/GoatIcon.png",
+            "NameOverride": "Goat Milk (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Goat DNA"
+        },
+        "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/DNA Synthesizer:6.png",
+        "StartWorkingSound": "powerup"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+        "MinutesToProcess": 160,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "289",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Ostrich DNA"
+        },
+        "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/DNA Synthesizer:6.png",
+        "StartWorkingSound": "powerup"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+        "MinutesToProcess": 160,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "446",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Rabbit DNA"
+        },
+        "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/DNA Synthesizer:6.png",
+        "StartWorkingSound": "powerup"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+        "MinutesToProcess": 160,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "430",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Pig DNA"
+        },
+        "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/DNA Synthesizer:6.png",
+        "StartWorkingSound": "powerup"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+        "MinutesToProcess": 160,
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "440",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Sheep DNA"
+        },
+        "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/DNA Synthesizer:6.png",
+        "StartWorkingSound": "powerup"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+        "MinutesToProcess": 160,
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "dna_item",
+            "IconOverride": "assets/context-tag-override/DNAIcon.png",
+            "NameOverride": "DNA (Any)"
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast",
+            "Quantity": 5,
+        },
+        "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/DNA Synthesizer:6.png",
+        "StartWorkingSound": "powerup"
+    },
+
+    // Meat Press
+
+    {
+        "MachineId": "ppja.freshmeat.DGA/Meat Press",
+        "MinutesToProcess": 500,
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Cow DNA",
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast"
+        }],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Beef"
+        },
+        "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+        "StartWorkingSound": "fishSlap"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/Meat Press",
+        "MinutesToProcess": 500,
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Chicken DNA",
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast"
+        }],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Chicken"
+        },
+        "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+        "StartWorkingSound": "fishSlap"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/Meat Press",
+        "MinutesToProcess": 500,
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Bird DNA",
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast"
+        }],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Bird Meat"
+        },
+        "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+        "StartWorkingSound": "fishSlap"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/Meat Press",
+        "MinutesToProcess": 500,
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Duck DNA",
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast"
+        }],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Duck"
+        },
+        "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+        "StartWorkingSound": "fishSlap"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/Meat Press",
+        "MinutesToProcess": 500,
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Goat DNA",
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast"
+        }],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Chevon"
+        },
+        "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+        "StartWorkingSound": "fishSlap"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/Meat Press",
+        "MinutesToProcess": 500,
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Ostrich DNA",
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast"
+        }],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Ostrich Meat"
+        },
+        "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+        "StartWorkingSound": "fishSlap"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/Meat Press",
+        "MinutesToProcess": 500,
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Pig DNA",
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast"
+        }],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Pork"
+        },
+        "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+        "StartWorkingSound": "fishSlap"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/Meat Press",
+        "MinutesToProcess": 500,
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Sheep DNA",
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast"
+        }],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Mutton"
+        },
+        "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+        "StartWorkingSound": "fishSlap"
+    },
+    {
+        "MachineId": "ppja.freshmeat.DGA/Meat Press",
+        "MinutesToProcess": 500,
+        "Ingredients": [
+        {
+            "Value": "ppja.freshmeat.DGA/Rabbit DNA",
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast"
+        }],
+        "Result":
+        {
+            "Value": "ppja.freshmeat.DGA/Rabbit"
+        },
+        "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+        "StartWorkingSound": "fishSlap"
+    },
+
+    /*    // Bug Net
+
+        // Cloud
+
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Cloud?",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Cloud DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/Meat Press",
+            "MinutesToProcess": 500,
+            "Ingredients": [
+            {
+                "Value": "ppja.freshmeat.DGA/Cloud DNA",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Cloud Meat"
+            },
+            "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+         "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+            "StartWorkingSound": "fishSlap"
+        },
+
+        // Frog
+
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Green Frog",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Frog DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Olive Frog",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Frog DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/Meat Press",
+            "MinutesToProcess": 500,
+            "Ingredients": [
+            {
+                "Value": "ppja.freshmeat.DGA/Frog DNA",
+            },
+            {
+                "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Frog Meat",
+                "Quantity": 3
+            },
+            "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+            "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+            "StartWorkingSound": "fishSlap"
+        },
+
+        // Bird
+
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Blue Bird",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Bird DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Brown Bird",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Bird DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+           "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Owl",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Bird DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Seagull",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Bird DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Woodpecker",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Bird DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+           "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Purple Bird",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Bird DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Red Bird",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Bird DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Blue Parrot",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Bird DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Green Parrot",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Bird DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+
+        // Rabbit
+
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - White Rabbit",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Rabbit DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Gray Rabbit",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Rabbit DNA"
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+
+        // Generic Critters
+
+        // Squirrel
+
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Squirrel",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Squirrel DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/Meat Press",
+            "MinutesToProcess": 500,
+            "Ingredients": [
+            {
+                "Value": "ppja.freshmeat.DGA/Squirrel DNA",
+            },
+            {
+                "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Critter Meat",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+            "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+            "StartWorkingSound": "fishSlap"
+        },
+
+        // Butterflies
+
+        // Spring
+
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Magenta Spring Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Pale Pink Spring Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Pink Spring Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Purple Spring Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - White Spring Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+           "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Yellow Spring Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+
+        // Summer
+
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Blue Summer Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Green Summer Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Orange Summer Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Pink Summer Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Red Summer Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Yellow Summer Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+
+        // Island Butterflies
+
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Orange Island Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Pink Island Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Sunset Tropical Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Tropical Island Butterfly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/Meat Press",
+            "MinutesToProcess": 500,
+            "Ingredients": [
+            {
+                "Value": "ppja.freshmeat.DGA/Butterfly DNA",
+            },
+            {
+                "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Critter Meat",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+            "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+            "StartWorkingSound": "fishSlap"
+        },
+
+        // Firefly
+
+        {
+            "MachineId": "ppja.freshmeat.DGA/DNA Synthesizer",
+            "MinutesToProcess": 160,
+            "Ingredients": [
+            {
+                "Value": "Critter Cage - Firefly",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Firefly DNA",
+                "Quantity": 4
+            },
+            "MachineWorkingTextureOverride": "DNA Synthesizer.png:1@5, DNA Synthesizer.png:2@5, DNA Synthesizer.png:3@5, DNA Synthesizer.png:4@5, DNA Synthesizer.png:5@5",
+            "MachineFinishedTextureOverride":"assets/big-craftables/DNA Synthesizer:6.png",
+            "StartWorkingSound": "powerup"
+        },
+        {
+            "MachineId": "ppja.freshmeat.DGA/Meat Press",
+            "MinutesToProcess": 500,
+            "Ingredients": [
+            {
+                "Value": "ppja.freshmeat.DGA/Firefly DNA",
+            },
+            {
+                "Value": "ppja.freshmeat.DGA/Genetically Engineered Yeast",
+            }, ],
+            "Result":
+            {
+                "Value": "ppja.freshmeat.DGA/Critter Meat",
+                "Quantity": 2
+            },
+            "MachineWorkingTextureOverride": "Meat Press.png:1@5, Meat Press.png:2@5, Meat Press.png:3@5, Meat Press.png:4@5, Meat Press.png:5@5",
+            "MachineFinishedTextureOverride": "assets/big-craftables/Meat Press:6.png",
+            "StartWorkingSound": "fishSlap"
+        },*/
+]

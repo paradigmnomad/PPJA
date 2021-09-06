@@ -1,0 +1,18 @@
+{
+  "Name": "[DGA] More Trees for Dynamic Game Assets(DGA version)",
+  "Description": "A collection of new trees for Dynamic Game Assets.",
+    "Version": "1.0.0",
+  "MinimumApiVersion": {
+    "MajorVersion": 3,
+    "MinorVersion": 7
+  },
+  "UniqueID": "ppja.moretrees.DGA",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.DynamicGameAssets"
+  },
+  "UpdateKeys": [
+    "Nexus:9443@MoreTrees"
+  ],
+  "DGA.FormatVersion": 1,
+  "DGA.ConditionsFormatVersion": "1.23.0"
+}

@@ -1,0 +1,16 @@
+{
+  "object.Doubloon.name": "Дублон",
+  "object.Doubloon.description": "Монета, имеющая только одно назначение: продажа.",
+  "object.Coal Seeds.name": "Cемена угля",
+  "object.Coal Seeds.description": "Высаживайте их весной или летом. Созревание занимает 8 дней.",
+  "object.Copper Seeds.name": "Семена меди",
+  "object.Copper Seeds.description": "Высаживайте их весной. Вырастают за 10 дней.",
+  "object.Gold Seeds.name": "Семена золота",
+  "object.Gold Seeds.description": "Высаживайте их осенью. Созревание занимает 20 дней.",
+  "object.Iridium Seeds.name": "Семена иридия",
+  "object.Iridium Seeds.description": "Высаживайте их зимой. Созревание занимает 24 дня.",
+  "object.Iron Seeds.name": "Семена железа",
+  "object.Iron Seeds.description": "Высаживайте их летом. Созревание занимает 15 дней.",
+  "object.Doubloon Seeds.name": "Семена дублона",
+  "object.Doubloon Seeds.description": "Высаживайте их осенью. Созревают за 10 дней, продолжая давать урожай после первого сбора."
+}

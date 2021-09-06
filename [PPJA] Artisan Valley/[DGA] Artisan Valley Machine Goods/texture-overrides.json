@@ -1,0 +1,17 @@
+[ 
+        {
+            "TargetTexture": "TileSheets/springobjects",
+            "TargetRect":
+            {
+                "X": 240,
+                "Y": 592,
+                "Width": 16,
+                "Height": 16
+            },
+            "SourceTexture": "assets/legacysprites/gingerale.png:0",
+            "EnableConditions":
+            {
+                "Query: {{GingerAleEnabled}} = true": true
+            },
+        },
+    ]

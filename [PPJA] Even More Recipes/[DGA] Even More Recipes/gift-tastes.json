@@ -1,0 +1,1398 @@
+[
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Amethyst Cookie",
+        "NPC": "Abigail",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Amethyst Cookie",
+        "NPC": "Krobus, Leah, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Autumn Muffin",
+        "NPC": "Leah, Penny",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Autumn Muffin",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Banana Strawberry Cake",
+        "NPC": "Demetrius, Maru",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Banana Strawberry Cake",
+        "NPC": "Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy. Shane",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Banana Strawberry Cake",
+        "NPC": "Abigail, Haley, Jas Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Basil Tomato Soup",
+        "NPC": "Gus",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Basil Tomato Soup",
+        "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Bear Donut",
+        "NPC": "Abigail, Jodi",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Bear Donut",
+        "NPC": "George, Leah, Sebastian",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Bear Donut",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Better Pumpkin Pie",
+        "NPC": "Marnie",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Better Pumpkin Pie",
+        "NPC": "Krobus, Willy, ParrotBoy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Black Coffee",
+        "NPC": "Harvey",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Black Coffee",
+        "NPC": "ParrotBoy",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Black Coffee",
+        "NPC": "Jas, Vincent",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Blueberry Creme Popsicle",
+        "NPC": "Demetrius, Elliott, Harvey, Jodi, Kent, Leah, Lewis, Linus, Pam, Robin, Sandy, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Blueberry Creme Popsicle",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Blueberry Macaron",
+        "NPC": "Demetrius, Elliott, Harvey, Jodi, Kent, Leah, Lewis, Linus, Pam, Robin, Sandy, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Blueberry Macaron",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Bonito Flakes",
+        "NPC": "Linus, Willy",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Bonito Flakes",
+        "NPC": "Demetrius, Elliott, Pam",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Bonito Flakes",
+        "NPC": "Evelyn",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Broth",
+        "NPC": "Abigail, Harvey, Alex, Marnie, Sebastian, Elliott, Willy, George",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Broth",
+        "NPC": "Maru, Sandy, Jodi",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Broth",
+        "NPC": "Penny, Demetrius",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Broth",
+        "NPC": "Dwarf",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Brownie",
+        "NPC": "George, Sebastian",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Brownie",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Bunny Cotton Candy",
+        "NPC": "Jas, Vincent",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Bunny Cotton Candy",
+        "NPC": "George, Sebastian",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Bunny Cotton Candy",
+        "NPC": "Krobus, Leah, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Candied Apple",
+        "NPC": "Jas, Vincent",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Canned Baked Beans",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Canned Lemon Tea",
+        "NPC": "Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Caramel",
+        "NPC": "George, Harvey, Sebastian",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Caramel Apple",
+        "NPC": "Jas, Vincent",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Caramel Apple",
+        "NPC": "George",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cheese Fries",
+        "NPC": "Harvey",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cheese Fries",
+        "NPC": "Jas, Sebastian, Vincent",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cheesecake",
+        "NPC": "Kent, Krobus, Sebastian, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Chips and Guac",
+        "NPC": "Abigail, Alex",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Chips and Guac",
+        "NPC": "Gus, Pierre",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Chips and Guac",
+        "NPC": "Jas",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Chocolate and Banana Crepe",
+        "NPC": "Demetrius, Maru",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Chocolate and Banana Crepe",
+        "NPC": "Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy. Shane",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Chocolate and Banana Crepe",
+        "NPC": "Abigail, Haley, Jas Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Chocolate Drizzle Cheesecake",
+        "NPC": "Abigail, Krobus",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Chocolate Drizzle Cheesecake",
+        "NPC": "Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Chocolate Mouse Bread",
+        "NPC": "Harvey, Krobus, Sebastian, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Chocolate Roll Cake",
+        "NPC": "Harvey, Krobus, Sebastian, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Chocolate Strawberry Cake",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Chocolate Strawberry Cake",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Coconut Popsicle",
+        "NPC": "Haley, Linus",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Coconut Popsicle",
+        "NPC": "Abigail, Dwarf, Emily, Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cola",
+        "NPC": "Sam",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cola",
+        "NPC": "Harvey, Krobus, Willy",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cookie Bear",
+        "NPC": "Leah, Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cookie Cat",
+        "NPC": "Leah, Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cookie Pig",
+        "NPC": "Marnie",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cookie Pig",
+        "NPC": "Leah, Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cookie Squid",
+        "NPC": "Leah, Krobus",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cotton Candy",
+        "NPC": "Jas, Vincent",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cotton Candy",
+        "NPC": "Abigail",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cotton Candy",
+        "NPC": "George, Sebastian",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cotton Candy",
+        "NPC": "Krobus, Leah, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Crab in Oyster Sauce",
+        "NPC": "Abigail, Krobus, Willy",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Crab in Oyster Sauce",
+        "NPC": "Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cream Cheese",
+        "NPC": "Harvey",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cream Cheese",
+        "NPC": "Jas, Sebastian, Vincent",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Crème Brûlée",
+        "NPC": "Jas",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Crème Brûlée",
+        "NPC": "Kent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Cupcake Cat",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Dashi Stock",
+        "NPC": "Evelyn, Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Deviled Eggs",
+        "NPC": "Abigail, Dwarf, Haley, Jas, Pam, Vincent, Wizard",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Deviled Eggs",
+        "NPC": "Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Dragon Fruit Popsicle",
+        "NPC": "Linus, Pam, Sam",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Dragon Fruit Popsicle",
+        "NPC": "Krobus, Willy",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Ento",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Fox Donut",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Fresh Lemonade",
+        "NPC": "Gus",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Fresh Lemonade",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Fried Rice",
+        "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Fried Rice",
+        "NPC": "Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Fried Sweet Bananas",
+        "NPC": "Demetrius, Maru, Leah, Harvey",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Fried Sweet Bananas",
+        "NPC": "Elliott, Jodi, Kent, Linus, Pam, Robin, Sandy. Shane",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Fried Sweet Bananas",
+        "NPC": "Abigail, Haley, Jas Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Garlic Bread",
+        "NPC": "Sebastian",
+        "Amount": 40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Garlic Bread",
+        "NPC": "Abigail, Haley, Jas, Jodi, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Garlic Bread",
+        "NPC": "Evelyn, Pierre",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Graham Crackers",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Grilled Cheese",
+        "NPC": "Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Grilled Cheese",
+        "NPC": "Harvey",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Grilled Cheese",
+        "NPC": "Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Grilled Zucchini",
+        "NPC": "Harvey",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Grilled Zucchini",
+        "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Grilled Zucchini",
+        "NPC": "Lewis",
+        "Amount": -40,
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Halloumi",
+        "NPC": "Abigail, Elliott, Maru",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Halloumi",
+        "NPC": "Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Halloumi",
+        "NPC": "Emily, Haley, Harvey, Jas, Leah",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Halloumi",
+        "NPC": "Marnie, Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Halloumi Burger",
+        "NPC": "Abigail, Elliott, Maru",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Halloumi Burger",
+        "NPC": "Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Halloumi Burger",
+        "NPC": "Emily, Haley, Harvey, Jas, Leah",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Halloumi Burger",
+        "NPC": "Marnie, Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Heart Lollipop",
+        "NPC": "Evelyn, George, Haley, Harvey, Leah",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Heart Lollipop",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Blueberry Honey Cake",
+        "NPC": "Demetrius, Elliott, Harvey, Jodi, Kent, Leah, Lewis, Linus, Pam, Robin, Sandy, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Blueberry Honey Cake",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Honey Cake",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Honey Cake",
+        "NPC": "Maru, Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Ice Cream and Jam Cake",
+        "NPC": "Demetrius",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Ice Cream and Jam Cake",
+        "NPC": "Emily, Krobus, Leah, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Ice Cream Brownie",
+        "NPC": "Abigail, Evelyn, Jodi",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Ice Cream Brownie",
+        "NPC": "Emily, Krobus, Leah, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Iced Chocolate Donut",
+        "NPC": "Abigail, Evelyn, Vincent, Jas",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Iced Chocolate Donut",
+        "NPC": "Krobus, Leah, Willy, Jodi",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Iced Strawberry Cake",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Iced Strawberry Cake",
+        "NPC": "Krobus, Sebastian, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Iced Strawberry Donut",
+        "NPC": "Demetrius, Maru",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Iced Strawberry Donut",
+        "NPC": "Alex",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Iced Strawberry Donut",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Iced Strawberry Donut",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Iced Vanilla Donut",
+        "NPC": "Caroline",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Iced Vanilla Donut",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Key Lime Pie",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Lady Fingers",
+        "NPC": "Harvey",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Lady Fingers",
+        "NPC": "Krobus, Leah, Sebastian, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Lemon Lavender Cookie",
+        "NPC": "Evelyn",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Lemon Lavender Cookie",
+        "NPC": "Harvey, Krobus, Leah, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Lemon Pie",
+        "NPC": "Gus",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Lemon Pie",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Lilac Macaron",
+        "NPC": "George, Krobus, Vincent, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Marmalade",
+        "NPC": "Jas, Sebastian, Vincent",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Matcha Cookies",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Meuniere",
+        "NPC": "Emily, Harvey, Jas, Krobus, Sam",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Meuniere",
+        "NPC": "Linus, Sebastian",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Meuniere",
+        "NPC": "Vincent, Haley",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Milky Coffee",
+        "NPC": "Sebastian",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Milky Coffee",
+        "NPC": "Jas, Kent, Vincent",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Milky Strawberry Juice",
+        "NPC": "Jas, Sebastian, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Milky Strawberry Juice",
+        "NPC": "Abigail, Haley, Kent, Wizard",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Miso Soup",
+        "NPC": "Abigail, Harvey, Alex, Marnie, Sebastian, Elliott, Willy, George",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Miso Soup",
+        "NPC": "Maru, Sandy, Jodi",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Miso Soup",
+        "NPC": "Penny, Demetrius",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Miso Soup",
+        "NPC": "Dwarf",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Mochi",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Mushroom and Pepper Crepe",
+        "NPC": "Abigail, Haley, Jas, Sam, Sebastian, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Mushroom Soup",
+        "NPC": "Abigail, Harvey, Alex, Marnie, Sebastian, Elliott, Willy, George",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Mushroom Soup",
+        "NPC": "Maru, Sandy, Jodi",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Mushroom Soup",
+        "NPC": "Penny, Demetrius",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Mushroom Soup",
+        "NPC": "Dwarf",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Neapolitan Popsicle",
+        "NPC": "Emily, Krobus, Leah, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Noodle Soup",
+        "NPC": "Abigail, Harvey, Alex, Marnie, Sebastian, Elliott, Willy, George",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Noodle Soup",
+        "NPC": "Maru, Sandy, Jodi",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Noodle Soup",
+        "NPC": "Penny, Demetrius",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Noodle Soup",
+        "NPC": "Dwarf",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Onion Pumpkin Soup",
+        "NPC": "Abigail, Krobus, Willy",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Onion Pumpkin Soup",
+        "NPC": "Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Orange Juice",
+        "NPC": "Gus, Harvey",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pasta Bowl",
+        "NPC": "Abigail, Harvey, Alex, Marnie, Sebastian, Elliott, Willy, George",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pasta Bowl",
+        "NPC": "Maru, Sandy, Jodi",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pasta Bowl",
+        "NPC": "Penny, Demetrius",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pasta Bowl",
+        "NPC": "Dwarf",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Peach Milk",
+        "NPC": "Robin",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Peach Milk",
+        "NPC": "Dwarf, Elliott, Haley, Lewis, Wizard",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Peach Milk",
+        "NPC": "Kent, Sebastian",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pecan Pie",
+        "NPC": "Maru",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pecan Pie",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Penne al Arrabiata",
+        "NPC": "George",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Penne al Arrabiata",
+        "NPC": "Jas, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Persimmon Pudding",
+        "NPC": "Marlon",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Persimmon Pudding",
+        "NPC": "Maru",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pierogi",
+        "NPC": "Abigail, Harvey, Alex, Marnie, Sebastian, Elliott, Willy, George",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pierogi",
+        "NPC": "Maru, Sandy, Jodi",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pierogi",
+        "NPC": "Penny, Demetrius",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pierogi",
+        "NPC": "Dwarf",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pig Donut",
+        "NPC": "Sebastian",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pig Donut",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pig Donut",
+        "NPC": "Maru",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pink Strawberry Cake",
+        "NPC": "Demetrius, Maru",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pink Strawberry Cake",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Pink Strawberry Cake",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Plain Cheesecake",
+        "NPC": "Harvey, Vincent, Sandy, Wizard, Shane",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Plain Cheesecake",
+        "NPC": "Clint, Sebastian, Gus, Penny, Leah, Sam, George",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Plain Cheesecake",
+        "NPC": "Pierre, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Plain Cheesecake",
+        "NPC": "Dwarf",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Plain Chocolate Donut",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Plain Strawberry Donut",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Plain Strawberry Donut",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Plain Vanilla Donut",
+        "NPC": "Abigail, Caroline",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Plain Vanilla Donut",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Popcorn",
+        "NPC": "Abigail, Haley, Sam, Sebastian, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Popcorn",
+        "NPC": "Kent, Pierre, Jas",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Prismatic Popsicle",
+        "NPC": "Abigail, Jas, Vincent",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Prismatic Popsicle",
+        "NPC": "Haley",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Purple Pastel Cake",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Rainbow Candy Cookies",
+        "NPC": "Krobus, Leah, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Rainbow Cotton Candy",
+        "NPC": "Robin",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Ramen",
+        "NPC": "Sam, Shane",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Rich Tiramisu",
+        "NPC": "Jas, Krobus, Vincent, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sachertorte",
+        "NPC": "Abigail, Harvey, Alex, Marnie, Sebastian, Elliott, Willy, George",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sachertorte",
+        "NPC": "Maru, Sandy, Jodi",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sachertorte",
+        "NPC": "Penny, Demetrius",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sachertorte",
+        "NPC": "Dwarf",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Salmon Fillet",
+        "NPC": "Evelyn, Haley, Pierre",
+        "Amount": -40
+    },
+
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Salmon Onigiri",
+        "NPC": "Willy",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Salmon Onigiri",
+        "NPC": "Demetrius, Elliott, Linus, Pam, Sebastian",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Salmon Onigiri",
+        "NPC": "Evelyn, Haley, Pierre",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Salsa",
+        "NPC": "Lewis, Shane",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Salsa",
+        "NPC": "Abigail, Haley, Jas, Sam, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Salt Flavored Chips",
+        "NPC": "Krobus, Sandy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Seaweed Chips",
+        "NPC": "Willy",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Seaweed Chips",
+        "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Shrimp on Rice",
+        "NPC": "Abigail, Harvey, Alex, Marnie, Sebastian, Elliott, Willy, George",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Shrimp on Rice",
+        "NPC": "Maru, Sandy, Jodi",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Shrimp on Rice",
+        "NPC": "Penny, Demetrius",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Shrimp on Rice",
+        "NPC": "Dwarf",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Smores",
+        "NPC": "Abigail",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Smores",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Soft Pretzel",
+        "NPC": "Harvey",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Soft Pretzel",
+        "NPC": "Leah",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sprinkled Chocolate Donut",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sprinkled Lavender Donut",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sprinkled Strawberry Donut",
+        "NPC": "Demetrius, Maru",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sprinkled Strawberry Donut",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sprinkled Strawberry Donut",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sprinkled Vanilla Donut",
+        "NPC": "Abigail, Caroline",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sprinkled Vanilla Donut",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sriracha",
+        "NPC": "Lewis, Shane",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Sriracha",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Steckerlfisch",
+        "NPC": "Sebastian, Abigail, Krobus, Willy, Sam, Sandy, Elliott",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Steckerlfisch",
+        "NPC": "Haley, Jas, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry and Cream Crepe",
+        "NPC": "Demetrius, Maru",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry and Cream Crepe",
+        "NPC": "Abigail, Haley, Jas, Sebastian, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry and Cream Crepe",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Cake",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Cake",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Cheesecake",
+        "NPC": "Abigail, Krobus",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Cheesecake",
+        "NPC": "Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Creme Popsicle",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Creme Popsicle",
+        "NPC": "Krobus, Sebastian, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Kiwi Popsicle",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Kiwi Popsicle",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Lemonade",
+        "NPC": "Maru, Demetrius, Sam, Krobus",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Lemonade",
+        "NPC": "Shane, Pam, Robin, Sandy",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Lemonade",
+        "NPC": "Penny, Vincent, Jas, Harvey, Willy, Wizard",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Macaron",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Macaron",
+        "NPC": "Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Preserves",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Pudding",
+        "NPC": "Abigail, Haley, Jas, Sebastian, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Roll Cake",
+        "NPC": "Abigail, Haley, Jas, Sebastian, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Strawberry Tart",
+        "NPC": "Abigail, Haley, Jas, Krobus, Vincent, Willy",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Surimi",
+        "NPC": "Sebastian",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Surimi",
+        "NPC": "Willy",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Surimi",
+        "NPC": "Emily, Evelyn, Kent, Krobus",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Tendon",
+        "NPC": "Abigail, Krobus",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Tendon",
+        "NPC": "Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Tiradito",
+        "NPC": "Abigail, Krobus, Willy",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Tiradito",
+        "NPC": "Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Tofu",
+        "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Tuna Mayo Onigiri",
+        "NPC": "Willy",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Tuna Mayo Onigiri",
+        "NPC": "Demetrius, Elliott, Linus, Pam, Sebastian",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Tuna Mayo Onigiri",
+        "NPC": "Evelyn, Haley, Pierre",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Ume Onigiri",
+        "NPC": "Demetrius, Elliott, Linus, Pam, Sebastian, Willy",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Ume Onigiri",
+        "NPC": "Abigail",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Ume Onigiri",
+        "NPC": "Evelyn, Haley, Pierre",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Waffles",
+        "NPC": "Jodi",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Waffles",
+        "NPC": "Leah",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Wasabi Peas",
+        "NPC": "Harvey, Leah, Linus, Shane",
+        "Amount": 80,
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Wasabi Peas",
+        "NPC": "Demetrius, Emily, Jodi, Kent, Maru, Penny, Sandy",
+        "Amount": 45,
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Wasabi Peas",
+        "NPC": "Demetrius, Emily, Jodi, Kent, Maru, Penny, Sandy",
+        "Amount": 20,
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Wasabi Peas",
+        "NPC": "Haley, Jas, Vincent, ParrotBoy",
+        "Amount": -40,
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Wisteria Popsicle",
+        "NPC": "Sandy",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Wisteria Popsicle",
+        "NPC": "Abigail, Alex, Clint, Demetrius, Lewis, Marnie, Maru, Pam, Penny, Robin",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Coconut Milk",
+        "NPC": "Haley, Linus, Sandy",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Coconut Milk",
+        "NPC": "Demetrius, Elliott, Harvet, Jas, Jodi, Kent, Leah, Lewis, Pam, Robin, Shane, Vincent",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.evenmorerecipes.DGA/Coconut Milk",
+        "NPC": "Abigail",
+        "Amount": -20
+    }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Avocado Eel Roll",
+    "NPC": "Abigail, Haley, Maru, Sebastian",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Avocado Eel Roll",
+    "NPC": "Emily, Krobus, Willy",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Avocado Eel Roll",
+    "NPC": "Evelyn",
+    "Amount": -40
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Avocado Toast",
+    "NPC": "Abigail, Alex, Emily, Leah, Sam, Sebastian",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Avocado Toast",
+    "NPC": "Krobus, Willy",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Avocado Toast",
+    "NPC": "Lewis, Pierre",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Baked Sweet Potato",
+    "NPC": "Linus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Baked Sweet Potato",
+    "NPC": "Abigail, Clint, Haley, Jas, Sam, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Banana Bread",
+    "NPC": "Evelyn, Jodi",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Banana Bread",
+    "NPC": "Leah",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Banana Bread",
+    "NPC": "Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Barley Tea",
+    "NPC": "Alex, Clint, Haley, Sam",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Barley Tea",
+    "NPC": "Jas, Pam, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Berry Fusion Tea",
+    "NPC": "Demetrius, Elliott, Jodi, Leah, Maru, Sandy",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Berry Fusion Tea",
+    "NPC": "Pam, Shane",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Berry Fusion Tea",
+    "NPC": "Krobus, Willy, Wizard",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Black Tea",
+    "NPC": "Harvey, Kent, Krobus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Black Tea",
+    "NPC": "Dwarf",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Black Tea",
+    "NPC": "Jas, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Blue Mist Tea",
+    "NPC": "Caroline, Maru",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Blue Mist Tea",
+    "NPC": "Kent, Pierre, Vincent",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Blue Mist Tea",
+    "NPC": "George, Pam, Shane, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Boba Tea",
+    "NPC": "Haley, Marnie, Penny",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Boba Tea",
+    "NPC": "Abigail",
+    "Amount": 45
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Boba Tea",
+    "NPC": "Dwarf, Elliott, Kent, Lewis, Sebastian, Wizard",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Breakfast Tea",
+    "NPC": "Elliott, Pierre",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Breakfast Tea",
+    "NPC": "Dwarf, Leah, Lewis, Sebastian",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Breakfast Tea",
+    "NPC": "Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Broccoli and Cheese",
+    "NPC": "Maru",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Broccoli and Cheese",
+    "NPC": "Dwarf, Lewis",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Broccoli and Cheese",
+    "NPC": "Jas, Krobus, Sam, Sebastian, Vincent, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Brown Sugar",
+    "NPC": "Pam, Lewis, Caroline, Pierre, Gus",
+    "Amount": 45
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Carrot Cake",
+    "NPC": "Clint, Robin",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Carrot Cake",
+    "NPC": "Leah",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Carrot Cake",
+    "NPC": "Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Cassava Cake",
+    "NPC": "Abigail, Dwarf, Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Celery and Peanut Butter",
+    "NPC": "Shane, Pam",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Celery and Peanut Butter",
+    "NPC": "Abigail, Sam, Jas, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chai Tea",
+    "NPC": "Caroline, Demetrius, Pierre",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chamomile Tea",
+    "NPC": "Emily, Evelyn",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chamomile Tea",
+    "NPC": "Jas, Vincent",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chamomile Tea",
+    "NPC": "Pam, Shane, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chef Salad",
+    "NPC": "Leah",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chef Salad",
+    "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chocolate",
+    "NPC": "Jas, Vincent",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chocolate",
+    "NPC": "Leah",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chocolate",
+    "NPC": "Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chocolate Covered Strawberry",
+    "NPC": "Demetrius, Elliott, Jodi",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chocolate Covered Strawberry",
+    "NPC": "Abigail, Haley",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chocolate Covered Strawberry",
+    "NPC": "Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chocolate Pudding",
+    "NPC": "Evelyn, Vincent",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chocolate Pudding",
+    "NPC": "Emily",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Chocolate Pudding",
+    "NPC": "Krobus, Leah, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Crab Roll",
+    "NPC": "Elliott, Sebastian",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Crab Roll",
+    "NPC": "Willy",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Crab Roll",
+    "NPC": "Krobus",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Crab Roll",
+    "NPC": "Emily, Evelyn",
+    "Amount": -40
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Cranberry Pomegranate Tea",
+    "NPC": "Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Crocus White Tea",
+    "NPC": "Sandy",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Crocus White Tea",
+    "NPC": "Clint, George, Jas, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Cucumber Roll",
+    "NPC": "Abigail, Haley, Jas, Krobus, Sam, Vincent, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Cucumber Sandwich",
+    "NPC": "Elliott, Jodi",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Cucumber Sandwich",
+    "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Dandelion Tea",
+    "NPC": "Linus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Dandelion Tea",
+    "NPC": "Jas, Vincent",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Dandelion Tea",
+    "NPC": "George, Jodi",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Earl Grey Tea",
+    "NPC": "Gus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Earl Grey Tea",
+    "NPC": "Jas, Vincent",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Farofa",
+    "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Fig Tart",
+    "NPC": "Robin, Sebastian",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Fig Tart",
+    "NPC": "Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Fruit Tea",
+    "NPC": "Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Gooseberry Pie",
+    "NPC": "Maru, Robin, Demetrius, Pierre",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Gooseberry Pie",
+    "NPC": "Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Island Salad",
+    "NPC": "Harvey, Leah",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Island Salad",
+    "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Jasmine Tea",
+    "NPC": "Elliott, Jas",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Jasmine Tea",
+    "NPC": "Abigail",
+    "Amount": 45
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Jasmine Tea",
+    "NPC": "Krobus, Pierre",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Jasmine Tea",
+    "NPC": "George, Lewis, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Lavender Milk Tea",
+    "NPC": "Alex, Kent, Sebastian, Shane, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Lemon Tea",
+    "NPC": "Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Marshmallow Fluff",
+    "NPC": "Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Melon Salad",
+    "NPC": "Haley, Penny",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Mint Tea",
+    "NPC": "Harvey",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Mint Tea",
+    "NPC": "Dwarf, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Oolong Tea",
+    "NPC": "Haley, Jas, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/PB&J Sandwich",
+    "NPC": "Abigail, Jas, Vincent",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/PB&J Sandwich",
+    "NPC": "George, Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Peanut Butter",
+    "NPC": "George, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Poached Pear",
+    "NPC": "Sandy",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Poached Pear",
+    "NPC": "Krobus, Maru, Shane, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Raspberry Tart",
+    "NPC": "Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Rice Pilaf",
+    "NPC": "George, Lewis, Gus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Rice Pilaf",
+    "NPC": "Elliott, Pierre",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Rice Pilaf",
+    "NPC": "Abigail, Haley, Sam, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Rose Tea",
+    "NPC": "Abigail, Elliott, Emily, Haley, Jas, Leah, Maru, Penny",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Rose Tea",
+    "NPC": "Clint, Pam, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Sauteed Onions",
+    "NPC": "Marnie, Lewis, Shane",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Sauteed Onions",
+    "NPC": "Haley, Sam",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Sauteed Onions",
+    "NPC": "Jas, Vincent",
+    "Amount": -40
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Southern Sweet Tea",
+    "NPC": "Dwarf, Harvey",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Southern Sweet Tea",
+    "NPC": "Krobus, Leah, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Spice Tea",
+    "NPC": "Linus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Strawberry Grapefruit Tea",
+    "NPC": "Gus, Sandy",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Strawberry Grapefruit Tea",
+    "NPC": "Vincent",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Strawberry Grapefruit Tea",
+    "NPC": "Kent, Krobus, Pierre",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Stuffed Bell Peppers",
+    "NPC": "Shane",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Stuffed Bell Peppers",
+    "NPC": "Abigail, Haley, Leah, Sam, Sebastian",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Stuffed Bell Peppers",
+    "NPC": "Jas, Vincent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Sweet Potato Fries",
+    "NPC": "Pam, Linus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Sweet Potato Fries",
+    "NPC": "Elliott, Harvey, Sam, Vincent",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Tropical Fruit Salad",
+    "NPC": "Haley, Sandy, Vincent, Lewis",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Tropical Fruit Salad",
+    "NPC": "Clint, Wizard",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Tropical Fruit Salad",
+    "NPC": "Dwarf, Krobus, Willy",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Vegetable Stirfry",
+    "NPC": "Leah, Lewis, Marnie, Kent, Jodi",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Vegetable Stirfry",
+    "NPC": "Dwarf, Elliott, Krobus",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "ppja.morerecipes.DGA/Vegetable Stirfry",
+    "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+    "Amount": -20
+  }
+]

@@ -5,7 +5,7 @@
 		"Title": "americano.title",
 		"Text": "americano.text",
 		"Recipe": "Americano",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -19,7 +19,7 @@
 		"Title": "brandyalexander.title",
 		"Text": "brandyalexander.text",
 		"Recipe": "Brandy Alexander",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -33,7 +33,7 @@
 		"Title": "cosmo.title",
 		"Text": "cosmo.text",
 		"Recipe": "Cosmo",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -47,7 +47,7 @@
 		"Title": "darkandstormy.title",
 		"Text": "darkandstormy.text",
 		"Recipe": "Dark and Stormy",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -61,7 +61,7 @@
 		"Title": "espressomartini.title",
 		"Text": "espressomartini.text",
 		"Recipe": "Espresso Martini",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -75,7 +75,7 @@
 		"Title": "french75.title",
 		"Text": "french75.text",
 		"Recipe": "French 75",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -89,7 +89,7 @@
 		"Title": "hemingwayspecial.title",
 		"Text": "hemingwayspecial.text",
 		"Recipe": "Hemingway Special",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -103,7 +103,7 @@
 		"Title": "mintjulep.title",
 		"Text": "mintjulep.text",
 		"Recipe": "Mint Julep",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -117,7 +117,7 @@
 		"Title": "moonshinecherries.title",
 		"Text": "moonshinecherries.text",
 		"Recipe": "Moonshine Cherries",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -131,7 +131,7 @@
 		"Title": "nightonthebeach.title",
 		"Text": "nightonthebeach.text",
 		"Recipe": "Night on the Beach",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 summer Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -145,7 +145,7 @@
 		"Title": "paradise.title",
 		"Text": "paradise.text",
 		"Recipe": "Paradise",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -159,7 +159,7 @@
 		"Title": "planterspunch.title",
 		"Text": "planterspunch.text",
 		"Recipe": "Planters Punch",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -174,7 +174,7 @@
 		"Title": "seabreeze.title",
 		"Text": "seabreeze.text",
 		"Recipe": "Sea Breeze",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y2", 
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -188,7 +188,7 @@
 		"Title": "vampiro.title",
 		"Text": "vampiro.text",
 		"Recipe": "Vampiro",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -205,7 +205,7 @@
 		"Title": "atomiccocktail.text",
 		"Text": "atomiccocktail.text",
 		"Recipe": "Atomic Cocktail",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 summer Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -219,7 +219,7 @@
 		"Title": "frangelicosour.text",
 		"Text": "frangelicosour.text",
 		"Recipe": "Frangelico Sour",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 summer Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -233,7 +233,7 @@
 		"Title": "harlemmugger.text",
 		"Text": "harlemmugger.text",
 		"Recipe": "Harlem Mugger",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 fall Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -247,7 +247,7 @@
 		"Title": "lemonadococktail.text",
 		"Text": "lemonadococktail.text",
 		"Recipe": "Lemonado Cocktail",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 summer Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -261,7 +261,7 @@
 		"Title": "negroni.text",
 		"Text": "negroni.text",
 		"Recipe": "Negroni",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 summer Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -275,7 +275,7 @@
 		"Title": "poinsettiacocktail.title",
 		"Text": "poinsettiacocktail.text",
 		"Recipe": "Poinsettia Cocktail",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 winter Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -289,7 +289,7 @@
 		"Title": "spritzveneziano.text",
 		"Text": "spritzveneziano.text",
 		"Recipe": "Spritz Veneziano",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 summer Y3",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -303,7 +303,7 @@
 		"Title": "sweetpinkcocktail.text",
 		"Text": "sweetpinkcocktail.text",
 		"Recipe": "Sweet Pink Cocktail",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 summer Y3",
 		"Repeatable": false,
 		"FriendshipConditions":

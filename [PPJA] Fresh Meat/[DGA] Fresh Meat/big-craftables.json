@@ -1,0 +1,20 @@
+[
+  {
+    "Texture": "assets/big-craftables/Canning Machine0.png",
+    "SellPrice": 1,
+    "ID": "Canning Machine",
+    "JsonAssetsName": "Canning Machine"
+  },
+  {
+    "Texture": "assets/big-craftables/DNA Synthesizer0.png",
+    "SellPrice": 1,
+    "ID": "DNA Synthesizer",
+    "JsonAssetsName": "DNA Synthesizer"
+  },
+  {
+    "Texture": "assets/big-craftables/Meat Press0.png",
+    "SellPrice": 1,
+    "ID": "Meat Press",
+    "JsonAssetsName": "Meat Press"
+  }
+]

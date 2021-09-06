@@ -1,0 +1,107 @@
+[
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "PPJA.cannabiskit.DGA/Honey Stick"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "340"
+      },
+      {
+        "Value": "PPJA.cannabiskit.DGA/Cannabis"
+      }
+    ],
+    "ID": "Converted_Honey Stick Recipe"
+  },
+  {
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "PPJA.cannabiskit.DGA/Joint"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "172"
+      },
+      {
+        "Value": "PPJA.cannabiskit.DGA/Sour Diesel"
+      },
+      {
+        "Value": "PPJA.cannabiskit.DGA/Blue Dream",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Joint Recipe"
+  },
+  {
+    "IsCooking": true,
+    "KnownByDefault": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "PPJA.cannabiskit.DGA/Pot Brownie"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Value": "PPJA.cannabiskit.DGA/Cannabis"
+      }
+    ],
+    "ID": "Converted_Pot Brownie Recipe"
+  },
+  {
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "PPJA.cannabiskit.DGA/Weed-Infused Skooma"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "566"
+      },
+      {
+        "Value": "PPJA.cannabiskit.DGA/Cannabis",
+        "Quantity": 5
+      }
+    ],
+    "ID": "Converted_Weed-Infused Skooma Recipe"
+  }
+]

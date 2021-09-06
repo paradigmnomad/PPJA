@@ -50,30 +50,7 @@
         "OutputPriceMultiplier": 2.5, 
         "Sounds": ["Ship"], 
     },
-
-    // Drying Rack
-
-    {
-        "ProducerName": "Drying Rack",
-        "InputIdentifier": "Hemp",
-        "InputStack": 1,
-        "FuelIdentifier": null,
-        "FuelStack": 1,
-        "MinutesUntilReady": 100,
-        "OutputIdentifier": "Hemp Cloth",
-        "Sounds": ["Ship"],
-    },
-    {
-        "ProducerName": "Drying Rack",
-        "InputIdentifier": "Tobacco",
-        "InputStack": 1,
-        "FuelIdentifier": null,
-        "FuelStack": 1,
-        "MinutesUntilReady": 800,
-        "OutputIdentifier": "Dried Tobacco",
-        "Sounds": ["Ship"],
-    },
-
+    
     // Oil Maker
 
     {

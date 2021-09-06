@@ -1,0 +1,2177 @@
+[
+    {
+        "Texture": "assets/objects/Absinthe.png",
+        "Category": "ArtisanGoods",
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 120,
+        "UniversalGiftTaste": 20,
+        "ID": "Absinthe",
+        "JsonAssetsName": "Absinthe"
+    },
+    {
+        "Texture": "assets/objects/Affogato.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 40,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Luck": 1,
+            "Speed": 1,
+            "Duration": 180
+        },
+        "SellPrice": 600,
+        "UniversalGiftTaste": 20,
+        "ID": "Affogato",
+        "JsonAssetsName": "Affogato"
+    },
+    {
+        "Texture": "assets/objects/Almond Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 18,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 45,
+        "ID": "Almond Butter",
+        "JsonAssetsName": "Almond Butter"
+    },
+    {
+        "Texture": "assets/objects/Amarena Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 350,
+        "UniversalGiftTaste": 45,
+        "ID": "Amarena Ice Cream",
+        "JsonAssetsName": "Amarena Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Amaretto.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 14,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "ID": "Amaretto",
+        "JsonAssetsName": "Amaretto"
+    },
+    {
+        "Texture": "assets/objects/Apple Cider.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 22,
+        "EdibleIsDrink": true,
+        "SellPrice": 200,
+        "UniversalGiftTaste": 45,
+        "ID": "Apple Cider",
+        "JsonAssetsName": "Apple Cider"
+    },
+    {
+        "Texture": "assets/objects/Apple Rind.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 100,
+        "UniversalGiftTaste": -40,
+        "ID": "Apple Rind",
+        "JsonAssetsName": "Apple Rind"
+    },
+    {
+        "Texture": "assets/objects/Apple Schnapps.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 36,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 600,
+        "UniversalGiftTaste": 20,
+        "ID": "Apple Schnapps",
+        "JsonAssetsName": "Apple Schnapps"
+    },
+    {
+        "Texture": "assets/objects/Avocado Mayonnaise.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 340,
+        "UniversalGiftTaste": 45,
+        "ID": "Avocado Mayonnaise",
+        "JsonAssetsName": "Avocado Mayonnaise"
+    },
+    {
+        "Texture": "assets/objects/Banana Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 245,
+        "UniversalGiftTaste": 45,
+        "ID": "Banana Ice Cream",
+        "JsonAssetsName": "Banana Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Barley Kombucha.png",
+        "Category": "ArtisanGoods",
+        "CategoryCo`lorOverride":
+        {},
+        "Edibility": 26,
+        "EdibleIsDrink": true,
+        "SellPrice": 640,
+        "UniversalGiftTaste": 45,
+        "ID": "Barley Kombucha",
+        "JsonAssetsName": "Barley Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Beeswax.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 350,
+        "UniversalGiftTaste": -20,
+        "ID": "Beeswax",
+        "JsonAssetsName": "Beeswax"
+    },
+    {
+        "Texture": "assets/objects/Berry Fusion Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 26,
+        "EdibleIsDrink": true,
+        "SellPrice": 1050,
+        "UniversalGiftTaste": -20,
+        "ID": "Berry Fusion Kombucha",
+        "JsonAssetsName": "Berry Fusion Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Biscotti.png",
+        "Category": "Cooking",
+        "Edibility": 36,
+        "SellPrice": 800,
+        "UniversalGiftTaste": 20,
+        "ID": "Biscotti",
+        "JsonAssetsName": "Biscotti"
+    },
+    {
+        "Texture": "assets/objects/Bitter.png",
+        "TextureColor": "assets/objects/Bitter_color.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 5,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 405,
+        "UniversalGiftTaste": 20,
+        "ID": "Bitter",
+        "JsonAssetsName": "Bitter"
+    },
+    {
+        "Texture": "assets/objects/Black Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "SellPrice": 750,
+        "UniversalGiftTaste": 45,
+        "ID": "Black Kombucha",
+        "JsonAssetsName": "Black Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Black Pepper Mayonnaise.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 260,
+        "UniversalGiftTaste": 45,
+        "ID": "Black Pepper Mayonnaise",
+        "JsonAssetsName": "Black Pepper Mayonnaise"
+    },
+    {
+        "Texture": "assets/objects/Blue Angel Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 245,
+        "UniversalGiftTaste": 45,
+        "ID": "Blue Angel Ice Cream",
+        "JsonAssetsName": "Blue Angel Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Blue Mist Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 26,
+        "EdibleIsDrink": true,
+        "SellPrice": 890,
+        "UniversalGiftTaste": 45,
+        "ID": "Blue Mist Kombucha",
+        "JsonAssetsName": "Blue Mist Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Blueberry Fruit Sorbet.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 450,
+        "UniversalGiftTaste": 20,
+        "ID": "Blueberry Fruit Sorbet",
+        "JsonAssetsName": "Blueberry Fruit Sorbet"
+    },
+    {
+        "Texture": "assets/objects/Bourbon.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 10,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Bourbon",
+        "JsonAssetsName": "Bourbon"
+    },
+    {
+        "Texture": "assets/objects/Brandy.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 28,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Brandy",
+        "JsonAssetsName": "Brandy"
+    },
+    {
+        "Texture": "assets/objects/Breakfast Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 34,
+        "EdibleIsDrink": true,
+        "SellPrice": 980,
+        "UniversalGiftTaste": 45,
+        "ID": "Breakfast Kombucha",
+        "JsonAssetsName": "Breakfast Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Buckwheat Flour.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 100,
+        "UniversalGiftTaste": -20,
+        "ID": "Buckwheat Flour",
+        "JsonAssetsName": "Buckwheat Flour"
+    },
+    {
+        "Texture": "assets/objects/Buckwheat Noodles.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 10,
+        "SellPrice": 275,
+        "UniversalGiftTaste": 20,
+        "ID": "Buckwheat Noodles",
+        "JsonAssetsName": "Buckwheat Noodles"
+    },
+    {
+        "Texture": "assets/objects/Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 22,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 45,
+        "ID": "Butter",
+        "JsonAssetsName": "Butter"
+    },
+    {
+        "Texture": "assets/objects/Cafe Americano.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 2,
+            "Duration": 120
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Cafe Americano",
+        "JsonAssetsName": "Cafe Americano"
+    },
+    {
+        "Texture": "assets/objects/Cafe Latte.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 1,
+            "Duration": 180
+        },
+        "SellPrice": 405,
+        "UniversalGiftTaste": 20,
+        "ID": "Cafe Latte",
+        "JsonAssetsName": "Cafe Latte"
+    },
+    {
+        "Texture": "assets/objects/Cafe Mocha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 1,
+            "Duration": 180
+        },
+        "SellPrice": 500,
+        "UniversalGiftTaste": 20,
+        "ID": "Cafe Mocha",
+        "JsonAssetsName": "Cafe Mocha"
+    },
+    {
+        "Texture": "assets/objects/Cake Pops.png",
+        "Category": "Cooking",
+        "Edibility": 40,
+        "SellPrice": 650,
+        "UniversalGiftTaste": 20,
+        "ID": "Cake Pops",
+        "JsonAssetsName": "Cake Pops"
+    },
+    {
+        "Texture": "assets/objects/Campari.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 8,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 350,
+        "UniversalGiftTaste": 20,
+        "ID": "Campari",
+        "JsonAssetsName": "Campari"
+    },
+    {
+        "Texture": "assets/objects/Candle.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 200,
+        "UniversalGiftTaste": 20,
+        "ID": "Candle",
+        "JsonAssetsName": "Candle"
+    },
+    {
+        "Texture": "assets/objects/Cappuccino.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 1,
+            "Duration": 180
+        },
+        "SellPrice": 500,
+        "UniversalGiftTaste": 20,
+        "ID": "Cappuccino",
+        "JsonAssetsName": "Cappuccino"
+    },
+    {
+        "Texture": "assets/objects/Carolina Reaper Extract.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 900,
+        "UniversalGiftTaste": 45,
+        "ID": "Carolina Reaper Extract",
+        "JsonAssetsName": "Carolina Reaper Extract"
+    },
+    {
+        "Texture": "assets/objects/Cashew Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 18,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 45,
+        "ID": "Cashew Butter",
+        "JsonAssetsName": "Cashew Butter"
+    },
+    {
+        "Texture": "assets/objects/Cauim.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 10,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Cauim",
+        "JsonAssetsName": "Cauim"
+    },
+    {
+        "Texture": "assets/objects/Chai Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "SellPrice": 1200,
+        "UniversalGiftTaste": 45,
+        "ID": "Chai Kombucha",
+        "JsonAssetsName": "Chai Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Chambord.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 7,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 275,
+        "UniversalGiftTaste": 20,
+        "ID": "Chambord",
+        "JsonAssetsName": "Chambord"
+    },
+    {
+        "Texture": "assets/objects/Chamomile Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 26,
+        "EdibleIsDrink": true,
+        "SellPrice": 550,
+        "UniversalGiftTaste": 45,
+        "ID": "Chamomile Kombucha",
+        "JsonAssetsName": "Chamomile Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Champagne.png",
+        "Category": "ArtisanGoods",
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 1100,
+        "UniversalGiftTaste": 20,
+        "ID": "Champagne",
+        "JsonAssetsName": "Champagne"
+    },
+    {
+        "Texture": "assets/objects/Chanterelle Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "EdibleIsDrink": true,
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Chanterelle Kombucha",
+        "JsonAssetsName": "Chanterelle Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Cherry Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 245,
+        "UniversalGiftTaste": 45,
+        "ID": "Cherry Ice Cream",
+        "JsonAssetsName": "Cherry Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Cherry Yogurt Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 300,
+        "UniversalGiftTaste": 45,
+        "ID": "Cherry Yogurt Ice Cream",
+        "JsonAssetsName": "Cherry Yogurt Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Chewing Gum.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 200,
+        "UniversalGiftTaste": 20,
+        "ID": "Chewing Gum",
+        "JsonAssetsName": "Chewing Gum"
+    },
+    {
+        "Texture": "assets/objects/Chocolate Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 56,
+        "SellPrice": 260,
+        "UniversalGiftTaste": 45,
+        "ID": "Chocolate Ice Cream",
+        "JsonAssetsName": "Chocolate Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Coconut Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "SellPrice": 250,
+        "UniversalGiftTaste": 20,
+        "ID": "Coconut Butter",
+        "JsonAssetsName": "Coconut Butter"
+    },
+    {
+        "Texture": "assets/objects/Coconut Oil.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 225,
+        "UniversalGiftTaste": -20,
+        "ID": "Coconut Oil",
+        "JsonAssetsName": "Coconut Oil"
+    },
+    {
+        "Texture": "assets/objects/Cointreau.png", 
+        "Category": "ArtisanGoods",
+        "Edibility": 8,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 350,
+        "UniversalGiftTaste": 20,
+        "ID": "Cointreau",
+        "JsonAssetsName": "Cointreau"
+    },
+    {
+        "Texture": "assets/objects/Cookie Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 46,
+        "SellPrice": 320,
+        "UniversalGiftTaste": 45,
+        "ID": "Cookie Butter",
+        "JsonAssetsName": "Cookie Butter"
+    },
+    {
+        "Texture": "assets/objects/Corn Flour.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "SellPrice": 150,
+        "UniversalGiftTaste": -20,
+        "ID": "Corn Flour",
+        "JsonAssetsName": "Corn Flour"
+    },
+    {
+        "Texture": "assets/objects/Cottonseed Oil.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 150,
+        "UniversalGiftTaste": -20,
+        "ID": "Cottonseed Oil",
+        "JsonAssetsName": "Cottonseed Oil"
+    },
+    {
+        "Texture": "assets/objects/Cranberry Pomegranate Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "SellPrice": 1200,
+        "UniversalGiftTaste": 45,
+        "ID": "Cranberry Pomegranate Kombucha",
+        "JsonAssetsName": "Cranberry Pomegranate Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Creme de Cacao.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 285,
+        "UniversalGiftTaste": 20,
+        "ID": "Creme de Cacao",
+        "JsonAssetsName": "Creme de Cacao"
+    },
+    {
+        "Texture": "assets/objects/Croissant.png",
+        "Category": "Cooking",
+        "Edibility": 36,
+        "SellPrice": 220,
+        "UniversalGiftTaste": 20,
+        "ID": "Croissant",
+        "JsonAssetsName": "Croissant"
+    },
+    {
+        "Texture": "assets/objects/Dandelion Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 26,
+        "EdibleIsDrink": true,
+        "SellPrice": 490,
+        "UniversalGiftTaste": 45,
+        "ID": "Dandelion Kombucha",
+        "JsonAssetsName": "Dandelion Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Dark Ale.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 400,
+        "UniversalGiftTaste": 20,
+        "ID": "Dark Ale",
+        "JsonAssetsName": "Dark Ale"
+    },
+    {
+        "Texture": "assets/objects/Dragon Fruit Fruit Sorbet.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 500,
+        "UniversalGiftTaste": 20,
+        "ID": "Dragon Fruit Fruit Sorbet",
+        "JsonAssetsName": "Dragon Fruit Fruit Sorbet"
+    },
+    {
+        "Texture": "assets/objects/Dried Flower.png",
+        "TextureColor": "assets/objects/Dried Flower_color.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 175,
+        "UniversalGiftTaste": 45,
+        "ID": "Dried Flower",
+        "JsonAssetsName": "Dried Flower"
+    },
+    {
+        "Texture": "assets/objects/Dried Fruit.png",
+        "TextureColor": "assets/objects/Dried Fruit_color.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 8,
+        "SellPrice": 200,
+        "UniversalGiftTaste": 45,
+        "ID": "Dried Fruit",
+        "JsonAssetsName": "Dried Fruit"
+    },
+    {
+        "Texture": "assets/objects/Dried Herb.png",
+        "TextureColor": "assets/objects/Dried Herb_color.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 175,
+        "UniversalGiftTaste": 45,
+        "ID": "Dried Herb",
+        "JsonAssetsName": "Dried Herb"
+    },
+    {
+        "Texture": "assets/objects/Dried Mushroom.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 175,
+        "UniversalGiftTaste": -20,
+        "ID": "Dried Mushroom",
+        "JsonAssetsName": "Dried Mushroom"
+    },
+    {
+        "Texture": "assets/objects/Dried Tea Leaves.png",
+        "TextureColor": "assets/objects/Dried Tea Leaves_color.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 500,
+        "UniversalGiftTaste": 20,
+        "ID": "Dried Tea Leaves",
+        "JsonAssetsName": "Dried Tea Leaves"
+    },
+    {
+        "Texture": "assets/objects/Dried Vegetable.png",
+        "TextureColor": "assets/objects/Dried Vegetable_color.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 200,
+        "UniversalGiftTaste": -20,
+        "ID": "Dried Vegetable",
+        "JsonAssetsName": "Dried Vegetable"
+    },
+    {
+        "Texture": "assets/objects/Earl Grey Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 34,
+        "EdibleIsDrink": true,
+        "SellPrice": 760,
+        "UniversalGiftTaste": 20,
+        "ID": "Earl Grey Kombucha",
+        "JsonAssetsName": "Earl Grey Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Essential Oil.png",
+        "TextureColor": "assets/objects/Essential Oil_color.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 50,
+        "UniversalGiftTaste": 20,
+        "ID": "Essential Oil",
+        "JsonAssetsName": "Essential Oil"
+    },
+    {
+        "Texture": "assets/objects/Framboise Lambic.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 8,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 400,
+        "UniversalGiftTaste": 20,
+        "ID": "Framboise Lambic",
+        "JsonAssetsName": "Framboise Lambic"
+    },
+    {
+        "Texture": "assets/objects/Frangelico.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 265,
+        "UniversalGiftTaste": 20,
+        "ID": "Frangelico",
+        "JsonAssetsName": "Frangelico"
+    },
+    {
+        "Texture": "assets/objects/Fruit Juice.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 225,
+        "UniversalGiftTaste": 45,
+        "ID": "Fruit Juice",
+        "JsonAssetsName": "Fruit Juice"
+    },
+    {
+        "Texture": "assets/objects/Fruit Yogurt.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 22,
+        "SellPrice": 125,
+        "UniversalGiftTaste": 45,
+        "ID": "Fruit Yogurt",
+        "JsonAssetsName": "Fruit Yogurt"
+    },
+    {
+        "Texture": "assets/objects/Garlic Mayonnaise.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 280,
+        "UniversalGiftTaste": 45,
+        "ID": "Garlic Mayonnaise",
+        "JsonAssetsName": "Garlic Mayonnaise"
+    },
+    {
+        "Texture": "assets/objects/Ghost Pepper Extract.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 850,
+        "UniversalGiftTaste": 20,
+        "ID": "Ghost Pepper Extract",
+        "JsonAssetsName": "Ghost Pepper Extract"
+    },
+    {
+        "Texture": "assets/objects/Gin.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 20,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 400,
+        "UniversalGiftTaste": 20,
+        "ID": "Gin",
+        "JsonAssetsName": "Gin"
+    },
+    {
+        "Texture": "assets/objects/Goat Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 22,
+        "SellPrice": 300,
+        "UniversalGiftTaste": 45,
+        "ID": "Goat Butter",
+        "JsonAssetsName": "Goat Butter"
+    },
+    {
+        "Texture": "assets/objects/Goat Yogurt.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 36,
+        "SellPrice": 300,
+        "UniversalGiftTaste": 45,
+        "ID": "Goat Yogurt",
+        "JsonAssetsName": "Goat Yogurt"
+    },
+    {
+        "Texture": "assets/objects/Gold Thread.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 350,
+        "UniversalGiftTaste": 20,
+        "ID": "Gold Thread",
+        "JsonAssetsName": "Gold Thread"
+    },
+    {
+        "Texture": "assets/objects/Green Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 18,
+        "EdibleIsDrink": true,
+        "SellPrice": 500,
+        "UniversalGiftTaste": 45,
+        "GiftTasteOverride":{
+        },
+        "ID": "Green Kombucha",
+        "JsonAssetsName": "Green Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Ground Herb.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 150,
+        "UniversalGiftTaste": -20,
+        "ID": "Ground Herb",
+        "JsonAssetsName": "Ground Herb"
+    },
+    {
+        "Texture": "assets/objects/Ground Vegetable.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 150,
+        "UniversalGiftTaste": -20,
+        "ID": "Ground Vegetable",
+        "JsonAssetsName": "Ground Vegetable"
+    },
+    {
+        "Texture": "assets/objects/Habanero Extract.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 650,
+        "UniversalGiftTaste": 20,
+        "ID": "Habanero Extract",
+        "JsonAssetsName": "Habanero Extract"
+    },
+    {
+        "Texture": "assets/objects/Handbattered Ebi Tempura.png",
+        "Category": "Cooking",
+        "Edibility": 15,
+        "SellPrice": 775,
+        "UniversalGiftTaste": -20,
+        "ID": "Handbattered Ebi Tempura",
+        "JsonAssetsName": "Handbattered Ebi Tempura"
+    },
+    {
+        "Texture": "assets/objects/Handmade Soap.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 200,
+        "UniversalGiftTaste": 20,
+        "ID": "Handmade Soap",
+        "JsonAssetsName": "Handmade Soap"
+    },
+    {
+        "Texture": "assets/objects/Hard Apple Cider.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 28,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Hard Apple Cider",
+        "JsonAssetsName": "Hard Apple Cider"
+    },
+    {
+        "Texture": "assets/objects/Hazelnut Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 18,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 20,
+        "ID": "Hazelnut Butter",
+        "JsonAssetsName": "Hazelnut Butter"
+    },
+    {
+        "Texture": "assets/objects/Hazelnut Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 245,
+        "UniversalGiftTaste": 45,
+        "ID": "Hazelnut Ice Cream",
+        "JsonAssetsName": "Hazelnut Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Honey Lavender Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 425,
+        "UniversalGiftTaste": 20,
+        "ID": "Honey Lavender Ice Cream",
+        "JsonAssetsName": "Honey Lavender Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Hot Cocoa.png",
+        "Category": "Cooking",
+        "Edibility": 30,
+        "SellPrice": 560,
+        "UniversalGiftTaste": 20,
+        "ID": "Hot Cocoa",
+        "JsonAssetsName": "Hot Cocoa"
+    },
+    {
+        "Texture": "assets/objects/Hot Irish Coffee.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Luck": 2,
+            "Defense": -1,
+            "Attack": 1,
+            "Duration": 180
+        },
+        "SellPrice": 500,
+        "UniversalGiftTaste": 20,
+        "ID": "Hot Irish Coffee",
+        "JsonAssetsName": "Hot Irish Coffee"
+    },
+    {
+        "Texture": "assets/objects/Hot Sauce.png",
+        "Category": "Cooking",
+        "Edibility": 38,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 20,
+        "ID": "Hot Sauce",
+        "JsonAssetsName": "Hot Sauce"
+    },
+    {
+        "Texture": "assets/objects/Jalapeno Extract.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 500,
+        "UniversalGiftTaste": 45,
+        "ID": "Jalapeno Extract",
+        "JsonAssetsName": "Jalapeno Extract"
+    },
+    {
+        "Texture": "assets/objects/Jasmine Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "SellPrice": 850,
+        "UniversalGiftTaste": 45,
+        "ID": "Jasmine Kombucha",
+        "JsonAssetsName": "Jasmine Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Kefir.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 34,
+        "EdibleIsDrink": true,
+        "SellPrice": 200,
+        "UniversalGiftTaste": 45,
+        "ID": "Kefir",
+        "JsonAssetsName": "Kefir"
+    },
+    {
+        "Texture": "assets/objects/Kimchi.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 250,
+        "UniversalGiftTaste": -20,
+        "ID": "Kimchi",
+        "JsonAssetsName": "Kimchi"
+    },
+    {
+        "Texture": "assets/objects/Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "EdibleIsDrink": true,
+        "SellPrice": 150,
+        "UniversalGiftTaste": 45,
+        "ID": "Kombucha",
+        "JsonAssetsName": "Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Kumis.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 22,
+        "EdibleIsDrink": true,
+        "SellPrice": 200,
+        "UniversalGiftTaste": 45,
+        "ID": "Kumis",
+        "JsonAssetsName": "Kumis"
+    },
+    {
+        "Texture": "assets/objects/Lassi.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 28,
+        "EdibleIsDrink": true,
+        "SellPrice": 300,
+        "UniversalGiftTaste": 45,
+        "ID": "Lassi",
+        "JsonAssetsName": "Lassi"
+    },
+    {
+        "Texture": "assets/objects/Lemon Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 245,
+        "UniversalGiftTaste": 45,
+        "ID": "Lemon Ice Cream",
+        "JsonAssetsName": "Lemon Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Lemon Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "SellPrice": 750,
+        "UniversalGiftTaste": 45,
+        "ID": "Lemon Kombucha",
+        "JsonAssetsName": "Lemon Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Lemon Peel.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 100,
+        "UniversalGiftTaste": -20,
+        "ID": "Lemon Peel",
+        "JsonAssetsName": "Lemon Peel"
+    },
+    {
+        "Texture": "assets/objects/Lime Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 245,
+        "UniversalGiftTaste": 45,
+        "ID": "Lime Ice Cream",
+        "JsonAssetsName": "Lime Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Lime Peel.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 100,
+        "UniversalGiftTaste": -20,
+        "ID": "Lime Peel",
+        "JsonAssetsName": "Lime Peel"
+    },
+    {
+        "Texture": "assets/objects/Lucky Purple Mayonnaise.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 285,
+        "UniversalGiftTaste": 20,
+        "ID": "Lucky Purple Mayonnaise",
+        "JsonAssetsName": "Lucky Purple Mayonnaise"
+    },
+    {
+        "Texture": "assets/objects/Macchiato.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 1,
+            "Duration": 180
+        },
+        "SellPrice": 375,
+        "UniversalGiftTaste": 20,
+        "ID": "Macchiato",
+        "JsonAssetsName": "Macchiato"
+    },
+    {
+        "Texture": "assets/objects/Barley Malt.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 150,
+        "UniversalGiftTaste": -20,
+        "ID": "Barley Malt",
+        "JsonAssetsName": "Barley Malt"
+    },
+    {
+        "Texture": "assets/objects/Corn Malt.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 150,
+        "UniversalGiftTaste": -20,
+        "ID": "Corn Malt",
+        "JsonAssetsName": "Corn Malt"
+    },
+    {
+        "Texture": "assets/objects/Wheat Malt.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 150,
+        "UniversalGiftTaste": -20,
+        "ID": "Wheat Malt",
+        "JsonAssetsName": "Wheat Malt"
+    },
+    {
+        "Texture": "assets/objects/Mango Fruit Sorbet.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 325,
+        "UniversalGiftTaste": 20,
+        "ID": "Mango Fruit Sorbet",
+        "JsonAssetsName": "Mango Fruit Sorbet"
+    },
+    {
+        "Texture": "assets/objects/Mango Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 245,
+        "UniversalGiftTaste": 45,
+        "ID": "Mango Ice Cream",
+        "JsonAssetsName": "Mango Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Mango Passion Fruit Fruit Sorbet.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 550,
+        "UniversalGiftTaste": 20,
+        "ID": "Mango Passion Fruit Fruit Sorbet",
+        "JsonAssetsName": "Mango Passion Fruit Fruit Sorbet"
+    },
+    {
+        "Texture": "assets/objects/Maple Macchiato.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 1,
+            "Duration": 180
+        },
+        "SellPrice": 570,
+        "UniversalGiftTaste": 20,
+        "ID": "Maple Macchiato",
+        "JsonAssetsName": "Maple Macchiato"
+    },
+    {
+        "Texture": "assets/objects/Margarine.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 150,
+        "UniversalGiftTaste": 20,
+        "ID": "Margarine",
+        "JsonAssetsName": "Margarine"
+    },
+    {
+        "Texture": "assets/objects/Matcha Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 325,
+        "UniversalGiftTaste": 20,
+        "ID": "Matcha Ice Cream",
+        "JsonAssetsName": "Matcha Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Matcha Powder.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 5,
+        "SellPrice": 190,
+        "UniversalGiftTaste": -20,
+        "ID": "Matcha Powder",
+        "JsonAssetsName": "Matcha Powder"
+    },
+    {
+        "Texture": "assets/objects/Mezcal.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 14,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 200,
+        "UniversalGiftTaste": 20,
+        "ID": "Mezcal",
+        "JsonAssetsName": "Mezcal"
+    },
+    {
+        "Texture": "assets/objects/Mint Chip Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 52,
+        "SellPrice": 200,
+        "UniversalGiftTaste": 45,
+        "ID": "Mint Chip Ice Cream",
+        "JsonAssetsName": "Mint Chip Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Mint Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 26,
+        "EdibleIsDrink": true,
+        "SellPrice": 520,
+        "UniversalGiftTaste": 45,
+        "ID": "Mint Kombucha",
+        "JsonAssetsName": "Mint Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Mint Schnapps.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 14,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 600,
+        "UniversalGiftTaste": 20,
+        "ID": "Mint Schnapps",
+        "JsonAssetsName": "Mint Schnapps"
+    },
+    {
+        "Texture": "assets/objects/Miso Paste.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Miso Paste",
+        "JsonAssetsName": "Miso Paste"
+    },
+    {
+        "Texture": "assets/objects/Miso Starter.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 50,
+        "UniversalGiftTaste": -20,
+        "ID": "Miso Starter",
+        "JsonAssetsName": "Miso Starter"
+    },
+    {
+        "Texture": "assets/objects/Moonshine.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 14,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -4,
+            "Duration": 420
+        },
+        "SellPrice": 150,
+        "UniversalGiftTaste": 20,
+        "ID": "Moonshine",
+        "JsonAssetsName": "Moonshine"
+    },
+    {
+        "Texture": "assets/objects/Morel Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "EdibleIsDrink": true,
+        "SellPrice": 200,
+        "UniversalGiftTaste": 45,
+        "ID": "Morel Kombucha",
+        "JsonAssetsName": "Morel Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Natto.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 250,
+        "UniversalGiftTaste": 45,
+        "ID": "Natto",
+        "JsonAssetsName": "Natto"
+    },
+    {
+        "Texture": "assets/objects/Natto Starter.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 50,
+        "UniversalGiftTaste": -20,
+        "ID": "Natto Starter",
+        "JsonAssetsName": "Natto Starter"
+    },
+    {
+        "Texture": "assets/objects/Neapolitan Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 52,
+        "SellPrice": 350,
+        "UniversalGiftTaste": 45,
+        "ID": "Neapolitan Ice Cream",
+        "JsonAssetsName": "Neapolitan Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Olive Oil.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 175,
+        "UniversalGiftTaste": 20,
+        "ID": "Olive Oil",
+        "JsonAssetsName": "Olive Oil"
+    },
+    {
+        "Texture": "assets/objects/Olive Oil Mayonnaise.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 240,
+        "UniversalGiftTaste": 45,
+        "ID": "Olive Oil Mayonnaise",
+        "JsonAssetsName": "Olive Oil Mayonnaise"
+    },
+    {
+        "Texture": "assets/objects/Oolong Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 26,
+        "EdibleIsDrink": true,
+        "SellPrice": 750,
+        "UniversalGiftTaste": 45,
+        "ID": "Oolong Kombucha",
+        "JsonAssetsName": "Oolong Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Orange Fruit Sorbet.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 425,
+        "UniversalGiftTaste": 45,
+        "ID": "Orange Fruit Sorbet",
+        "JsonAssetsName": "Orange Fruit Sorbet"
+    },
+    {
+        "Texture": "assets/objects/Orange Peel.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 100,
+        "UniversalGiftTaste": -20,
+        "ID": "Orange Peel",
+        "JsonAssetsName": "Orange Peel"
+    },
+    {
+        "Texture": "assets/objects/Orange Sherbet.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 225,
+        "SellPrice": 46,
+        "UniversalGiftTaste": 45,
+        "ID": "Orange Sherbet",
+        "JsonAssetsName": "Orange Sherbet"
+    },
+    {
+        "Texture": "assets/objects/Oyster Sauce.png",
+        "Category": "Cooking",
+        "Edibility": 5,
+        "SellPrice": 320,
+        "UniversalGiftTaste": 45,
+        "ID": "Oyster Sauce",
+        "JsonAssetsName": "Oyster Sauce"
+    },
+    {
+        "Texture": "assets/objects/Peach Schnapps.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 22,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 600,
+        "UniversalGiftTaste": 20,
+        "ID": "Peach Schnapps",
+        "JsonAssetsName": "Peach Schnapps"
+    },
+    {
+        "Texture": "assets/objects/Peanut Oil.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 120,
+        "UniversalGiftTaste": -20,
+        "ID": "Peanut Oil",
+        "JsonAssetsName": "Peanut Oil"
+    },
+    {
+        "Texture": "assets/objects/Pecan Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 18,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 45,
+        "ID": "Pecan Butter",
+        "JsonAssetsName": "Pecan Butter"
+    },
+    {
+        "Texture": "assets/objects/Peppermint Mocha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 1,
+            "Duration": 180
+        },
+        "SellPrice": 777,
+        "UniversalGiftTaste": 20,
+        "ID": "Peppermint Mocha",
+        "JsonAssetsName": "Peppermint Mocha"
+    },
+    {
+        "Texture": "assets/objects/Perry.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 20,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 200,
+        "UniversalGiftTaste": 20,
+        "ID": "Perry",
+        "JsonAssetsName": "Perry"
+    },
+    {
+        "Texture": "assets/objects/Petit Fours.png",
+        "Category": "Cooking",
+        "Edibility": 36,
+        "SellPrice": 220,
+        "UniversalGiftTaste": 20,
+        "ID": "Petit Fours",
+        "JsonAssetsName": "Petit Fours"
+    },
+    {
+        "Texture": "assets/objects/Pineapple Fruit Sorbet.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 350,
+        "UniversalGiftTaste": 45,
+        "ID": "Pineapple Fruit Sorbet",
+        "JsonAssetsName": "Pineapple Fruit Sorbet"
+    },
+    {
+        "Texture": "assets/objects/Pistachio Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 300,
+        "UniversalGiftTaste": 45,
+        "ID": "Pistachio Ice Cream",
+        "JsonAssetsName": "Pistachio Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Pizokel.png",
+        "Category": "Cooking",
+        "Edibility": 61,
+        "SellPrice": 700,
+        "UniversalGiftTaste": 45,
+        "ID": "Pizokel",
+        "JsonAssetsName": "Pizokel"
+    },
+    {
+        "Texture": "assets/objects/Poblano Extract.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 425,
+        "UniversalGiftTaste": 20,
+        "ID": "Poblano Extract",
+        "JsonAssetsName": "Poblano Extract"
+    },
+    {
+        "Texture": "assets/objects/Porter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Porter",
+        "JsonAssetsName": "Porter"
+    },
+    {
+        "Texture": "assets/objects/Potpourri.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 350,
+        "UniversalGiftTaste": 45,
+        "ID": "Potpourri",
+        "JsonAssetsName": "Potpourri"
+    },
+    {
+        "Texture": "assets/objects/Pound Cake.png",
+        "Category": "Cooking",
+        "Edibility": 35,
+        "SellPrice": 350,
+        "UniversalGiftTaste": 20,
+        "ID": "Pound Cake",
+        "JsonAssetsName": "Pound Cake"
+    },
+    {
+        "Texture": "assets/objects/Prismatic Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 82,
+        "EdibleBuffs":
+        {
+            "Luck": 3,
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 3600,
+        "UniversalGiftTaste": 80,
+        "ID": "Prismatic Ice Cream",
+        "JsonAssetsName": "Prismatic Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Pulque.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 14,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Pulque",
+        "JsonAssetsName": "Pulque"
+    },
+    {
+        "Texture": "assets/objects/Pumpkin Spice Scone.png",
+        "Category": "Cooking",
+        "Edibility": 36,
+        "SellPrice": 220,
+        "UniversalGiftTaste": 20,
+        "ID": "Pumpkin Spice Scone",
+        "JsonAssetsName": "Pumpkin Spice Scone"
+    },
+    {
+        "Texture": "assets/objects/Pumpkin Spice Latte.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 1,
+            "Duration": 180
+        },
+        "SellPrice": 800,
+        "UniversalGiftTaste": 20,
+        "ID": "Pumpkin Spice Latte",
+        "JsonAssetsName": "Pumpkin Spice Latte"
+    },
+    {
+        "Texture": "assets/objects/Purple Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "EdibleIsDrink": true,
+        "SellPrice": 300,
+        "UniversalGiftTaste": 45,
+        "ID": "Purple Kombucha",
+        "JsonAssetsName": "Purple Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Raisins.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 22,
+        "SellPrice": 150,
+        "UniversalGiftTaste": 45,
+        "ID": "Raisins",
+        "JsonAssetsName": "Raisins"
+    },
+    {
+        "Texture": "assets/objects/Raspberry Dragon Fruit Fruit Sorbet.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 400,
+        "UniversalGiftTaste": 20,
+        "ID": "Raspberry Dragon Fruit Fruit Sorbet",
+        "JsonAssetsName": "Raspberry Dragon Fruit Fruit Sorbet"
+    },
+    {
+        "Texture": "assets/objects/Raspberry Fruit Sorbet.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 490,
+        "UniversalGiftTaste": 20,
+        "ID": "Raspberry Fruit Sorbet",
+        "JsonAssetsName": "Raspberry Fruit Sorbet"
+    },
+    {
+        "Texture": "assets/objects/Red Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": -50,
+        "SellPrice": 150,
+        "UniversalGiftTaste": -40,
+        "ID": "Red Kombucha",
+        "JsonAssetsName": "Red Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Rice Flour.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "SellPrice": 150,
+        "UniversalGiftTaste": -20,
+        "ID": "Rice Flour",
+        "JsonAssetsName": "Rice Flour"
+    },
+    {
+        "Texture": "assets/objects/Rice Noodles.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Rice Noodles",
+        "JsonAssetsName": "Rice Noodles"
+    },
+    {
+        "Texture": "assets/objects/Rose Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "SellPrice": 1240,
+        "UniversalGiftTaste": -40,
+        "ID": "Rose Kombucha",
+        "JsonAssetsName": "Rose Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Rum.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Rum",
+        "JsonAssetsName": "Rum"
+    },
+    {
+        "Texture": "assets/objects/Saffron.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 250,
+        "UniversalGiftTaste": 45,
+        "ID": "Saffron",
+        "JsonAssetsName": "Saffron"
+    },
+    {
+        "Texture": "assets/objects/Sake.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 16,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Sake",
+        "JsonAssetsName": "Sake"
+    },
+    {
+        "Texture": "assets/objects/Salmonberry Fruit Sorbet.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 300,
+        "UniversalGiftTaste": -20,
+        "ID": "Salmonberry Fruit Sorbet",
+        "JsonAssetsName": "Salmonberry Fruit Sorbet"
+    },
+    {
+        "Texture": "assets/objects/Salted Caramel Mocha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 1,
+            "Duration": 180
+        },
+        "SellPrice": 500,
+        "UniversalGiftTaste": 20,
+        "ID": "Salted Caramel Mocha",
+        "JsonAssetsName": "Salted Caramel Mocha"
+    },
+    {
+        "Texture": "assets/objects/Schnapps.png",
+        "TextureColor": "assets/objects/Schnapps_color.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 36,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Schnapps",
+        "JsonAssetsName": "Schnapps"
+    },
+    {
+        "Texture": "assets/objects/Scone.png",
+        "Category": "Cooking",
+        "Edibility": 36,
+        "SellPrice": 220,
+        "UniversalGiftTaste": 20,
+        "ID": "Scone",
+        "JsonAssetsName": "Scone"
+    },
+    {
+        "Texture": "assets/objects/Scotch.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 10,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Scotch",
+        "JsonAssetsName": "Scotch"
+    },
+    {
+        "Texture": "assets/objects/Scotch Bonnet Extract.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 400,
+        "UniversalGiftTaste": 20,
+        "ID": "Scotch Bonnet Extract",
+        "JsonAssetsName": "Scotch Bonnet Extract"
+    },
+    {
+        "Texture": "assets/objects/Serrano Extract.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 375,
+        "UniversalGiftTaste": 20,
+        "ID": "Serrano Extract",
+        "JsonAssetsName": "Serrano Extract"
+    },
+    {
+        "Texture": "assets/objects/Sesame Oil.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 200,
+        "UniversalGiftTaste": 20,
+        "ID": "Sesame Oil",
+        "JsonAssetsName": "Sesame Oil"
+    },
+    {
+        "Texture": "assets/objects/Shochu.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 16,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Shochu",
+        "JsonAssetsName": "Shochu"
+    },
+    {
+        "Texture": "assets/objects/Simple Syrup.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 120,
+        "UniversalGiftTaste": 20,
+        "ID": "Simple Syrup",
+        "JsonAssetsName": "Simple Syrup"
+    },
+    {
+        "Texture": "assets/objects/Slime Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": -12,
+        "SellPrice": 100,
+        "UniversalGiftTaste": -40,
+        "ID": "Slime Butter",
+        "JsonAssetsName": "Slime Butter"
+    },
+    {
+        "Texture": "assets/objects/Smoked Lake Fish.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 100,
+        "UniversalGiftTaste": 20,
+        "ID": "Smoked Lake Fish",
+        "JsonAssetsName": "Smoked Lake Fish"
+    },
+    {
+        "Texture": "assets/objects/Smoked Ocean Fish.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 100,
+        "UniversalGiftTaste": 20,
+        "ID": "Smoked Ocean Fish",
+        "JsonAssetsName": "Smoked Ocean Fish"
+    },
+    {
+        "Texture": "assets/objects/Smoked River Fish.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 100,
+        "UniversalGiftTaste": 20,
+        "ID": "Smoked River Fish",
+        "JsonAssetsName": "Smoked River Fish"
+    },
+    {
+        "Texture": "assets/objects/Smoked Salmon.png",
+        "Category": "Cooking",
+        "Edibility": 20,
+        "SellPrice": 150,
+        "UniversalGiftTaste": -20,
+        "ID": "Smoked Salmon",
+        "JsonAssetsName": "Smoked Salmon"
+    },
+    {
+        "Texture": "assets/objects/Smooth Peanut Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 14,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "peanut_butter_item"
+        ],
+        "ID": "Smooth Peanut Butter",
+        "JsonAssetsName": "Smooth Peanut Butter"
+    },
+    {
+        "Texture": "assets/objects/Soy Sauce.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 200,
+        "UniversalGiftTaste": 20,
+        "ID": "Soy Sauce",
+        "JsonAssetsName": "Soy Sauce"
+    },
+    {
+        "Texture": "assets/objects/Soynut Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 14,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 45,
+        "ID": "Soynut Butter",
+        "JsonAssetsName": "Soynut Butter"
+    },
+    {
+        "Texture": "assets/objects/Sparkling Wine.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 22,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Sparkling Wine",
+        "JsonAssetsName": "Sparkling Wine"
+    },
+    {
+        "Texture": "assets/objects/Spiced Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "SellPrice": 2500,
+        "UniversalGiftTaste": 45,
+        "ID": "Spiced Kombucha",
+        "JsonAssetsName": "Spiced Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Stout.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 6,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Stout",
+        "JsonAssetsName": "Stout"
+    },
+    {
+        "Texture": "assets/objects/Strawberry Dragon Fruit Fruit Sorbet.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 560,
+        "UniversalGiftTaste": 20,
+        "ID": "Strawberry Dragon Fruit Fruit Sorbet",
+        "JsonAssetsName": "Strawberry Dragon Fruit Fruit Sorbet"
+    },
+    {
+        "Texture": "assets/objects/Strawberry Fruit Sorbet.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 60,
+        "SellPrice": 420,
+        "UniversalGiftTaste": 20,
+        "ID": "Strawberry Fruit Sorbet",
+        "JsonAssetsName": "Strawberry Fruit Sorbet"
+    },
+    {
+        "Texture": "assets/objects/Strawberry Grapefruit Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 42,
+        "SellPrice": 2000,
+        "UniversalGiftTaste": 45,
+        "ID": "Strawberry Grapefruit Kombucha",
+        "JsonAssetsName": "Strawberry Grapefruit Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Strawberry Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 250,
+        "UniversalGiftTaste": 45,
+        "ID": "Strawberry Ice Cream",
+        "JsonAssetsName": "Strawberry Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Sunflower Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 26,
+        "SellPrice": 120,
+        "UniversalGiftTaste": 20,
+        "ID": "Sunflower Butter",
+        "JsonAssetsName": "Sunflower Butter"
+    },
+    {
+        "Texture": "assets/objects/Sweet Sour Sauce.png",
+        "Category": "Cooking",
+        "Edibility": 5,
+        "SellPrice": 480,
+        "UniversalGiftTaste": 45,
+        "ID": "Sweet Sour Sauce",
+        "JsonAssetsName": "Sweet Sour Sauce"
+    },
+    {
+        "Texture": "assets/objects/Tapioca.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 175,
+        "UniversalGiftTaste": 20,
+        "ID": "Tapioca",
+        "JsonAssetsName": "Tapioca"
+    },
+    {
+        "Texture": "assets/objects/Tequila.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 14,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -3,
+            "Duration": 300
+        },
+        "SellPrice": 400,
+        "UniversalGiftTaste": 20,
+        "ID": "Tequila",
+        "JsonAssetsName": "Tequila"
+    },
+    {
+        "Texture": "assets/objects/Teriyaki Sauce.png",
+        "Category": "Cooking",
+        "Edibility": 5,
+        "SellPrice": 430,
+        "UniversalGiftTaste": 45,
+        "ID": "Teriyaki Sauce",
+        "JsonAssetsName": "Teriyaki Sauce"
+    },
+    {
+        "Texture": "assets/objects/Thread.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 125,
+        "UniversalGiftTaste": 20,
+        "ID": "Thread",
+        "JsonAssetsName": "Thread"
+    },
+    {
+        "Texture": "assets/objects/Thunder Mayonnaise.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 230,
+        "UniversalGiftTaste": 20,
+        "ID": "Thunder Mayonnaise",
+        "JsonAssetsName": "Thunder Mayonnaise"
+    },
+    {
+        "Texture": "assets/objects/Toasted Coconut Mocha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 1,
+            "Duration": 180
+        },
+        "SellPrice": 600,
+        "UniversalGiftTaste": 20,
+        "ID": "Toasted Coconut Mocha",
+        "JsonAssetsName": "Toasted Coconut Mocha"
+    },
+    {
+        "Texture": "assets/objects/Twine.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 20,
+        "UniversalGiftTaste": 20,
+        "ID": "Twine",
+        "JsonAssetsName": "Twine"
+    },
+    {
+        "Texture": "assets/objects/Umeshu.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 16,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 400,
+        "UniversalGiftTaste": 20,
+        "ID": "Umeshu",
+        "JsonAssetsName": "Umeshu"
+    },
+    {
+        "Texture": "assets/objects/Vanilla Ice Cream.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 38,
+        "SellPrice": 245,
+        "UniversalGiftTaste": 45,
+        "ID": "Vanilla Ice Cream",
+        "JsonAssetsName": "Vanilla Ice Cream"
+    },
+    {
+        "Texture": "assets/objects/Vanilla Latte.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 1,
+            "Duration": 180
+        },
+        "SellPrice": 450,
+        "UniversalGiftTaste": 20,
+        "ID": "Vanilla Latte",
+        "JsonAssetsName": "Vanilla Latte"
+    },
+    {
+        "Texture": "assets/objects/Vermouth.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 28,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -2,
+            "Duration": 180
+        },
+        "SellPrice": 400,
+        "UniversalGiftTaste": 20,
+        "ID": "Vermouth",
+        "JsonAssetsName": "Vermouth"
+    },
+    {
+        "Texture": "assets/objects/Vodka.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 16,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -4,
+            "Duration": 420
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Vodka",
+        "JsonAssetsName": "Vodka"
+    },
+    {
+        "Texture": "assets/objects/Walnut Butter.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 18,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 45,
+        "ID": "Walnut Butter",
+        "JsonAssetsName": "Walnut Butter"
+    },
+    {
+        "Texture": "assets/objects/Wasabi Mayonnaise.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 240,
+        "UniversalGiftTaste": -20,
+        "ID": "Wasabi Mayonnaise",
+        "JsonAssetsName": "Wasabi Mayonnaise"
+    },
+    {
+        "Texture": "assets/objects/Wasabi Paste.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 80,
+        "UniversalGiftTaste": -20,
+        "ID": "Wasabi Paste",
+        "JsonAssetsName": "Wasabi Paste"
+    },
+    {
+        "Texture": "assets/objects/Wheat Noodles.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 150,
+        "UniversalGiftTaste": 20,
+        "ID": "Wheat Noodles",
+        "JsonAssetsName": "Wheat Noodles"
+    },
+    {
+        "Texture": "assets/objects/Whiskey.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 10,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": -3,
+            "Duration": 300
+        },
+        "SellPrice": 400,
+        "UniversalGiftTaste": 20,
+        "ID": "Whiskey",
+        "JsonAssetsName": "Whiskey"
+    },
+    {
+        "Texture": "assets/objects/White Kombucha.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 18,
+        "EdibleIsDrink": true,
+        "SellPrice": 390,
+        "UniversalGiftTaste": 45,
+        "ID": "White Kombucha",
+        "JsonAssetsName": "White Kombucha"
+    },
+    {
+        "Texture": "assets/objects/Wine Yeast.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 5,
+        "UniversalGiftTaste": 20,
+        "ID": "Wine Yeast",
+        "JsonAssetsName": "Wine Yeast"
+    },
+    {
+        "Texture": "assets/objects/Yarn.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 200,
+        "UniversalGiftTaste": 20,
+        "ID": "Yarn",
+        "JsonAssetsName": "Yarn"
+    },
+    {
+        "Texture": "assets/objects/Yeast.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 5,
+        "UniversalGiftTaste": 20,
+        "ID": "Yeast",
+        "JsonAssetsName": "Yeast"
+    },
+    {
+        "Texture": "assets/objects/Yogurt.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 22,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 45,
+        "ID": "Yogurt",
+        "JsonAssetsName": "Yogurt"
+    },
+
+    // New Items
+
+    {
+        "Texture": "assets/objects/Cafe au Lait.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 2,
+            "Duration": 120
+        },
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Cafe au Lait",
+    },
+    {
+        "Texture": "assets/objects/Dark Coffee.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 30,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Speed": 4,
+            "Duration": 120
+        },
+        "SellPrice": 890,
+        "UniversalGiftTaste": 20,
+        "ID": "Dark Coffee",
+    },
+]

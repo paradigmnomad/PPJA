@@ -1,0 +1,715 @@
+[
+    // Rice
+
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 0,
+            "Y": 544,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/RiceCrop1.png:0",
+        "EnableConditions":
+        {
+            "Query: {{RiceCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 16,
+            "Y": 544,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/RiceCrop2.png:0",
+        "EnableConditions":
+        {
+            "Query: {{RiceCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 32,
+            "Y": 544,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/RiceCrop3.png:0",
+        "EnableConditions":
+        {
+            "Query: {{RiceCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 48,
+            "Y": 544,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/RiceCrop4.png:0",
+        "EnableConditions":
+        {
+            "Query: {{RiceCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 64,
+            "Y": 544,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/RiceCrop5.png:0",
+        "EnableConditions":
+        {
+            "Query: {{RiceCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 80,
+            "Y": 544,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/RiceCrop6.png:0",
+        "EnableConditions":
+        {
+            "Query: {{RiceCropEnabled}} = true": true
+        },
+    },
+
+    // Rice Seeds
+
+    {
+        "TargetTexture": "TileSheets/springobjects",
+        "TargetRect":
+        {
+            "X": 144,
+            "Y": 176,
+            "Width": 16,
+            "Height": 16
+        },
+        "SourceTexture": "assets/legacysprites/riceseeds.png:0",
+        "EnableConditions":
+        {
+            "Query: {{RiceCropEnabled}} = true": true
+        },
+    },
+
+    // Rice Item
+
+    {
+        "TargetTexture": "TileSheets/springobjects",
+        "TargetRect":
+        {
+            "X": 112,
+            "Y": 176,
+            "Width": 16,
+            "Height": 16
+        },
+        "SourceTexture": "assets/legacysprites/unmilledrice.png:0",
+        "EnableConditions":
+        {
+            "Query: {{RiceCropEnabled}} = true": true
+        },
+    },
+
+    // Taro
+
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 0,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/TaroCrop1.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TaroCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 16,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/TaroCrop2.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TaroCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 32,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/TaroCrop3.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TaroCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 48,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/TaroCrop4.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TaroCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 64,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/TaroCrop5.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TaroCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 80,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/TaroCrop6.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TaroCropEnabled}} = true": true
+        },
+    },
+
+    // Taro Seeds
+
+    {
+        "TargetTexture": "TileSheets/springobjects",
+        "TargetRect":
+        {
+            "X": 240,
+            "Y": 544,
+            "Width": 16,
+            "Height": 16
+        },
+        "SourceTexture": "assets/legacysprites/taroseed.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TaroCropEnabled}} = true": true
+        },
+    },
+
+    // Taro
+
+    {
+        "TargetTexture": "TileSheets/springobjects",
+        "TargetRect":
+        {
+            "X": 224,
+            "Y": 544,
+            "Width": 16,
+            "Height": 16
+        },
+        "SourceTexture": "assets/legacysprites/taro.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TaroCropEnabled}} = true": true
+        },
+    },
+
+    // Pineapple
+
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 128,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/PineappleCrop1.png:0",
+        "EnableConditions":
+        {
+            "Query: {{PineappleCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 144,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/PineappleCrop2.png:0",
+        "EnableConditions":
+        {
+            "Query: {{PineappleCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 160,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/PineappleCrop3.png:0",
+        "EnableConditions":
+        {
+            "Query: {{PineappleCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 176,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/PineappleCrop4.png:0",
+        "EnableConditions":
+        {
+            "Query: {{PineappleCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 192,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/PineappleCrop5.png:0",
+        "EnableConditions":
+        {
+            "Query: {{PineappleCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 208,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/PineappleCrop6.png:0",
+        "EnableConditions":
+        {
+            "Query: {{PineappleCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 224,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/PineappleCrop7.png:0",
+        "EnableConditions":
+        {
+            "Query: {{PineappleCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/crops",
+        "TargetRect":
+        {
+            "X": 240,
+            "Y": 672,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/PineappleCrop8.png:0",
+        "EnableConditions":
+        {
+            "Query: {{PineappleCropEnabled}} = true": true
+        },
+    },
+
+    // Pineapple Seeds
+
+    {
+        "TargetTexture": "TileSheets/springobjects",
+        "TargetRect":
+        {
+            "X": 272,
+            "Y": 544,
+            "Width": 16,
+            "Height": 16
+        },
+        "SourceTexture": "assets/legacysprites/pineappleseeds.png:0",
+        "EnableConditions":
+        {
+            "Query: {{PineappleCropEnabled}} = true": true
+        },
+    },
+
+    // Pineapple
+
+    {
+        "TargetTexture": "TileSheets/springobjects",
+        "TargetRect":
+        {
+            "X": 256,
+            "Y": 544,
+            "Width": 16,
+            "Height": 16
+        },
+        "SourceTexture": "assets/legacysprites/Pineapple.png:0",
+        "EnableConditions":
+        {
+            "Query: {{PineappleCropEnabled}} = true": true
+        },
+    },
+
+    // Ginger    
+
+    {
+        "TargetTexture": "TileSheets/springobjects",
+        "TargetRect":
+        {
+            "X": 208,
+            "Y": 544,
+            "Width": 16,
+            "Height": 16
+        },
+        "SourceTexture": "assets/legacysprites/ginger.png:0",
+        "EnableConditions":
+        {
+            "Query: {{GingerEnabled}} = true": true
+        },
+    },
+
+    // Tea
+
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 0,
+            "Y": 256,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_spring1.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 16,
+            "Y": 256,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_spring2.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 32,
+            "Y": 256,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_spring3.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 48,
+            "Y": 256,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_spring4.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 64,
+            "Y": 256,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_summer1.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 80,
+            "Y": 256,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_summer2.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 96,
+            "Y": 256,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_summer3.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 112,
+            "Y": 256,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_summer4.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 0,
+            "Y": 288,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_fall1.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 16,
+            "Y": 288,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_fall2.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 32,
+            "Y": 288,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_fall3.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 48,
+            "Y": 288,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_fall4.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 64,
+            "Y": 288,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_winter1.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 80,
+            "Y": 288,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_winter2.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 96,
+            "Y": 288,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_winter3.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/bushes",
+        "TargetRect":
+        {
+            "X": 112,
+            "Y": 288,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_winter4.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+
+    // Tea
+
+    {
+        "TargetTexture": "TileSheets/springobjects",
+        "TargetRect":
+        {
+            "X": 112,
+            "Y": 288,
+            "Width": 16,
+            "Height": 32
+        },
+        "SourceTexture": "assets/legacysprites/teacrop_winter4.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+
+    // Tea Seeds
+
+    {
+        "TargetTexture": "TileSheets/springobjects",
+        "TargetRect":
+        {
+            "X": 368,
+            "Y": 528,
+            "Width": 16,
+            "Height": 16
+        },
+        "SourceTexture": "assets/legacysprites/tealeaf.png:0",
+        "EnableConditions":
+        {
+            "Query: {{TeaCropEnabled}} = true": true
+        },
+    },
+]

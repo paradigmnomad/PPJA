@@ -1,0 +1,19 @@
+{
+  "Name": "[DGA] Farmer to Florist (DGA version)",
+  "Description": "Adds various flowers and flower-related recipes to the game.  Be sure to use with the accompanying machines via ProducerFrameworkMod!",
+  "Author": "Kildarien (Original) + Project Populate Json Assets",
+  "Version": "4.0.0",
+  "MinimumApiVersion": {
+    "MajorVersion": 3,
+    "MinorVersion": 7
+  },
+  "UniqueID": "kildarien.farmertoflorist.DGA",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.DynamicGameAssets"
+  },
+  "UpdateKeys": [
+    "Nexus:2075"
+  ],
+  "DGA.FormatVersion": 1,
+  "DGA.ConditionsFormatVersion": "1.23.0"
+}

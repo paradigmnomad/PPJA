@@ -1,0 +1,16 @@
+{
+  "object.Doubloon.name": "Doblón",
+  "object.Doubloon.description": "Una moneda con un solo propósito: ser vendida.",
+  "object.Coal Seeds.name": "Semillas de carbón",
+  "object.Coal Seeds.description": "Plantalas en primavera. Toma 8 dias para madurar",
+  "object.Copper Seeds.name": "Semillas de cobre",
+  "object.Copper Seeds.description": "Plantalas en primavera. Toma 10 dias para madurar.",
+  "object.Gold Seeds.name": "Semillas de oro",
+  "object.Gold Seeds.description": "Plantalas en otoño. Toma 20 dias para madurar.",
+  "object.Iridium Seeds.name": "Semillas de iridio",
+  "object.Iridium Seeds.description": "Plantalas en invierno. Toma 24 dias para madurar.",
+  "object.Iron Seeds.name": "Semillas de hierro",
+  "object.Iron Seeds.description": "Plantalas en verano. Toma 15 dias para madurar.",
+  "object.Doubloon Seeds.name": "Semillas Doblón",
+  "object.Doubloon Seeds.description": "Plantalas en otoño. Toma 10 dias para madurar, sigue produciendo después de la primera cosecha."
+}

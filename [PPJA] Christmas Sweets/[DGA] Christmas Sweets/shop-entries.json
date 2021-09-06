@@ -1,0 +1,50 @@
+[
+{
+    "ShopId": "IslandMerchant",
+    "Item":
+    {
+        "Value": "ppja.christmassweets.DGA/Converted_Decorated Gingerbread Man Recipe"
+    },
+    "Cost": 1450,
+    "EnableConditions":
+    {
+        "Season |contains=winter": "true",
+    }
+},
+{
+    "ShopId": "IslandMerchant",
+    "Item":
+    {
+        "Value": "ppja.christmassweets.DGA/Converted_Fruitcake Recipe"
+    },
+    "Cost": 1500,
+    "EnableConditions":
+    {
+        "Season |contains=winter": "true",
+    }
+},
+{
+    "ShopId": "IslandMerchant",
+    "Item":
+    {
+        "Value": "ppja.christmassweets.DGA/Converted_Gingerbread House Recipe"
+    },
+    "Cost": 1500,
+    "EnableConditions":
+    {
+        "Season |contains=winter": "true",
+    }
+},
+{
+    "ShopId": "IslandMerchant",
+    "Item":
+    {
+        "Value": "ppja.christmassweets.DGA/Christmas Pudding Recipe"
+    },
+    "Cost": 1500,
+    "EnableConditions":
+    {
+        "Season |contains=winter": "true",
+        "HasMod": "ppja.artisanvalleymachinegoods.DGA"
+    }
+}]

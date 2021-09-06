@@ -1,0 +1,65 @@
+[
+  {
+    "Texture": "assets/fruit-trees/Hibiscus Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "kildarien.farmertoflorist.DGA/Hibiscus"
+        }
+      }
+    ],
+    "ID": "Hibiscus Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Hibiscus Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Jasmine Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "kildarien.farmertoflorist.DGA/Jasmine"
+        }
+      }
+    ],
+    "ID": "Jasmine Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Jasmine Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Magnolia Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "kildarien.farmertoflorist.DGA/Magnolia"
+        }
+      }
+    ],
+    "ID": "Magnolia Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Magnolia Tree"
+  }
+]

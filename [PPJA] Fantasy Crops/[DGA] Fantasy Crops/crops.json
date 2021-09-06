@@ -1,0 +1,462 @@
+[
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Coal Root Crop.png:0",
+          "assets/crops/Coal Root Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Coal Root Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Coal Root Crop.png:3"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Coal Root Crop.png:4"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Coal Root Crop.png:5"
+        ],
+        "HarvestedDrops": [
+          {
+            "MininumHarvestedQuantity": 2,
+            "MaximumHarvestedQuantity": 3,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Type": "VanillaObject",
+                  "Value": "382"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 4
+      }
+    ],
+    "ID": "Coal Root Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring, summer"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Coal Root"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Copper Leaf Crop.png:0",
+          "assets/crops/Copper Leaf Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Copper Leaf Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Copper Leaf Crop.png:3"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Copper Leaf Crop.png:4"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Copper Leaf Crop.png:5"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Copper Leaf Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 5,
+            "ExtraQuantityChance": 2.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Type": "VanillaObject",
+                  "Value": "378"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 1
+      }
+    ],
+    "ID": "Copper Leaf Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Copper Leaf"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Gold Leaf Crop.png:0",
+          "assets/crops/Gold Leaf Crop.png:1"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Gold Leaf Crop.png:2"
+        ],
+        "Length": 4
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Gold Leaf Crop.png:3"
+        ],
+        "Length": 5
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Gold Leaf Crop.png:4"
+        ],
+        "Length": 4
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Gold Leaf Crop.png:5"
+        ],
+        "Length": 5
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Gold Leaf Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MininumHarvestedQuantity": 2,
+            "MaximumHarvestedQuantity": 3,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Type": "VanillaObject",
+                  "Value": "384"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 6
+      }
+    ],
+    "ID": "Gold Leaf Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Gold Leaf"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Iridium Fern Crop.png:0",
+          "assets/crops/Iridium Fern Crop.png:1"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iridium Fern Crop.png:2"
+        ],
+        "Length": 4
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iridium Fern Crop.png:3"
+        ],
+        "Length": 6
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iridium Fern Crop.png:4"
+        ],
+        "Length": 6
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iridium Fern Crop.png:5"
+        ],
+        "Length": 5
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iridium Fern Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MininumHarvestedQuantity": 2,
+            "MaximumHarvestedQuantity": 3,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Type": "VanillaObject",
+                  "Value": "386"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 16
+      }
+    ],
+    "ID": "Iridium Fern Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "winter"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Iridium Fern"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Iron Leaf Crop.png:0",
+          "assets/crops/Iron Leaf Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iron Leaf Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iron Leaf Crop.png:3"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iron Leaf Crop.png:4"
+        ],
+        "Length": 4
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iron Leaf Crop.png:5"
+        ],
+        "Length": 5
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iron Leaf Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MininumHarvestedQuantity": 2,
+            "MaximumHarvestedQuantity": 3,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Type": "VanillaObject",
+                  "Value": "380"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 3
+      }
+    ],
+    "ID": "Iron Leaf Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Iron Leaf"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Money Plant Crop.png:0",
+          "assets/crops/Money Plant Crop.png:1"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Money Plant Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Money Plant Crop.png:3"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Money Plant Crop.png:4"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Money Plant Crop.png:5"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Money Plant Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "ParadigmNomad.FantasyCrops.DGA/Doubloon"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 21,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Money Plant Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Money Plant"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Radioative Leaf Crop.png:0",
+          "assets/crops/Radioative Leaf Crop.png:1"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Radioative Leaf Crop.png:2"
+        ],
+        "Length": 4
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Radioative Leaf Crop.png:3"
+        ],
+        "Length": 6
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Radioative Leaf Crop.png:4"
+        ],
+        "Length": 6
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Radioative Leaf Crop.png:5"
+        ],
+        "Length": 5
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Radioative Leaf Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MininumHarvestedQuantity": 2,
+            "MaximumHarvestedQuantity": 3,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Type": "VanillaObject",
+                  "Value": "909"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 30
+      }
+    ],
+    "ID": "Radioative Leaf Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "winter"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Radioative Leaf"
+  }
+]

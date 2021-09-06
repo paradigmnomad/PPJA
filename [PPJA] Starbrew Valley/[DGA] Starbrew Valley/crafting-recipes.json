@@ -1,0 +1,1906 @@
+[
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Alexander Cocktail"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "ppja.starbrewvalley.DGA/Chocolate Liqueur"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Alexander Cocktail Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Americano"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.starbrewvalley.DGA/Club Soda"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vermouth"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      }
+    ],
+    "ID": "Converted_Americano Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Angel Face"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "634"
+      }
+    ],
+    "ID": "Converted_Angel Face Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Atomic Cocktail"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Brandy"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Champagne"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Orange Peel"
+      }
+    ],
+    "ID": "Converted_Atomic Cocktail Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Aviation"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "mizu.flowers.DGA/Shaded Violet",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Aviation Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Barracuda Cocktail"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Sparkling Wine"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "832"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      }
+    ],
+    "ID": "Converted_Barracuda Cocktail Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Basil Cranberry Julep"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Basil"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Mezcal"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "282",
+        "Quantity": 3
+      }
+    ],
+    "ID": "Converted_Basil Cranberry Julep Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Bay Breeze"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "832"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "282"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      }
+    ],
+    "ID": "Converted_Bay Breeze Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Bellini"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "636"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Sparkling Wine"
+      }
+    ],
+    "ID": "Converted_Bellini Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Black Junimo"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.starbrewvalley.DGA/Coffee Liqueur"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      }
+    ],
+    "ID": "Converted_Black Junimo Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Bloody Mary"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Celery"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Hot Sauce"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "152"
+      }
+    ],
+    "ID": "Converted_Bloody Mary Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Brandy Alexander"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Brandy"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Nutmeg"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Brandy Alexander Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Chocolate Liqueur"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Chocolate Liqueur Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Clover Club"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Raspberry"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Clover Club Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Coffee Liqueur"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "433",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Coffee Liqueur Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Cosmo"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "282"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      }
+    ],
+    "ID": "Converted_Cosmo Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Cuba Libre"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "167"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      }
+    ],
+    "ID": "Converted_Cuba Libre Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Daiquiri"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-79"
+      }
+    ],
+    "ID": "Converted_Daiquiri Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Dark and Stormy"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "829"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "346"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      }
+    ],
+    "ID": "Converted_Dark and Stormy Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Death in the Afternoon"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Sparkling Wine"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Absinthe"
+      }
+    ],
+    "ID": "Converted_Death in the Afternoon Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Derby"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "636"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Mint",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Derby Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Espresso Martini"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "433",
+        "Quantity": 3
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      }
+    ],
+    "ID": "Converted_Espresso Martini Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Frangelico Sour"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Frangelico"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      }
+    ],
+    "ID": "Converted_Frangelico Sour Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/French 75"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Sparkling Wine"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      }
+    ],
+    "ID": "Converted_French 75 Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/French Martini"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Raspberry"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "832"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      }
+    ],
+    "ID": "Converted_French Martini Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Gin Fizz"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "ppja.starbrewvalley.DGA/Club Soda"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      }
+    ],
+    "ID": "Converted_Gin Fizz Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Gin n Tonic"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "ppja.starbrewvalley.DGA/Tonic Water"
+      }
+    ],
+    "ID": "Converted_Gin n Tonic Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Green Junimo"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Value": "ppja.starbrewvalley.DGA/Coffee Liqueur"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Absinthe"
+      }
+    ],
+    "ID": "Converted_Green Junimo Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Hard Iced Tea"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "815",
+        "Quantity": 2
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      }
+    ],
+    "ID": "Converted_Hard Iced Tea Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Harlem Mugger Cocktail"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Champagne"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Lime Peel"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "282"
+      }
+    ],
+    "ID": "Converted_Harlem Mugger Cocktail Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Hemingway Special"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "636"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Grapefruit"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      }
+    ],
+    "ID": "Converted_Hemingway Special Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Irish Coffee"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Whiskey"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "395"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Brown Sugar"
+      }
+    ],
+    "ID": "Converted_Irish Coffee Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Lemon-Lime Soda"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.starbrewvalley.DGA/Club Soda"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      }
+    ],
+    "ID": "Converted_Lemon-Lime Soda Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Lemonado Cocktail"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Chambord"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Lime Peel"
+      }
+    ],
+    "ID": "Converted_Lemonado Cocktail Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Long Island Iced Tea"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "167"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Tequila"
+      }
+    ],
+    "ID": "Converted_Long Island Iced Tea Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Mai Tai"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "832"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      }
+    ],
+    "ID": "Converted_Mai Tai Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Margarita"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Tequila"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      }
+    ],
+    "ID": "Converted_Margarita Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Martini"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Olive"
+      }
+    ],
+    "ID": "Converted_Martini Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Mimosa"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Sparkling Wine"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      }
+    ],
+    "ID": "Converted_Mimosa Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Mint Julep"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Bourbon"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Mint"
+      }
+    ],
+    "ID": "Converted_Mint Julep Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Mojito"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.starbrewvalley.DGA/Club Soda"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Mint"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "245"
+      }
+    ],
+    "ID": "Converted_Mojito Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Monkey Gland"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Absinthe"
+      }
+    ],
+    "ID": "Converted_Monkey Gland Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Moonlight Jellies"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Aloe",
+        "Quantity": 2
+      }
+    ],
+    "ID": "Converted_Moonlight Jellies Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Moonshine Cherries"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Moonshine"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "638",
+        "Quantity": 3
+      }
+    ],
+    "ID": "Converted_Moonshine Cherries Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Moscow Mule"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "346"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "829"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Mint"
+      }
+    ],
+    "ID": "Converted_Moscow Mule Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Mudslide"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Chocolate"
+      },
+      {
+        "Value": "ppja.starbrewvalley.DGA/Coffee Liqueur"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      }
+    ],
+    "ID": "Converted_Mudslide Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Negroni"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vermouth"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Campari"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Orange Peel"
+      }
+    ],
+    "ID": "Converted_Negroni Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Night on the Beach"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Peach Schnapps"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "282"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      }
+    ],
+    "ID": "Converted_Night on the Beach Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Paradise"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "634"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      }
+    ],
+    "ID": "Converted_Paradise Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Planters Punch"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "638"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "832"
+      }
+    ],
+    "ID": "Converted_Planters Punch Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Poinsettia Cocktail"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Champagne"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Orange Peel"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "282"
+      }
+    ],
+    "ID": "Converted_Poinsettia Cocktail Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Porto Flip"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Brandy"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Nutmeg"
+      }
+    ],
+    "ID": "Converted_Porto Flip Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Queens Park Swizzle"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Simple Syrup"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Mint"
+      }
+    ],
+    "ID": "Converted_Queens Park Swizzle Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Ramos Gin Fizz"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.starbrewvalley.DGA/Seltzer"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      }
+    ],
+    "ID": "Converted_Ramos Gin Fizz Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Rum and Cola"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "167"
+      }
+    ],
+    "ID": "Converted_Rum and Cola Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Rum and Cola Float"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "167"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "233"
+      }
+    ],
+    "ID": "Converted_Rum and Cola Float Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Russian Spring Punch"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Sparkling Wine"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "410"
+      }
+    ],
+    "ID": "Converted_Russian Spring Punch Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Sandy's Calico Colada"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "88"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "832"
+      }
+    ],
+    "ID": "Converted_Sandy's Calico Colada Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Screwdriver"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      }
+    ],
+    "ID": "Converted_Screwdriver Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Sea Breeze"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.moretrees.DGA/Grapefruit"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "282"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      }
+    ],
+    "ID": "Converted_Sea Breeze Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Snakebite"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Stout"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Hard Apple Cider"
+      }
+    ],
+    "ID": "Converted_Snakebite Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Spritz Veneziano"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Sparkling Wine"
+      },
+      {
+        "Value": "ppja.starbrewvalley.DGA/Club Soda"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Campari"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Orange Peel"
+      }
+    ],
+    "ID": "Converted_Spritz Veneziano Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Stardew Sangria"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "348"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Brandy"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      }
+    ],
+    "ID": "Converted_Stardew Sangria Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Sweet Pink Cocktail"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Frangelico"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Rum"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "282"
+      }
+    ],
+    "ID": "Converted_Sweet Pink Cocktail Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Tequila Sunrise"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "635"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Tequila"
+      }
+    ],
+    "ID": "Converted_Tequila Sunrise Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/The Last Word"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Mint"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Olive"
+      }
+    ],
+    "ID": "Converted_The Last Word Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/The Mayor's Shorts"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Tequila"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      },
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Watermelon"
+      },
+      {
+        "Value": "mizu.flowers.DGA/Shaded Violet"
+      }
+    ],
+    "ID": "Converted_The Mayor's Shorts Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Tres Coops"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Mezcal"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lime"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Chili Powder"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_Tres Coops Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Vampiro"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Tequila"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "256"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "340"
+      },
+      {
+        "Type": "ContextTag",
+        "Value": "bell_pepper_item",
+        "IconOverride": "assets/context-tag-override/BellPepperIcon.png",
+        "NameOverride": "Bell Pepper (Any)"
+      },
+      {
+        "Value": "ppja.morerecipes.DGA/Salt"
+      }
+    ],
+    "ID": "Converted_Vampiro Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Void Essence Drink"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.fruitsandveggies.DGA/Passion Fruit"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "382"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "638"
+      }
+    ],
+    "ID": "Converted_Void Essence Drink Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/Whiskey Sour"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Whiskey"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "638"
+      }
+    ],
+    "ID": "Converted_Whiskey Sour Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/White Junimo"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Type": "VanillaObject",
+        "Value": "-6"
+      },
+      {
+        "Value": "ppja.starbrewvalley.DGA/Coffee Liqueur"
+      },
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
+      }
+    ],
+    "ID": "Converted_White Junimo Recipe"
+  },
+  {
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.starbrewvalley.DGA/White Lady"
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
+      },
+      {
+        "Value": "ppja.moretrees.DGA/Lemon"
+      },
+      {
+        "Type": "VanillaObject",
+        "Value": "-5"
+      }
+    ],
+    "ID": "Converted_White Lady Recipe"
+  }
+]

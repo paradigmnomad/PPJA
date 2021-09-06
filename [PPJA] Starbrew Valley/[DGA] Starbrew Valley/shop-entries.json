@@ -1,0 +1,1066 @@
+[
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Alexander Cocktail"
+    },
+    "Cost": 2285,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 2": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Americano"
+    },
+    "Cost": 704,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Angel Face"
+    },
+    "Cost": 925,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Atomic Cocktail"
+    },
+    "Cost": 900,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Aviation"
+    },
+    "Cost": 1015,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Barracuda Cocktail"
+    },
+    "Cost": 1395,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Basil Cranberry Julep"
+    },
+    "Cost": 1100,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Bay Breeze"
+    },
+    "Cost": 1225,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Bellini"
+    },
+    "Cost": 915,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Black Junimo"
+    },
+    "Cost": 1255,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Bloody Mary"
+    },
+    "Cost": 600,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Brandy Alexander"
+    },
+    "Cost": 500,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Clover Club"
+    },
+    "Cost": 1005,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Club Soda"
+    },
+    "Cost": 150,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Cosmo"
+    },
+    "Cost": 1055,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Cuba Libre"
+    },
+    "Cost": 900,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Daiquiri"
+    },
+    "Cost": 955,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Dark and Stormy"
+    },
+    "Cost": 1780,
+    "EnableConditions":
+    {
+        "Relationship:Sebastian": "8"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Death in the Afternoon"
+    },
+    "Cost": 1075,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Derby"
+    },
+    "Cost": 1800,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Espresso Martini"
+    },
+    "Cost": 975,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Frangelico Sour"
+    },
+    "Cost": 1200,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/French 75"
+    },
+    "Cost": 1225,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/French Martini"
+    },
+    "Cost": 1125,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Gin Fizz"
+    },
+    "Cost": 650,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Gin n Tonic"
+    },
+    "Cost": 350,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Green Junimo"
+    },
+    "Cost": 1365,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Hard Iced Tea"
+    },
+    "Cost": 1590,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Harlem Mugger Cocktail"
+    },
+    "Cost": 1400,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Hemingway Special"
+    },
+    "Cost": 1720,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 2": "true",
+        "Relationship:Elliott": "5"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Irish Coffee"
+    },
+    "Cost": 1425,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Lemon-Lime Soda"
+    },
+    "Cost": 400,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Lemonado Cocktail"
+    },
+    "Cost": 1100,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Long Island Iced Tea"
+    },
+    "Cost": 1900,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Mai Tai"
+    },
+    "Cost": 1820,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Margarita"
+    },
+    "Cost": 925,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Martini"
+    },
+    "Cost": 925,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Mimosa"
+    },
+    "Cost": 875,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Mineral Water"
+    },
+    "Cost": 150,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Mint Julep"
+    },
+    "Cost": 975,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Mojito"
+    },
+    "Cost": 650,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Monkey Gland"
+    },
+    "Cost": 1950,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Moonlight Jellies"
+    },
+    "Cost": 470,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Moscow Mule"
+    },
+    "Cost": 1835,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Mudslide"
+    },
+    "Cost": 1790,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Negroni"
+    },
+    "Cost": 1200,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Paradise"
+    },
+    "Cost": 1025,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Planters Punch"
+    },
+    "Cost": 1950,
+    "EnableConditions":
+    {
+        "Relationship:Lewis": "10"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Poinsettia Cocktail"
+    },
+    "Cost": 1100,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Porto Flip"
+    },
+    "Cost": 1680,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Queens Park Swizzle"
+    },
+    "Cost": 2000,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Ramos Gin Fizz"
+    },
+    "Cost": 950,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Rum and Cola"
+    },
+    "Cost": 800,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Rum and Cola Float"
+    },
+    "Cost": 920,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Russian Spring Punch"
+    },
+    "Cost": 1145,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Sandy's Calico Colada"
+    },
+    "Cost": 470,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Screwdriver"
+    },
+    "Cost": 875,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Seltzer"
+    },
+    "Cost": 175,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Snakebite"
+    },
+    "Cost": 1750,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Spritz Veneziano"
+    },
+    "Cost": 1250,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Stardew Sangria"
+    },
+    "Cost": 470,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Sweet Pink Cocktail"
+    },
+    "Cost": 1200,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Tequila Sunrise"
+    },
+    "Cost": 1055,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/The Last Word"
+    },
+    "Cost": 1705,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/The Mayor's Shorts"
+    },
+    "Cost": 470,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Tonic Water"
+    },
+    "Cost": 175,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Tres Coops"
+    },
+    "Cost": 1980,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Vampiro"
+    },
+    "Cost": 470,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Void Essence Drink"
+    },
+    "Cost": 470,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Whiskey Sour"
+    },
+    "Cost": 1680,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/White Junimo"
+    },
+    "Cost": 1365,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/White Lady"
+    },
+    "Cost": 1650,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Alexander Cocktail Recipe"
+    },
+    "Cost": 6960,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 4": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Angel Face Recipe"
+    },
+    "Cost": 5600,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Aviation Recipe"
+    },
+    "Cost": 5690,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 2": "true"
+    }
+},
+{
+    "ShopId": "ResortBar",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Barracuda Cocktail Recipe"
+    },
+    "Cost": 6070,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 2": "true",
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Basil Cranberry Julep Recipe"
+    },
+    "Cost": 5775,
+},
+{
+    "ShopId": "ResortBar",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Bay Breeze Recipe"
+    },
+    "Cost": 5900,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Bellini Recipe"
+    },
+    "Cost": 5590,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Black Junimo Recipe"
+    },
+    "Cost": 5930,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 4": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Bloody Mary Recipe"
+    },
+    "Cost": 1440,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 2": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Chocolate Liqueur Recipe"
+    },
+    "Cost": 6300,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 4": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Clover Club Recipe"
+    },
+    "Cost": 5680,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 2": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Coffee Liqueur Recipe"
+    },
+    "Cost": 5480,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Cuba Libre Recipe"
+    },
+    "Cost": 5575,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Daiquiri Recipe"
+    },
+    "Cost": 5630,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Death in the Afternoon Recipe"
+    },
+    "Cost": 5750,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Derby Recipe"
+    },
+    "Cost": 5800,
+},
+{
+    "ShopId": "ResortBar",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_French Martini Recipe"
+    },
+    "Cost": 5800,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Gin Fizz Recipe"
+    },
+    "Cost": 950,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Gin n Tonic Recipe"
+    },
+    "Cost": 750,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Green Junimo Recipe"
+    },
+    "Cost": 6040,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 4": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Hard Iced Tea Recipe"
+    },
+    "Cost": 5590,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Irish Coffee Recipe"
+    },
+    "Cost": 6100,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Lemon-Lime Soda Recipe"
+    },
+    "Cost": 1400,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Long Island Iced Tea Recipe"
+    },
+    "Cost": 6575,
+},
+{
+    "ShopId": "ResortBar",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Mai Tai Recipe"
+    },
+    "Cost": 5820,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Margarita Recipe"
+    },
+    "Cost": 5600,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Martini Recipe"
+    },
+    "Cost": 5600,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 2": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Mimosa Recipe"
+    },
+    "Cost": 3550,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Mojito Recipe"
+    },
+    "Cost": 1490,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Monkey Gland Recipe"
+    },
+    "Cost": 5950,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Moonlight Jellies Recipe"
+    },
+    "Cost": 940,
+    "EnableConditions":
+    {
+        "Relationship:Krobus": "4"
+    }
+},
+{
+    "ShopId": "ResortBar",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Moscow Mule Recipe"
+    },
+    "Cost": 5835,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Mudslide Recipe"
+    },
+    "Cost": 6465,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 4": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Porto Flip Recipe"
+    },
+    "Cost": 5680,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Queens Park Swizzle Recipe"
+    },
+    "Cost": 6000,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Ramos Gin Fizz Recipe"
+    },
+    "Cost": 1900,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Rum and Cola Recipe"
+    },
+    "Cost": 5475,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Rum and Cola Float Recipe"
+    },
+    "Cost": 5595,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Russian Spring Punch Recipe"
+    },
+    "Cost": 5820,
+},
+{
+    "ShopId": "ResortBar",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Sandy's Calico Colada Recipe"
+    },
+    "Cost": 940,
+    "EnableConditions":
+    {
+        "Relationship:Krobus": "4",
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Screwdriver Recipe"
+    },
+    "Cost": 5550,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Snakebite Recipe"
+    },
+    "Cost": 5750,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Stardew Sangria Recipe"
+    },
+    "Cost": 940,
+    "EnableConditions":
+    {
+        "Relationship:Krobus": "4"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Tequila Sunrise Recipe"
+    },
+    "Cost": 5730,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_The Last Word Recipe"
+    },
+    "Cost": 5705,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_The Mayor's Shorts Recipe"
+    },
+    "Cost": 940,
+    "EnableConditions":
+    {
+        "Relationship:Krobus": "4"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Tres Coops Recipe"
+    },
+    "Cost": 5980,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Void Essence Drink Recipe"
+    },
+    "Cost": 940,
+    "EnableConditions":
+    {
+        "Relationship:Krobus": "4"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_Whiskey Sour Recipe"
+    },
+    "Cost": 5680,
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_White Junimo Recipe"
+    },
+    "Cost": 6040,
+    "EnableConditions":
+    {
+        "Query: {{Year}} >= 4": "true"
+    }
+},
+{
+    "ShopId": "Saloon",
+    "Item":
+    {
+        "Value": "ppja.starbrewvalley.DGA/Converted_White Lady Recipe"
+    },
+    "Cost": 5650,
+}]

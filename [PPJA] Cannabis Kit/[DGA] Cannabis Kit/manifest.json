@@ -1,0 +1,23 @@
+{
+    "Name": "[DGA] Cannabis Kit for Dynamic Game Assets (DGA version)",
+    "Description": "Adds cannabis to your farm.",
+    "Author": "Project Populate Json Assets & taintedwheat",
+    "Version": "1.0.0",
+    "MinimumApiVersion":
+    {
+        "MajorVersion": 3,
+        "MinorVersion": 6,
+        "PatchVersion": 1
+    },
+    "UniqueID": "PPJA.cannabiskit.DGA",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.DynamicGameAssets"
+    },
+    "Dependencies": [],
+    "UpdateKeys": [
+        "Nexus:9443@CannabisKit"
+    ],
+    "DGA.FormatVersion": 1,
+    "DGA.ConditionsFormatVersion": "1.23.0"
+}

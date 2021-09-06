@@ -1,0 +1,353 @@
+[
+{
+    "ShopId": "Krobus",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Converted_Honey Stick Recipe"
+    },
+    "Cost": 1500,
+},
+{
+    "ShopId": "Krobus",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Converted_Weed-Infused Skooma Recipe"
+    },
+    "Cost": 5500,
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Afghani Starter"
+    },
+    "Cost": 400,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Afghanica Starter"
+    },
+    "Cost": 200,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Alien Technology Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Blue Dream Starter"
+    },
+    "Cost": 400,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Bruce Banner Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Cannabis Starter"
+    },
+    "Cost": 1000,
+    "EnableConditions":
+    {
+        "Season |contains=spring": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Chronic Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Colombian Gold Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Dr Grinspoon Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Girl Scout Cookies Starter"
+    },
+    "Cost": 400,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Green Crack Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "SeedShop",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Hemp Starter"
+    },
+    "Cost": 320,
+    "EnableConditions":
+    {
+        "Season |contains=spring": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Hindu Kush Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Idukki Gold Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Lamb's Breath Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Malawi Gold Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Mendocino Purps Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Nevilles Haze Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Northern Lights Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/OG Kush Starter"
+    },
+    "Cost": 350,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Puna Budder Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Purple Afghani Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Sour Diesel Starter"
+    },
+    "Cost": 350,
+    "EnableConditions":
+    {
+        "Season |contains=fall": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Strawberry Cough Starter"
+    },
+    "Cost": 350,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Tahoe OG Kush Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "SeedShop",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Tobacco Seeds"
+    },
+    "Cost": 30,
+    "EnableConditions":
+    {
+        "Season |contains=spring": "true"
+    }
+},
+{
+    "ShopId": "Hospital",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/Trainwreck Starter"
+    },
+    "Cost": 300,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+},
+{
+    "ShopId": "SeedShop",
+    "Item":
+    {
+        "Value": "PPJA.cannabiskit.DGA/White Widow Starter"
+    },
+    "Cost": 400,
+    "EnableConditions":
+    {
+        "Season |contains=summer": "true"
+    }
+}]

@@ -1,0 +1,170 @@
+[
+    {
+        "Name": "EnableAlpacaVariant",
+        "Description": "Changes the alpaca crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableBeastVariant",
+        "Description": "Changes the beast crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableBeefVariant",
+        "Description": "Changes the beef crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "CowColor",
+        "Description": "If the beef variant is set to static or animated, this changes the color of the beef crop.",
+        "ValueType": "String",
+        "ValidValues": "White, Brown",
+        "DefaultValue": "White"
+    },
+    {
+        "Name": "EnableBirdVariant",
+        "Description": "Changes the bird crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableBisonVariant",
+        "Description": "Changes the bison crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableChevonVariant",
+        "Description": "Changes the chevon crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableChickenVariant",
+        "Description": "Changes the chicken crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "ChickenColor",
+        "Description": "If the chicken variant is set to static or animated, this changes the color of the chicken crop.",
+        "ValueType": "String",
+        "ValidValues": "brown, white, blue, void, golden",
+        "DefaultValue": "brown"
+    },
+    {
+        "Name": "EnableDragonVariant",
+        "Description": "Changes the dragon crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableDuckVariant",
+        "Description": "Changes the duck crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableFowlVariant",
+        "Description": "Changes the fowl crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableFrogVariant",
+        "Description": "Changes the frog crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableHorseVariant",
+        "Description": "Changes the horse crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableMuttonVariant",
+        "Description": "Changes the mutton crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableOstrichVariant",
+        "Description": "Changes the ostrich crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnablePhoenixVariant",
+        "Description": "Changes the phoenix crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnablePorkVariant",
+        "Description": "Changes the pork crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableRabbitVariant",
+        "Description": "Changes the rabbit crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableReptileVariant",
+        "Description": "Changes the reptile crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableTurkeyVariant",
+        "Description": "Changes the turkey crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableVenisonVariant",
+        "Description": "Changes the venison crops appearance.",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "EnableWildBoarVariant",
+        "Description": "Changes the wild boar crops appearance",
+        "ValueType": "String",
+        "ValidValues": "Animated, Static, Disabled",
+        "DefaultValue": "Disabled"
+    },
+    {
+        "Name": "DragonToothEnabled",
+        "Description": "Enables the legacy dragon tooth sprite.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+]

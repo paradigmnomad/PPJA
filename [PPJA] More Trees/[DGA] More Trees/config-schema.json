@@ -1,0 +1,16 @@
+[   
+    {
+        "Name": "BananaTreeEnabled",
+        "Description": "Enables the legacy banana tree sprite.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+    {
+        "Name": "MangoTreeEnabled",
+        "Description": "Enables the legacy rice crop sprite.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+]

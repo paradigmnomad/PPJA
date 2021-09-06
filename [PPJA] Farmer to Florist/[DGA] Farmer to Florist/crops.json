@@ -1,0 +1,1688 @@
+[
+  {
+    "Colors": [
+      {
+        "B": 204,
+        "G": 124,
+        "R": 177,
+        "A": 255
+      },
+      {
+        "B": 161,
+        "G": 30,
+        "R": 151,
+        "A": 255
+      },
+      {
+        "B": 254,
+        "G": 254,
+        "R": 254,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Allium Crop.png:0",
+          "assets/crops/Allium Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Allium Crop.png:2"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Allium Crop.png:3"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Allium Crop.png:4"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Allium Crop.png:5"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Allium Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Allium"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 10
+      }
+    ],
+    "ID": "Allium Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Allium"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Camellia Crop.png:0",
+          "assets/crops/Camellia Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Camellia Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Camellia Crop.png:3"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Camellia Crop.png:4"
+        ],
+        "Length": 4
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Camellia Crop.png:5"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Camellia Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "MininumHarvestedQuantity": 2,
+            "MaximumHarvestedQuantity": 3,
+            "ExtraQuantityChance": 0.02,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Camellia"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 10,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Camellia Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring, fall"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Camellia"
+  },
+  {
+    "Colors": [
+      {
+        "B": 254,
+        "G": 254,
+        "R": 254,
+        "A": 255
+      },
+      {
+        "B": 130,
+        "G": 40,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "B": 20,
+        "G": 20,
+        "R": 255,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Carnation Crop.png:0",
+          "assets/crops/Carnation Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Carnation Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Carnation Crop.png:3"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Carnation Crop.png:4"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Carnation Crop.png:5"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Carnation Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Carnation"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 20
+      }
+    ],
+    "ID": "Carnation Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring, summer"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Carnation"
+  },
+  {
+    "Colors": [
+      {
+        "B": 10,
+        "G": 200,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "B": 40,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "B": 20,
+        "G": 110,
+        "R": 255,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Chrysanthemum Crop.png:0",
+          "assets/crops/Chrysanthemum Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Chrysanthemum Crop.png:2"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Chrysanthemum Crop.png:3"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Chrysanthemum Crop.png:4"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Chrysanthemum Crop.png:5"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Chrysanthemum Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Chrysanthemum"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 12
+      }
+    ],
+    "ID": "Chrysanthemum Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Chrysanthemum"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Clematis Crop.png:0",
+          "assets/crops/Clematis Crop.png:1"
+        ],
+        "Length": 1,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Clematis Crop.png:2"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Clematis Crop.png:3"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Clematis Crop.png:4"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Clematis Crop.png:5"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Clematis Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 2,
+            "ExtraQuantityChance": 0.2,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Clematis"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 12,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Clematis Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Clematis"
+  },
+  {
+    "Colors": [
+      {
+        "B": 80,
+        "G": 30,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "B": 15,
+        "G": 70,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "G": 180,
+        "R": 255,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Dahlia Crop.png:0",
+          "assets/crops/Dahlia Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Dahlia Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Dahlia Crop.png:3"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Dahlia Crop.png:4"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Dahlia Crop.png:5"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Dahlia Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Dahlia"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 14
+      }
+    ],
+    "ID": "Dahlia Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Dahlia"
+  },
+  {
+    "Colors": [
+      {
+        "B": 255,
+        "G": 135,
+        "R": 85,
+        "A": 255
+      },
+      {
+        "B": 255,
+        "G": 100,
+        "R": 195,
+        "A": 255
+      },
+      {
+        "B": 230,
+        "G": 90,
+        "R": 255,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Delphinium Crop.png:0",
+          "assets/crops/Delphinium Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Delphinium Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Delphinium Crop.png:3"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Delphinium Crop.png:4"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Delphinium Crop.png:5"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Delphinium Crop.png:6"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Delphinium Crop.png:7"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Delphinium"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 22
+      }
+    ],
+    "ID": "Delphinium Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Delphinium"
+  },
+  {
+    "Colors": [
+      {
+        "B": 175,
+        "G": 70,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "R": 255,
+        "A": 255
+      },
+      {
+        "B": 100,
+        "R": 255,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/English Rose Crop.png:0",
+          "assets/crops/English Rose Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/English Rose Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/English Rose Crop.png:3"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/English Rose Crop.png:4"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/English Rose Crop.png:5"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/English Rose Crop.png:6"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/English Rose Crop.png:7"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/English Rose"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 29
+      }
+    ],
+    "ID": "English Rose Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "English Rose"
+  },
+  {
+    "Colors": [
+      {
+        "G": 125,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "G": 200,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "B": 230,
+        "G": 80,
+        "R": 255,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Freesia Crop.png:0",
+          "assets/crops/Freesia Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Freesia Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Freesia Crop.png:3"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Freesia Crop.png:4"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Freesia Crop.png:5"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Freesia Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Freesia"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 21
+      }
+    ],
+    "ID": "Freesia Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Freesia"
+  },
+  {
+    "Colors": [
+      {
+        "B": 100,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "G": 15,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "B": 15,
+        "G": 65,
+        "R": 255,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Geranium Crop.png:0",
+          "assets/crops/Geranium Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Geranium Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Geranium Crop.png:3"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Geranium Crop.png:4"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Geranium Crop.png:5"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Geranium Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Geranium"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 20
+      }
+    ],
+    "ID": "Geranium Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Geranium"
+  },
+  {
+    "Colors": [
+      {
+        "B": 80,
+        "G": 15,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "B": 190,
+        "G": 120,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "B": 254,
+        "G": 254,
+        "R": 254,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Herbal Peony Crop.png:0",
+          "assets/crops/Herbal Peony Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Herbal Peony Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Herbal Peony Crop.png:3"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Herbal Peony Crop.png:4"
+        ],
+        "Length": 4
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Herbal Peony Crop.png:5"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Herbal Peony Crop.png:6"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Herbal Peony Crop.png:7"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Herbal Peony"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 27
+      }
+    ],
+    "ID": "Herbal Peony Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Herbal Peony"
+  },
+  {
+    "Colors": [
+      {
+        "B": 255,
+        "G": 55,
+        "R": 85,
+        "A": 255
+      },
+      {
+        "B": 255,
+        "G": 75,
+        "R": 185,
+        "A": 255
+      },
+      {
+        "B": 254,
+        "G": 254,
+        "R": 254,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Hyacinth Crop.png:0",
+          "assets/crops/Hyacinth Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Hyacinth Crop.png:2"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Hyacinth Crop.png:3"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Hyacinth Crop.png:4"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Hyacinth Crop.png:5"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Hyacinth Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Hyacinth"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 12
+      }
+    ],
+    "ID": "Hyacinth Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Hyacinth"
+  },
+  {
+    "Colors": [
+      {
+        "B": 255,
+        "G": 185,
+        "R": 120,
+        "A": 255
+      },
+      {
+        "B": 255,
+        "G": 115,
+        "R": 240,
+        "A": 255
+      },
+      {
+        "B": 165,
+        "G": 110,
+        "R": 255,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Hydrangea Crop.png:0",
+          "assets/crops/Hydrangea Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Hydrangea Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Hydrangea Crop.png:3"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Hydrangea Crop.png:4"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Hydrangea Crop.png:5"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Hydrangea Crop.png:6"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Hydrangea Crop.png:7"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Hydrangea"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 22
+      }
+    ],
+    "ID": "Hydrangea Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Hydrangea"
+  },
+  {
+    "Colors": [
+      {
+        "B": 255,
+        "G": 20,
+        "R": 30,
+        "A": 255
+      },
+      {
+        "B": 255,
+        "R": 125,
+        "A": 255
+      },
+      {
+        "B": 255,
+        "R": 200,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Iris Crop.png:0",
+          "assets/crops/Iris Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iris Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iris Crop.png:3"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iris Crop.png:4"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iris Crop.png:5"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Iris Crop.png:6"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Iris Crop.png:7"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Iris"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 24
+      }
+    ],
+    "ID": "Iris Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Iris"
+  },
+  {
+    "Colors": [
+      {
+        "B": 255,
+        "G": 150,
+        "R": 200,
+        "A": 255
+      },
+      {
+        "B": 255,
+        "G": 50,
+        "R": 150,
+        "A": 255
+      },
+      {
+        "B": 254,
+        "G": 254,
+        "R": 254,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Lavender Crop.png:0",
+          "assets/crops/Lavender Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lavender Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lavender Crop.png:3"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lavender Crop.png:4"
+        ],
+        "Length": 4
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lavender Crop.png:5"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lavender Crop.png:6"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Lavender Crop.png:7"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Lavender"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 26
+      }
+    ],
+    "ID": "Lavender Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Lavender"
+  },
+  {
+    "Colors": [
+      {
+        "B": 255,
+        "G": 150,
+        "R": 200,
+        "A": 255
+      },
+      {
+        "B": 255,
+        "G": 50,
+        "R": 150,
+        "A": 255
+      },
+      {
+        "B": 230,
+        "G": 100,
+        "R": 255,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Lilac Crop.png:0",
+          "assets/crops/Lilac Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lilac Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lilac Crop.png:3"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lilac Crop.png:4"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lilac Crop.png:5"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lilac Crop.png:6"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Lilac Crop.png:7"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Lilac"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 23
+      }
+    ],
+    "ID": "Lilac Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Lilac"
+  },
+  {
+    "Colors": [
+      {
+        "B": 254,
+        "G": 254,
+        "R": 254,
+        "A": 255
+      },
+      {
+        "B": 20,
+        "G": 125,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "G": 200,
+        "R": 255,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Lily Crop.png:0",
+          "assets/crops/Lily Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lily Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lily Crop.png:3"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lily Crop.png:4"
+        ],
+        "Length": 3
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lily Crop.png:5"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Lily Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Lily"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 21
+      }
+    ],
+    "ID": "Lily Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Lily"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Lotus Crop.png:0",
+          "assets/crops/Lotus Crop.png:1"
+        ],
+        "Length": 1,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lotus Crop.png:2"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lotus Crop.png:3"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lotus Crop.png:4"
+        ],
+        "Length": 3,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lotus Crop.png:5"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Lotus Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Lotus"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 13,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Lotus Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Lotus"
+  },
+  {
+    "Colors": [
+      {
+        "B": 120,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "B": 255,
+        "R": 255,
+        "A": 255
+      },
+      {
+        "B": 255,
+        "R": 200,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Petunia Crop.png:0",
+          "assets/crops/Petunia Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Petunia Crop.png:2"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Petunia Crop.png:3"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Petunia Crop.png:4"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Petunia Crop.png:5"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Petunia Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Petunia"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 14
+      }
+    ],
+    "ID": "Petunia Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Petunia"
+  },
+  {
+    "Colors": [
+      {
+        "B": 255,
+        "G": 35,
+        "R": 205,
+        "A": 255
+      },
+      {
+        "B": 255,
+        "G": 30,
+        "R": 125,
+        "A": 255
+      },
+      {
+        "B": 255,
+        "G": 35,
+        "R": 80,
+        "A": 255
+      }
+    ],
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Violet Crop.png:0",
+          "assets/crops/Violet Crop.png:1"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Violet Crop.png:2"
+        ],
+        "Length": 1
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Violet Crop.png:3"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Violet Crop.png:4"
+        ],
+        "Length": 2
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Violet Crop.png:5"
+        ],
+        "TextureColorChoices": [
+          "assets/crops/Violet Crop.png:6"
+        ],
+        "HarvestedDrops": [
+          {
+            "ExtraQuantityChance": 0.0,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Violet"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 15
+      }
+    ],
+    "ID": "Violet Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Violet"
+  },
+  {
+    "Phases": [
+      {
+        "TextureChoices": [
+          "assets/crops/Wisteria Crop.png:0",
+          "assets/crops/Wisteria Crop.png:1"
+        ],
+        "Length": 2,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Wisteria Crop.png:2"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Wisteria Crop.png:3"
+        ],
+        "Length": 5,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Wisteria Crop.png:4"
+        ],
+        "Length": 5,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Wisteria Crop.png:5"
+        ],
+        "Length": 4,
+        "Trellis": true
+      },
+      {
+        "TextureChoices": [
+          "assets/crops/Wisteria Crop.png:6"
+        ],
+        "Trellis": true,
+        "HarvestedDrops": [
+          {
+            "MaximumHarvestedQuantity": 3,
+            "ExtraQuantityChance": 0.1,
+            "Item": [
+              {
+                "Weight": 1.0,
+                "Value": {
+                  "Value": "kildarien.farmertoflorist.DGA/Wisteria"
+                }
+              }
+            ]
+          }
+        ],
+        "HarvestedExperience": 29,
+        "HarvestedNewPhase": 3
+      }
+    ],
+    "ID": "Wisteria Crop",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      },
+    ],
+    "JsonAssetsName": "Wisteria"
+  }
+]

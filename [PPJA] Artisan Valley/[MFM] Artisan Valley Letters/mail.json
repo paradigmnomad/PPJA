@@ -5,7 +5,7 @@
 		"Title": "alembic.title",
 		"Text": "alembic.text",
 		"Recipe": "Alembic",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"SkillConditions": 
@@ -19,7 +19,7 @@
 		"Title": "butterchurn.title",
 		"Text": "butterchurn.text",
 		"Recipe": "Butter Churn",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -37,7 +37,7 @@
 		"Title": "infuser.title",
 		"Text": "infuser.text",
 		"Recipe": "Infuser",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y3",
 		"Repeatable": false,
 		"SkillConditions": 
@@ -51,7 +51,7 @@
 		"Title": "still.title",
 		"Text": "still.text",
 		"Recipe": "Still",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 fall Y3",
 		"Repeatable": false,
 		"SkillConditions": 

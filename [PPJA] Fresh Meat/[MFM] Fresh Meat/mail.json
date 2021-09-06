@@ -5,7 +5,7 @@
 		"Title": "grilledskewer.title",
 		"Text": "grilledskewer.text",
 		"Recipe": "Grilled Skewer",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
 		"FriendshipConditions":
@@ -23,7 +23,7 @@
 		"Title": "spaghettiandmeatballs.title",
 		"Text": "spaghettiandmeatballs.text",
 		"Recipe": "Spaghetti and Meatballs",
-		"LetterBG": "NicteLetterBackground.png",
+		"LetterBG": "CloudLetterBackground.png",
 		"Repeatable": false,
 		"FriendshipConditions":
 		[

@@ -1,0 +1,350 @@
+[
+
+    // Banana
+    
+    {
+        "TargetTexture": "TileSheets/fruittrees",
+        "TargetRect":
+        {
+            "X": 0,
+            "Y": 560,
+            "Width": 40,
+            "Height": 80
+        },
+        "SourceTexture": "assets/legacysprites/BananaTree1.png:0",
+        "EnableConditions":
+        {
+            "Query: {{BananaTreeEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/fruittrees",
+        "TargetRect":
+        {
+            "X": 48,
+            "Y": 560,
+            "Width": 40,
+            "Height": 80
+        },
+        "SourceTexture": "assets/legacysprites/BananaTree2.png:0",
+        "EnableConditions":
+        {
+            "Query: {{BananaTreeEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/fruittrees",
+        "TargetRect":
+        {
+            "X": 96,
+            "Y": 560,
+            "Width": 40,
+            "Height": 80
+        },
+        "SourceTexture": "assets/legacysprites/BananaTree3.png:0",
+        "EnableConditions":
+        {
+            "Query: {{BananaTreeEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/fruittrees",
+        "TargetRect":
+        {
+            "X": 144,
+            "Y": 560,
+            "Width": 40,
+            "Height": 80
+        },
+        "SourceTexture": "assets/legacysprites/BananaTree4.png:0",
+        "EnableConditions":
+        {
+            "Query: {{BananaTreeEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/fruittrees",
+        "TargetRect":
+        {
+            "X": 192,
+            "Y": 560,
+            "Width": 40,
+            "Height": 80
+        },
+        "SourceTexture": "assets/legacysprites/BananaTree5.png:0",
+        "EnableConditions":
+        {
+            "Query: {{BananaTreeEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/fruittrees",
+        "TargetRect":
+        {
+            "X": 240,
+            "Y": 560,
+            "Width": 40,
+            "Height": 80
+        },
+        "SourceTexture": "assets/legacysprites/BananaTree6.png:0",
+        "EnableConditions":
+        {
+            "Query: {{BananaTreeEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/fruittrees",
+        "TargetRect":
+        {
+            "X": 288,
+            "Y": 560,
+            "Width": 40,
+            "Height": 80
+        },
+        "SourceTexture": "assets/legacysprites/BananaTree7.png:0",
+        "EnableConditions":
+        {
+            "Query: {{BananaTreeEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/fruittrees",
+        "TargetRect":
+        {
+            "X": 366,
+            "Y": 560,
+            "Width": 40,
+            "Height": 80
+        },
+        "SourceTexture": "assets/legacysprites/BananaTree8.png:0",
+        "EnableConditions":
+        {
+            "Query: {{BananaTreeEnabled}} = true": true
+        },
+    },
+    {
+        "TargetTexture": "TileSheets/fruittrees",
+        "TargetRect":
+        {
+            "X": 384,
+            "Y": 560,
+            "Width": 40,
+            "Height": 80
+        },
+        "SourceTexture": "assets/legacysprites/BananaTree9.png:0",
+        "EnableConditions":
+        {
+            "Query: {{BananaTreeEnabled}} = true": true
+        },
+    },
+
+    // Banana Item
+
+    {
+        "TargetTexture": "TileSheets/springobjects",
+        "TargetRect":
+        {
+            "X": 304,
+            "Y": 48,
+            "Width": 16,
+            "Height": 16
+        },
+        "SourceTexture": "assets/legacysprites/banana.png:0",
+        "EnableConditions":
+        {
+            "Query: {{BananaTreeEnabled}} = true": true
+        },
+    },
+
+    // Banana Sapling
+
+    {
+        "TargetTexture": "TileSheets/springobjects",
+        "TargetRect":
+        {
+            "X": 336,
+            "Y": 32,
+            "Width": 16,
+            "Height": 16
+        },
+        "SourceTexture": "assets/legacysprites/bananasapling.png:0",
+        "EnableConditions":
+        {
+            "Query: {{BananaTreeEnabled}} = true": true
+        },
+    },
+
+    // Mango
+
+        {
+            "TargetTexture": "TileSheets/fruittrees",
+            "TargetRect":
+            {
+                "X": 0,
+                "Y": 640,
+                "Width": 40,
+                "Height": 80
+            },
+            "SourceTexture": "assets/legacysprites/MangoTree1.png:0",
+            "EnableConditions":
+            {
+                "Query: {{MangoTreeEnabled}} = true": true
+            },
+        },
+        {
+            "TargetTexture": "TileSheets/fruittrees",
+            "TargetRect":
+            {
+                "X": 48,
+                "Y": 640,
+                "Width": 40,
+                "Height": 80
+            },
+            "SourceTexture": "assets/legacysprites/MangoTree2.png:0",
+            "EnableConditions":
+            {
+                "Query: {{MangoTreeEnabled}} = true": true
+            },
+        },
+        {
+            "TargetTexture": "TileSheets/fruittrees",
+            "TargetRect":
+            {
+                "X": 96,
+                "Y": 640,
+                "Width": 40,
+                "Height": 80
+            },
+            "SourceTexture": "assets/legacysprites/MangoTree3.png:0",
+            "EnableConditions":
+            {
+                "Query: {{MangoTreeEnabled}} = true": true
+            },
+        },
+        {
+            "TargetTexture": "TileSheets/fruittrees",
+            "TargetRect":
+            {
+                "X": 144,
+                "Y": 640,
+                "Width": 40,
+                "Height": 80
+            },
+            "SourceTexture": "assets/legacysprites/MangoTree4.png:0",
+            "EnableConditions":
+            {
+                "Query: {{MangoTreeEnabled}} = true": true
+            },
+        },
+        {
+            "TargetTexture": "TileSheets/fruittrees",
+            "TargetRect":
+            {
+                "X": 192,
+                "Y": 640,
+                "Width": 40,
+                "Height": 80
+            },
+            "SourceTexture": "assets/legacysprites/MangoTree5.png:0",
+            "EnableConditions":
+            {
+                "Query: {{MangoTreeEnabled}} = true": true
+            },
+        },
+        {
+            "TargetTexture": "TileSheets/fruittrees",
+            "TargetRect":
+            {
+                "X": 240,
+                "Y": 640,
+                "Width": 40,
+                "Height": 80
+            },
+            "SourceTexture": "assets/legacysprites/MangoTree6.png:0",
+            "EnableConditions":
+            {
+                "Query: {{MangoTreeEnabled}} = true": true
+            },
+        },
+        {
+            "TargetTexture": "TileSheets/fruittrees",
+            "TargetRect":
+            {
+                "X": 288,
+                "Y": 640,
+                "Width": 40,
+                "Height": 80
+            },
+            "SourceTexture": "assets/legacysprites/MangoTree7.png:0",
+            "EnableConditions":
+            {
+                "Query: {{MangoTreeEnabled}} = true": true
+            },
+        },
+        {
+            "TargetTexture": "TileSheets/fruittrees",
+            "TargetRect":
+            {
+                "X": 366,
+                "Y": 640,
+                "Width": 40,
+                "Height": 80
+            },
+            "SourceTexture": "assets/legacysprites/MangoTree8.png:0",
+            "EnableConditions":
+            {
+                "Query: {{MangoTreeEnabled}} = true": true
+            },
+        },
+        {
+            "TargetTexture": "TileSheets/fruittrees",
+            "TargetRect":
+            {
+                "X": 384,
+                "Y": 640,
+                "Width": 40,
+                "Height": 80
+            },
+            "SourceTexture": "assets/legacysprites/MangoTree9.png:0",
+            "EnableConditions":
+            {
+                "Query: {{MangoTreeEnabled}} = true": true
+            },
+        },
+
+        // Mango Item
+
+        {
+            "TargetTexture": "TileSheets/springobjects",
+            "TargetRect":
+            {
+                "X": 288,
+                "Y": 544,
+                "Width": 16,
+                "Height": 16
+            },
+            "SourceTexture": "assets/legacysprites/mango.png:0",
+            "EnableConditions":
+            {
+                "Query: {{MangoTreeEnabled}} = true": true
+            },
+        },
+
+        // Mango Sapling
+
+        {
+            "TargetTexture": "TileSheets/springobjects",
+            "TargetRect":
+            {
+                "X": 304,
+                "Y": 544,
+                "Width": 16,
+                "Height": 16
+            },
+            "SourceTexture": "assets/legacysprites/mangosapling.png:0",
+            "EnableConditions":
+            {
+                "Query: {{MangoTreeEnabled}} = true": true
+            },
+        },
+    ]

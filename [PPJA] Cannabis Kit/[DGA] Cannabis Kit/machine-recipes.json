@@ -1,0 +1,28 @@
+[
+    // Drying Rack
+
+{
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Drying Rack",
+        "MinutesToProcess": 100,
+        "Ingredients": [
+            {               
+                "Value": "Hemp",
+            },          
+        ],
+        "Result": {            
+            "Value": "ppja.cannabiskit.DGA/Hemp Cloth"
+        },
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Drying Rack",
+        "MinutesToProcess": 800,
+        "Ingredients": [
+            {                
+                "Value": "Tobacco",
+            },          
+        ],
+        "Result": {            
+            "Value": "ppja.cannabiskit.DGA/Dried Tobacco"
+        },
+    },
+]

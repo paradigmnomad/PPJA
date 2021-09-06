@@ -1,0 +1,102 @@
+[
+  {
+    "ObjectId": "mizu.flowers.DGA/Bee Balm",
+    "NPC": "Haley, Leah, Sandy",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Blue Mist",
+    "NPC": "Abigail, Caroline, Emily, Haley, Leah, Maru, Penny",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Blue Mist",
+    "NPC": "Clint, George, Krobus, Willy",
+    "Amount": 20
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Chamomile",
+    "NPC": "Emily, Evelyn, Harvey, Jodi",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Clary Sage",
+    "NPC": "Wizard",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Fairy Duster",
+    "NPC": "Jas, Sandy",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Fragrant Lilac",
+    "NPC": "Emily, Robin",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Herbal Lavender",
+    "NPC": "Elliott, Emily, Haley",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Honeysuckle",
+    "NPC": "Leah, Marnie, Sandy",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Passion Flower",
+    "NPC": "Elliott, Emily",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Pink Cat",
+    "NPC": "Haley, Jas",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Pitcher Plant",
+    "NPC": "Krobus, Maru",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Pitcher Plant",
+    "NPC": "Abigail, Sebastian, Sam, Sandy, Harvey, Dwarf",
+    "Amount": 45
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Pitcher Plant",
+    "NPC": "Caroline, Elliott, Kent",
+    "Amount": -20
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Pitcher Plant",
+    "NPC": "Alex",
+    "Amount": -40
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Rafflesia",
+    "NPC": "Krobus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Rafflesia",
+    "NPC": "Demetrius, Maru",
+    "Amount": 45
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Rose",
+    "NPC": "Evelyn, Jodi, Penny, Haley",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Shaded Violet",
+    "NPC": "Abigail, Krobus",
+    "Amount": 80
+  },
+  {
+    "ObjectId": "mizu.flowers.DGA/Shaded Violet",
+    "NPC": "Alex",
+    "Amount": 45
+  }
+]

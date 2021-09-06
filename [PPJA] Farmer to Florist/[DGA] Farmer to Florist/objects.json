@@ -1,0 +1,810 @@
+[
+{
+    "Texture": "assets/objects/Allium.png",
+    "TextureColor": "assets/objects/Allium_color.png",
+    "Category": "Flower",
+    "Edibility": 10,
+    "SellPrice": 50,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_summer",
+        "flower_item",
+        "color_purple"
+    ],
+    "ID": "Allium",
+    "JsonAssetsName": "Allium"
+},
+{
+    "Texture": "assets/objects/Autumnal Tea.png",
+    "Category": "Cooking",
+    "Edibility": 100,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 1,
+        "Duration": 300
+    },
+    "SellPrice": 350,
+    "UniversalGiftTaste": 45,
+    "ID": "Autumnal Tea",
+    "JsonAssetsName": "Autumnal Tea"
+},
+{
+    "Texture": "assets/objects/Boiled Greens.png",
+    "Category": "Cooking",
+    "Edibility": 80,
+    "SellPrice": 200,
+    "UniversalGiftTaste": -20,
+    "ID": "Boiled Greens",
+    "JsonAssetsName": "Boiled Greens"
+},
+{
+    "Texture": "assets/objects/Bouquet of Devotion.png",
+    "Category": "Crafting",
+    "SellPrice": 1500,
+    "UniversalGiftTaste": 20,
+    "ID": "Bouquet of Devotion",
+    "JsonAssetsName": "Bouquet of Devotion"
+},
+{
+    "Texture": "assets/objects/Bouquet of Exuberance.png",
+    "Category": "Crafting",
+    "SellPrice": 1250,
+    "UniversalGiftTaste": 20,
+    "ID": "Bouquet of Exuberance",
+    "JsonAssetsName": "Bouquet of Exuberance"
+},
+{
+    "Texture": "assets/objects/Bouquet of Hope.png",
+    "Category": "Crafting",
+    "SellPrice": 750,
+    "UniversalGiftTaste": 45,
+    "ID": "Bouquet of Hope",
+    "JsonAssetsName": "Bouquet of Hope"
+},
+{
+    "Texture": "assets/objects/Bouquet of Longing.png",
+    "Category": "Crafting",
+    "SellPrice": 1750,
+    "UniversalGiftTaste": 20,
+    "ID": "Bouquet of Longing",
+    "JsonAssetsName": "Bouquet of Longing"
+},
+{
+    "Texture": "assets/objects/Bouquet of Passion.png",
+    "Category": "Crafting",
+    "SellPrice": 2000,
+    "UniversalGiftTaste": 20,
+    "ID": "Bouquet of Passion",
+    "JsonAssetsName": "Bouquet of Passion"
+},
+{
+    "Texture": "assets/objects/Bouquet of Purity.png",
+    "Category": "Crafting",
+    "SellPrice": 1000,
+    "UniversalGiftTaste": 20,
+    "ID": "Bouquet of Purity",
+    "JsonAssetsName": "Bouquet of Purity"
+},
+{
+    "Texture": "assets/objects/Camellia.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 50,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_spring",
+        "season_fall",
+        "color_white",
+        "flower_item"
+    ],
+    "ID": "Camellia",
+    "JsonAssetsName": "Camellia"
+},
+{
+    "Texture": "assets/objects/Carnation.png",
+    "TextureColor": "assets/objects/Carnation_color.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "SellPrice": 140,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "flower_item",
+        "color_red"
+    ],
+    "ID": "Carnation",
+    "JsonAssetsName": "Carnation"
+},
+{
+    "Texture": "assets/objects/Chrysanthemum.png",
+    "TextureColor": "assets/objects/Chrysanthemum_color.png",
+    "Category": "Flower",
+    "Edibility": 20,
+    "SellPrice": 60,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_fall",
+        "flower_item",
+        "color_yellow"
+    ],
+    "ID": "Chrysanthemum",
+    "JsonAssetsName": "Chrysanthemum"
+},
+{
+    "Texture": "assets/objects/Clematis.png",
+    "Category": "Flower",
+    "Edibility": -20,
+    "SellPrice": 60,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "color_purple",
+        "flower_poisonous",
+        "flower_item",
+        "season_fall"
+    ],
+    "ID": "Clematis",
+    "JsonAssetsName": "Clematis"
+},
+{
+    "Texture": "assets/objects/Dahlia.png",
+    "TextureColor": "assets/objects/Dahlia_color.png",
+    "Category": "Flower",
+    "Edibility": 20,
+    "SellPrice": 75,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_fall",
+        "color_pink",
+        "flower_item"
+    ],
+    "ID": "Dahlia",
+    "JsonAssetsName": "Dahlia"
+},
+{
+    "Texture": "assets/objects/Daisy.png",
+    "Category": "Flower",
+    "Edibility": 10,
+    "SellPrice": 10,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "forage_item",
+        "flower_item",
+        "color_white",
+        "season_fall"
+    ],
+    "ID": "Daisy",
+    "JsonAssetsName": "Daisy"
+},
+{
+    "Texture": "assets/objects/Delphinium.png",
+    "TextureColor": "assets/objects/Delphinium_color.png",
+    "Category": "Flower",
+    "Edibility": -50,
+    "SellPrice": 160,
+    "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "color_blue",
+        "season_spring",
+        "flower_poisonous",
+        "flower_item"
+    ],
+    "ID": "Delphinium",
+    "JsonAssetsName": "Delphinium"
+},
+{
+    "Texture": "assets/objects/Dried Poison.png",
+    "Category": "ArtisanGoods",
+    "SellPrice": 25,
+    "IsGiftable": false,
+    "ID": "Dried Poison",
+    "JsonAssetsName": "Dried Poison"
+},
+{
+    "Texture": "assets/objects/English Rose.png",
+    "TextureColor": "assets/objects/English Rose_color.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "UniversalGiftTaste": 20,
+    "SellPrice": 290,
+    "ContextTags": [
+        "season_fall",
+        "flower_item",
+        "color_red"
+    ],
+    "ID": "English Rose",
+    "JsonAssetsName": "English Rose"
+},
+{
+    "Texture": "assets/objects/Estival Tea.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Duration": 300
+    },
+    "SellPrice": 350,
+    "UniversalGiftTaste": 20,
+    "ID": "Estival Tea",
+    "JsonAssetsName": "Estival Tea"
+},
+{
+    "Texture": "assets/objects/Floral Soap.png",
+    "Category": "ArtisanGoods",
+    "SellPrice": 150,
+    "UniversalGiftTaste": 20,
+    "ID": "Floral Soap",
+    "JsonAssetsName": "Floral Soap"
+},
+{
+    "Texture": "assets/objects/Flower Soda.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Luck": 1,
+        "Defense": 1,
+        "Duration": 480
+    },
+    "SellPrice": 550,
+    "UniversalGiftTaste": 20,
+    "ID": "Flower Soda",
+    "JsonAssetsName": "Flower Soda"
+},
+{
+    "Texture": "assets/objects/Freesia.png",
+    "TextureColor": "assets/objects/Freesia_color.png",
+    "Category": "Flower",
+    "Edibility": 10,
+    "SellPrice": 150,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "color_orange",
+        "season_fall",
+        "flower_item"
+    ],
+    "ID": "Freesia",
+    "JsonAssetsName": "Freesia"
+},
+{
+    "Texture": "assets/objects/Fruity Soap.png",
+    "Category": "ArtisanGoods",
+    "SellPrice": 75,
+    "UniversalGiftTaste": 20,
+    "ID": "Fruity Soap",
+    "JsonAssetsName": "Fruity Soap"
+},
+{
+    "Texture": "assets/objects/Geranium.png",
+    "TextureColor": "assets/objects/Geranium_color.png",
+    "Category": "Flower",
+    "Edibility": 10,
+    "SellPrice": 140,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "color_pink",
+        "flower_item",
+        "season_fall"
+    ],
+    "ID": "Geranium",
+    "JsonAssetsName": "Geranium"
+},
+{
+    "Texture": "assets/objects/Herb-Crusted Fish.png",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "UniversalGiftTaste": 20,
+    "EdibleBuffs":
+    {
+        "Fishing": 1,
+        "Duration": 600
+    },
+    "SellPrice": 300,
+    "ID": "Herb-Crusted Fish",
+    "JsonAssetsName": "Herb-Crusted Fish"
+},
+{
+    "Texture": "assets/objects/Herbal Peony.png",
+    "TextureColor": "assets/objects/Herbal Peony_color.png",
+    "Category": "Flower",
+    "Edibility": 18,
+    "UniversalGiftTaste": 20,
+    "SellPrice": 240,
+    "ContextTags": [
+        "color_pink",
+        "flower_item",
+        "season_spring"
+    ],
+    "ID": "Herbal Peony",
+    "JsonAssetsName": "Herbal Peony"
+},
+{
+    "Texture": "assets/objects/Hibernal Tea.png",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": 1,
+        "Duration": 300
+    },
+    "SellPrice": 350,
+    "UniversalGiftTaste": 20,
+    "ID": "Hibernal Tea",
+    "JsonAssetsName": "Hibernal Tea"
+},
+{
+    "Texture": "assets/objects/Hibiscus.png",
+    "Category": "Flower",
+    "Edibility": 20,
+    "SellPrice": 80,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "fruit_tree_flower_item",
+        "flower_item",
+        "season_summer",
+        "color_red"
+    ],
+    "ID": "Hibiscus",
+    "JsonAssetsName": "Hibiscus"
+},
+{
+    "Texture": "assets/objects/Hyacinth.png",
+    "TextureColor": "assets/objects/Hyacinth_color.png",
+    "Category": "Flower",
+    "Edibility": -30,
+    "SellPrice": 60,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "flower_poisonous",
+        "flower_item",
+        "color_blue",
+        "season_spring"
+    ],
+    "ID": "Hyacinth",
+    "JsonAssetsName": "Hyacinth"
+},
+{
+    "Texture": "assets/objects/Hydrangea.png",
+    "TextureColor": "assets/objects/Hydrangea_color.png",
+    "Category": "Flower",
+    "Edibility": -40,
+    "SellPrice": 170,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "flower_poisonous",
+        "flower_item",
+        "color_blue",
+        "season_summer"
+    ],
+    "ID": "Hydrangea",
+    "JsonAssetsName": "Hydrangea"
+},
+{
+    "Texture": "assets/objects/Iris.png",
+    "TextureColor": "assets/objects/Iris_color.png",
+    "Category": "Flower",
+    "Edibility": -5,
+    "SellPrice": 200,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "flower_poisonous",
+        "flower_item",
+        "color_purple",
+        "season_fall"
+    ],
+    "ID": "Iris",
+    "JsonAssetsName": "Iris"
+},
+{
+    "Texture": "assets/objects/Jasmine.png",
+    "Category": "Flower",
+    "Edibility": 10,
+    "SellPrice": 120,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "flower_item",
+        "fruit_tree_flower_item",
+        "season_fall",
+        "color_white"
+    ],
+    "ID": "Jasmine",
+    "JsonAssetsName": "Jasmine"
+},
+{
+    "Texture": "assets/objects/Latte.png",
+    "Category": "Cooking",
+    "Edibility": 10,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": 2,
+        "Duration": 120
+    },
+    "SellPrice": 300,
+    "UniversalGiftTaste": 20,
+    "ID": "Latte",
+    "JsonAssetsName": "Latte"
+},
+{
+    "Texture": "assets/objects/Lavender.png",
+    "TextureColor": "assets/objects/Lavender_color.png",
+    "Category": "Flower",
+    "Edibility": 10,
+    "SellPrice": 220,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "color_purple",
+        "flower_item",
+        "season_summer"
+    ],
+    "ID": "Lavender",
+    "JsonAssetsName": "Lavender"
+},
+{
+    "Texture": "assets/objects/Lilac.png",
+    "TextureColor": "assets/objects/Lilac_color.png",
+    "Category": "Flower",
+    "Edibility": 13,
+    "SellPrice": 180,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "color_purple",
+        "flower_item",
+        "season_spring"
+    ],
+    "ID": "Lilac",
+    "JsonAssetsName": "Lilac"
+},
+{
+    "Texture": "assets/objects/Lilac Scones.png",
+    "Category": "Cooking",
+    "Edibility": 65,
+    "SellPrice": 300,
+    "UniversalGiftTaste": 20,
+    "ID": "Lilac Scones",
+    "JsonAssetsName": "Lilac Scones"
+},
+{
+    "Texture": "assets/objects/Lily.png",
+    "TextureColor": "assets/objects/Lily_color.png",
+    "Category": "Flower",
+    "Edibility": 15,
+    "SellPrice": 150,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "color_white",
+        "season_summer",
+        "flower_item"
+    ],
+    "ID": "Lily",
+    "JsonAssetsName": "Lily"
+},
+{
+    "Texture": "assets/objects/Lotus.png",
+    "Category": "Flower",
+    "Edibility": 20,
+    "SellPrice": 70,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "color_pink",
+        "flower_item",
+        "season_summer"
+    ],
+    "ID": "Lotus",
+    "JsonAssetsName": "Lotus"
+},
+{
+    "Texture": "assets/objects/Lotus Mochi.png",
+    "Category": "Cooking",
+    "Edibility": 34,
+    "SellPrice": 250,
+    "UniversalGiftTaste": 20,
+    "ID": "Lotus Mochi",
+    "JsonAssetsName": "Lotus Mochi"
+},
+{
+    "Texture": "assets/objects/Magnolia.png",
+    "Category": "Flower",
+    "Edibility": 8,
+    "SellPrice": 100,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "color_pink",
+        "fruit_tree_flower_item",
+        "flower_item",
+        "season_spring"
+    ],
+    "ID": "Magnolia",
+    "JsonAssetsName": "Magnolia"
+},
+{
+    "Texture": "assets/objects/Perfume.png",
+    "Category": "ArtisanGoods",
+    "SellPrice": 75,
+    "UniversalGiftTaste": 20,
+    "ID": "Perfume",
+    "JsonAssetsName": "Perfume"
+},
+{
+    "Texture": "assets/objects/Petunia.png",
+    "TextureColor": "assets/objects/Petunia_color.png",
+    "Category": "Flower",
+    "Edibility": 5,
+    "SellPrice": 80,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "color_pink",
+        "flower_item",
+        "season_summer"
+    ],
+    "ID": "Petunia",
+    "JsonAssetsName": "Petunia"
+},
+{
+    "Texture": "assets/objects/Rose Nougat.png",
+    "Category": "Cooking",
+    "Edibility": 90,
+    "EdibleBuffs":
+    {
+        "Farming": 1,
+        "Duration": 1440
+    },
+    "SellPrice": 500,
+    "UniversalGiftTaste": 20,
+    "ID": "Rose Nougat",
+    "JsonAssetsName": "Rose Nougat"
+},
+{
+    "Texture": "assets/objects/Souffle.png",
+    "Category": "Cooking",
+    "Edibility": 36,
+    "SellPrice": 200,
+    "UniversalGiftTaste": 20,
+    "ID": "Souffle",
+    "JsonAssetsName": "Souffle"
+},
+{
+    "Texture": "assets/objects/Stuffed Petals.png",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "SellPrice": 350,
+    "UniversalGiftTaste": 20,
+    "ID": "Stuffed Petals",
+    "JsonAssetsName": "Stuffed Petals"
+},
+{
+    "Texture": "assets/objects/Tea.png",
+    "Category": "Cooking",
+    "Edibility": 10,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": 1,
+        "Duration": 120
+    },
+    "SellPrice": 150,
+    "UniversalGiftTaste": 20,
+    "ID": "Tea",
+    "JsonAssetsName": "Tea"
+},
+{
+    "Texture": "assets/objects/Tea Bag.png",
+    "Category": "ArtisanGoods",
+    "SellPrice": 25,
+    "UniversalGiftTaste": 20,
+    "ID": "Tea Bag",
+    "JsonAssetsName": "Tea Bag"
+},
+{
+    "Texture": "assets/objects/Tiramisu.png",
+    "Category": "Cooking",
+    "Edibility": 75,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 20,
+    "ID": "Tiramisu",
+    "JsonAssetsName": "Tiramisu"
+},
+{
+    "Texture": "assets/objects/Veggie Chips.png",
+    "Category": "ArtisanGoods",
+    "SellPrice": 25,
+    "UniversalGiftTaste": 20,
+    "ID": "Veggie Chips",
+    "JsonAssetsName": "Veggie Chips"
+},
+{
+    "Texture": "assets/objects/Vernal Tea.png",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Luck": 1,
+        "Duration": 300
+    },
+    "SellPrice": 350,
+    "UniversalGiftTaste": 20,
+    "ID": "Vernal Tea",
+    "JsonAssetsName": "Vernal Tea"
+},
+{
+    "Texture": "assets/objects/Violet.png",
+    "TextureColor": "assets/objects/Violet_color.png",
+    "Category": "Flower",
+    "Edibility": 22,
+    "SellPrice": 90,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "color_purple",
+        "flower_item",
+        "season_spring"
+    ],
+    "ID": "Violet",
+    "JsonAssetsName": "Violet"
+},
+{
+    "Texture": "assets/objects/Wisteria.png",
+    "Category": "Flower",
+    "Edibility": -10,
+    "SellPrice": 280,
+    "UniversalGiftTaste": 20,
+    "ContextTags": [
+        "color_purple",
+        "flower_poisonous",
+        "flower_item",
+        "season_spring"
+    ],
+    "ID": "Wisteria",
+    "JsonAssetsName": "Wisteria"
+},
+{
+    "Texture": "assets/objects/Allium Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Allium Crop",
+    "Category": "Seeds",
+    "ID": "Allium Seeds"
+},
+{
+    "Texture": "assets/objects/Camellia Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Camellia Crop",
+    "Category": "Seeds",
+    "ID": "Camellia Seeds"
+},
+{
+    "Texture": "assets/objects/Carnation Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Carnation Crop",
+    "Category": "Seeds",
+    "ID": "Carnation Seeds"
+},
+{
+    "Texture": "assets/objects/Chrysanthemum Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Chrysanthemum Crop",
+    "Category": "Seeds",
+    "ID": "Chrysanthemum Seeds"
+},
+{
+    "Texture": "assets/objects/Clematis Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Clematis Crop",
+    "Category": "Seeds",
+    "ID": "Clematis Starter"
+},
+{
+    "Texture": "assets/objects/Dahlia Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Dahlia Crop",
+    "Category": "Seeds",
+    "ID": "Dahlia Seeds"
+},
+{
+    "Texture": "assets/objects/Delphinium Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Delphinium Crop",
+    "Category": "Seeds",
+    "ID": "Delphinium Seeds"
+},
+{
+    "Texture": "assets/objects/English Rose Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/English Rose Crop",
+    "Category": "Seeds",
+    "ID": "English Rose Seeds"
+},
+{
+    "Texture": "assets/objects/Freesia Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Freesia Crop",
+    "Category": "Seeds",
+    "ID": "Freesia Bulb"
+},
+{
+    "Texture": "assets/objects/Geranium Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Geranium Crop",
+    "Category": "Seeds",
+    "ID": "Geranium Seeds"
+},
+{
+    "Texture": "assets/objects/Herbal Peony Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Herbal Peony Crop",
+    "Category": "Seeds",
+    "ID": "Herbal Peony Seeds"
+},
+{
+    "Texture": "assets/objects/Hyacinth Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Hyacinth Crop",
+    "Category": "Seeds",
+    "ID": "Hyacinth Seeds"
+},
+{
+    "Texture": "assets/objects/Hydrangea Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Hydrangea Crop",
+    "Category": "Seeds",
+    "ID": "Hydrangea Seeds"
+},
+{
+    "Texture": "assets/objects/Iris Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Iris Crop",
+    "Category": "Seeds",
+    "ID": "Iris Bulb"
+},
+{
+    "Texture": "assets/objects/Lavender Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Lavender Crop",
+    "Category": "Seeds",
+    "ID": "Lavender Seeds"
+},
+{
+    "Texture": "assets/objects/Lilac Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Lilac Crop",
+    "Category": "Seeds",
+    "ID": "Lilac Seeds"
+},
+{
+    "Texture": "assets/objects/Lily Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Lily Crop",
+    "Category": "Seeds",
+    "ID": "Lily Bulb"
+},
+{
+    "Texture": "assets/objects/Lotus Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Lotus Crop",
+    "Category": "Seeds",
+    "ID": "Lotus Starter"
+},
+{
+    "Texture": "assets/objects/Petunia Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Petunia Crop",
+    "Category": "Seeds",
+    "ID": "Petunia Seeds"
+},
+{
+    "Texture": "assets/objects/Violet Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Violet Crop",
+    "Category": "Seeds",
+    "ID": "Violet Seeds"
+},
+{
+    "Texture": "assets/objects/Wisteria Crop_seeds.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Wisteria Crop",
+    "Category": "Seeds",
+    "ID": "Wisteria Seeds"
+},
+{
+    "Texture": "assets/objects/Hibiscus Tree Tree_sapling.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Hibiscus Tree Tree",
+    "Category": "Seeds",
+    "SellPrice": 0,
+    "ID": "Hibiscus Sapling"
+},
+{
+    "Texture": "assets/objects/Jasmine Tree Tree_sapling.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Jasmine Tree Tree",
+    "Category": "Seeds",
+    "SellPrice": 0,
+    "ID": "Jasmine Sapling"
+},
+{
+    "Texture": "assets/objects/Magnolia Tree Tree_sapling.png",
+    "Plants": "kildarien.farmertoflorist.DGA/Magnolia Tree Tree",
+    "Category": "Seeds",
+    "SellPrice": 0,
+    "ID": "Magnolia Sapling"
+}]

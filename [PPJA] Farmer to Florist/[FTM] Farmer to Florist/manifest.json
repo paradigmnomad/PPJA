@@ -1,11 +1,10 @@
 {
   "Name": "Farmer to Florist",
-  "Author": "Kildarien (Original) + SpringsSong (Port)",
+  "Author": "Kildarien (Original) + Project Populate Json Assets",
   "Version": "1.0.1",
   "Description": "Enables the ability for daisies to spawn as wild forage.",
   "UniqueID": "Kildarien.FarmerToFloristFTM",
   "MinimumApiVersion": "3.2.0",
-  "UpdateKeys": [],
   "ContentPackFor": {
     "UniqueID": "Esca.FarmTypeManager",
     "MinimumVersion": "1.4.0"

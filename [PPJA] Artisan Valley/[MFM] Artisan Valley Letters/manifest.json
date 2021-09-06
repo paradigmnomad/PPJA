@@ -1,13 +1,13 @@
 ﻿{
     "Name": "[MFM] Artisan Valley Letters",
     "Author": "Project Populate Json Assets",
-    "Version": "3.0.21",
+    "Version": "1.0.0",
     "Description": "Sends crafting recipes to the player.",
-    "UniqueID": "ppja.artisanvalleyforMFM",
+    "UniqueID": "ppja.artisanvalleyforMFM.dga",
     "MinimumApiVersion": "3.8.0",
     "Dependencies": [
     {
-        "UniqueID": "ppja.artisanvalleymachinegoods",
+        "UniqueID": "ppja.artisanvalleymachinegoods.dga",
         "IsRequired": true
     }, ],
     "ContentPackFor":

@@ -1,0 +1,165 @@
+[
+  {
+    "ShopId": "AnimalSupplies",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Bee Balm Seeds"
+    },
+    "Cost": 60,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Blue Mist Seeds"
+    },
+    "Cost": 180,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Chamomile Seeds"
+    },
+    "Cost": 30,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Clary Sage Seeds"
+    },
+    "Cost": 100,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "Sandy",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Fairy Duster Pod"
+    },
+    "Cost": 30,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Fragrant Lilac Pod"
+    },
+    "Cost": 25,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Herbal Lavender Seeds"
+    },
+    "Cost": 20,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "AnimalSupplies",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Honeysuckle Starter"
+    },
+    "Cost": 200,
+    "EnableConditions": {
+      "Season |contains=summer,": "false",
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Passion Flower Seeds"
+    },
+    "Cost": 90,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "AnimalSupplies",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Pink Cat Seeds"
+    },
+    "Cost": 20,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Pitcher Plant Starter"
+    },
+    "Cost": 500,
+    "EnableConditions": {
+      "Query: {{Year}} >= 4": "true",
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Purple Coneflower Seeds"
+    },
+    "Cost": 40,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Rafflesia Seeds"
+    },
+    "Cost": 3000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 4": "true",
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Rose Starter"
+    },
+    "Cost": 175,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Shaded Violet Seeds"
+    },
+    "Cost": 30,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "mizu.flowers.DGA/Sweet Jasmine Seeds"
+    },
+    "Cost": 40,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  }
+]

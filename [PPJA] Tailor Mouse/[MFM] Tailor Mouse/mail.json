@@ -3,6 +3,7 @@
 		"Id": "tailormouseletter",
 		"Title": "tailormouse.title",
 		"Text": "tailormouse.text",
+"LetterBG": "MouseBackground.png",
 		"MailReceived": ["hatter"],
 	}
 ]

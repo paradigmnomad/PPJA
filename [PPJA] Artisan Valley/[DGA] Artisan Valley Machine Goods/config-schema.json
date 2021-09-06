@@ -1,0 +1,9 @@
+[   
+    {
+        "Name": "GingerAleEnabled",
+        "Description": "Enables the legacy ginger ale sprite.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+]

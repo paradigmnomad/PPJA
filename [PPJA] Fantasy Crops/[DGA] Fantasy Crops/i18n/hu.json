@@ -1,0 +1,16 @@
+{
+  "object.Doubloon.name": "Dublon",
+  "object.Doubloon.description": "Egy érme, mellyel egyetlen dolgot lehet csinálni: eladni.",
+  "object.Coal Seeds.name": "Szén magvak",
+  "object.Coal Seeds.description": "Ezeket tavasszal vagy nyáron ültesse el. 8 napig tart megérniük.",
+  "object.Copper Seeds.name": "Réz magvak",
+  "object.Copper Seeds.description": "Ezeket tavasszal ültesse el. 10 napig tart megérniük.",
+  "object.Gold Seeds.name": "Arany magvak",
+  "object.Gold Seeds.description": "Ezeket ősszel ültesse el. 20 napig tart megérniük.",
+  "object.Iridium Seeds.name": "Iridium magvak",
+  "object.Iridium Seeds.description": "Ezeket télen ültesse el. 24 napig tart megérniük.",
+  "object.Iron Seeds.name": "Vas magvak",
+  "object.Iron Seeds.description": "Ezeket nyáron ültesse el. 15 napig tart megérniük.",
+  "object.Doubloon Seeds.name": "Doubloon magvak",
+  "object.Doubloon Seeds.description": "Ezeket ősszel ültesse el. 10 napig tart megérniük, de utána tovább termelnek."
+}

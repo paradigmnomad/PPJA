@@ -1,0 +1,243 @@
+[
+{
+    "Texture": "assets/objects/Alien Dawg.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Alien Dawg",
+    "JsonAssetsName": "Alien Dawg"
+},
+{
+    "Texture": "assets/objects/Alien Kush.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Alien Kush",
+    "JsonAssetsName": "Alien Kush"
+},
+{
+    "Texture": "assets/objects/Big Bud.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Big Bud",
+    "JsonAssetsName": "Big Bud"
+},
+{
+    "Texture": "assets/objects/Chemdawg.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Chemdawg",
+    "JsonAssetsName": "Chemdawg"
+},
+{
+    "Texture": "assets/objects/Fruity Pebbles OG.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Fruity Pebbles OG",
+    "JsonAssetsName": "Fruity Pebbles OG"
+},
+{
+    "Texture": "assets/objects/Granddaddy Purple.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Granddaddy Purple",
+    "JsonAssetsName": "Granddaddy Purple"
+},
+{
+    "Texture": "assets/objects/Green Ribbon.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Green Ribbon",
+    "JsonAssetsName": "Green Ribbon"
+},
+{
+    "Texture": "assets/objects/Las Vegas Purple Kush.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Las Vegas Purple Kush",
+    "JsonAssetsName": "Las Vegas Purple Kush"
+},
+{
+    "Texture": "assets/objects/Purple Urkle.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Purple Urkle",
+    "JsonAssetsName": "Purple Urkle"
+},
+{
+    "Texture": "assets/objects/Tahoe Alien.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "Tahoe Alien",
+    "JsonAssetsName": "Tahoe Alien"
+},
+{
+    "Texture": "assets/objects/White Rhino.png",
+    "Category": "Flower",
+    "CategoryColorOverride":
+    {},
+    "Edibility": 18,
+    "SellPrice": 600,
+    
+    "ContextTags": [
+        "flower_item",
+        "flower_cannabinoid",
+        "trellis_item"
+    ],
+    "ID": "White Rhino",
+    "JsonAssetsName": "White Rhino"
+},
+{
+    "Texture": "assets/objects/Alien Dawg Crop_seeds.png",
+    "Plants": "PPJA.cannabiskitforHCE.DGA/Alien Dawg Crop",
+    "Category": "Seeds",
+    "ID": "Alien Dawg Starter"
+},
+{
+    "Texture": "assets/objects/Alien Kush Crop_seeds.png",
+    "Plants": "PPJA.cannabiskitforHCE.DGA/Alien Kush Crop",
+    "Category": "Seeds",
+    "ID": "Alien Kush Starter"
+},
+{
+    "Texture": "assets/objects/Big Bud Crop_seeds.png",
+    "Plants": "PPJA.cannabiskitforHCE.DGA/Big Bud Crop",
+    "Category": "Seeds",
+    "ID": "Big Bud Starter"
+},
+{
+    "Texture": "assets/objects/Chemdawg Crop_seeds.png",
+    "Plants": "PPJA.cannabiskitforHCE.DGA/Chemdawg Crop",
+    "Category": "Seeds",
+    "ID": "Chemdawg Starter"
+},
+{
+    "Texture": "assets/objects/Fruity Pebbles OG Crop_seeds.png",
+    "Plants": "PPJA.cannabiskitforHCE.DGA/Fruity Pebbles OG Crop",
+    "Category": "Seeds",
+    "ID": "Fruity Pebbles OG Starter"
+},
+{
+    "Texture": "assets/objects/Granddaddy Purple Crop_seeds.png",
+    "Plants": "PPJA.cannabiskitforHCE.DGA/Granddaddy Purple Crop",
+    "Category": "Seeds",
+    "ID": "Granddaddy Purple Starter"
+},
+{
+    "Texture": "assets/objects/Green Ribbon Crop_seeds.png",
+    "Plants": "PPJA.cannabiskitforHCE.DGA/Green Ribbon Crop",
+    "Category": "Seeds",
+    "ID": "Green Ribbon Starter"
+},
+{
+    "Texture": "assets/objects/Las Vegas Purple Kush Crop_seeds.png",
+    "Plants": "PPJA.cannabiskitforHCE.DGA/Las Vegas Purple Kush Crop",
+    "Category": "Seeds",
+    "ID": "Las Vegas Purple Kush Starter"
+},
+{
+    "Texture": "assets/objects/Purple Urkle Crop_seeds.png",
+    "Plants": "PPJA.cannabiskitforHCE.DGA/Purple Urkle Crop",
+    "Category": "Seeds",
+    "ID": "Purple Urkle Starter"
+},
+{
+    "Texture": "assets/objects/Tahoe Alien Crop_seeds.png",
+    "Plants": "PPJA.cannabiskitforHCE.DGA/Tahoe Alien Crop",
+    "Category": "Seeds",
+    "ID": "Tahoe Alien Starter"
+},
+{
+    "Texture": "assets/objects/White Rhino Crop_seeds.png",
+    "Plants": "PPJA.cannabiskitforHCE.DGA/White Rhino Crop",
+    "Category": "Seeds",
+    "ID": "White Rhino Starter"
+}]

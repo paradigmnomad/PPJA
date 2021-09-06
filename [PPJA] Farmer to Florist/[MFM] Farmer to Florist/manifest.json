@@ -1,14 +1,13 @@
 ﻿{
 	"Name": "[MFM] Farmer to Florist",
-	"Author": "Project Populate Json Assets",
+	"Author": "Kildarien (Original) + Project Populate Json Assets",
 	"Version": "3.0.10",
 	"Description": "Allows recipes to be mailed to the player.",
 	"UniqueID": "PPJA.FarmerToFloristForMailFrameworkMod",
 	"MinimumApiVersion": "3.7.0",
-	"UpdateKeys": [],
 	"Dependencies": [
 		{
-			"UniqueID": "kildarien.farmertoflorist"
+			"UniqueID": "kildarien.farmertoflorist.dga"
 		}
 	],
 	"ContentPackFor": {

@@ -1,0 +1,17 @@
+[ 
+        {
+            "TargetTexture": "TileSheets/springobjects",
+            "TargetRect":
+            {
+                "X": 144,
+                "Y": 576,
+                "Width": 16,
+                "Height": 16
+            },
+            "SourceTexture": "assets/legacysprites/pinacolada.png:0",
+            "EnableConditions":
+            {
+                "Query: {{PinaColadaEnabled}} = true": true
+            },
+        },
+    ]

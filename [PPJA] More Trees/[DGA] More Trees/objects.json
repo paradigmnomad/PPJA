@@ -1,0 +1,855 @@
+[
+    {
+        "Texture": "assets/objects/Almond.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 30,
+            "G": 70,
+            "R": 107,
+            "A": 255
+        },
+        "Edibility": 12,
+        "SellPrice": 90,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_sand",
+            "fruit_tree_item",
+            "nut_item"
+        ],
+        "ID": "Almond",
+        "JsonAssetsName": "Almond"
+    },
+    {
+        "Texture": "assets/objects/Asian Pear.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 125,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_gold",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_medium"
+        ],
+        "ID": "Asian Pear",
+        "JsonAssetsName": "Asian Pear"
+    },
+    {
+        "Texture": "assets/objects/Avocado.png",
+        "Category": "Fruit",
+        "Edibility": 20,
+        "SellPrice": 200,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_dark_green",
+            "fruit_tree_item",
+            "veggie_item",
+            "dye_medium",
+            "crop_year_two",
+            "fruit_tree_year_two"
+        ],
+        "ID": "Avocado",
+        "JsonAssetsName": "Avocado"
+    },
+    {
+        "Texture": "assets/objects/Breadfruit.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 200,
+        "UniversalGiftTaste": 45,
+        "ID": "Breadfruit",
+        "JsonAssetsName": "Breadfruit"
+    },
+    {
+        "Texture": "assets/objects/Camphor Leaves.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "SellPrice": 100,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "season_winter",
+            "color_green",
+            "fruit_tree_item",
+            "herb_item",
+            "crop_year_two",
+            "fruit_tree_year_two",
+            "fruit_tree_herb_item"
+        ],
+        "ID": "Camphor Leaves",
+        "JsonAssetsName": "Camphor Leaves"
+    },
+    {
+        "Texture": "assets/objects/Cashew.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 30,
+            "G": 70,
+            "R": 107,
+            "A": 255
+        },
+        "Edibility": 12,
+        "SellPrice": 100,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_white",
+            "fruit_tree_item",
+            "nut_item"
+        ],
+        "ID": "Cashew",
+        "JsonAssetsName": "Cashew"
+    },
+    {
+        "Texture": "assets/objects/Cinnamon Sticks.png",
+        "Category": "Vegetable",
+        "SellPrice": 140,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_winter",
+            "color_pale_violet_red",
+            "fruit_tree_item",
+            "spice_item",
+            "dye_medium",
+            "crop_year_two",
+            "fruit_tree_year_two",
+            "fruit_tree_herb_item"
+        ],
+        "ID": "Cinnamon Sticks",
+        "JsonAssetsName": "Cinnamon Sticks"
+    },
+    {
+        "Texture": "assets/objects/Cocoa Pod.png",
+        "Category": "Vegetable",
+        "SellPrice": 125,
+        "UniversalGiftTaste": -20,
+        "GiftTasteOverride":
+        {
+            "Krobus":
+            {
+                "Amount": -40
+            }
+        },
+        "ContextTags": [
+            "season_spring",
+            "color_brown",
+            "fruit_tree_item",
+            "dye_medium",
+            "fruit_tree_year_2",
+            "crop_year_2",
+            "nut_item"
+        ],
+        "ID": "Cocoa Pod",
+        "JsonAssetsName": "Cocoa Pod"
+    },
+    {
+        "Texture": "assets/objects/Dragon Fruit.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 125,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "color_dark_pink",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_strong"
+        ],
+        "ID": "Dragon Fruit",
+        "JsonAssetsName": "Dragon Fruit"
+    },
+    {
+        "Texture": "assets/objects/Durian.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 200,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "crop_year_two",
+            "fruit_tree_year_two",
+            "color_yellow_green",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_medium"
+        ],
+        "ID": "Durian",
+        "JsonAssetsName": "Durian"
+    },
+    {
+        "Texture": "assets/objects/Eucalyptus Leaves.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "SellPrice": 135,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "season_spring",
+            "crop_year_two",
+            "fruit_tree_year_two",
+            "color_yellow_green",
+            "fruit_tree_item",
+            "herb_item",
+            "fruit_tree_herb_item"
+        ],
+        "ID": "Eucalyptus Leaves",
+        "JsonAssetsName": "Eucalyptus Leaves"
+    },
+    {
+        "Texture": "assets/objects/Fig.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 100,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_winter",
+            "crop_year_two",
+            "fruit_tree_year_two",
+            "color_purple",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_strong"
+        ],
+        "ID": "Fig",
+        "JsonAssetsName": "Fig"
+    },
+    {
+        "Texture": "assets/objects/Fragrant Wisteria.png",
+        "Category": "Flower",
+        "Edibility": 10,
+        "SellPrice": 60,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "color_purple",
+            "fruit_tree_item",
+            "flower_item"
+        ],
+        "ID": "Fragrant Wisteria",
+        "JsonAssetsName": "Fragrant Wisteria"
+    },
+    {
+        "Texture": "assets/objects/Granny Smith Apple.png",
+        "Category": "Fruit",
+        "Edibility": 17,
+        "SellPrice": 100,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_yellow_green",
+            "fruit_tree_item",
+            "fruit_item"
+        ],
+        "ID": "Granny Smith Apple",
+        "JsonAssetsName": "Granny Smith Apple"
+    },
+    {
+        "Texture": "assets/objects/Grapefruit.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 140,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "crop_year_two",
+            "fruit_tree_year_two",
+            "color_orange",
+            "fruit_tree_item",
+            "fruit_item"
+        ],
+        "ID": "Grapefruit",
+        "JsonAssetsName": "Grapefruit"
+    },
+    {
+        "Texture": "assets/objects/Lemon.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 50,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "color_yellow",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_medium"
+        ],
+        "ID": "Lemon",
+        "JsonAssetsName": "Lemon"
+    },
+    {
+        "Texture": "assets/objects/Lime.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 50,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "color_lime",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_medium"
+        ],
+        "ID": "Lime",
+        "JsonAssetsName": "Lime"
+    },
+    {
+        "Texture": "assets/objects/Lychee.png",
+        "Category": "Fruit",
+        "Edibility": 12,
+        "SellPrice": 110,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "crop_year_two",
+            "fruit_tree_year_two",
+            "color_dark_pink",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_strong"
+        ],
+        "ID": "Lychee",
+        "JsonAssetsName": "Lychee"
+    },
+    {
+        "Texture": "assets/objects/Melaleuca Leaves.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "SellPrice": 100,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "season_spring",
+            "color_dark_green",
+            "fruit_tree_item",
+            "herb_item",
+            "fruit_tree_herb_item"
+        ],
+        "ID": "Melaleuca Leaves",
+        "JsonAssetsName": "Melaleuca Leaves"
+    },
+    {
+        "Texture": "assets/objects/Olive.png",
+        "Category": "Vegetable",
+        "Edibility": 12,
+        "SellPrice": 50,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "crop_year_two",
+            "fruit_tree_year_two",
+            "color_green",
+            "fruit_tree_item",
+            "veggie_item",
+            "dye_medium"
+        ],
+        "ID": "Olive",
+        "JsonAssetsName": "Olive"
+    },
+    {
+        "Texture": "assets/objects/Papaya.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 135,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_yellow_green",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_medium"
+        ],
+        "ID": "Papaya",
+        "JsonAssetsName": "Papaya"
+    },
+    {
+        "Texture": "assets/objects/Pear.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 135,
+
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_winter",
+            "crop_year_two",
+            "fruit_tree_year_two",
+            "color_green",
+            "fruit_tree_item",
+            "fruit_item"
+        ],
+        "ID": "Pear",
+        "JsonAssetsName": "Pear"
+    },
+    {
+        "Texture": "assets/objects/Pecan.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 30,
+            "G": 70,
+            "R": 107,
+            "A": 255
+        },
+        "Edibility": 20,
+        "SellPrice": 125,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "crop_year_two",
+            "fruit_tree_year_2",
+            "color_brown",
+            "fruit_tree_item",
+            "nut_item",
+            "dye_medium"
+        ],
+        "ID": "Pecan",
+        "JsonAssetsName": "Pecan"
+    },
+    {
+        "Texture": "assets/objects/Persimmon.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 155,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_winter",
+            "color_orange",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_medium",
+            "honey_item"
+        ],
+        "ID": "Persimmon",
+        "JsonAssetsName": "Persimmon"
+    },
+    {
+        "Texture": "assets/objects/Pomelo.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 80,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_winter",
+            "crop_year_two",
+            "fruit_tree_year_two",
+            "color_green",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_medium"
+        ],
+        "ID": "Pomelo",
+        "JsonAssetsName": "Pomelo"
+    },
+    {
+        "Texture": "assets/objects/Ume.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 50,
+
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_Green",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_medium"
+        ],
+        "ID": "Ume",
+        "JsonAssetsName": "Ume"
+    },
+    {
+        "Texture": "assets/objects/Vanilla.png",
+        "Category": "Flower",
+        "SellPrice": 200,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "color_white",
+            "color_brown",
+            "fruit_tree_item",
+            "flower_item",
+            "spice_item"
+        ],
+        "ID": "Vanilla",
+        "JsonAssetsName": "Vanilla"
+    },
+    {
+        "Texture": "assets/objects/Walnut.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 30,
+            "G": 70,
+            "R": 107,
+            "A": 255
+        },
+        "Edibility": 12,
+        "SellPrice": 90,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_brown",
+            "fruit_tree_item",
+            "nut_item",
+            "dye_medium"
+        ],
+        "ID": "Walnut",
+        "JsonAssetsName": "Walnut"
+    },
+    {
+        "Texture": "assets/objects/Ylang Ylang.png",
+        "Category": "Flower",
+        "Edibility": 18,
+        "SellPrice": 75,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "crop_year_two",
+            "fruit_tree_year_two",
+            "color_yellow_green",
+            "fruit_tree_item",
+            "flower_item"
+        ],
+        "ID": "Ylang Ylang",
+        "JsonAssetsName": "Ylang Ylang"
+    },
+    {
+        "Texture": "assets/objects/Yuzu.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 50,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_winter",
+            "color_yellow",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_medium"
+        ],
+        "ID": "Yuzu",
+        "JsonAssetsName": "Yuzu"
+    },
+    {
+        "Texture": "assets/objects/Almond Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Almond Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Almond Sapling"
+    },
+    {
+        "Texture": "assets/objects/Asian Pear Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Asian Pear Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Asian Pear Sapling"
+    },
+    {
+        "Texture": "assets/objects/Avocado Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Avocado Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Avocado Sapling"
+    },
+    {
+        "Texture": "assets/objects/Breadfruit Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Breadfruit Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Breadfruit Sapling"
+    },
+    {
+        "Texture": "assets/objects/Camphor Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Camphor Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Camphor Sapling"
+    },
+    {
+        "Texture": "assets/objects/Cashew Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Cashew Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Cashew Sapling"
+    },
+    {
+        "Texture": "assets/objects/Cinnamon Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Cinnamon Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Cinnamon Sapling"
+    },
+    {
+        "Texture": "assets/objects/Cocoa Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Cocoa Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Cocoa Sapling"
+    },
+    {
+        "Texture": "assets/objects/Dragon Fruit Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Dragon Fruit Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Dragon Fruit Sapling"
+    },
+    {
+        "Texture": "assets/objects/Durian Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Durian Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Durian Sapling"
+    },
+    {
+        "Texture": "assets/objects/Eucalyptus Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Eucalyptus Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Eucalyptus Sapling"
+    },
+    {
+        "Texture": "assets/objects/Fig Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Fig Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Fig Sapling"
+    },
+    {
+        "Texture": "assets/objects/Fragrant Wisteria Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Fragrant Wisteria Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Fragrant Wisteria Sapling"
+    },
+    {
+        "Texture": "assets/objects/Granny Smith Apple Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Granny Smith Apple Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Granny Smith Sapling"
+    },
+    {
+        "Texture": "assets/objects/Grapefruit Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Grapefruit Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Grapefruit Sapling"
+    },
+    {
+        "Texture": "assets/objects/Lemon Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Lemon Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Lemon Sapling"
+    },
+    {
+        "Texture": "assets/objects/Lime Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Lime Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Lime Sapling"
+    },
+    {
+        "Texture": "assets/objects/Lychee Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Lychee Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Lychee Sapling"
+    },
+    {
+        "Texture": "assets/objects/Melaleuca Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Melaleuca Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Melaleuca Sapling"
+    },
+    {
+        "Texture": "assets/objects/Olive Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Olive Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Olive Sapling"
+    },
+    {
+        "Texture": "assets/objects/Papaya Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Papaya Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Papaya Sapling"
+    },
+    {
+        "Texture": "assets/objects/Pear Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Pear Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Pear Sapling"
+    },
+    {
+        "Texture": "assets/objects/Pecan Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Pecan Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Pecan Sapling"
+    },
+    {
+        "Texture": "assets/objects/Persimmon Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Persimmon Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Persimmon Sapling"
+    },
+    {
+        "Texture": "assets/objects/Pomelo Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Pomelo Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Pomelo Sapling"
+    },
+    {
+        "Texture": "assets/objects/Ume Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Ume Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Ume Sapling"
+    },
+    {
+        "Texture": "assets/objects/Vanilla Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Vanilla Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Vanilla Sapling"
+    },
+    {
+        "Texture": "assets/objects/Walnut Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Walnut Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Walnut Sapling"
+    },
+    {
+        "Texture": "assets/objects/Ylang Ylang Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Ylang Ylang Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Ylang Ylang Sapling"
+    },
+    {
+        "Texture": "assets/objects/Yuzu Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Yuzu Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Yuzu Sapling"
+    },
+
+    // New Items
+
+    {
+        "Texture": "assets/objects/Pistachio Tree Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Pistachio Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Pistachio Sapling"
+    },
+    {
+        "Texture": "assets/objects/Bitter Orange Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Bitter Orange Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Bitter Orange Sapling"
+    },
+    {
+        "Texture": "assets/objects/Jackfruit Tree_sapling.png",
+        "Plants": "ppja.moretrees.DGA/Jackfruit Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Jackfruit Sapling"
+    },
+    {
+        "Texture": "assets/objects/Pistachio.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 30,
+            "G": 70,
+            "R": 107,
+            "A": 255
+        },
+        "Edibility": 12,
+        "SellPrice": 90,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_fall",
+            "color_green",
+            "color_brown",
+            "fruit_tree_item",
+            "nut_item",
+            "pistachio_item"
+        ],
+        "ID": "Pistachio",
+    },
+    {
+        "Texture": "assets/objects/Bitter Orange.png",
+        "Category": "Fruit",
+        "Edibility": 17,
+        "SellPrice": 100,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_orange",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_medium",
+            "bitter orange_item",
+        ],
+        "ID": "Bitter Orange",
+    },
+    {
+        "Texture": "assets/objects/Jackfruit.png",
+        "Category": "Fruit",
+        "Edibility": 28,
+        "SellPrice": 90,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_spring",
+            "color_green",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_medium",
+        ],
+        "ID": "Jackfruit",
+    },
+    {
+        "Texture": "assets/objects/Poison Apple.png",
+        "Category": "Fruit",
+        "Edibility": -299,
+        "SellPrice": 1,
+        "UniversalGiftTaste": -250,
+        "ContextTags": [
+            "season_fall",
+            "color_red",
+            "color_green",
+            "fruit_tree_item",
+            "fruit_item",
+            "dye_medium",
+        ],
+        "ID": "Poison Apple",
+    },
+]

@@ -1,0 +1,21 @@
+{
+    "Name": "[DGA] Fantasy Crops (DGA version)",
+    "Description": "A port of Mizu's sprites for Dynamic Game Assets",
+    "Author": "ParadigmNomad - Port & MizuJakkaru - Sprites",
+    "Version": "1.0.0",
+    "MinimumApiVersion":
+    {
+        "MajorVersion": 3,
+        "MinorVersion": 7
+    },
+    "UniqueID": "ppja.fantasycrops.DGA",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.DynamicGameAssets"
+    },
+    "UpdateKeys": [
+        "Nexus:9443@FantasyCrops"
+    ],
+    "DGA.FormatVersion": 1,
+    "DGA.ConditionsFormatVersion": "1.23.0"
+}

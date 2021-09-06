@@ -1,0 +1,1770 @@
+[
+    {
+        "Texture": "assets/objects/Alpaca Fell.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 120,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "leather_item"
+        ],
+        "ID": "Alpaca Fell",
+        "JsonAssetsName": "Alpaca Fell"
+    },
+    {
+        "Texture": "assets/objects/Alpaca Meat.png",
+        "Category": "Meat",
+        "SellPrice": 135,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Alpaca Meat",
+        "JsonAssetsName": "Alpaca Meat"
+    },
+    {
+        "Texture": "assets/objects/Asam Pedas.png",
+        "Category": "Cooking",
+        "Edibility": 80,
+        "SellPrice": 675,
+        "UniversalGiftTaste": 20,
+        "ID": "Asam Pedas",
+        "JsonAssetsName": "Asam Pedas",
+        "EnableConditions":
+        {
+            "HasMod": "ppja.evenmorerecipes.DGA"
+        },
+    },
+    {
+        "Texture": "assets/objects/Bacon.png",
+        "Category": "Cooking",
+        "Edibility": 40,
+        "SellPrice": 115,
+        "UniversalGiftTaste": 45,
+        "ID": "Bacon",
+        "JsonAssetsName": "Bacon"
+    },
+    {
+        "Texture": "assets/objects/Bacon Hamburger.png",
+        "Category": "Cooking",
+        "Edibility": 164,
+        "SellPrice": 700,
+        "UniversalGiftTaste": 45,
+        "ID": "Bacon Hamburger",
+        "JsonAssetsName": "Bacon Hamburger"
+    },
+    {
+        "Texture": "assets/objects/Bacon n Eggs.png",
+        "Category": "Cooking",
+        "Edibility": 95,
+        "SellPrice": 400,
+        "UniversalGiftTaste": 45,
+        "ID": "Bacon n Eggs",
+        "JsonAssetsName": "Bacon n Eggs"
+    },
+    {
+        "Texture": "assets/objects/Baked Turkey with Risotto.png",
+        "Category": "Cooking",
+        "Edibility": 215,
+        "SellPrice": 890,
+        "UniversalGiftTaste": 20,
+        "ID": "Baked Turkey with Risotto",
+        "JsonAssetsName": "Baked Turkey with Risotto"
+    },
+    {
+        "Texture": "assets/objects/Bangers Beans and Mash.png",
+        "Category": "Cooking",
+        "Edibility": 225,
+        "SellPrice": 1625,
+        "UniversalGiftTaste": 20,
+        "ID": "Bangers Beans and Mash",
+        "JsonAssetsName": "Bangers Beans and Mash"
+    },
+    {
+        "Texture": "assets/objects/Barbecue Sausage.png",
+        "Category": "Cooking",
+        "Edibility": 55,
+        "SellPrice": 1100,
+        "UniversalGiftTaste": 45,
+        "ID": "Barbecue Sausage",
+        "JsonAssetsName": "Barbecue Sausage"
+    },
+    {
+        "Texture": "assets/objects/Batter.png",
+        "Category": "Cooking",
+        "Edibility": 5,
+        "SellPrice": 275,
+        "UniversalGiftTaste": -40,
+        "ID": "Batter",
+        "JsonAssetsName": "Batter"
+    },
+    {
+        "Texture": "assets/objects/BBQ Sauce.png",
+        "Category": "Cooking",
+        "SellPrice": 350,
+        "UniversalGiftTaste": 45,
+        "ID": "BBQ Sauce",
+        "JsonAssetsName": "BBQ Sauce"
+    },
+    {
+        "Texture": "assets/objects/Beast Meat.png",
+        "Category": "Meat",
+        "SellPrice": 150,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Beast Meat",
+        "JsonAssetsName": "Beast Meat"
+    },
+    {
+        "Texture": "assets/objects/Beast n' Onion Handpie.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 685,
+        "ID": "Beast n' Onion Handpie",
+        "UniversalGiftTaste": 20,
+        "JsonAssetsName": "Beast n' Onion Handpie"
+    },
+    {
+        "Texture": "assets/objects/Beef.png",
+        "Category": "Meat",
+        "SellPrice": 120,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Beef",
+        "JsonAssetsName": "Beef"
+    },
+    {
+        "Texture": "assets/objects/Beef Burrito.png",
+        "Category": "Cooking",
+        "Edibility": 127,
+        "SellPrice": 625,
+        "UniversalGiftTaste": 45,
+        "ID": "Beef Burrito",
+        "JsonAssetsName": "Beef Burrito"
+    },
+    {
+        "Texture": "assets/objects/Beef Ribs.png",
+        "Category": "Cooking",
+        "Edibility": 76,
+        "SellPrice": 760,
+        "UniversalGiftTaste": 45,
+        "ID": "Beef Ribs",
+        "JsonAssetsName": "Beef Ribs"
+    },
+    {
+        "Texture": "assets/objects/Beef Stock.png",
+        "Category": "Cooking",
+        "Edibility": 66,
+        "SellPrice": 475,
+        "UniversalGiftTaste": -20,
+        "ID": "Beef Stock",
+        "JsonAssetsName": "Beef Stock"
+    },
+    {
+        "Texture": "assets/objects/Bird DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Bird DNA",
+        "JsonAssetsName": "Bird DNA"
+    },
+    {
+        "Texture": "assets/objects/Bird Meat.png",
+        "Category": "Meat",
+        "SellPrice": 90,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Bird Meat",
+        "JsonAssetsName": "Bird Meat"
+    },
+    {
+        "Texture": "assets/objects/Biscuits and Gravy.png",
+        "Category": "Cooking",
+        "Edibility": 180,
+        "SellPrice": 1400,
+        "UniversalGiftTaste": 45,
+        "ID": "Biscuits and Gravy",
+        "JsonAssetsName": "Biscuits and Gravy"
+    },
+    {
+        "Texture": "assets/objects/Bison Leather.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 95,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "leather_item"
+        ],
+        "ID": "Bison Leather",
+        "JsonAssetsName": "Bison Leather"
+    },
+    {
+        "Texture": "assets/objects/Bison Meat.png",
+        "Category": "Meat",
+        "SellPrice": 75,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Bison Meat",
+        "JsonAssetsName": "Bison Meat"
+    },
+    {
+        "Texture": "assets/objects/Bratwurst.png",
+        "Category": "Cooking",
+        "Edibility": 50,
+        "SellPrice": 680,
+        "UniversalGiftTaste": 45,
+        "ID": "Bratwurst",
+        "JsonAssetsName": "Bratwurst"
+    },
+    {
+        "Texture": "assets/objects/Breakfast Sandwich.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 875,
+        "UniversalGiftTaste": 20,
+        "ID": "Breakfast Sandwich",
+        "JsonAssetsName": "Breakfast Sandwich"
+    },
+    {
+        "Texture": "assets/objects/Brown Gravy.png",
+        "Category": "Cooking",
+        "Edibility": 75,
+        "SellPrice": 775,
+        "UniversalGiftTaste": 20,
+        "ID": "Brown Gravy",
+        "JsonAssetsName": "Brown Gravy"
+    },
+    {
+        "Texture": "assets/objects/Bulgogi.png",
+        "Category": "Cooking",
+        "Edibility": 75,
+        "SellPrice": 680,
+        "UniversalGiftTaste": 45,
+        "ID": "Bulgogi",
+        "JsonAssetsName": "Bulgogi",
+        "EnableConditions":
+        {
+            "HasMod": "ppja.evenmorerecipes.DGA",
+            "HasMod": "ppja.moretrees.DGA"
+        },
+    },
+    {
+        "Texture": "assets/objects/Butterfly DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Butterfly DNA",
+        "JsonAssetsName": "Butterfly DNA",
+        "EnableConditions":
+        {
+            "HasMod": "spacechase0.BugNet"
+        },
+    },
+    {
+        "Texture": "assets/objects/Canned Fish.png",
+        "Category": "AnimalGoods",
+        "Edibility": 10,
+        "SellPrice": 250,
+        "UniversalGiftTaste": 20,
+        "ID": "Canned Fish",
+        "JsonAssetsName": "Canned Fish"
+    },
+    {
+        "Texture": "assets/objects/Canned Meat.png",
+        "Category": "AnimalGoods",
+        "Edibility": 20,
+        "SellPrice": 300,
+        "UniversalGiftTaste": 20,
+        "ID": "Canned Meat",
+        "JsonAssetsName": "Canned Meat"
+    },
+    {
+        "Texture": "assets/objects/Canned Mollusc.png",
+        "Category": "AnimalGoods",
+        "Edibility": 20,
+        "SellPrice": 250,
+        "UniversalGiftTaste": 20,
+        "ID": "Canned Mollusc",
+        "JsonAssetsName": "Canned Mollusc"
+    },
+    {
+        "Texture": "assets/objects/Canned Tuna.png",
+        "Category": "AnimalGoods",
+        "Edibility": 20,
+        "SellPrice": 150,
+        "UniversalGiftTaste": 20,
+        "ID": "Canned Tuna",
+        "JsonAssetsName": "Canned Tuna"
+    },
+    {
+        "Texture": "assets/objects/Cheese Board.png",
+        "Category": "Cooking",
+        "Edibility": 129,
+        "SellPrice": 375,
+        "UniversalGiftTaste": 45,
+        "ID": "Cheese Board",
+        "JsonAssetsName": "Cheese Board"
+    },
+    {
+        "Texture": "assets/objects/Cheeseburger.png",
+        "Category": "Cooking",
+        "Edibility": 118,
+        "SellPrice": 525,
+        "UniversalGiftTaste": 45,
+        "ID": "Cheeseburger",
+        "JsonAssetsName": "Cheeseburger"
+    },
+    {
+        "Texture": "assets/objects/Chevon.png",
+        "Category": "Meat",
+        "SellPrice": 100,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Chevon",
+        "JsonAssetsName": "Chevon"
+    },
+    {
+        "Texture": "assets/objects/Chicken.png",
+        "Category": "Meat",
+        "SellPrice": 60,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Chicken",
+        "JsonAssetsName": "Chicken"
+    },
+    {
+        "Texture": "assets/objects/Chicken and Spinach Crepe.png",
+        "Category": "Cooking",
+        "Edibility": 127,
+        "SellPrice": 725,
+        "UniversalGiftTaste": 45,
+        "ID": "Chicken and Spinach Crepe",
+        "JsonAssetsName": "Chicken and Spinach Crepe"
+    },
+    {
+        "Texture": "assets/objects/Chicken DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Chicken DNA",
+        "JsonAssetsName": "Chicken DNA"
+    },
+    {
+        "Texture": "assets/objects/Chicken Nuggets.png",
+        "Category": "Cooking",
+        "Edibility": 55,
+        "SellPrice": 1100,
+        "UniversalGiftTaste": 20,
+        "ID": "Chicken Nuggets",
+        "JsonAssetsName": "Chicken Nuggets"
+    },
+    {
+        "Texture": "assets/objects/Chicken Stock.png",
+        "Category": "Cooking",
+        "Edibility": 66,
+        "SellPrice": 460,
+        "UniversalGiftTaste": 20,
+        "ID": "Chicken Stock",
+        "JsonAssetsName": "Chicken Stock"
+    },
+    {
+        "Texture": "assets/objects/Chippy Curry.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 915,
+        "UniversalGiftTaste": 20,
+        "ID": "Chippy Curry",
+        "JsonAssetsName": "Chippy Curry"
+    },
+    {
+        "Texture": "assets/objects/Cloud DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Cloud DNA",
+        "JsonAssetsName": "Cloud DNA",
+        "EnableConditions":
+        {
+            "HasMod": "spacechase0.BugNet"
+        },
+    },
+    {
+        "Texture": "assets/objects/Cloud Meat.png",
+        "Category": "Meat",
+        "SellPrice": 225,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Cloud Meat",
+        "JsonAssetsName": "Cloud Meat",
+        "EnableConditions":
+        {
+            "HasMod": "spacechase0.BugNet"
+        },
+    },
+    {
+        "Texture": "assets/objects/Coconut Curry.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 600,
+        "UniversalGiftTaste": 20,
+        "ID": "Coconut Curry",
+        "JsonAssetsName": "Coconut Curry"
+    },
+    {
+        "Texture": "assets/objects/Cooked Alpaca Meat.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 175,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Alpaca Meat",
+        "JsonAssetsName": "Cooked Alpaca Meat"
+    },
+    {
+        "Texture": "assets/objects/Cooked Beast Meat.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 225,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Beast Meat",
+        "JsonAssetsName": "Cooked Beast Meat"
+    },
+    {
+        "Texture": "assets/objects/Cooked Beef.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 165,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Beef",
+        "JsonAssetsName": "Cooked Beef"
+    },
+    {
+        "Texture": "assets/objects/Cooked Bird Meat.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 125,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Bird Meat",
+        "JsonAssetsName": "Cooked Bird Meat"
+    },
+    {
+        "Texture": "assets/objects/Cooked Bison Meat.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Bison Meat",
+        "JsonAssetsName": "Cooked Bison Meat"
+    },
+    {
+        "Texture": "assets/objects/Cooked Boar.png",
+        "Category": "Cooking",
+        "SellPrice": 285,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Boar",
+        "JsonAssetsName": "Cooked Boar"
+    },
+    {
+        "Texture": "assets/objects/Cooked Chevon.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 200,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Chevon",
+        "JsonAssetsName": "Cooked Chevon"
+    },
+    {
+        "Texture": "assets/objects/Cooked Chicken.png",
+        "Category": "Cooking",
+        "Edibility": 45,
+        "SellPrice": 160,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Chicken",
+        "JsonAssetsName": "Cooked Chicken"
+    },
+    {
+        "Texture": "assets/objects/Cooked Critter Meat.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 200,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item",
+            "cooked_critter_meat_item"
+        ],
+        "ID": "Cooked Critter Meat",
+        "JsonAssetsName": "Cooked Critter Meat",
+        "EnableConditions":
+        {
+            "HasMod": "spacechase0.BugNet"
+        },
+    },
+    {
+        "Texture": "assets/objects/Cooked Dragon Meat.png",
+        "Category": "Cooking",
+        "Edibility": 80,
+        "SellPrice": 1200,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Dragon Meat",
+        "JsonAssetsName": "Cooked Dragon Meat"
+    },
+    {
+        "Texture": "assets/objects/Cooked Duck.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 185,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Duck",
+        "JsonAssetsName": "Cooked Duck"
+    },
+    {
+        "Texture": "assets/objects/Cooked Fowl.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Fowl",
+        "JsonAssetsName": "Cooked Fowl"
+    },
+    {
+        "Texture": "assets/objects/Cooked Frog.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 425,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Frog",
+        "JsonAssetsName": "Cooked Frog"
+    },
+    {
+        "Texture": "assets/objects/Cooked Horse Meat.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 480,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Horse Meat",
+        "JsonAssetsName": "Cooked Horse Meat"
+    },
+    {
+        "Texture": "assets/objects/Cooked Ostrich Meat.png",
+        "Category": "Meat",
+        "SellPrice": 900,
+        "UniversalGiftTaste": 20,
+        "ID": "Cooked Ostrich Meat",
+        "JsonAssetsName": "Cooked Ostrich Meat"
+    },
+    {
+        "Texture": "assets/objects/Cooked Phoenix.png",
+        "Category": "Cooking",
+        "Edibility": 80,
+        "SellPrice": 1200,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Phoenix",
+        "JsonAssetsName": "Cooked Phoenix"
+    },
+    {
+        "Texture": "assets/objects/Cooked Pork.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 180,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Pork",
+        "JsonAssetsName": "Cooked Pork"
+    },
+    {
+        "Texture": "assets/objects/Cooked Rabbit.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 150,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Rabbit",
+        "JsonAssetsName": "Cooked Rabbit"
+    },
+    {
+        "Texture": "assets/objects/Cooked Reptile Meat.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 175,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Reptile Meat",
+        "JsonAssetsName": "Cooked Reptile Meat"
+    },
+    {
+        "Texture": "assets/objects/Cooked Turkey.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Turkey",
+        "JsonAssetsName": "Cooked Turkey"
+    },
+    {
+        "Texture": "assets/objects/Cooked Venison.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Venison",
+        "JsonAssetsName": "Cooked Venison"
+    },
+    {
+        "Texture": "assets/objects/Corndog.png",
+        "Category": "Cooking",
+        "Edibility": 112,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 45,
+        "ID": "Corndog",
+        "JsonAssetsName": "Corndog"
+    },
+    {
+        "Texture": "assets/objects/Cottage Pie.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 800,
+        "UniversalGiftTaste": 20,
+        "ID": "Cottage Pie",
+        "JsonAssetsName": "Cottage Pie"
+    },
+    {
+        "Texture": "assets/objects/Cow DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Cow DNA",
+        "JsonAssetsName": "Cow DNA"
+    },
+    {
+        "Texture": "assets/objects/Cow Leather.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 95,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "leather_item"
+        ],
+        "ID": "Cow Leather",
+        "JsonAssetsName": "Cow Leather"
+    },
+    {
+        "Texture": "assets/objects/Critter DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Critter DNA",
+        "JsonAssetsName": "Critter DNA",
+        "EnableConditions":
+        {
+            "HasMod": "spacechase0.BugNet"
+        },
+    },
+    {
+        "Texture": "assets/objects/Critter Meat.png",
+        "Category": "Meat",
+        "SellPrice": 100,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "critter_meat_item",
+            "raw_meat_item"
+        ],
+        "ID": "Critter Meat",
+        "JsonAssetsName": "Critter Meat",
+        "EnableConditions":
+        {
+            "HasMod": "spacechase0.BugNet"
+        },
+    },
+    {
+        "Texture": "assets/objects/Deer Antler.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 180,
+        "UniversalGiftTaste": -20,
+        "ID": "Deer Antler",
+        "JsonAssetsName": "Deer Antler"
+    },
+    {
+        "Texture": "assets/objects/Deer Leather.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 120,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "leather_item"
+        ],
+        "ID": "Deer Leather",
+        "JsonAssetsName": "Deer Leather"
+    },
+    {
+        "Texture": "assets/objects/Dragon Leather.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 350,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "leather_item"
+        ],
+        "ID": "Dragon Leather",
+        "JsonAssetsName": "Dragon Leather"
+    },
+    {
+        "Texture": "assets/objects/Dragon Meat.png",
+        "Category": "Meat",
+        "SellPrice": 450,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Dragon Meat",
+        "JsonAssetsName": "Dragon Meat"
+    },
+    {
+        "Texture": "assets/objects/Dragon Scale.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 650,
+        "UniversalGiftTaste": 80,
+        "ContextTags": [
+            "scale_item"
+        ],
+        "ID": "Dragon Scale",
+        "JsonAssetsName": "Dragon Scale"
+    },
+    {
+        "Texture": "assets/objects/Duck.png",
+        "Category": "Meat",
+        "SellPrice": 85,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Duck",
+        "JsonAssetsName": "Duck"
+    },
+    {
+        "Texture": "assets/objects/Duck DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Duck DNA",
+        "JsonAssetsName": "Duck DNA"
+    },
+    {
+        "Texture": "assets/objects/Dumplings.png",
+        "Category": "Cooking",
+        "Edibility": 88,
+        "SellPrice": 648,
+        "UniversalGiftTaste": 45,
+        "ID": "Dumplings",
+        "JsonAssetsName": "Dumplings"
+    },
+    {
+        "Texture": "assets/objects/Firefly DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Firefly DNA",
+        "JsonAssetsName": "Firefly DNA",
+        "EnableConditions":
+        {
+            "HasMod": "spacechase0.BugNet"
+        },
+    },
+    {
+        "Texture": "assets/objects/Fish and Chips.png",
+        "Category": "Cooking",
+        "Edibility": 55,
+        "SellPrice": 1100,
+        "UniversalGiftTaste": 45,
+        "ID": "Fish and Chips",
+        "JsonAssetsName": "Fish and Chips"
+    },
+    {
+        "Texture": "assets/objects/Fowl.png",
+        "Category": "Meat",
+        "SellPrice": 75,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Fowl",
+        "JsonAssetsName": "Fowl"
+    },
+    {
+        "Texture": "assets/objects/Frog DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Frog DNA",
+        "JsonAssetsName": "Frog DNA"
+    },
+    {
+        "Texture": "assets/objects/Frog Meat.png",
+        "Category": "Meat",
+        "SellPrice": 180,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Frog Meat",
+        "JsonAssetsName": "Frog Meat"
+    },
+    {
+        "Texture": "assets/objects/Generic Scale.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 100,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "scale_item"
+        ],
+        "ID": "Generic Scale",
+        "JsonAssetsName": "Generic Scale"
+    },
+    {
+        "Texture": "assets/objects/Genetically Engineered Yeast.png",
+        "Category": "Cooking",
+        "SellPrice": 100,
+        "UniversalGiftTaste": 20,
+        "ID": "Genetically Engineered Yeast",
+        "JsonAssetsName": "Genetically Engineered Yeast"
+    },
+    {
+        "Texture": "assets/objects/Goat DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 85,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Goat DNA",
+        "JsonAssetsName": "Goat DNA"
+    },
+    {
+        "Texture": "assets/objects/Goat Hoof.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 150,
+        "UniversalGiftTaste": -40,
+        "ID": "Goat Hoof",
+        "JsonAssetsName": "Goat Hoof"
+    },
+    {
+        "Texture": "assets/objects/Goat Leather.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 120,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "leather_item"
+        ],
+        "ID": "Goat Leather",
+        "JsonAssetsName": "Goat Leather"
+    },
+    {
+        "Texture": "assets/objects/Grilled Skewer.png",
+        "Category": "Cooking",
+        "Edibility": 73,
+        "SellPrice": 500,
+        "UniversalGiftTaste": 45,
+        "ID": "Grilled Skewer",
+        "JsonAssetsName": "Grilled Skewer"
+    },
+    {
+        "Texture": "assets/objects/Ham.png",
+        "Category": "Cooking",
+        "Edibility": 40,
+        "SellPrice": 200,
+        "UniversalGiftTaste": 20,
+        "ID": "Ham",
+        "JsonAssetsName": "Ham"
+    },
+    {
+        "Texture": "assets/objects/Hamburger Patty.png",
+        "Category": "Cooking",
+        "Edibility": 40,
+        "SellPrice": 165,
+        "UniversalGiftTaste": 20,
+        "ID": "Hamburger Patty",
+        "JsonAssetsName": "Hamburger Patty"
+    },
+    {
+        "Texture": "assets/objects/Horsehair.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 80,
+        "UniversalGiftTaste": -20,
+        "ID": "Horsehair",
+        "JsonAssetsName": "Horsehair"
+    },
+    {
+        "Texture": "assets/objects/Horse Hoof.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 175,
+        "UniversalGiftTaste": -40,
+        "ID": "Horse Hoof",
+        "JsonAssetsName": "Horse Hoof"
+    },
+    {
+        "Texture": "assets/objects/Horse Leather.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 120,
+        "UniversalGiftTaste": -40,
+        "ContextTags": [
+            "leather_item"
+        ],
+        "ID": "Horse Leather",
+        "JsonAssetsName": "Horse Leather"
+    },
+    {
+        "Texture": "assets/objects/Horse Meat.png",
+        "Category": "Meat",
+        "SellPrice": 400,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Horse Meat",
+        "JsonAssetsName": "Horse Meat"
+    },
+    {
+        "Texture": "assets/objects/Hot Dog.png",
+        "Category": "Cooking",
+        "Edibility": 139,
+        "SellPrice": 480,
+        "UniversalGiftTaste": 20,
+        "ID": "Hot Dog",
+        "JsonAssetsName": "Hot Dog"
+    },
+    {
+        "Texture": "assets/objects/Jerky.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 40,
+        "SellPrice": 500,
+        "UniversalGiftTaste": 20,   
+        "ID": "Jerky",
+        "JsonAssetsName": "Jerky"
+    },
+    {
+        "Texture": "assets/objects/Ketchup.png",
+        "Category": "Cooking",
+        "SellPrice": 50,
+        "UniversalGiftTaste": 45,
+        "ID": "Ketchup",
+        "JsonAssetsName": "Ketchup"
+    },
+    {
+        "Texture": "assets/objects/Lobster Stock.png",
+        "Category": "Cooking",
+        "Edibility": 66,
+        "SellPrice": 1760,
+        "UniversalGiftTaste": 45,
+        "ID": "Lobster Stock",
+        "JsonAssetsName": "Lobster Stock"
+    },
+    {
+        "Texture": "assets/objects/Lula Kebab.png",
+        "Category": "Cooking",
+        "Edibility": 73,
+        "SellPrice": 525,
+        "UniversalGiftTaste": 45,
+        "ID": "Lula Kebab",
+        "JsonAssetsName": "Lula Kebab"
+    },
+    {
+        "Texture": "assets/objects/Meat Skewer.png",
+        "Category": "Cooking",
+        "Edibility": 65,
+        "SellPrice": 1300,
+        "UniversalGiftTaste": 45,
+        "ID": "Meat Skewer",
+        "JsonAssetsName": "Meat Skewer"
+    },
+    {
+        "Texture": "assets/objects/Meatloaf.png",
+        "Category": "Cooking",
+        "Edibility": 85,
+        "SellPrice": 675,
+        "UniversalGiftTaste": 20,
+        "ID": "Meatloaf",
+        "JsonAssetsName": "Meatloaf"
+    },
+    {
+        "Texture": "assets/objects/Meaty Burrito Wrap.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 725,
+        "UniversalGiftTaste": 20,
+        "ID": "Meaty Burrito Wrap",
+        "JsonAssetsName": "Meaty Burrito Wrap"
+    },
+    {
+        "Texture": "assets/objects/Metallic Scale.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 350,
+        "UniversalGiftTaste": 80,
+        "ContextTags": [
+            "scale_item"
+        ],
+        "ID": "Metallic Scale",
+        "JsonAssetsName": "Metallic Scale"
+    },
+    {
+        "Texture": "assets/objects/Mild Curry.png",
+        "Category": "Cooking",
+        "Edibility": 76,
+        "SellPrice": 775,
+        "UniversalGiftTaste": 45,
+        "ID": "Mild Curry",
+        "JsonAssetsName": "Mild Curry",
+        "EnableConditions":
+        {
+            "HasMod": "ppja.evenmorerecipes.DGA"
+        },
+    },
+    {
+        "Texture": "assets/objects/Mustard.png",
+        "Category": "Cooking",
+        "SellPrice": 100,
+        "UniversalGiftTaste": 45,
+        "ID": "Mustard",
+        "JsonAssetsName": "Mustard"
+    },
+    {
+        "Texture": "assets/objects/Mutton.png",
+        "Category": "Meat",
+        "SellPrice": 100,
+        "UniversalGiftTaste": -20,
+        "ID": "Mutton",
+        "JsonAssetsName": "Mutton"
+    },
+    {
+        "Texture": "assets/objects/Ostrich DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Ostrich DNA",
+        "JsonAssetsName": "Ostrich DNA"
+    },
+    {
+        "Texture": "assets/objects/Ostrich Meat.png",
+        "Category": "Meat",
+        "SellPrice": 800,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Ostrich Meat",
+        "JsonAssetsName": "Ostrich Meat"
+    },
+    {
+        "Texture": "assets/objects/Paella.png",
+        "Category": "Cooking",
+        "Edibility": 111,
+        "SellPrice": 550,
+        "UniversalGiftTaste": 45,
+        "ID": "Paella",
+        "JsonAssetsName": "Paella"
+    },
+    {
+        "Texture": "assets/objects/Phoenix Au Vin.png",
+        "Category": "Cooking",
+        "Edibility": 95,
+        "SellPrice": 2700,
+        "UniversalGiftTaste": 20,
+        "ID": "Phoenix Au Vin",
+        "JsonAssetsName": "Phoenix Au Vin"
+    },
+    {
+        "Texture": "assets/objects/Phoenix Meat.png",
+        "Category": "Meat",
+        "SellPrice": 600,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Phoenix Meat",
+        "JsonAssetsName": "Phoenix Meat"
+    },
+    {
+        "Texture": "assets/objects/Pig DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Pig DNA",
+        "JsonAssetsName": "Pig DNA"
+    },
+    {
+        "Texture": "assets/objects/Pig Leather.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 100,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "leather_item"
+        ],
+        "ID": "Pig Leather",
+        "JsonAssetsName": "Pig Leather"
+    },
+    {
+        "Texture": "assets/objects/Pizza Diavolo.png",
+        "Category": "Cooking",
+        "Edibility": 65,
+        "SellPrice": 900,
+        "UniversalGiftTaste": 45,
+        "ID": "Pizza Diavolo",
+        "JsonAssetsName": "Pizza Diavolo"
+    },
+    {
+        "Texture": "assets/objects/Pork.png",
+        "Category": "Meat",
+        "SellPrice": 80,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Pork",
+        "JsonAssetsName": "Pork"
+    },
+    {
+        "Texture": "assets/objects/Poutine.png",
+        "Category": "Cooking",
+        "Edibility": 147,
+        "SellPrice": 1355,
+        "UniversalGiftTaste": 45,
+        "ID": "Poutine",
+        "JsonAssetsName": "Poutine"
+    },
+    {
+        "Texture": "assets/objects/Rabbit.png",
+        "Category": "Meat",
+        "SellPrice": 53,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Rabbit",
+        "JsonAssetsName": "Rabbit"
+    },
+    {
+        "Texture": "assets/objects/Rabbit DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Rabbit DNA",
+        "JsonAssetsName": "Rabbit DNA"
+    },
+    {
+        "Texture": "assets/objects/Rabbit Fell.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 70,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "leather_item"
+        ],
+        "ID": "Rabbit Fell",
+        "JsonAssetsName": "Rabbit Fell"
+    },
+    {
+        "Texture": "assets/objects/Reptile Leather.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 80,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "leather_item"
+        ],
+        "ID": "Reptile Leather",
+        "JsonAssetsName": "Reptile Leather"
+    },
+    {
+        "Texture": "assets/objects/Reptile Meat.png",
+        "Category": "Meat",
+        "SellPrice": 125,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Reptile Meat",
+        "JsonAssetsName": "Reptile Meat"
+    },
+    {
+        "Texture": "assets/objects/Roasted Fowl.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 20,
+        "ID": "Roasted Fowl",
+        "JsonAssetsName": "Roasted Fowl"
+    },
+    {
+        "Texture": "assets/objects/Salami.png",
+        "Category": "Cooking",
+        "Edibility": 5,
+        "SellPrice": 425,
+        "UniversalGiftTaste": 45,
+        "ID": "Salami",
+        "JsonAssetsName": "Salami"
+    },
+    {
+        "Texture": "assets/objects/Sausage.png",
+        "Category": "Cooking",
+        "Edibility": 50,
+        "SellPrice": 345,
+        "UniversalGiftTaste": 45,
+        "ID": "Sausage",
+        "JsonAssetsName": "Sausage"
+    },
+    {
+        "Texture": "assets/objects/Schnitzel.png",
+        "Category": "Cooking",
+        "Edibility": 55,
+        "SellPrice": 1100,
+        "UniversalGiftTaste": 45,
+        "ID": "Schnitzel",
+        "JsonAssetsName": "Schnitzel"
+    },
+    {
+        "Texture": "assets/objects/Seafood Stock.png",
+        "Category": "Cooking",
+        "Edibility": 66,
+        "SellPrice": 560,
+        "UniversalGiftTaste": 45,
+        "ID": "Seafood Stock",
+        "JsonAssetsName": "Seafood Stock"
+    },
+    {
+        "Texture": "assets/objects/Seasonings.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ID": "Seasonings",
+        "JsonAssetsName": "Seasonings"
+    },
+    {
+        "Texture": "assets/objects/Sheep DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Sheep DNA",
+        "JsonAssetsName": "Sheep DNA"
+    },
+    {
+        "Texture": "assets/objects/Sheep Leather.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 120,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "leather_item"
+        ],
+        "ID": "Sheep Leather",
+        "JsonAssetsName": "Sheep Leather"
+    },
+    {
+        "Texture": "assets/objects/Shrimp Stock.png",
+        "Category": "Cooking",
+        "Edibility": 66,
+        "SellPrice": 835,
+        "UniversalGiftTaste": 45,
+        "ID": "Shrimp Stock",
+        "JsonAssetsName": "Shrimp Stock"
+    },
+    {
+        "Texture": "assets/objects/Sorrel Soup.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 875,
+        "UniversalGiftTaste": 20,
+        "ID": "Sorrel Soup",
+        "JsonAssetsName": "Sorrel Soup"
+    },
+    {
+        "Texture": "assets/objects/Spaghetti and Meatballs.png",
+        "Category": "Cooking",
+        "Edibility": 40,
+        "SellPrice": 460,
+        "UniversalGiftTaste": 45,
+        "ID": "Spaghetti and Meatballs",
+        "JsonAssetsName": "Spaghetti and Meatballs"
+    },
+    {
+        "Texture": "assets/objects/Spaghetti Bolognese.png",
+        "Category": "Cooking",
+        "Edibility": 55,
+        "SellPrice": 1100,
+        "UniversalGiftTaste": 45,
+        "ID": "Spaghetti Bolognese",
+        "JsonAssetsName": "Spaghetti Bolognese"
+    },
+    {
+        "Texture": "assets/objects/Squirrel DNA.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 10,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "dna_item"
+        ],
+        "ID": "Squirrel DNA",
+        "JsonAssetsName": "Squirrel DNA",
+        "EnableConditions":
+        {
+            "HasMod": "spacechase0.BugNet"
+        },
+    },
+    {
+        "Texture": "assets/objects/Steak.png",
+        "Category": "Cooking",
+        "Edibility": 40,
+        "SellPrice": 350,
+        "UniversalGiftTaste": 45,
+        "ID": "Steak",
+        "JsonAssetsName": "Steak",
+        "EnableConditions":
+        {
+            "HasMod": "ppja.morerecipes.DGA"
+        },
+    },
+    {
+        "Texture": "assets/objects/Steak Tartare.png",
+        "Category": "Cooking",
+        "Edibility": 75,
+        "SellPrice": 380,
+        "UniversalGiftTaste": -20,
+        "ID": "Steak Tartare",
+        "JsonAssetsName": "Steak Tartare"
+    },
+    {
+        "Texture": "assets/objects/Sweet and Sour Pork with Rice.png",
+        "Category": "Cooking",
+        "Edibility": 55,
+        "SellPrice": 1100,
+        "UniversalGiftTaste": 45, 
+        "ID": "Sweet and Sour Pork with Rice",
+        "JsonAssetsName": "Sweet and Sour Pork with Rice"
+    },
+    {
+        "Texture": "assets/objects/Sweet n' Sour Bites.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 1700,
+        "UniversalGiftTaste": 20,
+        "ID": "Sweet n' Sour Bites",
+        "JsonAssetsName": "Sweet n' Sour Bites"
+    },
+    {
+        "Texture": "assets/objects/Teriyaki.png",
+        "Category": "Cooking",
+        "Edibility": 55,
+        "SellPrice": 1100,
+        "UniversalGiftTaste": 45,
+        "ID": "Teriyaki",
+        "JsonAssetsName": "Teriyaki"
+    },
+    {
+        "Texture": "assets/objects/Toast.png",
+        "Category": "Cooking",
+        "Edibility": 10,
+        "SellPrice": 145,
+        "UniversalGiftTaste": 45,
+        "ID": "Toast",
+        "JsonAssetsName": "Toast"
+    },
+    {
+        "Texture": "assets/objects/Toast Hawaii.png",
+        "Category": "Cooking",
+        "Edibility": 56,
+        "SellPrice": 800,
+        "UniversalGiftTaste": 45,
+        "ID": "Toast Hawaii",
+        "JsonAssetsName": "Toast Hawaii"
+    },
+    {
+        "Texture": "assets/objects/Toast Williams.png",
+        "Category": "Cooking",
+        "Edibility": 57,
+        "SellPrice": 675,
+        "UniversalGiftTaste": 45,
+        "ID": "Toast Williams",
+        "JsonAssetsName": "Toast Williams"
+    },
+    {
+        "Texture": "assets/objects/Tonkatsu.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 625,
+        "UniversalGiftTaste": 20,
+        "ID": "Tonkatsu",
+        "JsonAssetsName": "Tonkatsu"
+    },
+    {
+        "Texture": "assets/objects/Turkey.png",
+        "Category": "Meat",
+        "SellPrice": 75,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Turkey",
+        "JsonAssetsName": "Turkey"
+    },
+    {
+        "Texture": "assets/objects/Venison.png",
+        "Category": "Meat",
+        "SellPrice": 75,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Venison",
+        "JsonAssetsName": "Venison"
+    },
+    {
+        "Texture": "assets/objects/Venison Handpie.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 890,
+        "UniversalGiftTaste": 20,
+        "ID": "Venison Handpie",
+        "JsonAssetsName": "Venison Handpie"
+    },
+    {
+        "Texture": "assets/objects/White Gravy.png",
+        "Category": "Cooking",
+        "Edibility": 82,
+        "SellPrice": 760,
+        "UniversalGiftTaste": 20,
+        "ID": "White Gravy",
+        "JsonAssetsName": "White Gravy"
+    },
+    {
+        "Texture": "assets/objects/Wild Boar Leather.png",
+        "Category": "AnimalGoods",
+        "SellPrice": 100,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "leather_item"
+        ],
+        "ID": "Wild Boar Leather",
+        "JsonAssetsName": "Wild Boar Leather"
+    },
+    {
+        "Texture": "assets/objects/Wild Boar Meat.png",
+        "Category": "Meat",
+        "SellPrice": 225,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "ID": "Wild Boar Meat",
+        "JsonAssetsName": "Wild Boar Meat"
+    },
+    {
+        "Texture": "assets/objects/Alpaca Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Alpaca Crop",
+        "Category": "Seeds",
+        "ID": "Alpaca Seeds"
+    },
+    {
+        "Texture": "assets/objects/Beast Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Beast Crop",
+        "Category": "Seeds",
+        "ID": "Beast Seeds"
+    },
+    {
+        "Texture": "assets/objects/Beef Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Beef Crop",
+        "Category": "Seeds",
+        "ID": "Beefvine Seeds"
+    },
+    {
+        "Texture": "assets/objects/Bird Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Bird Crop",
+        "Category": "Seeds",
+        "ID": "Bird Seeds"
+    },
+    {
+        "Texture": "assets/objects/Bison Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Bison Crop",
+        "Category": "Seeds",
+        "ID": "Bison Seeds"
+    },
+    {
+        "Texture": "assets/objects/Chevon Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Chevon Crop",
+        "Category": "Seeds",
+        "ID": "Chevonvine Seeds"
+    },
+    {
+        "Texture": "assets/objects/Chicken Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Chicken Crop",
+        "Category": "Seeds",
+        "ID": "Chickenvine Seeds"
+    },
+    {
+        "Texture": "assets/objects/Dragon Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Dragon Crop",
+        "Category": "Seeds",
+        "ID": "Dragon Seeds"
+    },
+    {
+        "Texture": "assets/objects/Duck Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Duck Crop",
+        "Category": "Seeds",
+        "ID": "Duckvine Seeds"
+    },
+    {
+        "Texture": "assets/objects/Fowl Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Fowl Crop",
+        "Category": "Seeds",
+        "ID": "Fowl Seeds"
+    },
+    {
+        "Texture": "assets/objects/Frog Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Frog Crop",
+        "Category": "Seeds",
+        "ID": "Frog Seeds"
+    },
+    {
+        "Texture": "assets/objects/Horse Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Horse Crop",
+        "Category": "Seeds",
+        "ID": "Horse Seeds"
+    },
+    {
+        "Texture": "assets/objects/Mutton Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Mutton Crop",
+        "Category": "Seeds",
+        "ID": "Muttonvine Seeds"
+    },
+    {
+        "Texture": "assets/objects/Ostrich Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Ostrich Crop",
+        "Category": "Seeds",
+        "ID": "Ostrich Seeds"
+    },
+    {
+        "Texture": "assets/objects/Phoenix Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Phoenix Crop",
+        "Category": "Seeds",
+        "ID": "Phoenix Seeds"
+    },
+    {
+        "Texture": "assets/objects/Pork Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Pork Crop",
+        "Category": "Seeds",
+        "ID": "Porkvine Seeds"
+    },
+    {
+        "Texture": "assets/objects/Rabbit Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Rabbit Crop",
+        "Category": "Seeds",
+        "ID": "Rabbitvine Seeds"
+    },
+    {
+        "Texture": "assets/objects/Reptile Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Reptile Crop",
+        "Category": "Seeds",
+        "ID": "Reptile Seeds"
+    },
+    {
+        "Texture": "assets/objects/Turkey Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Turkey Crop",
+        "Category": "Seeds",
+        "ID": "Turkey Seeds"
+    },
+    {
+        "Texture": "assets/objects/Venison Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Venison Crop",
+        "Category": "Seeds",
+        "ID": "Venison Seeds"
+    },
+    {
+        "Texture": "assets/objects/Wild Boar Crop_seeds.png",
+        "Plants": "ppja.freshmeat.DGA/Wild Boar Crop",
+        "Category": "Seeds",
+        "ID": "Wild Boar Seeds"
+    },
+    {
+        "Texture": "assets/objects/Jerky Tree Tree_sapling.png",
+        "Plants": "ppja.freshmeat.DGA/Jerky Tree Tree",
+        "Category": "Seeds",
+        "SellPrice": 0,
+        "ID": "Jerky Sapling"
+    },
+
+    // New Items
+
+    {
+        "Texture": "assets/objects/Chicken Wing.png",
+        "Category": "Meat",
+        "SellPrice": 60,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "UniversalGiftTaste": 20,
+        "ID": "Chicken Wing",
+    },
+    {
+        "Texture": "assets/objects/Cooked Chicken Wing.png",
+        "Category": "Cooking",
+        "SellPrice": 300,
+        "ContextTags": [
+            "cooked_meat"
+        ],
+        "UniversalGiftTaste": 20,
+        "ID": "Cooked Chicken Wing",
+    },
+    {
+        "Texture": "assets/objects/Drumstick.png",
+        "Category": "Meat",
+        "SellPrice": 80,
+        "ContextTags": [
+            "raw_meat_item"
+        ],
+        "UniversalGiftTaste": 20,
+        "ID": "Drumstick",
+    },
+    {
+        "Texture": "assets/objects/Cooked Drumstick.png",
+        "Category": "Cooking",
+        "SellPrice": 400,
+        "ContextTags": [
+            "cooked_meat"
+        ],
+        "UniversalGiftTaste": 20,
+        "ID": "Cooked Drumstick",
+    },
+    {
+        "Texture": "assets/objects/Beef Taco.png",
+        "Category": "Cooking",
+        "SellPrice": 800,
+        "UniversalGiftTaste": 20,
+        "ID": "Beef Taco",
+    },
+    {
+        "Texture": "assets/objects/Cooked Mutton.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "cooked_meat",
+            "meat_item"
+        ],
+        "ID": "Cooked Mutton",
+    },
+]

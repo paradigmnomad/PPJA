@@ -1,0 +1,230 @@
+[
+{
+    "Texture": "assets/objects/Christmas Chocolate Candie Cookies.png",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "SellPrice": 200,
+    "UniversalGiftTaste": 45,
+    "ID": "Christmas Chocolate Candie Cookies",
+    "JsonAssetsName": "Christmas Chocolate Candie Cookies"
+},
+{
+    "Texture": "assets/objects/Decorated Gingerbread Man.png",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "SellPrice": 450,
+    "UniversalGiftTaste": 45,
+    "ID": "Decorated Gingerbread Man",
+    "JsonAssetsName": "Decorated Gingerbread Man"
+},
+{
+    "Texture": "assets/objects/Fruitcake.png",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "SellPrice": 500,
+    "UniversalGiftTaste": -20,
+    "ID": "Fruitcake",
+    "JsonAssetsName": "Fruitcake"
+},
+{
+    "Texture": "assets/objects/Gingerbread House.png",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Gingerbread House",
+    "JsonAssetsName": "Gingerbread House"
+},
+{
+    "Texture": "assets/objects/Holly Decorated Cookie.png",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Holly Decorated Cookie",
+    "JsonAssetsName": "Holly Decorated Cookie"
+},
+{
+    "Texture": "assets/objects/Iced Christmas Tree.png",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Iced Christmas Tree",
+    "JsonAssetsName": "Iced Christmas Tree"
+},
+{
+    "Texture": "assets/objects/Iced Decorated Christmas Tree.png",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Iced Decorated Christmas Tree",
+    "JsonAssetsName": "Iced Decorated Christmas Tree"
+},
+{
+    "Texture": "assets/objects/Iced Green Christmas Tree.png",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Iced Green Christmas Tree",
+    "JsonAssetsName": "Iced Green Christmas Tree"
+},
+{
+    "Texture": "assets/objects/Jam-Filled Cookie.png",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "SellPrice": 190,
+    "UniversalGiftTaste": 45,
+    "ID": "Jam-Filled Cookie",
+    "JsonAssetsName": "Jam-Filled Cookie"
+},
+{
+    "Texture": "assets/objects/Jinglebell Cake Pops.png",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Jinglebell Cake Pops",
+    "JsonAssetsName": "Jinglebell Cake Pops"
+},
+{
+    "Texture": "assets/objects/Mitten Cookie.png",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "SellPrice": 140,
+    "UniversalGiftTaste": 45,
+    "ID": "Mitten Cookie",
+    "JsonAssetsName": "Mitten Cookie"
+},
+{
+    "Texture": "assets/objects/Peppermint Candy Cane.png",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 20,
+    "ID": "Peppermint Candy Cane",
+    "JsonAssetsName": "Peppermint Candy Cane"
+},
+{
+    "Texture": "assets/objects/Peppermint Hot Chocolate.png",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Peppermint Hot Chocolate",
+    "JsonAssetsName": "Peppermint Hot Chocolate"
+},
+{
+    "Texture": "assets/objects/Peppermints.png",
+    "Category": "Cooking",
+    "Edibility": 10,
+    "SellPrice": 280,
+    "UniversalGiftTaste": 45,
+    "ID": "Peppermints",
+    "JsonAssetsName": "Peppermints"
+},
+{
+    "Texture": "assets/objects/Prismatic Candy Cane.png",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 20,
+    "ID": "Prismatic Candy Cane",
+    "JsonAssetsName": "Prismatic Candy Cane"
+},
+{
+    "Texture": "assets/objects/Pufferchick Cookie.png",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "SellPrice": 140,
+    "UniversalGiftTaste": 80,
+    "ID": "Pufferchick Cookie",
+    "JsonAssetsName": "Pufferchick Cookie"
+},
+{
+    "Texture": "assets/objects/Reindeer Marshmellow.png",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "SellPrice": 350,
+    "UniversalGiftTaste": 45,
+    "ID": "Reindeer Marshmellow",
+    "JsonAssetsName": "Reindeer Marshmellow"
+},
+{
+    "Texture": "assets/objects/Snowman Cookie.png",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "SellPrice": 140,
+    "UniversalGiftTaste": 45,
+    "ID": "Snowman Cookie",
+    "JsonAssetsName": "Snowman Cookie"
+},
+{
+    "Texture": "assets/objects/Snowman Scenery Cookie.png",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "SellPrice": 140,
+    "UniversalGiftTaste": 45,
+    "ID": "Snowman Scenery Cookie",
+    "JsonAssetsName": "Snowman Scenery Cookie"
+},
+{
+    "Texture": "assets/objects/Spiked Eggnog.png",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": -1,
+        "Duration": 100
+    },
+    "SellPrice": 300,
+    "UniversalGiftTaste": 20,
+    "EnableConditions":
+    {
+        "HasMod": "ppja.artisanvalleymachinegoods.DGA"
+    },
+    "ID": "Spiked Eggnog",
+    "JsonAssetsName": "Spiked Eggnog"
+},
+{
+    "Texture": "assets/objects/Stardrop Cookie.png",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "SellPrice": 140,
+    "UniversalGiftTaste": 45,
+    "ID": "Stardrop Cookie",
+    "JsonAssetsName": "Stardrop Cookie"
+},
+{
+    "Texture": "assets/objects/Stocking Cookie.png",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "SellPrice": 140,
+    "UniversalGiftTaste": 45,
+    "ID": "Stocking Cookie",
+    "JsonAssetsName": "Stocking Cookie"
+},
+{
+    "Texture": "assets/objects/Strawberry Santa.png",
+    "Category": "Cooking",
+    "Edibility": 48,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Strawberry Santa",
+    "JsonAssetsName": "Strawberry Santa"
+},
+{
+    "Texture": "assets/objects/Christmas Pudding.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "SellPrice": 900,
+    "UniversalGiftTaste": 20,
+    "EnableConditions":
+    {
+        "HasMod": "ppja.artisanvalleymachinegoods.DGA"
+    },
+    "ID": "Christmas Pudding",
+}]

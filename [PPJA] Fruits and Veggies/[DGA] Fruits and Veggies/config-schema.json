@@ -1,0 +1,37 @@
+[   
+    {
+        "Name": "PineappleCropEnabled",
+        "Description": "Enables the legacy pineapple crop sprite.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+    {
+        "Name": "GingerEnabled",
+        "Description": "Enables the legacy ginger item sprite.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+    {
+        "Name": "TaroCropEnabled",
+        "Description": "Enables the legacy taro crop sprite.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+    {
+        "Name": "TeaCropEnabled",
+        "Description": "Enables the legacy tea crop sprite.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+    {
+        "Name": "RiceCropEnabled",
+        "Description": "Enables the legacy rice crop sprite.",
+        "ValueType": "String",
+        "ValidValues": "true, false",
+        "DefaultValue": "false"
+    },
+]

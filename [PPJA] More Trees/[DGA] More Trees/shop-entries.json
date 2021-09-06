@@ -1,0 +1,350 @@
+[
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Almond Sapling"
+    },
+    "Cost": 3750,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Asian Pear Sapling"
+    },
+    "Cost": 3500,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Avocado Sapling"
+    },
+    "Cost": 8000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "Sandy",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Breadfruit Sapling"
+    },
+    "Cost": 8000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Camphor Sapling"
+    },
+    "Cost": 4000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 3": "true",
+      "Season |contains=winter": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Cashew Sapling"
+    },
+    "Cost": 4000,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Cinnamon Sapling"
+    },
+    "Cost": 6000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=winter": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Cocoa Sapling"
+    },
+    "Cost": 5000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "Sandy",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Dragon Fruit Sapling"
+    },
+    "Cost": 5000,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "Sandy",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Durian Sapling"
+    },
+    "Cost": 8000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "Hospital",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Eucalyptus Sapling"
+    },
+    "Cost": 5500,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Fig Sapling"
+    },
+    "Cost": 4000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=winter": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Fragrant Wisteria Sapling"
+    },
+    "Cost": 2500,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Granny Smith Sapling"
+    },
+    "Cost": 3500,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "IslandMerchant",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Grapefruit Sapling"
+    },
+    "Cost": 6000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Lemon Sapling"
+    },
+    "Cost": 2000,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Lime Sapling"
+    },
+    "Cost": 2000,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "Sandy",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Lychee Sapling"
+    },
+    "Cost": 5000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Melaleuca Sapling"
+    },
+    "Cost": 4000,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Olive Sapling"
+    },
+    "Cost": 2000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "Sandy",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Papaya Sapling"
+    },
+    "Cost": 5500,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Pear Sapling"
+    },
+    "Cost": 5500,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=winter": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Pecan Sapling"
+    },
+    "Cost": 5000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 3": "true",
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "IslandMerchant",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Persimmon Sapling"
+    },
+    "Cost": 7000,
+    "EnableConditions": {
+      "Season |contains=winter": "true"
+    }
+  },
+  {
+    "ShopId": "IslandMerchant",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Pomelo Sapling"
+    },
+    "Cost": 3400,
+    "EnableConditions": {
+      "Query: {{Year}} >= 2": "true",
+      "Season |contains=winter": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Ume Sapling"
+    },
+    "Cost": 2000,
+    "EnableConditions": {
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Vanilla Sapling"
+    },
+    "Cost": 5000,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Walnut Sapling"
+    },
+    "Cost": 3750,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {
+    "ShopId": "Sandy",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Ylang Ylang Sapling"
+    },
+    "Cost": 3000,
+    "EnableConditions": {
+      "Query: {{Year}} >= 3": "true",
+      "Season |contains=summer": "true"
+    }
+  },
+  {
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Yuzu Sapling"
+    },
+    "Cost": 2000,
+    "EnableConditions": {
+      "Season |contains=winter": "true"
+    }
+  },
+
+  // New Items
+
+{  
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Pistachio Sapling"
+    },
+    "Cost": 2000,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {  
+    "ShopId": "SeedShop",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Bitter Orange Sapling"
+    },
+    "Cost": 2000,
+    "EnableConditions": {
+      "Season |contains=fall": "true"
+    }
+  },
+  {  
+    "ShopId": "IslandMerchant",
+    "Item": {
+      "Value": "ppja.moretrees.DGA/Jackfruit Sapling"
+    },
+    "Cost": 3500,
+    "EnableConditions": {
+      "Season |contains=spring": "true"
+    }
+  }
+]

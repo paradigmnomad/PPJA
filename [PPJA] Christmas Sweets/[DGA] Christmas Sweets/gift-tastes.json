@@ -1,0 +1,224 @@
+[
+{
+    "ObjectId": "ppja.christmassweets.DGA/Christmas Chocolate Candie Cookies",
+    "NPC": "Harvey, Krobus, Leah, Willy",
+    "Amount": -20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Decorated Gingerbread Man",
+    "NPC": "Harvey, Krobus, Leah, Willy",
+    "Amount": -20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Gingerbread House",
+    "NPC": "Abigail, Haley, Maru, Sebastian",
+    "Amount": 80
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Gingerbread House",
+    "NPC": "Emily, Krobus, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Gingerbread House",
+    "NPC": "Evelyn",
+    "Amount": -40
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Holly Decorated Cookie",
+    "NPC": "Abigail, Haley, Maru, Sebastian",
+    "Amount": 80
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Holly Decorated Cookie",
+    "NPC": "Emily, Krobus, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Holly Decorated Cookie",
+    "NPC": "Evelyn",
+    "Amount": -40
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Iced Christmas Tree",
+    "NPC": "Abigail, Haley, Maru, Sebastian",
+    "Amount": 80
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Iced Christmas Tree",
+    "NPC": "Emily, Krobus, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Iced Christmas Tree",
+    "NPC": "Evelyn",
+    "Amount": -40
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Iced Decorated Christmas Tree",
+    "NPC": "Abigail, Haley, Maru, Sebastian",
+    "Amount": 80
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Iced Decorated Christmas Tree",
+    "NPC": "Emily, Krobus, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Iced Decorated Christmas Tree",
+    "NPC": "Evelyn",
+    "Amount": -40
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Iced Green Christmas Tree",
+    "NPC": "Abigail, Haley, Maru, Sebastian",
+    "Amount": 80
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Iced Green Christmas Tree",
+    "NPC": "Emily, Krobus, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Iced Green Christmas Tree",
+    "NPC": "Evelyn",
+    "Amount": -40
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Jam-Filled Cookie",
+    "NPC": "Harvey, Krobus, Leah, Willy",
+    "Amount": -20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Jinglebell Cake Pops",
+    "NPC": "Abigail, Haley, Maru, Sebastian",
+    "Amount": 80
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Jinglebell Cake Pops",
+    "NPC": "Emily, Krobus, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Jinglebell Cake Pops",
+    "NPC": "Evelyn",
+    "Amount": -40
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Mitten Cookie",
+    "NPC": "Harvey, Krobus, Leah, Willy",
+    "Amount": -20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Peppermint Hot Chocolate",
+    "NPC": "Abigail, Haley, Maru, Sebastian",
+    "Amount": 80
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Peppermint Hot Chocolate",
+    "NPC": "Emily, Krobus, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Peppermint Hot Chocolate",
+    "NPC": "Evelyn",
+    "Amount": -40
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Peppermints",
+    "NPC": "Abigail, Haley, Maru, Sebastian, Vincent",
+    "Amount": 80
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Peppermints",
+    "NPC": "Emily, Krobus, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Peppermints",
+    "NPC": "Evelyn, George",
+    "Amount": -40
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Prismatic Candy Cane",
+    "NPC": "Haley",
+    "Amount": -20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Reindeer Marshmellow",
+    "NPC": "Vincent, Jas",
+    "Amount": 80
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Reindeer Marshmellow",
+    "NPC": "Emily, Krobus, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Snowman Cookie",
+    "NPC": "Harvey, Krobus, Leah, Willy",
+    "Amount": -20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Snowman Scenery Cookie",
+    "NPC": "Harvey, Krobus, Leah, Willy",
+    "Amount": -20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Spiked Eggnog",
+    "NPC": "Pam, Shane",
+    "Amount": 80
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Spiked Eggnog",
+    "NPC": "Pam",
+    "Amount": -20,
+    "EnableConditions":
+    {
+        "HasSeenEvent": "503180"
+    }
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Spiked Eggnog",
+    "NPC": "Shane",
+    "Amount": -20,
+    "EnableConditions":
+    {
+        "HasSeenEvent": "611944"
+    }
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Spiked Eggnog",
+    "NPC": "Gus",
+    "Amount": 45
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Spiked Eggnog",
+    "NPC": "Penny",
+    "Amount": -20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Spiked Eggnog",
+    "NPC": "Vincent, Jas, ParrotBoy",
+    "Amount": -40
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Stocking Cookie",
+    "NPC": "Harvey, Krobus, Leah, Willy",
+    "Amount": -20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Strawberry Santa",
+    "NPC": "Abigail, Haley, Maru, Sebastian",
+    "Amount": 80
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Strawberry Santa",
+    "NPC": "Emily, Krobus, Willy",
+    "Amount": 20
+},
+{
+    "ObjectId": "ppja.christmassweets.DGA/Strawberry Santa",
+    "NPC": "Evelyn",
+    "Amount": -40
+}]

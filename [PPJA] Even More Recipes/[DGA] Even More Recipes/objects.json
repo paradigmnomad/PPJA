@@ -1,0 +1,1421 @@
+[
+{
+    "Texture": "assets/objects/Amethyst Cookie.png",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "SellPrice": 400,
+    "UniversalGiftTaste": 45,
+    "ID": "Amethyst Cookie",
+    "JsonAssetsName": "Amethyst Cookie"
+},
+{
+    "Texture": "assets/objects/Apple Pie.png",
+    "Category": "Cooking",
+    "Edibility": 56,
+    "SellPrice": 600,
+    "UniversalGiftTaste": 45,
+    "ID": "Apple Pie",
+    "JsonAssetsName": "Apple Pie"
+},
+{
+    "Texture": "assets/objects/Autumn Muffin.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "SellPrice": 945,
+    "UniversalGiftTaste": 45,
+    "ID": "Autumn Muffin",
+    "JsonAssetsName": "Autumn Muffin"
+},
+{
+    "Texture": "assets/objects/Banana Strawberry Cake.png",
+    "Category": "Cooking",
+    "Edibility": 84,
+    "SellPrice": 590,
+    "UniversalGiftTaste": 45,
+    "ID": "Banana Strawberry Cake",
+    "JsonAssetsName": "Banana Strawberry Cake"
+},
+{
+    "Texture": "assets/objects/Basil Tomato Soup.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "SellPrice": 1100,
+    "UniversalGiftTaste": 20,
+    "ID": "Basil Tomato Soup",
+    "JsonAssetsName": "Basil Tomato Soup"
+},
+{
+    "Texture": "assets/objects/Bear Donut.png",
+    "Category": "Cooking",
+    "Edibility": 66,
+    "SellPrice": 725,
+    "UniversalGiftTaste": 45,
+    "ID": "Bear Donut",
+    "JsonAssetsName": "Bear Donut"
+},
+{
+    "Texture": "assets/objects/Better Pumpkin Pie.png",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "SellPrice": 820,
+    "UniversalGiftTaste": 20,
+    "ID": "Better Pumpkin Pie",
+    "JsonAssetsName": "Better Pumpkin Pie"
+},
+{
+    "Texture": "assets/objects/Black Coffee.png",
+    "Category": "ArtisanGoods",
+    "Edibility": 5,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Speed": 1,
+        "Duration": 60
+    },
+    "SellPrice": 50,
+    "UniversalGiftTaste": 20,
+    "ID": "Black Coffee",
+    "JsonAssetsName": "Black Coffee"
+},
+{
+    "Texture": "assets/objects/Blueberry Creme Popsicle.png",
+    "Category": "Cooking",
+    "Edibility": 44,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 20,
+    "ID": "Blueberry Creme Popsicle",
+    "JsonAssetsName": "Blueberry Creme Popsicle"
+},
+{
+    "Texture": "assets/objects/Blueberry Macaron.png",
+    "Category": "Cooking",
+    "Edibility": 96,
+    "SellPrice": 1350,
+    "UniversalGiftTaste": 20,
+    "ID": "Blueberry Macaron",
+    "JsonAssetsName": "Blueberry Macaron"
+},
+{
+    "Texture": "assets/objects/Bonito Flakes.png",
+    "Category": "Cooking",
+    "Edibility": 22,
+    "SellPrice": 250,
+    "UniversalGiftTaste": -20,
+    "ID": "Bonito Flakes",
+    "JsonAssetsName": "Bonito Flakes"
+},
+{
+    "Texture": "assets/objects/Broth.png",
+    "Category": "Cooking",
+    "Edibility": 5,
+    "SellPrice": 100,
+    "UniversalGiftTaste": 20,
+    "ID": "Broth",
+    "JsonAssetsName": "Broth"
+},
+{
+    "Texture": "assets/objects/Brownie.png",
+    "Category": "Cooking",
+    "Edibility": 82,
+    "SellPrice": 835,
+    "UniversalGiftTaste": 45,
+    "ID": "Brownie",
+    "JsonAssetsName": "Brownie"
+},
+{
+    "Texture": "assets/objects/Bunny Cotton Candy.png",
+    "Category": "Cooking",
+    "Edibility": 16,
+    "SellPrice": 250,
+    "UniversalGiftTaste": 45,
+    "ID": "Bunny Cotton Candy",
+    "JsonAssetsName": "Bunny Cotton Candy"
+},
+{
+    "Texture": "assets/objects/Candied Apple.png",
+    "Category": "Cooking",
+    "Edibility": 34,
+    "SellPrice": 300,
+    "UniversalGiftTaste": 20,
+    "ID": "Candied Apple",
+    "JsonAssetsName": "Candied Apple"
+},
+{
+    "Texture": "assets/objects/Canned Baked Beans.png",
+    "Category": "Cooking",
+    "Edibility": 56,
+    "SellPrice": 775,
+    "UniversalGiftTaste": 45,
+    "ID": "Canned Baked Beans",
+    "JsonAssetsName": "Canned Baked Beans"
+},
+{
+    "Texture": "assets/objects/Canned Lemon Tea.png",
+    "Category": "Cooking",
+    "Edibility": 20,
+    "EdibleIsDrink": true,
+    "SellPrice": 50,
+    "UniversalGiftTaste": 45,
+    "ID": "Canned Lemon Tea",
+    "JsonAssetsName": "Canned Lemon Tea"
+},
+{
+    "Texture": "assets/objects/Caramel.png",
+    "Category": "Cooking",
+    "Edibility": 66,
+    "SellPrice": 535,
+    "UniversalGiftTaste": 45,
+    "ID": "Caramel",
+    "JsonAssetsName": "Caramel"
+},
+{
+    "Texture": "assets/objects/Caramel Apple.png",
+    "Category": "Cooking",
+    "Edibility": 88,
+    "SellPrice": 785,
+    "UniversalGiftTaste": 45,
+    "ID": "Caramel Apple",
+    "JsonAssetsName": "Caramel Apple"
+},
+{
+    "Texture": "assets/objects/Cheese Fries.png",
+    "Category": "Cooking",
+    "Edibility": 58,
+    "SellPrice": 260,
+    "UniversalGiftTaste": 20,
+    "ID": "Cheese Fries",
+    "JsonAssetsName": "Cheese Fries"
+},
+{
+    "Texture": "assets/objects/Cheesecake.png",
+    "Category": "Cooking",
+    "Edibility": 72,
+    "SellPrice": 690,
+    "UniversalGiftTaste": 45,
+    "ID": "Cheesecake",
+    "JsonAssetsName": "Cheesecake"
+},
+{
+    "Texture": "assets/objects/Cherry Pie.png",
+    "Category": "Cooking",
+    "Edibility": 72,
+    "SellPrice": 540,
+    "UniversalGiftTaste": 20,
+    "ID": "Cherry Pie",
+    "JsonAssetsName": "Cherry Pie"
+},
+{
+    "Texture": "assets/objects/Chips and Guac.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "SellPrice": 825,
+    "UniversalGiftTaste": 20,
+    "ID": "Chips and Guac",
+    "JsonAssetsName": "Chips and Guac"
+},
+{
+    "Texture": "assets/objects/Chocolate and Banana Crepe.png",
+    "Category": "Cooking",
+    "Edibility": 70,
+    "SellPrice": 190,
+    "UniversalGiftTaste": 45,
+    "ID": "Chocolate and Banana Crepe",
+    "JsonAssetsName": "Chocolate and Banana Crepe"
+},
+{
+    "Texture": "assets/objects/Chocolate Drizzle Cheesecake.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "SellPrice": 1100,
+    "UniversalGiftTaste": 45,
+    "ID": "Chocolate Drizzle Cheesecake",
+    "JsonAssetsName": "Chocolate Drizzle Cheesecake"
+},
+{
+    "Texture": "assets/objects/Chocolate Mouse Bread.png",
+    "Category": "Cooking",
+    "Edibility": 54,
+    "SellPrice": 675,
+    "UniversalGiftTaste": 45,
+    "ID": "Chocolate Mouse Bread",
+    "JsonAssetsName": "Chocolate Mouse Bread"
+},
+{
+    "Texture": "assets/objects/Chocolate Roll Cake.png",
+    "Category": "Cooking",
+    "Edibility": 94,
+    "SellPrice": 905,
+    "UniversalGiftTaste": 45,
+    "ID": "Chocolate Roll Cake",
+    "JsonAssetsName": "Chocolate Roll Cake"
+},
+{
+    "Texture": "assets/objects/Chocolate Strawberry Cake.png",
+    "Category": "Cooking",
+    "Edibility": 72,
+    "SellPrice": 745,
+    "UniversalGiftTaste": 45,
+    "ID": "Chocolate Strawberry Cake",
+    "JsonAssetsName": "Chocolate Strawberry Cake"
+},
+{
+    "Texture": "assets/objects/Coconut Popsicle.png",
+    "Category": "Cooking",
+    "Edibility": 6,
+    "SellPrice": 450,
+    "UniversalGiftTaste": 45,
+    "ID": "Coconut Popsicle",
+    "JsonAssetsName": "Coconut Popsicle"
+},
+{
+    "Texture": "assets/objects/Cola.png",
+    "Category": "ArtisanGoods",
+    "Edibility": 5,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Luck": 1,
+        "Duration": 500
+    },
+    "SellPrice": 60,
+    "UniversalGiftTaste": 45,
+    "ID": "Cola",
+    "JsonAssetsName": "Cola"
+},
+{
+    "Texture": "assets/objects/Cookie Bear.png",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Cookie Bear",
+    "JsonAssetsName": "Cookie Bear"
+},
+{
+    "Texture": "assets/objects/Cookie Cat.png",
+    "Category": "Cooking",
+    "Edibility": 106,
+    "SellPrice": 1015,
+    "UniversalGiftTaste": 45,
+    "ID": "Cookie Cat",
+    "JsonAssetsName": "Cookie Cat"
+},
+{
+    "Texture": "assets/objects/Cookie Pig.png",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "SellPrice": 1150,
+    "UniversalGiftTaste": 45,
+    "ID": "Cookie Pig",
+    "JsonAssetsName": "Cookie Pig"
+},
+{
+    "Texture": "assets/objects/Cookie Squid.png",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Cookie Squid",
+    "JsonAssetsName": "Cookie Squid"
+},
+{
+    "Texture": "assets/objects/Cotton Candy.png",
+    "Category": "Cooking",
+    "Edibility": 16,
+    "SellPrice": 250,
+    "UniversalGiftTaste": 45,
+    "ID": "Cotton Candy",
+    "JsonAssetsName": "Cotton Candy"
+},
+{
+    "Texture": "assets/objects/Crab in Oyster Sauce.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "SellPrice": 1100,
+    "UniversalGiftTaste": 45,
+    "ID": "Crab in Oyster Sauce",
+    "JsonAssetsName": "Crab in Oyster Sauce"
+},
+{
+    "Texture": "assets/objects/Cream Cheese.png",
+    "Category": "Cooking",
+    "Edibility": 22,
+    "SellPrice": 50,
+    "UniversalGiftTaste": 45,
+    "ID": "Cream Cheese",
+    "JsonAssetsName": "Cream Cheese"
+},
+{
+    "Texture": "assets/objects/Crème Brûlée.png",
+    "Category": "Cooking",
+    "Edibility": 58,
+    "SellPrice": 650,
+    "UniversalGiftTaste": 45,
+    "ID": "Crème Brûlée",
+    "JsonAssetsName": "Crème Brûlée"
+},
+{
+    "Texture": "assets/objects/Cupcake Cat.png",
+    "Category": "Cooking",
+    "Edibility": 54,
+    "SellPrice": 420,
+    "UniversalGiftTaste": 45,
+    "ID": "Cupcake Cat",
+    "JsonAssetsName": "Cupcake Cat"
+},
+{
+    "Texture": "assets/objects/Dashi Stock.png",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "SellPrice": 620,
+    "UniversalGiftTaste": -20,
+    "ID": "Dashi Stock",
+    "JsonAssetsName": "Dashi Stock"
+},
+{
+    "Texture": "assets/objects/Deviled Eggs.png",
+    "Category": "Cooking",
+    "Edibility": 28,
+    "SellPrice": 320,
+    "UniversalGiftTaste": 45,
+    "ID": "Deviled Eggs",
+    "JsonAssetsName": "Deviled Eggs"
+},
+{
+    "Texture": "assets/objects/Dragon Fruit Popsicle.png",
+    "Category": "Cooking",
+    "Edibility": 20,
+    "SellPrice": 800,
+    "UniversalGiftTaste": 45,
+    "ID": "Dragon Fruit Popsicle",
+    "JsonAssetsName": "Dragon Fruit Popsicle"
+},
+{
+    "Texture": "assets/objects/Ento.png",
+    "Category": "Cooking",
+    "Edibility": 88,
+    "SellPrice": 845,
+    "UniversalGiftTaste": 45,
+    "ID": "Ento",
+    "JsonAssetsName": "Ento"
+},
+{
+    "Texture": "assets/objects/Fox Donut.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "SellPrice": 530,
+    "UniversalGiftTaste": 45,
+    "ID": "Fox Donut",
+    "JsonAssetsName": "Fox Donut"
+},
+{
+    "Texture": "assets/objects/Fresh Lemonade.png",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "EdibleIsDrink": true,
+    "SellPrice": 450,
+    "UniversalGiftTaste": 45,
+    "ID": "Fresh Lemonade",
+    "JsonAssetsName": "Fresh Lemonade"
+},
+{
+    "Texture": "assets/objects/Fried Rice.png",
+    "Category": "Cooking",
+    "Edibility": 44,
+    "SellPrice": 495,
+    "UniversalGiftTaste": 45,
+    "ID": "Fried Rice",
+    "JsonAssetsName": "Fried Rice"
+},
+{
+    "Texture": "assets/objects/Fried Sweet Bananas.png",
+    "Category": "Cooking",
+    "Edibility": 68,
+    "SellPrice": 545,
+    "UniversalGiftTaste": 20,
+    "ID": "Fried Sweet Bananas",
+    "JsonAssetsName": "Fried Sweet Bananas"
+},
+{
+    "Texture": "assets/objects/Garlic Bread.png",
+    "Category": "Cooking",
+    "Edibility": 58,
+    "SellPrice": 445,
+    "UniversalGiftTaste": 20,
+    "ID": "Garlic Bread",
+    "JsonAssetsName": "Garlic Bread"
+},
+{
+    "Texture": "assets/objects/Graham Crackers.png",
+    "Category": "Cooking",
+    "Edibility": 22,
+    "SellPrice": 450,
+    "UniversalGiftTaste": 45,
+    "ID": "Graham Crackers",
+    "JsonAssetsName": "Graham Crackers"
+},
+{
+    "Texture": "assets/objects/Grilled Cheese.png",
+    "Category": "Cooking",
+    "Edibility": 106,
+    "SellPrice": 535,
+    "UniversalGiftTaste": 45,
+    "ID": "Grilled Cheese",
+    "JsonAssetsName": "Grilled Cheese"
+},
+{
+    "Texture": "assets/objects/Grilled Zucchini.png",
+    "Category": "Cooking",
+    "Edibility": 52,
+    "SellPrice": 540,
+    "UniversalGiftTaste": 45,
+    "ID": "Grilled Zucchini",
+    "JsonAssetsName": "Grilled Zucchini"
+},
+{
+    "Texture": "assets/objects/Halloumi.png",
+    "Category": "Cooking",
+    "Edibility": 164,
+    "SellPrice": 150,
+    "UniversalGiftTaste": 45,
+    "ID": "Halloumi",
+    "JsonAssetsName": "Halloumi"
+},
+{
+    "Texture": "assets/objects/Halloumi Burger.png",
+    "Category": "Cooking",
+    "Edibility": 164,
+    "SellPrice": 150,
+    "UniversalGiftTaste": 45,
+    "ID": "Halloumi Burger",
+    "JsonAssetsName": "Halloumi Burger"
+},
+{
+    "Texture": "assets/objects/Hardboiled Egg.png",
+    "Category": "Cooking",
+    "Edibility": 18,
+    "SellPrice": 35,
+    "UniversalGiftTaste": 20,
+    "ID": "Hardboiled Egg",
+    "JsonAssetsName": "Hardboiled Egg"
+},
+{
+    "Texture": "assets/objects/Heart Lollipop.png",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "SellPrice": 320,
+    "UniversalGiftTaste": 45,
+    "ID": "Heart Lollipop",
+    "JsonAssetsName": "Heart Lollipop"
+},
+{
+    "Texture": "assets/objects/Blueberry Honey Cake.png",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "SellPrice": 690,
+    "UniversalGiftTaste": 20,
+    "ID": "Blueberry Honey Cake",
+    "JsonAssetsName": "Blueberry Honey Cake"
+},
+{
+    "Texture": "assets/objects/Honey Cake.png",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Honey Cake",
+    "JsonAssetsName": "Honey Cake"
+},
+{
+    "Texture": "assets/objects/Ice Cream and Jam Cake.png",
+    "Category": "Cooking",
+    "Edibility": 78,
+    "SellPrice": 350,
+    "UniversalGiftTaste": 45,
+    "ID": "Ice Cream and Jam Cake",
+    "JsonAssetsName": "Ice Cream and Jam Cake"
+},
+{
+    "Texture": "assets/objects/Ice Cream Brownie.png",
+    "Category": "Cooking",
+    "Edibility": 132,
+    "SellPrice": 1105,
+    "UniversalGiftTaste": 45,
+    "ID": "Ice Cream Brownie",
+    "JsonAssetsName": "Ice Cream Brownie"
+},
+{
+    "Texture": "assets/objects/Iced Chocolate Donut.png",
+    "Category": "Cooking",
+    "Edibility": 98,
+    "SellPrice": 1150,
+    "UniversalGiftTaste": 45,
+    "ID": "Iced Chocolate Donut",
+    "JsonAssetsName": "Iced Chocolate Donut"
+},
+{
+    "Texture": "assets/objects/Iced Strawberry Cake.png",
+    "Category": "Cooking",
+    "Edibility": 112,
+    "SellPrice": 1375,
+    "UniversalGiftTaste": 45,
+    "ID": "Iced Strawberry Cake",
+    "JsonAssetsName": "Iced Strawberry Cake"
+},
+{
+    "Texture": "assets/objects/Iced Strawberry Donut.png",
+    "Category": "Cooking",
+    "Edibility": 54,
+    "SellPrice": 540,
+    "UniversalGiftTaste": 45,
+    "ID": "Iced Strawberry Donut",
+    "JsonAssetsName": "Iced Strawberry Donut"
+},
+{
+    "Texture": "assets/objects/Iced Vanilla Donut.png",
+    "Category": "Cooking",
+    "Edibility": 62,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Iced Vanilla Donut",
+    "JsonAssetsName": "Iced Vanilla Donut"
+},
+{
+    "Texture": "assets/objects/Key Lime Pie.png",
+    "Category": "Cooking",
+    "Edibility": 58,
+    "SellPrice": 760,
+    "UniversalGiftTaste": 45,
+    "ID": "Key Lime Pie",
+    "JsonAssetsName": "Key Lime Pie"
+},
+{
+    "Texture": "assets/objects/Lady Fingers.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "SellPrice": 410,
+    "UniversalGiftTaste": 45,
+    "ID": "Lady Fingers",
+    "JsonAssetsName": "Lady Fingers"
+},
+{
+    "Texture": "assets/objects/Lemon Lavender Cookie.png",
+    "Category": "Cooking",
+    "Edibility": 10,
+    "SellPrice": 550,
+    "UniversalGiftTaste": 45,
+    "ID": "Lemon Lavender Cookie",
+    "JsonAssetsName": "Lemon Lavender Cookie"
+},
+{
+    "Texture": "assets/objects/Lemon Pie.png",
+    "Category": "Cooking",
+    "Edibility": 58,
+    "SellPrice": 760,
+    "UniversalGiftTaste": 45,
+    "ID": "Lemon Pie",
+    "JsonAssetsName": "Lemon Pie"
+},
+{
+    "Texture": "assets/objects/Lilac Macaron.png",
+    "Category": "Cooking",
+    "Edibility": 110,
+    "SellPrice": 1350,
+    "UniversalGiftTaste": 45,
+    "ID": "Lilac Macaron",
+    "JsonAssetsName": "Lilac Macaron"
+},
+{
+    "Texture": "assets/objects/Limeade.png",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "EdibleIsDrink": true,
+    "SellPrice": 450,
+    "UniversalGiftTaste": 45,
+    "ID": "Limeade",
+    "JsonAssetsName": "Limeade"
+},
+{
+    "Texture": "assets/objects/Marmalade.png",
+    "Category": "Cooking",
+    "Edibility": 34,
+    "SellPrice": 300,
+    "UniversalGiftTaste": 45,
+    "ID": "Marmalade",
+    "JsonAssetsName": "Marmalade"
+},
+{
+    "Texture": "assets/objects/Matcha Cookies.png",
+    "Category": "Cooking",
+    "Edibility": 6,
+    "SellPrice": 100,
+    "UniversalGiftTaste": 45,
+    "ID": "Matcha Cookies",
+    "JsonAssetsName": "Matcha Cookies"
+},
+{
+    "Texture": "assets/objects/Meuniere.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "SellPrice": 1100,
+    "UniversalGiftTaste": 45,
+    "ID": "Meuniere",
+    "JsonAssetsName": "Meuniere"
+},
+{
+    "Texture": "assets/objects/Milky Coffee.png",
+    "Category": "Cooking",
+    "Edibility": 22,
+    "EdibleIsDrink": true,
+    "SellPrice": 50,
+    "UniversalGiftTaste": 45,
+    "ID": "Milky Coffee",
+    "JsonAssetsName": "Milky Coffee"
+},
+{
+    "Texture": "assets/objects/Milky Strawberry Juice.png",
+    "Category": "ArtisanGoods",
+    "Edibility": 44,
+    "EdibleIsDrink": true,
+    "SellPrice": 50,
+    "UniversalGiftTaste": 45,
+    "ID": "Milky Strawberry Juice",
+    "JsonAssetsName": "Milky Strawberry Juice"
+},
+{
+    "Texture": "assets/objects/Miso Soup.png",
+    "Category": "Cooking",
+    "Edibility": 65,
+    "SellPrice": 735,
+    "UniversalGiftTaste": 20,
+    "ID": "Miso Soup",
+    "JsonAssetsName": "Miso Soup"
+},
+{
+    "Texture": "assets/objects/Mochi.png",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "SellPrice": 330,
+    "UniversalGiftTaste": 45,
+    "ID": "Mochi",
+    "JsonAssetsName": "Mochi"
+},
+{
+    "Texture": "assets/objects/Mushroom and Pepper Crepe.png",
+    "Category": "Cooking",
+    "Edibility": 102,
+    "SellPrice": 510,
+    "UniversalGiftTaste": 45,
+    "ID": "Mushroom and Pepper Crepe",
+    "JsonAssetsName": "Mushroom and Pepper Crepe"
+},
+{
+    "Texture": "assets/objects/Mushroom Soup.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "SellPrice": 685,
+    "UniversalGiftTaste": 20,
+    "ID": "Mushroom Soup",
+    "JsonAssetsName": "Mushroom Soup"
+},
+{
+    "Texture": "assets/objects/Muskmelon Strawberry Popsicle.png",
+    "Category": "Cooking",
+    "Edibility": 24,
+    "SellPrice": 650,
+    "UniversalGiftTaste": 20,
+    "ID": "Muskmelon Strawberry Popsicle",
+    "JsonAssetsName": "Muskmelon Strawberry Popsicle"
+},
+{
+    "Texture": "assets/objects/Neapolitan Popsicle.png",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "SellPrice": 1060,
+    "UniversalGiftTaste": 45,
+    "ID": "Neapolitan Popsicle",
+    "JsonAssetsName": "Neapolitan Popsicle"
+},
+{
+    "Texture": "assets/objects/Noodle Soup.png",
+    "Category": "Cooking",
+    "Edibility": 30,
+    "SellPrice": 375,
+    "UniversalGiftTaste": 20,
+    "ID": "Noodle Soup",
+    "JsonAssetsName": "Noodle Soup"
+},
+{
+    "Texture": "assets/objects/Onion Pumpkin Soup.png",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "SellPrice": 1100,
+    "UniversalGiftTaste": 45,
+    "ID": "Onion Pumpkin Soup",
+    "JsonAssetsName": "Onion Pumpkin Soup"
+},
+{
+    "Texture": "assets/objects/Orange Juice.png",
+    "Category": "Cooking",
+    "Edibility": 33,
+    "EdibleIsDrink": true,
+    "SellPrice": 450,
+    "UniversalGiftTaste": 45,
+    "ID": "Orange Juice",
+    "JsonAssetsName": "Orange Juice"
+},
+{
+    "Texture": "assets/objects/Pasta Bowl.png",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "SellPrice": 475,
+    "UniversalGiftTaste": 20,
+    "ID": "Pasta Bowl",
+    "JsonAssetsName": "Pasta Bowl"
+},
+{
+    "Texture": "assets/objects/Pathos Cookie.png",
+    "Category": "ArtisanGoods",
+    "Edibility": 40,
+    "EdibleBuffs":
+    {
+        "Luck": 2,
+        "Duration": 100
+    },
+    "SellPrice": 70,
+    "UniversalGiftTaste": 45,
+    "ID": "Pathos Cookie",
+    "JsonAssetsName": "Pathos Cookie"
+},
+{
+    "Texture": "assets/objects/Pea Soup.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "EdibleIsDrink": true,
+    "SellPrice": 220,
+    "UniversalGiftTaste": 20,
+    "ID": "Pea Soup",
+    "JsonAssetsName": "Pea Soup"
+},
+{
+    "Texture": "assets/objects/Peach Milk.png",
+    "Category": "ArtisanGoods",
+    "Edibility": 40,
+    "EdibleIsDrink": true,
+    "SellPrice": 50,
+    "UniversalGiftTaste": 45,
+    "ID": "Peach Milk",
+    "JsonAssetsName": "Peach Milk"
+},
+{
+    "Texture": "assets/objects/Pecan Pie.png",
+    "Category": "Cooking",
+    "Edibility": 100,
+    "SellPrice": 1035,
+    "UniversalGiftTaste": 45,
+    "ID": "Pecan Pie",
+    "JsonAssetsName": "Pecan Pie"
+},
+{
+    "Texture": "assets/objects/Penne al Arrabiata.png",
+    "Category": "Cooking",
+    "Edibility": 62,
+    "SellPrice": 650,
+    "UniversalGiftTaste": 45,
+    "ID": "Penne al Arrabiata",
+    "JsonAssetsName": "Penne al Arrabiata"
+},
+{
+    "Texture": "assets/objects/Persimmon Pudding.png",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "SellPrice": 650,
+    "UniversalGiftTaste": 45,
+    "ID": "Persimmon Pudding",
+    "JsonAssetsName": "Persimmon Pudding"
+},
+{
+    "Texture": "assets/objects/Pierogi.png",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "SellPrice": 625,
+    "UniversalGiftTaste": 20,
+    "ID": "Pierogi",
+    "JsonAssetsName": "Pierogi",
+},
+{
+    "Texture": "assets/objects/Pig Donut.png",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "SellPrice": 800,
+    "UniversalGiftTaste": 45,
+    "ID": "Pig Donut",
+    "JsonAssetsName": "Pig Donut"
+},
+{
+    "Texture": "assets/objects/Pineapple Pizza.png",
+    "Category": "Cooking",
+    "Edibility": 70,
+    "SellPrice": 300,
+    "UniversalGiftTaste": 45,
+    "ID": "Pineapple Pizza",
+    "JsonAssetsName": "Pineapple Pizza"
+},
+{
+    "Texture": "assets/objects/Pink Strawberry Cake.png",
+    "Category": "Cooking",
+    "Edibility": 82,
+    "SellPrice": 520,
+    "UniversalGiftTaste": 45,
+    "ID": "Pink Strawberry Cake",
+    "JsonAssetsName": "Pink Strawberry Cake"
+},
+{
+    "Texture": "assets/objects/Plain Cheesecake.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "SellPrice": 1100,
+    "UniversalGiftTaste": 20,
+    "ID": "Plain Cheesecake",
+    "JsonAssetsName": "Plain Cheesecake"
+},
+{
+    "Texture": "assets/objects/Plain Chocolate Donut.png",
+    "Category": "Cooking",
+    "Edibility": 66,
+    "SellPrice": 725,
+    "UniversalGiftTaste": 45,
+    "ID": "Plain Chocolate Donut",
+    "JsonAssetsName": "Plain Chocolate Donut"
+},
+{
+    "Texture": "assets/objects/Plain Strawberry Donut.png",
+    "Category": "Cooking",
+    "Edibility": 54,
+    "SellPrice": 420,
+    "UniversalGiftTaste": 45,
+    "ID": "Plain Strawberry Donut",
+    "JsonAssetsName": "Plain Strawberry Donut"
+},
+{
+    "Texture": "assets/objects/Plain Vanilla Donut.png",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Plain Vanilla Donut",
+    "JsonAssetsName": "Plain Vanilla Donut"
+},
+{
+    "Texture": "assets/objects/Popcorn.png",
+    "Category": "Cooking",
+    "Edibility": 28,
+    "SellPrice": 425,
+    "UniversalGiftTaste": 45,
+    "ID": "Popcorn",
+    "JsonAssetsName": "Popcorn"
+},
+{
+    "Texture": "assets/objects/Prismatic Popsicle.png",
+    "Category": "Cooking",
+    "Edibility": 62,
+    "EdibleBuffs":
+    {
+        "Luck": 3,
+        "Speed": 2,
+        "Duration": 640
+    },
+    "SellPrice": 3325,
+    "UniversalGiftTaste": 80,
+    "ID": "Prismatic Popsicle",
+    "JsonAssetsName": "Prismatic Popsicle"
+},
+{
+    "Texture": "assets/objects/Purple Pastel Cake.png",
+    "Category": "Cooking",
+    "Edibility": 66,
+    "SellPrice": 450,
+    "UniversalGiftTaste": 45,
+    "ID": "Purple Pastel Cake",
+    "JsonAssetsName": "Purple Pastel Cake"
+},
+{
+    "Texture": "assets/objects/Rainbow Candy Cookies.png",
+    "Category": "Cooking",
+    "Edibility": 82,
+    "SellPrice": 835,
+    "UniversalGiftTaste": 45,
+    "ID": "Rainbow Candy Cookies",
+    "JsonAssetsName": "Rainbow Candy Cookies"
+},
+{
+    "Texture": "assets/objects/Rainbow Cotton Candy.png",
+    "Category": "Cooking",
+    "Edibility": 106,
+    "SellPrice": 1220,
+    "UniversalGiftTaste": 45,
+    "ID": "Rainbow Cotton Candy",
+    "JsonAssetsName": "Rainbow Cotton Candy"
+},
+{
+    "Texture": "assets/objects/Ramen.png",
+    "Category": "Cooking",
+    "Edibility": 88,
+    "SellPrice": 200,
+    "UniversalGiftTaste": 45,
+    "ID": "Ramen",
+    "JsonAssetsName": "Ramen"
+},
+{
+    "Texture": "assets/objects/Rich Tiramisu.png",
+    "Category": "Cooking",
+    "Edibility": 44,
+    "SellPrice": 1095,
+    "UniversalGiftTaste": 45,
+    "ID": "Rich Tiramisu",
+    "JsonAssetsName": "Rich Tiramisu"
+},
+{
+    "Texture": "assets/objects/Sachertorte.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "SellPrice": 980,
+    "UniversalGiftTaste": 20,
+    "ID": "Sachertorte",
+    "JsonAssetsName": "Sachertorte"
+},
+{
+    "Texture": "assets/objects/Salmon Fillet.png",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "SellPrice": 475,
+    "UniversalGiftTaste": -20,
+    "ID": "Salmon Fillet",
+    "JsonAssetsName": "Salmon Fillet"
+},
+{
+    "Texture": "assets/objects/Salmon Onigiri.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "SellPrice": 400,
+    "UniversalGiftTaste": -20,
+    "ID": "Salmon Onigiri",
+    "JsonAssetsName": "Salmon Onigiri"
+},
+{
+    "Texture": "assets/objects/Salsa.png",
+    "Category": "Cooking",
+    "Edibility": 44,
+    "SellPrice": 100,
+    "UniversalGiftTaste": 45,
+    "ID": "Salsa",
+    "JsonAssetsName": "Salsa"
+},
+{
+    "Texture": "assets/objects/Salt Flavored Chips.png",
+    "Category": "Cooking",
+    "Edibility": 16,
+    "SellPrice": 120,
+    "UniversalGiftTaste": 45,
+    "ID": "Salt Flavored Chips",
+    "JsonAssetsName": "Salt Flavored Chips"
+},
+{
+    "Texture": "assets/objects/Seaweed Chips.png",
+    "Category": "Cooking",
+    "Edibility": 12,
+    "SellPrice": 250,
+    "UniversalGiftTaste": 45,
+    "ID": "Seaweed Chips",
+    "JsonAssetsName": "Seaweed Chips"
+},
+{
+    "Texture": "assets/objects/Sesame Seeds.png",
+    "Category": "ArtisanGoods",
+    "SellPrice": 50,
+    "UniversalGiftTaste": -20,
+    "ID": "Sesame Seeds",
+    "JsonAssetsName": "Sesame Seeds"
+},
+{
+    "Texture": "assets/objects/Shrimp on Rice.png",
+    "Category": "Cooking",
+    "Edibility": 45,
+    "SellPrice": 560,
+    "UniversalGiftTaste": 20,
+    "ID": "Shrimp on Rice",
+    "JsonAssetsName": "Shrimp on Rice"
+},
+{
+    "Texture": "assets/objects/Smores.png",
+    "Category": "Cooking",
+    "Edibility": 80,
+    "SellPrice": 80,
+    "UniversalGiftTaste": 45,
+    "ID": "Smores",
+    "JsonAssetsName": "Smores"
+},
+{
+    "Texture": "assets/objects/Soft Pretzel.png",
+    "Category": "Cooking",
+    "Edibility": 10,
+    "SellPrice": 120,
+    "UniversalGiftTaste": 45,
+    "ID": "Soft Pretzel",
+    "JsonAssetsName": "Soft Pretzel"
+},
+{
+    "Texture": "assets/objects/Spinach Dip.png",
+    "Category": "Cooking",
+    "Edibility": 80,
+    "SellPrice": 660,
+    "UniversalGiftTaste": 45,
+    "ID": "Spinach Dip",
+    "JsonAssetsName": "Spinach Dip"
+},
+{
+    "Texture": "assets/objects/Spring Salad.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "SellPrice": 185,
+    "UniversalGiftTaste": 45,
+    "ID": "Spring Salad",
+    "JsonAssetsName": "Spring Salad"
+},
+{
+    "Texture": "assets/objects/Sprinkled Chocolate Donut.png",
+    "Category": "Cooking",
+    "Edibility": 72,
+    "SellPrice": 985,
+    "UniversalGiftTaste": 45,
+    "ID": "Sprinkled Chocolate Donut",
+    "JsonAssetsName": "Sprinkled Chocolate Donut"
+},
+{
+    "Texture": "assets/objects/Sprinkled Lavender Donut.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "SellPrice": 330,
+    "UniversalGiftTaste": 45,
+    "ID": "Sprinkled Lavender Donut",
+    "JsonAssetsName": "Sprinkled Lavender Donut"
+},
+{
+    "Texture": "assets/objects/Sprinkled Strawberry Donut.png",
+    "Category": "Cooking",
+    "Edibility": 54,
+    "SellPrice": 620,
+    "UniversalGiftTaste": 45,
+    "ID": "Sprinkled Strawberry Donut",
+    "JsonAssetsName": "Sprinkled Strawberry Donut"
+},
+{
+    "Texture": "assets/objects/Sprinkled Vanilla Donut.png",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "SellPrice": 700,
+    "UniversalGiftTaste": 45,
+    "ID": "Sprinkled Vanilla Donut",
+    "JsonAssetsName": "Sprinkled Vanilla Donut"
+},
+{
+    "Texture": "assets/objects/Sprinkles.png",
+    "Category": "Cooking",
+    "Edibility": 16,
+    "SellPrice": 50,
+    "UniversalGiftTaste": 20,
+    "ID": "Sprinkles",
+    "JsonAssetsName": "Sprinkles"
+},
+{
+    "Texture": "assets/objects/Sriracha.png",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "SellPrice": 180,
+    "UniversalGiftTaste": 20,
+    "ID": "Sriracha",
+    "JsonAssetsName": "Sriracha"
+},
+{
+    "Texture": "assets/objects/Steckerlfisch.png",
+    "Category": "Cooking",
+    "Edibility": 30,
+    "SellPrice": 175,
+    "UniversalGiftTaste": 45,
+    "ID": "Steckerlfisch",
+    "JsonAssetsName": "Steckerlfisch"
+},
+{
+    "Texture": "assets/objects/Strawberry and Cream Crepe.png",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "SellPrice": 480,
+    "UniversalGiftTaste": 45,
+    "ID": "Strawberry and Cream Crepe",
+    "JsonAssetsName": "Strawberry and Cream Crepe"
+},
+{
+    "Texture": "assets/objects/Strawberry Cake.png",
+    "Category": "Cooking",
+    "Edibility": 82,
+    "SellPrice": 600,
+    "UniversalGiftTaste": 45,
+    "ID": "Strawberry Cake",
+    "JsonAssetsName": "Strawberry Cake"
+},
+{
+    "Texture": "assets/objects/Strawberry Cheesecake.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "SellPrice": 1500,
+    "UniversalGiftTaste": 45,
+    "ID": "Strawberry Cheesecake",
+    "JsonAssetsName": "Strawberry Cheesecake"
+},
+{
+    "Texture": "assets/objects/Strawberry Creme Popsicle.png",
+    "Category": "Cooking",
+    "Edibility": 44,
+    "SellPrice": 620,
+    "UniversalGiftTaste": 45,
+    "ID": "Strawberry Creme Popsicle",
+    "JsonAssetsName": "Strawberry Creme Popsicle"
+},
+{
+    "Texture": "assets/objects/Strawberry Kiwi Popsicle.png",
+    "Category": "Cooking",
+    "Edibility": 42,
+    "SellPrice": 725,
+    "UniversalGiftTaste": 45,
+    "ID": "Strawberry Kiwi Popsicle",
+    "JsonAssetsName": "Strawberry Kiwi Popsicle"
+},
+{
+    "Texture": "assets/objects/Strawberry Lemonade.png",
+    "Category": "Cooking",
+    "Edibility": 54,
+    "EdibleIsDrink": true,
+    "SellPrice": 450,
+    "UniversalGiftTaste": 20,
+    "ID": "Strawberry Lemonade",
+    "JsonAssetsName": "Strawberry Lemonade"
+},
+{
+    "Texture": "assets/objects/Strawberry Macaron.png",
+    "Category": "Cooking",
+    "Edibility": 96,
+    "SellPrice": 1350,
+    "UniversalGiftTaste": 45,
+    "ID": "Strawberry Macaron",
+    "JsonAssetsName": "Strawberry Macaron"
+},
+{
+    "Texture": "assets/objects/Strawberry Preserves.png",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "SellPrice": 320,
+    "UniversalGiftTaste": 45,
+    "ID": "Strawberry Preserves",
+    "JsonAssetsName": "Strawberry Preserves"
+},
+{
+    "Texture": "assets/objects/Strawberry Pudding.png",
+    "Category": "Cooking",
+    "Edibility": 60,
+    "SellPrice": 440,
+    "UniversalGiftTaste": 45,
+    "ID": "Strawberry Pudding",
+    "JsonAssetsName": "Strawberry Pudding"
+},
+{
+    "Texture": "assets/objects/Strawberry Roll Cake.png",
+    "Category": "Cooking",
+    "Edibility": 54,
+    "SellPrice": 420,
+    "UniversalGiftTaste": 45,
+    "ID": "Strawberry Roll Cake",
+    "JsonAssetsName": "Strawberry Roll Cake"
+},
+{
+    "Texture": "assets/objects/Strawberry Tart.png",
+    "Category": "Cooking",
+    "Edibility": 44,
+    "SellPrice": 370,
+    "UniversalGiftTaste": 45,
+    "ID": "Strawberry Tart",
+    "JsonAssetsName": "Strawberry Tart"
+},
+{
+    "Texture": "assets/objects/Surimi.png",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "SellPrice": 80,
+    "UniversalGiftTaste": 45,
+    "ID": "Surimi",
+    "JsonAssetsName": "Surimi"
+},
+{
+    "Texture": "assets/objects/Tendon.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "SellPrice": 1100,
+    "UniversalGiftTaste": 45,
+    "ID": "Tendon",
+    "JsonAssetsName": "Tendon"
+},
+{
+    "Texture": "assets/objects/Tiradito.png",
+    "Category": "Cooking",
+    "Edibility": 55,
+    "SellPrice": 1100,
+    "UniversalGiftTaste": 45,
+    "ID": "Tiradito",
+    "JsonAssetsName": "Tiradito"
+},
+{
+    "Texture": "assets/objects/Tofu.png",
+    "Category": "Cooking",
+    "Edibility": 22,
+    "SellPrice": 310,
+    "UniversalGiftTaste": 45,
+    "ID": "Tofu",
+    "JsonAssetsName": "Tofu"
+},
+{
+    "Texture": "assets/objects/Tuna Mayo Onigiri.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "SellPrice": 525,
+    "UniversalGiftTaste": -20,
+    "ID": "Tuna Mayo Onigiri",
+    "JsonAssetsName": "Tuna Mayo Onigiri"
+},
+{
+    "Texture": "assets/objects/Ume Onigiri.png",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "SellPrice": 580,
+    "UniversalGiftTaste": -20,
+    "ID": "Ume Onigiri",
+    "JsonAssetsName": "Ume Onigiri"
+},
+{
+    "Texture": "assets/objects/Waffles.png",
+    "Category": "Cooking",
+    "Edibility": 22,
+    "SellPrice": 100,
+    "UniversalGiftTaste": 45,
+    "ID": "Waffles",
+    "JsonAssetsName": "Waffles"
+},
+{
+    "Texture": "assets/objects/Wasabi Peas.png",
+    "Category": "Cooking",
+    "Edibility": 14,
+    "SellPrice": 175,
+    "UniversalGiftTaste": -20,
+    "ID": "Wasabi Peas",
+    "JsonAssetsName": "Wasabi Peas"
+},
+{
+    "Texture": "assets/objects/Wisteria Popsicle.png",
+    "Category": "Cooking",
+    "Edibility": 6,
+    "SellPrice": 500,
+    "UniversalGiftTaste": 45,
+    "ID": "Wisteria Popsicle",
+    "JsonAssetsName": "Wisteria Popsicle"
+},
+
+// New Items
+
+{
+    "Texture": "assets/objects/Blue Lemonade.png",
+    "Category": "Cooking",
+    "Edibility": 32,
+    "EdibleIsDrink": true,
+    "SellPrice": 10,
+    "UniversalGiftTaste": 20,
+    "ID": "Blue Lemonade",
+},
+{
+    "Texture": "assets/objects/Blue Slushie.png",
+    "Category": "Cooking",
+    "Edibility": 18,
+    "EdibleIsDrink": true,
+    "SellPrice": 10,
+    "UniversalGiftTaste": 20,
+    "ID": "Blue Slushie",
+},
+{
+    "Texture": "assets/objects/Blue Tropical Juice.png",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": true,
+    "SellPrice": 10,
+    "UniversalGiftTaste": 20,
+    "ID": "Blue Tropical Juice",
+},
+{
+    "Texture": "assets/objects/Purple Punch.png",
+    "Category": "Cooking",
+    "Edibility": 42,
+    "EdibleIsDrink": true,
+    "SellPrice": 10,
+    "UniversalGiftTaste": 20,
+    "ID": "Purple Punch",
+},
+{
+    "Texture": "assets/objects/Red Punch.png",
+    "Category": "Cooking",
+    "Edibility": 42,
+    "EdibleIsDrink": true,
+    "SellPrice": 10,
+    "UniversalGiftTaste": 20,
+    "ID": "Red Punch",
+},
+{
+    "Texture": "assets/objects/Red Slushie.png",
+    "Category": "Cooking",
+    "Edibility": 18,
+    "EdibleIsDrink": true,
+    "SellPrice": 10,
+    "UniversalGiftTaste": 20,
+    "ID": "Red Slushie",
+},
+{
+    "Texture": "assets/objects/Red Tropical Juice.png",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": true,
+    "SellPrice": 10,
+    "UniversalGiftTaste": 20,
+    "ID": "Red Tropical Juice",
+},
+{
+    "Texture": "assets/objects/Yellow Punch.png",
+    "Category": "Cooking",
+    "Edibility": 42,
+    "EdibleIsDrink": true,
+    "SellPrice": 10,
+    "UniversalGiftTaste": 20,
+    "ID": "Yellow Punch",
+},
+{
+    "Texture": "assets/objects/Yellow Tropical Juice.png",
+    "Category": "Cooking",
+    "Edibility": 35,
+    "EdibleIsDrink": true,
+    "SellPrice": 10,
+    "UniversalGiftTaste": 20,
+    "ID": "Yellow Tropical Juice",
+},
+{
+    "Texture": "assets/objects/Coconut Milk.png",
+    "Category": "Cooking",
+    "Edibility": 20,
+    "EdibleIsDrink": true,
+    "SellPrice": 10,
+    "UniversalGiftTaste": 20,
+    "ID": "Coconut Milk",
+},]

@@ -1,0 +1,17 @@
+[ 
+        {
+            "TargetTexture": "TileSheets/springobjects",
+            "TargetRect":
+            {
+                "X": 192,
+                "Y": 560,
+                "Width": 16,
+                "Height": 16
+            },
+            "SourceTexture": "assets/legacysprites/dragontooth.png:0",
+            "EnableConditions":
+            {
+                "Query: {{DragonToothEnabled}} = true": true
+            },
+        },
+    ]

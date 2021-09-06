@@ -1,0 +1,20 @@
+{
+  "Name": "[DGA] Mizu's Flowers for Dynamic Game Assets(DGA version)",
+  "Description": "A port of Mizu's sprites for Dynamic Game Assets.",
+  "Author": "ParadigmNomad & Eemie (Port) & Mizu (Sprites)",
+    "Version": "1.0.0",
+  "MinimumApiVersion": {
+    "MajorVersion": 3,
+    "MinorVersion": 7
+  },
+  "UniqueID": "mizu.flowers.DGA",
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.DynamicGameAssets"
+  },
+  "Dependencies": [],
+  "UpdateKeys": [
+    "Nexus:9443@MizuFlowers"
+  ],
+  "DGA.FormatVersion": 1,
+  "DGA.ConditionsFormatVersion": "1.23.0"
+}

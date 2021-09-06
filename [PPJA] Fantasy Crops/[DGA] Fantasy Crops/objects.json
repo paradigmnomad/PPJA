@@ -1,0 +1,52 @@
+[
+  {
+    "Texture": "assets/objects/Doubloon.png",
+    "Category": "ArtisanGoods",
+    "SellPrice": 150,
+    "UniversalGiftTaste": 80,
+    "ID": "Doubloon",
+    "JsonAssetsName": "Doubloon"
+  },
+  {
+    "Texture": "assets/objects/Coal Root Crop_seeds.png",
+    "Plants": "ppja.fantasycrops.DGA/Coal Root Crop",
+    "Category": "Seeds",
+    "ID": "Coal Seeds"
+  },
+  {
+    "Texture": "assets/objects/Copper Leaf Crop_seeds.png",
+    "Plants": "ppja.fantasycrops.DGA/Copper Leaf Crop",
+    "Category": "Seeds",
+    "ID": "Copper Seeds"
+  },
+  {
+    "Texture": "assets/objects/Gold Leaf Crop_seeds.png",
+    "Plants": "ppja.fantasycrops.DGA/Gold Leaf Crop",
+    "Category": "Seeds",
+    "ID": "Gold Seeds"
+  },
+  {
+    "Texture": "assets/objects/Iridium Fern Crop_seeds.png",
+    "Plants": "ppja.fantasycrops.DGA/Iridium Fern Crop",
+    "Category": "Seeds",
+    "ID": "Iridium Seeds"
+  },
+  {
+    "Texture": "assets/objects/Iron Leaf Crop_seeds.png",
+    "Plants": "ppja.fantasycrops.DGA/Iron Leaf Crop",
+    "Category": "Seeds",
+    "ID": "Iron Seeds"
+  },
+  {
+    "Texture": "assets/objects/Money Plant Crop_seeds.png",
+    "Plants": "ppja.fantasycrops.DGA/Money Plant Crop",
+    "Category": "Seeds",
+    "ID": "Doubloon Seeds"
+  },
+  {
+    "Texture": "assets/objects/Radioative Leaf Crop_seeds.png",
+    "Plants": "ppja.fantasycrops.DGA/Radioative Leaf Crop",
+    "Category": "Seeds",
+    "ID": "Radioactive Seeds"
+  }
+]

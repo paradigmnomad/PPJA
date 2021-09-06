@@ -1,0 +1,16 @@
+{
+  "object.Doubloon.name": "ダブロン",
+  "object.Doubloon.description": "目的が1つしかないコイン：販売する。",
+  "object.Coal Seeds.name": "石炭の種",
+  "object.Coal Seeds.description": "これらを春または夏に植えます。 成熟するのに8日かかります。",
+  "object.Copper Seeds.name": "銅の種",
+  "object.Copper Seeds.description": "これらを春に植えます。 成熟するのに10日かかります。",
+  "object.Gold Seeds.name": "金の種",
+  "object.Gold Seeds.description": "秋にこれらを植えます。 成熟するには20日かかります。",
+  "object.Iridium Seeds.name": "イリジウムの種",
+  "object.Iridium Seeds.description": "冬にこれらを植えます。 成熟するには24日かかります。",
+  "object.Iron Seeds.name": "鉄の種",
+  "object.Iron Seeds.description": "これらを夏に植えてください。 成熟するには15日かかります。",
+  "object.Doubloon Seeds.name": "ダブロンの種",
+  "object.Doubloon Seeds.description": "秋にこれらを植えます。 熟すのに10日かかり、最初の収穫後も生産を続けます。"
+}

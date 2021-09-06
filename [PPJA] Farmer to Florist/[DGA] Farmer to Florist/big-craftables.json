@@ -1,0 +1,236 @@
+[
+  {
+    "Texture": "assets/big-craftables/Dryer0.png",
+    "SellPrice": 1,
+    "ID": "Dryer",
+    "JsonAssetsName": "Dryer"
+  },
+  {
+    "Texture": "assets/big-craftables/Florist's Table0.png",
+    "SellPrice": 1,
+    "ID": "Florist's Table",
+    "JsonAssetsName": "Florist's Table"
+  },
+  {
+    "Texture": "assets/big-craftables/Perfumery0.png",
+    "SellPrice": 1,
+    "ID": "Perfumery",
+    "JsonAssetsName": "Perfumery"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Allium0.png",
+    "SellPrice": 1,
+    "ID": "Potted Allium",
+    "JsonAssetsName": "Potted Allium"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Blue Jazz0.png",
+    "SellPrice": 1,
+    "ID": "Potted Blue Jazz",
+    "JsonAssetsName": "Potted Blue Jazz"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Camellia0.png",
+    "SellPrice": 1,
+    "ID": "Potted Camellia",
+    "JsonAssetsName": "Potted Camellia"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Carnation0.png",
+    "SellPrice": 1,
+    "ID": "Potted Carnation",
+    "JsonAssetsName": "Potted Carnation"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Chrysanthemum0.png",
+    "SellPrice": 1,
+    "ID": "Potted Chrysanthemum",
+    "JsonAssetsName": "Potted Chrysanthemum"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Clematis0.png",
+    "SellPrice": 1,
+    "ID": "Potted Clematis",
+    "JsonAssetsName": "Potted Clematis"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Crocus0.png",
+    "SellPrice": 1,
+    "ID": "Potted Crocus",
+    "JsonAssetsName": "Potted Crocus"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Daffodil0.png",
+    "SellPrice": 1,
+    "ID": "Potted Daffodil",
+    "JsonAssetsName": "Potted Daffodil"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Dahlia0.png",
+    "SellPrice": 1,
+    "ID": "Potted Dahlia",
+    "JsonAssetsName": "Potted Dahlia"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Daisy0.png",
+    "SellPrice": 1,
+    "ID": "Potted Daisy",
+    "JsonAssetsName": "Potted Daisy"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Dandelion0.png",
+    "SellPrice": 1,
+    "ID": "Potted Dandelion",
+    "JsonAssetsName": "Potted Dandelion"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Delphinium0.png",
+    "SellPrice": 1,
+    "ID": "Potted Delphinium",
+    "JsonAssetsName": "Potted Delphinium"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted English Rose0.png",
+    "SellPrice": 1,
+    "ID": "Potted English Rose",
+    "JsonAssetsName": "Potted English Rose"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Fairy Rose0.png",
+    "SellPrice": 1,
+    "ID": "Potted Fairy Rose",
+    "JsonAssetsName": "Potted Fairy Rose"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Freesia0.png",
+    "SellPrice": 1,
+    "ID": "Potted Freesia",
+    "JsonAssetsName": "Potted Freesia"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Geranium0.png",
+    "SellPrice": 1,
+    "ID": "Potted Geranium",
+    "JsonAssetsName": "Potted Geranium"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Hibiscus0.png",
+    "SellPrice": 1,
+    "ID": "Potted Hibiscus",
+    "JsonAssetsName": "Potted Hibiscus"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Hyacinth0.png",
+    "SellPrice": 1,
+    "ID": "Potted Hyacinth",
+    "JsonAssetsName": "Potted Hyacinth"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Hydrangea0.png",
+    "SellPrice": 1,
+    "ID": "Potted Hydrangea",
+    "JsonAssetsName": "Potted Hydrangea"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Iris0.png",
+    "SellPrice": 1,
+    "ID": "Potted Iris",
+    "JsonAssetsName": "Potted Iris"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Jasmine0.png",
+    "SellPrice": 1,
+    "ID": "Potted Jasmine",
+    "JsonAssetsName": "Potted Jasmine"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Lavender0.png",
+    "SellPrice": 1,
+    "ID": "Potted Lavender",
+    "JsonAssetsName": "Potted Lavender"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Lilac0.png",
+    "SellPrice": 1,
+    "ID": "Potted Lilac",
+    "JsonAssetsName": "Potted Lilac"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Lily0.png",
+    "SellPrice": 1,
+    "ID": "Potted Lily",
+    "JsonAssetsName": "Potted Lily"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Lotus0.png",
+    "SellPrice": 1,
+    "ID": "Potted Lotus",
+    "JsonAssetsName": "Potted Lotus"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Magnolia0.png",
+    "SellPrice": 1,
+    "ID": "Potted Magnolia",
+    "JsonAssetsName": "Potted Magnolia"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Peony0.png",
+    "SellPrice": 1,
+    "ID": "Potted Peony",
+    "JsonAssetsName": "Potted Peony"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Petunia0.png",
+    "SellPrice": 1,
+    "ID": "Potted Petunia",
+    "JsonAssetsName": "Potted Petunia"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Poppy0.png",
+    "SellPrice": 1,
+    "ID": "Potted Poppy",
+    "JsonAssetsName": "Potted Poppy"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Summer Spangle0.png",
+    "SellPrice": 1,
+    "ID": "Potted Summer Spangle",
+    "JsonAssetsName": "Potted Summer Spangle"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Sunflower0.png",
+    "SellPrice": 1,
+    "ID": "Potted Sunflower",
+    "JsonAssetsName": "Potted Sunflower"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Sweet Pea0.png",
+    "SellPrice": 1,
+    "ID": "Potted Sweet Pea",
+    "JsonAssetsName": "Potted Sweet Pea"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Tulip0.png",
+    "SellPrice": 1,
+    "ID": "Potted Tulip",
+    "JsonAssetsName": "Potted Tulip"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Violet0.png",
+    "SellPrice": 1,
+    "ID": "Potted Violet",
+    "JsonAssetsName": "Potted Violet"
+  },
+  {
+    "Texture": "assets/big-craftables/Potted Wisteria0.png",
+    "SellPrice": 1,
+    "ID": "Potted Wisteria",
+    "JsonAssetsName": "Potted Wisteria"
+  },
+  {
+    "Texture": "assets/big-craftables/Soap Maker0.png",
+    "SellPrice": 1,
+    "ID": "Soap Maker",
+    "JsonAssetsName": "Soap Maker"
+  }
+]

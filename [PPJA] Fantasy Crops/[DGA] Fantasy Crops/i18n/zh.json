@@ -1,0 +1,16 @@
+{
+  "object.Doubloon.name": "钱币",
+  "object.Doubloon.description": "生产这个硬币只有一个目的：被卖掉。",
+  "object.Coal Seeds.name": "煤炭种子",
+  "object.Coal Seeds.description": "春天或夏天播种。8天成熟。",
+  "object.Copper Seeds.name": "铜矿种子",
+  "object.Copper Seeds.description": "春天播种。10天成熟。",
+  "object.Gold Seeds.name": "金矿种子",
+  "object.Gold Seeds.description": "秋天播种。20天成熟。",
+  "object.Iridium Seeds.name": "铱矿种子",
+  "object.Iridium Seeds.description": "冬天播种。24天成熟。",
+  "object.Iron Seeds.name": "铁矿种子",
+  "object.Iron Seeds.description": "夏天播种。15天成熟。",
+  "object.Doubloon Seeds.name": "钱币种子",
+  "object.Doubloon Seeds.description": "秋天播种。10天成熟，在第一次收获后循环生产。"
+}

@@ -1,0 +1,19 @@
+{
+  "object.Doubloon.name": "Doubloon",
+  "object.Doubloon.description": "A coin with only one purpose: to be sold.",
+  "object.Doubloon.category": null,
+  "object.Coal Seeds.name": "Coal Seeds",
+  "object.Coal Seeds.description": "Plant these in spring or summer. Takes 8 days to mature.",
+  "object.Copper Seeds.name": "Copper Seeds",
+  "object.Copper Seeds.description": "Plant these in spring. Takes 10 days to mature.",
+  "object.Gold Seeds.name": "Gold Seeds",
+  "object.Gold Seeds.description": "Plant these in fall. Takes 20 days to mature.",
+  "object.Iridium Seeds.name": "Iridium Seeds",
+  "object.Iridium Seeds.description": "Plant these in winter. Takes 24 days to mature.",
+  "object.Iron Seeds.name": "Iron Seeds",
+  "object.Iron Seeds.description": "Plant these in summer. Takes 15 days to mature.",
+  "object.Doubloon Seeds.name": "Doubloon Seeds",
+  "object.Doubloon Seeds.description": "Plant these in fall. Takes 10 days to mature, and keeps producing after the first harvest.",
+  "object.Radioactive Seeds.name": "Radioactive Seeds",
+  "object.Radioactive Seeds.description": "Plant these in winter. Takes 24 days to mature."
+}

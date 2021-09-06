@@ -1,0 +1,182 @@
+[
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Allium",
+    "NPC": "Abigail",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Allium, ppja.fruitsandveggies.DGA/Camellia, ppja.fruitsandveggies.DGA/Carnation, ppja.fruitsandveggies.DGA/Chrysanthemum, ppja.fruitsandveggies.DGA/Clematis, ppja.fruitsandveggies.DGA/Dahlia, ppja.fruitsandveggies.DGA/Daisy, ppja.fruitsandveggies.DGA/Delphinium",
+    "NPC": "Alex, Shane, Maru, Dwarf, Gus, Krobus, Pam, Pierre, Vincent, Willy, Wizard",
+    "Amount": 20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Allium, ppja.fruitsandveggies.DGA/Camellia, ppja.fruitsandveggies.DGA/Carnation, ppja.fruitsandveggies.DGA/Clematis, ppja.fruitsandveggies.DGA/Dahlia, ppja.fruitsandveggies.DGA/Daisy",
+    "NPC": "Sebastian, Clint, George",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Autumal Tea",
+    "NPC": "Abigail, Elliott, Harvey",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Autumal Tea",
+    "NPC": "Haley, Jodi, Kent, Lewis, Marnie, Shane, Willy, George",
+    "Amount": 20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Autumal Tea",
+    "NPC": "Robin, Alex, Dwarf, Krobus, Jas, Vincent",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Autumal Tea",
+    "NPC": "Sam, Pam, Sebastian",
+    "Amount": -40,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Boiled Greens",
+    "NPC": "Leah, George",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Boiled Greens",
+    "NPC": "Harvey, Demetrius, Linus",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Boiled Greens",
+    "NPC": "Emily, Evelyn, Wizard",
+    "Amount": 20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Boiled Greens",
+    "NPC": "Sandy, Clint, Haley, Jas, Vincent",
+    "Amount": -40,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Devotion, ppja.fruitsandveggies.DGA/Bouquet of Exuberance",
+    "NPC": "Harvey, Emily",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Devotion, ppja.fruitsandveggies.DGA/Bouquet of Exuberance",
+    "NPC": "Leah, Abigail, Elliott, Penny, Maru, Shane, Alex, Sam, Sebastian, Haley",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Devotion, ppja.fruitsandveggies.DGA/Bouquet of Exuberance, ppja.fruitsandveggies.DGA/Bouquet of Longing, ppja.fruitsandveggies.DGA/Bouquet of Passion",
+    "NPC": "Demetrius, Evelyn, Caroline, Kent, Lewis, Marnie, Robin, Pam, Pierre, Jas, Vincent",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Devotion, ppja.fruitsandveggies.DGA/Bouquet of Exuberance, ppja.fruitsandveggies.DGA/Bouquet of Longing, ppja.fruitsandveggies.DGA/Bouquet of Passion",
+    "NPC": "George, Clint, Jodi",
+    "Amount": -40,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Hope",
+    "NPC": "Jodi, Penny",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Hope",
+    "NPC": "Alex, Haley, Wizard, Krobus, Marnie, Lewis, Pierre, Sebastian",
+    "Amount": 20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Hope",
+    "NPC": "Pam, Clint, George",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Longing",
+    "NPC": "Elliott, Maru, Shane",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Longing",
+    "NPC": "Leah, Harvey, Emily, Abigail, Penny, Alex, Sam, Sebastian",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Passion",
+    "NPC": "Haley, Abigail, Alex, Sam",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Passion",
+    "NPC": "Leah, Harvey, Emily, Elliott, Penny, Maru, Shane, Sebastian",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Purity",
+    "NPC": "Evelyn, Jas, Vincent",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Purity",
+    "NPC": "Sam, Harvey, Penny, Maru, Linus, Gus, Krobus, Sandy, Caroline, Robin, George, Jodi",
+    "Amount": 45,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Purity",
+    "NPC": "Alex, Shane, Wizard, Kent, Clint",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Bouquet of Purity",
+    "NPC": "Sebastian, Pam",
+    "Amount": -40,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Camellia",
+    "NPC": "Caroline",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Carnation",
+    "NPC": "Caroline, Jodi, Marnie",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Chrysanthemum",
+    "NPC": "Robin",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Chrysanthemum",
+    "NPC": "Clint, George",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Clematis",
+    "NPC": "Maru",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Dahlia",
+    "NPC": "Sandy",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Daisy",
+    "NPC": "Jas, Penny",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Delphinium",
+    "NPC": "Emily",
+    "Amount": 80,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Delphinium",
+    "NPC": "Sebastian, George",
+    "Amount": -20,
+},
+{
+    "ObjectId": "ppja.fruitsandveggies.DGA/Delphinium",
+    "NPC": "Clint",
+    "Amount": -40,
+},
+]

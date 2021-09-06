@@ -1,0 +1,1701 @@
+[
+    {
+        "Texture": "assets/objects/Adzuki Bean.png",
+        "Category": "Vegetable",
+        "Edibility": 22,
+        "SellPrice": 90,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_red",
+            "color_white",
+            "vegetable_item"
+        ],
+        "ID": "Adzuki Bean",
+        "JsonAssetsName": "Adzuki Bean"
+    },
+    {
+        "Texture": "assets/objects/Aloe.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 20,
+        "SellPrice": 140,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "color_green",
+            "succulent_item",
+            "crop_year_2"
+        ],
+        "ID": "Aloe",
+        "JsonAssetsName": "Aloe"
+    },
+    {
+        "Texture": "assets/objects/Asparagus.png",
+        "Category": "Vegetable",
+        "Edibility": 5,
+        "SellPrice": 35,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "color_green",
+            "vegetable_item",
+            "crop_year_4"
+        ],
+        "ID": "Asparagus",
+        "JsonAssetsName": "Asparagus"
+    },
+    {
+        "Texture": "assets/objects/Bamboo.png",
+        "Category": "Vegetable",
+        "Edibility": 20,
+        "SellPrice": 55,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "season_summer",
+            "color_yellow_green",
+            "vegetable_item",
+            "crop_year_4"
+        ],
+        "ID": "Bamboo",
+        "JsonAssetsName": "Bamboo"
+    },
+    {
+        "Texture": "assets/objects/Barley.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 25,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_fall",
+            "color_pale_yellow",
+            "vegetable_item"
+        ],
+        "ID": "Barley",
+        "JsonAssetsName": "Barley"
+    },
+    {
+        "Texture": "assets/objects/Basil.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 5,
+        "SellPrice": 35,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "color_green",
+            "herb_item"
+        ],
+        "ID": "Basil",
+        "JsonAssetsName": "Basil"
+    },
+    {
+        "Texture": "assets/objects/Red Bell Pepper.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 70,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_red",
+            "vegetable_item",
+            "bell_pepper_item"
+        ],
+        "ID": "Red Bell Pepper",
+        "JsonAssetsName": "Bell Pepper"
+    },
+    {
+        "Texture": "assets/objects/Green Bell Pepper.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 70,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_green",
+            "vegetable_item",
+            "bell_pepper_item"
+        ],
+        "ID": "Green Bell Pepper",
+    },
+    {
+        "Texture": "assets/objects/Yellow Bell Pepper.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 70,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_yellow",
+            "vegetable_item",
+            "bell_pepper_item"
+        ],
+        "ID": "Yellow Bell Pepper",
+    },
+    {
+        "Texture": "assets/objects/Orange Bell Pepper.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 70,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_orange",
+            "vegetable_item",
+            "bell_pepper_item"
+        ],
+        "ID": "Orange Bell Pepper",
+    },
+    {
+        "Texture": "assets/objects/Blue Agave.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 8,
+        "SellPrice": 300,
+        "UniversalGiftTaste": -40,
+        "ContextTags": [
+            "season_summer",
+            "color_blue",
+            "succulent_item",
+            "crop_year_3"
+        ],
+        "ID": "Blue Agave",
+        "JsonAssetsName": "Blue Agave"
+    },
+    {
+        "Texture": "assets/objects/Broccoli.png",
+        "Category": "Vegetable",
+        "Edibility": 15,
+        "SellPrice": 120,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_green",
+            "vegetable_item",
+            "crop_year_2"
+        ],
+        "ID": "Broccoli",
+        "JsonAssetsName": "Broccoli"
+    },
+    {
+        "Texture": "assets/objects/Buckwheat.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 25,
+        "UniversalGiftTaste": 20,
+        "ID": "Buckwheat",
+        "JsonAssetsName": "Buckwheat"
+    },
+    {
+        "Texture": "assets/objects/Butternut Squash.png",
+        "Category": "Vegetable",
+        "Edibility": 20,
+        "SellPrice": 440,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "color_pale_yellow",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Butternut Squash",
+        "JsonAssetsName": "Butternut Squash"
+    },
+    {
+        "Texture": "assets/objects/Cabbage.png",
+        "Category": "Vegetable",
+        "Edibility": 30,
+        "SellPrice": 120,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "season_fall",
+            "color_green",
+            "vegetable_item"
+        ],
+        "ID": "Cabbage",
+        "JsonAssetsName": "Cabbage"
+    },
+    {
+        "Texture": "assets/objects/Cactus Flower.png",
+        "Category": "Flower",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 8,
+        "SellPrice": 600,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_spring",
+            "season_summer",
+            "season_fall",
+            "color_pink",
+            "succulent_item",
+            "crop_year_3"
+        ],
+        "ID": "Cactus Flower",
+        "JsonAssetsName": "Cactus Flower"
+    },
+    {
+        "Texture": "assets/objects/Carrot.png",
+        "Category": "Vegetable",
+        "Edibility": 10,
+        "SellPrice": 65,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_orange",
+            "vegetable_item"
+        ],
+        "ID": "Carrot",
+        "JsonAssetsName": "Carrot"
+    },
+    {
+        "Texture": "assets/objects/Cassava.png",
+        "Category": "Vegetable",
+        "SellPrice": 80,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_brown",
+            "vegetable_item",
+            "crop_year_2"
+        ],
+        "ID": "Cassava",
+        "JsonAssetsName": "Cassava"
+    },
+    {
+        "Texture": "assets/objects/Celery.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 70,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_green",
+            "vegetable_item",
+            "crop_year_2"
+        ],
+        "ID": "Celery",
+        "JsonAssetsName": "Celery"
+    },
+    {
+        "Texture": "assets/objects/Chickpea.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 55,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "color_tan",
+            "vegetable_item",
+            "crop_year_4"
+        ],
+        "ID": "Chickpea",
+        "JsonAssetsName": "Chickpea"
+    },
+    {
+        "Texture": "assets/objects/Chives.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 5,
+        "SellPrice": 35,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "color_green",
+            "herb_item"
+        ],
+        "ID": "Chives",
+        "JsonAssetsName": "Chives"
+    },
+    {
+        "Texture": "assets/objects/Cotton Boll.png",
+        "Category": "Fruit",
+        "SellPrice": 65,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "season_fall",
+            "color_white",
+            "fruit_item"
+        ],
+        "ID": "Cotton Boll",
+        "JsonAssetsName": "Cotton Boll"
+    },
+    {
+        "Texture": "assets/objects/Cucumber.png",
+        "Category": "Vegetable",
+        "Edibility": 20,
+        "SellPrice": 90,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_green",
+            "vegetable_item",
+            "crop_year_2"
+        ],
+        "ID": "Cucumber",
+        "JsonAssetsName": "Cucumber"
+    },
+    {
+        "Texture": "assets/objects/Durum.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 25,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_fall",
+            "color_tan",
+            "vegetable_item",
+            "crop_year_4"
+        ],
+        "ID": "Durum",
+        "JsonAssetsName": "Durum"
+    },
+    {
+        "Texture": "assets/objects/Elderberry.png",
+        "Category": "Fruit",
+        "Edibility": -15,
+        "SellPrice": 20,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "season_winter",
+            "color_dark_blue",
+            "fruit_item",
+            "crop_year_2"
+        ],
+        "ID": "Elderberry",
+        "JsonAssetsName": "Elderberry"
+    },
+    {
+        "Texture": "assets/objects/Fennel.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 5,
+        "SellPrice": 35,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_pale_yellow",
+            "herb_item",
+            "crop_year_2"
+        ],
+        "ID": "Fennel",
+        "JsonAssetsName": "Fennel"
+    },
+    {
+        "Texture": "assets/objects/Ginseng.png",
+        "Category": "Vegetable",
+        "Edibility": 20,
+        "SellPrice": 2000,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_all",
+            "color_tam",
+            "vegetable_item"
+        ],
+        "ID": "Ginseng",
+        "JsonAssetsName": "Ginseng"
+    },
+    {
+        "Texture": "assets/objects/Gooseberry.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 20,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_red_pink",
+            "fruit_item",
+            "crop_year_2"
+        ],
+        "ID": "Gooseberry",
+        "JsonAssetsName": "Gooseberry"
+    },
+    {
+        "Texture": "assets/objects/Green Peas.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 30,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_green",
+            "vegetable_item",
+            "crop_year_4"
+        ],
+        "ID": "Green Peas",
+        "JsonAssetsName": "Green Peas"
+    },
+    {
+        "Texture": "assets/objects/Habanero.png",
+        "Category": "Vegetable",
+        "Edibility": -50,
+        "SellPrice": 120,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_red_orange",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Habanero",
+        "JsonAssetsName": "Habanero"
+    },
+    {
+        "Texture": "assets/objects/Jalapeno.png",
+        "Category": "Vegetable",
+        "Edibility": 5,
+        "SellPrice": 40,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_green",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Jalapeno",
+        "JsonAssetsName": "Jalapeno"
+    },
+    {
+        "Texture": "assets/objects/Juniper Berry.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 15,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "season_winter",
+            "color_blue",
+            "fruit_item"
+        ],
+        "ID": "Juniper Berry",
+        "JsonAssetsName": "Juniper Berry"
+    },
+    {
+        "Texture": "assets/objects/Kidney Bean.png",
+        "Category": "Vegetable",
+        "Edibility": 12,
+        "SellPrice": 35,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_fall",
+            "color_dark_red",
+            "vegetable_item",
+            "crop_year_4"
+        ],
+        "ID": "Kidney Bean",
+        "JsonAssetsName": "Kidney Bean"
+    },
+    {
+        "Texture": "assets/objects/Kiwi.png",
+        "Category": "Fruit",
+        "Edibility": 12,
+        "SellPrice": 100,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "season_fall",
+            "color_green",
+            "color_brown",
+            "fruit_item"
+        ],
+        "ID": "Kiwi",
+        "JsonAssetsName": "Kiwi"
+    },
+    {
+        "Texture": "assets/objects/Lettuce.png",
+        "Category": "Vegetable",
+        "Edibility": 30,
+        "SellPrice": 65,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_green",
+            "vegetable_item"
+        ],
+        "ID": "Lettuce",
+        "JsonAssetsName": "Lettuce"
+    },
+    {
+        "Texture": "assets/objects/Licorice Root.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 8,
+        "SellPrice": 135,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_spring",
+            "color_brown",
+            "vegetable_item",
+            "crop_year_4"
+        ],
+        "ID": "Licorice Root",
+        "JsonAssetsName": "Licorice Root"
+    },
+    {
+        "Texture": "assets/objects/Maguey.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 8,
+        "SellPrice": 170,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_spring",
+            "season_summer",
+            "color_green",
+            "succulent_item",
+            "crop_year_4"
+        ],
+        "ID": "Maguey",
+        "JsonAssetsName": "Maguey"
+    },
+    {
+        "Texture": "assets/objects/Mint.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 8,
+        "SellPrice": 25,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_winter",
+            "color_green",
+            "herb_item"
+        ],
+        "ID": "Mint",
+        "JsonAssetsName": "Mint"
+    },
+    {
+        "Texture": "assets/objects/Muskmelon.png",
+        "Category": "Fruit",
+        "Edibility": 20,
+        "SellPrice": 180,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_spring",
+            "color_tan",
+            "color_orange",
+            "fruit_item",
+            "crop_year_2"
+        ],
+        "ID": "Muskmelon",
+        "JsonAssetsName": "Muskmelon"
+    },
+    {
+        "Texture": "assets/objects/Navy Bean.png",
+        "Category": "Vegetable",
+        "Edibility": 12,
+        "SellPrice": 15,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_light_pink",
+            "vegetable_item"
+        ],
+        "ID": "Navy Bean",
+        "JsonAssetsName": "Navy Bean"
+    },
+    {
+        "Texture": "assets/objects/Oat.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 25,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_fall",
+            "color_tan",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Oat",
+        "JsonAssetsName": "Oat"
+    },
+    {
+        "Texture": "assets/objects/Okra.png",
+        "Category": "Vegetable",
+        "Edibility": 10,
+        "SellPrice": 60,
+        "UniversalGiftTaste": -40,
+        "ContextTags": [
+            "season_summer",
+            "season_fall",
+            "color_green",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Okra",
+        "JsonAssetsName": "Okra"
+    },
+    {
+        "Texture": "assets/objects/Onion.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 115,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "color_light_brown",
+            "color_white",
+            "vegetable_item"
+        ],
+        "ID": "Onion",
+        "JsonAssetsName": "Onion"
+    },
+    {
+        "Texture": "assets/objects/Oregano.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 5,
+        "SellPrice": 50,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_green",
+            "herb_item"
+        ],
+        "ID": "Oregano",
+        "JsonAssetsName": "Oregano"
+    },
+    {
+        "Texture": "assets/objects/Parsley.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 5,
+        "SellPrice": 45,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_spring",
+            "color_green",
+            "herb_item"
+        ],
+        "ID": "Parsley",
+        "JsonAssetsName": "Parsley"
+    },
+    {
+        "Texture": "assets/objects/Passion Fruit.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 95,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "color_pink",
+            "fruit_item"
+        ],
+        "ID": "Passion Fruit",
+        "JsonAssetsName": "Passion Fruit"
+    },
+    {
+        "Texture": "assets/objects/Peanut.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 75,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_brown",
+            "vegetable_item",
+            "crop_year_2"
+        ],
+        "ID": "Peanut",
+        "JsonAssetsName": "Peanut"
+    },
+    {
+        "Texture": "assets/objects/Perilla Leaf.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 5,
+        "SellPrice": 50,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "color_green",
+            "herb_item"
+        ],
+        "ID": "Perilla leaf",
+        "JsonAssetsName": "Perilla leaf"
+    },
+    {
+        "Texture": "assets/objects/Quinoa.png",
+        "Category": "Vegetable",
+        "Edibility": 18,
+        "UniversalGiftTaste": 45,
+        "SellPrice": 30,
+        "ContextTags": [
+            "season_summer",
+            "color_white",
+            "vegetable_item",
+            "crop_year_4"
+        ],
+        "ID": "Quinoa",
+        "JsonAssetsName": "Quinoa"
+    },
+    {
+        "Texture": "assets/objects/Rapeseed Flower.png",
+        "Category": "Flower",
+        "SellPrice": 50,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_spring",
+            "season_summer",
+            "color_yellow",
+            "flower_item",
+            "crop_year_3"
+        ],
+        "ID": "Rapeseed Flower",
+        "JsonAssetsName": "Rapeseed Flower"
+    },
+    {
+        "Texture": "assets/objects/Raspberry.png",
+        "Category": "Fruit",
+        "Edibility": 15,
+        "SellPrice": 30,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "color_dark_red",
+            "fruit_item",
+            "crop_year_2"
+        ],
+        "ID": "Raspberry",
+        "JsonAssetsName": "Raspberry"
+    },
+    {
+        "Texture": "assets/objects/Red Onion.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 115,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "color_dark_purple",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Red Onion",
+        "JsonAssetsName": "Red Onion"
+    },
+    {
+        "Texture": "assets/objects/Rosemary.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 18,
+        "UniversalGiftTaste": 45,
+        "SellPrice": 75,
+        "ContextTags": [
+            "season_fall",
+            "color_green",
+            "herb_item"
+        ],
+        "ID": "Rosemary",
+        "JsonAssetsName": "Rosemary"
+    },
+    {
+        "Texture": "assets/objects/Sage.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 5,
+        "SellPrice": 70,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_green",
+            "herb_item"
+        ],
+        "ID": "Sage",
+        "JsonAssetsName": "Sage"
+    },
+    {
+        "Texture": "assets/objects/Shallot.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 115,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "color_pale_pink",
+            "vegetable_item",
+            "crop_year_4"
+        ],
+        "ID": "Shallot",
+        "JsonAssetsName": "Shallot"
+    },
+    {
+        "Texture": "assets/objects/Shiitake Mushroom.png",
+        "Category": "Vegetable",
+        "Edibility": 9,
+        "SellPrice": 180,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "season_spring",
+            "season_fall",
+            "color_brown",
+            "mushroom_item",
+            "crop_year_4"
+        ],
+        "ID": "Shiitake Mushroom",
+        "JsonAssetsName": "Shiitake Mushroom"
+    },
+    {
+        "Texture": "assets/objects/Soybean.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 80,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_green",
+            "vegetable_item",
+            "crop_year_2"
+        ],
+        "ID": "Soybean",
+        "JsonAssetsName": "Soybean"
+    },
+    {
+        "Texture": "assets/objects/Spinach.png",
+        "Category": "Vegetable",
+        "Edibility": 15,
+        "UniversalGiftTaste": 45,
+        "SellPrice": 35,
+        "ContextTags": [
+            "season_spring",
+            "season_fall",
+            "color_green",
+            "vegetable_item"
+        ],
+        "ID": "Spinach",
+        "JsonAssetsName": "Spinach"
+    },
+    {
+        "Texture": "assets/objects/Sugar Beet.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 180,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "color_white",
+            "vegetable_item",
+            "crop_year_2"
+        ],
+        "ID": "Sugar Beet",
+        "JsonAssetsName": "Sugar Beet"
+    },
+    {
+        "Texture": "assets/objects/Sugar Cane.png",
+        "Category": "Vegetable",
+        "Edibility": 30,
+        "SellPrice": 230,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "color_gray",
+            "vegetable_item"
+        ],
+        "ID": "Sugar Cane",
+        "JsonAssetsName": "Sugar Cane"
+    },
+    {
+        "Texture": "assets/objects/Sulfur Shelf Mushroom.png",
+        "Category": "Vegetable",
+        "Edibility": 9,
+        "SellPrice": 180,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "season_spring",
+            "season_fall",
+            "color_brown",
+            "mushroom_item",
+            "crop_year_4"
+        ],
+        "ID": "Sulfur Shelf Mushroom",
+        "JsonAssetsName": "Sulfur Shelf Mushroom"
+    },
+    {
+        "Texture": "assets/objects/Sweet Canary Melon.png",
+        "Category": "Fruit",
+        "Edibility": 45,
+        "SellPrice": 225,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_spring",
+            "color_yellow",
+            "fruit_item",
+            "crop_year_2"
+        ],
+        "ID": "Sweet Canary Melon",
+        "JsonAssetsName": "Sweet Canary Melon"
+    },
+    {
+        "Texture": "assets/objects/Sweet Potato.png",
+        "Category": "Vegetable",
+        "Edibility": 10,
+        "SellPrice": 120,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_orange",
+            "color_brown",
+            "vegetable_item"
+        ],
+        "ID": "Sweet Potato",
+        "JsonAssetsName": "Sweet Potato"
+    },
+    {
+        "Texture": "assets/objects/Tabasco Pepper.png",
+        "Category": "Vegetable",
+        "Edibility": -10,
+        "SellPrice": 80,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_red",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Tabasco Pepper",
+        "JsonAssetsName": "Tabasco Pepper"
+    },
+    {
+        "Texture": "assets/objects/Thyme.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 5,
+        "SellPrice": 55,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_green",
+            "herb_item"
+        ],
+        "ID": "Thyme",
+        "JsonAssetsName": "Thyme"
+    },
+    {
+        "Texture": "assets/objects/Wasabi Root.png",
+        "Category": "Vegetable",
+        "SellPrice": 165,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "season_summer",
+            "color_light_green",
+            "vegetable_item"
+        ],
+        "ID": "Wasabi Root",
+        "JsonAssetsName": "Wasabi Root"
+    },
+    {
+        "Texture": "assets/objects/Watermelon.png",
+        "Category": "Fruit",
+        "Edibility": 45,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_fall",
+            "color_green",
+            "fruit_item"
+        ],
+        "ID": "Watermelon",
+        "JsonAssetsName": "Watermelon"
+    },
+    {
+        "Texture": "assets/objects/Zucchini.png",
+        "Category": "Vegetable",
+        "Edibility": 10,
+        "SellPrice": 175,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_green",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Zucchini",
+        "JsonAssetsName": "Zucchini"
+    },
+
+    // New Items
+
+    {
+        "Texture": "assets/objects/Serrano Chile.png",
+        "Category": "Vegetable",
+        "Edibility": -20,
+        "SellPrice": 120,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "color_green",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Serrano Chile",
+    },
+    {
+        "Texture": "assets/objects/Scotch Bonnet.png",
+        "Category": "Vegetable",
+        "Edibility": -20,
+        "SellPrice": 120,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "season_fall",
+            "color_yellow",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Scotch Bonnet",
+    },
+    {
+        "Texture": "assets/objects/Poblano Chile.png",
+        "Category": "Vegetable",
+        "Edibility": -20,
+        "SellPrice": 120,
+        "UniversalGiftTaste": 20,
+        "ContextTags": [
+            "season_summer",
+            "color_green",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Poblano Chile",
+    },
+    {
+        "Texture": "assets/objects/Carolina Reaper.png",
+        "Category": "Vegetable",
+        "Edibility": -50,
+        "SellPrice": 120,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "season_summer",
+            "color_red",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Carolina Reaper",
+    },
+    {
+        "Texture": "assets/objects/Ghost Pepper.png",
+        "Category": "Vegetable",
+        "Edibility": -50,
+        "SellPrice": 120,
+        "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "season_summer",
+            "color_red",
+            "vegetable_item",
+            "crop_year_3"
+        ],
+        "ID": "Ghost Pepper",
+    },
+
+    {
+        "Texture": "assets/objects/Adzuki Bean Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Adzuki Bean Crop",
+        "Category": "Seeds",
+        "ID": "Adzuki Bean Seeds"
+    },
+    {
+        "Texture": "assets/objects/Aloe Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Aloe Crop",
+        "Category": "Seeds",
+        "ID": "Aloe Pod"
+    },
+    {
+        "Texture": "assets/objects/Asparagus Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Asparagus Crop",
+        "Category": "Seeds",
+        "ID": "Asparagus Seeds"
+    },
+    {
+        "Texture": "assets/objects/Bamboo Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Bamboo Crop",
+        "Category": "Seeds",
+        "ID": "Bamboo Cutting"
+    },
+    {
+        "Texture": "assets/objects/Barley Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Barley Crop",
+        "Category": "Seeds",
+        "ID": "Barley Seeds"
+    },
+    {
+        "Texture": "assets/objects/Basil Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Basil Crop",
+        "Category": "Seeds",
+        "ID": "Basil Seeds"
+    },
+    {
+        "Texture": "assets/objects/Bell Pepper Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Bell Pepper Crop",
+        "Category": "Seeds",
+        "ID": "Bell Pepper Seeds"
+    },
+    {
+        "Texture": "assets/objects/Blackberry Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Blackberry Crop",
+        "Category": "Seeds",
+        "ID": "Blackberry Seeds"
+    },
+    {
+        "Texture": "assets/objects/Blue Agave Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Blue Agave Crop",
+        "Category": "Seeds",
+        "ID": "Blue Agave Seeds"
+    },
+    {
+        "Texture": "assets/objects/Broccoli Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Broccoli Crop",
+        "Category": "Seeds",
+        "ID": "Broccoli Seeds"
+    },
+    {
+        "Texture": "assets/objects/Buckwheat Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Buckwheat Crop",
+        "Category": "Seeds",
+        "ID": "Buckwheat Seeds"
+    },
+    {
+        "Texture": "assets/objects/Butternut Squash Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Butternut Squash Crop",
+        "Category": "Seeds",
+        "ID": "Butternut Squash Seeds"
+    },
+    {
+        "Texture": "assets/objects/Cabbage Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Cabbage Crop",
+        "Category": "Seeds",
+        "ID": "Cabbage Seeds"
+    },
+    {
+        "Texture": "assets/objects/Cactus Flower Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Cactus Flower Crop",
+        "Category": "Seeds",
+        "ID": "Cactus Flower Seeds"
+    },
+    {
+        "Texture": "assets/objects/Carrot Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Carrot Crop",
+        "Category": "Seeds",
+        "ID": "Carrot Seeds"
+    },
+    {
+        "Texture": "assets/objects/Cassava Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Cassava Crop",
+        "Category": "Seeds",
+        "ID": "Cassava Seeds"
+    },
+    {
+        "Texture": "assets/objects/Celery Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Celery Crop",
+        "Category": "Seeds",
+        "ID": "Celery Seeds"
+    },
+    {
+        "Texture": "assets/objects/Chickpea Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Chickpea Crop",
+        "Category": "Seeds",
+        "ID": "Chickpea Seeds"
+    },
+    {
+        "Texture": "assets/objects/Chives Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Chives Crop",
+        "Category": "Seeds",
+        "ID": "Chive Seeds"
+    },
+    {
+        "Texture": "assets/objects/Cotton Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Cotton Crop",
+        "Category": "Seeds",
+        "ID": "Cotton Seeds"
+    },
+    {
+        "Texture": "assets/objects/Cucumber Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Cucumber Crop",
+        "Category": "Seeds",
+        "ID": "Cucumber Starter"
+    },
+    {
+        "Texture": "assets/objects/Durum Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Durum Crop",
+        "Category": "Seeds",
+        "ID": "Durum Seeds"
+    },
+    {
+        "Texture": "assets/objects/Elderberry Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Elderberry Crop",
+        "Category": "Seeds",
+        "ID": "Elderberry Seeds"
+    },
+    {
+        "Texture": "assets/objects/Fennel Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Fennel Crop",
+        "Category": "Seeds",
+        "ID": "Fennel Seeds"
+    },
+    {
+        "Texture": "assets/objects/Ginger Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Ginger Crop",
+        "Category": "Seeds",
+        "ID": "Ginger Seeds"
+    },
+    {
+        "Texture": "assets/objects/Ginseng Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Ginseng Crop",
+        "Category": "Seeds",
+        "ID": "Ginseng Seeds"
+    },
+    {
+        "Texture": "assets/objects/Gooseberry Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Gooseberry Crop",
+        "Category": "Seeds",
+        "ID": "Gooseberry Seeds"
+    },
+    {
+        "Texture": "assets/objects/Green Pea Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Green Pea Crop",
+        "Category": "Seeds",
+        "ID": "Green Pea Seeds"
+    },
+    {
+        "Texture": "assets/objects/Habanero Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Habanero Crop",
+        "Category": "Seeds",
+        "ID": "Habanero Seeds"
+    },
+    {
+        "Texture": "assets/objects/Jalapeno Pepper Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Jalapeno Pepper Crop",
+        "Category": "Seeds",
+        "ID": "Jalapeno Seeds"
+    },
+    {
+        "Texture": "assets/objects/Juniper Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Juniper Crop",
+        "Category": "Seeds",
+        "ID": "Juniper Berry Seeds"
+    },
+    {
+        "Texture": "assets/objects/Kidney Bean Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Kidney Bean Crop",
+        "Category": "Seeds",
+        "ID": "Kidney Bean Starter"
+    },
+    {
+        "Texture": "assets/objects/Kiwi Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Kiwi Crop",
+        "Category": "Seeds",
+        "ID": "Kiwi Seeds"
+    },
+    {
+        "Texture": "assets/objects/Lettuce Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Lettuce Crop",
+        "Category": "Seeds",
+        "ID": "Lettuce Seeds"
+    },
+    {
+        "Texture": "assets/objects/Licorice Root Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Licorice Root Crop",
+        "Category": "Seeds",
+        "ID": "Licorice Seeds"
+    },
+    {
+        "Texture": "assets/objects/Maguey Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Maguey Crop",
+        "Category": "Seeds",
+        "ID": "Maguey Seeds"
+    },
+    {
+        "Texture": "assets/objects/Mint Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Mint Crop",
+        "Category": "Seeds",
+        "ID": "Mint Seeds"
+    },
+    {
+        "Texture": "assets/objects/Muskmelon Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Muskmelon Crop",
+        "Category": "Seeds",
+        "ID": "Muskmelon Seeds"
+    },
+    {
+        "Texture": "assets/objects/Navy Bean Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Navy Bean Crop",
+        "Category": "Seeds",
+        "ID": "Navy Bean Seeds"
+    },
+    {
+        "Texture": "assets/objects/Oat Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Oat Crop",
+        "Category": "Seeds",
+        "ID": "Oat Seeds"
+    },
+    {
+        "Texture": "assets/objects/Okra Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Okra Crop",
+        "Category": "Seeds",
+        "ID": "Okra Seeds"
+    },
+    {
+        "Texture": "assets/objects/Onion Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Onion Crop",
+        "Category": "Seeds",
+        "ID": "Onion Seeds"
+    },
+    {
+        "Texture": "assets/objects/Oregano Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Oregano Crop",
+        "Category": "Seeds",
+        "ID": "Oregano Seeds"
+    },
+    {
+        "Texture": "assets/objects/Parsley Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Parsley Crop",
+        "Category": "Seeds",
+        "ID": "Parsley Seeds"
+    },
+    {
+        "Texture": "assets/objects/Passion Fruit Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Passion Fruit Crop",
+        "Category": "Seeds",
+        "ID": "Passion Fruit Seeds"
+    },
+    {
+        "Texture": "assets/objects/Peanut Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Peanut Crop",
+        "Category": "Seeds",
+        "ID": "Peanut Seeds"
+    },
+    {
+        "Texture": "assets/objects/Perilla Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Perilla Crop",
+        "Category": "Seeds",
+        "ID": "Perilla Seeds"
+    },
+    {
+        "Texture": "assets/objects/Quinoa Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Quinoa Crop",
+        "Category": "Seeds",
+        "ID": "Quinoa Seeds"
+    },
+    {
+        "Texture": "assets/objects/Rapeseed Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Rapeseed Crop",
+        "Category": "Seeds",
+        "ID": "Rapeseed Seeds"
+    },
+    {
+        "Texture": "assets/objects/Raspberry Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Raspberry Crop",
+        "Category": "Seeds",
+        "ID": "Raspberry Seeds"
+    },
+    {
+        "Texture": "assets/objects/Red Onion Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Red Onion Crop",
+        "Category": "Seeds",
+        "ID": "Red Onion Seeds"
+    },
+    {
+        "Texture": "assets/objects/Rosemary Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Rosemary Crop",
+        "Category": "Seeds",
+        "ID": "Rosemary Seeds"
+    },
+    {
+        "Texture": "assets/objects/Sage Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Sage Crop",
+        "Category": "Seeds",
+        "ID": "Sage Seeds"
+    },
+    {
+        "Texture": "assets/objects/Shallot Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Shallot Crop",
+        "Category": "Seeds",
+        "ID": "Shallot Seeds"
+    },
+    {
+        "Texture": "assets/objects/Shiitake Mushroom Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Shiitake Mushroom Crop",
+        "Category": "Seeds",
+        "ID": "Shiitake Mushroom Starter"
+    },
+    {
+        "Texture": "assets/objects/Soybean Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Soybean Crop",
+        "Category": "Seeds",
+        "ID": "Soybean Seeds"
+    },
+    {
+        "Texture": "assets/objects/Spinach Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Spinach Crop",
+        "Category": "Seeds",
+        "ID": "Spinach Seeds"
+    },
+    {
+        "Texture": "assets/objects/Sugar Beet Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Sugar Beet Crop",
+        "Category": "Seeds",
+        "ID": "Sugar Beet Seeds"
+    },
+    {
+        "Texture": "assets/objects/Sugar_Cane Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Sugar_Cane Crop",
+        "Category": "Seeds",
+        "ID": "Sugar Cane Seeds"
+    },
+    {
+        "Texture": "assets/objects/Sulfur Shelf Mushroom Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Sulfur Shelf Mushroom Crop",
+        "Category": "Seeds",
+        "ID": "Sulfur Shelf Mushroom Seeds"
+    },
+    {
+        "Texture": "assets/objects/Sweet Canary Melon Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Sweet Canary Melon Crop",
+        "Category": "Seeds",
+        "ID": "Sweet Canary Melon Seeds"
+    },
+    {
+        "Texture": "assets/objects/Sweet_Potato Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Sweet_Potato Crop",
+        "Category": "Seeds",
+        "ID": "Sweet Potato Seeds"
+    },
+    {
+        "Texture": "assets/objects/Tabasco Pepper Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Tabasco Pepper Crop",
+        "Category": "Seeds",
+        "ID": "Tabasco Pepper Seeds"
+    },
+    {
+        "Texture": "assets/objects/Thyme Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Thyme Crop",
+        "Category": "Seeds",
+        "ID": "Thyme Seeds"
+    },
+    {
+        "Texture": "assets/objects/Wasabi Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Wasabi Crop",
+        "Category": "Seeds",
+        "ID": "Wasabi Seeds"
+    },
+    {
+        "Texture": "assets/objects/Watermelon Mizu Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Watermelon Mizu Crop",
+        "Category": "Seeds",
+        "ID": "Watermelon Seeds"
+    },
+    {
+        "Texture": "assets/objects/Zucchini Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Zucchini Crop",
+        "Category": "Seeds",
+        "ID": "Zucchini Seeds"
+    },
+
+    // New Items
+
+    {
+        "Texture": "assets/objects/Bay Leaves.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 5,
+        "SellPrice": 75,
+        "ContextTags": [
+            "season_winter",
+            "color_green",            
+            "herb_item"
+        ],
+        "ID": "Bay",
+    },
+    {
+        "Texture": "assets/objects/Catnip.png",
+        "Category": "Flower",
+        "CategoryColorOverride":
+        {
+            "B": 80,
+            "G": 153,
+            "R": 93,
+            "A": 255
+        },
+        "Edibility": 8,
+        "SellPrice": 100,
+        "ContextTags": [
+            "season_summer",
+            "season_fall",
+            "color_green",
+            "herb_item"
+        ],
+        "ID": "Catnip",
+    },
+    {
+        "Texture": "assets/objects/Champagne Grape.png",
+        "Category": "Fruit",
+        "Edibility": 17,
+        "SellPrice": 80,
+        "ContextTags": [
+            "season_spring",
+            "season_fall",
+            "color_purple",
+            "fruit_item",
+            "champage grape_item"
+        ],
+        "ID": "Champagne Grape",
+    },
+    /*{
+        "Texture": "assets/objects/Wormwood.png",
+        "Category": "Vegetable",
+        "CategoryColorOverride":
+        {},
+        "Edibility": 5,
+        "SellPrice": 135,
+        "ID": "Wormwood",
+    },*/
+    {
+        "Texture": "assets/objects/Bay Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Bay Crop",
+        "Category": "Seeds",
+        "ID": "Bay Seeds"
+    },
+    {
+        "Texture": "assets/objects/Catnip Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Catnip Crop",
+        "Category": "Seeds",
+        "ID": "Catnip Seeds"
+    },
+    {
+        "Texture": "assets/objects/Champagne Grape_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Champagne Grape Crop",
+        "Category": "Seeds",
+        "ID": "Champagne Grape Starter"
+    },
+    /*{
+        "Texture": "assets/objects/Wormwood Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Wormwood Crop",
+        "Category": "Seeds",
+        "ID": "Wormwood Seeds"
+    },*/
+    {
+        "Texture": "assets/objects/Serrano Chile Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Serrano Chile Crop",
+        "Category": "Seeds",
+        "ID": "Serrano Chile Seeds"
+    },
+    {
+        "Texture": "assets/objects/Scotch Bonnet Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Scotch Bonnet Crop",
+        "Category": "Seeds",
+        "ID": "Scotch Bonnet Seeds"
+    },
+    {
+        "Texture": "assets/objects/Poblano Chile Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Poblano Chile Crop",
+        "Category": "Seeds",
+        "ID": "Poblano Chile Seeds"
+    },
+    {
+        "Texture": "assets/objects/Carolina Reaper Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Carolina Reaper Crop",
+        "Category": "Seeds",
+        "ID": "Carolina Reaper Seeds"
+    },
+    {
+        "Texture": "assets/objects/Ghost Pepper Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Ghost Pepper Crop",
+        "Category": "Seeds",
+        "ID": "Ghost Pepper Seeds"
+    },
+]

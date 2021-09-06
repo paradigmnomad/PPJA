@@ -1,0 +1,706 @@
+[
+  {
+    "Texture": "assets/fruit-trees/Almond Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Almond"
+        }
+      }
+    ],
+    "ID": "Almond Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Almond"
+  },
+  {
+    "Texture": "assets/fruit-trees/Asian Pear Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Asian Pear"
+        }
+      }
+    ],
+    "ID": "Asian Pear Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Asian Pear"
+  },
+  {
+    "Texture": "assets/fruit-trees/Avocado Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Avocado"
+        }
+      }
+    ],
+    "ID": "Avocado Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Avocado Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Breadfruit Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Breadfruit"
+        }
+      }
+    ],
+    "ID": "Breadfruit Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Breadfruit Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Camphor Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Camphor Leaves"
+        }
+      }
+    ],
+    "ID": "Camphor Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "winter"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Camphor Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Cashew Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Cashew"
+        }
+      }
+    ],
+    "ID": "Cashew Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Cashew"
+  },
+  {
+    "Texture": "assets/fruit-trees/Cinnamon Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
+        }
+      }
+    ],
+    "ID": "Cinnamon Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "winter"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Cinnamon Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Cocoa Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Cocoa Pod"
+        }
+      }
+    ],
+    "ID": "Cocoa Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Cocoa Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Dragon Fruit Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Dragon Fruit"
+        }
+      }
+    ],
+    "ID": "Dragon Fruit Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Dragon Fruit Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Durian Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Durian"
+        }
+      }
+    ],
+    "ID": "Durian Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Durian"
+  },
+  {
+    "Texture": "assets/fruit-trees/Eucalyptus Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Eucalyptus Leaves"
+        }
+      }
+    ],
+    "ID": "Eucalyptus Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Eucalyptus Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Fig Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Fig"
+        }
+      }
+    ],
+    "ID": "Fig Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "winter"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Fig Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Fragrant Wisteria Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Fragrant Wisteria"
+        }
+      }
+    ],
+    "ID": "Fragrant Wisteria Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Fragrant Wisteria Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Granny Smith Apple Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Granny Smith Apple"
+        }
+      }
+    ],
+    "ID": "Granny Smith Apple Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "Product": [
+          {
+            "Weight": 95,
+            "Value": {
+              "Value": "ppja.moretrees.DGA/Granny Smith Apple"
+            }
+          },
+          {
+              "Weight": 5,
+              "Value": {
+                  "Value": "ppja.moretrees.DGA/Poison Apple",
+              }
+          },
+        ],
+    "JsonAssetsName": "Granny Smith Apple Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Grapefruit Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Grapefruit"
+        }
+      }
+    ],
+    "ID": "Grapefruit Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Grapefruit Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Lemon Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Lemon"
+        }
+      }
+    ],
+    "ID": "Lemon Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Lemon Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Lime Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Lime"
+        }
+      }
+    ],
+    "ID": "Lime Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Lime Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Lychee Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Lychee"
+        }
+      }
+    ],
+    "ID": "Lychee Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Lychee Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Melaleuca Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Melaleuca Leaves"
+        }
+      }
+    ],
+    "ID": "Melaleuca Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Melaleuca Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Olive Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Olive"
+        }
+      }
+    ],
+    "ID": "Olive Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Olive Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Papaya Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Papaya"
+        }
+      }
+    ],
+    "ID": "Papaya Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Papaya Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Pear Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Pear"
+        }
+      }
+    ],
+    "ID": "Pear Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "winter"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Pear Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Pecan Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Pecan"
+        }
+      }
+    ],
+    "ID": "Pecan Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Pecan Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Persimmon Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Persimmon"
+        }
+      }
+    ],
+    "ID": "Persimmon Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "winter"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Persimmon Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Pomelo Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Pomelo"
+        }
+      }
+    ],
+    "ID": "Pomelo Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "winter"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Pomelo Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Ume Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Ume"
+        }
+      }
+    ],
+    "ID": "Ume Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Ume Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Vanilla Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Vanilla"
+        }
+      }
+    ],
+    "ID": "Vanilla Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Vanilla Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Walnut Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Walnut"
+        }
+      }
+    ],
+    "ID": "Walnut Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Walnut"
+  },
+  {
+    "Texture": "assets/fruit-trees/Ylang Ylang Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Ylang Ylang"
+        }
+      }
+    ],
+    "ID": "Ylang Ylang Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "summer"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Ylang Ylang Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Yuzu Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Yuzu"
+        }
+      }
+    ],
+    "ID": "Yuzu Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "winter"
+        },
+        "CanGrowNow": true
+      }
+    ],
+    "JsonAssetsName": "Yuzu Tree"
+  },
+  {
+    "Texture": "assets/fruit-trees/Pistachio Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Pistachio"
+        }
+      }
+    ],
+    "ID": "Pistachio Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      }
+    ],
+  },
+  {
+    "Texture": "assets/fruit-trees/Bitter Orange Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Bitter Orange"
+        }
+      }
+    ],
+    "ID": "Bitter Orange Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "fall"
+        },
+        "CanGrowNow": true
+      }
+    ],
+  },
+  {
+    "Texture": "assets/fruit-trees/Jackfruit Tree Tree.png",
+    "Product": [
+      {
+        "Weight": 1.0,
+        "Value": {
+          "Value": "ppja.moretrees.DGA/Jackfruit"
+        }
+      }
+    ],
+    "ID": "Jackfruit Tree Tree",
+    "DynamicFields": [
+      {
+        "Conditions": {
+          "Season": "spring"
+        },
+        "CanGrowNow": true
+      }
+    ],
+  }
+]

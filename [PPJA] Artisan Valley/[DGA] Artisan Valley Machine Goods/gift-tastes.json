@@ -1,0 +1,1060 @@
+[
+
+    // Alcohol
+
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Cauim, ppja.artisanvalleymachinegoods.DGA/Absinthe, ppja.artisanvalleymachinegoods.DGA/Amaretto, ppja.artisanvalleymachinegoods.DGA/Apple Schnapps, ppja.artisanvalleymachinegoods.DGA/Bitter, ppja.artisanvalleymachinegoods.DGA/Bourbon, ppja.artisanvalleymachinegoods.DGA/Brandy, ppja.artisanvalleymachinegoods.DGA/Champagne, ppja.artisanvalleymachinegoods.DGA/Dark Ale, ppja.artisanvalleymachinegoods.DGA/Gin, ppja.artisanvalleymachinegoods.DGA/Hard Apple Cider, ppja.artisanvalleymachinegoods.DGA/Mezcal, ppja.artisanvalleymachinegoods.DGA/Mint Schnapps, ppja.artisanvalleymachinegoods.DGA/Moonshine, ppja.artisanvalleymachinegoods.DGA/Peach Schnapps, ppja.artisanvalleymachinegoods.DGA/Perry, ppja.artisanvalleymachinegoods.DGA/Porter, ppja.artisanvalleymachinegoods.DGA/Pulque, ppja.artisanvalleymachinegoods.DGA/Rum, ppja.artisanvalleymachinegoods.DGA/Sake, ppja.artisanvalleymachinegoods.DGA/Schnapps, ppja.artisanvalleymachinegoods.DGA/Scotch, ppja.artisanvalleymachinegoods.DGA/Shochu, ppja.artisanvalleymachinegoods.DGA/Sparkling Wine, ppja.artisanvalleymachinegoods.DGA/Stout, ppja.artisanvalleymachinegoods.DGA/Tequila, ppja.artisanvalleymachinegoods.DGA/Umeshu, ppja.artisanvalleymachinegoods.DGA/Vermouth, ppja.artisanvalleymachinegoods.DGA/Vodka, ppja.artisanvalleymachinegoods.DGA/Whiskey",
+        "NPC": "Pam, Shane",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Caumin, ppja.artisanvalleymachinegoods.DGA/Absinthe, ppja.artisanvalleymachinegoods.DGA/Amaretto, ppja.artisanvalleymachinegoods.DGA/Apple Schnapps, ppja.artisanvalleymachinegoods.DGA/Bitter, ppja.artisanvalleymachinegoods.DGA/Bourbon, ppja.artisanvalleymachinegoods.DGA/Brandy, ppja.artisanvalleymachinegoods.DGA/Champagne, ppja.artisanvalleymachinegoods.DGA/Dark Ale, ppja.artisanvalleymachinegoods.DGA/Gin, ppja.artisanvalleymachinegoods.DGA/Hard Apple Cider, ppja.artisanvalleymachinegoods.DGA/Mezcal, ppja.artisanvalleymachinegoods.DGA/Mint Schnapps, ppja.artisanvalleymachinegoods.DGA/Moonshine, ppja.artisanvalleymachinegoods.DGA/Peach Schnapps, ppja.artisanvalleymachinegoods.DGA/Perry, ppja.artisanvalleymachinegoods.DGA/Porter, ppja.artisanvalleymachinegoods.DGA/Pulque, ppja.artisanvalleymachinegoods.DGA/Rum, ppja.artisanvalleymachinegoods.DGA/Sake, ppja.artisanvalleymachinegoods.DGA/Schnapps, ppja.artisanvalleymachinegoods.DGA/Scotch, ppja.artisanvalleymachinegoods.DGA/Shochu, ppja.artisanvalleymachinegoods.DGA/Sparkling Wine, ppja.artisanvalleymachinegoods.DGA/Stout, ppja.artisanvalleymachinegoods.DGA/Tequila, ppja.artisanvalleymachinegoods.DGA/Umeshu, ppja.artisanvalleymachinegoods.DGA/Vermouth, ppja.artisanvalleymachinegoods.DGA/Vodka, ppja.artisanvalleymachinegoods.DGA/Whiskey",
+        "NPC": "Gus",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Caumin, ppja.artisanvalleymachinegoods.DGA/Absinthe, ppja.artisanvalleymachinegoods.DGA/Amaretto, ppja.artisanvalleymachinegoods.DGA/Apple Schnapps, ppja.artisanvalleymachinegoods.DGA/Bitter, ppja.artisanvalleymachinegoods.DGA/Bourbon, ppja.artisanvalleymachinegoods.DGA/Brandy, ppja.artisanvalleymachinegoods.DGA/Champagne, ppja.artisanvalleymachinegoods.DGA/Dark Ale, ppja.artisanvalleymachinegoods.DGA/Gin, ppja.artisanvalleymachinegoods.DGA/Hard Apple Cider, ppja.artisanvalleymachinegoods.DGA/Mezcal, ppja.artisanvalleymachinegoods.DGA/Mint Schnapps, ppja.artisanvalleymachinegoods.DGA/Moonshine, ppja.artisanvalleymachinegoods.DGA/Peach Schnapps, ppja.artisanvalleymachinegoods.DGA/Perry, ppja.artisanvalleymachinegoods.DGA/Porter, ppja.artisanvalleymachinegoods.DGA/Pulque, ppja.artisanvalleymachinegoods.DGA/Rum, ppja.artisanvalleymachinegoods.DGA/Sake, ppja.artisanvalleymachinegoods.DGA/Schnapps, ppja.artisanvalleymachinegoods.DGA/Scotch, ppja.artisanvalleymachinegoods.DGA/Shochu, ppja.artisanvalleymachinegoods.DGA/Sparkling Wine, ppja.artisanvalleymachinegoods.DGA/Stout, ppja.artisanvalleymachinegoods.DGA/Tequila, ppja.artisanvalleymachinegoods.DGA/Umeshu, ppja.artisanvalleymachinegoods.DGA/Vermouth, ppja.artisanvalleymachinegoods.DGA/Vodka, ppja.artisanvalleymachinegoods.DGA/Whiskey",
+        "NPC": "Penny",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Caumin, ppja.artisanvalleymachinegoods.DGA/Campari, ppja.artisanvalleymachinegoods.DGA/Cointreau, ppja.artisanvalleymachinegoods.DGA/Creme de Cacao, ppja.artisanvalleymachinegoods.DGA/Framboise Lambic, ppja.artisanvalleymachinegoods.DGA/Frangelico, ppja.artisanvalleymachinegoods.DGA/Absinthe, ppja.artisanvalleymachinegoods.DGA/Amaretto, ppja.artisanvalleymachinegoods.DGA/Apple Schnapps, ppja.artisanvalleymachinegoods.DGA/Bitter, ppja.artisanvalleymachinegoods.DGA/Bourbon, ppja.artisanvalleymachinegoods.DGA/Brandy, ppja.artisanvalleymachinegoods.DGA/Champagne, ppja.artisanvalleymachinegoods.DGA/Dark Ale, ppja.artisanvalleymachinegoods.DGA/Gin, ppja.artisanvalleymachinegoods.DGA/Hard Apple Cider, ppja.artisanvalleymachinegoods.DGA/Mezcal, ppja.artisanvalleymachinegoods.DGA/Mint Schnapps, ppja.artisanvalleymachinegoods.DGA/Moonshine, ppja.artisanvalleymachinegoods.DGA/Peach Schnapps, ppja.artisanvalleymachinegoods.DGA/Perry, ppja.artisanvalleymachinegoods.DGA/Porter, ppja.artisanvalleymachinegoods.DGA/Pulque, ppja.artisanvalleymachinegoods.DGA/Rum, ppja.artisanvalleymachinegoods.DGA/Sake, ppja.artisanvalleymachinegoods.DGA/Schnapps, ppja.artisanvalleymachinegoods.DGA/Scotch, ppja.artisanvalleymachinegoods.DGA/Shochu, ppja.artisanvalleymachinegoods.DGA/Sparkling Wine, ppja.artisanvalleymachinegoods.DGA/Stout, ppja.artisanvalleymachinegoods.DGA/Tequila, ppja.artisanvalleymachinegoods.DGA/Umeshu, ppja.artisanvalleymachinegoods.DGA/Vermouth, ppja.artisanvalleymachinegoods.DGA/Vodka, ppja.artisanvalleymachinegoods.DGA/Whiskey",
+        "NPC": "Jas, Vincent, ParrotBoy",
+        "Amount": -40,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Campari, ppja.artisanvalleymachinegoods.DGA/Cointreau, ppja.artisanvalleymachinegoods.DGA/Creme de Cacao",
+        "NPC": "Pam, Shane, Gus",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Campari, ppja.artisanvalleymachinegoods.DGA/Cointreau, ppja.artisanvalleymachinegoods.DGA/Creme de Cacao",
+        "NPC": "Caroline, Elliott, Jodi, Leah, Lewis, Pierre, Robin",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Campari, ppja.artisanvalleymachinegoods.DGA/Chambord, ppja.artisanvalleymachinegoods.DGA/Framboise Lambic, ppja.artisanvalleymachinegoods.DGA/Frangelico",
+        "NPC": "Haley, Penny",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Chambord, ppja.artisanvalleymachinegoods.DGA/Framboise Lambic",
+        "NPC": "Pam, Shane, Gus, Robin",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Chambord, ppja.artisanvalleymachinegoods.DGA/Framboise Lambic",
+        "NPC": "Caroline, Elliott, Jodi, Leah, Lewis, Pierre",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Frangelico",
+        "NPC": "Pam, Shane, Gus, Leah",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Frangelico",
+        "NPC": "Caroline, Jodi, Lewis, Pierre, Robin",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Sake",
+        "NPC": "Sebastian",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Whiskey",
+        "NPC": "Marnie",
+        "Amount": 20,
+    },
+
+    // Alcohol Edits
+
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Caumin, ppja.artisanvalleymachinegoods.DGA/Campari, ppja.artisanvalleymachinegoods.DGA/Cointreau, ppja.artisanvalleymachinegoods.DGA/Creme de Cacao, ppja.artisanvalleymachinegoods.DGA/Framboise Lambic, ppja.artisanvalleymachinegoods.DGA/Frangelico, ppja.artisanvalleymachinegoods.DGA/Absinthe, ppja.artisanvalleymachinegoods.DGA/Amaretto, ppja.artisanvalleymachinegoods.DGA/Apple Schnapps, ppja.artisanvalleymachinegoods.DGA/Bitter, ppja.artisanvalleymachinegoods.DGA/Bourbon, ppja.artisanvalleymachinegoods.DGA/Brandy, ppja.artisanvalleymachinegoods.DGA/Champagne, ppja.artisanvalleymachinegoods.DGA/Dark Ale, ppja.artisanvalleymachinegoods.DGA/Gin, ppja.artisanvalleymachinegoods.DGA/Hard Apple Cider, ppja.artisanvalleymachinegoods.DGA/Mezcal, ppja.artisanvalleymachinegoods.DGA/Mint Schnapps, ppja.artisanvalleymachinegoods.DGA/Moonshine, ppja.artisanvalleymachinegoods.DGA/Peach Schnapps, ppja.artisanvalleymachinegoods.DGA/Perry, ppja.artisanvalleymachinegoods.DGA/Porter, ppja.artisanvalleymachinegoods.DGA/Pulque, ppja.artisanvalleymachinegoods.DGA/Rum, ppja.artisanvalleymachinegoods.DGA/Sake, ppja.artisanvalleymachinegoods.DGA/Schnapps, ppja.artisanvalleymachinegoods.DGA/Scotch, ppja.artisanvalleymachinegoods.DGA/Shochu, ppja.artisanvalleymachinegoods.DGA/Sparkling Wine, ppja.artisanvalleymachinegoods.DGA/Stout, ppja.artisanvalleymachinegoods.DGA/Tequila, ppja.artisanvalleymachinegoods.DGA/Umeshu, ppja.artisanvalleymachinegoods.DGA/Vermouth, ppja.artisanvalleymachinegoods.DGA/Vodka, ppja.artisanvalleymachinegoods.DGA/Whiskey",
+        "NPC": "Pam",
+        "Amount": -20,
+        "EnableConditions":
+        {
+            "HasSeenEvent": "503180"
+        }
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Caumin, ppja.artisanvalleymachinegoods.DGA/Campari, ppja.artisanvalleymachinegoods.DGA/Cointreau, ppja.artisanvalleymachinegoods.DGA/Creme de Cacao, ppja.artisanvalleymachinegoods.DGA/Framboise Lambic, ppja.artisanvalleymachinegoods.DGA/Frangelico, ppja.artisanvalleymachinegoods.DGA/Absinthe, ppja.artisanvalleymachinegoods.DGA/Amaretto, ppja.artisanvalleymachinegoods.DGA/Apple Schnapps, ppja.artisanvalleymachinegoods.DGA/Bitter, ppja.artisanvalleymachinegoods.DGA/Bourbon, ppja.artisanvalleymachinegoods.DGA/Brandy, ppja.artisanvalleymachinegoods.DGA/Champagne, ppja.artisanvalleymachinegoods.DGA/Dark Ale, ppja.artisanvalleymachinegoods.DGA/Gin, ppja.artisanvalleymachinegoods.DGA/Hard Apple Cider, ppja.artisanvalleymachinegoods.DGA/Mezcal, ppja.artisanvalleymachinegoods.DGA/Mint Schnapps, ppja.artisanvalleymachinegoods.DGA/Moonshine, ppja.artisanvalleymachinegoods.DGA/Peach Schnapps, ppja.artisanvalleymachinegoods.DGA/Perry, ppja.artisanvalleymachinegoods.DGA/Porter, ppja.artisanvalleymachinegoods.DGA/Pulque, ppja.artisanvalleymachinegoods.DGA/Rum, ppja.artisanvalleymachinegoods.DGA/Sake, ppja.artisanvalleymachinegoods.DGA/Schnapps, ppja.artisanvalleymachinegoods.DGA/Scotch, ppja.artisanvalleymachinegoods.DGA/Shochu, ppja.artisanvalleymachinegoods.DGA/Sparkling Wine, ppja.artisanvalleymachinegoods.DGA/Stout, ppja.artisanvalleymachinegoods.DGA/Tequila, ppja.artisanvalleymachinegoods.DGA/Umeshu, ppja.artisanvalleymachinegoods.DGA/Vermouth, ppja.artisanvalleymachinegoods.DGA/Vodka, ppja.artisanvalleymachinegoods.DGA/Whiskey",
+        "NPC": "Shane",
+        "Amount": -20,
+        "EnableConditions":
+        {
+            "HasSeenEvent": "611944"
+        }
+    },
+
+
+    // Everything Else
+
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Saffron, ppja.artisanvalleymachinegoods.DGA/Almond Butter, ppja.artisanvalleymachinegoods.DGA/Lemon Kombucha, ppja.artisanvalleymachinegoods.DGA/White Kombucha, ppja.artisanvalleymachinegoods.DGA/Spiced Kombucha, ppja.artisanvalleymachinegoods.DGA/Wine Yeast, ppja.artisanvalleymachinegoods.DGA/Yeast",
+        "NPC": "Jas, Vincent, ParrotBoy",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Amarena Ice Cream, ppja.artisanvalleymachinegoods.DGA/Banana Ice Cream, ppja.artisanvalleymachinegoods.DGA/Blue Angel Ice Cream, ppja.artisanvalleymachinegoods.DGA/Cherry Ice Cream, ppja.artisanvalleymachinegoods.DGA/Cherry Yogurt Ice Cream, ppja.artisanvalleymachinegoods.DGA/Lemon Ice Cream, ppja.artisanvalleymachinegoods.DGA/Lime Ice Cream, ppja.artisanvalleymachinegoods.DGA/Mango Ice Cream, ppja.artisanvalleymachinegoods.DGA/Pistachio Ice Cream, ppja.artisanvalleymachinegoods.DGA/Vanilla Ice Cream",
+        "NPC": "Haley, Demetrius",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Amarena Ice Cream, ppja.artisanvalleymachinegoods.DGA/Banana Ice Cream, ppja.artisanvalleymachinegoods.DGA/Blue Angel Ice Cream, ppja.artisanvalleymachinegoods.DGA/Cherry Ice Cream, ppja.artisanvalleymachinegoods.DGA/Cherry Yogurt Ice Cream, ppja.artisanvalleymachinegoods.DGA/Lemon Ice Cream, ppja.artisanvalleymachinegoods.DGA/Lime Ice Cream, ppja.artisanvalleymachinegoods.DGA/Mango Ice Cream, ppja.artisanvalleymachinegoods.DGA/Pistachio Ice Cream, ppja.artisanvalleymachinegoods.DGA/Vanilla Ice Cream",
+        "NPC": "Emily, Leah, Krobus, Sebastian, Willy",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Apple Rind",
+        "NPC": "Marnie",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Avocado Mayonnaise",
+        "NPC": "Abigail, Alex, Emily, Leah, Sam",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Barley Kombucha, ppja.artisanvalleymachinegoods.DGA/Miso Paste",
+        "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Berry Fusion Kombucha",
+        "NPC": "Demetrius, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Sebastian, Shane",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Berry Fusion Kombucha",
+        "NPC": "Caroline, Elliott, Evelyn",
+        "Amount": -40,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Black Kombucha",
+        "NPC": "Harvey, Leah, Sebastian",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Black Kombucha",
+        "NPC": "Jas, Vincent, ParrotBoy",
+        "Amount": -40,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Black Pepper Mayonnaise",
+        "NPC": "Caroline",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Black Pepper Mayonnaise",
+        "NPC": "Jas, Vincent, Sam, Sebastian, ParrotBoy",
+        "Amount": -40,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Blue Mist Kombucha",
+        "NPC": "Caroline",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Blue Mist Kombucha",
+        "NPC": "Clint, George",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Breakfast Kombucha",
+        "NPC": "Harvey, Sebastian",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Blueberry Fruit Sorbet, ppja.artisanvalleymachinegoods.DGA/Mango Fruit Sorbet, ppja.artisanvalleymachinegoods.DGA/Mango Passion Fruit Fruit Sorbet, ppja.artisanvalleymachinegoods.DGA/Orange Fruit Sorbet, ppja.artisanvalleymachinegoods.DGA/Salmonberry Fruit Sorbet",
+        "NPC": "Jas, Vincent",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Blueberry Fruit Sorbet",
+        "NPC": "Demetrius, Elliott, Haley, Harvey, Jodi, Kent, Leah, Lewis, Linus, Pam, Robin, Sandy, Shane",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Blueberry Fruit Sorbet",
+        "NPC": "Abigail",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Buckwheat Noodles",
+        "NPC": "Jas, Krobus, Vincent, Willy, ParrotBoy",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Butter, ppja.artisanvalleymachinegoods.DGA/Pizokel, ppja.artisanvalleymachinegoods.DGA/Saffron",
+        "NPC": "Gus",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Butter",
+        "NPC": "Jas, Kent, Vincent, Sebastian, ParrotBoy",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Candle",
+        "NPC": "Emily, Sandy",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Candle",
+        "NPC": "Evelyn, Caroline, Jodi, Linus, Penny",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Carolina Reaper Extract, ppja.artisanvalleymachinegoods.DGA/Serrano Extract, ppja.artisanvalleymachinegoods.DGA/Scotch Bonnet Extract",
+        "NPC": "Krobus, Shane",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Carolina Reaper Extract, ppja.artisanvalleymachinegoods.DGA/Wasabi Mayonnaise, ppja.artisanvalleymachinegoods.DGA/Wasabi Paste",
+        "NPC": "Haley, Jas, Vincent, ParrotBoy",
+        "Amount": -40,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Cashew Butter",
+        "NPC": "Alex, Leah",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Chai Kombucha",
+        "NPC": "George, Sebastian, Wizard",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Chamomile Kombucha",
+        "NPC": "Evelyn, Harvey",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Chamomile Kombucha",
+        "NPC": "Jas, Vincent, Willy, ParrotBoy",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Cookie Butter, ppja.artisanvalleymachinegoods.DGA/Fruit Juice",
+        "NPC": "Krobus, Willy",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Cranberry Pomegranate Kombucha, ppja.artisanvalleymachinegoods.DGA/Jasmine Kombucha, ppja.artisanvalleymachinegoods.DGA/Kombucha, ppja.artisanvalleymachinegoods.DGA/Mint Kombucha, ppja.artisanvalleymachinegoods.DGA/Morel Kombucha, ppja.artisanvalleymachinegoods.DGA/Oolong Kombucha, ppja.artisanvalleymachinegoods.DGA/Spiced Kombucha, ppja.artisanvalleymachinegoods.DGA/White Kombucha",
+        "NPC": "Sebastian",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Chewing Gum",
+        "NPC": "Vincent",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Chewing Gum",
+        "NPC": "Jas",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Chanterelle Kombucha",
+        "NPC": "Krobus, Sebastian",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Chanterelle Kombucha",
+        "NPC": "Harvey, Leah, Linus",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Chanterelle Kombucha",
+        "NPC": "Abigail, Caroline, Dwarf, Elliott, Haley, Jas, Jodi, Pierre, Sam, Shane, Vincent, Willy, Wizard",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Chocolate Ice Cream",
+        "NPC": "Vincent, Jas, Haley, Demetrius",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Chocolate Ice Cream",
+        "NPC": "Emily, Leah, Krobus, Willy",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Earl Grey Kombucha, ppja.artisanvalleymachinegoods.DGA/Green Kombucha",
+        "NPC": "Sebastian, Harvey",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Kumis",
+        "NPC": "Sandy",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Kumis",
+        "NPC": "George",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Kumis",
+        "NPC": "Jas, Kent, Sebastian, Vincent",
+        "Amount": -40,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Lassi, ppja.artisanvalleymachinegoods.DGA/Natto",
+        "NPC": "George",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Natto",
+        "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Peanut Oil",
+        "NPC": "Gus",
+        "Amount": 20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Pecan Butter",
+        "NPC": "Leah",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Pizokel",
+        "NPC": "Pam",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Potpourri",
+        "NPC": "Emily, Harvey",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Raisins",
+        "NPC": "Abigail, Haley, Jas, Penny",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Slime Butter",
+        "NPC": "Krobus",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Smoked Salmon, ppja.artisanvalleymachinegoods.DGA/Smoked River Fish, ppja.artisanvalleymachinegoods.DGA/Smoked Lake Fish, ppja.artisanvalleymachinegoods.DGA/Smoked Ocean Fish",
+        "NPC": "Willy, Linus",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Smoked Salmon",
+        "NPC": "Evelyn, Haley, Pierre",
+        "Amount": -40,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Smooth Butter",
+        "NPC": "Harvey, Kent, Leah, Linus, Vincent",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Smooth Butter",
+        "NPC": "Krobus, Willy",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Soynut Butter",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": -20,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Walnut Butter",
+        "NPC": "Marnie",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Thread, ppja.artisanvalleymachinegoods.DGA/Twine, ppja.artisanvalleymachinegoods.DGA/Yarn",
+        "NPC": "Emily, Evelyn",
+        "Amount": 80,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Thread, ppja.artisanvalleymachinegoods.DGA/Twine, ppja.artisanvalleymachinegoods.DGA/Yarn",
+        "NPC": "Leah",
+        "Amount": 45,
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Jasmine Kombucha, ppja.artisanvalleymachinegoods.DGA/Kombucha, ppja.artisanvalleymachinegoods.DGA/Morel Kombucha",
+        "NPC": "Abigail, Haley, Jas, Krobus, Vincent",
+        "Amount": -20,
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Coconut Butter",
+        "NPC": "Haley, Linus",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Coconut Butter",
+        "NPC": "Demetrius, Elliott, Harvey, Jas, Jodi, Kent, Leah, Lewis, Pam, Robin, Sandy, Shane, Vincent",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Coconut Butter",
+        "NPC": "Abigail, Dwarf",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Coconut Oil",
+        "NPC": "Haley, Linus",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Coconut Oil",
+        "NPC": "Demetrius, Elliott, Harvey, Jas, Jodi, Kent, Leah, Lewis, Pam, Robin, Sandy, Shane, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Coconut Oil",
+        "NPC": "Abigail, Dwarf",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Dandelion Kombucha",
+        "NPC": "Caroline, Dwarf, Elliott, Haley, Jas, Krobus, Sam, Shane, Vincent, Willy, Wizard",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Dandelion Kombucha",
+        "NPC": "George, Jodi",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Dragon Fruit Fruit Sorbet",
+        "NPC": "Pam, Sam, Jas, Vincent",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Dragon Fruit Fruit Sorbet",
+        "NPC": "Elliott, Haley, Harvey, Jodi, Kent, Leah, Lewis, Linus, Robin, Sandy, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Dragon Fruit Fruit Sorbet",
+        "NPC": "Abigail",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Dried Flower",
+        "NPC": "Jas, Krobus, Vincent, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Dried Fruit",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Dried Herb",
+        "NPC": "Abigail, Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Dried Tea Leaves",
+        "NPC": "Caroline",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Essential Oil",
+        "NPC": "Emily, Harvey",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Essential Oil",
+        "NPC": "Abigail, Caroline, Demetrius, Elliott, Evelyn, Haley, Leah, Linus, Marnie, Sandy",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Fruit Yogurt",
+        "NPC": "Kent, Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Garlic Mayonnaise",
+        "NPC": "Abigail, Haley, Jas, Jodi, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Garlic Mayonnaise",
+        "NPC": "Evelyn, Pierre",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Ghost Pepper Extract",
+        "NPC": "Krobus, Shane",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Ghost Pepper Extract",
+        "NPC": "Abigail, Kent, Sam, Sandy",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Ghost Pepper Extract",
+        "NPC": "Caroline, Elliott, Haley, Harvey, Jodi, Lewis",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Ghost Pepper Extract",
+        "NPC": "Evelyn, Jas, Pierre, Vincent, ParrotBoy",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Goat Butter",
+        "NPC": "Gus",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Goat Butter",
+        "NPC": "Jas, Kent, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Goat Butter",
+        "NPC": "Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Goat Yogurt",
+        "NPC": "Jas, Kent, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Goat Yogurt",
+        "NPC": "Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Gold Thread",
+        "NPC": "Emily, Evelyn, Clint, Maru, Krobus, Willy",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Gold Thread",
+        "NPC": "Sam",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Green Kombucha",
+        "NPC": "Abigail, Elliott, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Habanero Extract",
+        "NPC": "Krobus, Shane",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Habanero Extract",
+        "NPC": "Abigail, Kent, Sam, Sandy",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Habanero Extract",
+        "NPC": "Caroline, Elliott, Haley, Harvey, Jodi, Lewis",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Habanero Extract",
+        "NPC": "Evelyn, Jas, Pierre, Vincent, ParrotBoy",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Handbattered Ebi Tempura",
+        "NPC": "Demetrius, Elliott, Linus, Pam, Sebastian, Willy",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Handbattered Ebi Tempura",
+        "NPC": "Evelyn, Haley, Pierre",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Handmade Soap",
+        "NPC": "Emily, Sandy",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Handmade Soap",
+        "NPC": "Evelyn, Caroline, Jodi, Linus, Penny, Marnie, Leah, Robin",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Hazelnut Butter",
+        "NPC": "Harvey, Leah, Linus, Jas, Vincent",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Hazelnut Butter",
+        "NPC": "Dwarf, Krobus, Sebastian, Willy, Wizard",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Hazelnut Ice Cream",
+        "NPC": "Haley, Demetrius",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Hazelnut Ice Cream",
+        "NPC": "Emily, Leah, Krobus, Sebastian, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Honey Lavender Ice Cream",
+        "NPC": "Jas, Vincent",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Honey Lavender Ice Cream",
+        "NPC": "Demetrius, Elliott, Haley, Harvey, Jodi, Kent, Leah, Lewis, Linus, Pam, Robin, Sandy, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Honey Lavender Ice Cream",
+        "NPC": "Abigail",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Hot Sauce",
+        "NPC": "Lewis, Shane",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Hot Sauce",
+        "NPC": "Abigail, Haley, Jas, Vincent, ParrotBoy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Jalapeno Extract",
+        "NPC": "Krobus, Shane",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Jalapeno Extract",
+        "NPC": "Abigail, George, Gus, Kent, Sam, Sandy, Sebastian",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Jalapeno Extract",
+        "NPC": "Caroline, Elliott, Haley, Harvey, Jodi, Lewis",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Jalapeno Extract",
+        "NPC": "Evelyn, Jas, Pierre, Vincent, ParrotBoy",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Kefir",
+        "NPC": "George",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Kefir",
+        "NPC": "Jas, Kent, Sebastian, Vincent",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Lassi",
+        "NPC": "Jas, Kent, Sebastian, Vincent",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Lemon Kombucha",
+        "NPC": "Gus, Sebastian",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Lemon Kombucha",
+        "NPC": "Abigail, Haley",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Lucky Purple Mayonnaise",
+        "NPC": "Marnie",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Lucky Purple Mayonnaise",
+        "NPC": "Lewis",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Mango Fruit Sorbet",
+        "NPC": "Demetrius, Elliott, Haley, Harvey, Jodi, Kent, Leah, Lewis, Linus, Pam, Robin, Sandy, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Mango Fruit Sorbet",
+        "NPC": "Abigail",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Mango Passion Fruit Fruit Sorbet",
+        "NPC": "Demetrius, Elliott, Haley, Harvey, Jodi, Kent, Leah, Lewis, Linus, Pam, Robin, Sandy, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Mango Passion Fruit Fruit Sorbet",
+        "NPC": "Abigail",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Matcha Ice Cream",
+        "NPC": "Demetrius",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Matcha Ice Cream",
+        "NPC": "Emily, Leah, Krobus, Sebastian, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Matcha Ice Cream",
+        "NPC": "Jas, Vincent",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Mint Chip Ice Cream",
+        "NPC": "Vincent, Jas, Haley, Demetrius",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Mint Chip Ice Cream",
+        "NPC": "Emily, Leah, Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Mint Kombucha",
+        "NPC": "Abigail, Haley",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Mint Kombucha",
+        "NPC": "Jas, Krobus, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Neapolitan Ice Cream",
+        "NPC": "Vincent, Jas, Haley, Demetrius",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Neapolitan Ice Cream",
+        "NPC": "Emily, Leah, Krobus, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Olive Oil",
+        "NPC": "Jas, Vincent, Pam, Krobus, Willy",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Olive Oil Mayonnaise",
+        "NPC": "Caroline",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Olive Oil Mayonnaise",
+        "NPC": "Jas, Sam, Sebastian, Vincent",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Oolong Kombucha",
+        "NPC": "Abigail, Haley",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Oolong Kombucha",
+        "NPC": "Jas, Krobus, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Orange Sherbet",
+        "NPC": "Vincent, Jas, Haley, Demetrius, Gus",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Orange Sherbet",
+        "NPC": "Emily, Leah, Sebastian, Willy",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Orange Sherbet",
+        "NPC": "Krobus",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Oyster Sauce",
+        "NPC": "Abigail, Krobus, Willy",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Oyster Sauce",
+        "NPC": "Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Pineapple Fruit Sorbet",
+        "NPC": "Haley, Vincent, Jas",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Pineapple Fruit Sorbet",
+        "NPC": "Abigail, Dwarf",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Poblano Extract",
+        "NPC": "Abigail, Kent, Krobus, Sam, Sandy, Shane, Sebastian",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Poblano Extract",
+        "NPC": "Caroline, Elliott, Haley, Harvey, Jodi, Lewis",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Poblano Extract",
+        "NPC": "Evelyn, Jas, Pierre, Vincent, ParrotBoy",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Prismatic Ice Cream",
+        "NPC": "Emily, Leah, Krobus, Sebastian, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Prismatic Ice Cream",
+        "NPC": "Haley",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Purple Kombucha",
+        "NPC": "Wizard, Demetrius, Harvey, Leah, Linus, Sebastian",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Purple Kombucha",
+        "NPC": "Caroline, Dwarf, Elliott, Haley, Jodi, Krobus, Penny, Pierre, Sam, Shane, Willy",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Purple Kombucha",
+        "NPC": "Jas, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Raspberry Dragon Fruit Fruit Sorbet",
+        "NPC": "Pam, Sam, Jas, Vincent",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Raspberry Dragon Fruit Fruit Sorbet",
+        "NPC": "Elliott, Haley, Harvey, Jodi, Kent, Leah, Lewis, Linus, Robin, Sandy, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Raspberry Dragon Fruit Fruit Sorbet",
+        "NPC": "Abigail",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Raspberry Fruit Sorbet",
+        "NPC": "Jas, Vincent, Haley",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Raspberry Fruit Sorbet",
+        "NPC": "Demetrius, Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Raspberry Fruit Sorbet",
+        "NPC": "Abigail",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Rose Kombucha",
+        "NPC": "Penny, Krobus, Wizard, Linus, Emily",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Rose Kombucha",
+        "NPC": "Marnie, Jodi, Leah, Sandy, Sam, Evelyn",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Rose Kombucha",
+        "NPC": "Sebastian, Abigail, Caroline, Maru, Demetrius",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Rose Kombucha",
+        "NPC": "Haley, Pam, Dwarf, George, Alex, Harvey",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Salmonberry Fruit Sorbet",
+        "NPC": "Demetrius, Haley, Jodi, Kent, Leah, Pam, Robin, Sandy, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Salmonberry Fruit Sorbet",
+        "NPC": "Caroline, Elliott, Evelyn, Harvey",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Scotch Bonnet Extract",
+        "NPC": "Abigail, Kent, Sam, Sandy",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Scotch Bonnet Extract",
+        "NPC": "Caroline, Elliott, Haley, Harvey, Jodi, Lewis",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Scotch Bonnet Extract",
+        "NPC": "Evelyn, Jas, Pierre, Vincent, ParrotBoy",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Serrano Extract",
+        "NPC": "Abigail, George, Kent, Sam, Sandy",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Serrano Extract",
+        "NPC": "Caroline, Elliott, Haley, Harvey, Jodi, Lewis",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Serrano Extract",
+        "NPC": "Evelyn, Jas, Pierre, Vincent, ParrotBoy",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Strawberry Dragon Fruit Fruit Sorbet",
+        "NPC": "Jas, Vincent, Demetrius, Maru",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Strawberry Dragon Fruit Fruit Sorbet",
+        "NPC": "Elliott, Haley, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Strawberry Fruit Sorbet",
+        "NPC": "Jas, Vincent, Demetrius, Maru",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Strawberry Fruit Sorbet",
+        "NPC": "Elliott, Haley, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Strawberry Grapefruit Kombucha",
+        "NPC": "Sebastian, Demetrius, Robin, Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Sandy, Shane",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Strawberry Grapefruit Kombucha",
+        "NPC": "Abigail, Haley, Jas, Vincent",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Strawberry Ice Cream",
+        "NPC": "Vincent, Jas, Haley, Demetrius",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Strawberry Ice Cream",
+        "NPC": "Emily, Leah, Krobus, Sebastian, Willy",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Sunflower Butter",
+        "NPC": "Haley",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Sunflower Butter",
+        "NPC": "Gus",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Sunflower Butter",
+        "NPC": "Clint, George, Sebastian",
+        "Amount": -40
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Sweet Sour Sauce",
+        "NPC": "Abigail, Krobus, Willy",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Sweet Sour Sauce",
+        "NPC": "Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Teriyaki Sauce",
+        "NPC": "Abigail, Krobus, Willy",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Teriyaki Sauce",
+        "NPC": "Haley, Jas, Sam, Vincent",
+        "Amount": -20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Thunder Mayonnaise",
+        "NPC": "Krobus, Dwarf, Wizard, Abigail",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Wasabi Mayonnaise",
+        "NPC": "Krobus",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Wasabi Mayonnaise",
+        "NPC": "Harvey, Leah, Linus, Shane",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Wasabi Mayonnaise",
+        "NPC": "Demetrius, Emily, Jodi, Kent, Maru, Penny, Sandy",
+        "Amount": 20
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Wasabi Paste",
+        "NPC": "Krobus",
+        "Amount": 80
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Wasabi Paste",
+        "NPC": "Harvey, Leah, Linus, Shane, Sebastian",
+        "Amount": 45
+    },
+    {
+        "ObjectId": "ppja.artisanvalleymachinegoods.DGA/Wasabi Paste",
+        "NPC": "Demetrius, Emily, Jodi, Kent, Maru, Penny, Sandy",
+        "Amount": 20
+    },
+    {
+        "ObjectID": "ppja.artisanvalleymachinegoods.DGA/Saffron",
+        "NPC": "Clint",
+        "Amount": 80,
+    },
+]

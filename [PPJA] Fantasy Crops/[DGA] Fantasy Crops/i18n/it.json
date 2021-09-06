@@ -1,0 +1,16 @@
+{
+  "object.Doubloon.name": "Doubloon",
+  "object.Doubloon.description": "Una moneta con un solo scopo: essere venduta.",
+  "object.Coal Seeds.name": "Semi di carbone",
+  "object.Coal Seeds.description": "Piantali in primavera o in estate. Ci vogliono 8 giorni per maturare.",
+  "object.Copper Seeds.name": "Semi di rame",
+  "object.Copper Seeds.description": "Piantali in primavera. Ci vogliono 10 giorni per maturare.",
+  "object.Gold Seeds.name": "Semi d'oro",
+  "object.Gold Seeds.description": "Piantali in autunno. Ci vogliono 20 giorni per maturare.",
+  "object.Iridium Seeds.name": "Semi Di Iridio",
+  "object.Iridium Seeds.description": "Piantali in inverno. Ci vogliono 24 giorni per maturare.",
+  "object.Iron Seeds.name": "Semi di ferro",
+  "object.Iron Seeds.description": "Piantali in estate. Ci vogliono 15 giorni per maturare.",
+  "object.Doubloon Seeds.name": "Semi di doubloon",
+  "object.Doubloon Seeds.description": "Piantali in autunno. Richiede 10 giorni per maturare e continua a produrre dopo il primo raccolto."
+}
