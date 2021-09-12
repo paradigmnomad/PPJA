@@ -5,10 +5,10 @@
 		"Title": "icedchristmastreerecipe.title",
 		"Text": "icedchristmastree.text",
 		"Recipe": "Iced Christmas Tree",
-		"WhichBG": 2,
 		"Date": "1 winter Y1",
 		"Seasons": ["winter"],
 		"Repeatable": false,
+		"LetterBG": "christmassweetsletterbg.png",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 4 }
@@ -21,10 +21,10 @@
 		"Title": "icedecoratedchristmastree.title",
 		"Text": "iceddecoratedchristmastree.text",
 		"Recipe": "Iced Decorated Christmas Tree",
-		"WhichBG": 2,
 		"Date": "1 winter Y1",
 		"Seasons": ["winter"],
 		"Repeatable": false,
+		"LetterBG": "christmassweetsletterbg.png",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 4 }
@@ -37,10 +37,10 @@
 		"Title": "icedgreenchristmastree.title",
 		"Text": "icedgreenchristmastree.text",
 		"Recipe": "Iced Green Christmas Tree",
-		"WhichBG": 2,
 		"Date": "1 winter Y1",
 		"Seasons": ["winter"],
 		"Repeatable": false,
+		"LetterBG": "christmassweetsletterbg.png",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 4 }
@@ -53,10 +53,10 @@
 		"Title": "jamfilledcookie.title",
 		"Text": "jamfilledcookie.text",
 		"Recipe": "Jam-Filled Cookie",
-		"WhichBG": 2,
 		"Date": "1 winter Y1",
 		"Seasons": ["winter"],
 		"Repeatable": false,
+		"LetterBG": "christmassweetsletterbg.png",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 4 }
@@ -69,10 +69,10 @@
 		"Title": "mittencookie.title",
 		"Text": "mittencookie.text",
 		"Recipe": "Mitten Cookie",
-		"WhichBG": 2,
 		"Date": "1 winter Y1",
 		"Seasons": ["winter"],
 		"Repeatable": false,
+		"LetterBG": "christmassweetsletterbg.png",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 4 }
@@ -85,10 +85,10 @@
 		"Title": "pufferchickcookie.title",
 		"Text": "pufferchickcookie.text",
 		"Recipe": "Pufferchick Cookie",
-		"WhichBG": 2,
 		"Date": "1 winter Y1",
 		"Seasons": ["winter"],
 		"Repeatable": false,
+		"LetterBG": "christmassweetsletterbg.png",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 4 }
@@ -101,10 +101,10 @@
 		"Title": "snowmancookie.title",
 		"Text": "snowmancookie.text",
 		"Recipe": "Snowman Cookie",
-		"WhichBG": 2,
 		"Date": "1 winter Y1",
 		"Seasons": ["winter"],
 		"Repeatable": false,
+		"LetterBG": "christmassweetsletterbg.png",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 4 }
@@ -117,10 +117,10 @@
 		"Title": "holydecoratedcookie.title",
 		"Text": "hollydecoratedcookie.text",
 		"Recipe": "Holly Decorated Cookie",
-		"WhichBG": 2,
 		"Date": "1 winter Y1",
 		"Seasons": ["winter"],
 		"Repeatable": false,
+		"LetterBG": "christmassweetsletterbg.png",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 4 }
@@ -133,10 +133,10 @@
 		"Title": "snowmanscenerycookie.title",
 		"Text": "snowmanscenerycookie.text",
 		"Recipe": "Snowman Scenery Cookie",
-		"WhichBG": 2,
 		"Date": "1 winter Y1",
 		"Seasons": ["winter"],
 		"Repeatable": false,
+		"LetterBG": "christmassweetsletterbg.png",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 4 }
@@ -149,10 +149,10 @@
 		"Title": "stardropcookie.title",
 		"Text": "stardropcookie.text",
 		"Recipe": "Stardrop Cookie",
-		"WhichBG": 2,
 		"Date": "1 winter Y1",
 		"Seasons": ["winter"],
 		"Repeatable": false,
+		"LetterBG": "christmassweetsletterbg.png",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 4 }
@@ -165,10 +165,10 @@
 		"Title": "stockingcookie.title",
 		"Text": "stockingcookie.text",
 		"Recipe": "Stocking Cookie",
-		"WhichBG": 2,
 		"Date": "1 winter Y1",
 		"Seasons": ["winter"],
 		"Repeatable": false,
+		"LetterBG": "christmassweetsletterbg.png",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 4 }
@@ -181,10 +181,10 @@
 		"Title": "christmaschocolatecandiecookies.title",
 		"Text": "christmaschocolatecandiecookies.text",
 		"Recipe": "Christmas Chocolate Candie Cookies",
-		"WhichBG": 2,
 		"Date": "1 winter Y1",
 		"Seasons": ["winter"],
 		"Repeatable": false,
+		"LetterBG": "christmassweetsletterbg.png",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 4 }
