@@ -1,4 +1,6 @@
 {
   "object.Amethyst Cookie.name": "Аметистовое печенье",
-  "object.Amethyst Cookie.description": "Сверкающее печенье с уникальным хрустом."
+  "object.Amethyst Cookie.description": "Сверкающее печенье с уникальным хрустом.",
+  "crafting.Converted_Amethyst Cookie_Recipe.name": "Аметистовое печенье",
+  "crafting.Converted_Amethyst Cookie_Recipe.description": "Сверкающее печенье с уникальным хрустом."
 }
