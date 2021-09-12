@@ -19,7 +19,7 @@
         "Value": "PPJA.cannabiskit.DGA/Cannabis"
       }
     ],
-    "ID": "Converted_Honey Stick Recipe"
+    "ID": "Converted_Honey Stick_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -45,7 +45,7 @@
         "Quantity": 2
       }
     ],
-    "ID": "Converted_Joint Recipe"
+    "ID": "Converted_Joint_Recipe"
   },
   {
     "IsCooking": true,
@@ -76,7 +76,7 @@
         "Value": "PPJA.cannabiskit.DGA/Cannabis"
       }
     ],
-    "ID": "Converted_Pot Brownie Recipe"
+    "ID": "Converted_Pot Brownie_Recipe"
   },
   {
     "SkillUnlockLevel": -1,
@@ -102,6 +102,6 @@
         "Quantity": 5
       }
     ],
-    "ID": "Converted_Weed-Infused Skooma Recipe"
+    "ID": "Converted_Weed-Infused Skooma_Recipe"
   }
 ]

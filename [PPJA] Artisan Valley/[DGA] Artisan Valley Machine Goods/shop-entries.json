@@ -163,129 +163,143 @@
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Biscotti Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Biscotti_Recipe"
     },
     "Cost": 400,
     "EnableConditions":
     {
         "Query: {{Year}} >= 3": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Cake Pops Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Cake Pops_Recipe"
     },
     "Cost": 700,
     "EnableConditions":
     {
         "Relationship:Jas": "3"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Croissant Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Croissant_Recipe"
     },
     "Cost": 150,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "IslandMerchant",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Handbattered Ebi Tempura Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Handbattered Ebi Tempura_Recipe"
     },
     "Cost": 1775,
     "EnableConditions":
     {
         "Query: {{Year}} >= 3": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Hot Cocoa Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Hot Cocoa_Recipe"
     },
     "Cost": 300,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Hot Sauce Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Hot Sauce_Recipe"
     },
     "Cost": 860,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "FishShop",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Oyster Sauce Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Oyster Sauce_Recipe"
     },
     "Cost": 450,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Petit Fours Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Petit Fours_Recipe"
     },
     "Cost": 1500,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Pizokel Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Pizokel_Recipe"
     },
     "Cost": 2100,
     "EnableConditions":
     {
         "Query: {{Year}} >= 2": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Pound Cake Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Pound Cake_Recipe"
     },
     "Cost": 500,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Pumpkin Spice Scone Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Pumpkin Spice Scone_Recipe"
     },
     "Cost": 600,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Scone Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Scone_Recipe"
     },
     "Cost": 300,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "IslandMerchant",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Sweet Sour Sauce Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Sweet Sour Sauce_Recipe"
     },
     "Cost": 450,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "FishShop",
     "Item":
     {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Teriyaki Sauce Recipe"
+        "Value": "ppja.artisanvalleymachinegoods.DGA/Converted_Teriyaki Sauce_Recipe"
     },
     "Cost": 450,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "IceCreamStand",

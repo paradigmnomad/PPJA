@@ -30,7 +30,7 @@
         "Value": "-5"
       }
     ],
-    "ID": "Converted_Biscotti Recipe"
+    "ID": "Converted_Biscotti_Recipe"
   },
   {
     "IsCooking": true,
@@ -61,7 +61,7 @@
         "Value": "388"
       }
     ],
-    "ID": "Converted_Cake Pops Recipe"
+    "ID": "Converted_Cake Pops_Recipe"
   },
   {
     "IsCooking": true,
@@ -87,7 +87,7 @@
         "Value": "246"
       }
     ],
-    "ID": "Converted_Croissant Recipe"
+    "ID": "Converted_Croissant_Recipe"
   },
   {
     "IsCooking": true,
@@ -120,7 +120,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Soy Sauce"
       }
     ],
-    "ID": "Converted_Handbattered Ebi Tempura Recipe"
+    "ID": "Converted_Handbattered Ebi Tempura_Recipe"
   },
   {
     "IsCooking": true,
@@ -146,7 +146,7 @@
         "Value": "245"
       }
     ],
-    "ID": "Converted_Hot Cocoa Recipe"
+    "ID": "Converted_Hot Cocoa_Recipe"
   },
   {
     "IsCooking": true,
@@ -178,7 +178,7 @@
         "Quantity": 2
       }
     ],
-    "ID": "Converted_Hot Sauce Recipe"
+    "ID": "Converted_Hot Sauce_Recipe"
   },
   {
     "IsCooking": true,
@@ -204,7 +204,7 @@
         "Value": "245"
       }
     ],
-    "ID": "Converted_Oyster Sauce Recipe"
+    "ID": "Converted_Oyster Sauce_Recipe"
   },
   {
     "IsCooking": true,
@@ -232,7 +232,7 @@
         "Quantity": 2
       }
     ],
-    "ID": "Converted_Petit Fours Recipe"
+    "ID": "Converted_Petit Fours_Recipe"
   },
   {
     "IsCooking": true,
@@ -265,7 +265,7 @@
         "Value": "ppja.fruitsandveggies.DGA/Basil"
       }
     ],
-    "ID": "Converted_Pizokel Recipe"
+    "ID": "Converted_Pizokel_Recipe"
   },
   {
     "IsCooking": true,
@@ -292,7 +292,7 @@
         "Quantity": 2
       }
     ],
-    "ID": "Converted_Pound Cake Recipe"
+    "ID": "Converted_Pound Cake_Recipe"
   },
   {
     "IsCooking": true,
@@ -329,7 +329,7 @@
         "Value": "ppja.morerecipes.DGA/Nutmeg"
       }
     ],
-    "ID": "Converted_Pumpkin Spice Scone Recipe"
+    "ID": "Converted_Pumpkin Spice Scone_Recipe"
   },
   {
     "IsCooking": true,
@@ -356,7 +356,7 @@
         "Value": "246"
       }
     ],
-    "ID": "Converted_Scone Recipe"
+    "ID": "Converted_Scone_Recipe"
   },
   {
     "IsCooking": true,
@@ -390,7 +390,7 @@
         "Value": "245"
       }
     ],
-    "ID": "Converted_Sweet Sour Sauce Recipe"
+    "ID": "Converted_Sweet Sour Sauce_Recipe"
   },
   {
     "IsCooking": true,
@@ -420,7 +420,7 @@
         "Value": "248"
       }
     ],
-    "ID": "Converted_Teriyaki Sauce Recipe"
+    "ID": "Converted_Teriyaki Sauce_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -439,7 +439,7 @@
         "Value": "192"
       }
     ],
-    "ID": "Converted_Wine Yeast Recipe"
+    "ID": "Converted_Wine Yeast_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -457,7 +457,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Barley Malt"
       }
     ],
-    "ID": "Converted_Yeast Recipe"
+    "ID": "Converted_Yeast_Recipe"
   },
   {
     "SkillUnlockLevel": -1,
@@ -486,7 +486,7 @@
         "Quantity": 10
       }
     ],
-    "ID": "Converted_Alembic Recipe"
+    "ID": "Converted_Alembic_Recipe"
   },
   {
     "SkillUnlockLevel": -1,
@@ -509,7 +509,7 @@
         "Value": "726"
       }
     ],
-    "ID": "Converted_Butter Churn Recipe"
+    "ID": "Converted_Butter Churn_Recipe"
   },
   {
     "SkillUnlockName": "Foraging",
@@ -534,7 +534,7 @@
         "Quantity": 20
       }
     ],
-    "ID": "Converted_Dehydrator Recipe"
+    "ID": "Converted_Dehydrator_Recipe"
   },
   {
     "SkillUnlockName": "Foraging",
@@ -559,7 +559,7 @@
         "Quantity": 20
       }
     ],
-    "ID": "Converted_Drying Rack Recipe"
+    "ID": "Converted_Drying Rack_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -588,7 +588,7 @@
         "Value": "787"
       }
     ],
-    "ID": "Converted_Espresso Machine Recipe"
+    "ID": "Converted_Espresso Machine_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -617,7 +617,7 @@
         "Value": "787"
       }
     ],
-    "ID": "Converted_Extruder Recipe"
+    "ID": "Converted_Extruder_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -651,7 +651,7 @@
         "Value": "725"
       }
     ],
-    "ID": "Converted_Foreign Cask Recipe"
+    "ID": "Converted_Foreign Cask_Recipe"
   },
   {
     "SkillUnlockName": "Foraging",
@@ -676,7 +676,7 @@
         "Quantity": 100
       }
     ],
-    "ID": "Converted_Glass Jar Recipe"
+    "ID": "Converted_Glass Jar_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -709,7 +709,7 @@
         "Value": "338"
       }
     ],
-    "ID": "Converted_Grinder Recipe"
+    "ID": "Converted_Grinder_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -738,7 +738,7 @@
         "Value": "787"
       }
     ],
-    "ID": "Converted_Ice Cream Machine Recipe"
+    "ID": "Converted_Ice Cream Machine_Recipe"
   },
   {
     "SkillUnlockLevel": -1,
@@ -767,7 +767,7 @@
         "Quantity": 10
       }
     ],
-    "ID": "Converted_Infuser Recipe"
+    "ID": "Converted_Infuser_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -796,7 +796,7 @@
         "Value": "575"
       }
     ],
-    "ID": "Converted_Juicer Recipe"
+    "ID": "Converted_Juicer_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -826,7 +826,7 @@
         "Quantity": 3
       }
     ],
-    "ID": "Converted_Pepper Blender Recipe"
+    "ID": "Converted_Pepper Blender_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -851,7 +851,7 @@
         "Quantity": 20
       }
     ],
-    "ID": "Converted_Smoker Recipe"
+    "ID": "Converted_Smoker_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -884,7 +884,7 @@
         "Value": "572"
       }
     ],
-    "ID": "Converted_Soap Press Recipe"
+    "ID": "Converted_Soap Press_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -914,7 +914,7 @@
         "Quantity": 5
       }
     ],
-    "ID": "Converted_Sorbet Machine Recipe"
+    "ID": "Converted_Sorbet Machine_Recipe"
   },
   {
     "SkillUnlockLevel": -1,
@@ -938,7 +938,7 @@
         "Quantity": 10
       }
     ],
-    "ID": "Converted_Still Recipe"
+    "ID": "Converted_Still_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -967,7 +967,7 @@
         "Quantity": 3
       }
     ],
-    "ID": "Converted_Vinegar Cask Recipe"
+    "ID": "Converted_Vinegar Cask_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -996,7 +996,7 @@
         "Quantity": 50
       }
     ],
-    "ID": "Converted_Wax Barrel Recipe"
+    "ID": "Converted_Wax Barrel_Recipe"
   },
   {
     "KnownByDefault": true,
@@ -1026,6 +1026,6 @@
         "Quantity": 2
       }
     ],
-    "ID": "Converted_Yogurt Jar Recipe"
+    "ID": "Converted_Yogurt Jar_Recipe"
   }
 ]

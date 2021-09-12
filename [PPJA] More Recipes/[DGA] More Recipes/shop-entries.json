@@ -67,340 +67,372 @@
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Avocado Eel Roll Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Avocado Eel Roll_Recipe"
     },
     "Cost": 2555,
     "EnableConditions":
     {
         "Query: {{Year}} >= 2": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Avocado Toast Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Avocado Toast_Recipe"
     },
     "Cost": 2410,
     "EnableConditions":
     {
         "Query: {{Year}} >= 4": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "IslandMerchant",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Banana Bread Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Banana Bread_Recipe"
     },
     "Cost": 2820,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Barley Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Barley Tea_Recipe"
     },
     "Cost": 1325,
     "EnableConditions":
     {
         "Season |contains=spring": "true",
         "Query: {{Year}} >= 2": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Berry Fusion Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Berry Fusion Tea_Recipe"
     },
     "Cost": 1525,
     "EnableConditions":
     {
         "Season |contains=summer": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Blue Mist Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Blue Mist Tea_Recipe"
     },
     "Cost": 1445,
     "EnableConditions":
     {
         "Season |contains=spring": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Breakfast Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Breakfast Tea_Recipe"
     },
     "Cost": 1490,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Celery and Peanut Butter Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Celery and Peanut Butter_Recipe"
     },
     "Cost": 1380,
     "EnableConditions":
     {
         "Query: {{Year}} >= 4": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Chai Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Chai Tea_Recipe"
     },
     "Cost": 1600,
     "EnableConditions":
     {
         "Season |contains=spring": "true",
         "Query: {{Year}} >= 2": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Chamomile Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Chamomile Tea_Recipe"
     },
     "Cost": 1275,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Chocolate Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Chocolate_Recipe"
     },
     "Cost": 1435,
     "EnableConditions":
     {
         "Query: {{Year}} >= 2": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Chocolate Covered Strawberry Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Chocolate Covered Strawberry_Recipe"
     },
     "Cost": 2695,
     "EnableConditions":
     {
         "Query: {{Year}} >= 4": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Chocolate Pudding Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Chocolate Pudding_Recipe"
     },
     "Cost": 2685,
     "EnableConditions":
     {
         "Query: {{Year}} >= 4": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Crab Roll Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Crab Roll_Recipe"
     },
     "Cost": 2660,
     "EnableConditions":
     {
         "Query: {{Year}} >= 2": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Cranberry Pomegranate Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Cranberry Pomegranate Tea_Recipe"
     },
     "Cost": 1600,
     "EnableConditions":
     {
         "Season |contains=spring": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Crocus White Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Crocus White Tea_Recipe"
     },
     "Cost": 1375,
     "EnableConditions":
     {
         "Season |contains=spring": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Cucumber Roll Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Cucumber Roll_Recipe"
     },
     "Cost": 2360,
     "EnableConditions":
     {
         "Query: {{Year}} >= 2": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Cucumber Sandwich Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Cucumber Sandwich_Recipe"
     },
     "Cost": 2400,
     "EnableConditions":
     {
         "Relationship:Evelyn": "5",
         "Query: {{Year}} >= 4": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Earl Grey Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Earl Grey Tea_Recipe"
     },
     "Cost": 1380,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Fruit Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Fruit Tea_Recipe"
     },
     "Cost": 1425,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Jasmine Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Jasmine Tea_Recipe"
     },
     "Cost": 1425,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Lavender Milk Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Lavender Milk Tea_Recipe"
     },
     "Cost": 1600,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Lemon Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Lemon Tea_Recipe"
     },
     "Cost": 1375,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Mint Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Mint Tea_Recipe"
     },
     "Cost": 1260,
     "EnableConditions":
     {
         "Season |contains=spring": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Oolong Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Oolong Tea_Recipe"
     },
     "Cost": 1375,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Peanut Butter Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Peanut Butter_Recipe"
     },
     "Cost": 650,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Raspberry Tart Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Raspberry Tart_Recipe"
     },
     "Cost": 1280,
     "EnableConditions":
     {
         "Relationship:Robin": "3",
         "Query: {{Year}} >= 2": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Rose Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Rose Tea_Recipe"
     },
     "Cost": 1620,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Southern Sweet Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Southern Sweet Tea_Recipe"
     },
     "Cost": 1430,
     "EnableConditions":
     {
         "Season |contains=spring": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Saloon",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Spice Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Spice Tea_Recipe"
     },
     "Cost": 1565,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Sandy",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Strawberry Grapefruit Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Strawberry Grapefruit Tea_Recipe"
     },
     "Cost": 2500,
     "EnableConditions":
     {
         "DayOfWeek": "Monday",
         "Season |contains=fall": "true"
-    }
+    },
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Sandy",
     "Item":
     {
-        "Value": "ppja.morerecipes.DGA/Converted_Sun Tea Recipe"
+        "Value": "ppja.morerecipes.DGA/Converted_Sun Tea_Recipe"
     },
     "Cost": 2250,
     "EnableConditions":
     {
         "DayOfWeek": "Sunday"
-    }
+    },
+    "Type": "DGARecipe"
 }]

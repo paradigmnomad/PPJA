@@ -22,7 +22,7 @@
         "Value": "-6"
       }
     ],
-    "ID": "Converted_Alexander Cocktail Recipe"
+    "ID": "Converted_Alexander Cocktail_Recipe"
   },
   {
     "IsCooking": true,
@@ -47,7 +47,7 @@
         "Value": "635"
       }
     ],
-    "ID": "Converted_Americano Recipe"
+    "ID": "Converted_Americano_Recipe"
   },
   {
     "IsCooking": true,
@@ -69,7 +69,7 @@
         "Value": "634"
       }
     ],
-    "ID": "Converted_Angel Face Recipe"
+    "ID": "Converted_Angel Face_Recipe"
   },
   {
     "IsCooking": true,
@@ -96,7 +96,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Orange Peel"
       }
     ],
-    "ID": "Converted_Atomic Cocktail Recipe"
+    "ID": "Converted_Atomic Cocktail_Recipe"
   },
   {
     "IsCooking": true,
@@ -118,7 +118,7 @@
         "Quantity": 2
       }
     ],
-    "ID": "Converted_Aviation Recipe"
+    "ID": "Converted_Aviation_Recipe"
   },
   {
     "IsCooking": true,
@@ -146,7 +146,7 @@
         "Value": "ppja.moretrees.DGA/Lime"
       }
     ],
-    "ID": "Converted_Barracuda Cocktail Recipe"
+    "ID": "Converted_Barracuda Cocktail_Recipe"
   },
   {
     "IsCooking": true,
@@ -172,7 +172,7 @@
         "Quantity": 3
       }
     ],
-    "ID": "Converted_Basil Cranberry Julep Recipe"
+    "ID": "Converted_Basil Cranberry Julep_Recipe"
   },
   {
     "IsCooking": true,
@@ -201,7 +201,7 @@
         "Value": "ppja.moretrees.DGA/Lime"
       }
     ],
-    "ID": "Converted_Bay Breeze Recipe"
+    "ID": "Converted_Bay Breeze_Recipe"
   },
   {
     "IsCooking": true,
@@ -223,7 +223,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Sparkling Wine"
       }
     ],
-    "ID": "Converted_Bellini Recipe"
+    "ID": "Converted_Bellini_Recipe"
   },
   {
     "IsCooking": true,
@@ -244,7 +244,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
       }
     ],
-    "ID": "Converted_Black Junimo Recipe"
+    "ID": "Converted_Black Junimo_Recipe"
   },
   {
     "IsCooking": true,
@@ -272,7 +272,7 @@
         "Value": "152"
       }
     ],
-    "ID": "Converted_Bloody Mary Recipe"
+    "ID": "Converted_Bloody Mary_Recipe"
   },
   {
     "IsCooking": true,
@@ -297,7 +297,7 @@
         "Value": "-6"
       }
     ],
-    "ID": "Converted_Brandy Alexander Recipe"
+    "ID": "Converted_Brandy Alexander_Recipe"
   },
   {
     "IsCooking": true,
@@ -319,7 +319,7 @@
         "Quantity": 2
       }
     ],
-    "ID": "Converted_Chocolate Liqueur Recipe"
+    "ID": "Converted_Chocolate Liqueur_Recipe"
   },
   {
     "IsCooking": true,
@@ -347,7 +347,7 @@
         "Value": "-5"
       }
     ],
-    "ID": "Converted_Clover Club Recipe"
+    "ID": "Converted_Clover Club_Recipe"
   },
   {
     "IsCooking": true,
@@ -370,7 +370,7 @@
         "Quantity": 2
       }
     ],
-    "ID": "Converted_Coffee Liqueur Recipe"
+    "ID": "Converted_Coffee Liqueur_Recipe"
   },
   {
     "IsCooking": true,
@@ -399,7 +399,7 @@
         "Value": "ppja.moretrees.DGA/Lime"
       }
     ],
-    "ID": "Converted_Cosmo Recipe"
+    "ID": "Converted_Cosmo_Recipe"
   },
   {
     "IsCooking": true,
@@ -427,7 +427,7 @@
         "Value": "ppja.moretrees.DGA/Lemon"
       }
     ],
-    "ID": "Converted_Cuba Libre Recipe"
+    "ID": "Converted_Cuba Libre_Recipe"
   },
   {
     "IsCooking": true,
@@ -453,7 +453,7 @@
         "Value": "-79"
       }
     ],
-    "ID": "Converted_Daiquiri Recipe"
+    "ID": "Converted_Daiquiri_Recipe"
   },
   {
     "IsCooking": true,
@@ -482,7 +482,7 @@
         "Value": "ppja.moretrees.DGA/Lime"
       }
     ],
-    "ID": "Converted_Dark and Stormy Recipe"
+    "ID": "Converted_Dark and Stormy_Recipe"
   },
   {
     "IsCooking": true,
@@ -503,7 +503,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Absinthe"
       }
     ],
-    "ID": "Converted_Death in the Afternoon Recipe"
+    "ID": "Converted_Death in the Afternoon_Recipe"
   },
   {
     "IsCooking": true,
@@ -529,7 +529,7 @@
         "Quantity": 2
       }
     ],
-    "ID": "Converted_Derby Recipe"
+    "ID": "Converted_Derby_Recipe"
   },
   {
     "IsCooking": true,
@@ -552,7 +552,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
       }
     ],
-    "ID": "Converted_Espresso Martini Recipe"
+    "ID": "Converted_Espresso Martini_Recipe"
   },
   {
     "IsCooking": true,
@@ -580,7 +580,7 @@
         "Value": "ppja.moretrees.DGA/Lime"
       }
     ],
-    "ID": "Converted_Frangelico Sour Recipe"
+    "ID": "Converted_Frangelico Sour_Recipe"
   },
   {
     "IsCooking": true,
@@ -604,7 +604,7 @@
         "Value": "ppja.moretrees.DGA/Lemon"
       }
     ],
-    "ID": "Converted_French 75 Recipe"
+    "ID": "Converted_French 75_Recipe"
   },
   {
     "IsCooking": true,
@@ -632,7 +632,7 @@
         "Value": "ppja.moretrees.DGA/Lemon"
       }
     ],
-    "ID": "Converted_French Martini Recipe"
+    "ID": "Converted_French Martini_Recipe"
   },
   {
     "IsCooking": true,
@@ -656,7 +656,7 @@
         "Value": "ppja.moretrees.DGA/Lemon"
       }
     ],
-    "ID": "Converted_Gin Fizz Recipe"
+    "ID": "Converted_Gin Fizz_Recipe"
   },
   {
     "IsCooking": true,
@@ -677,7 +677,7 @@
         "Value": "ppja.starbrewvalley.DGA/Tonic Water"
       }
     ],
-    "ID": "Converted_Gin n Tonic Recipe"
+    "ID": "Converted_Gin n Tonic_Recipe"
   },
   {
     "IsCooking": true,
@@ -702,7 +702,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Absinthe"
       }
     ],
-    "ID": "Converted_Green Junimo Recipe"
+    "ID": "Converted_Green Junimo_Recipe"
   },
   {
     "IsCooking": true,
@@ -728,7 +728,7 @@
         "Value": "ppja.moretrees.DGA/Lemon"
       }
     ],
-    "ID": "Converted_Hard Iced Tea Recipe"
+    "ID": "Converted_Hard Iced Tea_Recipe"
   },
   {
     "IsCooking": true,
@@ -762,7 +762,7 @@
         "Value": "282"
       }
     ],
-    "ID": "Converted_Harlem Mugger Cocktail Recipe"
+    "ID": "Converted_Harlem Mugger Cocktail_Recipe"
   },
   {
     "IsCooking": true,
@@ -790,7 +790,7 @@
         "Value": "ppja.moretrees.DGA/Lime"
       }
     ],
-    "ID": "Converted_Hemingway Special Recipe"
+    "ID": "Converted_Hemingway Special_Recipe"
   },
   {
     "IsCooking": true,
@@ -815,7 +815,7 @@
         "Value": "ppja.morerecipes.DGA/Brown Sugar"
       }
     ],
-    "ID": "Converted_Irish Coffee Recipe"
+    "ID": "Converted_Irish Coffee_Recipe"
   },
   {
     "IsCooking": true,
@@ -839,7 +839,7 @@
         "Value": "ppja.moretrees.DGA/Lime"
       }
     ],
-    "ID": "Converted_Lemon-Lime Soda Recipe"
+    "ID": "Converted_Lemon-Lime Soda_Recipe"
   },
   {
     "IsCooking": true,
@@ -870,7 +870,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Lime Peel"
       }
     ],
-    "ID": "Converted_Lemonado Cocktail Recipe"
+    "ID": "Converted_Lemonado Cocktail_Recipe"
   },
   {
     "IsCooking": true,
@@ -901,7 +901,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Tequila"
       }
     ],
-    "ID": "Converted_Long Island Iced Tea Recipe"
+    "ID": "Converted_Long Island Iced Tea_Recipe"
   },
   {
     "IsCooking": true,
@@ -930,7 +930,7 @@
         "Value": "ppja.moretrees.DGA/Lime"
       }
     ],
-    "ID": "Converted_Mai Tai Recipe"
+    "ID": "Converted_Mai Tai_Recipe"
   },
   {
     "IsCooking": true,
@@ -951,7 +951,7 @@
         "Value": "ppja.moretrees.DGA/Lime"
       }
     ],
-    "ID": "Converted_Margarita Recipe"
+    "ID": "Converted_Margarita_Recipe"
   },
   {
     "IsCooking": true,
@@ -972,7 +972,7 @@
         "Value": "ppja.moretrees.DGA/Olive"
       }
     ],
-    "ID": "Converted_Martini Recipe"
+    "ID": "Converted_Martini_Recipe"
   },
   {
     "IsCooking": true,
@@ -994,7 +994,7 @@
         "Value": "635"
       }
     ],
-    "ID": "Converted_Mimosa Recipe"
+    "ID": "Converted_Mimosa_Recipe"
   },
   {
     "IsCooking": true,
@@ -1019,7 +1019,7 @@
         "Value": "ppja.fruitsandveggies.DGA/Mint"
       }
     ],
-    "ID": "Converted_Mint Julep Recipe"
+    "ID": "Converted_Mint Julep_Recipe"
   },
   {
     "IsCooking": true,
@@ -1050,7 +1050,7 @@
         "Value": "245"
       }
     ],
-    "ID": "Converted_Mojito Recipe"
+    "ID": "Converted_Mojito_Recipe"
   },
   {
     "IsCooking": true,
@@ -1075,7 +1075,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Absinthe"
       }
     ],
-    "ID": "Converted_Monkey Gland Recipe"
+    "ID": "Converted_Monkey Gland_Recipe"
   },
   {
     "IsCooking": true,
@@ -1097,7 +1097,7 @@
         "Quantity": 2
       }
     ],
-    "ID": "Converted_Moonlight Jellies Recipe"
+    "ID": "Converted_Moonlight Jellies_Recipe"
   },
   {
     "IsCooking": true,
@@ -1120,7 +1120,7 @@
         "Quantity": 3
       }
     ],
-    "ID": "Converted_Moonshine Cherries Recipe"
+    "ID": "Converted_Moonshine Cherries_Recipe"
   },
   {
     "IsCooking": true,
@@ -1152,7 +1152,7 @@
         "Value": "ppja.fruitsandveggies.DGA/Mint"
       }
     ],
-    "ID": "Converted_Moscow Mule Recipe"
+    "ID": "Converted_Moscow Mule_Recipe"
   },
   {
     "IsCooking": true,
@@ -1180,7 +1180,7 @@
         "Value": "-6"
       }
     ],
-    "ID": "Converted_Mudslide Recipe"
+    "ID": "Converted_Mudslide_Recipe"
   },
   {
     "IsCooking": true,
@@ -1207,7 +1207,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Orange Peel"
       }
     ],
-    "ID": "Converted_Negroni Recipe"
+    "ID": "Converted_Negroni_Recipe"
   },
   {
     "IsCooking": true,
@@ -1236,7 +1236,7 @@
         "Value": "635"
       }
     ],
-    "ID": "Converted_Night on the Beach Recipe"
+    "ID": "Converted_Night on the Beach_Recipe"
   },
   {
     "IsCooking": true,
@@ -1262,7 +1262,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
       }
     ],
-    "ID": "Converted_Paradise Recipe"
+    "ID": "Converted_Paradise_Recipe"
   },
   {
     "IsCooking": true,
@@ -1295,7 +1295,7 @@
         "Value": "832"
       }
     ],
-    "ID": "Converted_Planters Punch Recipe"
+    "ID": "Converted_Planters Punch_Recipe"
   },
   {
     "IsCooking": true,
@@ -1323,7 +1323,7 @@
         "Value": "282"
       }
     ],
-    "ID": "Converted_Poinsettia Cocktail Recipe"
+    "ID": "Converted_Poinsettia Cocktail_Recipe"
   },
   {
     "IsCooking": true,
@@ -1348,7 +1348,7 @@
         "Value": "ppja.morerecipes.DGA/Nutmeg"
       }
     ],
-    "ID": "Converted_Porto Flip Recipe"
+    "ID": "Converted_Porto Flip_Recipe"
   },
   {
     "IsCooking": true,
@@ -1375,7 +1375,7 @@
         "Value": "ppja.fruitsandveggies.DGA/Mint"
       }
     ],
-    "ID": "Converted_Queens Park Swizzle Recipe"
+    "ID": "Converted_Queens Park Swizzle_Recipe"
   },
   {
     "IsCooking": true,
@@ -1407,7 +1407,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Gin"
       }
     ],
-    "ID": "Converted_Ramos Gin Fizz Recipe"
+    "ID": "Converted_Ramos Gin Fizz_Recipe"
   },
   {
     "IsCooking": true,
@@ -1429,7 +1429,7 @@
         "Value": "167"
       }
     ],
-    "ID": "Converted_Rum and Cola Recipe"
+    "ID": "Converted_Rum and Cola_Recipe"
   },
   {
     "IsCooking": true,
@@ -1455,7 +1455,7 @@
         "Value": "233"
       }
     ],
-    "ID": "Converted_Rum and Cola Float Recipe"
+    "ID": "Converted_Rum and Cola Float_Recipe"
   },
   {
     "IsCooking": true,
@@ -1483,7 +1483,7 @@
         "Value": "410"
       }
     ],
-    "ID": "Converted_Russian Spring Punch Recipe"
+    "ID": "Converted_Russian Spring Punch_Recipe"
   },
   {
     "IsCooking": true,
@@ -1509,7 +1509,7 @@
         "Value": "832"
       }
     ],
-    "ID": "Converted_Sandy's Calico Colada Recipe"
+    "ID": "Converted_Sandy's Calico Colada_Recipe"
   },
   {
     "IsCooking": true,
@@ -1531,7 +1531,7 @@
         "Value": "635"
       }
     ],
-    "ID": "Converted_Screwdriver Recipe"
+    "ID": "Converted_Screwdriver_Recipe"
   },
   {
     "IsCooking": true,
@@ -1559,7 +1559,7 @@
         "Value": "ppja.moretrees.DGA/Lime"
       }
     ],
-    "ID": "Converted_Sea Breeze Recipe"
+    "ID": "Converted_Sea Breeze_Recipe"
   },
   {
     "IsCooking": true,
@@ -1580,7 +1580,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Hard Apple Cider"
       }
     ],
-    "ID": "Converted_Snakebite Recipe"
+    "ID": "Converted_Snakebite_Recipe"
   },
   {
     "IsCooking": true,
@@ -1607,7 +1607,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Orange Peel"
       }
     ],
-    "ID": "Converted_Spritz Veneziano Recipe"
+    "ID": "Converted_Spritz Veneziano_Recipe"
   },
   {
     "IsCooking": true,
@@ -1633,7 +1633,7 @@
         "Value": "635"
       }
     ],
-    "ID": "Converted_Stardew Sangria Recipe"
+    "ID": "Converted_Stardew Sangria_Recipe"
   },
   {
     "IsCooking": true,
@@ -1661,7 +1661,7 @@
         "Value": "282"
       }
     ],
-    "ID": "Converted_Sweet Pink Cocktail Recipe"
+    "ID": "Converted_Sweet Pink Cocktail_Recipe"
   },
   {
     "IsCooking": true,
@@ -1683,7 +1683,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Tequila"
       }
     ],
-    "ID": "Converted_Tequila Sunrise Recipe"
+    "ID": "Converted_Tequila Sunrise_Recipe"
   },
   {
     "IsCooking": true,
@@ -1710,7 +1710,7 @@
         "Value": "ppja.moretrees.DGA/Olive"
       }
     ],
-    "ID": "Converted_The Last Word Recipe"
+    "ID": "Converted_The Last Word_Recipe"
   },
   {
     "IsCooking": true,
@@ -1737,7 +1737,7 @@
         "Value": "mizu.flowers.DGA/Shaded Violet"
       }
     ],
-    "ID": "Converted_The Mayor's Shorts Recipe"
+    "ID": "Converted_The Mayor's Shorts_Recipe"
   },
   {
     "IsCooking": true,
@@ -1765,7 +1765,7 @@
         "Value": "-5"
       }
     ],
-    "ID": "Converted_Tres Coops Recipe"
+    "ID": "Converted_Tres Coops_Recipe"
   },
   {
     "IsCooking": true,
@@ -1800,7 +1800,7 @@
         "Value": "ppja.morerecipes.DGA/Salt"
       }
     ],
-    "ID": "Converted_Vampiro Recipe"
+    "ID": "Converted_Vampiro_Recipe"
   },
   {
     "IsCooking": true,
@@ -1826,7 +1826,7 @@
         "Value": "638"
       }
     ],
-    "ID": "Converted_Void Essence Drink Recipe"
+    "ID": "Converted_Void Essence Drink_Recipe"
   },
   {
     "IsCooking": true,
@@ -1851,7 +1851,7 @@
         "Value": "638"
       }
     ],
-    "ID": "Converted_Whiskey Sour Recipe"
+    "ID": "Converted_Whiskey Sour_Recipe"
   },
   {
     "IsCooking": true,
@@ -1876,7 +1876,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Vodka"
       }
     ],
-    "ID": "Converted_White Junimo Recipe"
+    "ID": "Converted_White Junimo_Recipe"
   },
   {
     "IsCooking": true,
@@ -1901,6 +1901,6 @@
         "Value": "-5"
       }
     ],
-    "ID": "Converted_White Lady Recipe"
+    "ID": "Converted_White Lady_Recipe"
   }
 ]

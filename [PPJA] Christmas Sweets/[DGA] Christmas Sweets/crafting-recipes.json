@@ -28,7 +28,7 @@
         "Value": "ppja.morerecipes.DGA/Chocolate"
       }
     ],
-    "ID": "Converted_Christmas Chocolate Candie Cookies Recipe"
+    "ID": "Converted_Christmas Chocolate Candie Cookies_Recipe"
   },
   {
     "IsCooking": true,
@@ -61,7 +61,7 @@
         "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
       }
     ],
-    "ID": "Converted_Decorated Gingerbread Man Recipe"
+    "ID": "Converted_Decorated Gingerbread Man_Recipe"
   },
   {
     "IsCooking": true,
@@ -93,7 +93,7 @@
         "Value": "ppja.morerecipes.DGA/Brown Sugar"
       }
     ],
-    "ID": "Converted_Fruitcake Recipe"
+    "ID": "Converted_Fruitcake_Recipe"
   },
   {
     "IsCooking": true,
@@ -125,7 +125,7 @@
         "Value": "ppja.moretrees.DGA/Vanilla"
       }
     ],
-    "ID": "Converted_Gingerbread House Recipe"
+    "ID": "Converted_Gingerbread House_Recipe"
   },
   {
     "IsCooking": true,
@@ -157,7 +157,7 @@
         "Value": "246"
       }
     ],
-    "ID": "Converted_Holly Decorated Cookie Recipe"
+    "ID": "Converted_Holly Decorated Cookie_Recipe"
   },
   {
     "IsCooking": true,
@@ -189,7 +189,7 @@
         "Value": "246"
       }
     ],
-    "ID": "Converted_Iced Christmas Tree Recipe"
+    "ID": "Converted_Iced Christmas Tree_Recipe"
   },
   {
     "IsCooking": true,
@@ -224,7 +224,7 @@
         "Value": "ppja.evenmorerecipes.DGA/Sprinkles"
       }
     ],
-    "ID": "Converted_Iced Decorated Christmas Tree Recipe"
+    "ID": "Converted_Iced Decorated Christmas Tree_Recipe"
   },
   {
     "IsCooking": true,
@@ -259,7 +259,7 @@
         "Value": "ppja.fruitsandveggies.DGA/Spinach"
       }
     ],
-    "ID": "Converted_Iced Green Christmas Tree Recipe"
+    "ID": "Converted_Iced Green Christmas Tree_Recipe"
   },
   {
     "IsCooking": true,
@@ -290,7 +290,7 @@
         "Value": "344"
       }
     ],
-    "ID": "Converted_Jam-Filled Cookie Recipe"
+    "ID": "Converted_Jam-Filled Cookie_Recipe"
   },
   {
     "IsCooking": true,
@@ -318,7 +318,7 @@
         "Value": "380"
       }
     ],
-    "ID": "Converted_Jinglebell Cake Pops Recipe"
+    "ID": "Converted_Jinglebell Cake Pops_Recipe"
   },
   {
     "IsCooking": true,
@@ -345,7 +345,7 @@
         "Value": "-5"
       }
     ],
-    "ID": "Converted_Mitten Cookie Recipe"
+    "ID": "Converted_Mitten Cookie_Recipe"
   },
   {
     "IsCooking": true,
@@ -369,7 +369,7 @@
         "Value": "ppja.christmassweets.DGA/Peppermints"
       }
     ],
-    "ID": "Converted_Peppermint Candy Cane Recipe"
+    "ID": "Converted_Peppermint Candy Cane_Recipe"
   },
   {
     "IsCooking": true,
@@ -391,7 +391,7 @@
         "Value": "ppja.christmassweets.DGA/Peppermint Candy Cane"
       }
     ],
-    "ID": "Converted_Peppermint Hot Chocolate Recipe"
+    "ID": "Converted_Peppermint Hot Chocolate_Recipe"
   },
   {
     "IsCooking": true,
@@ -415,7 +415,7 @@
         "Value": "245"
       }
     ],
-    "ID": "Converted_Peppermints Recipe"
+    "ID": "Converted_Peppermints_Recipe"
   },
   {
     "IsCooking": true,
@@ -446,7 +446,7 @@
         "Value": "258"
       }
     ],
-    "ID": "Converted_Prismatic Candy Cane Recipe"
+    "ID": "Converted_Prismatic Candy Cane_Recipe"
   },
   {
     "IsCooking": true,
@@ -473,7 +473,7 @@
         "Value": "-5"
       }
     ],
-    "ID": "Converted_Pufferchick Cookie Recipe"
+    "ID": "Converted_Pufferchick Cookie_Recipe"
   },
   {
     "IsCooking": true,
@@ -498,7 +498,7 @@
         "Value": "ppja.morerecipes.DGA/Chocolate"
       }
     ],
-    "ID": "Converted_Reindeer Marshmellow Recipe"
+    "ID": "Converted_Reindeer Marshmellow_Recipe"
   },
   {
     "IsCooking": true,
@@ -525,7 +525,7 @@
         "Value": "-5"
       }
     ],
-    "ID": "Converted_Snowman Cookie Recipe"
+    "ID": "Converted_Snowman Cookie_Recipe"
   },
   {
     "IsCooking": true,
@@ -552,7 +552,7 @@
         "Value": "-5"
       }
     ],
-    "ID": "Converted_Snowman Scenery Cookie Recipe"
+    "ID": "Converted_Snowman Scenery Cookie_Recipe"
   },
   {
     "IsCooking": true,
@@ -586,7 +586,7 @@
         "Value": "ppja.artisanvalleymachinegoods.DGA/Bourbon"
       }
     ],
-    "ID": "Converted_Spiked Eggnog Recipe",
+    "ID": "Converted_Spiked Eggnog_Recipe",
     "EnableConditions":
     {
         "HasMod": "ppja.artisanvalleymachinegoods.DGA"
@@ -617,7 +617,7 @@
         "Value": "-5"
       }
     ],
-    "ID": "Converted_Stardrop Cookie Recipe"
+    "ID": "Converted_Stardrop Cookie_Recipe"
   },
   {
     "IsCooking": true,
@@ -644,7 +644,7 @@
         "Value": "-5"
       }
     ],
-    "ID": "Converted_Stocking Cookie Recipe"
+    "ID": "Converted_Stocking Cookie_Recipe"
   },
   {
     "IsCooking": true,
@@ -668,7 +668,7 @@
         "Value": "245"
       }
     ],
-    "ID": "Converted_Strawberry Santa Recipe"
+    "ID": "Converted_Strawberry Santa_Recipe"
   },
   {
     "IsCooking": true,
@@ -701,7 +701,7 @@
         "Value": "913"
       }
     ],
-    "ID": "Christmas Pudding Recipe",
+    "ID": "Christmas Pudding_Recipe",
     "EnableConditions":
     {
         "HasMod": "ppja.artisanvalleymachinegoods.DGA"

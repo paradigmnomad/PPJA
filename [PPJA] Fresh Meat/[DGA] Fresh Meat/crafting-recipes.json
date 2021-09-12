@@ -25,7 +25,7 @@
         {
             "Value": "ppja.evenmorerecipes.DGA/Broth"
         }],
-        "ID": "Converted_Asam Pedas Recipe",
+        "ID": "Converted_Asam Pedas_Recipe",
         "EnableConditions":
     {
         "HasMod": "ppja.evenmorerecipes.DGA"
@@ -47,7 +47,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Pork"
         }],
-        "ID": "Converted_Bacon Recipe"
+        "ID": "Converted_Bacon_Recipe"
     },
     {
         "IsCooking": true,
@@ -77,7 +77,7 @@
             "Type": "VanillaObject",
             "Value": "216"
         }],
-        "ID": "Converted_Bacon Hamburger Recipe"
+        "ID": "Converted_Bacon Hamburger_Recipe"
     },
     {
         "IsCooking": true,
@@ -99,7 +99,7 @@
             "Value": "-5",
             "Quantity": 2
         }],
-        "ID": "Converted_Bacon n Eggs Recipe"
+        "ID": "Converted_Bacon n Eggs_Recipe"
     },
     {
         "IsCooking": true,
@@ -124,7 +124,7 @@
             "Type": "VanillaObject",
             "Value": "404"
         }],
-        "ID": "Converted_Baked Turkey with Risotto Recipe"
+        "ID": "Converted_Baked Turkey with Risotto_Recipe"
     },
     {
         "IsCooking": true,
@@ -155,7 +155,7 @@
         {
             "Value": "ppja.fruitsandveggies.DGA/Navy Bean"
         }],
-        "ID": "Converted_Bangers Beans and Mash Recipe"
+        "ID": "Converted_Bangers Beans and Mash_Recipe"
     },
     {
         "IsCooking": true,
@@ -178,7 +178,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Mustard"
         }],
-        "ID": "Converted_Barbecue Sausage Recipe"
+        "ID": "Converted_Barbecue Sausage_Recipe"
     },
     {
         "IsCooking": true,
@@ -204,7 +204,7 @@
             "Type": "VanillaObject",
             "Value": "184"
         }],
-        "ID": "Converted_Batter Recipe"
+        "ID": "Converted_Batter_Recipe"
     },
     {
         "IsCooking": true,
@@ -230,7 +230,7 @@
         {
             "Value": "ppja.fruitsandveggies.DGA/Onion"
         }],
-        "ID": "Converted_BBQ Sauce Recipe"
+        "ID": "Converted_BBQ Sauce_Recipe"
     },
     {
         "IsCooking": true,
@@ -255,7 +255,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Batter"
         }],
-        "ID": "Converted_Beast n' Onion Handpie Recipe"
+        "ID": "Converted_Beast n' Onion Handpie_Recipe"
     },
     {
         "IsCooking": true,
@@ -284,7 +284,7 @@
             "Type": "VanillaObject",
             "Value": "424"
         }],
-        "ID": "Converted_Beef Burrito Recipe"
+        "ID": "Converted_Beef Burrito_Recipe"
     },
     {
         "IsCooking": true,
@@ -304,7 +304,7 @@
         {
             "Value": "ppja.freshmeat.DGA/BBQ Sauce"
         }],
-        "ID": "Converted_Beef Ribs Recipe"
+        "ID": "Converted_Beef Ribs_Recipe"
     },
     {
         "IsCooking": true,
@@ -330,7 +330,7 @@
         {
             "Value": "ppja.fruitsandveggies.DGA/Carrot"
         }],
-        "ID": "Converted_Beef Stock Recipe"
+        "ID": "Converted_Beef Stock_Recipe"
     },
     {
         "IsCooking": true,
@@ -354,7 +354,7 @@
         {
             "Value": "ppja.freshmeat.DGA/White Gravy"
         }],
-        "ID": "Converted_Biscuits and Gravy Recipe"
+        "ID": "Converted_Biscuits and Gravy_Recipe"
     },
     {
         "IsCooking": true,
@@ -382,7 +382,7 @@
             "Type": "VanillaObject",
             "Value": "-5"
         }],
-        "ID": "Converted_Bratwurst Recipe"
+        "ID": "Converted_Bratwurst_Recipe"
     },
     {
         "IsCooking": true,
@@ -411,7 +411,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Bacon"
         }],
-        "ID": "Converted_Breakfast Sandwich Recipe"
+        "ID": "Converted_Breakfast Sandwich_Recipe"
     },
     {
         "IsCooking": true,
@@ -436,7 +436,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Beef Stock"
         }],
-        "ID": "Converted_Brown Gravy Recipe"
+        "ID": "Converted_Brown Gravy_Recipe"
     },
     {
         "IsCooking": true,
@@ -465,7 +465,7 @@
         {
             "Value": "ppja.evenmorerecipes.DGA/Sesame Seeds"
         }],
-        "ID": "Converted_Bulgogi Recipe",
+        "ID": "Converted_Bulgogi_Recipe",
         "EnableConditions":
         {
             "HasMod": "ppja.evenmorerecipes.DGA",
@@ -500,7 +500,7 @@
             "Value": "398",
             "Quantity": 2
         }],
-        "ID": "Converted_Cheese Board Recipe"
+        "ID": "Converted_Cheese Board_Recipe"
     },
     {
         "IsCooking": true,
@@ -525,7 +525,7 @@
             "Type": "VanillaObject",
             "Value": "424"
         }],
-        "ID": "Converted_Cheeseburger Recipe"
+        "ID": "Converted_Cheeseburger_Recipe"
     },
     {
         "IsCooking": true,
@@ -557,7 +557,7 @@
             "Type": "VanillaObject",
             "Value": "424"
         }],
-        "ID": "Converted_Chicken and Spinach Crepe Recipe"
+        "ID": "Converted_Chicken and Spinach Crepe_Recipe"
     },
     {
         "IsCooking": true,
@@ -582,7 +582,7 @@
             "Type": "VanillaObject",
             "Value": "-5"
         }],
-        "ID": "Converted_Chicken Nuggets Recipe"
+        "ID": "Converted_Chicken Nuggets_Recipe"
     },
     {
         "IsCooking": true,
@@ -608,7 +608,7 @@
         {
             "Value": "ppja.fruitsandveggies.DGA/Carrot"
         }],
-        "ID": "Converted_Chicken Stock Recipe"
+        "ID": "Converted_Chicken Stock_Recipe"
     },
     {
         "IsCooking": true,
@@ -632,7 +632,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Batter"
         }],
-        "ID": "Converted_Chippy Curry Recipe"
+        "ID": "Converted_Chippy Curry_Recipe"
     },
     {
         "IsCooking": true,
@@ -662,7 +662,7 @@
             "Type": "VanillaObject",
             "Value": "270"
         }],
-        "ID": "Converted_Coconut Curry Recipe"
+        "ID": "Converted_Coconut Curry_Recipe"
     },
     {
         "IsCooking": true,
@@ -683,7 +683,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Alpaca Meat Recipe"
+        "ID": "Converted_Cooked Alpaca Meat_Recipe"
     },
     {
         "IsCooking": true,
@@ -704,7 +704,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Beast Meat Recipe"
+        "ID": "Converted_Cooked Beast Meat_Recipe"
     },
     {
         "IsCooking": true,
@@ -725,7 +725,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Beef Recipe"
+        "ID": "Converted_Cooked Beef_Recipe"
     },
     {
         "IsCooking": true,
@@ -746,7 +746,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Bird Meat Recipe"
+        "ID": "Converted_Cooked Bird Meat_Recipe"
     },
     {
         "IsCooking": true,
@@ -767,7 +767,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Bison Meat Recipe"
+        "ID": "Converted_Cooked Bison Meat_Recipe"
     },
     {
         "IsCooking": true,
@@ -788,7 +788,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Boar Recipe"
+        "ID": "Converted_Cooked Boar_Recipe"
     },
     {
         "IsCooking": true,
@@ -809,7 +809,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Chevon Recipe"
+        "ID": "Converted_Cooked Chevon_Recipe"
     },
     {
         "IsCooking": true,
@@ -830,7 +830,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Chicken Recipe"
+        "ID": "Converted_Cooked Chicken_Recipe"
     },
     {
         "EnableConditions":
@@ -855,7 +855,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Critter Meat Recipe"
+        "ID": "Converted_Cooked Critter Meat_Recipe"
     },
     {
         "IsCooking": true,
@@ -876,7 +876,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Dragon Meat Recipe"
+        "ID": "Converted_Cooked Dragon Meat_Recipe"
     },
     {
         "IsCooking": true,
@@ -897,7 +897,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Duck Recipe"
+        "ID": "Converted_Cooked Duck_Recipe"
     },
     {
         "IsCooking": true,
@@ -918,7 +918,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Fowl Recipe"
+        "ID": "Converted_Cooked Fowl_Recipe"
     },
     {
         "IsCooking": true,
@@ -939,7 +939,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Frog Recipe"
+        "ID": "Converted_Cooked Frog_Recipe"
     },
     {
         "IsCooking": true,
@@ -960,7 +960,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Horse Meat Recipe"
+        "ID": "Converted_Cooked Horse Meat_Recipe"
     },
     {
         "IsCooking": true,
@@ -981,7 +981,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Phoenix Recipe"
+        "ID": "Converted_Cooked Phoenix_Recipe"
     },
     {
         "IsCooking": true,
@@ -1002,7 +1002,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Pork Recipe"
+        "ID": "Converted_Cooked Pork_Recipe"
     },
     {
         "IsCooking": true,
@@ -1023,7 +1023,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Rabbit Recipe"
+        "ID": "Converted_Cooked Rabbit_Recipe"
     },
     {
         "IsCooking": true,
@@ -1044,7 +1044,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Reptile Meat Recipe"
+        "ID": "Converted_Cooked Reptile Meat_Recipe"
     },
     {
         "IsCooking": true,
@@ -1065,7 +1065,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Turkey Recipe"
+        "ID": "Converted_Cooked Turkey_Recipe"
     },
     {
         "IsCooking": true,
@@ -1086,7 +1086,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Converted_Cooked Venison Recipe"
+        "ID": "Converted_Cooked Venison_Recipe"
     },
     {
         "IsCooking": true,
@@ -1117,7 +1117,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Mustard"
         }],
-        "ID": "Converted_Corndog Recipe"
+        "ID": "Converted_Corndog_Recipe"
     },
     {
         "IsCooking": true,
@@ -1145,7 +1145,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Batter"
         }],
-        "ID": "Converted_Cottage Pie Recipe"
+        "ID": "Converted_Cottage Pie_Recipe"
     },
     {
         "IsCooking": true,
@@ -1178,7 +1178,7 @@
             "Type": "VanillaObject",
             "Value": "266"
         }],
-        "ID": "Converted_Dumplings Recipe"
+        "ID": "Converted_Dumplings_Recipe"
     },
     {
         "IsCooking": true,
@@ -1204,7 +1204,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Batter"
         }],
-        "ID": "Converted_Fish and Chips Recipe"
+        "ID": "Converted_Fish and Chips_Recipe"
     },
     {
         "IsCooking": true,
@@ -1235,7 +1235,7 @@
             "Type": "VanillaObject",
             "Value": "404"
         }],
-        "ID": "Converted_Grilled Skewer Recipe"
+        "ID": "Converted_Grilled Skewer_Recipe"
     },
     {
         "IsCooking": true,
@@ -1252,7 +1252,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Cooked Pork"
         }],
-        "ID": "Converted_Ham Recipe"
+        "ID": "Converted_Ham_Recipe"
     },
     {
         "IsCooking": true,
@@ -1269,7 +1269,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Beef"
         }],
-        "ID": "Converted_Hamburger Patty Recipe"
+        "ID": "Converted_Hamburger Patty_Recipe"
     },
     {
         "IsCooking": true,
@@ -1297,7 +1297,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Mustard"
         }],
-        "ID": "Converted_Hot Dog Recipe"
+        "ID": "Converted_Hot Dog_Recipe"
     },
     {
         "IsCooking": true,
@@ -1323,7 +1323,7 @@
             "Type": "VanillaObject",
             "Value": "419"
         }],
-        "ID": "Converted_Ketchup Recipe"
+        "ID": "Converted_Ketchup_Recipe"
     },
     {
         "IsCooking": true,
@@ -1360,7 +1360,7 @@
             "Value": "248",
             "Quantity": 6
         }],
-        "ID": "Converted_Lobster Stock Recipe"
+        "ID": "Converted_Lobster Stock_Recipe"
     },
     {
         "IsCooking": true,
@@ -1388,7 +1388,7 @@
             "Type": "VanillaObject",
             "Value": "248"
         }],
-        "ID": "Converted_Lula Kebab Recipe"
+        "ID": "Converted_Lula Kebab_Recipe"
     },
     {
         "IsCooking": true,
@@ -1417,7 +1417,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Alpaca Meat"
         }],
-        "ID": "Converted_Meat Skewer Recipe"
+        "ID": "Converted_Meat Skewer_Recipe"
     },
     {
         "IsCooking": true,
@@ -1445,7 +1445,7 @@
         {
             "Value": "ppja.fruitsandveggies.DGA/Onion"
         }],
-        "ID": "Converted_Meatloaf Recipe"
+        "ID": "Converted_Meatloaf_Recipe"
     },
     {
         "IsCooking": true,
@@ -1474,7 +1474,7 @@
             "Type": "VanillaObject",
             "Value": "424"
         }],
-        "ID": "Converted_Meaty Burrito Wrap Recipe"
+        "ID": "Converted_Meaty Burrito Wrap_Recipe"
     },
     {
         "IsCooking": true,
@@ -1505,7 +1505,7 @@
             "Type": "VanillaObject",
             "Value": "192"
         }],
-        "ID": "Converted_Mild Curry Recipe",
+        "ID": "Converted_Mild Curry_Recipe",
         "EnableConditions":
         {
             "HasMod": "ppja.evenmorerecipes.DGA"
@@ -1535,7 +1535,7 @@
             "Type": "VanillaObject",
             "Value": "340"
         }],
-        "ID": "Converted_Mustard Recipe"
+        "ID": "Converted_Mustard_Recipe"
     },
     {
         "IsCooking": true,
@@ -1567,7 +1567,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Saffron"
         }],
-        "ID": "Converted_Paella Recipe"
+        "ID": "Converted_Paella_Recipe"
     },
     {
         "IsCooking": true,
@@ -1595,7 +1595,7 @@
             "Type": "VanillaObject",
             "Value": "192"
         }],
-        "ID": "Converted_Phoenix Au Vin Recipe"
+        "ID": "Converted_Phoenix Au Vin_Recipe"
     },
     {
         "IsCooking": true,
@@ -1627,7 +1627,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Salami"
         }],
-        "ID": "Converted_Pizza Diavolo Recipe"
+        "ID": "Converted_Pizza Diavolo_Recipe"
     },
     {
         "IsCooking": true,
@@ -1653,7 +1653,7 @@
             "Type": "VanillaObject",
             "Value": "424"
         }],
-        "ID": "Converted_Poutine Recipe"
+        "ID": "Converted_Poutine_Recipe"
     },
     {
         "IsCooking": true,
@@ -1679,7 +1679,7 @@
             "Type": "VanillaObject",
             "Value": "648"
         }],
-        "ID": "Converted_Roasted Fowl Recipe"
+        "ID": "Converted_Roasted Fowl_Recipe"
     },
     {
         "IsCooking": true,
@@ -1699,7 +1699,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Cooked Pork"
         }],
-        "ID": "Converted_Salami Recipe"
+        "ID": "Converted_Salami_Recipe"
     },
     {
         "IsCooking": true,
@@ -1722,7 +1722,7 @@
         {
             "Value": "ppja.fruitsandveggies.DGA/Sage"
         }],
-        "ID": "Converted_Sausage Recipe"
+        "ID": "Converted_Sausage_Recipe"
     },
     {
         "IsCooking": true,
@@ -1745,7 +1745,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Mustard"
         }],
-        "ID": "Converted_Schnitzel Recipe"
+        "ID": "Converted_Schnitzel_Recipe"
     },
     {
         "IsCooking": true,
@@ -1778,7 +1778,7 @@
             "Value": "ppja.fruitsandveggies.DGA/Carrot",
             "Quantity": 2
         }],
-        "ID": "Converted_Seafood Stock Recipe"
+        "ID": "Converted_Seafood Stock_Recipe"
     },
     {
         "IsCooking": true,
@@ -1811,7 +1811,7 @@
         {
             "Value": "ppja.fruitsandveggies.DGA/Carrot"
         }],
-        "ID": "Converted_Shrimp Stock Recipe"
+        "ID": "Converted_Shrimp Stock_Recipe"
     },
     {
         "IsCooking": true,
@@ -1840,7 +1840,7 @@
             "Type": "VanillaObject",
             "Value": "278"
         }],
-        "ID": "Converted_Sorrel Soup Recipe"
+        "ID": "Converted_Sorrel Soup_Recipe"
     },
     {
         "IsCooking": true,
@@ -1865,7 +1865,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Pork"
         }],
-        "ID": "Converted_Spaghetti and Meatballs Recipe"
+        "ID": "Converted_Spaghetti and Meatballs_Recipe"
     },
     {
         "IsCooking": true,
@@ -1891,7 +1891,7 @@
             "Type": "VanillaObject",
             "Value": "246"
         }],
-        "ID": "Converted_Spaghetti Bolognese Recipe"
+        "ID": "Converted_Spaghetti Bolognese_Recipe"
     },
     {
         "IsCooking": true,
@@ -1914,7 +1914,7 @@
         {
             "Value": "ppja.morerecipes.DGA/Pepper"
         }],
-        "ID": "Converted_Steak Recipe",
+        "ID": "Converted_Steak_Recipe",
         "EnableConditions":
         {
             "HasMod": "ppja.morerecipes.DGA"
@@ -1943,7 +1943,7 @@
             "Type": "VanillaObject",
             "Value": "399"
         }],
-        "ID": "Converted_Steak Tartare Recipe"
+        "ID": "Converted_Steak Tartare_Recipe"
     },
     {
         "IsCooking": true,
@@ -1967,7 +1967,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Sweet Sour Sauce"
         }],
-        "ID": "Converted_Sweet and Sour Pork with Rice Recipe"
+        "ID": "Converted_Sweet and Sour Pork with Rice_Recipe"
     },
     {
         "IsCooking": true,
@@ -1996,7 +1996,7 @@
             "Type": "VanillaObject",
             "Value": "635"
         }],
-        "ID": "Converted_Sweet n' Sour Bites Recipe"
+        "ID": "Converted_Sweet n' Sour Bites_Recipe"
     },
     {
         "IsCooking": true,
@@ -2024,7 +2024,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Teriyaki Sauce"
         }],
-        "ID": "Converted_Teriyaki Recipe"
+        "ID": "Converted_Teriyaki_Recipe"
     },
     {
         "IsCooking": true,
@@ -2044,7 +2044,7 @@
             "Value": "246",
             "Quantity": 2
         }],
-        "ID": "Converted_Toast Recipe"
+        "ID": "Converted_Toast_Recipe"
     },
     {
         "IsCooking": true,
@@ -2072,7 +2072,7 @@
             "Type": "VanillaObject",
             "Value": "424"
         }],
-        "ID": "Converted_Toast Hawaii Recipe"
+        "ID": "Converted_Toast Hawaii_Recipe"
     },
     {
         "IsCooking": true,
@@ -2099,7 +2099,7 @@
             "Type": "VanillaObject",
             "Value": "424"
         }],
-        "ID": "Converted_Toast Williams Recipe"
+        "ID": "Converted_Toast Williams_Recipe"
     },
     {
         "IsCooking": true,
@@ -2128,7 +2128,7 @@
             "Type": "VanillaObject",
             "Value": "247"
         }],
-        "ID": "Converted_Tonkatsu Recipe"
+        "ID": "Converted_Tonkatsu_Recipe"
     },
     {
         "IsCooking": true,
@@ -2156,7 +2156,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Batter"
         }],
-        "ID": "Converted_Venison Handpie Recipe"
+        "ID": "Converted_Venison Handpie_Recipe"
     },
     {
         "IsCooking": true,
@@ -2181,7 +2181,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Chicken Stock"
         }],
-        "ID": "Converted_White Gravy Recipe"
+        "ID": "Converted_White Gravy_Recipe"
     },
     {
         "KnownByDefault": true,
@@ -2205,7 +2205,7 @@
             "Value": "334",
             "Quantity": 5
         }],
-        "ID": "Converted_Canning Machine Recipe"
+        "ID": "Converted_Canning Machine_Recipe"
     },
     {
         "KnownByDefault": true,
@@ -2233,7 +2233,7 @@
             "Value": "72",
             "Quantity": 5
         }],
-        "ID": "Converted_DNA Synthesizer Recipe"
+        "ID": "Converted_DNA Synthesizer_Recipe"
     },
     {
         "KnownByDefault": true,
@@ -2257,7 +2257,7 @@
             "Value": "334",
             "Quantity": 5
         }],
-        "ID": "Converted_Meat Press Recipe"
+        "ID": "Converted_Meat Press_Recipe"
     },
 
     // New Additions
@@ -2280,7 +2280,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Chicken Wing"
         }, ],
-        "ID": "Cooked Chicken Wing Recipe"
+        "ID": "Cooked Chicken Wing_Recipe"
     },
     {
         "IsCooking": true,
@@ -2300,7 +2300,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Drumstick"
         }, ],
-        "ID": "Cooked Drumstick Recipe"
+        "ID": "Cooked Drumstick_Recipe"
     },
     {
         "IsCooking": true,
@@ -2328,7 +2328,7 @@
             "Type": "VanillaObject",
             "Value": "229"
         }],
-        "ID": "Beef Taco Recipe"
+        "ID": "Beef Taco_Recipe"
     },
     {
         "IsCooking": true,
@@ -2349,7 +2349,7 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Cooked Mutton Recipe"
+        "ID": "Cooked Mutton_Recipe"
     },
      {
         "IsCooking": true,
@@ -2370,6 +2370,6 @@
         {
             "Value": "ppja.freshmeat.DGA/Seasonings"
         }],
-        "ID": "Cooked Ostrich Meat Recipe"
+        "ID": "Cooked Ostrich Meat_Recipe"
     },
 ]

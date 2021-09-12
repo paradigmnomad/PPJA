@@ -3,17 +3,19 @@
     "ShopId": "Krobus",
     "Item":
     {
-        "Value": "PPJA.cannabiskit.DGA/Converted_Honey Stick Recipe"
+        "Value": "PPJA.cannabiskit.DGA/Converted_Honey Stick_Recipe"
     },
     "Cost": 1500,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Krobus",
     "Item":
     {
-        "Value": "PPJA.cannabiskit.DGA/Converted_Weed-Infused Skooma Recipe"
+        "Value": "PPJA.cannabiskit.DGA/Converted_Weed-Infused Skooma_Recipe"
     },
     "Cost": 5500,
+    "Type": "DGARecipe"
 },
 {
     "ShopId": "Hospital",
