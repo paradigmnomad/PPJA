@@ -4,7 +4,7 @@
 		"GroupID": "FreshMeat.CookingRecipe",
 		"Title": "grilledskewer.title",
 		"Text": "grilledskewer.text",
-		"Recipe": "Grilled Skewer",
+		"Recipe": "Converted_Grilled Skewer Recipe",
 		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y2",
 		"Repeatable": false,
@@ -22,7 +22,7 @@
 		"GroupID": "FreshMeat.CookingRecipe",
 		"Title": "spaghettiandmeatballs.title",
 		"Text": "spaghettiandmeatballs.text",
-		"Recipe": "Spaghetti and Meatballs",
+		"Recipe": "Converted_Spaghetti and Meatballs Recipe",
 		"LetterBG": "CloudLetterBackground.png",
 		"Repeatable": false,
 		"FriendshipConditions":
