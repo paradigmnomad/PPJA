@@ -139,7 +139,8 @@
     },
     "Cost": 175,
     "EnableConditions": {
-      "Season |contains=spring": "true"
+      "Season |contains=spring": "true",
+      "Query: {{Year}} >= 2": "true",
     }
   },
   {

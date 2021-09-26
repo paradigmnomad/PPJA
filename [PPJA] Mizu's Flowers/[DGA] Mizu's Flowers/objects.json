@@ -131,6 +131,10 @@
     "Edibility": 18,
     "SellPrice": 160,
     "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_summer",
+        "flower_item",
+    ],
     "ID": "Passion Flower",
     "JsonAssetsName": "Passion Flower"
 },
@@ -140,6 +144,11 @@
     "Edibility": 18,
     "SellPrice": 35,
     "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_spring",
+        "flower_item",
+        "color_pink"
+    ],
     "ID": "Pink Cat",
     "JsonAssetsName": "Pink Cat"
 },
@@ -149,6 +158,11 @@
     "Edibility": 0,
     "SellPrice": 350,
     "UniversalGiftTaste": -40,
+    "ContextTags": [
+        "season_spring",
+        "flower_item",
+        "color_green"
+    ],
     "ID": "Pitcher Plant",
     "JsonAssetsName": "Pitcher Plant"
 },
@@ -159,6 +173,11 @@
     "Edibility": 18,
     "SellPrice": 75,
     "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_fall",
+        "flower_item",
+        "color_purple"
+    ],
     "ID": "Purple Coneflower",
     "JsonAssetsName": "Purple Coneflower"
 },
@@ -168,6 +187,13 @@
     "Edibility": 0,
     "SellPrice": 13000,
     "UniversalGiftTaste": -40,
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "color_red"
+    ],
     "ID": "Rafflesia",
     "JsonAssetsName": "Rafflesia"
 },
@@ -177,7 +203,15 @@
     "Category": "Flower",
     "Edibility": 18,
     "SellPrice": 55,
-    "UniversalGiftTaste": 45,
+    "UniversalGiftTaste": 45,    
+    "ContextTags": [
+        "season_spring",
+        "season_summer",
+        "season_fall",
+        "flower_item",
+        "color_red",
+        "trellis_item"
+    ],
     "ID": "Rose",
     "JsonAssetsName": "Rose, Spring Rose, Summer Rose, Fall Rose"
 },
@@ -188,6 +222,11 @@
     "Edibility": 18,
     "SellPrice": 45,
     "UniversalGiftTaste": 45,
+    "ContextTags": [
+        "season_spring",
+        "flower_item",
+        "color_purple"
+    ],
     "ID": "Shaded Violet",
     "JsonAssetsName": "Shaded Violet"
 },
@@ -197,12 +236,11 @@
     "Category": "Flower",
     "Edibility": 18,
     "SellPrice": 95,
-    "UniversalGiftTaste": 45,
+    "UniversalGiftTaste": 45,    
     "ContextTags": [
         "season_fall",
-        "color_sand",
-        "fruit_tree_item",
-        "nut_item"
+        "flower_item",
+        "color_white"
     ],
     "ID": "Sweet Jasmine",
     "JsonAssetsName": "Sweet Jasmine"

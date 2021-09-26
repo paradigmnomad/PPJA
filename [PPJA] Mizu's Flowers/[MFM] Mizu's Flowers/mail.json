@@ -123,7 +123,7 @@
         "Attachments": [{"Type": "Object", "Name":"Rose Starter", "Stack": 5},],    
         "LetterBG": "CloudLetterBackground.png",            
         "Repeatable": false,         
-        "Date": "12 summer Y1", 
+        "Date": "12 summer Y2", 
         "Seasons":  ["summer"], 
     },
 ]
