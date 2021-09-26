@@ -352,14 +352,25 @@
     /*"object.Wormwood.name": "Wormwood",
     "object.Wormwood.description": "It is immensely bitter. It can be used to brew absinthe.",
     "object.Wormwood.category": null,*/
+    "object.Mung Bean.name": "Mung Bean",
+    "object.Mung Bean.description": "The mung bean is a type of legume that goes great in savoury or sweet dishes.",
+    "object.Mung Bean.category": null,
+    "object.White Onion.name": "White Onion",
+    "object.White Onion.description": "Onions have layers. Ogres have layers... You get it? We both have layers",
+    "object.White Onion.category": null,
+
     "object.Bay Seeds.name": "Bay Seeds",
     "object.Bay Seeds.description": "Plant these in winter. Takes 6 days to mature.",
     "object.Catnip Seeds.name": "Catnip Seeds",
     "object.Catnip Seeds.description": "Plant these in summer or fall. Takes 4 days to mature.",
     "object.Champagne Grape Seeds.name": "Champagne Grape Starter",
     "object.Champagne Grape Seeds.description": "Plant these in spring or fall. Takes 11 days to mature, and keeps producing after the first harvest.",
-    /*"object.Wormwood Seeds.name": "Bay Seeds",
-    "object.Wormwood Seeds.description": "Plant these in winter. Takes 6 days to mature."*/
+    /*"object.Wormwood Seeds.name": "Wormwood Seeds",
+    "object.Wormwood Seeds.description": "Placeholder."*/
+    "object.Mung Bean Seeds.name": "Mung Bean Seeds",
+    "object.Mung Bean Seeds.description": "Plant these in spring. Takes 10 days to mature, and continues to produce after the first harvest.",
+    "object.White Onion Seeds.name": "White Onion Seeds",
+    "object.White Onion Seeds.description": "Plant these in the spring. Takes 8 days to mature.",
 
     "object.Serrano Chile.name": "Serrano Chile",
     "object.Serrano Chile.description": "A hot pepper that is typically eaten raw.",
@@ -378,13 +389,13 @@
     "object.Ghost Pepper.category": null,
 
     "object.Serrano Chile Seeds.name": "Serrano Chile",
-    "object.Serrano Chile Seeds.description": "Plant these in spring. Takes 10 days to mature.",
+    "object.Serrano Chile Seeds.description": "Plant these in spring. Takes 10 days to mature, and continues to produce after the first harvest.",
     "object.Scotch Bonnet Seeds.name": "Scotch Bonnet",
-    "object.Scotch Bonnet Seeds.description": "Plant these in summer. Takes 10 days to mature.",
+    "object.Scotch Bonnet Seeds.description": "Plant these in summer. Takes 10 days to mature, and continues to produce after the first harvest.",
     "object.Poblano Chile Seeds.name": "Poblano Chile",
-    "object.Poblano Chile Seeds.description": "Plant these in summer. Takes 10 days to mature.",
+    "object.Poblano Chile Seeds.description": "Plant these in summer. Takes 10 days to mature, and continues to produce after the first harvest.",
     "object.Carolina Reaper Seeds.name": "Carolina Reaper",
-    "object.Carolina Reaper Seeds.description": "Plant these in summer. Takes 10 days to mature.",
+    "object.Carolina Reaper Seeds.description": "Plant these in summer. Takes 10 days to mature, and continues to produce after the first harvest.",
     "object.Ghost Pepper Seeds.name": "Ghost Pepper",
-    "object.Ghost Pepper Seeds.description": "Plant these in summer. Takes 10 days to mature.",
+    "object.Ghost Pepper Seeds.description": "Plant these in summer. Takes 10 days to mature, and continues to produce after the first harvest.",
 }
