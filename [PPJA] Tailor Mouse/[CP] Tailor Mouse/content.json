@@ -38,33 +38,6 @@
             "HasReadLetter": "tailormouseletter",
             "HasMod |contains=TMXVMarket": false
         }
-    },/*
-    {
-        "LogName": "English Mail",
-        "Action": "EditData",
-        "Target": "Data/Mail",
-        "Entries":
-        {
-            "tailormouseletter": "Hi.^^Me sell clothes. Okay, poke?^^Come to arrow shape island, poke. Near old old old haus, poke. Bring many coines. New cloth every day.^^-tailor mouse",
-        },
-        "When":
-        {
-            "HasReadLetter": "hatter"
-        },
-    }, 
-    {
-        "LogName": "Chinese Mail",
-        "Action": "EditData",
-        "Target": "Data/Mail",
-        "Entries":
-        {
-            "tailormouseletter": "你好！^^我有在卖衣服，要来吗吱？^^位置就在箭头形状的那座半岛上吱。就在那座很老很老的老房子附近叽叽吱。带上那些亮晶晶的东西来吱。每天都有新衣服！^^——裁缝鼠",
-        },
-        "When":
-        {
-            "HasReadLetter": "hatter",
-            "Language": "zh",
-        },
-    }, */
+    },
     ]
 }
