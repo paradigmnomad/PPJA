@@ -241,8 +241,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Barley Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -255,8 +254,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Berry Fusion Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -269,8 +267,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Blue Mist Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -283,8 +280,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Breakfast Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -297,8 +293,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Cranberry Pomegranate Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -311,8 +306,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Chai Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -325,8 +319,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Chamomile Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -339,8 +332,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Chanterelle Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -353,8 +345,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Earl Grey Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -367,8 +358,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Dandelion Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -382,8 +372,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Green Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -396,8 +385,11 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Jasmine Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "EnableConditions":
+        {
+            "HasSeenEvent": "missingBundleComplete"
+        },
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -411,8 +403,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -425,8 +416,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Lemon Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -439,8 +429,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Mint Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -454,8 +443,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Morel Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -468,8 +456,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Oolong Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -483,8 +470,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Purple Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -498,8 +484,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Red Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -512,8 +497,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Rose Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -526,8 +510,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Spiced Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -540,8 +523,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/Strawberry Grapefruit Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
     {
         "MachineId": "ppja.artisanvalleymachinegoods.DGA/Glass Jar",
@@ -554,8 +536,7 @@
         {
             "Value": "ppja.artisanvalleymachinegoods.DGA/White Kombucha"
         },
-        "MachineFinishedTextureOverride":
-        "assets/big-craftables/GlassJar.png:1"
+        "MachineFinishedTextureOverride": "assets/big-craftables/GlassJar.png:1"
     },
 
     // Foreign Cask
@@ -1099,6 +1080,39 @@
         "MinutesToProcess": 1600,
         "Ingredients": [
         {
+            "Value": "ppja.grandmascookies.DGA/Bakers Wheat",
+        }, ],
+        "Result":
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+        "EnableConditions":
+        {
+            "HasMod": "ppja.grandmascookies.DGA"
+        }
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 240,
+        "Ingredients": [
+        {            
+            "Value": "ppja.moretrees.DGA/Almond",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Almond Flour"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 1600,
+        "Ingredients": [
+        {
             "Value": "ppja.fruitsandveggies.DGA/Wasabi Root",
         }, ],
         "Result":
@@ -1209,6 +1223,24 @@
         },
         "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
         "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+    },
+    {
+        "MachineId": "ppja.artisanvalleymachinegoods.DGA/Grinder",
+        "MinutesToProcess": 240,
+        "Ingredients": [
+        {           
+            "Value": "ppja.moretrees.DGA/Cocoa Pod",
+        }, ],
+        "Result":
+        {
+            "Value": "ppja.artisanvalley.DGA/Chocolate Liquor"
+        },
+        "MachineWorkingTextureOverride": "Grinder.png:1@10, Grinder.png:2@10, Grinder.png:3@10, Grinder.png:4@10, Grinder.png:5@10, Grinder.png:6@10",
+        "MachineFinishedTextureOverride": "assets/big-craftables/Grinder.png:7",
+        "EnableConditions":
+        {
+            "HasMod": "ppja.morerecipes.DGA"
+        }
     },
 
     // Infuser

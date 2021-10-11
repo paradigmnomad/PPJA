@@ -1,1031 +1,1028 @@
 [
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Biscotti"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.moretrees.DGA/Almond"
-      },
-      {
-        "Value": "ppja.morerecipes.DGA/Chocolate"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "246"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-5"
-      }
-    ],
-    "ID": "Converted_Biscotti_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Cake Pops"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-5"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "388"
-      }
-    ],
-    "ID": "Converted_Cake Pops_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Croissant"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-5"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "246"
-      }
-    ],
-    "ID": "Converted_Croissant_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Handbattered Ebi Tempura"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "720"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "246"
-      },
-      {
-        "Value": "ppja.freshmeat.DGA/Batter"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "829"
-      },
-      {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Soy Sauce"
-      }
-    ],
-    "ID": "Converted_Handbattered Ebi Tempura_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Hot Cocoa"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.moretrees.DGA/Cocoa Pod"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      }
-    ],
-    "ID": "Converted_Hot Cocoa_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Hot Sauce"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "419"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "256"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "248"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "260",
-        "Quantity": 2
-      }
-    ],
-    "ID": "Converted_Hot Sauce_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Oyster Sauce"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Soy Sauce"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "723"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      }
-    ],
-    "ID": "Converted_Oyster Sauce_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Petit Fours"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.moretrees.DGA/Almond",
-        "Quantity": 2
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245",
-        "Quantity": 2
-      }
-    ],
-    "ID": "Converted_Petit Fours_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Pizokel"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "-5"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      },
-      {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Buckwheat Flour"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "246"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Basil"
-      }
-    ],
-    "ID": "Converted_Pizokel_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Pound Cake"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-5",
-        "Quantity": 2
-      }
-    ],
-    "ID": "Converted_Pound Cake_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Pumpkin Spice Scone"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "276"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "246"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
-      },
-      {
-        "Value": "ppja.morerecipes.DGA/Nutmeg"
-      }
-    ],
-    "ID": "Converted_Pumpkin Spice Scone_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Scone"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-5"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "246"
-      }
-    ],
-    "ID": "Converted_Scone_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Sweet Sour Sauce"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "832"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "419"
-      },
-      {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Soy Sauce"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "284"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      }
-    ],
-    "ID": "Converted_Sweet Sour Sauce_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Teriyaki Sauce"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Soy Sauce"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "Ginger"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "340"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "248"
-      }
-    ],
-    "ID": "Converted_Teriyaki Sauce_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Wine Yeast"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "192"
-      }
-    ],
-    "ID": "Converted_Wine Yeast_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Yeast"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Barley Malt"
-      }
-    ],
-    "ID": "Converted_Yeast_Recipe"
-  },
-  {
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Alembic"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "334",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "766",
-        "Quantity": 50
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "709",
-        "Quantity": 10
-      }
-    ],
-    "ID": "Converted_Alembic_Recipe"
-  },
-  {
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Butter Churn"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "388",
-        "Quantity": 40
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "726"
-      }
-    ],
-    "ID": "Converted_Butter Churn_Recipe"
-  },
-  {
-    "SkillUnlockName": "Foraging",
-    "SkillUnlockLevel": 3,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Dehydrator"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "390",
-        "Quantity": 45
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "766",
-        "Quantity": 20
-      }
-    ],
-    "ID": "Converted_Dehydrator_Recipe"
-  },
-  {
-    "SkillUnlockName": "Foraging",
-    "SkillUnlockLevel": 3,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Drying Rack"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "388",
-        "Quantity": 50
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "771",
-        "Quantity": 20
-      }
-    ],
-    "ID": "Converted_Drying Rack_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "768",
-        "Quantity": 10
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "335",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "787"
-      }
-    ],
-    "ID": "Converted_Espresso Machine_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Extruder"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "709",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "335",
-        "Quantity": 2
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "787"
-      }
-    ],
-    "ID": "Converted_Extruder_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Foreign Cask"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "709",
-        "Quantity": 15
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "390",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "771",
-        "Quantity": 10
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "725"
-      }
-    ],
-    "ID": "Converted_Foreign Cask_Recipe"
-  },
-  {
-    "SkillUnlockName": "Foraging",
-    "SkillUnlockLevel": 2,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Glass Jar"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "388",
-        "Quantity": 20
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "766",
-        "Quantity": 100
-      }
-    ],
-    "ID": "Converted_Glass Jar_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Grinder"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "709",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "335",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "787"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "338"
-      }
-    ],
-    "ID": "Converted_Grinder_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "84",
-        "Quantity": 2
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "335",
-        "Quantity": 20
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "787"
-      }
-    ],
-    "ID": "Converted_Ice Cream Machine_Recipe"
-  },
-  {
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Infuser"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "338",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "388",
-        "Quantity": 40
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "335",
-        "Quantity": 10
-      }
-    ],
-    "ID": "Converted_Infuser_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Juicer"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "709",
-        "Quantity": 10
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "335",
-        "Quantity": 20
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "575"
-      }
-    ],
-    "ID": "Converted_Juicer_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Pepper Blender"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "338",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "335",
-        "Quantity": 3
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "787",
-        "Quantity": 3
-      }
-    ],
-    "ID": "Converted_Pepper Blender_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Smoker"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "335",
-        "Quantity": 10
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "382",
-        "Quantity": 20
-      }
-    ],
-    "ID": "Converted_Smoker_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Soap Press"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "334"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "335",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "766",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "572"
-      }
-    ],
-    "ID": "Converted_Soap Press_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Sorbet Machine"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "335",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "336",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "709",
-        "Quantity": 5
-      }
-    ],
-    "ID": "Converted_Sorbet Machine_Recipe"
-  },
-  {
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Still"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "335",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "334",
-        "Quantity": 10
-      }
-    ],
-    "ID": "Converted_Still_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Vinegar Cask"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "338",
-        "Quantity": 30
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "335"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "726",
-        "Quantity": 3
-      }
-    ],
-    "ID": "Converted_Vinegar Cask_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Wax Barrel"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "340",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "335"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "388",
-        "Quantity": 50
-      }
-    ],
-    "ID": "Converted_Wax Barrel_Recipe"
-  },
-  {
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.artisanvalleymachinegoods.DGA/Yogurt Jar"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "390",
-        "Quantity": 40
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "186",
-        "Quantity": 5
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "337",
-        "Quantity": 2
-      }
-    ],
-    "ID": "Converted_Yogurt Jar_Recipe"
-  }
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Biscotti"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Almond"
+        },
+        {
+            "Value": "ppja.morerecipes.DGA/Chocolate"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        }],
+        "ID": "Converted_Biscotti_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Cake Pops"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "388"
+        }],
+        "ID": "Converted_Cake Pops_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Croissant"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        }],
+        "ID": "Converted_Croissant_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Handbattered Ebi Tempura"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "720"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Value": "ppja.freshmeat.DGA/Batter"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "829"
+        },
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Soy Sauce"
+        }, ],
+        "EnableConditions":
+        {
+            "HasMod": "ppja.freshmeat.DGA"
+        },
+        "ID": "Converted_Handbattered Ebi Tempura_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Hot Cocoa"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Cocoa Pod"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        }],
+        "ID": "Converted_Hot Cocoa_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Hot Sauce"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "419"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "256"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "248"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "260",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Hot Sauce_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Oyster Sauce"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Soy Sauce"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "723"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        }],
+        "ID": "Converted_Oyster Sauce_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Petit Fours"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Almond",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Petit Fours_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Pizokel"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        },
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Buckwheat Flour"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Basil"
+        }],
+        "ID": "Converted_Pizokel_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Pound Cake"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Butter"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Pound Cake_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Pumpkin Spice Scone"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "276"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
+        },
+        {
+            "Value": "ppja.morerecipes.DGA/Nutmeg"
+        }],
+        "ID": "Converted_Pumpkin Spice Scone_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Ricotta"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "goat_milk_item",
+            "IconOverride": "assets/context-tag-override/GoatIcon.png",
+            "NameOverride": "Goat Milk (Any)"
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lemon"
+        },
+        {
+            "Value": "ppja.morerecipes.DGA/Salt"
+        }, ],
+        "ID": "Ricotta_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Scone"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        }],
+        "ID": "Converted_Scone_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Sweet Sour Sauce"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "832"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "419"
+        },
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Soy Sauce"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "284"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        }],
+        "ID": "Converted_Sweet Sour Sauce_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Teriyaki Sauce"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Soy Sauce"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "Ginger"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "340"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "248"
+        }],
+        "ID": "Converted_Teriyaki Sauce_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Wine Yeast"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "192"
+        }],
+        "ID": "Converted_Wine Yeast_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Yeast"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Barley Malt"
+        }],
+        "ID": "Converted_Yeast_Recipe"
+    },
+
+    // Machines
+
+    {
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Alembic"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "334",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "766",
+            "Quantity": 50
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "709",
+            "Quantity": 10
+        }],
+        "ID": "Converted_Alembic_Recipe"
+    },
+    {
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Butter Churn"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "388",
+            "Quantity": 40
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "726"
+        }],
+        "ID": "Converted_Butter Churn_Recipe"
+    },
+    {
+        "SkillUnlockName": "Foraging",
+        "SkillUnlockLevel": 3,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Dehydrator"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "390",
+            "Quantity": 45
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "766",
+            "Quantity": 20
+        }],
+        "ID": "Converted_Dehydrator_Recipe"
+    },
+    {
+        "SkillUnlockName": "Foraging",
+        "SkillUnlockLevel": 3,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Drying Rack"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "388",
+            "Quantity": 50
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "771",
+            "Quantity": 20
+        }],
+        "ID": "Converted_Drying Rack_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Espresso Machine"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "768",
+            "Quantity": 10
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "787"
+        }],
+        "ID": "Converted_Espresso Machine_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Extruder"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "709",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "787"
+        }],
+        "ID": "Converted_Extruder_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Foreign Cask"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "709",
+            "Quantity": 15
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "390",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "771",
+            "Quantity": 10
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "725"
+        }],
+        "ID": "Converted_Foreign Cask_Recipe"
+    },
+    {
+        "SkillUnlockName": "Foraging",
+        "SkillUnlockLevel": 2,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Glass Jar"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "388",
+            "Quantity": 20
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "766",
+            "Quantity": 100
+        }],
+        "ID": "Converted_Glass Jar_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Grinder"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "709",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "787"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "338"
+        }],
+        "ID": "Converted_Grinder_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Ice Cream Machine"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "84",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 20
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "787"
+        }],
+        "ID": "Converted_Ice Cream Machine_Recipe"
+    },
+    {
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Infuser"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "338",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "388",
+            "Quantity": 40
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 10
+        }],
+        "ID": "Converted_Infuser_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Juicer"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "709",
+            "Quantity": 10
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 20
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "575"
+        }],
+        "ID": "Converted_Juicer_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Pepper Blender"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "338",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 3
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "787",
+            "Quantity": 3
+        }],
+        "ID": "Converted_Pepper Blender_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Smoker"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 10
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "382",
+            "Quantity": 20
+        }],
+        "ID": "Converted_Smoker_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Soap Press"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "334"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "766",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "572"
+        }],
+        "ID": "Converted_Soap Press_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Sorbet Machine"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "336",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "709",
+            "Quantity": 5
+        }],
+        "ID": "Converted_Sorbet Machine_Recipe"
+    },
+    {
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Still"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "335",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "334",
+            "Quantity": 10
+        }],
+        "ID": "Converted_Still_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Vinegar Cask"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "338",
+            "Quantity": 30
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "335"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "726",
+            "Quantity": 3
+        }],
+        "ID": "Converted_Vinegar Cask_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Wax Barrel"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "340",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "335"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "388",
+            "Quantity": 50
+        }],
+        "ID": "Converted_Wax Barrel_Recipe"
+    },
+    {
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.artisanvalleymachinegoods.DGA/Yogurt Jar"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "390",
+            "Quantity": 40
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "186",
+            "Quantity": 5
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "337",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Yogurt Jar_Recipe"
+    }
 ]

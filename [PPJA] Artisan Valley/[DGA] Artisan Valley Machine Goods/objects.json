@@ -514,7 +514,7 @@
         "JsonAssetsName": "Coconut Oil"
     },
     {
-        "Texture": "assets/objects/Cointreau.png", 
+        "Texture": "assets/objects/Cointreau.png",
         "Category": "ArtisanGoods",
         "Edibility": 8,
         "EdibleIsDrink": true,
@@ -806,8 +806,8 @@
         "EdibleIsDrink": true,
         "SellPrice": 500,
         "UniversalGiftTaste": 45,
-        "GiftTasteOverride":{
-        },
+        "GiftTasteOverride":
+        {},
         "ID": "Green Kombucha",
         "JsonAssetsName": "Green Kombucha"
     },
@@ -841,6 +841,10 @@
         "Edibility": 15,
         "SellPrice": 775,
         "UniversalGiftTaste": -20,
+        "EnableConditions":
+        {
+            "HasMod": "ppja.freshmeat.DGA"
+        },
         "ID": "Handbattered Ebi Tempura",
         "JsonAssetsName": "Handbattered Ebi Tempura"
     },
@@ -944,6 +948,10 @@
         "EdibleIsDrink": true,
         "SellPrice": 850,
         "UniversalGiftTaste": 45,
+        "EnableConditions":
+        {
+            "HasSeenEvent": "missingBundleComplete"
+        },
         "ID": "Jasmine Kombucha",
         "JsonAssetsName": "Jasmine Kombucha"
     },
@@ -1019,6 +1027,10 @@
         "Category": "ArtisanGoods",
         "SellPrice": 100,
         "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "color_yellow",
+            "candied_fruit_item"
+        ],
         "ID": "Lemon Peel",
         "JsonAssetsName": "Lemon Peel"
     },
@@ -1036,6 +1048,10 @@
         "Category": "ArtisanGoods",
         "SellPrice": 100,
         "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "color_green",
+            "candied_fruit_item"
+        ],
         "ID": "Lime Peel",
         "JsonAssetsName": "Lime Peel"
     },
@@ -1309,6 +1325,10 @@
         "Category": "ArtisanGoods",
         "SellPrice": 100,
         "UniversalGiftTaste": -20,
+        "ContextTags": [
+            "color_orange",
+            "candied_fruit_item"
+        ],
         "ID": "Orange Peel",
         "JsonAssetsName": "Orange Peel"
     },
@@ -2147,6 +2167,13 @@
     // New Items
 
     {
+        "Texture": "assets/objects/Almond Flour.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 130,
+        "UniversalGiftTaste": -20,
+        "ID": "Almond Flour",
+    },
+    {
         "Texture": "assets/objects/Cafe au Lait.png",
         "Category": "ArtisanGoods",
         "Edibility": 30,
@@ -2161,6 +2188,14 @@
         "ID": "Cafe au Lait",
     },
     {
+        "Texture": "assets/objects/Chocolate Liquor.png",
+        "Category": "ArtisanGoods",
+        "Edibility": -300,
+        "SellPrice": 350,
+        "UniversalGiftTaste": 20,
+        "ID": "Chocolate Liquor",
+    },
+    {
         "Texture": "assets/objects/Dark Coffee.png",
         "Category": "ArtisanGoods",
         "Edibility": 30,
@@ -2173,5 +2208,13 @@
         "SellPrice": 890,
         "UniversalGiftTaste": 20,
         "ID": "Dark Coffee",
+    },
+    {
+        "Texture": "assets/objects/Ricotta.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 3,
+        "SellPrice": 1120,
+        "UniversalGiftTaste": 20,
+        "ID": "Ricotta",
     },
 ]
