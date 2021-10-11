@@ -4580,4 +4580,188 @@
             "CanGrowNow": true
         }, ],
     },
+     {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Mung Bean Crop.png:0",
+                "assets/crops/Mung Bean Crop.png:1"
+            ],
+            "Length": 1,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Mung Bean Crop.png:2"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Mung Bean Crop.png:3"
+            ],
+            "Length": 3,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Mung Bean Crop.png:4"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Mung Bean Crop.png:5"
+            ],
+            "Length": 2,
+            "Trellis": true
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Mung Bean Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "MaximumHarvestedQuantity": 3,
+                "ExtraQuantityChance": 0.2,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Mung Bean"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18,
+            "HarvestedNewPhase": 4
+        }],
+        "ID": "Mung Bean Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/Ube Crop.png:0",
+                "assets/crops/Ube Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ube Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ube Crop.png:3"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ube Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ube Crop.png:5"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/Ube Crop.png:6"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/Ube"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18
+        }],
+        "ID": "Ube Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "summer"
+            },
+            "CanGrowNow": true
+        }, ],
+    },
+    {
+        "Phases": [
+        {
+            "TextureChoices": [
+                "assets/crops/White Onion Crop.png:0",
+                "assets/crops/White Onion Crop.png:1"
+            ],
+            "Length": 1
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/White Onion Crop.png:2"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/White Onion Crop.png:3"
+            ],
+            "Length": 3
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/White Onion Crop.png:4"
+            ],
+            "Length": 2
+        },
+        {
+            "TextureChoices": [
+                "assets/crops/White Onion Crop.png:5"
+            ],
+            "HarvestedDrops": [
+            {
+                "ExtraQuantityChance": 0.0,
+                "Item": [
+                {
+                    "Weight": 1.0,
+                    "Value":
+                    {
+                        "Value": "ppja.fruitsandveggies.DGA/White Onion"
+                    }
+                }]
+            }],
+            "HarvestedExperience": 18
+        }],
+        "ID": "White Onion Crop",
+        "DynamicFields": [
+        {
+            "Conditions":
+            {
+                "Season": "spring"
+            },
+            "CanGrowNow": true
+        }, ],
+    },
 ]

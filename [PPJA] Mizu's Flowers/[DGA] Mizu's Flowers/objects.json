@@ -216,6 +216,18 @@
     "JsonAssetsName": "Rose, Spring Rose, Summer Rose, Fall Rose"
 },
 {
+    "Texture": "assets/objects/Rose Water.png",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "SellPrice": 55,
+    "UniversalGiftTaste": 45,   
+    "ID": "Rose Water",
+    "EnableConditions":
+    {
+        "HasMod": "ppja.grandmascookies.DGA"
+    }
+},
+{
     "Texture": "assets/objects/Shaded Violet.png",
     "TextureColor": "assets/objects/Shaded Violet_color.png",
     "Category": "Flower",

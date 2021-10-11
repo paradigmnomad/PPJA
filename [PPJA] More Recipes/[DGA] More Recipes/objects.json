@@ -1,722 +1,727 @@
 [
-{
-    "Texture": "assets/objects/Avocado Eel Roll.png",
-    "Category": "Cooking",
-    "Edibility": 48,
-    "SellPrice": 555,
-    "UniversalGiftTaste": 45,
-    "ID": "Avocado Eel Roll",
-    "JsonAssetsName": "Avocado Eel Roll"
-},
-{
-    "Texture": "assets/objects/Avocado Toast.png",
-    "Category": "Cooking",
-    "Edibility": 48,
-    "SellPrice": 410,
-    "UniversalGiftTaste": 45,
-    "ID": "Avocado Toast",
-    "JsonAssetsName": "Avocado Toast"
-},
-{
-    "Texture": "assets/objects/Baked Sweet Potato.png",
-    "Category": "Cooking",
-    "Edibility": 20,
-    "SellPrice": 270,
-    "UniversalGiftTaste": 45,
-    "ID": "Baked Sweet Potato",
-    "JsonAssetsName": "Baked Sweet Potato"
-},
-{
-    "Texture": "assets/objects/Banana Bread.png",
-    "Category": "Cooking",
-    "Edibility": 90,
-    "SellPrice": 820,
-    "UniversalGiftTaste": 45,
-    "ID": "Banana Bread",
-    "JsonAssetsName": "Banana Bread"
-},
-{
-    "Texture": "assets/objects/Barley Tea.png",
-    "Category": "Cooking",
-    "Edibility": 21,
-    "EdibleIsDrink": true,
-    "SellPrice": 325,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "recipe_year_2",
-        "color_brown",
-        "tea_item"
-    ],
-    "ID": "Barley Tea",
-    "JsonAssetsName": "Barley Tea"
-},
-{
-    "Texture": "assets/objects/Berry Fusion Tea.png",
-    "Category": "Cooking",
-    "Edibility": 21,
-    "EdibleIsDrink": true,
-    "EdibleBuffs":
     {
-        "Attack": 2,
-        "Duration": 300
+        "Texture": "assets/objects/Avocado Eel Roll.png",
+        "Category": "Cooking",
+        "Edibility": 48,
+        "SellPrice": 555,
+        "UniversalGiftTaste": 45,
+        "ID": "Avocado Eel Roll",
+        "JsonAssetsName": "Avocado Eel Roll"
     },
-    "SellPrice": 525,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_white",
-        "tea_item"
-    ],
-    "ID": "Berry Fusion Tea",
-    "JsonAssetsName": "Berry Fusion Tea"
-},
-{
-    "Texture": "assets/objects/Black Tea.png",
-    "Category": "Cooking",
-    "Edibility": 5,
-    "EdibleIsDrink": true,
-    "EdibleBuffs":
     {
-        "Mining": 3,
-        "Duration": 300
+        "Texture": "assets/objects/Avocado Toast.png",
+        "Category": "Cooking",
+        "Edibility": 48,
+        "SellPrice": 410,
+        "UniversalGiftTaste": 45,
+        "ID": "Avocado Toast",
+        "JsonAssetsName": "Avocado Toast"
     },
-    "SellPrice": 375,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_blue",
-        "color_yellow",
-        "tea_item"
-    ],
-    "ID": "Black Tea",
-    "JsonAssetsName": "Black Tea"
-},
-{
-    "Texture": "assets/objects/Blue Mist Tea.png",
-    "Category": "Cooking",
-    "Edibility": 23,
-    "EdibleIsDrink": true,
-    "SellPrice": 445,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_blue",
-        "color_white",
-        "tea_item"
-    ],
-    "ID": "Blue Mist Tea",
-    "JsonAssetsName": "Blue Mist Tea"
-},
-{
-    "Texture": "assets/objects/Boba Tea.png",
-    "Category": "Cooking",
-    "Edibility": 50,
-    "EdibleIsDrink": true,
-    "SellPrice": 625,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_light_purple"
-    ],
-    "ID": "Boba Tea",
-    "JsonAssetsName": "Boba Tea"
-},
-{
-    "Texture": "assets/objects/Breakfast Tea.png",
-    "Category": "Cooking",
-    "Edibility": 33,
-    "EdibleIsDrink": true,
-    "SellPrice": 490,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_gray",
-        "tea_item"
-    ],
-    "ID": "Breakfast Tea",
-    "JsonAssetsName": "Breakfast Tea"
-},
-{
-    "Texture": "assets/objects/Broccoli and Cheese.png",
-    "Category": "Cooking",
-    "Edibility": 70,
-    "SellPrice": 420,
-    "UniversalGiftTaste": 45,
-    "ID": "Broccoli and Cheese",
-    "JsonAssetsName": "Broccoli and Cheese"
-},
-{
-    "Texture": "assets/objects/Brown Sugar.png",
-    "Category": "Cooking",
-    "Edibility": 38,
-    "SellPrice": 400,
-    "UniversalGiftTaste": 20,
-    "ID": "Brown Sugar",
-    "JsonAssetsName": "Brown Sugar"
-},
-{
-    "Texture": "assets/objects/Carrot Cake.png",
-    "Category": "Cooking",
-    "Edibility": 58,
-    "SellPrice": 490,
-    "UniversalGiftTaste": 45,
-    "ID": "Carrot Cake",
-    "JsonAssetsName": "Carrot Cake"
-},
-{
-    "Texture": "assets/objects/Cassava Cake.png",
-    "Category": "Cooking",
-    "Edibility": 34,
-    "SellPrice": 490,
-    "UniversalGiftTaste": 45,
-    "ID": "Cassava Cake",
-    "JsonAssetsName": "Cassava Cake"
-},
-{
-    "Texture": "assets/objects/Celery and Peanut Butter.png",
-    "Category": "Cooking",
-    "Edibility": 26,
-    "SellPrice": 380,
-    "UniversalGiftTaste": 45,
-    "ID": "Celery and Peanut Butter",
-    "JsonAssetsName": "Celery and Peanut Butter"
-},
-{
-    "Texture": "assets/objects/Chai Tea.png",
-    "Category": "Cooking",
-    "Edibility": 5,
-    "EdibleIsDrink": true,
-    "SellPrice": 600,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "recipe_year_2",
-        "color_white",
-        "tea_item"
-    ],
-    "ID": "Chai Tea",
-    "JsonAssetsName": "Chai Tea"
-},
-{
-    "Texture": "assets/objects/Chamomile Tea.png",
-    "Category": "Cooking",
-    "Edibility": 41,
-    "EdibleIsDrink": true,
-    "SellPrice": 275,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_white",
-        "color_purple",
-        "tea_item"
-    ],
-    "ID": "Chamomile Tea",
-    "JsonAssetsName": "Chamomile Tea"
-},
-{
-    "Texture": "assets/objects/Chef Salad.png",
-    "Category": "Cooking",
-    "Edibility": 132,
-    "SellPrice": 565,
-    "UniversalGiftTaste": 45,
-    "ID": "Chef Salad",
-    "JsonAssetsName": "Chef Salad"
-},
-{
-    "Texture": "assets/objects/Chili Powder.png",
-    "Category": "ArtisanGoods",
-    "SellPrice": 80,
-    "UniversalGiftTaste": -20,
-    "ID": "Chili Powder",
-    "JsonAssetsName": "Chili Powder"
-},
-{
-    "Texture": "assets/objects/Chocolate.png",
-    "Category": "Cooking",
-    "Edibility": 34,
-    "SellPrice": 435,
-    "UniversalGiftTaste": 45,
-    "ID": "Chocolate",
-    "JsonAssetsName": "Chocolate"
-},
-{
-    "Texture": "assets/objects/Chocolate Covered Strawberry.png",
-    "Category": "Cooking",
-    "Edibility": 60,
-    "SellPrice": 695,
-    "UniversalGiftTaste": 45,
-    "ID": "Chocolate Covered Strawberry",
-    "JsonAssetsName": "Chocolate Covered Strawberry"
-},
-{
-    "Texture": "assets/objects/Chocolate Pudding.png",
-    "Category": "Cooking",
-    "Edibility": 56,
-    "SellPrice": 685,
-    "UniversalGiftTaste": 45,
-    "ID": "Chocolate Pudding",
-    "JsonAssetsName": "Chocolate Pudding"
-},
-{
-    "Texture": "assets/objects/Crab Roll.png",
-    "Category": "Cooking",
-    "Edibility": 110,
-    "SellPrice": 680,
-    "UniversalGiftTaste": 45,
-    "ID": "Crab Roll",
-    "JsonAssetsName": "Crab Roll"
-},
-{
-    "Texture": "assets/objects/Cranberry Pomegranate Tea.png",
-    "Category": "Cooking",
-    "Edibility": 56,
-    "EdibleIsDrink": true,
-    "EdibleBuffs":
     {
-        "Defense": 2,
-        "Duration": 300
+        "Texture": "assets/objects/Baked Sweet Potato.png",
+        "Category": "Cooking",
+        "Edibility": 20,
+        "SellPrice": 270,
+        "UniversalGiftTaste": 45,
+        "ID": "Baked Sweet Potato",
+        "JsonAssetsName": "Baked Sweet Potato"
     },
-    "SellPrice": 600,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_white",
-        "tea_item"
-    ],
-    "ID": "Cranberry Pomegranate Tea",
-    "JsonAssetsName": "Cranberry Pomegranate Tea"
-},
-{
-    "Texture": "assets/objects/Crocus White Tea.png",
-    "Category": "Cooking",
-    "Edibility": 16,
-    "EdibleIsDrink": true,
-    "EdibleBuffs":
     {
-        "Foraging": 1,
-        "Duration": 100
+        "Texture": "assets/objects/Banana Bread.png",
+        "Category": "Cooking",
+        "Edibility": 90,
+        "SellPrice": 820,
+        "UniversalGiftTaste": 45,
+        "ID": "Banana Bread",
+        "JsonAssetsName": "Banana Bread"
     },
-    "SellPrice": 375,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_white",
-        "color_purple",
-        "tea_item"
-    ],
-    "ID": "Crocus White Tea",
-    "JsonAssetsName": "Crocus White Tea"
-},
-{
-    "Texture": "assets/objects/Cucumber Roll.png",
-    "Category": "Cooking",
-    "Edibility": 36,
-    "SellPrice": 360,
-    "UniversalGiftTaste": 45,
-    "ID": "Cucumber Roll",
-    "JsonAssetsName": "Cucumber Roll"
-},
-{
-    "Texture": "assets/objects/Cucumber Sandwich.png",
-    "Category": "Cooking",
-    "Edibility": 48,
-    "SellPrice": 400,
-    "UniversalGiftTaste": 45,
-    "ID": "Cucumber Sandwich",
-    "JsonAssetsName": "Cucumber Sandwich"
-},
-{
-    "Texture": "assets/objects/Cumin Spice.png",
-    "SellPrice": 50,
-    "UniversalGiftTaste": -20,
-    "ID": "Cumin Spice",
-    "JsonAssetsName": "Cumin Spice"
-},
-{
-    "Texture": "assets/objects/Curry Powder.png",
-    "SellPrice": 50,
-    "UniversalGiftTaste": -20,
-    "ID": "Curry Powder",
-    "JsonAssetsName": "Curry Powder"
-},
-{
-    "Texture": "assets/objects/Dandelion Tea.png",
-    "Category": "Cooking",
-    "Edibility": 27,
-    "EdibleIsDrink": true,
-    "EdibleBuffs":
     {
-        "Farming": 2,
-        "Duration": 300
+        "Texture": "assets/objects/Barley Tea.png",
+        "Category": "Cooking",
+        "Edibility": 21,
+        "EdibleIsDrink": true,
+        "SellPrice": 325,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "recipe_year_2",
+            "color_brown",
+            "tea_item"
+        ],
+        "ID": "Barley Tea",
+        "JsonAssetsName": "Barley Tea"
     },
-    "SellPrice": 245,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_yellow",
-        "color_white",
-        "color_pink",
-        "tea_item"
-    ],
-    "ID": "Dandelion Tea",
-    "JsonAssetsName": "Dandelion Tea"
-},
-{
-    "Texture": "assets/objects/Earl Grey Tea.png",
-    "Category": "Cooking",
-    "Edibility": 20,
-    "EdibleIsDrink": true,
-    "SellPrice": 380,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_yellow",
-        "tea_item"
-    ],
-    "ID": "Earl Grey Tea",
-    "JsonAssetsName": "Earl Grey Tea"
-},
-{
-    "Texture": "assets/objects/Farofa.png",
-    "Category": "Cooking",
-    "Edibility": 34,
-    "SellPrice": 535,
-    "UniversalGiftTaste": 45,
-    "ID": "Farofa",
-    "JsonAssetsName": "Farofa"
-},
-{
-    "Texture": "assets/objects/Fig Tart.png",
-    "Category": "Cooking",
-    "Edibility": 36,
-    "SellPrice": 350,
-    "UniversalGiftTaste": 45,
-    "ID": "Fig Tart",
-    "JsonAssetsName": "Fig Tart"
-},
-{
-    "Texture": "assets/objects/Fruit Tea.png",
-    "Category": "Cooking",
-    "Edibility": 22,
-    "EdibleIsDrink": true,
-    "SellPrice": 425,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_brown",
-        "tea_item"
-    ],
-    "ID": "Fruit Tea",
-    "JsonAssetsName": "Fruit Tea"
-},
-{
-    "Texture": "assets/objects/Gooseberry Pie.png",
-    "Category": "Cooking",
-    "Edibility": 54,
-    "SellPrice": 410,
-    "UniversalGiftTaste": 45,
-    "ID": "Gooseberry Pie",
-    "JsonAssetsName": "Gooseberry Pie"
-},
-{
-    "Texture": "assets/objects/Island Salad.png",
-    "Category": "Cooking",
-    "Edibility": 80,
-    "SellPrice": 570,
-    "UniversalGiftTaste": 45,
-    "ID": "Island Salad",
-    "JsonAssetsName": "Island Salad"
-},
-{
-    "Texture": "assets/objects/Jasmine Tea.png",
-    "Category": "Cooking",
-    "Edibility": 24,
-    "EdibleIsDrink": true,
-    "SellPrice": 425,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_white",
-        "tea_item"
-    ],
-    "ID": "Jasmine Tea",
-    "JsonAssetsName": "Jasmine Tea"
-},
-{
-    "Texture": "assets/objects/Lavender Milk Tea.png",
-    "Category": "Cooking",
-    "Edibility": 52,
-    "EdibleIsDrink": true,
-    "SellPrice": 600,
-    "UniversalGiftTaste": 45,
-    "ID": "Lavender Milk Tea",
-    "JsonAssetsName": "Lavender Milk Tea"
-},
-{
-    "Texture": "assets/objects/Lemon Tea.png",
-    "Category": "Cooking",
-    "Edibility": 32,
-    "EdibleIsDrink": true,
-    "EdibleBuffs":
     {
-        "Luck": 1,
-        "Duration": 300
+        "Texture": "assets/objects/Berry Fusion Tea.png",
+        "Category": "Cooking",
+        "Edibility": 21,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Attack": 2,
+            "Duration": 300
+        },
+        "SellPrice": 525,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_white",
+            "tea_item"
+        ],
+        "ID": "Berry Fusion Tea",
+        "JsonAssetsName": "Berry Fusion Tea"
     },
-    "SellPrice": 375,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_yellow",
-        "tea_item"
-    ],
-    "ID": "Lemon Tea",
-    "JsonAssetsName": "Lemon Tea"
-},
-{
-    "Texture": "assets/objects/Marshmallow Fluff.png",
-    "Category": "ArtisanGoods",
-    "Edibility": 5,
-    "SellPrice": 30,
-    "UniversalGiftTaste": 45,
-    "ID": "Marshmallow Fluff",
-    "JsonAssetsName": "Marshmallow Fluff"
-},
-{
-    "Texture": "assets/objects/Melon Salad.png",
-    "Category": "Cooking",
-    "Edibility": 146,
-    "SellPrice": 925,
-    "UniversalGiftTaste": 45,
-    "ID": "Melon Salad",
-    "JsonAssetsName": "Melon Salad"
-},
-{
-    "Texture": "assets/objects/Mint Tea.png",
-    "Category": "Cooking",
-    "Edibility": 16,
-    "EdibleIsDrink": true,
-    "SellPrice": 260,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_white",
-        "color_red",
-        "tea_item"
-    ],
-    "ID": "Mint Tea",
-    "JsonAssetsName": "Mint Tea"
-},
-{
-    "Texture": "assets/objects/Nutmeg.png",
-    "SellPrice": 50,
-    "UniversalGiftTaste": -20,
-    "ID": "Nutmeg",
-    "JsonAssetsName": "Nutmeg"
-},
-{
-    "Texture": "assets/objects/Oolong Tea.png",
-    "Category": "Cooking",
-    "Edibility": 6,
-    "EdibleIsDrink": true,
-    "SellPrice": 375,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_yellow",
-        "color_green",
-        "tea_item"
-    ],
-    "ID": "Oolong Tea",
-    "JsonAssetsName": "Oolong Tea"
-},
-{
-    "Texture": "assets/objects/Paprika.png",
-    "SellPrice": 50,
-    "UniversalGiftTaste": -20,
-    "ID": "Paprika",
-    "JsonAssetsName": "Paprika"
-},
-{
-    "Texture": "assets/objects/PB&J Sandwich.png",
-    "Category": "Cooking",
-    "Edibility": 40,
-    "SellPrice": 530,
-    "UniversalGiftTaste": 45,
-    "ID": "PB&J Sandwich",
-    "JsonAssetsName": "PB&J Sandwich"
-},
-{
-    "Texture": "assets/objects/Peanut Butter.png",
-    "Category": "Cooking",
-    "Edibility": 14,
-    "SellPrice": 160,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "peanut_butter_item"
-    ],
-    "ID": "Peanut Butter",
-    "JsonAssetsName": "Peanut Butter"
-},
-{
-    "Texture": "assets/objects/Pepper.png",
-    "SellPrice": 50,
-    "UniversalGiftTaste": -20,
-    "ID": "Pepper",
-    "JsonAssetsName": "Pepper"
-},
-{
-    "Texture": "assets/objects/Poached Pear.png",
-    "Category": "Cooking",
-    "Edibility": 54,
-    "SellPrice": 735,
-    "UniversalGiftTaste": 45,
-    "ID": "Poached Pear",
-    "JsonAssetsName": "Poached Pear"
-},
-{
-    "Texture": "assets/objects/Raspberry Tart.png",
-    "Category": "Cooking",
-    "Edibility": 36,
-    "SellPrice": 280,
-    "UniversalGiftTaste": 45,
-    "ID": "Raspberry Tart",
-    "JsonAssetsName": "Raspberry Tart"
-},
-{
-    "Texture": "assets/objects/Rice Pilaf.png",
-    "Category": "Cooking",
-    "Edibility": 35,
-    "SellPrice": 450,
-    "UniversalGiftTaste": 45,
-    "ID": "Rice Pilaf",
-    "JsonAssetsName": "Rice Pilaf"
-},
-{
-    "Texture": "assets/objects/Rose Tea.png",
-    "Category": "Cooking",
-    "Edibility": 26,
-    "EdibleIsDrink": true,
-    "SellPrice": 320,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_red",
-        "color_pink",
-        "tea_item"
-    ],
-    "ID": "Rose Tea",
-    "JsonAssetsName": "Rose Tea"
-},
-{
-    "Texture": "assets/objects/Salt.png",
-    "SellPrice": 50,
-    "UniversalGiftTaste": -20,
-    "ID": "Salt",
-    "JsonAssetsName": "Salt"
-},
-{
-    "Texture": "assets/objects/Sauteed Onions.png",
-    "Category": "Cooking",
-    "Edibility": 28,
-    "SellPrice": 100,
-    "UniversalGiftTaste": 45,
-    "ID": "Sauteed Onions",
-    "JsonAssetsName": "Sauteed Onions"
-},
-{
-    "Texture": "assets/objects/Southern Sweet Tea.png",
-    "Category": "Cooking",
-    "Edibility": 28,
-    "EdibleBuffs":
     {
-        "Luck": 1,
-        "Duration": 350
+        "Texture": "assets/objects/Black Tea.png",
+        "Category": "Cooking",
+        "Edibility": 5,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Mining": 3,
+            "Duration": 300
+        },
+        "SellPrice": 375,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_blue",
+            "color_yellow",
+            "tea_item"
+        ],
+        "ID": "Black Tea",
+        "JsonAssetsName": "Black Tea"
     },
-    "SellPrice": 430,
-    "UniversalGiftTaste": 45,
-    "ID": "Southern Sweet Tea",
-    "JsonAssetsName": "Southern Sweet Tea"
-},
-{
-    "Texture": "assets/objects/Spice Tea.png",
-    "Category": "Cooking",
-    "Edibility": 48,
-    "EdibleIsDrink": true,
-    "SellPrice": 565,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_red",
-        "color_pink",
-        "tea_item"
-    ],
-    "ID": "Spice Tea",
-    "JsonAssetsName": "Spice Tea"
-},
-{
-    "Texture": "assets/objects/Strawberry Grapefruit Tea.png",
-    "Category": "Cooking",
-    "Edibility": 58,
-    "EdibleIsDrink": true,
-    "EdibleBuffs":
     {
-        "Farming": 2,
-        "Duration": 300
+        "Texture": "assets/objects/Blue Mist Tea.png",
+        "Category": "Cooking",
+        "Edibility": 23,
+        "EdibleIsDrink": true,
+        "SellPrice": 445,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_blue",
+            "color_white",
+            "tea_item"
+        ],
+        "ID": "Blue Mist Tea",
+        "JsonAssetsName": "Blue Mist Tea"
     },
-    "SellPrice": 1000,
-    "UniversalGiftTaste": 45,
-    "ID": "Strawberry Grapefruit Tea",
-    "JsonAssetsName": "Strawberry Grapefruit Tea"
-},
-{
-    "Texture": "assets/objects/Stuffed Bell Peppers.png",
-    "Category": "Cooking",
-    "Edibility": 70,
-    "SellPrice": 580,
-    "UniversalGiftTaste": 45,
-    "ID": "Stuffed Bell Peppers",
-    "JsonAssetsName": "Stuffed Bell Peppers"
-},
-{
-    "Texture": "assets/objects/Sun Tea.png",
-    "Category": "Cooking",
-    "Edibility": 18,
-    "EdibleIsDrink": true,
-    "EdibleBuffs":
     {
-        "Foraging": 1,
-        "Duration": 350
+        "Texture": "assets/objects/Boba Tea.png",
+        "Category": "Cooking",
+        "Edibility": 50,
+        "EdibleIsDrink": true,
+        "SellPrice": 625,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_light_purple"
+        ],
+        "ID": "Boba Tea",
+        "JsonAssetsName": "Boba Tea"
     },
-    "SellPrice": 1250,
-    "UniversalGiftTaste": 45,
-    "ID": "Sun Tea",
-    "JsonAssetsName": "Sun Tea"
-},
-{
-    "Texture": "assets/objects/Sweet Potato Fries.png",
-    "Category": "Cooking",
-    "Edibility": 30,
-    "SellPrice": 490,
-    "UniversalGiftTaste": 45,
-    "ID": "Sweet Potato Fries",
-    "JsonAssetsName": "Sweet Potato Fries"
-},
-{
-    "Texture": "assets/objects/Tropical Fruit Salad.png",
-    "Category": "Cooking",
-    "Edibility": 96,
-    "SellPrice": 1005,
-    "UniversalGiftTaste": 45,
-    "ID": "Tropical Fruit Salad",
-    "JsonAssetsName": "Tropical Fruit Salad"
-},
-{
-    "Texture": "assets/objects/Vegetable Stirfry.png",
-    "Category": "Cooking",
-    "Edibility": 42,
-    "SellPrice": 660,
-    "UniversalGiftTaste": 45,
-    "ID": "Vegetable Stirfry",
-    "JsonAssetsName": "Vegetable Stirfry"
-},
-{
-    "Texture": "assets/objects/White Tea.png",
-    "Category": "Cooking",
-    "Edibility": 6,
-    "EdibleIsDrink": true,
-    "EdibleBuffs":
     {
-        "Foraging": 1,
-        "Duration": 300
+        "Texture": "assets/objects/Breakfast Tea.png",
+        "Category": "Cooking",
+        "Edibility": 33,
+        "EdibleIsDrink": true,
+        "SellPrice": 490,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_gray",
+            "tea_item"
+        ],
+        "ID": "Breakfast Tea",
+        "JsonAssetsName": "Breakfast Tea"
     },
-    "SellPrice": 195,
-    "UniversalGiftTaste": 45,
-    "ContextTags": [
-        "color_white",
-        "tea_item"
-    ],
-    "ID": "White Tea",
-    "JsonAssetsName": "White Tea"
-}]
+    {
+        "Texture": "assets/objects/Broccoli and Cheese.png",
+        "Category": "Cooking",
+        "Edibility": 70,
+        "SellPrice": 420,
+        "UniversalGiftTaste": 45,
+        "ID": "Broccoli and Cheese",
+        "JsonAssetsName": "Broccoli and Cheese"
+    },
+    {
+        "Texture": "assets/objects/Brown Sugar.png",
+        "Category": "Cooking",
+        "Edibility": 38,
+        "SellPrice": 400,
+        "UniversalGiftTaste": 20,
+        "ID": "Brown Sugar",
+        "JsonAssetsName": "Brown Sugar"
+    },
+    {
+        "Texture": "assets/objects/Carrot Cake.png",
+        "Category": "Cooking",
+        "Edibility": 58,
+        "SellPrice": 490,
+        "UniversalGiftTaste": 45,
+        "ID": "Carrot Cake",
+        "JsonAssetsName": "Carrot Cake"
+    },
+    {
+        "Texture": "assets/objects/Cassava Cake.png",
+        "Category": "Cooking",
+        "Edibility": 34,
+        "SellPrice": 490,
+        "UniversalGiftTaste": 45,
+        "ID": "Cassava Cake",
+        "JsonAssetsName": "Cassava Cake"
+    },
+    {
+        "Texture": "assets/objects/Celery and Peanut Butter.png",
+        "Category": "Cooking",
+        "Edibility": 26,
+        "SellPrice": 380,
+        "UniversalGiftTaste": 45,
+        "ID": "Celery and Peanut Butter",
+        "JsonAssetsName": "Celery and Peanut Butter"
+    },
+    {
+        "Texture": "assets/objects/Chai Tea.png",
+        "Category": "Cooking",
+        "Edibility": 5,
+        "EdibleIsDrink": true,
+        "SellPrice": 600,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "recipe_year_2",
+            "color_white",
+            "tea_item"
+        ],
+        "ID": "Chai Tea",
+        "JsonAssetsName": "Chai Tea"
+    },
+    {
+        "Texture": "assets/objects/Chamomile Tea.png",
+        "Category": "Cooking",
+        "Edibility": 41,
+        "EdibleIsDrink": true,
+        "SellPrice": 275,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_white",
+            "color_purple",
+            "tea_item"
+        ],
+        "ID": "Chamomile Tea",
+        "JsonAssetsName": "Chamomile Tea"
+    },
+    {
+        "Texture": "assets/objects/Chef Salad.png",
+        "Category": "Cooking",
+        "Edibility": 132,
+        "SellPrice": 565,
+        "UniversalGiftTaste": 45,
+        "ID": "Chef Salad",
+        "JsonAssetsName": "Chef Salad"
+    },
+    {
+        "Texture": "assets/objects/Chili Powder.png",
+        "Category": "ArtisanGoods",
+        "SellPrice": 80,
+        "UniversalGiftTaste": -20,
+        "ID": "Chili Powder",
+        "JsonAssetsName": "Chili Powder"
+    },
+    {
+        "Texture": "assets/objects/Chocolate.png",
+        "Category": "Cooking",
+        "Edibility": 34,
+        "SellPrice": 435,
+        "UniversalGiftTaste": 45,
+        "ID": "Chocolate",
+        "JsonAssetsName": "Chocolate"
+    },
+    {
+        "Texture": "assets/objects/Chocolate Covered Strawberry.png",
+        "Category": "Cooking",
+        "Edibility": 60,
+        "SellPrice": 695,
+        "UniversalGiftTaste": 45,
+        "ID": "Chocolate Covered Strawberry",
+        "JsonAssetsName": "Chocolate Covered Strawberry"
+    },
+    {
+        "Texture": "assets/objects/Chocolate Pudding.png",
+        "Category": "Cooking",
+        "Edibility": 56,
+        "SellPrice": 685,
+        "UniversalGiftTaste": 45,
+        "ID": "Chocolate Pudding",
+        "JsonAssetsName": "Chocolate Pudding"
+    },
+    {
+        "Texture": "assets/objects/Crab Roll.png",
+        "Category": "Cooking",
+        "Edibility": 110,
+        "SellPrice": 680,
+        "UniversalGiftTaste": 45,
+        "ID": "Crab Roll",
+        "JsonAssetsName": "Crab Roll"
+    },
+    {
+        "Texture": "assets/objects/Cranberry Pomegranate Tea.png",
+        "Category": "Cooking",
+        "Edibility": 56,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Defense": 2,
+            "Duration": 300
+        },
+        "SellPrice": 600,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_white",
+            "tea_item"
+        ],
+        "ID": "Cranberry Pomegranate Tea",
+        "JsonAssetsName": "Cranberry Pomegranate Tea"
+    },
+    {
+        "Texture": "assets/objects/Crocus White Tea.png",
+        "Category": "Cooking",
+        "Edibility": 16,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Foraging": 1,
+            "Duration": 100
+        },
+        "SellPrice": 375,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_white",
+            "color_purple",
+            "tea_item"
+        ],
+        "ID": "Crocus White Tea",
+        "JsonAssetsName": "Crocus White Tea"
+    },
+    {
+        "Texture": "assets/objects/Cucumber Roll.png",
+        "Category": "Cooking",
+        "Edibility": 36,
+        "SellPrice": 360,
+        "UniversalGiftTaste": 45,
+        "ID": "Cucumber Roll",
+        "JsonAssetsName": "Cucumber Roll"
+    },
+    {
+        "Texture": "assets/objects/Cucumber Sandwich.png",
+        "Category": "Cooking",
+        "Edibility": 48,
+        "SellPrice": 400,
+        "UniversalGiftTaste": 45,
+        "ID": "Cucumber Sandwich",
+        "JsonAssetsName": "Cucumber Sandwich"
+    },
+    {
+        "Texture": "assets/objects/Cumin Spice.png",
+        "SellPrice": 50,
+        "UniversalGiftTaste": -20,
+        "ID": "Cumin Spice",
+        "JsonAssetsName": "Cumin Spice"
+    },
+    {
+        "Texture": "assets/objects/Curry Powder.png",
+        "SellPrice": 50,
+        "UniversalGiftTaste": -20,
+        "ID": "Curry Powder",
+        "JsonAssetsName": "Curry Powder"
+    },
+    {
+        "Texture": "assets/objects/Dandelion Tea.png",
+        "Category": "Cooking",
+        "Edibility": 27,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Farming": 2,
+            "Duration": 300
+        },
+        "SellPrice": 245,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_yellow",
+            "color_white",
+            "color_pink",
+            "tea_item"
+        ],
+        "ID": "Dandelion Tea",
+        "JsonAssetsName": "Dandelion Tea"
+    },
+    {
+        "Texture": "assets/objects/Earl Grey Tea.png",
+        "Category": "Cooking",
+        "Edibility": 20,
+        "EdibleIsDrink": true,
+        "SellPrice": 380,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_yellow",
+            "tea_item"
+        ],
+        "ID": "Earl Grey Tea",
+        "JsonAssetsName": "Earl Grey Tea"
+    },
+    {
+        "Texture": "assets/objects/Farofa.png",
+        "Category": "Cooking",
+        "Edibility": 34,
+        "SellPrice": 535,
+        "UniversalGiftTaste": 45,
+        "ID": "Farofa",
+        "JsonAssetsName": "Farofa"
+    },
+    {
+        "Texture": "assets/objects/Fig Tart.png",
+        "Category": "Cooking",
+        "Edibility": 36,
+        "SellPrice": 350,
+        "UniversalGiftTaste": 45,
+        "ID": "Fig Tart",
+        "JsonAssetsName": "Fig Tart"
+    },
+    {
+        "Texture": "assets/objects/Fruit Tea.png",
+        "Category": "Cooking",
+        "Edibility": 22,
+        "EdibleIsDrink": true,
+        "SellPrice": 425,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_brown",
+            "tea_item"
+        ],
+        "ID": "Fruit Tea",
+        "JsonAssetsName": "Fruit Tea"
+    },
+    {
+        "Texture": "assets/objects/Gooseberry Pie.png",
+        "Category": "Cooking",
+        "Edibility": 54,
+        "SellPrice": 410,
+        "UniversalGiftTaste": 45,
+        "ID": "Gooseberry Pie",
+        "JsonAssetsName": "Gooseberry Pie"
+    },
+    {
+        "Texture": "assets/objects/Island Salad.png",
+        "Category": "Cooking",
+        "Edibility": 80,
+        "SellPrice": 570,
+        "UniversalGiftTaste": 45,
+        "ID": "Island Salad",
+        "JsonAssetsName": "Island Salad"
+    },
+    {
+        "Texture": "assets/objects/Jasmine Tea.png",
+        "Category": "Cooking",
+        "Edibility": 24,
+        "EdibleIsDrink": true,
+        "SellPrice": 425,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_white",
+            "tea_item"
+        ],
+        "EnableConditions":
+        {
+            "HasSeenEvent": "missingBundleComplete"
+        },
+        "ID": "Jasmine Tea",
+        "JsonAssetsName": "Jasmine Tea"
+    },
+    {
+        "Texture": "assets/objects/Lavender Milk Tea.png",
+        "Category": "Cooking",
+        "Edibility": 52,
+        "EdibleIsDrink": true,
+        "SellPrice": 600,
+        "UniversalGiftTaste": 45,
+        "ID": "Lavender Milk Tea",
+        "JsonAssetsName": "Lavender Milk Tea"
+    },
+    {
+        "Texture": "assets/objects/Lemon Tea.png",
+        "Category": "Cooking",
+        "Edibility": 32,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Luck": 1,
+            "Duration": 300
+        },
+        "SellPrice": 375,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_yellow",
+            "tea_item"
+        ],
+        "ID": "Lemon Tea",
+        "JsonAssetsName": "Lemon Tea"
+    },
+    {
+        "Texture": "assets/objects/Marshmallow Fluff.png",
+        "Category": "ArtisanGoods",
+        "Edibility": 5,
+        "SellPrice": 30,
+        "UniversalGiftTaste": 45,
+        "ID": "Marshmallow Fluff",
+        "JsonAssetsName": "Marshmallow Fluff"
+    },
+    {
+        "Texture": "assets/objects/Melon Salad.png",
+        "Category": "Cooking",
+        "Edibility": 146,
+        "SellPrice": 925,
+        "UniversalGiftTaste": 45,
+        "ID": "Melon Salad",
+        "JsonAssetsName": "Melon Salad"
+    },
+    {
+        "Texture": "assets/objects/Mint Tea.png",
+        "Category": "Cooking",
+        "Edibility": 16,
+        "EdibleIsDrink": true,
+        "SellPrice": 260,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_white",
+            "color_red",
+            "tea_item"
+        ],
+        "ID": "Mint Tea",
+        "JsonAssetsName": "Mint Tea"
+    },
+    {
+        "Texture": "assets/objects/Nutmeg.png",
+        "SellPrice": 50,
+        "UniversalGiftTaste": -20,
+        "ID": "Nutmeg",
+        "JsonAssetsName": "Nutmeg"
+    },
+    {
+        "Texture": "assets/objects/Oolong Tea.png",
+        "Category": "Cooking",
+        "Edibility": 6,
+        "EdibleIsDrink": true,
+        "SellPrice": 375,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_yellow",
+            "color_green",
+            "tea_item"
+        ],
+        "ID": "Oolong Tea",
+        "JsonAssetsName": "Oolong Tea"
+    },
+    {
+        "Texture": "assets/objects/Paprika.png",
+        "SellPrice": 50,
+        "UniversalGiftTaste": -20,
+        "ID": "Paprika",
+        "JsonAssetsName": "Paprika"
+    },
+    {
+        "Texture": "assets/objects/PB&J Sandwich.png",
+        "Category": "Cooking",
+        "Edibility": 40,
+        "SellPrice": 530,
+        "UniversalGiftTaste": 45,
+        "ID": "PB&J Sandwich",
+        "JsonAssetsName": "PB&J Sandwich"
+    },
+    {
+        "Texture": "assets/objects/Peanut Butter.png",
+        "Category": "Cooking",
+        "Edibility": 14,
+        "SellPrice": 160,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "peanut_butter_item"
+        ],
+        "ID": "Peanut Butter",
+        "JsonAssetsName": "Peanut Butter"
+    },
+    {
+        "Texture": "assets/objects/Pepper.png",
+        "SellPrice": 50,
+        "UniversalGiftTaste": -20,
+        "ID": "Pepper",
+        "JsonAssetsName": "Pepper"
+    },
+    {
+        "Texture": "assets/objects/Poached Pear.png",
+        "Category": "Cooking",
+        "Edibility": 54,
+        "SellPrice": 735,
+        "UniversalGiftTaste": 45,
+        "ID": "Poached Pear",
+        "JsonAssetsName": "Poached Pear"
+    },
+    {
+        "Texture": "assets/objects/Raspberry Tart.png",
+        "Category": "Cooking",
+        "Edibility": 36,
+        "SellPrice": 280,
+        "UniversalGiftTaste": 45,
+        "ID": "Raspberry Tart",
+        "JsonAssetsName": "Raspberry Tart"
+    },
+    {
+        "Texture": "assets/objects/Rice Pilaf.png",
+        "Category": "Cooking",
+        "Edibility": 35,
+        "SellPrice": 450,
+        "UniversalGiftTaste": 45,
+        "ID": "Rice Pilaf",
+        "JsonAssetsName": "Rice Pilaf"
+    },
+    {
+        "Texture": "assets/objects/Rose Tea.png",
+        "Category": "Cooking",
+        "Edibility": 26,
+        "EdibleIsDrink": true,
+        "SellPrice": 320,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_red",
+            "color_pink",
+            "tea_item"
+        ],
+        "ID": "Rose Tea",
+        "JsonAssetsName": "Rose Tea"
+    },
+    {
+        "Texture": "assets/objects/Salt.png",
+        "SellPrice": 50,
+        "UniversalGiftTaste": -20,
+        "ID": "Salt",
+        "JsonAssetsName": "Salt"
+    },
+    {
+        "Texture": "assets/objects/Sauteed Onions.png",
+        "Category": "Cooking",
+        "Edibility": 28,
+        "SellPrice": 100,
+        "UniversalGiftTaste": 45,
+        "ID": "Sauteed Onions",
+        "JsonAssetsName": "Sauteed Onions"
+    },
+    {
+        "Texture": "assets/objects/Southern Sweet Tea.png",
+        "Category": "Cooking",
+        "Edibility": 28,
+        "EdibleBuffs":
+        {
+            "Luck": 1,
+            "Duration": 350
+        },
+        "SellPrice": 430,
+        "UniversalGiftTaste": 45,
+        "ID": "Southern Sweet Tea",
+        "JsonAssetsName": "Southern Sweet Tea"
+    },
+    {
+        "Texture": "assets/objects/Spice Tea.png",
+        "Category": "Cooking",
+        "Edibility": 48,
+        "EdibleIsDrink": true,
+        "SellPrice": 565,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_red",
+            "color_pink",
+            "tea_item"
+        ],
+        "ID": "Spice Tea",
+        "JsonAssetsName": "Spice Tea"
+    },
+    {
+        "Texture": "assets/objects/Strawberry Grapefruit Tea.png",
+        "Category": "Cooking",
+        "Edibility": 58,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Farming": 2,
+            "Duration": 300
+        },
+        "SellPrice": 1000,
+        "UniversalGiftTaste": 45,
+        "ID": "Strawberry Grapefruit Tea",
+        "JsonAssetsName": "Strawberry Grapefruit Tea"
+    },
+    {
+        "Texture": "assets/objects/Stuffed Bell Peppers.png",
+        "Category": "Cooking",
+        "Edibility": 70,
+        "SellPrice": 580,
+        "UniversalGiftTaste": 45,
+        "ID": "Stuffed Bell Peppers",
+        "JsonAssetsName": "Stuffed Bell Peppers"
+    },
+    {
+        "Texture": "assets/objects/Sun Tea.png",
+        "Category": "Cooking",
+        "Edibility": 18,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Foraging": 1,
+            "Duration": 350
+        },
+        "SellPrice": 1250,
+        "UniversalGiftTaste": 45,
+        "ID": "Sun Tea",
+        "JsonAssetsName": "Sun Tea"
+    },
+    {
+        "Texture": "assets/objects/Sweet Potato Fries.png",
+        "Category": "Cooking",
+        "Edibility": 30,
+        "SellPrice": 490,
+        "UniversalGiftTaste": 45,
+        "ID": "Sweet Potato Fries",
+        "JsonAssetsName": "Sweet Potato Fries"
+    },
+    {
+        "Texture": "assets/objects/Tropical Fruit Salad.png",
+        "Category": "Cooking",
+        "Edibility": 96,
+        "SellPrice": 1005,
+        "UniversalGiftTaste": 45,
+        "ID": "Tropical Fruit Salad",
+        "JsonAssetsName": "Tropical Fruit Salad"
+    },
+    {
+        "Texture": "assets/objects/Vegetable Stirfry.png",
+        "Category": "Cooking",
+        "Edibility": 42,
+        "SellPrice": 660,
+        "UniversalGiftTaste": 45,
+        "ID": "Vegetable Stirfry",
+        "JsonAssetsName": "Vegetable Stirfry"
+    },
+    {
+        "Texture": "assets/objects/White Tea.png",
+        "Category": "Cooking",
+        "Edibility": 6,
+        "EdibleIsDrink": true,
+        "EdibleBuffs":
+        {
+            "Foraging": 1,
+            "Duration": 300
+        },
+        "SellPrice": 195,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "color_white",
+            "tea_item"
+        ],
+        "ID": "White Tea",
+        "JsonAssetsName": "White Tea"
+    },
+]

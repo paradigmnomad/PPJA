@@ -1645,6 +1645,46 @@
         "ID": "Wormwood",
     },*/
     {
+        "Texture": "assets/objects/Mung Bean.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 90,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_black",
+            "color_green",
+            "vegetable_item"
+        ],
+        "ID": "Mung Bean",
+    },
+    {
+        "Texture": "assets/objects/Ube.png",
+        "Category": "Vegetable",
+        "Edibility": 10,
+        "SellPrice": 120,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_summer",
+            "color_purple",
+            "vegetable_item"
+        ],
+        "ID": "Ube",
+    },
+    {
+        "Texture": "assets/objects/White Onion.png",
+        "Category": "Vegetable",
+        "Edibility": 8,
+        "SellPrice": 115,
+        "UniversalGiftTaste": 45,
+        "ContextTags": [
+            "season_spring",
+            "color_white",
+            "vegetable_item"
+        ],
+        "ID": "White Onion",
+    },
+    {
         "Texture": "assets/objects/Bay Crop_seeds.png",
         "Plants": "ppja.fruitsandveggies.DGA/Bay Crop",
         "Category": "Seeds",
@@ -1668,6 +1708,24 @@
         "Category": "Seeds",
         "ID": "Wormwood Seeds"
     },*/
+    {
+        "Texture": "assets/objects/Mung Bean Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Mung Bean Crop",
+        "Category": "Seeds",
+        "ID": "Mung Bean Seeds"
+    },
+    {
+        "Texture": "assets/objects/Ube Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/Ube Crop",
+        "Category": "Seeds",
+        "ID": "Ube Seeds"
+    },
+    {
+        "Texture": "assets/objects/White Onion Crop_seeds.png",
+        "Plants": "ppja.fruitsandveggies.DGA/White Onion Crop",
+        "Category": "Seeds",
+        "ID": "White Onion Seeds"
+    },
     {
         "Texture": "assets/objects/Serrano Chile Crop_seeds.png",
         "Plants": "ppja.fruitsandveggies.DGA/Serrano Chile Crop",

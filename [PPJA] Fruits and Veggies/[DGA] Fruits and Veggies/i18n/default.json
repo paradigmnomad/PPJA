@@ -355,10 +355,11 @@
     "object.Mung Bean.name": "Mung Bean",
     "object.Mung Bean.description": "The mung bean is a type of legume that goes great in savoury or sweet dishes.",
     "object.Mung Bean.category": null,
+    "object.Ube.name": "Ube",
+    "object.Ube.description": "Ube is similar to a sweet potato but has a distinct purple color.",
     "object.White Onion.name": "White Onion",
-    "object.White Onion.description": "Onions have layers. Ogres have layers... You get it? We both have layers",
+    "object.White Onion.description": "Onions have layers. Ogres have layers... You get it? We both have layers.",
     "object.White Onion.category": null,
-
     "object.Bay Seeds.name": "Bay Seeds",
     "object.Bay Seeds.description": "Plant these in winter. Takes 6 days to mature.",
     "object.Catnip Seeds.name": "Catnip Seeds",
@@ -369,6 +370,8 @@
     "object.Wormwood Seeds.description": "Placeholder."*/
     "object.Mung Bean Seeds.name": "Mung Bean Seeds",
     "object.Mung Bean Seeds.description": "Plant these in spring. Takes 10 days to mature, and continues to produce after the first harvest.",
+    "object.Ube Seeds.name": "Ube Seeds",
+    "object.Ube Seeds.description": "Plant these in the summer. Takes 8 days to mature.",
     "object.White Onion Seeds.name": "White Onion Seeds",
     "object.White Onion Seeds.description": "Plant these in the spring. Takes 8 days to mature.",
 
@@ -387,7 +390,6 @@
     "object.Ghost Pepper.name": "Ghost Pepper",
     "object.Ghost Pepper.description": "Formally that worlds hottest pepper, the Ghost Pepper is exeptionally hot.",
     "object.Ghost Pepper.category": null,
-
     "object.Serrano Chile Seeds.name": "Serrano Chile",
     "object.Serrano Chile Seeds.description": "Plant these in spring. Takes 10 days to mature, and continues to produce after the first harvest.",
     "object.Scotch Bonnet Seeds.name": "Scotch Bonnet",

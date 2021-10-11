@@ -1,1435 +1,1384 @@
 [
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Avocado Eel Roll"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.moretrees.DGA/Avocado"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "148"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "423"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "152"
-      }
-    ],
-    "ID": "Converted_Avocado Eel Roll_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Avocado Toast"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.moretrees.DGA/Avocado"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "216"
-      }
-    ],
-    "ID": "Converted_Avocado Toast_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Baked Sweet Potato"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Sweet Potato"
-      }
-    ],
-    "ID": "Converted_Baked Sweet Potato_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Banana Bread"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "-5"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "91"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "246"
-      },
-      {
-        "Value": "ppja.morerecipes.DGA/Brown Sugar"
-      }
-    ],
-    "ID": "Converted_Banana Bread_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Barley Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Barley",
-        "Quantity": 2
-      }
-    ],
-    "ID": "Converted_Barley Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Berry Fusion Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "296"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "481"
-      }
-    ],
-    "ID": "Converted_Berry Fusion Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Black Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 3
-      }
-    ],
-    "ID": "Converted_Black Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Blue Mist Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "mizu.flowers.DGA/Blue Mist"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "815"
-      }
-    ],
-    "ID": "Converted_Blue Mist Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Boba Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 3
-      },
-      {
-        "Value": "ppja.artisanvalleymachinegoods.DGA/Tapioca"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-79"
-      }
-    ],
-    "ID": "Converted_Boba Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Breakfast Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 4
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      }
-    ],
-    "ID": "Converted_Breakfast Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Broccoli and Cheese"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Broccoli",
-        "Quantity": 2
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "424"
-      }
-    ],
-    "ID": "Converted_Broccoli and Cheese_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Brown Sugar"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "724"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      }
-    ],
-    "ID": "Converted_Brown Sugar_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Carrot Cake"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Carrot",
-        "Quantity": 2
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-5"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "246"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      }
-    ],
-    "ID": "Converted_Carrot Cake_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Cassava Cake"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Cassava"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "88"
-      }
-    ],
-    "ID": "Converted_Cassava Cake_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Celery and Peanut Butter"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Celery"
-      },
-      {
-        "Type": "ContextTag",
-        "Value": "peanut_butter_item",
-        "IconOverride": "assets/context-tag-override/PeanutButterIcon.png",
-        "NameOverride": "Peanut Butter (Any)"
-      }
-    ],
-    "ID": "Converted_Celery and Peanut Butter_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Chai Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 4
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
-      }
-    ],
-    "ID": "Converted_Chai Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Chamomile Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "mizu.flowers.DGA/Chamomile",
-        "Quantity": 2
-      }
-    ],
-    "ID": "Converted_Chamomile Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Chef Salad"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Cucumber"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-5"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Lettuce"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "424"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "256"
-      }
-    ],
-    "ID": "Converted_Chef Salad_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Chocolate"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.moretrees.DGA/Cocoa Pod"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      }
-    ],
-    "ID": "Converted_Chocolate_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Chocolate Covered Strawberry"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.morerecipes.DGA/Chocolate"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "400"
-      }
-    ],
-    "ID": "Converted_Chocolate Covered Strawberry_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Chocolate Pudding"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.morerecipes.DGA/Chocolate"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      }
-    ],
-    "ID": "Converted_Chocolate Pudding_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Crab Roll"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.moretrees.DGA/Avocado"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Cucumber"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "423"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "717"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "152"
-      }
-    ],
-    "ID": "Converted_Crab Roll_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Cranberry Pomegranate Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 2
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "637",
-        "Quantity": 2
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "282"
-      }
-    ],
-    "ID": "Converted_Cranberry Pomegranate Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Crocus White Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "418",
-        "Quantity": 2
-      }
-    ],
-    "ID": "Converted_Crocus White Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Cucumber Roll"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "423"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "152"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Cucumber"
-      }
-    ],
-    "ID": "Converted_Cucumber Roll_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Cucumber Sandwich"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "216"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Cucumber"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "306"
-      }
-    ],
-    "ID": "Converted_Cucumber Sandwich_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Dandelion Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "22",
-        "Quantity": 2
-      }
-    ],
-    "ID": "Converted_Dandelion Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Earl Grey Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 4
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Lemon"
-      }
-    ],
-    "ID": "Converted_Earl Grey Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Farofa"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Cassava",
-        "Quantity": 2
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "248"
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Olive"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Onion"
-      }
-    ],
-    "ID": "Converted_Farofa_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Fig Tart"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.moretrees.DGA/Fig"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "246"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-5"
-      }
-    ],
-    "ID": "Converted_Fig Tart_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Fruit Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 2
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-79"
-      }
-    ],
-    "ID": "Converted_Fruit Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Gooseberry Pie"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Gooseberry"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "254"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "246"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      }
-    ],
-    "ID": "Converted_Gooseberry Pie_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Island Salad"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "419"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Cucumber"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Lettuce"
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Olive"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Onion"
-      }
-    ],
-    "ID": "Converted_Island Salad_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Jasmine Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 2
-      },
-      {
-        "Value": "mizu.flowers.DGA/Sweet Jasmine"
-      }
-    ],
-    "ID": "Converted_Jasmine Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Lavender Milk Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815"
-      },
-      {
-        "Value": "mizu.flowers.DGA/Herbal Lavender"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-6"
-      }
-    ],
-    "ID": "Converted_Lavender Milk Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Lemon Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 2
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Lemon"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      }
-    ],
-    "ID": "Converted_Lemon Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Melon Salad"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Watermelon"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Sweet Canary Melon"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "254"
-      }
-    ],
-    "ID": "Converted_Melon Salad_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Mint Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Mint",
-        "Quantity": 2
-      }
-    ],
-    "ID": "Converted_Mint Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Oolong Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 4
-      }
-    ],
-    "ID": "Converted_Oolong Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/PB&J Sandwich"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "ContextTag",
-        "Value": "peanut_butter_item",
-        "IconOverride": "assets/context-tag-override/PeanutButterIcon.png",
-        "NameOverride": "Peanut Butter (Any)"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "216"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "344"
-      }
-    ],
-    "ID": "Converted_PB&J Sandwich_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Peanut Butter"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Peanut",
-        "Quantity": 2
-      }
-    ],
-    "ID": "Converted_Peanut Butter_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Poached Pear"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.moretrees.DGA/Pear"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "724"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "340"
-      }
-    ],
-    "ID": "Converted_Poached Pear_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Raspberry Tart"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Raspberry"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "-5"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "246"
-      }
-    ],
-    "ID": "Converted_Raspberry Tart_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Rice Pilaf"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Onion"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "260"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Parsley"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "423"
-      }
-    ],
-    "ID": "Converted_Rice Pilaf_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Rose Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 4
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "595"
-      }
-    ],
-    "ID": "Converted_Rose Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Sauteed Onions"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "248",
-        "Quantity": 2
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Onion",
-        "Quantity": 8
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "247"
-      }
-    ],
-    "ID": "Converted_Sauteed Onions_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Southern Sweet Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 4
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "245",
-        "Quantity": 2
-      }
-    ],
-    "ID": "Converted_Southern Sweet Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Spice Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815"
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Lemon"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "635"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "396"
-      }
-    ],
-    "ID": "Converted_Spice Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Strawberry Grapefruit Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815",
-        "Quantity": 3
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Lemon"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "88"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "400"
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Grapefruit"
-      }
-    ],
-    "ID": "Converted_Strawberry Grapefruit Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Stuffed Bell Peppers"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "ContextTag",
-        "Value": "bell_pepper_item",
-        "Quantity": 2,
-        "IconOverride": "assets/context-tag-override/BellPepperIcon.png",
-        "NameOverride": "Bell Pepper (Any)"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "424"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "423"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "260"
-      }
-    ],
-    "ID": "Converted_Stuffed Bell Peppers_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Sun Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.morerecipes.DGA/Black Tea",
-        "Quantity": 2
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "768"
-      }
-    ],
-    "ID": "Converted_Sun Tea_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Sweet Potato Fries"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Sweet Potato",
-        "Quantity": 2
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "247"
-      }
-    ],
-    "ID": "Converted_Sweet Potato Fries_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Tropical Fruit Salad"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "91"
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Dragon Fruit"
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Papaya"
-      },
-      {
-        "Value": "ppja.moretrees.DGA/Persimmon"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "832"
-      }
-    ],
-    "ID": "Converted_Tropical Fruit Salad_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/Vegetable Stirfry"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "ContextTag",
-        "Value": "bell_pepper_item",
-        "IconOverride": "assets/context-tag-override/BellPepperIcon.png",
-        "NameOverride": "Bell Pepper (Any)"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Carrot"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "247"
-      },
-      {
-        "Value": "ppja.fruitsandveggies.DGA/Onion"
-      },
-      {
-        "Type": "VanillaObject",
-        "Value": "281"
-      }
-    ],
-    "ID": "Converted_Vegetable Stirfry_Recipe"
-  },
-  {
-    "IsCooking": true,
-    "KnownByDefault": true,
-    "SkillUnlockLevel": -1,
-    "Result": [
-      {
-        "Weight": 1.0,
-        "Value": {
-          "Value": "ppja.morerecipes.DGA/White Tea"
-        }
-      }
-    ],
-    "Ingredients": [
-      {
-        "Type": "VanillaObject",
-        "Value": "815"
-      }
-    ],
-    "ID": "Converted_White Tea_Recipe"
-  }
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Avocado Eel Roll"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Avocado"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "148"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "423"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "152"
+        }],
+        "ID": "Converted_Avocado Eel Roll_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Avocado Toast"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Avocado"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "216"
+        }],
+        "ID": "Converted_Avocado Toast_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Baked Sweet Potato"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sweet Potato"
+        }],
+        "ID": "Converted_Baked Sweet Potato_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Banana Bread"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "91"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Value": "ppja.morerecipes.DGA/Brown Sugar"
+        }],
+        "ID": "Converted_Banana Bread_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Barley Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Barley",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Barley Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Berry Fusion Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "296"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "481"
+        }],
+        "ID": "Converted_Berry Fusion Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Black Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 3
+        }],
+        "ID": "Converted_Black Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Blue Mist Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "mizu.flowers.DGA/Blue Mist"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "815"
+        }],
+        "ID": "Converted_Blue Mist Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Boba Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 3
+        },
+        {
+            "Value": "ppja.artisanvalleymachinegoods.DGA/Tapioca"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-79"
+        }],
+        "ID": "Converted_Boba Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Breakfast Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 4
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        }],
+        "ID": "Converted_Breakfast Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Broccoli and Cheese"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Broccoli",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        }],
+        "ID": "Converted_Broccoli and Cheese_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Brown Sugar"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "724"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        }],
+        "ID": "Converted_Brown Sugar_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Carrot Cake"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Carrot",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        }],
+        "ID": "Converted_Carrot Cake_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Cassava Cake"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cassava"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "88"
+        }],
+        "ID": "Converted_Cassava Cake_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Celery and Peanut Butter"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Celery"
+        },
+        {
+            "Type": "ContextTag",
+            "Value": "peanut_butter_item",
+            "IconOverride": "assets/context-tag-override/PeanutButterIcon.png",
+            "NameOverride": "Peanut Butter (Any)"
+        }],
+        "ID": "Converted_Celery and Peanut Butter_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Chai Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 4
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
+        }],
+        "ID": "Converted_Chai Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Chamomile Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "mizu.flowers.DGA/Chamomile",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Chamomile Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Chef Salad"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cucumber"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Lettuce"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "256"
+        }],
+        "ID": "Converted_Chef Salad_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Chocolate"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Cocoa Pod"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        }],
+        "ID": "Converted_Chocolate_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Chocolate Covered Strawberry"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Chocolate"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "400"
+        }],
+        "ID": "Converted_Chocolate Covered Strawberry_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Chocolate Pudding"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Chocolate"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        }],
+        "ID": "Converted_Chocolate Pudding_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Crab Roll"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Avocado"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cucumber"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "423"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "717"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "152"
+        }],
+        "ID": "Converted_Crab Roll_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Cranberry Pomegranate Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "637",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "282"
+        }],
+        "ID": "Converted_Cranberry Pomegranate Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Crocus White Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "418",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Crocus White Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Cucumber Roll"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "423"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "152"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cucumber"
+        }],
+        "ID": "Converted_Cucumber Roll_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Cucumber Sandwich"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "216"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cucumber"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "306"
+        }],
+        "ID": "Converted_Cucumber Sandwich_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Dandelion Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "22",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Dandelion Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Earl Grey Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 4
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lemon"
+        }],
+        "ID": "Converted_Earl Grey Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Farofa"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cassava",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "248"
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Olive"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        }],
+        "ID": "Converted_Farofa_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Fig Tart"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Fig"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        }],
+        "ID": "Converted_Fig Tart_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Fruit Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-79"
+        }],
+        "ID": "Converted_Fruit Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Gooseberry Pie"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Gooseberry"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "254"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        }],
+        "ID": "Converted_Gooseberry Pie_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Island Salad"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "419"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Cucumber"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Lettuce"
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Olive"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        }],
+        "ID": "Converted_Island Salad_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Jasmine Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 2
+        },
+        {
+            "Value": "mizu.flowers.DGA/Sweet Jasmine"
+        }],
+        "EnableConditions":
+        {
+            "HasSeenEvent": "missingBundleComplete"
+        },
+        "ID": "Converted_Jasmine Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Lavender Milk Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815"
+        },
+        {
+            "Value": "mizu.flowers.DGA/Herbal Lavender"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-6"
+        }],
+        "ID": "Converted_Lavender Milk Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Lemon Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 2
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lemon"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        }],
+        "ID": "Converted_Lemon Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Melon Salad"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Watermelon"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sweet Canary Melon"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "254"
+        }],
+        "ID": "Converted_Melon Salad_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Mint Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Mint",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Mint Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Oolong Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 4
+        }],
+        "ID": "Converted_Oolong Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/PB&J Sandwich"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "peanut_butter_item",
+            "IconOverride": "assets/context-tag-override/PeanutButterIcon.png",
+            "NameOverride": "Peanut Butter (Any)"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "216"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "344"
+        }],
+        "ID": "Converted_PB&J Sandwich_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Peanut Butter"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Peanut",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Peanut Butter_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Poached Pear"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.moretrees.DGA/Pear"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "724"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "340"
+        }],
+        "ID": "Converted_Poached Pear_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Raspberry Tart"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Raspberry"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "-5"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "246"
+        }],
+        "ID": "Converted_Raspberry Tart_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Rice Pilaf"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "260"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Parsley"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "423"
+        }],
+        "ID": "Converted_Rice Pilaf_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Rose Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 4
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "595"
+        }],
+        "ID": "Converted_Rose Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Sauteed Onions"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "248",
+            "Quantity": 2
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion",
+            "Quantity": 8
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "247"
+        }],
+        "ID": "Converted_Sauteed Onions_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Southern Sweet Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 4
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "245",
+            "Quantity": 2
+        }],
+        "ID": "Converted_Southern Sweet Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Spice Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815"
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Cinnamon Sticks"
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lemon"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "635"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "396"
+        }],
+        "ID": "Converted_Spice Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Strawberry Grapefruit Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815",
+            "Quantity": 3
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Lemon"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "88"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "400"
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Grapefruit"
+        }],
+        "ID": "Converted_Strawberry Grapefruit Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Stuffed Bell Peppers"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "bell_pepper_item",
+            "Quantity": 2,
+            "IconOverride": "assets/context-tag-override/BellPepperIcon.png",
+            "NameOverride": "Bell Pepper (Any)"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "424"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "423"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "260"
+        }],
+        "ID": "Converted_Stuffed Bell Peppers_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Sun Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.morerecipes.DGA/Black Tea",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "768"
+        }],
+        "ID": "Converted_Sun Tea_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Sweet Potato Fries"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Sweet Potato",
+            "Quantity": 2
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "247"
+        }],
+        "ID": "Converted_Sweet Potato Fries_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Tropical Fruit Salad"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "91"
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Dragon Fruit"
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Papaya"
+        },
+        {
+            "Value": "ppja.moretrees.DGA/Persimmon"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "832"
+        }],
+        "ID": "Converted_Tropical Fruit Salad_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/Vegetable Stirfry"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "ContextTag",
+            "Value": "bell_pepper_item",
+            "IconOverride": "assets/context-tag-override/BellPepperIcon.png",
+            "NameOverride": "Bell Pepper (Any)"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Carrot"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "247"
+        },
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Onion"
+        },
+        {
+            "Type": "VanillaObject",
+            "Value": "281"
+        }],
+        "ID": "Converted_Vegetable Stirfry_Recipe"
+    },
+    {
+        "IsCooking": true,
+        "KnownByDefault": true,
+        "SkillUnlockLevel": -1,
+        "Result": [
+        {
+            "Weight": 1.0,
+            "Value":
+            {
+                "Value": "ppja.morerecipes.DGA/White Tea"
+            }
+        }],
+        "Ingredients": [
+        {
+            "Type": "VanillaObject",
+            "Value": "815"
+        }],
+        "ID": "Converted_White Tea_Recipe"
+    },
 ]

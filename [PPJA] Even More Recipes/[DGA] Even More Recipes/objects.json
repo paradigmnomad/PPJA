@@ -128,6 +128,10 @@
     "Edibility": 16,
     "SellPrice": 250,
     "UniversalGiftTaste": 45,
+    "EnableConditions":
+    {
+        "HasSeenEvent": "missingBundleComplete"
+    },
     "ID": "Bunny Cotton Candy",
     "JsonAssetsName": "Bunny Cotton Candy"
 },
@@ -183,6 +187,10 @@
     "Edibility": 58,
     "SellPrice": 260,
     "UniversalGiftTaste": 20,
+    "EnableConditions":
+    {
+        "HasSeenEvent": "missingBundleComplete"
+    },
     "ID": "Cheese Fries",
     "JsonAssetsName": "Cheese Fries"
 },
@@ -323,7 +331,10 @@
     "Category": "Cooking",
     "Edibility": 16,
     "SellPrice": 250,
-    "UniversalGiftTaste": 45,
+    "UniversalGiftTaste": 45,"EnableConditions":
+    {
+        "HasSeenEvent": "missingBundleComplete"
+    },
     "ID": "Cotton Candy",
     "JsonAssetsName": "Cotton Candy"
 },
@@ -451,6 +462,10 @@
     "Edibility": 22,
     "SellPrice": 450,
     "UniversalGiftTaste": 45,
+    "ContextTags": [
+            "color_brown",
+            "graham_cracker_item",
+        ],
     "ID": "Graham Crackers",
     "JsonAssetsName": "Graham Crackers"
 },
@@ -912,8 +927,12 @@
     "Edibility": 28,
     "SellPrice": 425,
     "UniversalGiftTaste": 45,
+    "EnableConditions":
+    {
+        "HasSeenEvent": "missingBundleComplete"
+    },
     "ID": "Popcorn",
-    "JsonAssetsName": "Popcorn"
+    "JsonAssetsName": "Popcorn",
 },
 {
     "Texture": "assets/objects/Prismatic Popsicle.png",
@@ -927,7 +946,7 @@
     },
     "SellPrice": 3325,
     "UniversalGiftTaste": 80,
-    "ID": "Prismatic Popsicle",
+    "ID": "Prismatic Popsicle",s
     "JsonAssetsName": "Prismatic Popsicle"
 },
 {
@@ -954,6 +973,10 @@
     "Edibility": 106,
     "SellPrice": 1220,
     "UniversalGiftTaste": 45,
+    "EnableConditions":
+    {
+        "HasSeenEvent": "missingBundleComplete"
+    },
     "ID": "Rainbow Cotton Candy",
     "JsonAssetsName": "Rainbow Cotton Candy"
 },
@@ -1260,6 +1283,10 @@
     "Edibility": 55,
     "SellPrice": 1100,
     "UniversalGiftTaste": 45,
+    "EnableConditions":
+    {
+        "HasMod": "ppja.freshmeat.DGA"
+    },
     "ID": "Tendon",
     "JsonAssetsName": "Tendon"
 },

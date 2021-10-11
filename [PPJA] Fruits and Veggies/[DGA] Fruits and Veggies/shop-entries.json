@@ -987,4 +987,43 @@
             "Season |contains=summer": "true"
         }
     },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Mung Bean Seeds"
+        },
+        "Cost": 45,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 2": "true",
+            "Season |contains=summer": "true"
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/Ube Seeds"
+        },
+        "Cost": 90,
+        "EnableConditions":
+        {
+            "Season |contains=summer": "true",
+            "Query: {{Year}} >= 2": "true",
+        }
+    },
+    {
+        "ShopId": "SeedShop",
+        "Item":
+        {
+            "Value": "ppja.fruitsandveggies.DGA/White Onion Seeds"
+        },
+        "Cost": 80,
+        "EnableConditions":
+        {
+            "Query: {{Year}} >= 3": "true",
+            "Season |contains=spring": "true"
+        }
+    },
 ]

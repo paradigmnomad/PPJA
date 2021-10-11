@@ -1,0 +1,22 @@
+[
+{
+    "IsCooking": true,
+    "SkillUnlockLevel": -1,
+    "Result": [
+    {
+        "Weight": 1.0,
+        "Value":
+        {
+            "Value": "ppja.mizusflowers.DGA/Rose Water"
+        }
+    }],
+    "Ingredients": [
+    {        
+        "Value": "ppja.mizusflowers.DGA/Rose"
+    },],
+    "ID": "Rose Water_Recipe",
+    "EnableConditions":
+    {
+        "HasMod": "ppja.grandmascookies.DGA"
+    }
+}, ]
