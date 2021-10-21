@@ -1,10 +1,10 @@
 [
-	//Cooking recipes
+	//Cooking_Recipes
 	{
 		"Id": "PPJA.VernalTearecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "vernaltea.text",
-		"Recipe": "Converted_Vernal Tea Recipe",
+		"Recipe": "Converted_Vernal Tea_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 3 }
@@ -14,7 +14,7 @@
 		"Id": "PPJA.TeaRecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "tea.text",
-		"Recipe": "Converted_Tea Recipe",
+		"Recipe": "Converted_Tea_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Lewis", "FriendshipLevel": 5 }
@@ -24,7 +24,7 @@
 		"Id": "PPJA.EstivalTearecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "estivaltea.text",
-		"Recipe": "Converted_Estival Tea Recipe",
+		"Recipe": "Converted_Estival Tea_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Pam", "FriendshipLevel": 5 }
@@ -34,7 +34,7 @@
 		"Id": "PPJA.AutumnalTearecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "autumnaltea.text",
-		"Recipe": "Converted_Autumnal Tea Recipe",
+		"Recipe": "Converted_Autumnal Tea_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Clint", "FriendshipLevel": 5 }
@@ -44,7 +44,7 @@
 		"Id": "PPJA.HibernalTeaRecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "hibernaltea.text",
-		"Recipe": "Converted_Hibernal Tea Recipe",
+		"Recipe": "Converted_Hibernal Tea_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "George", "FriendshipLevel": 5 }
@@ -54,7 +54,7 @@
 		"Id": "PPJA.LatteRecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "latte.text",
-		"Recipe": "Converted_Latte Recipe",
+		"Recipe": "Converted_Latte_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Robin", "FriendshipLevel": 5 }
@@ -64,7 +64,7 @@
 		"Id": "PPJA.LilacSconesRecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "lilacscones.text",
-		"Recipe": "Converted_Lilac Scones Recipe",
+		"Recipe": "Converted_Lilac Scones_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Jodi", "FriendshipLevel": 5 }
@@ -74,7 +74,7 @@
 		"Id": "PPJA.FlowerSodaRecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "flowersoda.text",
-		"Recipe": "Converted_Flower Soda Recipe",
+		"Recipe": "Converted_Flower Soda_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Emily", "FriendshipLevel": 5 }
@@ -84,7 +84,7 @@
 		"Id": "PPJA.HerbCrustedFishRecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "herbcrustedfish.text",
-		"Recipe": "Converted_Herb-Crusted Fish Recipe",
+		"Recipe": "Converted_Herb-Crusted Fish_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Linus", "FriendshipLevel": 5 }
@@ -94,7 +94,7 @@
 		"Id": "PPJA.LotusMochiID",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "lotusmochi.text",
-		"Recipe": "Converted_Lotus Mochi Recipe",
+		"Recipe": "Converted_Lotus Mochi_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Kent", "FriendshipLevel": 5 }
@@ -104,7 +104,7 @@
 		"Id": "PPJA.BoiledGreensRecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "boiledgreens.text",
-		"Recipe": "Converted_Boiled Greens Recipe",
+		"Recipe": "Converted_Boiled Greens_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Demetrius", "FriendshipLevel": 5 }
@@ -114,7 +114,7 @@
 		"Id": "PPJA.RoseNougatRecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "rosenougat.text",
-		"Recipe": "Converted_Rose Nougat Recipe",
+		"Recipe": "Converted_Rose Nougat_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Marnie", "FriendshipLevel": 5 }
@@ -124,7 +124,7 @@
 		"Id": "PPJA.SouffleRecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "souffle.text",
-		"Recipe": "Converted_Souffle Recipe",
+		"Recipe": "Converted_Souffle_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Gus", "FriendshipLevel": 5 }
@@ -134,7 +134,7 @@
 		"Id": "PPJA.TiramisuRecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "tiramisu.text",
-		"Recipe": "Converted_Tiramisu Recipe",
+		"Recipe": "Converted_Tiramisu_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Caroline", "FriendshipLevel": 5 }
@@ -144,18 +144,18 @@
 		"Id": "PPJA.StuffedPetalsRecipe",
 		"GroupID": "F2F.CookingRecipe",
 		"Text": "stuffedpetals.text",
-		"Recipe": "Converted_Stuffed Petals Recipe",
+		"Recipe": "Converted_Stuffed Petals_Recipe",
 		"FriendshipConditions":
 		[
 			{ "NpcName": "Evelyn", "FriendshipLevel": 5 }
 		],
 	},
-	//Crafting recipes
+	//Crafting_Recipes
 	{
 		"Id": "PPJA.PottedTulipRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedtulip.text",
-		"Recipe": "Converted_Potted Tulip Recipe",
+		"Recipe": "Converted_Potted Tulip_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Farming", "SkillLevel": 1 }
@@ -165,7 +165,7 @@
 		"Id": "PPJA.PottedSummerSpangleRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedsummerspangle.text",
-		"Recipe": "Converted_Potted Summer Spangle Recipe",
+		"Recipe": "Converted_Potted Summer Spangle_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Farming", "SkillLevel": 4 }
@@ -175,7 +175,7 @@
 		"Id": "PPJA.FloristTableRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "floristtable.text",
-		"Recipe": "Converted_Florist's Table Recipe",
+		"Recipe": "Converted_Florist's Table_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Farming", "SkillLevel": 7 }
@@ -185,7 +185,7 @@
 		"Id": "PPJA.PottedDandelionRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "potteddandelion.text",
-		"Recipe": "Converted_Potted Dandelion Recipe", 
+		"Recipe": "Converted_Potted Dandelion_Recipe", 
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 1 }
@@ -195,7 +195,7 @@
 		"Id": "PPJA.PottedSweetPeaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedsweetpea.text",
-		"Recipe": "Converted_Potted Sweet Pea Recipe",
+		"Recipe": "Converted_Potted Sweet Pea_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 2 }
@@ -205,7 +205,7 @@
 		"Id": "PPJA.PottedDaffodilRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "potteddaffodil.text",
-		"Recipe": "Converted_Potted Daffodil Recipe",
+		"Recipe": "Converted_Potted Daffodil_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 2 }
@@ -214,7 +214,7 @@
 		"Id": "PPJA.PottedDaisyRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "potteddaisy.text",
-		"Recipe": "Converted_Potted Daisy Recipe",
+		"Recipe": "Converted_Potted Daisy_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 3 }
@@ -224,7 +224,7 @@
 		"Id": "PPJA.PottedCrocusRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedcrocus.text",
-		"Recipe": "Converted_Potted Crocus Recipe",
+		"Recipe": "Converted_Potted Crocus_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 3 }
@@ -234,7 +234,7 @@
 		"Id": "PPJA.PottedClematisRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedclematis.text",
-		"Recipe": "Converted_Potted Clematis Recipe",
+		"Recipe": "Converted_Potted Clematis_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 4 }
@@ -244,7 +244,7 @@
 		"Id": "PPJA.PottedHibiscuisRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedhibiscuis.text",
-		"Recipe": "Converted_Potted Hibiscus Recipe",
+		"Recipe": "Converted_Potted Hibiscus_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 7 }
@@ -254,7 +254,7 @@
 		"Id": "PPJA.PottedMagnoliaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedmagnolia.text",
-		"Recipe": "Converted_Potted Magnolia Recipe",
+		"Recipe": "Converted_Potted Magnolia_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 8 }
@@ -264,7 +264,7 @@
 		"Id": "PPJA.PottedJasmineRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedjasmine.text",
-		"Recipe": "Converted_Potted Jasmine Recipe",
+		"Recipe": "Converted_Potted Jasmine_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 8 }
@@ -274,7 +274,7 @@
 		"Id": "PPJA.PottedWisteriaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedwisteria.text",
-		"Recipe": "Converted_Potted Wisteria Recipe",
+		"Recipe": "Converted_Potted Wisteria_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 9 }
@@ -284,7 +284,7 @@
 		"Id": "PPJA.BouquetOfExuberanceRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "BouquetOfExuberance.text",
-		"Recipe": "Converted_Bouquet of Exuberance Recipe",
+		"Recipe": "Converted_Bouquet of Exuberance_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 9 }
@@ -294,7 +294,7 @@
 		"Id": "PPJA.PottedVioletRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedviolet.text",
-		"Recipe": "Converted_Potted Violet Recipe",
+		"Recipe": "Converted_Potted Violet_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 1 }
@@ -304,7 +304,7 @@
 		"Id": "PPJA.PottedLilacRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedlilac.text",
-		"Recipe": "Converted_Potted Lilac Recipe",
+		"Recipe": "Converted_Potted Lilac_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 2 }
@@ -314,7 +314,7 @@
 		"Id": "PPJA.PottedLavenderRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedlavender.text",
-		"Recipe": "Converted_Potted Lavender Recipe",
+		"Recipe": "Converted_Potted Lavender_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 3 }
@@ -324,7 +324,7 @@
 		"Id": "PPJA.PottedPeonyRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedpeony.text",
-		"Recipe": "Converted_Potted Peony Recipe",
+		"Recipe": "Converted_Potted Peony_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 4 }
@@ -334,7 +334,7 @@
 		"Id": "PPJA.PottedDahliaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "potteddahlia.text",
-		"Recipe": "Converted_Potted Dahlia Recipe",
+		"Recipe": "Converted_Potted Dahlia_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 4 }
@@ -344,7 +344,7 @@
 		"Id": "PPJA.PottedFreesiaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedfreesia.text",
-		"Recipe": "Converted_Potted Freesia Recipe",
+		"Recipe": "Converted_Potted Freesia_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 6 }
@@ -354,7 +354,7 @@
 		"Id": "PPJA.PottedPetuniaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedpetunia.text",
-		"Recipe": "Converted_Potted Petunia Recipe",
+		"Recipe": "Converted_Potted Petunia_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 6 }
@@ -364,7 +364,7 @@
 		"Id": "PPJA.PottedCamelliaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedcamellia.text",
-		"Recipe": "Converted_Potted Camellia Recipe",
+		"Recipe": "Converted_Potted Camellia_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 7 }
@@ -374,7 +374,7 @@
 		"Id": "PPJA.PottedGeraniumRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedgeranium.text",
-		"Recipe": "Converted_Potted Geranium Recipe",
+		"Recipe": "Converted_Potted Geranium_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 7 }
@@ -384,7 +384,7 @@
 		"Id": "PPJA.PottedEnglishRoseRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedenglishrose.text",
-		"Recipe": "Converted_Potted English Rose Recipe",
+		"Recipe": "Converted_Potted English Rose_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 8 }
@@ -394,7 +394,7 @@
 		"Id": "PPJA.PottedFairyRoseRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedfairyrose.text",
-		"Recipe": "Converted_Potted Fairy Rose Recipe",
+		"Recipe": "Converted_Potted Fairy Rose_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 8 }
@@ -404,7 +404,7 @@
 		"Id": "PPJA.BouquetOfDevotionRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "BouquetOfDevotion.text",
-		"Recipe": "Converted_Bouquet of Devotion Recipe",
+		"Recipe": "Converted_Bouquet of Devotion_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 9 }
@@ -414,7 +414,7 @@
 		"Id": "PPJA.PottedBlueJazzRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedbluejazz.text",
-		"Recipe": "Converted_Potted Blue Jazz Recipe",
+		"Recipe": "Converted_Potted Blue Jazz_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 1 }
@@ -424,7 +424,7 @@
 		"Id": "PPJA.PottedAlliumRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedallium.text",
-		"Recipe": "Converted_Potted Allium Recipe",
+		"Recipe": "Converted_Potted Allium_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 1 }
@@ -434,7 +434,7 @@
 		"Id": "PPJA.PottedHyacinthRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedhyacinth.text",
-		"Recipe": "Converted_Potted Hyacinth Recipe",
+		"Recipe": "Converted_Potted Hyacinth_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 2 }
@@ -444,7 +444,7 @@
 		"Id": "PPJA.PottedHydrangeaRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedhydrangea.text",
-		"Recipe": "Converted_Potted Hydrangea Recipe",
+		"Recipe": "Converted_Potted Hydrangea_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 3 }
@@ -454,7 +454,7 @@
 		"Id": "PPJA.PottedLotusRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedlotus.text",
-		"Recipe": "Converted_Potted Lotus Recipe",
+		"Recipe": "Converted_Potted Lotus_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 4 }
@@ -464,7 +464,7 @@
 		"Id": "PPJA.PottedIrisRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottediris.text",
-		"Recipe": "Converted_Potted Iris Recipe",
+		"Recipe": "Converted_Potted Iris_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 6 }
@@ -474,7 +474,7 @@
 		"Id": "PPJA.PottedDelphiniumRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "potteddelphinium.text",
-		"Recipe": "Converted_Potted Delphinium Recipe",
+		"Recipe": "Converted_Potted Delphinium_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 7 }
@@ -484,7 +484,7 @@
 		"Id": "PPJA.BouquetOfLongingRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "BouquetOfLonging.text",
-		"Recipe": "Converted_Bouquet of Longing Recipe",
+		"Recipe": "Converted_Bouquet of Longing_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Fishing", "SkillLevel": 9 }
@@ -494,7 +494,7 @@
 		"Id": "PPJA.PottedSunflowerRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedsunflower.text",
-		"Recipe": "Converted_Potted Sunflower Recipe",
+		"Recipe": "Converted_Potted Sunflower_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 1 }
@@ -504,7 +504,7 @@
 		"Id": "PPJA.PottedPoppyRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedpoppy.text",
-		"Recipe": "Converted_Potted Poppy Recipe",
+		"Recipe": "Converted_Potted Poppy_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 2 }
@@ -514,7 +514,7 @@
 		"Id": "PPJA.PottedCarnation",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedcarnation.text",
-		"Recipe": "Converted_Potted Carnation Recipe",
+		"Recipe": "Converted_Potted Carnation_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 3 }
@@ -524,7 +524,7 @@
 		"Id": "PPJA.PottedChrysanthemumRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedchrysanthemum.text",
-		"Recipe": "Converted_Potted Chrysanthemum Recipe",
+		"Recipe": "Converted_Potted Chrysanthemum_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 4 }
@@ -534,7 +534,7 @@
 		"Id": "PPJA.PottedLilyRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "pottedlily.text",
-		"Recipe": "Converted_Potted Lily Recipe",
+		"Recipe": "Converted_Potted Lily_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 6 }
@@ -544,7 +544,7 @@
 		"Id": "PPJA.BouquetOfHopeRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "BouquetOfHope.text",
-		"Recipe": "Converted_Bouquet of Hope Recipe",
+		"Recipe": "Converted_Bouquet of Hope_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 7 }
@@ -554,7 +554,7 @@
 		"Id": "PPJA.BouquetOfPurityRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "BouquetOfPurity.text",
-		"Recipe": "Converted_Bouquet of Purity Recipe",
+		"Recipe": "Converted_Bouquet of Purity_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 8 }
@@ -564,7 +564,7 @@
 		"Id": "PPJA.BouquetOfPassionRecipe",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "BouquetOfPassion.text",
-		"Recipe": "Converted_Bouquet of Passion Recipe",
+		"Recipe": "Converted_Bouquet of Passion_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Combat", "SkillLevel": 9 }
@@ -575,7 +575,7 @@
 		"Id": "PPJA.Dryer",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "dryer.text",
-		"Recipe": "Converted_Dryer Recipe",
+		"Recipe": "Converted_Dryer_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Farming", "SkillLevel": 2 }
@@ -585,7 +585,7 @@
 		"Id": "PPJA.Perfumery",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "perfumery.text",
-		"Recipe": "Converted_Perfumery Recipe",
+		"Recipe": "Converted_Perfumery_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Mining", "SkillLevel": 6 }
@@ -595,7 +595,7 @@
 		"Id": "PPJA.SoapMaker",
 		"GroupID": "F2F.CraftingRecipe",
 		"Text": "soapmaker.text",
-		"Recipe": "Converted_Soap Maker Recipe",
+		"Recipe": "Converted_Soap Maker_Recipe",
 		"SkillConditions": 
 		[
 			{ "SkillName": "Foraging", "SkillLevel": 4 }

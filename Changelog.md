@@ -82,7 +82,7 @@ Items that have been added that were dependencies from other content packs have 
 	* Scotch Bonnet	
 	* Serrano Chile
 * Added `Campagne Grape` to remove dependency;
-	* Champagne Grape item has a `champage grape_item` tag
+	* Champagne Grape item has a `champagne grape_item` tag
 * Added `Catnip` & `Bay`
 * Changed a few sprites;
 	* Lettuce
