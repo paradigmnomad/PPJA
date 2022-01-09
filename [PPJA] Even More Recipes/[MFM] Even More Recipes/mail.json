@@ -2,7 +2,7 @@
 	{
 		"Id": "ppja.amethystcookierecipe",
 		"Text": "amethystcookie.text",
-		"Recipe": "Converted_Amethyst Cookie Recipe",
+		"Recipe": "Converted_Amethyst Cookie_Recipe",
 		"LetterBG": "CloudLetterBackground.png", 
 		"Date": "1 spring Y1",
 		"Repeatable": false,
@@ -14,7 +14,7 @@
 	{
 		"Id": "ppja.bananaandstrawberrycakerecipe",
 		"Text": "bananaandstrawberrycake.text",
-		"Recipe": "Converted_Banana Strawberry Cake Recipe",
+		"Recipe": "Converted_Banana Strawberry Cake_Recipe",
 		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
@@ -27,7 +27,7 @@
 	{
 		"Id": "ppja.chocolatemousebreadrecipe",
 		"Text": "chocolatemousebread.text",
-		"Recipe": "Converted_Chocolate Mouse Bread Recipe",
+		"Recipe": "Converted_Chocolate Mouse Bread_Recipe",
 		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y3",
 		"Repeatable": false,
@@ -39,7 +39,7 @@
 	{
 		"Id": "ppja.chocolatestrawberrycakerecipe",
 		"Text": "chocolatestrawberrycake.text",
-		"Recipe": "Converted_Chocolate Strawberry Cake Recipe",
+		"Recipe": "Converted_Chocolate Strawberry Cake_Recipe",
 		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y3",
 		"Repeatable": false,
@@ -51,7 +51,7 @@
 	{
 		"Id": "ppja.bananachocolatecreperecipe",
 		"Text": "bananachocolatecrepe.text",
-		"Recipe": "Converted_Chocolate and Banana Crepe Recipe",
+		"Recipe": "Converted_Chocolate and Banana Crepe_Recipe",
 		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 summer Y2",
 		"Repeatable": false,
@@ -64,7 +64,7 @@
 	{
 		"Id": "ppja.deviledeggsrecipe",
 		"Text": "deviledeggs.text",
-		"Recipe": "Converted_Deviled Eggs Recipe",
+		"Recipe": "Converted_Deviled Eggs_Recipe",
 		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
@@ -76,7 +76,7 @@
 	{
 		"Id": "ppja.icedchocolatedonutrecipe",
 		"Text": "icedchocolatedonut.text",
-		"Recipe": "Converted_Iced Chocolate Donut Recipe",
+		"Recipe": "Converted_Iced Chocolate Donut_Recipe",
 		"LetterBG": "CloudLetterBackground.png",
 		"Date": "14 spring Y2",
 		"Repeatable": false,
@@ -88,7 +88,7 @@
 	{
 		"Id": "ppja.keylimepierecipe",
 		"Text": "keylimepie.text",
-		"Recipe": "Converted_Key Lime Pie Recipe",
+		"Recipe": "Converted_Key Lime Pie_Recipe",
 		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 summer Y1",
 		"Repeatable": false,
@@ -100,7 +100,7 @@
 	{
 		"Id": "ppja.seaweedchipsrecipe",
 		"Text": "seaweedchips.text",
-		"Recipe": "Converted_Seaweed Chips Recipe",
+		"Recipe": "Converted_Seaweed Chips_Recipe",
 		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
@@ -112,7 +112,7 @@
 	{
 		"Id": "ppja.strawberrypuddingrecipe",
 		"Text": "strawberrypudding.text",
-		"Recipe": "Converted_Strawberry Pudding Recipe",
+		"Recipe": "Converted_Strawberry Pudding_Recipe",
 		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
@@ -124,7 +124,7 @@
 	{
 		"Id": "ppja.tofurecipe",
 		"Text": "tofu.text",
-		"Recipe": "Converted_Tofu Recipe",
+		"Recipe": "Converted_Tofu_Recipe",
 		"LetterBG": "CloudLetterBackground.png",
 		"Date": "1 spring Y1",
 		"Repeatable": false,
