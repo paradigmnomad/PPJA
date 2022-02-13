@@ -1,17 +1,31 @@
 {
-    "Dehydrator.Tea": "Szárított {inputName} levelek",
-    "Dehydrator.Fruit": "Aszalt {inputName}",
-    "DryingRack.Flower": "Szárított {inputName}",
-    "DryingRack.Herb": "Szárított {inputName}",
-    "DryingRack.Vegetable": "Szárított {inputName}",
-    "DryingRack.Mushroom": "Szárított {inputName}",
-    "Grinder.Herb": "Őrölt {inputName}",
-    "Grinder.Vegetable": "Őrölt {inputName}",
-    "Infuser.Schnapps": "{inputName} snapsz",
-    "YogurtJar.Fruit": "{inputName} joghurt",
-    "WaxBarrel.Candle": "{inputName} gyertya",
-    "Alembic.EssentialOil": "{inputName} illóolaj",
-    "Juice.Fruit": "{inputName} dzsúsz",
-    "SoapPress.Soap": "Kézműves {inputName} szappan",
-    "Smoker.Fish": "Füstölt {inputName} ",
+// Szöveg
+
+"icedchristmastree.text": "Kedves @,^ Rád gondoltam, amikor arra gondoltam, hogy hogyan terjesszek egy kis ünnepi jókedvet ebben az évben. Ez egy nagyon egyszerű cukros süti recept, még a legelfoglaltabbak is szánnak időt az elkészítésére. Kellemes ünnepeket, kedveském!^   -Evelyn",
+"iceddecoratedchristmastree.text": "Kedves @,^ Mellékeltem egy süti receptet, amely egy régi családi recept alapján készült. Az évek során fejlesztgettem ezt a receptet, hogy dekorációi szépek és kiegyensúlyozottak legyenek. Barátaid és családtagjaid nem tudják nem szeretni.^Vagy esetleg készíts egyet annak a különleges valakinek! Hee hee!    -Evelyn",
+"icedgreenchristmastree.text": "Kedves @,^ Remélem ebben a hónapban sütiket fogsz készíteni! Az ünnepek nem lennének ugyanazok nélkülük.^Egyébként rád bízom az egyik legkedveltebb süti receptemet. Ez a dizájn húsz évvel ezelőtt elnyerte az első díjat a sütiversenyen. A tél vidám és élénk lesz!^   -Evelyn",
+"jamfilledcookie.text": "Kedves @,^ Ez a süti recept egy régi ünnepi klasszikus. A legrégebbi emlékeim a Téli csillag ünnepéről arról szólnak, hogy sütiket eszem.^És a mai napig az olyan kicsik, mint Vincent és Jas nem tudnak ellenállni ezeknek a különféle süteményeknek. Olyan örömteli látvány!^   -Evelyn",
+"mittencookie.text": "Kedves @,^ Mivel elmúlt a szezon, és minden mező be van fagyva, gondoltam adok valami szórakoztató dolgot a konyhába, ami felmelegít.^Ez az én Kesztyű süti receptem. Legyél türelmes a dekorációval, hogy szép egyenletes mintát kapjál. Az biztos hogy mosolyt csal az arcára annak aki megeszi.^   -Evelyn",
+"pufferchickcookie.text": "Kedves @,^ Ez a süti nem éppen ünnepi témájú, de soha nem árt, ha van egy pár mulatságos vagy bolondos süti recept a receptkönyvben.^Amikor az öröm terjsztéséről van szó, néhányunk egyszerűen szeret a dobozon kívül gondolkodni és módosítani a feladatot, hogy megfeleljen annak, amit szeretünk!^   -Evelyn",
+"snowmancookie.text": "Kedves @,^ Boldog lakomát! Mellékeltem, hogyan lehet egyszer életre kelteni ezt a vidám, boldog lelket.^Néha ezek a kis hóemberek annyira aranyosak, hogy kár megenni őket. Szerencsére olyan jó ízűek, hogy soha nem sajnálkozunk értük.^Jó szórakozást, kedveském!^   -Evelyn",
+"hollydecoratedcookie.text": "Kedves @,^ Ez a süti egyszerűen gyönyörű, miért nem próbálod ki?^A magyal levelekhez és bogyókhoz mindig használj király cukormázat, de ha háromdimenziósabb megjelenést szeretnél, akkor egy kis fondant cukormázat használj.^George nagyon szereti. És remélem, hogy te is!^   -Evelyn",
+"snowmanscenerycookie.text": "Kedves @,^ Ó, hadd essen a hó!^Tudom, hogy te nem egy olyan ember vagy aki elzárkózik a kihívástól. Kedveském, ezért mellékeltem rajzokat arról, hogyan lehet lépésről lépésre elkészíteni a legszebb hóemberes táj sütit.^Kicsit úgy néz ki, mint Stardew Valley, nem gondolod?^Szólj, ha elakadtál... Szívesen segítek!^   -Evelyn",
+"stardropcookie.text": "Kedves @,^ Mindannyian tudjuk, hogy amikor a Téli csillagra gondolunk, a Csillaghulló jut eszünkbe.^Lehet, hogy nem az igazi, de ez a legközelebbi süti amit találtam. Még nem találkoztam senkivel, aki csalódott volna ebben a receptben.^Boldog lakomát!^   -Evelyn",
+"stockingcookie.text": "Kedves @,^ Ho ho hó! Kedveském, mit szeretnél találni a csomagodban a Téli csillag ünnepén?^Bármit remélsz, ezek a kis Zokni sütik biztosan ünnepi hangulatba hoznak. Miért nem csinálsz magadnak egy szép kis csemegét?^   -Evelyn",
+"christmaschocolatecandiecookies.text": "Kedves @,^ Kellemes ünnepeket! Meg akartam osztani veled ezt a receptet.^Pontosan olyan, mint a szokásos süti receptem, de sima csokoládé helyett vörös és zöld csokoládés cukorkákat használtam.^Ha szeretnéd egy vidám kis csavarral kiegészíteni, használhatsz mogyoróvajas csokoládés cukorkát is!^    -Evelyn",
+
+// Címek
+
+"icedchristmastree.title": "Cukormázas karácsonyfa recept",
+"iceddecoratedchristmastree.title": "Cukormázas dekorált karácsonyfa recept",
+"icedgreenchristmastree.title": "Zöld cukormázas karácsonyfa recept",
+"jamfilledcookie.title": "Lekvárral töltött keksz recept",
+"mittencookie.title": "Kesztyű süti recept",
+"pufferchickcookie.title": "Gömbcsirke süti recept",
+"snowmancookie.title": "Hóember süti recept",
+"hollydecoratedcookie.title": "Magyallal dekorált süti recept",
+"snowmanscenerycookie.title": "Hóemberes táj süti recept",
+"stardropcookie.title": "Csillaghulló süti recept",
+"stockingcookie.title": "Zokni süti recept",
+"christmaschocolatecandiecookies.title": "Karácsonyi csokis süti recept"
 }
