@@ -1,10 +1,10 @@
 {
-    "alembic.text": "Kedves @,^Demetrius a minap ezt a fura gépet hozta a szalonba, de fogalmam sincs, hogy mit kezdhetnék vele!^Az elmúlt évben eléggé sok mindent tudtál hasznosítani a farmodon, szóval te jutottál elsőnek az eszembe, remélem, találsz egy módot a használatára.^Remélem minden renben van veled. Találkozunk a szalonban!^-Gus",
-    "alembic.title": "Desztilláló lombik recept",
-    "butterchurn.text": "Kedves szomszéd,^Próbáltál-e már házi vajat készíteni? Azt kell hogy mondjam, egy nyalintás a saját készítésű vajadból, melyet a köpülővel készíthetsz el, és soha többet nem fogsz venni a boltban.^Észre fogod venni az erős sárga színét, amely egyáltalán nem hasonlít a JojaMart sápadt fehér vajára. Biztos vagyok benne, hogy észre fogod venni a különbséget a színben. És az ízben is!^-Marnie",
-    "butterchurn.title": "Köpülő recept",
-    "infuser.text": "Kedves @,^Szereted a snapszot? Nos, akárhogy is, Valamit kezdenem kellett ezzel a géppel, és rájöttem, hogy neked talán lehet pár ötleted.^Ha készítesz valami jót, el tudod adni Pierre-nek és én venni fogok párat!^Remélem minden rendben van.^-Gus",
-    "infuser.title": "Betöltő recept",
-    "still.text": "Kedves @,^Itt van ez a régi desztillálóm már évek óta, de soha se használtam annyit, mint amenniyre szerettem volna, legfőképpen mert soha nem volt hozzá megfelelő alapanyagom.^Aztán támadt egy ötletem. Neked minden féle alapanyagod van a farmon, szóval miért is ne kisérleteznél egy kicsit, és nézed meg, hogy milyen szeszesitalokat tudsz készíteni? Alig várom, hogy mit fogsz készíteni!^-Gus",
-    "still.title": "Desztilláló recept",
+	"alembic.text": "Kedves @,^^   Demetrius a minap ezt a furcsa kinézetű gépet hozta be a szalonba, de fogalmam sincs, hogy mit kezdjek vele!^   Az elmúlt évben eléggé sok mindent tudtál hasznosítani a farmodon, szóval te jutottál elsőnek eszembe, amikor arra gondoltam hogy ki tudná ezt használni. Remélem minden rendben van. Találkozunk a szalonban!^   -Gus",
+	"alembic.title": "Desztilláló lombik recept",
+	"butterchurn.text": "Kedves szomszéd,^^   Próbáltál már otthon vajat készíteni? Azt kell hogy mondjam, hogy egy nyalás a saját készítésű vajadból, és soha többet nem fogsz boltban venni.^   Észre fogod venni az erős sárga színét, mely egyáltalán nem hasonlít a JojaMart sápadt vajára. Biztos vagyok benne, hogy észre fogod venni a különbséget a színében. És az ízben is!^^   -Marnie",
+	"butterchurn.title": "Vajköpülő recept",
+	"infuser.text": "Kedves @,^^   Szereted a snapszot? Nos, akárhogy is, valamit kezdenem kellett ezzel a géppel, és rájöttem, hogy neked talán lehet pár ötleted.^   Ha készítesz valami jót, el tudod adni Pierrenek és én venni fogok párat!^   Remélem minden rendben van.^^   -Gus",
+	"infuser.title": "Betöltő recept",
+	"still.text": "Kedves @,^^   Itt van a régi desztillálóm, de soha se használtam annyit, mint amenniyre szerettem volna, legfőképpen mert soha nem tettem félre a megfelelő összetevőket.^   Aztán támadt egy remek ötletem. Neked mindenféle összetevőd van a farmodon. Szóval miért is ne kisérleteznél egy kicsit. Megnézed hogy milyen szeszesitalokat tudsz készíteni? Alig várom, hogy mit fogsz készíteni!^   -Gus",
+	"still.title": "Desztilláló recept",
 }
