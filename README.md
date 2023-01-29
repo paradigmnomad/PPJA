@@ -32,3 +32,6 @@ You can still continue to use the Json Assets version of this mod if you want to
 ## FAQ
 
 Coming Soon...
+
+## Credit & asset permissions
+See [CREDIT.md](CREDIT.md) for more info.
