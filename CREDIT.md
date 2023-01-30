@@ -23,7 +23,7 @@ Amaretto.png | Paradigmnomad
 Americano.png | Paradigmnomad
 Angel Face.png | Paradigmnomad
 Apple Schnapps.png | MizuJakkaru
-Atomic Cocktail.png | Paradigmnomad
+Atomic Cocktail.png | Fwippy
 Aviation.png | Paradigmnomad
 Barracuda Cocktail.png | Paradigmnomad
 Basil Cranberry Julep.png
@@ -35,7 +35,7 @@ Bloody Mary.png | Paradigmnomad
 Bourbon.png | MizuJakkaru
 Brandy Alexander.png | Paradigmnomad
 Brandy.png | MizuJakkaru
-Campari.png | MizuJakkaru
+Campari.png | Fwippy
 Cauim.png | MizuJakkaru
 Clover Club.png | Paradigmnomad
 Club Soda.png | Paradigmnomad
@@ -54,7 +54,7 @@ Gin n Tonic.png | Paradigmnomad
 Gin.png | MizuJakkaru
 Green Junimo.png | Paradigmnomad
 Hard Iced Tea.png | Paradigmnomad
-Harlem Mugger Cocktail.png | ???
+Harlem Mugger Cocktail.png | Fwippy
 Hemingway Special.png | Paradigmnomad
 Irish Coffee.png | Paradigmnomad
 Lemon-Lime Soda.png | Paradigmnomad
@@ -74,7 +74,7 @@ Moonshine Cherries.png | Paradigmnomad
 Moonshine.png | Paradigmnomad
 Moscow Mule.png | Paradigmnomad
 Mudslide.png | Paradigmnomad
-Negroni.png | Paradigmnomad
+Negroni.png | Fwippy
 Night on the Beach.png | Paradigmnomad
 Paradise.png | Paradigmnomad
 Peach Schnapps.png | MizuJakkaru
@@ -100,10 +100,10 @@ Seltzer.png | Paradigmnomad
 Shochu.png | MizuJakkaru
 Snakebite.png | Paradigmnomad
 Sparkling Wine.png | Undare
-Spritz Veneziano.png | ???
+Spritz Veneziano.png | Fwippy
 Stardew Sangria.png | Paradigmnomad
 Stout.png | MizuJakkaru
-Sweet Pink Cocktail.png | ???
+Sweet Pink Cocktail.png | Fwippy
 Tequila Sunrise.png | Paradigmnomad
 Tequila.png | MizuJakkaru
 The Last Word.png | Paradigmnomad
@@ -371,6 +371,7 @@ Almond Butter.png | MizuJakkaru
 Apple Rind.png | MizuJakkaru
 Batter.png | Zosa & Hadi
 Brown Sugar.png | MizuJakkaru
+Buckweat Crop.png | Fwippy
 Buckwheat Flour.png | MizuJakkaru
 Buckwheat Noodles.png | MizuJakkaru
 Butter.png | MizuJakkaru
@@ -398,8 +399,8 @@ Goat Butter.png | MizuJakkaru
 Ground Herb.png | MizuJakkaru
 Ground Vegetable.png | MizuJakkaru
 Hazelnut Butter.png | MizuJakkaru
-Lemon Peel.png | MizuJakkaru (Recolor of the Apple Rind)
-Lime Peel.png | MizuJakkaru (Recolor of the Apple Rind)
+Lemon Peel.png | Edited by Fwippy (Original by MizuJakkaru, recolor of the Apple Rind)
+Lime Peel.png | Edited by Fwippy (Original by MizuJakkaru, recolor of the Apple Rind)
 Margarine.png | MizuJakkaru
 Marshmallow Fluff.png | Paradigmnomad
 Matcha Powder.png | MizuJakkaru
@@ -410,7 +411,7 @@ Natto.png | MizuJakkaru
 Nutmeg.png | MizuJakkaru
 Olive Oil Mayonnaise.png
 Olive Oil.png | MizuJakkaru
-Orange Peel.png | MizuJakkaru (Recolor of the Apple Rind)
+Orange Peel.png | Edited by Fwippy (Original by MizuJakkaru, recolor of the Apple Rind)
 Oyster Sauce.png | Paradigmnomad
 Paprika.png | MizuJakkaru
 Peanut Butter.png | MizuJakkaru
@@ -477,16 +478,16 @@ Ghost Pepper Extract.png | Edited by Paradigmnomad (Original by MizuJakkaru)
 Habanero Extract.png | Edited by Paradigmnomad (Original by MizuJakkaru)
 Jalapeno Extract.png | Edited by Paradigmnomad (Original by MizuJakkaru)
 Scotch Bonnet Extract.png | Edited by Paradigmnomad (Original by MizuJakkaru)
-Chambord.png | Unknown Creator 1 (This *might* be Zosa. It was meant to be paired with another pack to avoid conflicts)
+Chambord.png | Fwippy
 Chocolate Liqueur.png | Paradigmnomad
-Cointreau.png | Unknown Creator 1
-Creme de Cacao.png | Unknown Creator 1
-Framboise Lambic.png | Unknown Creator 1 
-Frangelico Sour.png | Unknown Creator 1
-Frangelico.png | Unknown Creator 1
+Cointreau.png | Edited by Fwippy (Original by Zosa)
+Creme de Cacao.png | Fwippy
+Framboise Lambic.png | Fwippy
+Frangelico Sour.png | Fwippy
+Frangelico.png | Edited by Fwippy (Original by Zosa)
 Hard Apple Cider.png | MizuJakkaru
-Lemonado Cocktail.png | Unknown Creator 1
-Poinsettia Cocktail.png | Unknown Creator 1
+Lemonado Cocktail.png | Fwippy
+Poinsettia Cocktail.png | Fwippy
 Whiskey.png | MizuJakkaru
 Fresh Lemonade.png | (Stock Asset: ArtOfTic)
 Fruit Juice.png | Paradigmnomad (Recolor of vanilla wine asset)
